@@ -13,6 +13,8 @@ Everything needed to understand, repeat and extend a batch of **100 vertical Eng
 | `research/*.py` | Collection and analysis tools: `collect.py`, `yt_scan.py`, `yt_pick.py`, `yt_topics.py`, `transcripts.py`, `process*.py`, `build_db.py`, `gen_report.py` |
 | `research/football100/scripts/` | **The 100 video texts**: `NNN.json` (lines of narration `vo`, on-screen `card`, footage search terms, inserts) plus `assign.json` (voice, style, character limit per video) |
 | `docs/SCRIPT_RULES.md` | **Rules for how the texts were written** and how they are checked (`check_scripts.py`) |
+| `docs/DELIVERY_REPORT.md` | What was delivered and which checks passed (100 videos, 761 interludes) |
+| `research/football100/publish/` | YouTube copy (`metadata_v2/NNN.json`: provocative titles, human-style descriptions, tags), published test batch, publishing plan and tooling |
 | `docs/PIPELINE.md` | Methods and step-by-step instructions for the whole pipeline |
 | `research/football100/codex/` | Prompts for the animated interludes (v1 flipbook and v2 24 fps frame-by-frame), per-video plan `v2/plan/NNN.md`, `plan.json` |
 | `research/football100/v2/` | v2 production: Remotion library (`remotion/src`, `DSL.md`), per-video interlude content (`content/NNN.json`), assembler (`assemble.py`), captions, timing, verification |

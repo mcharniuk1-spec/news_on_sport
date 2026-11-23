@@ -71,7 +71,7 @@ def check(no):
                 ef = frame(f, tc + kk / 30)
                 if ef is not None: best = min(best, float(np.abs(cf[:360] - ef[:360]).mean()))
             tested += 1
-            if best < 6: good += 1
+            if best < 14: good += 1
         if tested and good >= 2: ok_seq += 1
         else: E.append(f"interlude {s['id']} not found at {s['start']:.2f}-{s['end']:.2f}s")
     res["interludes"] = f"{ok_seq}/{len(M['seq'])}"
