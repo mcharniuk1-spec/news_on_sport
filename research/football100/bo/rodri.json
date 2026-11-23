@@ -1,0 +1,675 @@
+{
+  "name": "Rodri",
+  "years": [
+    2024
+  ],
+  "research_date": "2026-11-20",
+  "recent_news": [
+    {
+      "date": "2026-08-18",
+      "headline": "Rodri leaves Manchester City and signs for Barcelona until June 2030",
+      "facts": [
+        "Barcelona announced the transfer on 18 Aug 2026 and said Rodri is committed to the club until 30 June 2030; the club player page lists No. 16. The club announcement does not state the fee.",
+        "Reported fee: EUR 60m (ESPN) or EUR 76.5m including EUR 16.5m add-ons (NYT via Wikipedia); Wikipedia's City page gives about GBP 65m.",
+        "Before the deal, outlets said City insisted Rodri was 'not for sale' (Wikipedia summary of press reports)."
+      ],
+      "source_url": "https://www.fcbarcelona.com/en/football/first-team/news/4561501/fc-barcelona-sign-rodrigo-hernandez",
+      "tone": "neutral",
+      "sensitive": false,
+      "source_domain": "fcbarcelona.com",
+      "verification_note": "Date and contract verified on club site (fee not disclosed there; fee from ESPN/Wikipedia). 94 days old but explains every current story."
+    },
+    {
+      "date": "2026-08-19",
+      "headline": "Mourinho: Real Madrid made a very good offer, but Rodri hesitated and Madrid dropped out",
+      "facts": [
+        "Real Madrid coach Jose Mourinho said Madrid offered Rodri a very good deal.",
+        "Rodri's hesitation led Madrid to drop their pursuit before Barcelona closed the deal."
+      ],
+      "source_url": "https://www.theguardian.com/football/2026/aug/19/jose-mourinho-real-madrid-rodri-barcelona-transfer-offer",
+      "tone": "roast",
+      "sensitive": false,
+      "source_domain": "theguardian.com",
+      "verification_note": "Guardian page blocked; Mourinho's remark confirmed on Wikipedia's Rodri page (Mourinho is Real Madrid head coach). Treat as Mourinho's claim, not established fact."
+    },
+    {
+      "date": "2026-08-23",
+      "headline": "Barcelona win 5-0 at Elche with Rodri left out for lack of match rhythm",
+      "facts": [
+        "ESPN says Rodri missed the 5-0 win at Elche because he lacked match rhythm.",
+        "He started training with his new teammates on the Monday and was named on the bench against Athletic.",
+        "Flick called him 'the perfect player for us, the perfect player for our philosophy'."
+      ],
+      "source_url": "https://global.espn.com/football/story/_/id/49746982/rodri-barcelona-debut-hansi-flick-athletic-club-anthony-gordon",
+      "tone": "neutral",
+      "sensitive": false,
+      "source_domain": "global.espn.com",
+      "verification_note": "ESPN confirms Elche was the Sunday match (23 Aug, 5-0) and the match-rhythm reason."
+    },
+    {
+      "date": "2026-08-27",
+      "headline": "Rodri debuts for Barcelona as a 62nd-minute sub in 2-0 win over Athletic: 'I am where I want to be'",
+      "facts": [
+        "He replaced Marc Bernal in the 62nd minute at Spotify Camp Nou (59,326 fans) and got a warm ovation.",
+        "Rodri said it had been a long summer but he was where he wanted to be (club report).",
+        "ESPN quotes Flick: 'He's the perfect player for us' (Flick's words are in ESPN, not the club report); the crowd gave Rodri a warm welcome."
+      ],
+      "source_url": "https://www.fcbarcelona.com/en/football/first-team/news/4567837/rodri-debuts-with-a-win-for-fc-barcelona",
+      "tone": "praise",
+      "sensitive": false,
+      "source_domain": "fcbarcelona.com",
+      "verification_note": "Match 27 Aug 2026 (Thursday), 2-0 v Athletic, 59,326; 62nd-minute sub for Bernal. Rodri quote from club report, Flick quote from ESPN."
+    },
+    {
+      "date": "2026-09-06",
+      "headline": "Rodri booked at Valencia as Barcelona win 5-0 away",
+      "facts": [
+        "Wikipedia match report lists a yellow card for Rodri in the 47th minute at Mestalla.",
+        "Barcelona won 5-0 (Yamal 2, Raphinha, Fermin Lopez, Pedri)."
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_FC_Barcelona_season",
+      "tone": "roast",
+      "sensitive": false,
+      "source_domain": "en.wikipedia.org",
+      "verification_note": "Wikipedia match events: Valencia 0-5 Barcelona on 6 Sep; yellow cards Cubarsi 45+3, Rodri 47, Fermin 65. Single source (Wikipedia). Gabriel Jesus debut claim removed (not supported)."
+    },
+    {
+      "date": "2026-09-08",
+      "headline": "Rodri nominated for the 2026 Ballon d'Or with Yamal and Cubarsi",
+      "facts": [
+        "Barcelona's player page says he was nominated for the Ballon d'Or on 8 Sep 2026, alongside Lamine Yamal and Pau Cubarsi.",
+        "He is the 2024 winner.",
+        "Nominees list had 30 men."
+      ],
+      "source_url": "https://www.fcbarcelona.com/en/football/first-team/players/16286/rodrigo-hernandez-cascante",
+      "tone": "praise",
+      "sensitive": false,
+      "source_domain": "fcbarcelona.com",
+      "verification_note": "30-nominee count from Wikipedia 2026 Ballon d'Or page."
+    },
+    {
+      "date": "2026-10-03",
+      "headline": "Rodri scores in the 35th minute as Spain beat Czech Republic 3-1 in Oviedo",
+      "facts": [
+        "Goals: Yamal 6', Rodri 35', Merino 89' for Spain; Slama 69' for the Czechs.",
+        "Match was Nations League A Group 3, matchday 3, in front of 28,515 at Carlos Tartiere.",
+        "Wikipedia lists him at 74 caps and 5 Spain goals as of 6 Oct 2026."
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Nations_League_A",
+      "tone": "praise",
+      "sensitive": false,
+      "source_domain": "en.wikipedia.org",
+      "verification_note": "UEFA match page (uefa.com/uefanationsleague/match/2047971/) is the cited report but its content did not load."
+    },
+    {
+      "date": "2026-10-17",
+      "headline": "Rodri heads in his first Barcelona goal in a 5-2 win at Real Betis",
+      "facts": [
+        "Header from a corner, assisted by Fermin Lopez, 41st minute.",
+        "It came 51 days after his 27 Aug debut.",
+        "Other scorers: Yamal, Gabriel Jesus, Dani Olmo, Eric Garcia."
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_FC_Barcelona_season",
+      "tone": "praise",
+      "sensitive": false,
+      "source_domain": "en.wikipedia.org",
+      "verification_note": "Two Wikipedia pages agree (Barcelona season, Rodri); no club report found. Yamal's Betis strike was Liga Goal of the Month for October (fcbarcelona.com 9 Nov)."
+    },
+    {
+      "date": "2026-10-25",
+      "headline": "Barcelona lose El Clasico 1-2 at home to Real Madrid",
+      "facts": [
+        "Raphinha (61') scored for Barcelona; Mbappe scored twice for Real Madrid (41', 87'); attendance 62,055.",
+        "It was Barcelona's first league defeat of the season and second straight defeat after a 4-2 loss at PSG in the Champions League on 20 Oct.",
+        "Whether Rodri played is NOT confirmed by any source read."
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_FC_Barcelona_season",
+      "tone": "neutral",
+      "sensitive": false,
+      "source_domain": "en.wikipedia.org",
+      "verification_note": "Team story only; do not attribute the result to Rodri."
+    },
+    {
+      "date": "2026-10-26",
+      "headline": "Rodri finishes 4th in the Ballon d'Or; Harry Kane wins",
+      "facts": [
+        "Ceremony at the London Palladium on 26 Oct 2026; Kane won with 1,055 points, Mbappe 2nd, Yamal 3rd.",
+        "Rodri, the 2024 winner, finished 4th with 726 points, ahead of Messi (612) and Haaland (378).",
+        "Rodri's 4th place and the Kane win are on Wikipedia's 2026 Ballon d'Or page (Messi 5th with 612, Haaland 8th with 378)."
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/2026_Ballon_d%27Or",
+      "tone": "roast",
+      "sensitive": false,
+      "source_domain": "en.wikipedia.org",
+      "verification_note": "Ceremony, winner, Rodri 4th with 726, 30 nominees all confirmed on Wikipedia 2026 Ballon d'Or page. ESPN/Reuters confirmation not checked."
+    },
+    {
+      "date": "2026-11-04",
+      "headline": "Barcelona report a right hamstring injury; Rodri to miss Atletico game",
+      "facts": [
+        "Club player page says Barcelona reported the right hamstring injury on 4 Nov 2026 and that he would miss the Atletico Madrid match.",
+        "No return date is given on that page.",
+        "In 2025-26 at City he also missed two spells with hamstring and groin injuries."
+      ],
+      "source_url": "https://www.fcbarcelona.com/en/football/first-team/players/16286/rodrigo-hernandez-cascante",
+      "tone": "neutral",
+      "sensitive": true,
+      "source_domain": "fcbarcelona.com",
+      "verification_note": "SENSITIVE: injury. News only, never a joke. Current fitness as of 20 Nov is unknown."
+    },
+    {
+      "date": "2026-11-08",
+      "headline": "Barcelona win 2-1 at Atletico with Bernal in midfield and go five points clear",
+      "facts": [
+        "Fermin Lopez scored twice (45+', 67') after Giuliano Simeone's 10th-minute opener; Barcelona top La Liga five points ahead of Atletico.",
+        "Club report says Flick made one change from the Aston Villa side, with Marc Bernal replacing 'the injured Rodr...' (text cut off in the fetch).",
+        "Wikipedia La Liga table: Barcelona 33 pts, Real Madrid 30, Atletico 28 after 12 games."
+      ],
+      "source_url": "https://www.fcbarcelona.com/en/football/first-team/news/4606439/atletico-madrid-1-2-fc-barcelona-comeback-to-stay-top",
+      "tone": "neutral",
+      "sensitive": true,
+      "source_domain": "fcbarcelona.com",
+      "verification_note": "Injury link, so SENSITIVE. Club report names the injured 'Rodr...' replaced by Bernal; almost certainly Rodri given the 4 Nov report. Fermin's second goal 67' (club) / 66' (Wikipedia)."
+    },
+    {
+      "date": "2026-11-09",
+      "headline": "Rodri named in the 2026 FIFPRO World XI with Yamal and Cubarsi",
+      "facts": [
+        "Voted by 19,806 professional players.",
+        "Barcelona list his figures as 41 appearances (33 for Manchester City, 8 at the World Cup) and two goals, both for City.",
+        "He won the World Cup Best Player award with Spain."
+      ],
+      "source_url": "https://www.fcbarcelona.com/en/football/first-team/news/4606953/lamine-yamal-cubarsi-and-rodri-named-in-the-2026-fifpro-world-xi",
+      "tone": "praise",
+      "sensitive": false,
+      "source_domain": "fcbarcelona.com",
+      "verification_note": "Primary club source."
+    },
+    {
+      "date": "2026-11-13",
+      "headline": "ESPN's November top-10 players list leaves Rodri out; Yamal is No. 1",
+      "facts": [
+        "List: 1 Yamal, 2 Bellingham, 3 Olise, 4 Raphinha, 5 Kane, 6 Mbappe, 7 Rice, 8 Haaland, 9 Pedri, 10 Vitinha.",
+        "Rodri appears only in the intro: author Ryan O'Hanlon's Ballon d'Or picks of the past three years were Rodri, Dembele and Kane.",
+        "Three Barcelona players (Yamal, Raphinha, Pedri) are in the top 10."
+      ],
+      "source_url": "https://www.espn.com/soccer/story/_/id/50454088/10-best-ranking-top-soccer-players-november",
+      "tone": "roast",
+      "sensitive": false,
+      "source_domain": "espn.com",
+      "verification_note": "Opinion ranking by one writer; joke about it as 'one list'."
+    },
+    {
+      "date": "2026-11-15",
+      "headline": "Spain lose 2-3 at home to England and finish second in their Nations League group",
+      "facts": [
+        "At the Metropolitano in Madrid: Oyarzabal (pen) and Nico Williams scored for Spain; Kane (pen), Konsa and White for England.",
+        "Spain ended on 15 points, level with England but behind on goal difference, so they face France in the quarter-finals.",
+        "Barcelona's international diary does not mention Rodri for the 12 Nov win in Prague (2-0) or this game, so his role is unknown."
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Nations_League_A",
+      "tone": "neutral",
+      "sensitive": false,
+      "source_domain": "en.wikipedia.org",
+      "verification_note": "Rodri involvement not verified."
+    },
+    {
+      "date": "2026-11-20",
+      "headline": "Nations League quarter-final draw: Spain vs France in March 2027",
+      "facts": [
+        "First legs 25-27 March, second legs 28-30 March 2027, with the Finals on 9-13 June 2027.",
+        "Barcelona's site notes the Spain v France tie includes Jules Kounde on the French side.",
+        "Barcelona host Villarreal on Sunday 22 Nov (14:00 CET, La Liga matchday 13)."
+      ],
+      "source_url": "https://www.fcbarcelona.com/en/football/first-team/news/4611882/double-blaugrana-clash-in-the-nations-league-quarter-finals",
+      "tone": "neutral",
+      "sensitive": false,
+      "source_domain": "fcbarcelona.com",
+      "verification_note": "Club news page dated 20 Nov (draw on Friday 20 Nov); Villarreal match 'this Sunday' 14:00 CET, matchday 13 per club article of 19 Nov. Spain v France confirmed on Wikipedia and club site."
+    },
+    {
+      "date": "2026-11-08",
+      "headline": "Manchester City without Rodri: third in the Premier League under Enzo Maresca",
+      "facts": [
+        "As of 8 Nov, City have 21 points from 10 games, third behind Arsenal (27) and Brighton (22).",
+        "Wikipedia lists Enzo Fernandez (GBP 125m from Chelsea) and Elliot Anderson (GBP 116m from Nottingham Forest) as new midfielders.",
+        "Maresca replaced Pep Guardiola on 29 Jun 2026; Haaland has about 9 league goals."
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Manchester_City_F.C._season",
+      "tone": "roast",
+      "sensitive": false,
+      "source_domain": "en.wikipedia.org",
+      "verification_note": "Wikipedia only; the page does not link these signings to Rodri's exit."
+    }
+  ],
+  "now": {
+    "as_of": "2026-11-20",
+    "club": "FC Barcelona (since 18 Aug 2026), No. 16, head coach Hansi Flick; defensive midfielder, 190 cm / 90 kg.",
+    "contract": "Four years, to 30 June 2030 (club announcement). Fee reported EUR 60m fixed (ESPN) / EUR 76.5m with add-ons (NYT via Wikipedia).",
+    "national_team": "Captain of Spain and 2026 World Cup winner (1-0 v Argentina after extra time on 19 Jul, Ferran Torres goal). Nations League A: Spain 2nd in Group 3 on 15 points; quarter-final v France in March 2027.",
+    "season_numbers": "Wikipedia (as of 8 Nov): 14 Barcelona appearances, 1 goal (the 17 Oct Betis header). La Liga: Barcelona top with 33 pts after 12 games (as of 8 Nov; 11 wins, 1 loss), Real Madrid 30, Atletico 28. Champions League: 5th after 4 games with 9 pts (as of 4 Nov, Wikipedia).",
+    "fitness": "Right hamstring injury reported by the club on 4 Nov; he missed the 8 Nov game at Atletico (club report names an injured 'Rodr...'). No return date found, and the club news page of 20 Nov has no update on him; whether he plays Villarreal on 22 Nov is a GAP. Treat as sensitive.",
+    "what_people_say": "Flick: 'the perfect player for us'. Mourinho: Madrid made a very good offer but Rodri hesitated. 2026 Ballon d'Or: 4th (726 pts) behind Kane, Mbappe, Yamal. FIFPRO World XI 2026. Not in ESPN's top 10 of November.",
+    "next": "Barcelona v Villarreal, Sunday 22 Nov 2026, 14:00 CET, Spotify Camp Nou (La Liga matchday 13). Villarreal is the club where Rodri made his first-team debut in Dec 2015 (reserves Feb 2015); Villarreal are 8th.",
+    "former_club_context": "Manchester City now coached by Enzo Maresca (appointed 29 Jun 2026 after Guardiola); City 3rd in the Premier League as of 8 Nov.",
+    "caveat": "Guardian, BBC, Reuters, Sky, Transfermarkt and NYT could not be read; items rest on club sites, ESPN and Wikipedia pages that cite them. Adversarial re-check on 20 Nov 2026 re-read the club, ESPN and Wikipedia sources; web search was unavailable in that pass."
+  },
+  "quick_context": [
+    "Rodri won the 2024 Ballon d'Or with Manchester City, the first City player to do so; Wikipedia calls him the first defensive midfielder to win since Lothar Matthaeus in 1990.",
+    "He scored the only goal of the 2023 Champions League final against Inter and was named Player of the Tournament at Euro 2024.",
+    "In 2026 he captained Spain to the World Cup and won the Golden Ball after completing 747 of 799 passes (93%), a tournament record since 1966 records began."
+  ],
+  "roast_past": [
+    {
+      "angle": "Ballon d'Or winner with no social media: told Joe Hart (BBC podcast, Sept 2024) he skipped it as a child to hang out at the park and in his village.",
+      "source_url": "https://onefootball.com/en/news/rodri-reveals-why-he-does-not-have-social-media-as-manchester-city-star-chases-ballon-dor-40020119"
+    },
+    {
+      "angle": "Used to carry his bike on the train to Villarreal B training; now the Ballon d'Or trophy needs a bigger bag.",
+      "source_url": "https://www.fcbarcelona.com/en/football/first-team/news/4561492/10-things-about-rodri/featured"
+    },
+    {
+      "angle": "Took six years to finish a business degree while already playing for Manchester City; 'business admin' meets a EUR 76m transfer.",
+      "source_url": "https://www.fcbarcelona.com/en/football/first-team/news/4561492/10-things-about-rodri/featured"
+    },
+    {
+      "angle": "Sent off on 23 Sep 2023 against Nottingham Forest for lashing out at Morgan Gibbs-White, and City then lost three games without him.",
+      "source_url": "https://en.wikipedia.org/wiki/Rodri"
+    },
+    {
+      "angle": "2022 World Cup: Luis Enrique played the midfielder at centre-back for all four Spain games after he studied Pique and Puyol footage.",
+      "source_url": "https://www.fcbarcelona.com/en/football/first-team/news/4561492/10-things-about-rodri/featured"
+    },
+    {
+      "angle": "Scored the 2023 Champions League final winner and only 2 goals in 33 appearances in 2025-26; goals arrive in rare, big batches.",
+      "source_url": "https://en.wikipedia.org/wiki/Rodri"
+    },
+    {
+      "angle": "2026 World Cup: Golden Ball winner with 0 goals and 0 assists in 8 starts; the award for walking and passing (96 km, most of anyone).",
+      "source_url": "https://en.wikipedia.org/wiki/Rodri"
+    }
+  ],
+  "roast_now": [
+    {
+      "angle": "City reportedly kept saying he was 'not for sale', then sold him to Barcelona on 18 Aug 2026.",
+      "source_url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Manchester_City_F.C._season"
+    },
+    {
+      "angle": "Hesitated so long over the move that Real Madrid walked away, per Mourinho (the rival coach). Deliberation as a sport.",
+      "source_url": "https://www.theguardian.com/football/2026/aug/19/jose-mourinho-real-madrid-rodri-barcelona-transfer-offer"
+    },
+    {
+      "angle": "First Barcelona goal took 51 days after his debut; he was left out at Elche for 'lack of match rhythm' first.",
+      "source_url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_FC_Barcelona_season"
+    },
+    {
+      "angle": "Two years after winning the Ballon d'Or he finished 4th, behind Kane, Mbappe and his new teammate Yamal.",
+      "source_url": "https://en.wikipedia.org/wiki/2026_Ballon_d%27Or"
+    },
+    {
+      "angle": "Under three weeks after 4th place, ESPN's top-10 list for November has three Barcelona players and not Rodri.",
+      "source_url": "https://www.espn.com/soccer/story/_/id/50454088/10-best-ranking-top-soccer-players-november"
+    },
+    {
+      "angle": "City added Enzo Fernandez and Elliot Anderson after his exit and sit 3rd in the Premier League; tease City, not Rodri, and only if confirmed.",
+      "source_url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Manchester_City_F.C._season"
+    }
+  ],
+  "praise": [
+    {
+      "angle": "2026 World Cup Golden Ball: captain, started all 8 games, 747 of 799 passes (93%), 101 passes in the final, a 1-0 win over Argentina.",
+      "source_url": "https://en.wikipedia.org/wiki/Rodri"
+    },
+    {
+      "angle": "2024 Ballon d'Or: first Manchester City winner, first defensive midfielder since Matthaeus (1990), ahead of Vinicius and Bellingham.",
+      "source_url": "https://en.wikipedia.org/wiki/Rodri"
+    },
+    {
+      "angle": "Named in the 2026 FIFPRO World XI by 19,806 professional players.",
+      "source_url": "https://www.fcbarcelona.com/en/football/first-team/news/4606953/lamine-yamal-cubarsi-and-rodri-named-in-the-2026-fifpro-world-xi"
+    },
+    {
+      "angle": "Flick called him 'the perfect player for us' after the debut; Barcelona top La Liga.",
+      "source_url": "https://global.espn.com/football/story/_/id/49746982/rodri-barcelona-debut-hansi-flick-athletic-club-anthony-gordon"
+    },
+    {
+      "angle": "Scored the only goal of the 2023 Champions League final against Inter and won the 2025-26 FA Cup and EFL Cup with City.",
+      "source_url": "https://en.wikipedia.org/wiki/Rodri"
+    },
+    {
+      "angle": "Covered 96,233 m at the 2026 World Cup, more than any other player, and led the tournament in touches (910).",
+      "source_url": "https://en.wikipedia.org/wiki/Rodri"
+    }
+  ],
+  "no_joke_topics": [
+    "Injuries of any kind: ACL and meniscus (Sept 2024), 2025-26 hamstring and groin, and the right hamstring injury of Nov 2026.",
+    "Health, fitness and 'is he fit for Villarreal' speculation.",
+    "Family, partner and relationship (a girlfriend named in Wikipedia's personal-life section).",
+    "Religion (he is Roman Catholic and talks about God after finals).",
+    "The Euro 2024 'Gibraltar is Spanish' chant and the UEFA ban: political and disciplinary, not for jokes.",
+    "Violence at the end of the World Cup final (Argentina's Nahuel Molina struck him; FIFA banned players) and FIFA/US politics at the trophy ceremony.",
+    "Doping, legal troubles, war: nothing found about Rodri; do not invent any.",
+    "Do not blame him for team results where his involvement is not confirmed (El Clasico 25 Oct, Spain 2-3 England 15 Nov)."
+  ],
+  "viral_moments": [
+    {
+      "moment": "Barcelona debut interview, 27 Aug 2026: 'It's been a long summer but I am where I want to be'.",
+      "why": "Funny against the Real Madrid/Mourinho hesitation story and a strong clean sound-bite.",
+      "url": "https://www.youtube.com/results?search_query=Rodri+Barcelona+debut+interview+I+am+where+I+want+to+be",
+      "timestamp": "unknown",
+      "verified": "Quote verified (fcbarcelona.com); video link is a YouTube search URL, not a verified video ID."
+    },
+    {
+      "moment": "2026 World Cup trophy lift as Spain captain and Golden Ball ceremony, 19 Jul 2026.",
+      "why": "Peak praise visual; contrast with the 4th place in the Ballon d'Or.",
+      "url": "https://www.youtube.com/results?search_query=Rodri+World+Cup+2026+trophy+lift+Golden+Ball",
+      "timestamp": "unknown",
+      "verified": "Event verified (Wikipedia); video link not verified."
+    },
+    {
+      "moment": "BBC Football Daily with Joe Hart, Sep 2024: why he never joined social media.",
+      "why": "Ballon d'Or winner with no followers; easy teasing.",
+      "url": "https://www.youtube.com/results?search_query=Rodri+Joe+Hart+social+media+BBC+Football+Daily",
+      "timestamp": "unknown",
+      "verified": "Interview verified (OneFootball summary); video link not verified."
+    },
+    {
+      "moment": "2024 Ballon d'Or ceremony win and speech (28 Oct 2024).",
+      "why": "Classic context for the 'then and now' gag: winner in 2024, 4th in 2026.",
+      "url": "https://www.youtube.com/results?search_query=Rodri+Ballon+d'Or+2024+acceptance+speech",
+      "timestamp": "unknown",
+      "verified": "Win verified (Wikipedia/UEFA); video link not verified."
+    }
+  ],
+  "footage_terms": [
+    {
+      "term": "Rodri Barcelona debut vs Athletic Club highlights 2026",
+      "watermark_risk": "high (broadcaster logos)"
+    },
+    {
+      "term": "Rodri goal Real Betis Barcelona header 2026",
+      "watermark_risk": "high"
+    },
+    {
+      "term": "Rodri goal Spain Czech Republic Oviedo Nations League",
+      "watermark_risk": "medium"
+    },
+    {
+      "term": "Spain World Cup 2026 final Argentina highlights Rodri captain",
+      "watermark_risk": "high (FIFA/broadcaster logos)"
+    },
+    {
+      "term": "Rodri World Cup 2026 trophy lift celebration",
+      "watermark_risk": "medium"
+    },
+    {
+      "term": "Rodri Barcelona training session Flick",
+      "watermark_risk": "low (club content, may carry club logo)"
+    },
+    {
+      "term": "Rodri press conference Barcelona presentation",
+      "watermark_risk": "low to medium"
+    },
+    {
+      "term": "Rodri Ballon d'Or 2024 speech Paris",
+      "watermark_risk": "medium (burned-in subtitles in some uploads)"
+    },
+    {
+      "term": "Rodri Manchester City best passes midfield compilation",
+      "watermark_risk": "high (fan edits with text and music)"
+    }
+  ],
+  "flipbook_ideas": [
+    {
+      "idea": "Rodri cycling to the Camp Nou with a bike on a train, Ballon d'Or in the basket (2 s).",
+      "news_link": "Villarreal-era bike-and-train fact; Barcelona move"
+    },
+    {
+      "idea": "A tiny 'NOT FOR SALE' sticker peeled off a City shirt and stuck on a Barcelona shirt (2 s).",
+      "news_link": "2026-08-18 transfer"
+    },
+    {
+      "idea": "Rodri holding a long receipt: '799 passes' with 52 crossed out and '747' highlighted, trophy on top (2 s).",
+      "news_link": "World Cup 2026 Golden Ball stats"
+    },
+    {
+      "idea": "Rodri scoring with his head, with a tiny calendar page '51 days' flipping above him (2 s).",
+      "news_link": "2026-10-17 first Barcelona goal"
+    },
+    {
+      "idea": "Ballon d'Or podium: Kane, Mbappe, Yamal tall; Rodri's cartoon on the fourth, shorter step holding a trophy-shaped 'thank you' flag (2 s).",
+      "news_link": "2026-10-26 Ballon d'Or"
+    },
+    {
+      "idea": "Rodri looking at a phone showing '0 followers' while a pedometer shows 96 km (2 s).",
+      "news_link": "No social media quirk, World Cup distance record"
+    }
+  ],
+  "image_reference_notes": {
+    "verified_from_sources": [
+      "Height 190 cm, weight 90 kg (Barcelona player page).",
+      "Barcelona home kit: blaugrana stripes with No. 16; Spain kit: red; former Manchester City: sky blue (general public knowledge, not source-checked).",
+      "Photo caption on Wikipedia: Rodri kisses the World Cup trophy as Spain captain."
+    ],
+    "unverified_general_knowledge": [
+      "Short dark hair, usually neat, with light stubble; no long beard (not confirmed against a post-August 2026 photo in this run).",
+      "Calm, serious face under pressure; broad smile only after big wins; head held straight when receiving the ball.",
+      "Signature pose: standing upright, arms spread slightly for balance while scanning the field (caricature the 'pass tally' pose rather than a dance)."
+    ],
+    "gap": "No current photo was fetched in this run; check a recent Barcelona matchday image before final art."
+  },
+  "claims": [
+    {
+      "claim": "[2026-08-18] Rodri leaves Manchester City and signs for Barcelona until June 2030 (Barcelona announced the transfer on 18 Aug 2026 and said Rodri is committed to the club until 30 June 2030; the club player page lists No. 16. The club announcement does not state the fee.; Reported fee: EUR 60m (ESPN) or EUR 76.5m including EUR 16.5m add-ons (NYT via Wikipedia); Wikipedia's City page gives about GBP 65m.; Before the deal, outlets said City insisted Rodri was 'not for sale' (Wikipedia summary of press reports).)",
+      "source_url": "https://www.fcbarcelona.com/en/football/first-team/news/4561501/fc-barcelona-sign-rodrigo-hernandez",
+      "confidence": "high"
+    },
+    {
+      "claim": "[2026-08-19] Mourinho: Real Madrid made a very good offer, but Rodri hesitated and Madrid dropped out (Real Madrid coach Jose Mourinho said Madrid offered Rodri a very good deal.; Rodri's hesitation led Madrid to drop their pursuit before Barcelona closed the deal.)",
+      "source_url": "https://www.theguardian.com/football/2026/aug/19/jose-mourinho-real-madrid-rodri-barcelona-transfer-offer",
+      "confidence": "medium"
+    },
+    {
+      "claim": "[2026-08-23] Barcelona win 5-0 at Elche with Rodri left out for lack of match rhythm (ESPN says Rodri missed the 5-0 win at Elche because he lacked match rhythm.; He started training with his new teammates on the Monday and was named on the bench against Athletic.; Flick called him 'the perfect player for us, the perfect player for our philosophy'.)",
+      "source_url": "https://global.espn.com/football/story/_/id/49746982/rodri-barcelona-debut-hansi-flick-athletic-club-anthony-gordon",
+      "confidence": "medium"
+    },
+    {
+      "claim": "[2026-08-27] Rodri debuts for Barcelona as a 62nd-minute sub in 2-0 win over Athletic: 'I am where I want to be' (He replaced Marc Bernal in the 62nd minute at Spotify Camp Nou (59,326 fans) and got a warm ovation.; Rodri said it had been a long summer but he was where he wanted to be (club report).; ESPN quotes Flick: 'He's the perfect player for us' (Flick's words are in ESPN, not the club report); the crowd gave Rodri a warm welcome.)",
+      "source_url": "https://www.fcbarcelona.com/en/football/first-team/news/4567837/rodri-debuts-with-a-win-for-fc-barcelona",
+      "confidence": "high"
+    },
+    {
+      "claim": "[2026-09-06] Rodri booked at Valencia as Barcelona win 5-0 away (Wikipedia match report lists a yellow card for Rodri in the 47th minute at Mestalla.; Barcelona won 5-0 (Yamal 2, Raphinha, Fermin Lopez, Pedri).)",
+      "source_url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_FC_Barcelona_season",
+      "confidence": "medium"
+    },
+    {
+      "claim": "[2026-09-08] Rodri nominated for the 2026 Ballon d'Or with Yamal and Cubarsi (Barcelona's player page says he was nominated for the Ballon d'Or on 8 Sep 2026, alongside Lamine Yamal and Pau Cubarsi.; He is the 2024 winner.; Nominees list had 30 men.)",
+      "source_url": "https://www.fcbarcelona.com/en/football/first-team/players/16286/rodrigo-hernandez-cascante",
+      "confidence": "medium"
+    },
+    {
+      "claim": "[2026-10-03] Rodri scores in the 35th minute as Spain beat Czech Republic 3-1 in Oviedo (Goals: Yamal 6', Rodri 35', Merino 89' for Spain; Slama 69' for the Czechs.; Match was Nations League A Group 3, matchday 3, in front of 28,515 at Carlos Tartiere.; Wikipedia lists him at 74 caps and 5 Spain goals as of 6 Oct 2026.)",
+      "source_url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Nations_League_A",
+      "confidence": "medium"
+    },
+    {
+      "claim": "[2026-10-17] Rodri heads in his first Barcelona goal in a 5-2 win at Real Betis (Header from a corner, assisted by Fermin Lopez, 41st minute.; It came 51 days after his 27 Aug debut.; Other scorers: Yamal, Gabriel Jesus, Dani Olmo, Eric Garcia.)",
+      "source_url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_FC_Barcelona_season",
+      "confidence": "medium"
+    },
+    {
+      "claim": "[2026-10-25] Barcelona lose El Clasico 1-2 at home to Real Madrid (Raphinha (61') scored for Barcelona; Mbappe scored twice for Real Madrid (41', 87'); attendance 62,055.; It was Barcelona's first league defeat of the season and second straight defeat after a 4-2 loss at PSG in the Champions League on 20 Oct.; Whether Rodri played is NOT confirmed by any source read.)",
+      "source_url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_FC_Barcelona_season",
+      "confidence": "medium"
+    },
+    {
+      "claim": "[2026-10-26] Rodri finishes 4th in the Ballon d'Or; Harry Kane wins (Ceremony at the London Palladium on 26 Oct 2026; Kane won with 1,055 points, Mbappe 2nd, Yamal 3rd.; Rodri, the 2024 winner, finished 4th with 726 points, ahead of Messi (612) and Haaland (378).; Rodri's 4th place and the Kane win are on Wikipedia's 2026 Ballon d'Or page (Messi 5th with 612, Haaland 8th with 378).)",
+      "source_url": "https://en.wikipedia.org/wiki/2026_Ballon_d%27Or",
+      "confidence": "medium"
+    },
+    {
+      "claim": "[2026-11-04] Barcelona report a right hamstring injury; Rodri to miss Atletico game (Club player page says Barcelona reported the right hamstring injury on 4 Nov 2026 and that he would miss the Atletico Madrid match.; No return date is given on that page.; In 2025-26 at City he also missed two spells with hamstring and groin injuries.)",
+      "source_url": "https://www.fcbarcelona.com/en/football/first-team/players/16286/rodrigo-hernandez-cascante",
+      "confidence": "medium"
+    },
+    {
+      "claim": "[2026-11-08] Barcelona win 2-1 at Atletico with Bernal in midfield and go five points clear (Fermin Lopez scored twice (45+', 67') after Giuliano Simeone's 10th-minute opener; Barcelona top La Liga five points ahead of Atletico.; Club report says Flick made one change from the Aston Villa side, with Marc Bernal replacing 'the injured Rodr...' (text cut off in the fetch).; Wikipedia La Liga table: Barcelona 33 pts, Real Madrid 30, Atletico 28 after 12 games.)",
+      "source_url": "https://www.fcbarcelona.com/en/football/first-team/news/4606439/atletico-madrid-1-2-fc-barcelona-comeback-to-stay-top",
+      "confidence": "medium"
+    },
+    {
+      "claim": "[2026-11-09] Rodri named in the 2026 FIFPRO World XI with Yamal and Cubarsi (Voted by 19,806 professional players.; Barcelona list his figures as 41 appearances (33 for Manchester City, 8 at the World Cup) and two goals, both for City.; He won the World Cup Best Player award with Spain.)",
+      "source_url": "https://www.fcbarcelona.com/en/football/first-team/news/4606953/lamine-yamal-cubarsi-and-rodri-named-in-the-2026-fifpro-world-xi",
+      "confidence": "high"
+    },
+    {
+      "claim": "[2026-11-13] ESPN's November top-10 players list leaves Rodri out; Yamal is No. 1 (List: 1 Yamal, 2 Bellingham, 3 Olise, 4 Raphinha, 5 Kane, 6 Mbappe, 7 Rice, 8 Haaland, 9 Pedri, 10 Vitinha.; Rodri appears only in the intro: author Ryan O'Hanlon's Ballon d'Or picks of the past three years were Rodri, Dembele and Kane.; Three Barcelona players (Yamal, Raphinha, Pedri) are in the top 10.)",
+      "source_url": "https://www.espn.com/soccer/story/_/id/50454088/10-best-ranking-top-soccer-players-november",
+      "confidence": "high"
+    },
+    {
+      "claim": "[2026-11-15] Spain lose 2-3 at home to England and finish second in their Nations League group (At the Metropolitano in Madrid: Oyarzabal (pen) and Nico Williams scored for Spain; Kane (pen), Konsa and White for England.; Spain ended on 15 points, level with England but behind on goal difference, so they face France in the quarter-finals.; Barcelona's international diary does not mention Rodri for the 12 Nov win in Prague (2-0) or this game, so his role is unknown.)",
+      "source_url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Nations_League_A",
+      "confidence": "medium"
+    },
+    {
+      "claim": "[2026-11-20] Nations League quarter-final draw: Spain vs France in March 2027 (First legs 25-27 March, second legs 28-30 March 2027, with the Finals on 9-13 June 2027.; Barcelona's site notes the Spain v France tie includes Jules Kounde on the French side.; Barcelona host Villarreal on Sunday 22 Nov (14:00 CET, La Liga matchday 13).)",
+      "source_url": "https://www.fcbarcelona.com/en/football/first-team/news/4611882/double-blaugrana-clash-in-the-nations-league-quarter-finals",
+      "confidence": "high"
+    },
+    {
+      "claim": "[2026-11-08] Manchester City without Rodri: third in the Premier League under Enzo Maresca (As of 8 Nov, City have 21 points from 10 games, third behind Arsenal (27) and Brighton (22).; Wikipedia lists Enzo Fernandez (GBP 125m from Chelsea) and Elliot Anderson (GBP 116m from Nottingham Forest) as new midfielders.; Maresca replaced Pep Guardiola on 29 Jun 2026; Haaland has about 9 league goals.)",
+      "source_url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Manchester_City_F.C._season",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Rodri won the 2024 Ballon d'Or ahead of Vinicius and Bellingham; first City winner; first defensive midfielder since Matthaeus 1990.",
+      "source_url": "https://en.wikipedia.org/wiki/Rodri",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Rodri was injured on 22 Sep 2024 (ACL and meniscus) and returned 20 May 2025 (sensitive background).",
+      "source_url": "https://en.wikipedia.org/wiki/Rodri",
+      "confidence": "medium"
+    },
+    {
+      "claim": "In 2025-26 at City Rodri made 33 appearances and scored 2 goals (PL 21/1, FA Cup 4/1, EFL Cup 3/0, UCL 5/0) and missed two spells with hamstring and groin injuries.",
+      "source_url": "https://en.wikipedia.org/wiki/Rodri",
+      "confidence": "medium"
+    },
+    {
+      "claim": "City won the 2025-26 FA Cup and EFL Cup.",
+      "source_url": "https://en.wikipedia.org/wiki/Rodri",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Spain beat Argentina 1-0 after extra time on 19 Jul 2026 (Ferran Torres 106') at MetLife Stadium; Rodri captained and was substituted in the 99th minute.",
+      "source_url": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_final",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Rodri won the Golden Ball, completed 747 of 799 passes (93%), 101 passes in the final, covered 96,233.71 m, led the tournament in touches (910).",
+      "source_url": "https://en.wikipedia.org/wiki/Rodri",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Rodri scored 0 goals and gave 0 assists at the 2026 World Cup while starting all 8 games.",
+      "source_url": "https://en.wikipedia.org/wiki/Rodri",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Born 22 Jun 1996 in Madrid; he carried his bike on the train to Villarreal B training; per the club he took six years to finish a business degree (Wikipedia says he studied business administration at Jaume I University while at Villarreal); he scored the only goal in the 2023 CL final vs Inter.",
+      "source_url": "https://www.fcbarcelona.com/en/football/first-team/news/4561492/10-things-about-rodri/featured",
+      "confidence": "high"
+    },
+    {
+      "claim": "Luis Enrique used Rodri at centre-back in Spain's 2022 World Cup games (club article says all four; Wikipedia says 'occasionally' as ball-playing centre-back).",
+      "source_url": "https://www.fcbarcelona.com/en/football/first-team/news/4561492/10-things-about-rodri/featured",
+      "confidence": "medium"
+    },
+    {
+      "claim": "On 23 Sep 2023 he was sent off v Nottingham Forest and City lost three games without him.",
+      "source_url": "https://en.wikipedia.org/wiki/Rodri",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Rodri said in a Sep 2024 BBC Football Daily interview with Joe Hart that he avoided social media since childhood.",
+      "source_url": "https://onefootball.com/en/news/rodri-reveals-why-he-does-not-have-social-media-as-manchester-city-star-chases-ballon-dor-40020119",
+      "confidence": "high"
+    },
+    {
+      "claim": "Guardiola called Rodri 'the best midfield player, currently, in the world by far' in March 2024.",
+      "source_url": "https://en.wikipedia.org/wiki/Rodri",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Maresca was appointed City manager on 29 Jun 2026; City lost the Community Shield 0-3 to Arsenal on 16 Aug.",
+      "source_url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Manchester_City_F.C._season",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Barcelona: La Liga table as of 8 Nov: Barcelona 33, Real Madrid 30, Atletico 28 (after 12 games).",
+      "source_url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_La_Liga",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Barcelona beat Aston Villa 3-0 on 3 Nov and lost 4-2 at PSG on 20 Oct, both Champions League league-phase games (Barcelona 5th with 9 pts after 4 games as of 4 Nov).",
+      "source_url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_FC_Barcelona_season",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Barcelona v Villarreal on Sunday 22 Nov at Camp Nou, kick-off 14:00 CET; Villarreal 8th in La Liga.",
+      "source_url": "https://www.fcbarcelona.com/en/football/first-team/news/4610816/villarreal-a-traditionally-difficult-opponent",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Rodri debuted for Villarreal in 2015.",
+      "source_url": "https://www.fcbarcelona.com/en/football/first-team/news/4561492/10-things-about-rodri/featured",
+      "confidence": "high"
+    },
+    {
+      "claim": "Euro 2024: UEFA charged Rodri over the Gibraltar chant and he got a one-match ban (sensitive; not for jokes).",
+      "source_url": "https://en.wikipedia.org/wiki/Rodri",
+      "confidence": "medium"
+    },
+    {
+      "claim": "After the 2026 World Cup final Nahuel Molina was seen striking Rodri in the stomach as he ran to celebrate; FIFA banned Molina for 7 matches on 21 Aug (sensitive; not for jokes).",
+      "source_url": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_final",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Rodri said after Euro 2024: 'In life and in sport, when you do things right, in the end, God rewards you for it', and made a similar statement after the 2026 World Cup (religion; not for jokes).",
+      "source_url": "https://en.wikipedia.org/wiki/Rodri",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Viral moment (event only; video ID not verified): Barcelona debut interview, 27 Aug 2026: 'It's been a long summer but I am where I want to be'.",
+      "source_url": "https://www.youtube.com/results?search_query=Rodri+Barcelona+debut+interview+I+am+where+I+want+to+be",
+      "confidence": "low"
+    },
+    {
+      "claim": "Viral moment (event only; video ID not verified): 2026 World Cup trophy lift as Spain captain and Golden Ball ceremony, 19 Jul 2026.",
+      "source_url": "https://www.youtube.com/results?search_query=Rodri+World+Cup+2026+trophy+lift+Golden+Ball",
+      "confidence": "low"
+    },
+    {
+      "claim": "Viral moment (event only; video ID not verified): BBC Football Daily with Joe Hart, Sep 2024: why he never joined social media.",
+      "source_url": "https://www.youtube.com/results?search_query=Rodri+Joe+Hart+social+media+BBC+Football+Daily",
+      "confidence": "low"
+    },
+    {
+      "claim": "Viral moment (event only; video ID not verified): 2024 Ballon d'Or ceremony win and speech (28 Oct 2024).",
+      "source_url": "https://www.youtube.com/results?search_query=Rodri+Ballon+d'Or+2024+acceptance+speech",
+      "confidence": "low"
+    }
+  ],
+  "notes": "17 recent_news items (15 dated within 90 days of 2026-11-20; two older Aug 18-19 items kept because they explain the current Barcelona story). Web search budget was exhausted before any search ran; research used direct page fetches (FC Barcelona official site, ESPN, OneFootball, Wikipedia). BBC, Guardian, Reuters, Sky, Transfermarkt, NYT were not fetchable. Rodri's involvement in the 25 Oct Clasico, the 12 and 15 Nov Spain games and his Villarreal availability are unverified. 13 claims flagged low or unverified. Adversarial check 20 Nov 2026: see 'verification'.",
+  "verification": {
+    "checked": 54,
+    "corrected": 8,
+    "removed": 5,
+    "notes": "Re-read club (fcbarcelona.com), ESPN, Wikipedia (Rodri, Barcelona/City seasons, La Liga, Premier League, Champions League, Nations League A, Ballon d'Or, WC final) on 20 Nov 2026; web search was unavailable, Guardian blocked. Confirmed: Barcelona since 18 Aug 2026 to 30 Jun 2030, No. 16; fee EUR 60m + 16.5m add-ons; debut 27 Aug; Betis goal 17 Oct; Ballon d'Or 4th (726); FIFPRO XI; hamstring injury 4 Nov; City 3rd with 21 pts after 10; La Liga 33/30/28; Spain 2-3 England 15 Nov; WC final 1-0 (Torres 106'), Golden Ball stats; 2025-26 City 33 apps/2 goals; FA Cup and EFL Cup. Corrected: fee/No.16 attribution, Elche bench wording, Flick quote source, Clasico scorers/PSG competition, season numbers (removed impossible '11 league apps'), Villarreal debut wording, defensive-midfielder hedge, PSG/Villa competition (Champions League). Removed: NYT 24 Jul line, Gabriel Jesus 'debut' at Valencia, 'nominated as WC winner' phrase, unsourced ESPN 28 Oct confirmation, hair/beard claim. Still weak: Mourinho quote (Guardian unread, only Wikipedia), Rodri's involvement in Clasico/Spain games, Villarreal availability, business degree length (club 6 years vs Wikipedia 4)."
+  }
+}

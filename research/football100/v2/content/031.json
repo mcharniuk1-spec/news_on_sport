@@ -1,0 +1,541 @@
+{
+ "no": 31,
+ "style": "FLAT-POP",
+ "prop": "clock",
+ "cast": {
+  "boss": {
+   "role": "boss",
+   "shirt": "#7a4a9a",
+   "hair": "#2b2b3a"
+  },
+  "nuno": {
+   "role": "coach",
+   "shirt": "#3c5a8a",
+   "hair": "#2b2b3a",
+   "skin": "#c98a56"
+  },
+  "parker": {
+   "role": "coach",
+   "shirt": "#3c5a8a",
+   "hair": "#2b2b3a",
+   "skin": "#c98a56"
+  },
+  "keeper": {
+   "role": "keeper",
+   "number": "1",
+   "shirt": "#2fb0a0"
+  }
+ },
+ "sequences": {
+  "s01": {
+   "type": "HOOK",
+   "q": "How long does West Ham's patience last?",
+   "prop": "hourglass",
+   "emote": "sweat",
+   "board": "typed",
+   "role": "boss"
+  },
+  "s02": {
+   "type": "COMIC",
+   "bg": "office",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "boss",
+       "x": 300,
+       "y": 1440,
+       "pose": "present",
+       "emote": "smug",
+       "scale": 1.4
+      },
+      {
+       "id": "nuno",
+       "x": 800,
+       "y": 1440,
+       "pose": "hold",
+       "emote": "neutral",
+       "scale": 1.3,
+       "flip": true,
+       "label": "Nuno sacked"
+      }
+     ],
+     "props": [
+      {
+       "kind": "desk",
+       "x": 560,
+       "y": 1330,
+       "scale": 2.6
+      },
+      {
+       "kind": "sticker",
+       "x": 560,
+       "y": 1160,
+       "scale": 1.0,
+       "text": "13"
+      },
+      {
+       "kind": "clock",
+       "x": 470,
+       "y": 480,
+       "scale": 1.9
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.42,
+     "actors": [
+      {
+       "id": "boss",
+       "x": 300,
+       "y": 1440,
+       "pose": "dance",
+       "emote": "happy",
+       "scale": 1.4
+      },
+      {
+       "id": "nuno",
+       "x": 800,
+       "y": 1440,
+       "pose": "hold",
+       "emote": "neutral",
+       "scale": 1.3,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "desk",
+       "x": 560,
+       "y": 1330,
+       "scale": 2.6
+      },
+      {
+       "kind": "sticker",
+       "x": 560,
+       "y": 1160,
+       "scale": 1.0,
+       "text": "13"
+      },
+      {
+       "kind": "clock",
+       "x": 470,
+       "y": 480,
+       "scale": 1.9
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.42,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "boss",
+       "x": 300,
+       "y": 1440,
+       "pose": "jump",
+       "emote": "happy",
+       "scale": 1.4
+      },
+      {
+       "id": "parker",
+       "x": 800,
+       "y": 1440,
+       "pose": "hold",
+       "emote": "neutral",
+       "scale": 1.3,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "desk",
+       "x": 560,
+       "y": 1330,
+       "scale": 2.6
+      },
+      {
+       "kind": "sticker",
+       "x": 560,
+       "y": 1160,
+       "scale": 1.0,
+       "text": "13"
+      },
+      {
+       "kind": "clock",
+       "x": 470,
+       "y": 480,
+       "scale": 1.9
+      }
+     ],
+     "fx": [
+      {
+       "kind": "sparkle",
+       "x": 800,
+       "y": 1000
+      }
+     ]
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "boss",
+       "x": 300,
+       "y": 1440,
+       "pose": "thumbsup",
+       "emote": "wink",
+       "scale": 1.4
+      },
+      {
+       "id": "parker",
+       "x": 800,
+       "y": 1440,
+       "pose": "wave",
+       "emote": "happy",
+       "scale": 1.3,
+       "flip": true,
+       "label": "Parker returns"
+      }
+     ],
+     "props": [
+      {
+       "kind": "desk",
+       "x": 560,
+       "y": 1330,
+       "scale": 2.6
+      },
+      {
+       "kind": "sticker",
+       "x": 560,
+       "y": 1160,
+       "scale": 1.0,
+       "text": "46"
+      },
+      {
+       "kind": "clock",
+       "x": 470,
+       "y": 480,
+       "scale": 1.9
+      }
+     ],
+     "sfx": {
+      "text": "DING",
+      "x": 200,
+      "y": 450,
+      "r": 100
+     }
+    }
+   ]
+  },
+  "s03": {
+   "type": "COMIC",
+   "bg": "stadium",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "keeper",
+       "x": 270,
+       "y": 1440,
+       "pose": "shock",
+       "emote": "sweat",
+       "scale": 1.35,
+       "hold": {
+        "kind": "bucket",
+        "hand": "R",
+        "scale": 1.0
+       }
+      }
+     ],
+     "props": [
+      {
+       "kind": "goal",
+       "x": 760,
+       "y": 980,
+       "scale": 3.6
+      },
+      {
+       "kind": "scoreboard",
+       "x": 230,
+       "y": 540,
+       "scale": 1.6,
+       "text": "0:3",
+       "face": "sleepy"
+      },
+      {
+       "kind": "sticker",
+       "x": 500,
+       "y": 560,
+       "scale": 1.1,
+       "text": "39"
+      },
+      {
+       "kind": "clock",
+       "x": 780,
+       "y": 540,
+       "scale": 1.8
+      },
+      {
+       "kind": "ball",
+       "x": 650,
+       "y": 1120,
+       "scale": 0.9
+      },
+      {
+       "kind": "ball",
+       "x": 760,
+       "y": 1140,
+       "scale": 0.9
+      },
+      {
+       "kind": "ball",
+       "x": 870,
+       "y": 1110,
+       "scale": 0.9
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.42,
+     "actors": [
+      {
+       "id": "keeper",
+       "x": 560,
+       "y": 1440,
+       "pose": "present",
+       "emote": "neutral",
+       "scale": 1.35,
+       "hold": {
+        "kind": "bucket",
+        "hand": "R",
+        "scale": 1.0
+       }
+      }
+     ],
+     "props": [
+      {
+       "kind": "goal",
+       "x": 760,
+       "y": 980,
+       "scale": 3.6
+      },
+      {
+       "kind": "scoreboard",
+       "x": 230,
+       "y": 540,
+       "scale": 1.6,
+       "text": "0:3",
+       "face": "sleepy"
+      },
+      {
+       "kind": "sticker",
+       "x": 500,
+       "y": 560,
+       "scale": 1.1,
+       "text": "39"
+      },
+      {
+       "kind": "clock",
+       "x": 780,
+       "y": 540,
+       "scale": 1.8
+      },
+      {
+       "kind": "ball",
+       "x": 650,
+       "y": 1120,
+       "scale": 0.9
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.42,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "keeper",
+       "x": 560,
+       "y": 1440,
+       "pose": "cheer",
+       "emote": "happy",
+       "scale": 1.35,
+       "hold": {
+        "kind": "bucket",
+        "hand": "R",
+        "scale": 1.0
+       }
+      }
+     ],
+     "props": [
+      {
+       "kind": "goal",
+       "x": 760,
+       "y": 980,
+       "scale": 3.6
+      },
+      {
+       "kind": "scoreboard",
+       "x": 230,
+       "y": 540,
+       "scale": 1.6,
+       "text": "0:3",
+       "face": "sleepy"
+      },
+      {
+       "kind": "sticker",
+       "x": 500,
+       "y": 560,
+       "scale": 1.1,
+       "text": "39"
+      },
+      {
+       "kind": "clock",
+       "x": 780,
+       "y": 540,
+       "scale": 1.8
+      }
+     ]
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "keeper",
+       "x": 560,
+       "y": 1440,
+       "pose": "facepalm",
+       "emote": "sweat",
+       "scale": 1.35
+      }
+     ],
+     "props": [
+      {
+       "kind": "goal",
+       "x": 760,
+       "y": 980,
+       "scale": 3.6
+      },
+      {
+       "kind": "scoreboard",
+       "x": 230,
+       "y": 540,
+       "scale": 1.6,
+       "text": "0:3",
+       "face": "sleepy"
+      },
+      {
+       "kind": "sticker",
+       "x": 500,
+       "y": 560,
+       "scale": 1.1,
+       "text": "39"
+      },
+      {
+       "kind": "clock",
+       "x": 780,
+       "y": 540,
+       "scale": 1.8
+      },
+      {
+       "kind": "ball",
+       "x": 760,
+       "y": 1100,
+       "scale": 0.9,
+       "anim": "pop"
+      }
+     ],
+     "sfx": {
+      "text": "POP",
+      "x": 250,
+      "y": 960,
+      "r": 110
+     }
+    }
+   ]
+  },
+  "s04": {
+   "type": "STATS",
+   "items": [
+    {
+     "icon": "scoreboard",
+     "value": "0-3",
+     "label": "three-nil down"
+    },
+    {
+     "icon": "clock",
+     "value": "39",
+     "suffix": "'",
+     "label": "thirty-ninth minute"
+    },
+    {
+     "icon": "flag",
+     "value": "3-3",
+     "label": "Final score"
+    }
+   ]
+  },
+  "s05": {
+   "type": "INTERVIEW",
+   "label": "REPORTER ASKS",
+   "bubble": "Three promotions. What is the secret?",
+   "answer": {
+    "icon": "clipboard",
+    "gesture": "present",
+    "emote": "smug"
+   },
+   "subject": "Scott Parker",
+   "subject_cast": "parker"
+  },
+  "s06": {
+   "type": "PROVOC",
+   "q": "Parker back at West Ham: good call?",
+   "a": "Smart move",
+   "b": "Too quick",
+   "split": [
+    44,
+    56
+   ],
+   "mood": "smug"
+  },
+  "s07": {
+   "type": "NEWS",
+   "name": "Scott Parker",
+   "fact": "He played 129 times for West Ham",
+   "ticker": "Back home",
+   "icons": [
+    "shirt",
+    "clipboard",
+    "heart"
+   ],
+   "role": "coach",
+   "actor": "parker"
+  }
+ }
+}

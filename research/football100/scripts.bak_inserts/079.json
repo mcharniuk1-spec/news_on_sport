@@ -1,0 +1,95 @@
+{
+  "no": 79,
+  "subject": "Seventh-tier Wimborne Town knock League Two Crawley out of the FA Cup",
+  "title": "Seventh-tier Wimborne knock out Crawley",
+  "voice": "kokoro",
+  "comic": true,
+  "style": "southpark_cutout",
+  "lines": [
+    {
+      "vo": "A part-time Dorset side just knocked out a League Two club.",
+      "card": "Seventh tier wins",
+      "sfx": null,
+      "footage": "Wimborne Town 2-0 Crawley highlights"
+    },
+    {
+      "vo": "Wimborne Town are fifty-seven places below Crawley. Crawley are bottom of League Two. Let that sink in.",
+      "card": "Fifty-seven places",
+      "sfx": null,
+      "footage": "Wimborne Town FA Cup"
+    },
+    {
+      "vo": "Yang Seung-woo scored after nine minutes. That left Crawley eighty-one minutes to respond.",
+      "card": "Goal after nine minutes",
+      "sfx": "whistle",
+      "footage": "Wimborne Crawley FA Cup shock"
+    },
+    {
+      "vo": "The interim boss, Kevin Blackwell, made three half-time changes. Then Jackson King's shot went in off Cameron Munn, about eleven minutes from time.",
+      "card": "Three half-time changes",
+      "sfx": null,
+      "footage": "Kevin Blackwell touchline, Crawley"
+    },
+    {
+      "vo": "Second season running, Crawley lost to non-league opposition in the Cup. Boreham Wood did it last year.",
+      "card": "Second year running",
+      "sfx": null,
+      "footage": "Boreham Wood FA Cup clip"
+    },
+    {
+      "vo": "The FA Cup is a trapdoor, and Crawley keep stepping on it.",
+      "card": "The FA Cup trapdoor",
+      "sfx": "rimshot",
+      "footage": "Wimborne Town FA Cup giant killing"
+    },
+    {
+      "vo": "Wimborne drew Bradford City in round two. Not bad for part-timers.",
+      "card": "Round two: Bradford",
+      "sfx": null,
+      "footage": "Wimborne Bradford FA Cup draw"
+    },
+    {
+      "vo": "Your mates will never guess this. Match news, betting tips and predictions at aboutfootball dot UK.",
+      "card": "Match news and predictions",
+      "sfx": null,
+      "footage": "Wimborne Town FA Cup"
+    }
+  ],
+  "chars": 725,
+  "est_seconds": 50,
+  "footage_terms": [
+    "Wimborne Town 2-0 Crawley highlights",
+    "Wimborne Town FA Cup",
+    "Wimborne Crawley FA Cup shock",
+    "Wimborne Bradford FA Cup draw",
+    "Wimborne Town FA Cup giant killing"
+  ],
+  "inserts": [
+    {
+      "after_line": 3,
+      "story": "Setup: cut-paper Dorset villagers in a village hall have just put the kettle on. Gag: a cardboard scoreboard flips to 1-0 before the kettle boils. Twist: the kettle whistles and everyone thinks it is full-time.",
+      "characters": "cut-paper villagers; cardboard scoreboard; tea kettle prop",
+      "seconds": 4
+    },
+    {
+      "after_line": 4,
+      "story": "Setup: cardboard Kevin Blackwell sticks three changes on a cutout clipboard. Gag: each sticky note peels off and drifts away. Twist: the last note lands on the cutout referee, who reads it aloud: 'Good luck.'",
+      "characters": "cardboard caricature of Kevin Blackwell; cutout referee",
+      "seconds": 4
+    },
+    {
+      "after_line": 6,
+      "story": "Setup: a cardboard Crawley cutout strolls through a cut-paper FA Cup field. Gag: a trapdoor marked 'Cup' opens and he drops out of frame. Twist: he climbs out, walks back, and steps on the same trapdoor again.",
+      "characters": "cardboard Crawley player cutout; cut-paper trapdoor",
+      "seconds": 4
+    }
+  ],
+  "facts_used": [
+    "Wimborne 2-0 Crawley in the FA Cup first round, called the biggest upset of the round; part-time Dorset side 57 places below Crawley (news 108; espn.com/soccer/story/_/id/50421536)",
+    "Yang Seung-woo scored after nine minutes; Jackson King's shot went in off Cameron Munn about 11 minutes from time (news 108)",
+    "Crawley bottom of League Two; interim manager Kevin Blackwell made three half-time changes; Vito Mannone, former Arsenal keeper, in goal (news 108)",
+    "Second season in a row Crawley lost to non-League opposition in the Cup; Boreham Wood last year; Wimborne drew Bradford City in round two (news 108 background)"
+  ],
+  "comic_score": 9,
+  "notes": "Punched up: 'eighty-one minutes to respond' deadpan (90 minus 9), trapdoor callback (also drives insert 3), part-timers closer. Seventh tier is from the subject line; 57 places below is from the source. Comic, southpark_cutout: three inserts, generic cutout characters and caricatures only (white-flag gag removed; Mannone line cut for length, fact stays in facts_used). after_line counts from 1."
+}

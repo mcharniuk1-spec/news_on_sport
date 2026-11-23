@@ -1,0 +1,22 @@
+<!doctype html><html lang="en" data-resolution="portrait"><head><meta charset="UTF-8"/><meta name="viewport" content="width=1080, height=1920"/>
+<script src="https://cdn.jsdelivr.net/npm/gsap@3.15.0/dist/gsap.min.js"></script><style>
+:root{--ground:#07140c;--ink:#fff;--y:#FFD400;--g:#18c964;--red:#ff3b30}
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:1080px;height:1920px;overflow:hidden;background:var(--ground)}
+#root{position:relative;width:1080px;height:1920px;font-family:Impact,'Arial Black',sans-serif;color:var(--ink);text-transform:uppercase;overflow:hidden;
+ background:repeating-linear-gradient(0deg,#0b2214 0 120px,#0e2a19 120px 240px)}
+.vig{position:absolute;inset:0;background:radial-gradient(ellipse at center,rgba(0,0,0,0) 40%,rgba(0,0,0,.65) 100%)}
+.abs{position:absolute;left:0;width:1080px;text-align:center}
+.big{font-size:230px;line-height:1;color:var(--y);-webkit-text-stroke:10px #000;paint-order:stroke fill}
+.mid{font-size:100px;line-height:1.05;-webkit-text-stroke:8px #000;paint-order:stroke fill}
+.small{font-size:60px;-webkit-text-stroke:6px #000;paint-order:stroke fill;color:#cfe}
+.row{position:absolute;left:90px;width:900px;height:130px;border-radius:20px;background:#0a0a0a;border:6px solid var(--y);display:flex;align-items:center;padding:0 36px;font-size:62px}
+.row b{color:var(--y);margin-left:auto;font-size:54px}
+.tier{position:absolute;left:140px;width:800px;height:210px;border-radius:24px;background:#10331e;border:6px solid #2d6b45;display:flex;align-items:center;justify-content:center;font-size:84px}
+.stamp{position:absolute;left:90px;width:900px;text-align:center;font-size:76px;line-height:1.05;color:#000;background:var(--y);padding:26px 20px;border-radius:18px;transform:rotate(-3deg)}
+</style></head><body>
+<div id="root" data-composition-id="main" data-start="0" data-duration="4.6" data-width="1080" data-height="1920"><div class="abs mid" style="top:170px">LAST PRO CLUB</div><div class="abs small" id="a1" style="top:330px;opacity:0;color:#fff">2015 · FLUMINENSE · 9 GAMES</div><div class="abs small" id="a2" style="top:430px;opacity:0;color:#fff">2018 · RETIRED</div><div class="abs small" id="a3" style="top:530px;opacity:0;color:var(--y)">2026 · RAVENNA</div><div class="abs big" id="yrs" style="top:760px;font-size:520px">0</div><div class="abs mid" id="yl" style="top:1340px;opacity:0">YEARS WITHOUT A PRO MATCH</div><div class="vig"></div></div>
+<script>const tl=gsap.timeline({paused:true});
+function counter(sel,to,start,dur,fmt){const o={v:0};const el=document.querySelector(sel);tl.to(o,{v:to,duration:dur,ease:"power2.out",onUpdate:()=>{el.textContent=fmt?fmt(o.v):Math.round(o.v)}},start)}
+tl.fromTo("#a1",{opacity:0,x:-200},{opacity:1,x:0,duration:.3},0.2);tl.fromTo("#a2",{opacity:0,x:-200},{opacity:1,x:0,duration:.3},0.9);tl.fromTo("#a3",{opacity:0,x:-200},{opacity:1,x:0,duration:.3},1.6);tl.from("#yrs",{scale:2.5,opacity:0,duration:.3,ease:"power4.out"},2.2);counter("#yrs",11,2.2,1.2);tl.to("#yl",{opacity:1,duration:.3},3.0);
+window.__timelines["main"]=tl;tl.seek(0);</script></body></html>

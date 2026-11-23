@@ -1,0 +1,72 @@
+{
+ "video_id": "PDkLOLbJ0OI",
+ "topic": "Football meme: 'Bro broke up with Bellingham' joke and Zlatan 'will kill him' reaction using a Shrek clip",
+ "hero": "Young blond man in white graphic tee (unidentified) and Shrek (animated meme)",
+ "hero_role": "butt of the joke (blond man) and reaction meme (Shrek)",
+ "media_type_overall": "mixed",
+ "hook": "Blond man in barber chair gesturing with caption 'Bro broke up with bellingham 😭'",
+ "subtitle_style": "small white sans-serif caption, top or lower-centre, with emoji",
+ "reaction_overlays": "caption text with emoji, Shrek meme clip as reaction",
+ "transition_summary": "4 hard cuts in 11s (about 3.5 cuts/10s) between phone clips and Shrek film clip; letterboxed meme layout",
+ "audio_note": "unknown; meme sound",
+ "reuse_segments": [
+  {
+   "t0": 0,
+   "t1": 4,
+   "what": "Phone clip of blond man in chair",
+   "origin_guess": "fan edit",
+   "rights_risk": "medium",
+   "how_to_reuse": "Third-party social clip; recreate with stock/AI actor"
+  },
+  {
+   "t0": 6,
+   "t1": 11,
+   "what": "Shrek film clip (meme reaction)",
+   "origin_guess": "unknown",
+   "rights_risk": "high",
+   "how_to_reuse": "DreamWorks copyright; replace with generic cartoon reaction or AI-made character"
+  }
+ ],
+ "frames": [
+  {
+   "idx": 1,
+   "t": 0,
+   "desc": "Blond young man in white tee seated in room with curtains, gesturing, caption 'Bro broke up with bellingham'",
+   "type": "video",
+   "text_on_screen": "Bro broke up with bellingham 😭",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 2,
+   "t": 2,
+   "desc": "Same man zoomed closer, shaved sides, caption",
+   "type": "video",
+   "text_on_screen": "Bro broke up with bellingham 😭",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 3,
+   "t": 4,
+   "desc": "Close selfie face of blond man while hair is being cut with trimmer",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 4,
+   "t": 6,
+   "desc": "Shrek animated close-up with worried face, caption 'Zlatan will kill him.'",
+   "type": "video",
+   "text_on_screen": "Zlatan will kill him. 😭",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 5,
+   "t": 8,
+   "desc": "Shrek close again, same caption",
+   "type": "video",
+   "text_on_screen": "Zlatan will kill him. 😭",
+   "transition_to_next": "none"
+  }
+ ]
+}

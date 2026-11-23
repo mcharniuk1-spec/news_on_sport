@@ -1,0 +1,839 @@
+[
+  {
+    "headline": "Harry Kane wins the 2026 Ballon d'Or at the London ceremony",
+    "date": "2026-10-26",
+    "source_domain": "uefa.com",
+    "url": "https://www.uefa.com/uefachampionsleague/news/02aa-21ec47378e70-b29defb43769-1000--harry-kane-wins-2026-men-s-ballon-d-or/",
+    "entities": [
+      "Harry Kane",
+      "Kylian Mbappé",
+      "Lamine Yamal",
+      "Bayern Munich",
+      "France Football"
+    ],
+    "facts": [
+      "Kane won the men's Ballon d'Or on 26 October 2026 at a ceremony held in London, ahead of Kylian Mbappé (2nd) and Lamine Yamal (3rd).",
+      "UEFA credits him with 73 goals for club and country in 2025/26, top scorer in the Bundesliga for the third season running and 14 Champions League goals as Bayern reached the semi-finals.",
+      "He is the first Englishman to win the award in 25 years, and he also took the Men's Striker of the Year award."
+    ],
+    "background": "Kane left Tottenham for Bayern Munich in 2023 on a four-year deal, and ESPN notes he is Bayern's fourth Ballon d'Or winner after Beckenbauer, Müller and Rummenigge.",
+    "angle": "win",
+    "sensitive": false,
+    "footage_terms": [
+      "Harry Kane Ballon d'Or 2026 ceremony",
+      "Kane Ballon d'Or speech London",
+      "Harry Kane 2025/26 season goals Bayern"
+    ],
+    "confidence": "high"
+  },
+  {
+    "headline": "Alexia Putellas wins a third women's Ballon d'Or",
+    "date": "2026-10-26",
+    "source_domain": "uefa.com",
+    "url": "https://www.uefa.com/womenschampionsleague/news/02aa-21ec463bf005-96f0689e3106-1000--alexia-putellas-wins-2026-women-s-ballon-d-or/",
+    "entities": [
+      "Alexia Putellas",
+      "Ewa Pajor",
+      "Khadija Shaw",
+      "Barcelona",
+      "London City Lionesses"
+    ],
+    "facts": [
+      "Putellas won her third women's Ballon d'Or (after 2021 and 2022), ahead of Ewa Pajor and Khadija Shaw.",
+      "UEFA says she was Women's Champions League Player of the Season with 7 goals and 7 assists in Barcelona's European campaign.",
+      "The page notes she has joined London City Lionesses for 2026/27, and Barcelona also took the women's club, coach, young talent and goalkeeper awards."
+    ],
+    "background": "Putellas is a Barcelona midfielder who won her first two women's Ballons d'Or in 2021 and 2022, and has now joined London City Lionesses for 2026/27.",
+    "angle": "win",
+    "sensitive": false,
+    "footage_terms": [
+      "Alexia Putellas Ballon d'Or 2026",
+      "Putellas Barcelona highlights 2026",
+      "Ballon d'Or Feminin 2026 ceremony"
+    ],
+    "confidence": "high"
+  },
+  {
+    "headline": "Hours before the ceremony, prediction markets had Kane at about two-in-three to win",
+    "date": "2026-10-23",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50251663/who-win-ballon-dor-messi-yamal-kane-else",
+    "entities": [
+      "Harry Kane",
+      "Lamine Yamal",
+      "Lionel Messi",
+      "Kylian Mbappé",
+      "Michael Olise",
+      "Ryan O'Hanlon"
+    ],
+    "facts": [
+      "ESPN's Ryan O'Hanlon wrote that betting markets gave Kane roughly a two-in-three chance, Yamal 28%, with the rest split between Mbappé and Messi.",
+      "He says Messi was the favourite before the World Cup final and Kane took over afterwards, even though Kane did not play in the final.",
+      "His own ballot had Kane first, Michael Olise second and Yamal third, and he called the award silly because its criteria contradict each other."
+    ],
+    "background": "Messi has eight Ballons d'Or and Ronaldo five, and the 2025 award went to Ousmane Dembélé with Yamal runner-up.",
+    "angle": "history",
+    "sensitive": false,
+    "footage_terms": [
+      "Ballon d'Or 2026 favourites Kane Yamal Messi",
+      "Ballon d'Or 2026 shortlist reaction",
+      "Yamal Ballon d'Or 2026 debate"
+    ],
+    "confidence": "high"
+  },
+  {
+    "headline": "Kane gets a guard of honour at Bayern training the day after winning the Ballon d'Or",
+    "date": "2026-10-27",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50301097/harry-kane-ballon-dor-award-bayern-munich-welcome",
+    "entities": [
+      "Harry Kane",
+      "Bayern Munich",
+      "Christoph Freund",
+      "Aaron Danks"
+    ],
+    "facts": [
+      "Bayern staff formed a guard of honour as Kane arrived for training on 27 October, and fans chanted his name.",
+      "Sporting director Christoph Freund called Kane world class and very down to earth, and the club promised more recognition before the Klassiker on Saturday.",
+      "ESPN says he is the first player at a German club to win the award since 1996, and Bayern's fourth winner."
+    ],
+    "background": "Karl-Heinz Rummenigge was the last Bayern player to win the Ballon d'Or, in 1981, per ESPN.",
+    "angle": "history",
+    "sensitive": false,
+    "footage_terms": [
+      "Harry Kane guard of honour Bayern training",
+      "Kane Ballon d'Or Bayern welcome",
+      "Kane returns to Bayern after Ballon d'Or"
+    ],
+    "confidence": "high"
+  },
+  {
+    "headline": "Kane parades the Ballon d'Or at the Allianz Arena, then misses a penalty in a 2-2 Klassiker draw",
+    "date": "2026-10-31",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50337824/harry-kane-parades-ballon-dor-bayern-munich-borussia-dortmund",
+    "entities": [
+      "Harry Kane",
+      "Bayern Munich",
+      "Borussia Dortmund",
+      "Katie Kane"
+    ],
+    "facts": [
+      "Kane showed the trophy to fans before Bayern's match with Borussia Dortmund, with his wife and four children, and players from both teams applauded him.",
+      "A golden banner of his face was unrolled in the centre circle, and the stadium announcer called him the best footballer in the world.",
+      "Bayern drew 2-2 and Kane missed a penalty, so there was no goal to mark the occasion."
+    ],
+    "background": "Bayern had won the Bundesliga in 2025 and 2026 with Kane scoring 36 league goals last season, per ESPN's later coverage.",
+    "angle": "viral",
+    "sensitive": false,
+    "footage_terms": [
+      "Kane Ballon d'Or parade Allianz Arena",
+      "Bayern Dortmund 2-2 Klassiker Kane penalty miss",
+      "Kane missed penalty Dortmund October 2026"
+    ],
+    "confidence": "high"
+  },
+  {
+    "headline": "Kane signs a new Bayern contract to 2029, reportedly above £400,000 a week",
+    "date": "2026-11-05",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50216815/harry-kane-signs-new-bayern-munich-contract",
+    "entities": [
+      "Harry Kane",
+      "Bayern Munich",
+      "Vincent Kompany"
+    ],
+    "facts": [
+      "ESPN reports Kane agreed a new deal running to 2029, extending the four-year contract he signed in 2023.",
+      "Reports suggest he will earn more than £400,000 a week, which would make him Europe's highest-paid player before bonuses.",
+      "He has 12 goals this season and 156 goals in 161 Bayern appearances, and he praised manager Vincent Kompany."
+    ],
+    "background": "Kane joined Bayern from Tottenham in 2023, and ESPN notes he has won the Bundesliga in 2025 and 2026 and the German Cup last season.",
+    "angle": "business",
+    "sensitive": false,
+    "footage_terms": [
+      "Harry Kane new Bayern contract 2029",
+      "Kane extension Bayern Munich announcement",
+      "Harry Kane Bayern interview contract"
+    ],
+    "confidence": "high"
+  },
+  {
+    "headline": "Kane becomes England's most-capped men's player with his 126th cap",
+    "date": "2026-11-12",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50451241/harry-kane-england-caps-record-126-croatia",
+    "entities": [
+      "Harry Kane",
+      "Peter Shilton",
+      "Thomas Tuchel",
+      "Prince William",
+      "Croatia",
+      "England"
+    ],
+    "facts": [
+      "Kane passed Peter Shilton's 125 caps, a record that stood for 36 years, in the Nations League match against Croatia at Wembley on 12 November.",
+      "Shilton presented him with a plaque and Prince William gave him a commemorative shirt.",
+      "England coach Thomas Tuchel said the timing was fitting after Kane became England's first Ballon d'Or winner in over 25 years; ESPN's companion piece says England won 2-1 with a Kane penalty."
+    ],
+    "background": "Kane already holds the England men's scoring record with 91 goals, according to ESPN.",
+    "angle": "record",
+    "sensitive": false,
+    "footage_terms": [
+      "Kane 126th cap England record Shilton",
+      "England Croatia 2-1 Wembley Kane penalty highlights",
+      "Kane most capped England player ceremony"
+    ],
+    "confidence": "high"
+  },
+  {
+    "headline": "England beat Spain 3-2 in Madrid, ending Spain's 43-match run without a competitive defeat",
+    "date": "2026-11-15",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50495394/spain-overwhelmed-england-43-game-streak-ends",
+    "entities": [
+      "England",
+      "Spain",
+      "Lamine Yamal",
+      "Mikel Oyarzabal",
+      "Nico Williams",
+      "Luis de la Fuente"
+    ],
+    "facts": [
+      "England won 3-2 at the Metropolitano in the Nations League on 15 November, after leading 3-0.",
+      "Spain's late comeback goals came from Mikel Oyarzabal and Nico Williams, both created by Lamine Yamal.",
+      "The defeat ended a three-year, 43-match unbeaten competitive run, and Spain coach Luis de la Fuente said they know how to lose as well as win."
+    ],
+    "background": "Yamal, 19, finished third in the 2026 Ballon d'Or behind Kane and Mbappé, and Spain won Euro 2024 and the 2026 World Cup, per ESPN.",
+    "angle": "record",
+    "sensitive": false,
+    "footage_terms": [
+      "England 3-2 Spain Nations League highlights",
+      "Spain England Metropolitano Yamal assists",
+      "Spain unbeaten streak ends England"
+    ],
+    "confidence": "high"
+  },
+  {
+    "headline": "PSG's Luis Enrique says Vitinha was ranked too low after a 14th-place Ballon d'Or finish",
+    "date": "2026-10-29",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50320065/psg-luis-enrique-vitinha-ballon-dor",
+    "entities": [
+      "Luis Enrique",
+      "Vitinha",
+      "Paris Saint-Germain",
+      "Ousmane Dembélé",
+      "Khvicha Kvaratskhelia"
+    ],
+    "facts": [
+      "Vitinha finished 14th in the 2026 Ballon d'Or, a year after placing third when Dembélé won.",
+      "Luis Enrique said PSG are happy to have him even though he was not ranked as high as he deserves.",
+      "PSG's highest finisher was Kvaratskhelia in 6th, then Dembélé 7th; PSG were named Men's Club of the Year with 10 players among the 30 nominees."
+    ],
+    "background": "PSG are back-to-back Champions League winners, and Dembélé was the 2025 Ballon d'Or winner.",
+    "angle": "coach",
+    "sensitive": false,
+    "footage_terms": [
+      "Luis Enrique Vitinha Ballon d'Or press conference",
+      "Vitinha PSG highlights 2026",
+      "PSG Lyon 2-0 Ligue 1 October 2026"
+    ],
+    "confidence": "high"
+  },
+  {
+    "headline": "Hakimi scores a hat-trick and adds two assists in PSG's 5-1 win at Le Havre",
+    "date": "2026-11-03",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/espn/story/_/id/50366716/achraf-hakimi-historic-hat-trick-all-secures-another-african-player-year-gong",
+    "entities": [
+      "Achraf Hakimi",
+      "Paris Saint-Germain",
+      "Le Havre",
+      "Luis Enrique",
+      "Sadio Mané"
+    ],
+    "facts": [
+      "Hakimi scored three and set up two in PSG's 5-1 comeback win at Le Havre on 30 October, including a free kick.",
+      "He is the only defender among seven players to record five goal contributions in a Ligue 1 match, and Luis Enrique called him the best right back in the world.",
+      "ESPN says he finished 13th in the 2026 Ballon d'Or, 16 places ahead of the next African player, Sadio Mané, and is the favourite for the CAF award in Lagos on 7 December."
+    ],
+    "background": "Hakimi won the CAF men's Player of the Year award for 2025, the first defender to do so since 1973, per ESPN.",
+    "angle": "win",
+    "sensitive": false,
+    "footage_terms": [
+      "Hakimi hat trick Le Havre PSG",
+      "Le Havre PSG 1-5 highlights",
+      "Hakimi free kick goal PSG October 2026"
+    ],
+    "confidence": "high"
+  },
+  {
+    "headline": "Barcelona's Pau Cubarsí wins the 2026 Golden Boy",
+    "date": "2026-11-09",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50433569/barcelona-spain-pau-cubarsi-wins-2026-golden-boy-award",
+    "entities": [
+      "Pau Cubarsí",
+      "Barcelona",
+      "Tuttosport",
+      "Désiré Doué",
+      "Lamine Yamal"
+    ],
+    "facts": [
+      "Cubarsí, 19, won the Golden Boy for the best under-21 men's player, succeeding PSG's Désiré Doué.",
+      "He is the first defender to win since Matthijs de Ligt in 2018, and the fourth Barcelona winner in six years after Pedri, Gavi and Yamal.",
+      "He won LaLiga and the World Cup with Spain in 2026, was Young Player of the Tournament, and finished 12th in the Ballon d'Or as the top defender."
+    ],
+    "background": "Past Golden Boy winners include Messi, Mbappé and Haaland, according to the same ESPN piece.",
+    "angle": "win",
+    "sensitive": false,
+    "footage_terms": [
+      "Pau Cubarsí Golden Boy 2026",
+      "Cubarsí Barcelona best defending 2026",
+      "Cubarsí World Cup Spain highlights"
+    ],
+    "confidence": "high"
+  },
+  {
+    "headline": "ESPN's 10 Best list puts Yamal first, with reigning Ballon d'Or winner Kane only fifth",
+    "date": "2026-11-13",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50454088/10-best-ranking-top-soccer-players-november",
+    "entities": [
+      "Lamine Yamal",
+      "Jude Bellingham",
+      "Michael Olise",
+      "Raphinha",
+      "Harry Kane",
+      "Kylian Mbappé",
+      "Ousmane Dembélé",
+      "Khvicha Kvaratskhelia"
+    ],
+    "facts": [
+      "ESPN's Ryan O'Hanlon ranks Yamal first, then Bellingham, Olise, Raphinha and Kane, with Mbappé sixth and Haaland eighth.",
+      "He says Kane is in a finishing slump but contributes more in build-up play than before.",
+      "Dembélé and Kvaratskhelia were removed under the list's injury rule: Dembélé has not played since before Halloween and Kvaratskhelia is out for the season with a torn ACL."
+    ],
+    "background": "Yamal, 19, finished third in the 2026 Ballon d'Or behind Kane and Mbappé, and ESPN says he now shoots more often and with better quality.",
+    "angle": "viral",
+    "sensitive": false,
+    "footage_terms": [
+      "Lamine Yamal best player in the world 2026",
+      "Raphinha goals Barcelona November 2026",
+      "Olise Bayern assists highlights 2026"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Spain coach De la Fuente slams 'lying' over claims Yamal gets special privileges",
+    "date": "2026-11-11",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50455459/spain-lamine-yamal-injury-luis-de-la-fuente-nations-league",
+    "entities": [
+      "Luis de la Fuente",
+      "Lamine Yamal",
+      "Spain",
+      "Barcelona"
+    ],
+    "facts": [
+      "De la Fuente said he was upset by reports and 'the lying' about Yamal, insisting the forward has no special privileges.",
+      "Reports claimed Yamal joined camp late; De la Fuente said medical staff judged he should stay with Barcelona for treatment on right knee inflammation.",
+      "Yamal missed the Nations League game against Czechia after feeling discomfort following Barcelona's 2-1 win at Atlético Madrid, and was expected back for the next match."
+    ],
+    "background": "Spain won Euro 2024 and the 2026 World Cup, per ESPN, and Spain have already qualified for the Nations League quarter-finals.",
+    "angle": "coach",
+    "sensitive": true,
+    "footage_terms": [
+      "De la Fuente press conference Yamal privileges",
+      "Yamal knee injury Spain Nations League",
+      "Barcelona Atlético Madrid 2-1 Yamal"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Trent Alexander-Arnold: from Ballon d'Or ambitions to the Real Madrid bench",
+    "date": "2026-11-12",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50452561/ballon-dor-real-madrid-liverpool-trent-alexander-arnold-transfer",
+    "entities": [
+      "Trent Alexander-Arnold",
+      "Real Madrid",
+      "Liverpool",
+      "José Mourinho",
+      "Jamie Carragher"
+    ],
+    "facts": [
+      "ESPN says Alexander-Arnold has started just 5 of 16 games for Real Madrid this season and has fallen behind Valverde and Dumfries under José Mourinho.",
+      "He has started 18 of 50 possible LaLiga games since joining, and talk of a return to Liverpool has grown; Carragher said he would take him back.",
+      "In a 2024 interview he said he wanted to be the first full back to win the Ballon d'Or."
+    ],
+    "background": "He holds the Premier League record for assists by a defender with 64, and Madrid paid Liverpool €12m in 2025 to sign him early; his contract runs to 2031.",
+    "angle": "transfer",
+    "sensitive": false,
+    "footage_terms": [
+      "Trent Alexander-Arnold Real Madrid bench",
+      "Alexander-Arnold Liverpool return rumours",
+      "Alexander-Arnold Ballon d'Or full back interview"
+    ],
+    "confidence": "high"
+  },
+  {
+    "headline": "Real Madrid reportedly still tracking Bayern's Michael Olise",
+    "date": "2026-11-13",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50469742/transfer-rumors-news-man-united-balogun-freeman-pochettino",
+    "entities": [
+      "Michael Olise",
+      "Real Madrid",
+      "Bayern Munich",
+      "L'Equipe"
+    ],
+    "facts": [
+      "ESPN, citing L'Equipe, reports Real Madrid remain interested in Olise, having been linked with him in the summer.",
+      "Olise is 24 and enters the last two years of his Bayern contract next summer, with several top European clubs reportedly interested.",
+      "No fee was reported, and this is a transfer rumour rather than a confirmed approach."
+    ],
+    "background": "Olise finished ninth in the 2026 Ballon d'Or and was second on ESPN's O'Hanlon ballot behind Kane.",
+    "angle": "transfer",
+    "sensitive": false,
+    "footage_terms": [
+      "Michael Olise Bayern highlights 2026",
+      "Olise Real Madrid transfer",
+      "Olise double German Cup Magdeburg"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Mourinho tells Vinícius to stop blaming summer preparation and move on",
+    "date": "2026-11-20",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50539637/jose-mourinho-vinicius-junior-real-madrid",
+    "entities": [
+      "José Mourinho",
+      "Vinícius Júnior",
+      "Yan Diomande",
+      "Real Madrid",
+      "Celta Vigo"
+    ],
+    "facts": [
+      "Mourinho said Vinícius was wrong to blame poor form on a lack of preseason, but called him an incredible player Madrid need.",
+      "Vinícius has one goal in eight LaLiga games this season and lost his starting place to new signing Yan Diomande.",
+      "A red card against Villarreal in October brought a four-game domestic ban; he is available for Saturday's match against Celta Vigo."
+    ],
+    "background": "Vinícius signed a long-term contract to 2032 in the summer despite interest elsewhere; Real Madrid boycotted the 2024 Ballon d'Or ceremony after Rodri beat him and skipped 2025 as well, per SI.",
+    "angle": "coach",
+    "sensitive": false,
+    "footage_terms": [
+      "Vinícius Júnior Real Madrid Mourinho press conference",
+      "Vinicius red card Villarreal",
+      "Real Madrid Celta Vigo November 2026"
+    ],
+    "confidence": "high"
+  },
+  {
+    "headline": "Oviedo fan receives suspended sentence for racist abuse of Kylian Mbappé",
+    "date": "2026-11-17",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50509888/kylian-mbappe-racist-abuse-oviedo-fan-real-madrid",
+    "entities": [
+      "Kylian Mbappé",
+      "Real Madrid",
+      "Real Oviedo",
+      "Provincial Court of Asturias"
+    ],
+    "facts": [
+      "The Provincial Court of Asturias gave an Oviedo fan a suspended 11-month prison sentence, a stadium ban and a fine, classing the offence as a hate crime.",
+      "The abuse came at Oviedo's ground on 24 August 2025, after Mbappé scored the opening goal in a 3-0 Real Madrid win in which he scored twice.",
+      "Real Madrid acted as private prosecutor and said it reaffirms its commitment to combating racism."
+    ],
+    "background": "Mbappé finished second in the 2026 Ballon d'Or behind Kane.",
+    "angle": "scandal",
+    "sensitive": true,
+    "footage_terms": [
+      "Mbappé Real Oviedo August 2025 highlights",
+      "Real Madrid statement racism Oviedo fan",
+      "Mbappé 2026 Real Madrid goals"
+    ],
+    "confidence": "high"
+  },
+  {
+    "headline": "PSG's Kvaratskhelia has successful knee surgery after a torn ACL",
+    "date": "2026-10-27",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50297566/psg-khvicha-kvaratskhelia-successful-knee-surgery",
+    "entities": [
+      "Khvicha Kvaratskhelia",
+      "Paris Saint-Germain",
+      "Luis Enrique",
+      "Georgia",
+      "Barcelona"
+    ],
+    "facts": [
+      "PSG confirmed on 27 October that Kvaratskhelia had surgery at the Aspetar hospital in Doha for a torn ACL in his right knee.",
+      "He was hurt on 20 October in PSG's 4-2 Champions League win over Barcelona and faces a lengthy rehabilitation.",
+      "Dembélé and Marquinhos were also out with thigh injuries, and Luis Enrique said PSG would not sign a replacement."
+    ],
+    "background": "Kvaratskhelia, 25, captains Georgia and finished sixth in the 2026 Ballon d'Or as PSG's top-ranked player.",
+    "angle": "coach",
+    "sensitive": true,
+    "footage_terms": [
+      "Kvaratskhelia injury PSG Barcelona Champions League",
+      "PSG Barcelona 4-2 highlights",
+      "Kvaratskhelia best goals PSG"
+    ],
+    "confidence": "high"
+  },
+  {
+    "headline": "Haaland says he is 'incredibly happy' at City while the club faces possible sanctions",
+    "date": "2026-11-15",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50490251/erling-haaland-man-city-premier-league-sanctions",
+    "entities": [
+      "Erling Haaland",
+      "Manchester City",
+      "Premier League",
+      "Norway",
+      "Wales"
+    ],
+    "facts": [
+      "Haaland told Norwegian TV2 he is incredibly happy at City and is focused on playing rather than the possible sanctions, describing the case as a legal battle between the league and the club.",
+      "ESPN says an independent commission found City guilty in September of more than 100 breaches of Premier League financial rules, and City have appealed.",
+      "He spoke after scoring a penalty in Norway's 3-1 win over Wales; the article says he signed a new nine-and-a-half-year deal in late 2024 and that the period under investigation predates his arrival."
+    ],
+    "background": "Haaland is in his fifth season at City, and the club's alleged breaches cover 2009 to 2018, before his arrival.",
+    "angle": "scandal",
+    "sensitive": true,
+    "footage_terms": [
+      "Haaland Norway Wales 3-1 highlights",
+      "Haaland incredibly happy Man City interview",
+      "Manchester City Premier League charges verdict"
+    ],
+    "confidence": "high"
+  },
+  {
+    "headline": "Haaland's 96th-minute penalty beats Denmark and sends Norway to the Nations League quarter-finals",
+    "date": "2026-11-17",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50513761/erling-haaland-sends-norway-nations-league-quarterfinals",
+    "entities": [
+      "Erling Haaland",
+      "Norway",
+      "Denmark",
+      "Joachim Andersen",
+      "Mads Hermansen"
+    ],
+    "facts": [
+      "Norway beat Denmark 3-2 with a Haaland penalty at 95:45 after VAR spotted handball by Joachim Andersen.",
+      "It was the latest goal Haaland has scored for Norway, and he sent goalkeeper Mads Hermansen the wrong way.",
+      "The win gave Norway second place in Group A4 and a quarter-final spot, with the draw due on Friday and ties in March."
+    ],
+    "background": "ESPN says Haaland has scored 68 goals for Norway, the national record.",
+    "angle": "record",
+    "sensitive": false,
+    "footage_terms": [
+      "Norway Denmark 3-2 Haaland penalty",
+      "Haaland last minute penalty Denmark Nations League",
+      "Haaland Norway goals highlights November 2026"
+    ],
+    "confidence": "high"
+  },
+  {
+    "headline": "Ronaldo announces his retirement from Portugal after a row with coach Jorge Jesus",
+    "date": "2026-11-05",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50075485/cristiano-ronaldo-long-history-rows-portugal-manchester-united-real-madrid-juventus-coaches",
+    "entities": [
+      "Cristiano Ronaldo",
+      "Jorge Jesus",
+      "Portugal",
+      "Portuguese Football Federation"
+    ],
+    "facts": [
+      "ESPN reports Ronaldo, 41, announced on 5 November that he had played his last game for Portugal.",
+      "The row started when he was an unused substitute in a 2-1 Nations League win over Norway on 27 September; he left camp on 30 September before the Denmark game.",
+      "He said Jesus broke two promises and apologised to teammates, and the article says he scored a men's record 146 goals in 243 Portugal appearances."
+    ],
+    "background": "ESPN lists a long run of coach disputes, from Mourinho at Real Madrid and Rangnick and ten Hag at Manchester United to being dropped at the 2022 World Cup.",
+    "angle": "scandal",
+    "sensitive": false,
+    "footage_terms": [
+      "Cristiano Ronaldo retires Portugal announcement",
+      "Ronaldo Jorge Jesus Norway substitute",
+      "Ronaldo Portugal 146 goals career highlights"
+    ],
+    "confidence": "high"
+  },
+  {
+    "headline": "Ronaldo scores a 15-minute hat-trick for Al Nassr and reaches 985 career goals",
+    "date": "2026-10-29",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50321759/ronaldo-15-shy-1000-goals-15-minute-hat-trick",
+    "entities": [
+      "Cristiano Ronaldo",
+      "Al Nassr",
+      "Al Kholood"
+    ],
+    "facts": [
+      "Ronaldo scored in the 66th, 72nd and 81st minutes to turn a 2-2 draw into a 5-3 Saudi Pro League win over Al Kholood.",
+      "The hat-trick took him to 985 career goals, 15 short of 1,000.",
+      "Al Nassr moved up to second in the table on 28 points."
+    ],
+    "background": "ESPN's goal tracker, and a separate review that questions his 982nd goal as a possible own goal, show how closely the road to 1,000 is being counted.",
+    "angle": "record",
+    "sensitive": false,
+    "footage_terms": [
+      "Ronaldo hat trick Al Kholood Al Nassr",
+      "Ronaldo 985 goals",
+      "Al Nassr 5-3 Al Kholood highlights"
+    ],
+    "confidence": "high"
+  },
+  {
+    "headline": "AC Milan owner Gerry Cardinale confirms preliminary look at buying Ronaldo's Al Nassr",
+    "date": "2026-10-30",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50326867/ac-milan-gerry-cardinale-buying-cristiano-ronaldo-al-nassr",
+    "entities": [
+      "Gerry Cardinale",
+      "RedBird Capital",
+      "Al Nassr",
+      "Cristiano Ronaldo",
+      "AC Milan",
+      "Public Investment Fund"
+    ],
+    "facts": [
+      "Cardinale told Gazzetta dello Sport that RedBird was contacted to look at an Al Nassr acquisition and that it is at a preliminary stage.",
+      "Media reports say Ronaldo could become a part-owner under a RedBird-led plan, but nothing is confirmed.",
+      "Al Nassr is owned by Saudi Arabia's Public Investment Fund; RedBird already owns AC Milan and Toulouse."
+    ],
+    "background": "Ronaldo's Al Nassr contract runs to June 2027, and RedBird bought AC Milan in 2022.",
+    "angle": "business",
+    "sensitive": false,
+    "footage_terms": [
+      "Cardinale Al Nassr takeover Ronaldo",
+      "RedBird Al Nassr Gazzetta interview",
+      "Ronaldo Al Nassr contract 2027"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Mourinho walks out of a press conference when asked about Ronaldo's Portugal retirement",
+    "date": "2026-11-20",
+    "source_domain": "si.com",
+    "url": "https://www.si.com/soccer/jose-mourinho-walks-out-press-conference-cristiano-ronaldo-question",
+    "entities": [
+      "José Mourinho",
+      "Cristiano Ronaldo",
+      "Real Madrid",
+      "Portugal",
+      "Celta Vigo"
+    ],
+    "facts": [
+      "Sports Illustrated says Mourinho, speaking on a Friday before Real Madrid's Saturday match with Celta Vigo, was asked about Ronaldo's retirement from Portugal.",
+      "He waved a finger and repeated 'no' several times, said that as a Portuguese he only wants Portugal to keep winning, and left the stage.",
+      "The article says a Mourinho and Ronaldo reunion has been mentioned but looks increasingly unlikely."
+    ],
+    "background": "Mourinho and Ronaldo worked together at Real Madrid from 2010 to 2013 with public criticism on both sides, though both have since spoken respectfully of each other.",
+    "angle": "viral",
+    "sensitive": false,
+    "footage_terms": [
+      "Mourinho walks out press conference Ronaldo question",
+      "Mourinho no no no Ronaldo",
+      "Mourinho Ronaldo Real Madrid relationship"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Messi wins a second straight MLS Golden Boot with 26 goals",
+    "date": "2026-11-07",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50411686/lionel-messi-mls-golden-boot-2026-winner-inter-miami",
+    "entities": [
+      "Lionel Messi",
+      "Inter Miami",
+      "Petar Musa",
+      "Sam Surridge",
+      "Charlotte FC"
+    ],
+    "facts": [
+      "Messi scored 26 goals in 31 games with 17 assists, and became the first player to win back-to-back MLS Golden Boots.",
+      "Petar Musa of FC Dallas finished on 22 and Nashville's Sam Surridge on 21.",
+      "He did not score in the regular-season finale, a 3-3 draw with Charlotte in which Miami blew a three-goal halftime lead."
+    ],
+    "background": "Messi is 39 and has eight Ballons d'Or; Inter Miami finished second in the Eastern Conference with 60 points.",
+    "angle": "record",
+    "sensitive": false,
+    "footage_terms": [
+      "Messi Golden Boot MLS 2026",
+      "Inter Miami Charlotte 3-3 highlights",
+      "Messi goals 2026 Inter Miami"
+    ],
+    "confidence": "high"
+  },
+  {
+    "headline": "Messi is a finalist for a record third straight MLS MVP, with 17-year-old Cavan Sullivan also nominated",
+    "date": "2026-11-12",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50463634/mls-mvp-award-2026-lionel-messi-cavan-sullivan-griezmann",
+    "entities": [
+      "Lionel Messi",
+      "Cavan Sullivan",
+      "Hany Mukhtar",
+      "Evander",
+      "Guilherme",
+      "Antoine Griezmann"
+    ],
+    "facts": [
+      "Messi would be the first player to win MLS MVP three years running, after winning in 2024 and 2025.",
+      "The other finalists are Evander, Guilherme, Hany Mukhtar and Cavan Sullivan; at 17, Sullivan is the youngest MVP finalist ever.",
+      "Griezmann, who joined Orlando City from Atlético Madrid in July, is a Newcomer of the Year finalist with 14 goals and 8 assists."
+    ],
+    "background": "Messi is already tied with Preki on two MLS MVP awards, and Sullivan recently became the youngest goalscorer in USMNT history.",
+    "angle": "record",
+    "sensitive": false,
+    "footage_terms": [
+      "Messi MLS MVP 2026 finalist",
+      "Cavan Sullivan Philadelphia Union highlights",
+      "Messi Inter Miami MLS playoffs 2026"
+    ],
+    "confidence": "high"
+  },
+  {
+    "headline": "Messi's Cornellà takeover: why it will not be 'doing a Wrexham'",
+    "date": "2026-11-10",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50441349/why-messi-takeover-non-league-cornella-wrexham-repeat",
+    "entities": [
+      "Lionel Messi",
+      "UE Cornellà",
+      "Eldense",
+      "Ignasi Senabre",
+      "Spain National Sports Council"
+    ],
+    "facts": [
+      "Messi took over UE Cornellà in April 2026, and the club sits in Spain's regionalised fifth tier after two consecutive relegations, with two wins from its first 10 league games.",
+      "He also agreed to buy second-division club Eldense, but both deals depend on Spain's sports council approving a structure that lets him hold both stakes.",
+      "A club source says the project is very different from Wrexham, and coach Ignasi Senabre still says promotion is the goal."
+    ],
+    "background": "Messi is 39 and signed an Inter Miami extension in October 2025 that keeps him through 2028, per SI.",
+    "angle": "business",
+    "sensitive": false,
+    "footage_terms": [
+      "Messi UE Cornellà takeover",
+      "Messi Eldense purchase",
+      "Cornellà fifth tier Messi owner"
+    ],
+    "confidence": "high"
+  },
+  {
+    "headline": "Messi to play in Argentina on 19 January as Inter Miami face River Plate in a friendly",
+    "date": "2026-11-13",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50472990/messi-play-argentina-jan-19-inter-miami-river-friendly",
+    "entities": [
+      "Lionel Messi",
+      "Inter Miami",
+      "River Plate",
+      "Luis Suárez",
+      "Rodrigo De Paul",
+      "Casemiro"
+    ],
+    "facts": [
+      "Inter Miami will play River Plate at the Estadio Monumental on 19 January, Messi's first club match in his home country.",
+      "Messi's Argentina farewell was at the Monumental on 6 October, his 208th and final national-team game, in which he scored his 126th international goal.",
+      "Casemiro, De Paul, Suárez, Otamendi and Almada are expected to travel, and Miami open the 2027 MLS season on 19 February against FC Cincinnati."
+    ],
+    "background": "Argentina lost the 2026 World Cup final, where Messi won the Silver Ball and a second straight Silver Boot, according to SI.",
+    "angle": "history",
+    "sensitive": false,
+    "footage_terms": [
+      "Messi Argentina farewell Monumental October 2026",
+      "Messi River Plate friendly Inter Miami",
+      "Messi last Argentina match 208th"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Messi remains MLS's top earner at $28.33 million guaranteed, new salary data shows",
+    "date": "2026-11-19",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/football/story/_/id/50526796/messi-leads-mls-salaries-rise-sullivan-614k",
+    "entities": [
+      "Lionel Messi",
+      "Robert Lewandowski",
+      "Antoine Griezmann",
+      "Son Heung-Min",
+      "Cavan Sullivan",
+      "Inter Miami"
+    ],
+    "facts": [
+      "ESPN reports Messi's guaranteed compensation is $28.33 million, up from $20.45 million a year earlier.",
+      "Next are Lewandowski of Chicago Fire at $19.51 million and Griezmann of Orlando City at $13.94 million, with Son Heung-Min at $11.25 million.",
+      "Inter Miami's payroll of $59.37 million is more than double what 25 of the other 29 teams spend, while Philadelphia's Cavan Sullivan earns $614,000."
+    ],
+    "background": "Messi signed an Inter Miami extension in October 2025 that keeps him at the club through the 2028 season, per SI.",
+    "angle": "business",
+    "sensitive": false,
+    "footage_terms": [
+      "Messi MLS salary 2026",
+      "Lewandowski Chicago Fire MLS goals",
+      "Griezmann Orlando City highlights"
+    ],
+    "confidence": "high"
+  },
+  {
+    "headline": "Ronaldinho, 46, comes out of retirement at Ravenna and lasts 45 minutes",
+    "date": "2026-11-15",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50489043/ronaldinho-ravenna-brazil-barcelona-serie-c",
+    "entities": [
+      "Ronaldinho",
+      "Ravenna",
+      "Forlì",
+      "Giulio Donati"
+    ],
+    "facts": [
+      "Ronaldinho played 45 minutes for Serie C side Ravenna against Forlì on 15 November, aiming to reach 300 career goals.",
+      "He did not score, though a corner he took nearly produced an assist and he helped build the opening goal by shielding the ball, which led to a strike from Giulio Donati.",
+      "He is 46 and had retired on 299 career goals after his last match for Fluminense in September 2015."
+    ],
+    "background": "ESPN describes him as a former Barcelona and AC Milan forward, a 2002 World Cup winner and a two-time FIFA World Player of the Year.",
+    "angle": "viral",
+    "sensitive": false,
+    "footage_terms": [
+      "Ronaldinho Ravenna comeback",
+      "Ronaldinho Forlì Serie C highlights",
+      "Ronaldinho 300th goal attempt"
+    ],
+    "confidence": "high"
+  },
+  {
+    "headline": "What the football world looked like at the last GTA release: peak Messi vs Ronaldo, and now Kane",
+    "date": "2026-11-19",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50530231/gta-vi-messi-ronaldo-manchester-united",
+    "entities": [
+      "Lionel Messi",
+      "Cristiano Ronaldo",
+      "Harry Kane",
+      "José Mourinho",
+      "Mauricio Pochettino",
+      "Manchester United"
+    ],
+    "facts": [
+      "ESPN's Chris Wright compares the game in 2013, when GTA V came out, with 2026: Messi had four Ballons d'Or to Ronaldo's two then, and now has eight to Ronaldo's five.",
+      "Both have now retired from international football; Messi chases a second MLS title at Inter Miami and Ronaldo is nearing 1,000 career goals at Al Nassr.",
+      "Manchester United have had seven permanent managers since 2013 and have now appointed Mauricio Pochettino, while Mourinho is back at Real Madrid."
+    ],
+    "background": "GTA V was released in September 2013, a 13-year gap before GTA VI, per ESPN.",
+    "angle": "viral",
+    "sensitive": false,
+    "footage_terms": [
+      "GTA 6 release footballers playing",
+      "Messi Ronaldo 2013 peak highlights",
+      "Messi vs Ronaldo rivalry compilation"
+    ],
+    "confidence": "medium"
+  }
+]

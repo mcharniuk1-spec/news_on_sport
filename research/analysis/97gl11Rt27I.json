@@ -1,0 +1,120 @@
+{
+ "video_id": "97gl11Rt27I",
+ "topic": "Short: AI-voiced Messi and Ronaldo parody - Ronaldo reportedly retiring from national team; Messi cannot believe it",
+ "hero": "Cristiano Ronaldo and Lionel Messi (AI-voiced characters)",
+ "hero_role": "Ronaldo as the upset one, Messi as listener",
+ "media_type_overall": "AI-generated video",
+ "hook": "Messi face with headphones and caption RONALDO RETIRED? with crying emoji",
+ "subtitle_style": "Bold black text on yellow highlight box at lower edge (RONALDO RETIRED?) plus crying emoji; later no captions",
+ "reaction_overlays": "Crying face emoji next to caption, split-screen face-cam on top, game footage below; headphones for character",
+ "transition_summary": "Hard cuts alternating Messi and Ronaldo faces every ~2-4 s; no scene cuts detected, lower game footage is continuous",
+ "audio_note": "AI-generated voices (disclaimer); transcript: Ronaldo, what happened? I hate Jorge Jesus...",
+ "reuse_segments": [
+  {
+   "t0": 0,
+   "t1": 22,
+   "what": "FC game footage; Ronaldo shooting at goal",
+   "origin_guess": "game",
+   "rights_risk": "medium",
+   "how_to_reuse": "own recording"
+  },
+  {
+   "t0": 0,
+   "t1": 22,
+   "what": "Face-cam AI avatars",
+   "origin_guess": "AI",
+   "rights_risk": "medium",
+   "how_to_reuse": "generate original characters"
+  }
+ ],
+ "frames": [
+  {
+   "idx": 1,
+   "t": 0,
+   "desc": "Top: Messi with blue headphones; bottom: game shot of player near goal; caption RONALDO RETIRED?",
+   "type": "ai_generated",
+   "text_on_screen": "RONALDO RETIRED?",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 2,
+   "t": 2,
+   "desc": "Top: Ronaldo crying face red headphones desert bg; bottom: player no.7 in white with ball near goal",
+   "type": "ai_generated",
+   "text_on_screen": "RONALDO RETIRED?",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 3,
+   "t": 4,
+   "desc": "Top: Ronaldo sad expression; bottom: Ronaldo no.7 dribbling in game",
+   "type": "ai_generated",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 4,
+   "t": 6,
+   "desc": "Top: Ronaldo sad expression; bottom: Ronaldo no.7 dribbling in game",
+   "type": "ai_generated",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 5,
+   "t": 8,
+   "desc": "Top: Messi listening; bottom: no.7 shoots, keeper dives",
+   "type": "ai_generated",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 6,
+   "t": 10,
+   "desc": "Top: Messi listening; bottom: no.7 shoots, keeper dives",
+   "type": "ai_generated",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 7,
+   "t": 12,
+   "desc": "Top: Ronaldo crying; bottom: training cones course with player in blue",
+   "type": "ai_generated",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 8,
+   "t": 14,
+   "desc": "Top: Ronaldo crying; bottom: training cones course with player in blue",
+   "type": "ai_generated",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 9,
+   "t": 16,
+   "desc": "Top: Messi; bottom: player running through cones",
+   "type": "ai_generated",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 10,
+   "t": 18,
+   "desc": "Top: Messi; bottom: player running through cones",
+   "type": "ai_generated",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 11,
+   "t": 20,
+   "desc": "Top: Ronaldo sad; bottom: cone course player running",
+   "type": "ai_generated",
+   "text_on_screen": "",
+   "transition_to_next": "none"
+  }
+ ]
+}

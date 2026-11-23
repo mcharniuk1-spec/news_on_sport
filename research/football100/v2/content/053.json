@@ -1,0 +1,589 @@
+{
+ "no": 53,
+ "style": "FLAT-POP",
+ "prop": "ball",
+ "cast": {
+  "cap": {
+   "role": "player",
+   "number": "7",
+   "shirt": "#f2b632",
+   "hair": "#3a2a1a"
+  },
+  "mate": {
+   "role": "striker",
+   "number": "9",
+   "shirt": "#f2b632",
+   "hair": "#1d1d2b"
+  },
+  "keeper": {
+   "role": "keeper",
+   "number": "1",
+   "shirt": "#2fa36b",
+   "hair": "#6b4a2a"
+  },
+  "rival": {
+   "role": "striker",
+   "number": "11",
+   "shirt": "#d9534f",
+   "hair": "#a03a2a"
+  },
+  "def1": {
+   "role": "player",
+   "number": "4",
+   "shirt": "#f2b632",
+   "hair": "#a0522d"
+  },
+  "def2": {
+   "role": "player",
+   "number": "5",
+   "shirt": "#f2b632",
+   "hair": "#2b2b3a"
+  }
+ },
+ "sequences": {
+  "s01": {
+   "type": "HOOK",
+   "q": "Can anyone top 77 MLS points?",
+   "prop": "trophy",
+   "emote": "shock",
+   "board": "neon"
+  },
+  "s02": {
+   "type": "COMIC",
+   "bg": "sky",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "cap",
+       "x": 290,
+       "y": 1440,
+       "pose": "point",
+       "emote": "happy",
+       "scale": 1.35
+      },
+      {
+       "id": "mate",
+       "x": 520,
+       "y": 1440,
+       "pose": "think",
+       "emote": "sweat",
+       "scale": 1.0
+      }
+     ],
+     "props": [
+      {
+       "kind": "ladder",
+       "x": 800,
+       "y": 980,
+       "scale": 3.0,
+       "layer": "back"
+      },
+      {
+       "kind": "scoreboard",
+       "x": 540,
+       "y": 560,
+       "scale": 1.2,
+       "text": "77"
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.42,
+     "actors": [
+      {
+       "id": "cap",
+       "x": 290,
+       "y": 1440,
+       "pose": "cheer",
+       "emote": "happy",
+       "scale": 1.35
+      },
+      {
+       "id": "mate",
+       "x": 800,
+       "y": 1440,
+       "pose": "jump",
+       "emote": "sweat",
+       "scale": 1.0,
+       "lift": 260
+      }
+     ],
+     "props": [
+      {
+       "kind": "ladder",
+       "x": 800,
+       "y": 980,
+       "scale": 3.0,
+       "layer": "back"
+      },
+      {
+       "kind": "scoreboard",
+       "x": 540,
+       "y": 560,
+       "scale": 1.2,
+       "text": "77"
+      },
+      {
+       "kind": "podium-box",
+       "x": 800,
+       "y": 560,
+       "scale": 0.9,
+       "anim": "pop"
+      },
+      {
+       "kind": "ball",
+       "x": 800,
+       "y": 430,
+       "scale": 1.1,
+       "anim": "pop"
+      }
+     ],
+     "cam": "push"
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.42,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "cap",
+       "x": 290,
+       "y": 1440,
+       "pose": "cheer",
+       "emote": "happy",
+       "scale": 1.35
+      },
+      {
+       "id": "mate",
+       "x": 800,
+       "y": 1440,
+       "pose": "cheer",
+       "emote": "happy",
+       "scale": 1.0,
+       "lift": 330
+      }
+     ],
+     "props": [
+      {
+       "kind": "ladder",
+       "x": 800,
+       "y": 980,
+       "scale": 3.0,
+       "layer": "back"
+      },
+      {
+       "kind": "scoreboard",
+       "x": 540,
+       "y": 560,
+       "scale": 1.2,
+       "text": "77"
+      },
+      {
+       "kind": "podium-box",
+       "x": 800,
+       "y": 560,
+       "scale": 0.9
+      },
+      {
+       "kind": "ball",
+       "x": 800,
+       "y": 430,
+       "scale": 1.1
+      }
+     ],
+     "fx": [
+      {
+       "kind": "sparkle",
+       "x": 800,
+       "y": 430
+      }
+     ]
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "cap",
+       "x": 290,
+       "y": 1440,
+       "pose": "shock",
+       "emote": "shock",
+       "scale": 1.35
+      },
+      {
+       "id": "mate",
+       "x": 800,
+       "y": 1440,
+       "pose": "shock",
+       "emote": "shock",
+       "scale": 1.0,
+       "lift": 330
+      }
+     ],
+     "props": [
+      {
+       "kind": "ladder",
+       "x": 800,
+       "y": 900,
+       "scale": 3.5,
+       "layer": "back"
+      },
+      {
+       "kind": "scoreboard",
+       "x": 540,
+       "y": 560,
+       "scale": 1.2,
+       "text": "77"
+      },
+      {
+       "kind": "podium-box",
+       "x": 800,
+       "y": 500,
+       "scale": 0.9
+      },
+      {
+       "kind": "ball",
+       "x": 800,
+       "y": 380,
+       "scale": 1.1
+      }
+     ],
+     "sfx": {
+      "text": "DING",
+      "x": 300,
+      "y": 520,
+      "r": 140
+     }
+    }
+   ]
+  },
+  "s03": {
+   "type": "COMIC",
+   "bg": "pitch",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "def1",
+       "x": 245,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "neutral",
+       "scale": 1.15
+      },
+      {
+       "id": "def2",
+       "x": 835,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "neutral",
+       "scale": 1.15,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "door",
+       "x": 540,
+       "y": 1180,
+       "scale": 2.8
+      },
+      {
+       "kind": "ball",
+       "x": 690,
+       "y": 1400,
+       "scale": 0.8
+      },
+      {
+       "kind": "podium-box",
+       "x": 540,
+       "y": 1380,
+       "scale": 1.0,
+       "layer": "back"
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.42,
+     "actors": [
+      {
+       "id": "def1",
+       "x": 245,
+       "y": 1440,
+       "pose": "cheer",
+       "emote": "happy",
+       "scale": 1.15
+      },
+      {
+       "id": "def2",
+       "x": 835,
+       "y": 1440,
+       "pose": "cheer",
+       "emote": "happy",
+       "scale": 1.15,
+       "flip": true
+      },
+      {
+       "id": "keeper",
+       "x": 540,
+       "y": 900,
+       "pose": "wave",
+       "emote": "happy",
+       "scale": 1.0,
+       "hold": {
+        "kind": "flag",
+        "hand": "R",
+        "scale": 0.8
+       }
+      }
+     ],
+     "props": [
+      {
+       "kind": "door",
+       "x": 540,
+       "y": 1180,
+       "scale": 2.8
+      },
+      {
+       "kind": "ball",
+       "x": 690,
+       "y": 1400,
+       "scale": 0.8
+      },
+      {
+       "kind": "podium-box",
+       "x": 540,
+       "y": 1380,
+       "scale": 1.0,
+       "layer": "back"
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.42,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "def1",
+       "x": 245,
+       "y": 1440,
+       "pose": "cheer",
+       "emote": "happy",
+       "scale": 1.15
+      },
+      {
+       "id": "def2",
+       "x": 835,
+       "y": 1440,
+       "pose": "cheer",
+       "emote": "happy",
+       "scale": 1.15,
+       "flip": true
+      },
+      {
+       "id": "keeper",
+       "x": 540,
+       "y": 900,
+       "pose": "wave",
+       "emote": "smug",
+       "scale": 1.0,
+       "hold": {
+        "kind": "flag",
+        "hand": "R",
+        "scale": 0.8
+       }
+      },
+      {
+       "id": "rival",
+       "x": 200,
+       "y": 1470,
+       "pose": "run",
+       "emote": "neutral",
+       "scale": 0.95
+      }
+     ],
+     "props": [
+      {
+       "kind": "door",
+       "x": 540,
+       "y": 1180,
+       "scale": 2.8
+      },
+      {
+       "kind": "ball",
+       "x": 690,
+       "y": 1400,
+       "scale": 0.8
+      },
+      {
+       "kind": "podium-box",
+       "x": 540,
+       "y": 1380,
+       "scale": 1.0,
+       "layer": "back"
+      }
+     ]
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "def1",
+       "x": 245,
+       "y": 1440,
+       "pose": "thumbsup",
+       "emote": "smug",
+       "scale": 1.15
+      },
+      {
+       "id": "def2",
+       "x": 835,
+       "y": 1440,
+       "pose": "thumbsup",
+       "emote": "smug",
+       "scale": 1.15,
+       "flip": true
+      },
+      {
+       "id": "keeper",
+       "x": 540,
+       "y": 900,
+       "pose": "cheer",
+       "emote": "wink",
+       "scale": 1.0,
+       "hold": {
+        "kind": "flag",
+        "hand": "R",
+        "scale": 0.8
+       }
+      },
+      {
+       "id": "rival",
+       "x": 540,
+       "y": 1470,
+       "pose": "headscratch",
+       "emote": "sad",
+       "scale": 0.95
+      }
+     ],
+     "props": [
+      {
+       "kind": "door",
+       "x": 540,
+       "y": 1180,
+       "scale": 2.8
+      },
+      {
+       "kind": "ball",
+       "x": 690,
+       "y": 1400,
+       "scale": 0.8
+      },
+      {
+       "kind": "podium-box",
+       "x": 540,
+       "y": 1380,
+       "scale": 1.0,
+       "layer": "back"
+      },
+      {
+       "kind": "padlock",
+       "x": 540,
+       "y": 975,
+       "scale": 1.1,
+       "anim": "drop"
+      }
+     ],
+     "sfx": {
+      "text": "CLANG",
+      "x": 800,
+      "y": 700,
+      "r": 130
+     }
+    }
+   ]
+  },
+  "s04": {
+   "type": "PROVOC",
+   "q": "What wins titles: defence or goals?",
+   "a": "Defence",
+   "b": "Goals",
+   "split": [
+    61,
+    39
+   ],
+   "mood": "smug"
+  },
+  "s05": {
+   "type": "INTERVIEW",
+   "label": "REPORTER ASKS",
+   "bubble": "Not glamorous, but very effective?",
+   "answer": {
+    "icon": "gloves",
+    "gesture": "present",
+    "emote": "smug"
+   },
+   "subject": "Brian Schwake",
+   "subject_cast": "keeper"
+  },
+  "s06": {
+   "type": "NEWS",
+   "name": "Nashville SC",
+   "fact": "top seed in the East",
+   "ticker": "East top seed",
+   "icons": [
+    "crown",
+    "flag",
+    "calendar"
+   ],
+   "role": "player",
+   "actor": "cap"
+  },
+  "s07": {
+   "type": "STATS",
+   "items": [
+    {
+     "icon": "trophy",
+     "value": "77",
+     "label": "MLS record"
+    },
+    {
+     "icon": "chart-up",
+     "value": "74",
+     "label": "Inter Miami"
+    },
+    {
+     "icon": "coin",
+     "value": "3",
+     "label": "Three extra points"
+    }
+   ]
+  }
+ }
+}

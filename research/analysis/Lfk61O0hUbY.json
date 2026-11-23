@@ -1,0 +1,64 @@
+{
+ "video_id": "Lfk61O0hUbY",
+ "topic": "Football meme: Camavinga's future at Real Madrid in doubt ('it's over for Camavinga', 'for sale', 'the real dictator?')",
+ "hero": "Eduardo Camavinga (identified from card/caption)",
+ "hero_role": "butt of the joke",
+ "media_type_overall": "mixed",
+ "hook": "Match clip of Real Madrid players with caption 'it's over for camavinga' with skull/rose and laughing emoji",
+ "subtitle_style": "white sans-serif small text above clip with emoji, then bold white 'FOR SALE' headline and red banner text",
+ "reaction_overlays": "emoji (wilted rose, laughing), red X marks, cropped letterbox",
+ "transition_summary": "Rapid cuts in first 6 s (14 cuts listed in 6.5 s), clips and stills flicker; hard cuts",
+ "audio_note": "unknown; meme audio likely",
+ "reuse_segments": [
+  {
+   "t0": 0,
+   "t1": 4,
+   "what": "Real Madrid match clip with scoreboard",
+   "origin_guess": "broadcast match",
+   "rights_risk": "high",
+   "how_to_reuse": "licensed footage only"
+  },
+  {
+   "t0": 4,
+   "t1": 8,
+   "what": "Portrait/thumbnail stills for FOR SALE and dictator gag",
+   "origin_guess": "unknown",
+   "rights_risk": "high",
+   "how_to_reuse": "licensed photos or generated imagery"
+  }
+ ],
+ "frames": [
+  {
+   "idx": 1,
+   "t": 0,
+   "desc": "Real Madrid players celebrate in white kit on pitch, black letterbox bars, caption above",
+   "type": "video",
+   "text_on_screen": "it's over for camavinga 🥀😂",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 2,
+   "t": 2,
+   "desc": "Real Madrid player #8 hugged by teammate, same caption, scoreboard top-left",
+   "type": "video",
+   "text_on_screen": "it's over for camavinga 🥀😂",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 3,
+   "t": 4,
+   "desc": "studio portrait of Eduardo Camavinga (per card) on dark background, headline FOR SALE",
+   "type": "static_image",
+   "text_on_screen": "FOR SALE",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 4,
+   "t": 6,
+   "desc": "thumbnail graphic: man in military cap with Real Madrid crest and red X marks, headline THE REAL DICTATOR?",
+   "type": "static_image",
+   "text_on_screen": "THE REAL DICTATOR?",
+   "transition_to_next": "none"
+  }
+ ]
+}

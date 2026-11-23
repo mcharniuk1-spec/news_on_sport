@@ -1,0 +1,280 @@
+{
+ "video_id": "92hdge4-6kY",
+ "topic": "Sky Sports Premier League panel (Carragher, Sturridge, Wright) praises Arsenal and Arteta after strong start",
+ "hero": "Mikel Arteta (graphic) / Jamie Carragher",
+ "hero_role": "subject of discussion / pundit",
+ "media_type_overall": "mixed",
+ "hook": "Results This Season graphic with Arteta portrait in orange Arsenal training top, fixtures table",
+ "subtitle_style": "none; lower-third table of Premier League standings on pundit shots",
+ "reaction_overlays": "League table overlay, Sky Sports branding bug; no reaction overlays",
+ "transition_summary": "Static graphic for ~24 s, then two long pundit shots; cuts at 52, 60, 100 s (about 1 per 30 s)",
+ "audio_note": "Studio commentary speech (They are racking them up. Another victory here today)",
+ "reuse_segments": [
+  {
+   "t0": 0,
+   "t1": 24,
+   "what": "Results This Season graphic with Arteta photo",
+   "origin_guess": "graphic card",
+   "rights_risk": "medium",
+   "how_to_reuse": "recreate with own graphic and licensed photo"
+  },
+  {
+   "t0": 24,
+   "t1": 58,
+   "what": "Pundit talking-head clips",
+   "origin_guess": "TV studio",
+   "rights_risk": "high",
+   "how_to_reuse": "needs licensed source or transcribe and re-voice"
+  }
+ ],
+ "frames": [
+  {
+   "idx": 1,
+   "t": 0,
+   "desc": "Results This Season graphic: fixture list with scores and Arteta portrait in Emirates training top, static",
+   "type": "graphic_card",
+   "text_on_screen": "Results This Season Premier League",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 2,
+   "t": 2,
+   "desc": "Results This Season graphic: fixture list with scores and Arteta portrait in Emirates training top, static",
+   "type": "graphic_card",
+   "text_on_screen": "Results This Season Premier League",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 3,
+   "t": 4,
+   "desc": "Results This Season graphic: fixture list with scores and Arteta portrait in Emirates training top, static",
+   "type": "graphic_card",
+   "text_on_screen": "Results This Season Premier League",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 4,
+   "t": 6,
+   "desc": "Results This Season graphic: fixture list with scores and Arteta portrait in Emirates training top, static",
+   "type": "graphic_card",
+   "text_on_screen": "Results This Season Premier League",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 5,
+   "t": 8,
+   "desc": "Results This Season graphic: fixture list with scores and Arteta portrait in Emirates training top, static",
+   "type": "graphic_card",
+   "text_on_screen": "Results This Season Premier League",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 6,
+   "t": 10,
+   "desc": "Results This Season graphic: fixture list with scores and Arteta portrait in Emirates training top, static",
+   "type": "graphic_card",
+   "text_on_screen": "Results This Season Premier League",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 7,
+   "t": 12,
+   "desc": "Results This Season graphic: fixture list with scores and Arteta portrait in Emirates training top, static",
+   "type": "graphic_card",
+   "text_on_screen": "Results This Season Premier League",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 8,
+   "t": 14,
+   "desc": "Results This Season graphic: fixture list with scores and Arteta portrait in Emirates training top, static",
+   "type": "graphic_card",
+   "text_on_screen": "Results This Season Premier League",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 9,
+   "t": 16,
+   "desc": "Results This Season graphic: fixture list with scores and Arteta portrait in Emirates training top, static",
+   "type": "graphic_card",
+   "text_on_screen": "Results This Season Premier League",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 10,
+   "t": 18,
+   "desc": "Results This Season graphic: fixture list with scores and Arteta portrait in Emirates training top, static",
+   "type": "graphic_card",
+   "text_on_screen": "Results This Season Premier League",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 11,
+   "t": 20,
+   "desc": "Results This Season graphic: fixture list with scores and Arteta portrait in Emirates training top, static",
+   "type": "graphic_card",
+   "text_on_screen": "Results This Season Premier League",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 12,
+   "t": 22,
+   "desc": "Results This Season graphic: fixture list with scores and Arteta portrait in Emirates training top, static",
+   "type": "graphic_card",
+   "text_on_screen": "Results This Season Premier League",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 13,
+   "t": 24,
+   "desc": "Jamie Carragher in black top on red Arsenal backdrop, talking, arms folded then gesturing",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 14,
+   "t": 26,
+   "desc": "Jamie Carragher in black top on red Arsenal backdrop, talking, arms folded then gesturing",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 15,
+   "t": 28,
+   "desc": "Jamie Carragher in black top on red Arsenal backdrop, talking, arms folded then gesturing",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 16,
+   "t": 30,
+   "desc": "Jamie Carragher in black top on red Arsenal backdrop, talking, arms folded then gesturing",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 17,
+   "t": 32,
+   "desc": "Jamie Carragher in black top on red Arsenal backdrop, talking, arms folded then gesturing",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 18,
+   "t": 34,
+   "desc": "Jamie Carragher in black top on red Arsenal backdrop, talking, arms folded then gesturing",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 19,
+   "t": 36,
+   "desc": "Carragher in black top, standings table overlay bottom-right",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 20,
+   "t": 38,
+   "desc": "Carragher in black top, standings table overlay bottom-right",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 21,
+   "t": 40,
+   "desc": "Carragher in black top, standings table overlay bottom-right",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 22,
+   "t": 42,
+   "desc": "Carragher in black top, standings table overlay bottom-right",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 23,
+   "t": 44,
+   "desc": "Carragher in black top, standings table overlay bottom-right",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 24,
+   "t": 46,
+   "desc": "Carragher in black top, standings table overlay bottom-right",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 25,
+   "t": 48,
+   "desc": "Carragher medium close shot with table",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 26,
+   "t": 50,
+   "desc": "Carragher medium close shot with table",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 27,
+   "t": 52,
+   "desc": "Wide Super Sunday studio set with four pundits seated, Arsenal graphics",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 28,
+   "t": 54,
+   "desc": "Wide Super Sunday studio set with four pundits seated, Arsenal graphics",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 29,
+   "t": 56,
+   "desc": "Wide Super Sunday studio set with four pundits seated, Arsenal graphics",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 30,
+   "t": 58,
+   "desc": "Wide Super Sunday studio set with four pundits seated, Arsenal graphics",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 31,
+   "t": 60,
+   "desc": "Daniel Sturridge in beige jumper on red backdrop",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "none"
+  }
+ ]
+}

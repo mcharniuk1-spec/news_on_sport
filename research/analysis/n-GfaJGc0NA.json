@@ -1,0 +1,152 @@
+{
+ "video_id": "n-GfaJGc0NA",
+ "topic": "46-year-old Ronaldinho returns from retirement and plays for a new team (Official: Ronaldinho out of retirement)",
+ "hero": "Ronaldinho (per title/captions; white shirt #10)",
+ "hero_role": "protagonist returning veteran",
+ "media_type_overall": "fan phone/stadium footage",
+ "hook": "Night pitch phone clip of white-kit players with caption MEANINGFUL, then white-shirt hug scene",
+ "subtitle_style": "bold white italic caps with black outline, centred mid-frame, one word per beat",
+ "reaction_overlays": "stats card (4,068 DAYS last game to return; 299 vs 0 goals), 'Official: Ronaldinho out of retirement' tag, OMG emoji sticker bar, 'Ronaldinho still got it' emoji sticker",
+ "transition_summary": "Fast hard cuts (about 5 cuts/10s, 16 in 33s); mixed phone zooms and stadium shots; word-by-word captions drive rhythm",
+ "audio_note": "Likely voice-over/TTS narrating the story with music (no transcript)",
+ "reuse_segments": [
+  {
+   "t0": 0,
+   "t1": 33,
+   "what": "Phone/stadium footage of Ronaldinho comeback match",
+   "origin_guess": "fan edit",
+   "rights_risk": "high",
+   "how_to_reuse": "Third-party fan footage; recreate with licensed/stock clips and own captions"
+  }
+ ],
+ "frames": [
+  {
+   "idx": 1,
+   "t": 0,
+   "desc": "Night pitch, distant players in white kit, wide phone clip, caption MEANINGFUL",
+   "type": "video",
+   "text_on_screen": "MEANINGFUL",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 2,
+   "t": 2,
+   "desc": "Players in white embracing, smiling #10 face in centre, caption 2026",
+   "type": "video",
+   "text_on_screen": "2026",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 3,
+   "t": 4,
+   "desc": "Player in white behind fence, staff and photographers beyond, caption BEFORE",
+   "type": "video",
+   "text_on_screen": "BEFORE",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 4,
+   "t": 6,
+   "desc": "Three white-kit players walking on pitch at night, caption BEFORE",
+   "type": "video",
+   "text_on_screen": "BEFORE",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 5,
+   "t": 8,
+   "desc": "Dressing room: older staff and photographers, caption RONALDINHO",
+   "type": "video",
+   "text_on_screen": "RONALDINHO",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 6,
+   "t": 10,
+   "desc": "Dressing room: staff with man in cap and team members seated, caption INSTRUCTIONS",
+   "type": "video",
+   "text_on_screen": "INSTRUCTIONS",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 7,
+   "t": 12,
+   "desc": "Staff and person in navy hoodie walking out near fence, caption ALL",
+   "type": "video",
+   "text_on_screen": "ALL",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 8,
+   "t": 14,
+   "desc": "Wide empty pitch with distant players, caption LITERALLY",
+   "type": "video",
+   "text_on_screen": "LITERALLY",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 9,
+   "t": 16,
+   "desc": "Goal with keeper in green, caption IMPOSSIBLE",
+   "type": "video",
+   "text_on_screen": "IMPOSSIBLE",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 10,
+   "t": 18,
+   "desc": "White-kit player standing with child mascot, stats card 4,068 DAYS last game to return, caption 68",
+   "type": "video",
+   "text_on_screen": "68  4,068 DAYS LAST GAME >> RETURN",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 11,
+   "t": 20,
+   "desc": "Wide pitch, white-kit players, text 'Official: Ronaldinho out of retirement', caption PROFESSIONAL",
+   "type": "video",
+   "text_on_screen": "Official: Ronaldinho out of retirement  PROFESSIONAL",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 12,
+   "t": 22,
+   "desc": "Same wide pitch shot, caption WAS",
+   "type": "video",
+   "text_on_screen": "Official: Ronaldinho out of retirement  WAS",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 13,
+   "t": 24,
+   "desc": "Player in white near goal net, stats card 299 goals vs 0 goals, caption IN",
+   "type": "video",
+   "text_on_screen": "299 GOALS / 0 GOALS  IN",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 14,
+   "t": 26,
+   "desc": "White-kit #10 vs black-kit #8 player, caption IT",
+   "type": "video",
+   "text_on_screen": "IT",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 15,
+   "t": 28,
+   "desc": "Player in white tackling with black-kit players, caption UNFORTUNATELY",
+   "type": "video",
+   "text_on_screen": "UNFORTUNATELY",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 16,
+   "t": 30,
+   "desc": "Pitch with white and black kit players, sticker OMG and text 'Ronaldinho still got it', caption PRE",
+   "type": "video",
+   "text_on_screen": "OMG  Ronaldinho still got it  PRE",
+   "transition_to_next": "none"
+  }
+ ]
+}

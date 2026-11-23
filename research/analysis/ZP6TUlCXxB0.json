@@ -1,0 +1,272 @@
+{
+ "video_id": "ZP6TUlCXxB0",
+ "topic": "Lamine Yamal skills, goals and dribbling highlight reel for Barcelona 2026/27",
+ "hero": "Lamine Yamal (Barcelona #10)",
+ "hero_role": "protagonist of highlight reel",
+ "media_type_overall": "real broadcast footage",
+ "hook": "Black screen with animated 'M FOOTBALL' channel logo intro (no football action in first seconds)",
+ "subtitle_style": "none; persistent small white 'M' watermark top-right",
+ "reaction_overlays": "none besides M watermark",
+ "transition_summary": "5 s logo intro, then hard cuts between wide tactical, close-up and goal-mouth broadcast clips; about 1 cut per 3-4 s in sample (only 4 detected hard cuts after 30 s)",
+ "audio_note": "unknown; likely music-only highlight edit",
+ "reuse_segments": [
+  {
+   "t0": 5,
+   "t1": 60,
+   "what": "Yamal highlights from multiple La Liga/UCL matches",
+   "origin_guess": "broadcast match",
+   "rights_risk": "high",
+   "how_to_reuse": "needs licensed broadcast; recreate with generated imagery or licensed clips; drop M watermark"
+  }
+ ],
+ "frames": [
+  {
+   "idx": 1,
+   "t": 0,
+   "desc": "Black frame with white 'M FOOTBALL' logo",
+   "type": "graphic_card",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 2,
+   "t": 2,
+   "desc": "Black frame with white 'M FOOTBALL' logo",
+   "type": "graphic_card",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 3,
+   "t": 4,
+   "desc": "Black frame with white 'M FOOTBALL' logo",
+   "type": "graphic_card",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 4,
+   "t": 6,
+   "desc": "Black frame with white 'M FOOTBALL' logo",
+   "type": "graphic_card",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 5,
+   "t": 8,
+   "desc": "Black frame, logo gone",
+   "type": "graphic_card",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 6,
+   "t": 10,
+   "desc": "Wide aerial pitch shot, Barcelona in blue-red vs Rayo white-red",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 7,
+   "t": 12,
+   "desc": "Wide pitch shot, Barca players near halfway",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 8,
+   "t": 14,
+   "desc": "Wide tactical shot, Barcelona attacking",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 9,
+   "t": 16,
+   "desc": "Goal-mouth view, defender clearing, net behind",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 10,
+   "t": 18,
+   "desc": "Wide shot, Barca player running at defender",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 11,
+   "t": 20,
+   "desc": "Close shot Yamal challenged by white-shirted defender",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 12,
+   "t": 22,
+   "desc": "Wide stadium shot, Yamal on the ball",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 13,
+   "t": 24,
+   "desc": "Yamal close-up dribbling, ad boards behind",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 14,
+   "t": 26,
+   "desc": "Wide shot, 'STRAUSS' ad board, Barca attack",
+   "type": "video",
+   "text_on_screen": "STRAUSS",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 15,
+   "t": 28,
+   "desc": "Aerial high shot, small players",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 16,
+   "t": 30,
+   "desc": "Wide shot near box, defenders in white",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 17,
+   "t": 32,
+   "desc": "Medium shot Yamal vs defender #8, ROBLES boards",
+   "type": "video",
+   "text_on_screen": "ROBLES",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 18,
+   "t": 34,
+   "desc": "Goal view, keeper in yellow, Barca players in box",
+   "type": "video",
+   "text_on_screen": "ROBLES",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 19,
+   "t": 36,
+   "desc": "Close shot of feet and ball, red-shirted defender",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 20,
+   "t": 38,
+   "desc": "Medium shot Yamal tricking white-shirted defender",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 21,
+   "t": 40,
+   "desc": "Close-up Yamal beside Raphinha (shirt RAPHINHA)",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 22,
+   "t": 42,
+   "desc": "Close-up two players, shirt RAPHINHA foreground",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 23,
+   "t": 44,
+   "desc": "Wide shot, Yamal approaching box, keeper small",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 24,
+   "t": 46,
+   "desc": "Yamal vs light-blue goalkeeper, close",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 25,
+   "t": 48,
+   "desc": "Close shot Yamal's feet, photographers at edge",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 26,
+   "t": 50,
+   "desc": "Wide shot Barca attack, white defenders",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 27,
+   "t": 52,
+   "desc": "Wide shot, Barca vs white, midfield play",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 28,
+   "t": 54,
+   "desc": "Wide shot, halfway line, Yamal advancing",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 29,
+   "t": 56,
+   "desc": "Wide pitch, Barca vs sky-blue, midfield",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 30,
+   "t": 58,
+   "desc": "Wide pitch, sky-blue team defending",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 31,
+   "t": 60,
+   "desc": "Wide shot, Yamal dribbling past sky-blue player",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "none"
+  }
+ ]
+}

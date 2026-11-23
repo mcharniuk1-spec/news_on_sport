@@ -1,0 +1,87 @@
+{
+ "no": 47,
+ "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/047_vinicius_junior_scores_a_21_minute_h.mp4",
+ "total": 35.0,
+ "outro_start": 29.74,
+ "cover": true,
+ "seq": [
+  {
+   "id": "s01",
+   "kind": "HOOK",
+   "start": 0.1,
+   "end": 1.6,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/047/s01.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s02",
+   "kind": "COMIC1",
+   "start": 3.3,
+   "end": 5.3,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/047/s02.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s03",
+   "kind": "NEWS",
+   "start": 6.933333333333334,
+   "end": 8.7,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/047/s03.mp4",
+   "clip_dur": 1.766,
+   "frames": 42
+  },
+  {
+   "id": "s04",
+   "kind": "COMIC2",
+   "start": 12.066666666666666,
+   "end": 14.066666666666666,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/047/s04.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s05",
+   "kind": "STATS",
+   "start": 18.5,
+   "end": 20.0,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/047/s05.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s06",
+   "kind": "PROVOC",
+   "start": 21.5,
+   "end": 23.0,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/047/s06.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s07",
+   "kind": "INTERVIEW",
+   "start": 24.5,
+   "end": 26.266666666666666,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/047/s07.mp4",
+   "clip_dur": 1.767,
+   "frames": 42
+  }
+ ],
+ "missing": [],
+ "dropped": [],
+ "cards": [],
+ "caption_sprites": 92,
+ "whoosh": [
+  0.0,
+  3.1999999999999997,
+  6.833333333333334,
+  11.966666666666667,
+  18.4,
+  21.4,
+  24.4,
+  29.64
+ ],
+ "shots": 11
+}

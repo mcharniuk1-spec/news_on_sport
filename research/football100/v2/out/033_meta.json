@@ -1,0 +1,93 @@
+{
+ "no": 33,
+ "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/033_man_utd_come_from_two_goals_down_to.mp4",
+ "total": 38.13333333333333,
+ "outro_start": 32.59,
+ "cover": true,
+ "seq": [
+  {
+   "id": "s01",
+   "kind": "HOOK",
+   "start": 0.1,
+   "end": 1.6,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/033/s01.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s02",
+   "kind": "COMIC1",
+   "start": 4.433333333333334,
+   "end": 6.433333333333334,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/033/s02.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s03",
+   "kind": "STATS",
+   "start": 11.1,
+   "end": 12.6,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/033/s03.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s04",
+   "kind": "COMIC2",
+   "start": 17.466666666666665,
+   "end": 19.466666666666665,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/033/s04.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s05",
+   "kind": "NEWS",
+   "start": 21.333333333333332,
+   "end": 23.1,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/033/s05.mp4",
+   "clip_dur": 1.767,
+   "frames": 42
+  },
+  {
+   "id": "s06",
+   "kind": "INTERVIEW",
+   "start": 25.1,
+   "end": 26.866666666666667,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/033/s06.mp4",
+   "clip_dur": 1.767,
+   "frames": 42
+  },
+  {
+   "id": "s07",
+   "kind": "PROVOC",
+   "start": 30.866666666666667,
+   "end": 32.36666666666667,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/033/s07.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  }
+ ],
+ "missing": [],
+ "dropped": [],
+ "cards": [
+  {
+   "text": "Cunha, twice",
+   "a": 8.966666666666667,
+   "b": 10.933333333333334
+  }
+ ],
+ "caption_sprites": 102,
+ "whoosh": [
+  0.0,
+  4.333333333333334,
+  11.0,
+  17.366666666666664,
+  21.23333333333333,
+  25.0,
+  30.766666666666666,
+  32.49
+ ],
+ "shots": 11
+}

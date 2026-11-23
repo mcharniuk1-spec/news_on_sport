@@ -1,0 +1,98 @@
+{
+ "no": 85,
+ "subject": "Trent Alexander-Arnold: from Ballon d'Or ambitions to the Real Madrid bench",
+ "title": "Trent: from Ballon d'Or to the bench",
+ "voice": "kokoro",
+ "comic": false,
+ "style": null,
+ "lines": [
+  {
+   "vo": "He wanted the Ballon d'Or. Now he is watching from the bench.",
+   "card": "Ballon d'Or to bench",
+   "sfx": null,
+   "footage": "Trent Alexander-Arnold Real Madrid 2026"
+  },
+  {
+   "vo": "Trent Alexander-Arnold has started five of sixteen Real Madrid games this season. A season-ticket holder, basically.",
+   "card": "Five of sixteen",
+   "sfx": null,
+   "footage": "Trent Alexander-Arnold Real Madrid bench"
+  },
+  {
+   "vo": "Under José Mourinho, he is behind Federico Valverde and Denzel Dumfries at right back. Third choice.",
+   "card": "Mourinho's pecking order",
+   "sfx": null,
+   "footage": "Alexander-Arnold Liverpool highlights"
+  },
+  {
+   "vo": "He has started eighteen of a possible fifty LaLiga games since joining. The bench knows him well.",
+   "card": "Eighteen of fifty",
+   "sfx": "short bench creak",
+   "footage": "Trent Alexander-Arnold Real Madrid 2026"
+  },
+  {
+   "vo": "He holds the Premier League record for assists by a defender, with sixty-four. Finding teammates is easy. Finding his name on the team sheet is harder.",
+   "card": "Sixty-four assists",
+   "sfx": null,
+   "footage": "Alexander-Arnold assist compilation"
+  },
+  {
+   "vo": "Jamie Carragher says he would take him back to Liverpool. Talk only, so far.",
+   "card": "Carragher says yes",
+   "sfx": null,
+   "footage": "Alexander-Arnold Liverpool return rumours"
+  },
+  {
+   "vo": "His twenty twenty-four dream: first full back to win the Ballon d'Or. Ambition: ten out of ten. Starts: five out of sixteen.",
+   "card": "Bold ambition",
+   "sfx": null,
+   "footage": "Alexander-Arnold Ballon d'Or full back interview"
+  },
+  {
+   "vo": "Need more Real Madrid talk? Match news and betting tips at aboutfootball dot UK.",
+   "card": "aboutfootball.UK",
+   "sfx": null,
+   "footage": "end card"
+  }
+ ],
+ "chars": 805,
+ "est_seconds": 45,
+ "footage_terms": [
+  "Trent Alexander-Arnold Real Madrid bench",
+  "Alexander-Arnold Liverpool return rumours",
+  "Alexander-Arnold Ballon d'Or full back interview",
+  "Trent Alexander-Arnold Real Madrid 2026"
+ ],
+ "inserts": [
+  {
+   "after_line": 0,
+   "story": "A cartoon fullback sits on a bench with a thought bubble showing a golden ball. Gag: the bubble floats upward. Twist: a pin pops it with a soft squeak.",
+   "characters": "generic cartoon fullback",
+   "seconds": 2
+  },
+  {
+   "after_line": 2,
+   "story": "A cartoon bench has a name tag and a cushion with a dent. Gag: a spider spins a web across it. Twist: the spider uses the web as a hammock.",
+   "characters": "generic cartoon bench",
+   "seconds": 2
+  },
+  {
+   "after_line": 3,
+   "story": "A cartoon crossing machine fires balls to the box with number counters. Gag: it spins and fires 64 balls. Twist: a cartoon fullback catches the last one and bows.",
+   "characters": "generic cartoon crossing machine",
+   "seconds": 2
+  }
+ ],
+ "facts_used": [
+  "Started 5 of 16 games for Real Madrid this season; behind Valverde and Dumfries under Mourinho (ev0127)",
+  "Started 18 of a possible 50 LaLiga games since joining (ev0127)",
+  "Carragher said he would take him back to Liverpool (ev0127)",
+  "2024 interview: wanted to be the first full back to win the Ballon d'Or (ev0127)",
+  "Premier League record for assists by a defender, 64 (ev0127 background)",
+  "Real Madrid paid Liverpool 12 million euros in 2025 to sign him early (ev0127 background)",
+  "Real Madrid paid Liverpool 12 million euros in 2025 to sign him early (ev0127 background)",
+  "Real Madrid paid Liverpool 12 million euros in 2025 to sign him early (ev0127 background)"
+ ],
+ "comic_score": 5,
+ "notes": "Non-comic, light roast of the bench time. Liverpool return is talk only, not a confirmed move. 64-assist record is from ev0127 background, not the main facts list: verify before publishing. 'Third choice' is the literal reading of 'behind Valverde and Dumfries'. 'Ambition ten out of ten' is a joke score, not a stat."
+}

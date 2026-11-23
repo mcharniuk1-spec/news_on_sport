@@ -1,0 +1,461 @@
+{
+ "no": 82,
+ "style": "FLAT-POP",
+ "prop": "notepad",
+ "cast": {
+  "deco": {
+   "role": "boss",
+   "shirt": "#1b3a6b",
+   "hair": "#2b2b3a"
+  },
+  "tah": {
+   "role": "player",
+   "number": "4",
+   "shirt": "#d52b1e",
+   "hair": "#3a2a1a"
+  }
+ },
+ "sequences": {
+  "s01": {
+   "type": "HOOK",
+   "q": "Will Bayern let Tah leave?",
+   "prop": "padlock",
+   "emote": "smug",
+   "board": "stamp",
+   "role": "boss"
+  },
+  "s02": {
+   "type": "COMIC",
+   "bg": "street",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "deco",
+       "x": 320,
+       "y": 1440,
+       "pose": "point",
+       "emote": "happy",
+       "scale": 1.35,
+       "label": "Deco"
+      }
+     ],
+     "props": [
+      {
+       "kind": "door",
+       "x": 790,
+       "y": 1115,
+       "scale": 3.2,
+       "face": "neutral",
+       "anim": "pop"
+      },
+      {
+       "kind": "notepad",
+       "x": 790,
+       "y": 900,
+       "scale": 1.3,
+       "anim": "pop"
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.42,
+     "actors": [
+      {
+       "id": "deco",
+       "x": 320,
+       "y": 1440,
+       "pose": "shock",
+       "emote": "shock",
+       "scale": 1.35
+      }
+     ],
+     "props": [
+      {
+       "kind": "door",
+       "x": 790,
+       "y": 1115,
+       "scale": 3.2,
+       "face": "smug"
+      },
+      {
+       "kind": "notepad",
+       "x": 790,
+       "y": 900,
+       "scale": 1.3
+      },
+      {
+       "kind": "thumbs-down",
+       "x": 560,
+       "y": 1060,
+       "scale": 1.3,
+       "anim": "pop"
+      }
+     ],
+     "sfx": {
+      "text": "CREAK",
+      "x": 480,
+      "y": 520,
+      "r": 100
+     }
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.42,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "deco",
+       "x": 320,
+       "y": 1440,
+       "pose": "shock",
+       "emote": "dizzy",
+       "scale": 1.35,
+       "rot": -8
+      }
+     ],
+     "props": [
+      {
+       "kind": "door",
+       "x": 790,
+       "y": 1115,
+       "scale": 3.2,
+       "face": "smug"
+      },
+      {
+       "kind": "notepad",
+       "x": 790,
+       "y": 900,
+       "scale": 1.3
+      },
+      {
+       "kind": "thumbs-down",
+       "x": 500,
+       "y": 1060,
+       "scale": 1.9
+      }
+     ],
+     "cam": "push"
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "deco",
+       "x": 320,
+       "y": 1440,
+       "pose": "facepalm",
+       "emote": "sweat",
+       "scale": 1.35
+      }
+     ],
+     "props": [
+      {
+       "kind": "door",
+       "x": 790,
+       "y": 1115,
+       "scale": 3.2,
+       "face": "angry-cheeky"
+      },
+      {
+       "kind": "notepad",
+       "x": 790,
+       "y": 900,
+       "scale": 1.3
+      },
+      {
+       "kind": "cross",
+       "x": 790,
+       "y": 900,
+       "scale": 1.0,
+       "anim": "pop"
+      },
+      {
+       "kind": "padlock",
+       "x": 790,
+       "y": 1190,
+       "scale": 1.5,
+       "anim": "drop"
+      }
+     ],
+     "sfx": {
+      "text": "BANG",
+      "x": 640,
+      "y": 520,
+      "r": 120
+     }
+    }
+   ]
+  },
+  "s03": {
+   "type": "COMIC",
+   "bg": "pitch",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "tah",
+       "x": 330,
+       "y": 1440,
+       "pose": "present",
+       "emote": "smug",
+       "scale": 1.4,
+       "label": "Jonathan Tah"
+      }
+     ],
+     "props": [
+      {
+       "kind": "notepad",
+       "x": 760,
+       "y": 960,
+       "scale": 2.0,
+       "face": "neutral",
+       "anim": "pop"
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.42,
+     "actors": [
+      {
+       "id": "tah",
+       "x": 330,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "smug",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "notepad",
+       "x": 760,
+       "y": 960,
+       "scale": 2.0,
+       "face": "neutral"
+      },
+      {
+       "kind": "plant",
+       "x": 235,
+       "y": 1385,
+       "scale": 1.0,
+       "anim": "grow"
+      },
+      {
+       "kind": "plant",
+       "x": 425,
+       "y": 1385,
+       "scale": 1.0,
+       "anim": "grow"
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.42,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "tah",
+       "x": 330,
+       "y": 1440,
+       "pose": "shrug",
+       "emote": "shock",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "notepad",
+       "x": 760,
+       "y": 960,
+       "scale": 2.0,
+       "face": "sweat"
+      },
+      {
+       "kind": "plant",
+       "x": 235,
+       "y": 1330,
+       "scale": 1.8
+      },
+      {
+       "kind": "plant",
+       "x": 425,
+       "y": 1330,
+       "scale": 1.8
+      },
+      {
+       "kind": "plant",
+       "x": 120,
+       "y": 1400,
+       "scale": 1.0,
+       "anim": "grow"
+      },
+      {
+       "kind": "plant",
+       "x": 540,
+       "y": 1400,
+       "scale": 1.0,
+       "anim": "grow"
+      }
+     ],
+     "sfx": {
+      "text": "CREAK",
+      "x": 330,
+      "y": 560,
+      "r": 110
+     },
+     "cam": "push"
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "tah",
+       "x": 330,
+       "y": 1440,
+       "pose": "thumbsup",
+       "emote": "smug",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "notepad",
+       "x": 760,
+       "y": 960,
+       "scale": 2.0,
+       "face": "happy"
+      },
+      {
+       "kind": "plant",
+       "x": 235,
+       "y": 1330,
+       "scale": 1.8
+      },
+      {
+       "kind": "plant",
+       "x": 425,
+       "y": 1330,
+       "scale": 1.8
+      },
+      {
+       "kind": "plant",
+       "x": 120,
+       "y": 1400,
+       "scale": 1.0
+      },
+      {
+       "kind": "plant",
+       "x": 540,
+       "y": 1400,
+       "scale": 1.0
+      },
+      {
+       "kind": "paper-plane",
+       "x": 740,
+       "y": 780,
+       "scale": 0.8,
+       "face": "happy",
+       "anim": "drop"
+      },
+      {
+       "kind": "padlock",
+       "x": 860,
+       "y": 1130,
+       "scale": 1.0,
+       "anim": "drop"
+      }
+     ],
+     "sfx": {
+      "text": "DING",
+      "x": 560,
+      "y": 520,
+      "r": 110
+     }
+    }
+   ]
+  },
+  "s04": {
+   "type": "NEWS",
+   "name": "Jonathan Tah",
+   "fact": "Bayern have little interest in selling",
+   "ticker": "Enquiry, not a bid",
+   "icons": [
+    "envelope",
+    "tag",
+    "gift"
+   ],
+   "role": "player",
+   "actor": "tah"
+  },
+  "s05": {
+   "type": "INTERVIEW",
+   "label": "REPORTER ASKS",
+   "bubble": "that is a no, with extra paperwork",
+   "answer": {
+    "icon": "cross",
+    "gesture": "shrug",
+    "emote": "smug"
+   },
+   "subject": "Jonathan Tah",
+   "subject_cast": "tah",
+   "reporter_role": "reporter"
+  },
+  "s06": {
+   "type": "STATS",
+   "items": [
+    {
+     "icon": "calendar",
+     "value": "2029",
+     "label": "Contract to 2029"
+    },
+    {
+     "icon": "notepad",
+     "value": "2",
+     "label": "Two names"
+    },
+    {
+     "icon": "cross",
+     "value": "0",
+     "label": "zero yeses"
+    }
+   ]
+  },
+  "s07": {
+   "type": "PROVOC",
+   "q": "Barça's list: will anyone say yes?",
+   "a": "Yes",
+   "b": "No way",
+   "split": [
+    31,
+    69
+   ],
+   "mood": "smug"
+  }
+ }
+}

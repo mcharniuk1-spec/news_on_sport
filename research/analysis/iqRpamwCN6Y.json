@@ -1,0 +1,272 @@
+{
+ "video_id": "iqRpamwCN6Y",
+ "topic": "FA Cup first round highlights: seventh-tier Wimborne Town beat Crawley Town 2-0 in a huge upset",
+ "hero": "Wimborne Town (seventh-tier underdogs, black and white stripes)",
+ "hero_role": "protagonist underdog team in a cup upset",
+ "media_type_overall": "real broadcast footage",
+ "hook": "Red Emirates FA Cup title card 'Wimborne Town v Crawley Town' with TNT Sports logo, then teams walking out",
+ "subtitle_style": "red title card with white caps text and club badges; live match score bug bottom-left (WST 0-0 CRA, clock); 'LIVE FROM THE WYATT HOMES STADIUM' strap",
+ "reaction_overlays": "none",
+ "transition_summary": "Hard cuts between wide match views, crowd close-ups and flags; broadcast pacing (~1.5 cuts/10s in sampled 60s, many detected only at 50s+)",
+ "audio_note": "English TNT Sports commentary ('This is the Wyatt Homes Stadium, 3,000 people crammed in...') with crowd noise",
+ "reuse_segments": [
+  {
+   "t0": 0,
+   "t1": 62,
+   "what": "Wimborne v Crawley FA Cup highlights (TNT Sports feed)",
+   "origin_guess": "broadcast match",
+   "rights_risk": "high",
+   "how_to_reuse": "Needs TNT/FA licensed footage; keep structure (title card, crowd, ground, kick-off) and recreate with own footage"
+  }
+ ],
+ "frames": [
+  {
+   "idx": 1,
+   "t": 0,
+   "desc": "Red FA Cup title card: Emirates FA Cup First Round, Wimborne Town v Crawley Town, TNT Sports",
+   "type": "graphic_card",
+   "text_on_screen": "FIRST ROUND WIMBORNE TOWN v CRAWLEY TOWN",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 2,
+   "t": 2,
+   "desc": "Title card with club badges added next to names",
+   "type": "graphic_card",
+   "text_on_screen": "FIRST ROUND WIMBORNE TOWN v CRAWLEY TOWN",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 3,
+   "t": 4,
+   "desc": "Teams walking out onto pitch with mascots, red carpet and FA Cup trophy plinth",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 4,
+   "t": 6,
+   "desc": "Teams walking out, goalkeeper in blue, officials, flags",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 5,
+   "t": 8,
+   "desc": "Crowd in stand with FA Cup trophy image on wall, TNT Sports bug",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 6,
+   "t": 10,
+   "desc": "Crowd in stand, trophy graphic behind",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 7,
+   "t": 12,
+   "desc": "Wide shot teams lined up near touchline, flags waving",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 8,
+   "t": 14,
+   "desc": "Wide shot of teams lined up on pitch",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 9,
+   "t": 16,
+   "desc": "Fans in stand with striped flags, children among them",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 10,
+   "t": 18,
+   "desc": "Fans waving black-white flags, family close",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 11,
+   "t": 20,
+   "desc": "Teams walking along touchline, flags",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 12,
+   "t": 22,
+   "desc": "Players walking out, red-kit players and stripes",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 13,
+   "t": 24,
+   "desc": "Players lined up in tunnel exit, red and stripes",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 14,
+   "t": 26,
+   "desc": "Players walking out toward pitch, mascot",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 15,
+   "t": 28,
+   "desc": "Crowd in stand, families and scarves",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 16,
+   "t": 30,
+   "desc": "Wide pitch shot, kick-off, red-kit team spread",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 17,
+   "t": 32,
+   "desc": "Wide pitch view, red team stretched toward goal",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 18,
+   "t": 34,
+   "desc": "Wide pitch view, play near halfway",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 19,
+   "t": 36,
+   "desc": "Wide match shot with clock bug lower-left",
+   "type": "video",
+   "text_on_screen": "bug",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 20,
+   "t": 38,
+   "desc": "Wide match shot, strap 'LIVE FROM THE WYATT HOMES STADIUM WIMBORNE TOWN v CRAWLEY TOWN'",
+   "type": "video",
+   "text_on_screen": "LIVE FROM THE WYATT HOMES STADIUM WIMBORNE TOWN v CRAWLEY TOWN",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 21,
+   "t": 40,
+   "desc": "Wide match with strap at lower third",
+   "type": "video",
+   "text_on_screen": "LIVE FROM THE WYATT HOMES STADIUM WIMBORNE TOWN v CRAWLEY TOWN",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 22,
+   "t": 42,
+   "desc": "Wide match with strap, red and stripes players",
+   "type": "video",
+   "text_on_screen": "LIVE FROM THE WYATT HOMES STADIUM WIMBORNE TOWN v CRAWLEY TOWN",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 23,
+   "t": 44,
+   "desc": "Wide match view, stands behind, play on",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 24,
+   "t": 46,
+   "desc": "Wide match view with FA Cup logo, bug at lower right",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 25,
+   "t": 48,
+   "desc": "Wide shot near goal, score bug WST 0-0 CRA 00:13",
+   "type": "video",
+   "text_on_screen": "WST 0-0 CRA",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 26,
+   "t": 50,
+   "desc": "Close on red-kit player with sponsor shirt, crowd blurred behind",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 27,
+   "t": 52,
+   "desc": "Wide match with white/black and red players, centre circle",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 28,
+   "t": 54,
+   "desc": "Wide match with players in the box, bug 00:23",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 29,
+   "t": 56,
+   "desc": "Wide shot attack near stand roof, goal at left",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 30,
+   "t": 58,
+   "desc": "Close of striped-kit #17 player mid-run, blurred background",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 31,
+   "t": 60,
+   "desc": "Wide match shot from end, bug 04:51",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "none"
+  }
+ ]
+}

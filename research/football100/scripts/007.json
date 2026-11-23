@@ -1,0 +1,90 @@
+{
+ "no": 7,
+ "subject": "Kaka (Ricardo Izecson dos Santos Leite)",
+ "title": "Kaka cried at his Hall of Fame night",
+ "voice": "kokoro",
+ "comic": true,
+ "style": "simpsons",
+ "lines": [
+  {
+   "vo": "Kaka cried on the San Siro pitch. Nobody blamed the onions.",
+   "card": "Kaka cries, San Siro",
+   "sfx": "short bass sting",
+   "footage": "Kaka Milan Hall of Fame ceremony San Siro"
+  },
+  {
+   "vo": "Milan inducted him into the Hall of Fame on the pitch before the derby. A full San Siro watched him cry. Brave.",
+   "card": "Hall of Fame plaque",
+   "sfx": null,
+   "footage": "Milan Hall of Fame ceremony derby day 2026"
+  },
+  {
+   "vo": "Diego Moreira wore Kaka's number twenty-two. He scored a free kick. Then he thanked Kaka for the number. Free number, free kick. Milan won three-one.",
+   "card": "Number 22 scores",
+   "sfx": "crowd cheer",
+   "footage": "Milan 3-1 Inter Moreira free kick highlights"
+  },
+  {
+   "vo": "Kaka then suggested an old Shevchenko chant for Christian Pulisic. Pulisic is in good form. The chant consultant is working.",
+   "card": "Old chant, new hero",
+   "sfx": null,
+   "footage": "Pulisic goal Milan Inter highlights"
+  },
+  {
+   "vo": "Raphinha wears the Brazil number ten Kaka wore at the 2010 World Cup. No pressure, Raphinha.",
+   "card": "Brazil number ten",
+   "sfx": null,
+   "footage": "Kaka 2010 World Cup highlights"
+  },
+  {
+   "vo": "In the video game, Kaka is rated one hundred twenty-four. Real Kaka is a chant consultant. The pixels are doing better.",
+   "card": "Rated 124",
+   "sfx": "record scratch",
+   "footage": "EA FC Mobile Kaka Icon card reveal"
+  },
+  {
+   "vo": "Your mates will never guess this. Match news and betting tips at aboutfootball dot UK.",
+   "card": "aboutfootball.UK",
+   "sfx": null,
+   "footage": "end card, no footage"
+  }
+ ],
+ "chars": 740,
+ "est_seconds": 41,
+ "footage_terms": [
+  "Kaka Milan Hall of Fame 2026",
+  "Kaka 2010 World Cup goals",
+  "Milan Inter 3-1 highlights 2026",
+  "Kaka Ballon d'Or 2007 highlights"
+ ],
+ "inserts": [
+  {
+   "after_line": 2,
+   "story": "Cartoon Milan fans wave scarves while a caricature of Kaka sheds one oversized tear that drips into a tiny bucket. Gag: the bucket overflows into a puddle and a cartoon groundsman wades in. Twist: he switches off the sprinklers and says, no need, we have Kaka.",
+   "characters": "generic cartoon fans and groundsman; caricature of Kaka",
+   "seconds": 2
+  },
+  {
+   "after_line": 3,
+   "story": "A cartoon number 22 shirt hangs in a locker with a sticky note reading Property of Kaka. A caricature of Moreira borrows it politely and scores a free kick. Twist: he returns it dry-cleaned with a thank-you card, signed by the ball too.",
+   "characters": "generic cartoon shirt and ball; caricature of Diego Moreira",
+   "seconds": 2
+  },
+  {
+   "after_line": 4,
+   "story": "A cartoon game console shows a card rated 124, and a caricature of Kaka in a tiny headset asks it for a chant idea. Gag: the card shrugs and asks him the same. Twist: both start singing an old chant, and the cartoon crowd sings along.",
+   "characters": "generic cartoon console; caricature of Kaka",
+   "seconds": 2
+  }
+ ],
+ "facts_used": [
+  "Kaka inducted into AC Milan Hall of Fame on the San Siro pitch before the derby, in tears (bo pack recent_news 2026-10-31)",
+  "Diego Moreira wore Kaka's number 22, scored a free kick, thanked him for the number; Milan 3-1 Inter (bo pack recent_news 2026-10-31)",
+  "Kaka suggested an old Shevchenko chant for Pulisic (bo pack recent_news 2026-10-31); the nationality angle is not used",
+  "Raphinha takes Brazil's No. 10; Kaka wore it at the 2010 World Cup (bo pack roast_now, recent_news 2026-09-25)",
+  "124-rated Icon card in EA FC Mobile, revealed 2026-11-12 (bo pack recent_news)",
+  "Retired, now a chant consultant on derby day (bo pack roast_now)"
+ ],
+ "comic_score": 7,
+ "notes": "after_line is 1-based index into lines. Part A uses newest stories. The old Shevchenko chant includes a nationality reference, so the joke is dropped and only the chant idea is kept. Skipped: divorce rumour and family, Baresi tribute, religion, injuries. Pulisic is a footballer only: no nationality joke. Punch-up pass: 'nobody blamed the onions' is a crying joke only; 'Milan won three-one' is from the Moreira pack fact. No joke on health or family."
+}

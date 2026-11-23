@@ -1,0 +1,718 @@
+{
+ "no": 30,
+ "style": "ACTION-ANIME",
+ "prop": "trophy",
+ "cast": {
+  "kane": {
+   "role": "striker",
+   "number": "9",
+   "shirt": "#2f5fd0",
+   "hair": "#d9b45b"
+  },
+  "ref": {
+   "role": "referee"
+  },
+  "fanA": {
+   "role": "fan",
+   "shirt": "#e8505b"
+  },
+  "fanB": {
+   "role": "fan",
+   "shirt": "#3fb8af",
+   "hair": "#2b2b3a"
+  }
+ },
+ "sequences": {
+  "s01": {
+   "type": "HOOK",
+   "q": "Three lost finals. Will Kane get a trophy?",
+   "prop": "medal",
+   "emote": "sweat",
+   "board": "neon",
+   "role": "striker"
+  },
+  "s02": {
+   "type": "COMIC",
+   "bg": "stadium",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "kane",
+       "x": 240,
+       "y": 1440,
+       "pose": "run",
+       "emote": "angry-cheeky",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "trophy",
+       "x": 780,
+       "y": 800,
+       "scale": 2.0,
+       "anim": "float"
+      },
+      {
+       "kind": "ball",
+       "x": 420,
+       "y": 1410,
+       "scale": 0.8
+      }
+     ],
+     "fx": [
+      {
+       "kind": "speed",
+       "x": 780,
+       "y": 800,
+       "size": 1.0
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.42,
+     "actors": [
+      {
+       "id": "kane",
+       "x": 650,
+       "y": 1440,
+       "pose": "jump",
+       "emote": "angry-cheeky",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "trophy",
+       "x": 240,
+       "y": 620,
+       "scale": 2.0,
+       "rot": -10
+      },
+      {
+       "kind": "ball",
+       "x": 420,
+       "y": 1410,
+       "scale": 0.8
+      }
+     ],
+     "sfx": {
+      "text": "WHOOSH",
+      "x": 560,
+      "y": 420,
+      "r": 100
+     },
+     "cam": "pan",
+     "fx": [
+      {
+       "kind": "speed",
+       "x": 240,
+       "y": 620,
+       "size": 1.0
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.42,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "kane",
+       "x": 280,
+       "y": 1440,
+       "pose": "jump",
+       "emote": "angry-cheeky",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "trophy",
+       "x": 810,
+       "y": 600,
+       "scale": 2.0,
+       "rot": 10
+      },
+      {
+       "kind": "ball",
+       "x": 420,
+       "y": 1410,
+       "scale": 0.8
+      }
+     ],
+     "cam": "pan",
+     "fx": [
+      {
+       "kind": "speed",
+       "x": 810,
+       "y": 600,
+       "size": 1.0
+      }
+     ]
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "kane",
+       "x": 300,
+       "y": 1440,
+       "pose": "shrug",
+       "emote": "sad",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "podium-box",
+       "x": 790,
+       "y": 1270,
+       "scale": 2.0
+      },
+      {
+       "kind": "trophy",
+       "x": 790,
+       "y": 960,
+       "scale": 1.6,
+       "anim": "drop"
+      },
+      {
+       "kind": "medal",
+       "x": 850,
+       "y": 1040,
+       "scale": 0.5
+      },
+      {
+       "kind": "ball",
+       "x": 420,
+       "y": 1410,
+       "scale": 0.8
+      }
+     ]
+    }
+   ]
+  },
+  "s03": {
+   "type": "NEWS",
+   "name": "Harry Kane",
+   "fact": "Lost the 2019 Champions League final",
+   "ticker": "Three lost finals",
+   "icons": [
+    "trophy",
+    "scoreboard",
+    "medal"
+   ],
+   "role": "striker",
+   "actor": "kane",
+   "dateline": "Two-nil, 2019"
+  },
+  "s04": {
+   "type": "COMIC",
+   "bg": "podium",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "kane",
+       "x": 290,
+       "y": 1440,
+       "pose": "present",
+       "emote": "neutral",
+       "scale": 1.4
+      },
+      {
+       "id": "fanA",
+       "x": 760,
+       "y": 1400,
+       "pose": "idle",
+       "emote": "neutral",
+       "scale": 1.0
+      },
+      {
+       "id": "fanB",
+       "x": 920,
+       "y": 1400,
+       "pose": "idle",
+       "emote": "neutral",
+       "scale": 1.0
+      }
+     ],
+     "props": [
+      {
+       "kind": "table",
+       "x": 560,
+       "y": 1350,
+       "scale": 2.0
+      },
+      {
+       "kind": "trophy",
+       "x": 560,
+       "y": 1190,
+       "scale": 1.2
+      },
+      {
+       "kind": "scoreboard",
+       "x": 850,
+       "y": 600,
+       "scale": 1.7,
+       "rot": 0,
+       "face": "neutral",
+       "text": "1:20"
+      },
+      {
+       "kind": "tag",
+       "x": 940,
+       "y": 690,
+       "scale": 0.9,
+       "rot": 0
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.42,
+     "actors": [
+      {
+       "id": "kane",
+       "x": 300,
+       "y": 1440,
+       "pose": "lean",
+       "emote": "sweat",
+       "scale": 1.4
+      },
+      {
+       "id": "fanA",
+       "x": 760,
+       "y": 1400,
+       "pose": "idle",
+       "emote": "neutral",
+       "scale": 1.0
+      },
+      {
+       "id": "fanB",
+       "x": 920,
+       "y": 1400,
+       "pose": "idle",
+       "emote": "neutral",
+       "scale": 1.0
+      }
+     ],
+     "props": [
+      {
+       "kind": "table",
+       "x": 560,
+       "y": 1350,
+       "scale": 2.0
+      },
+      {
+       "kind": "trophy",
+       "x": 560,
+       "y": 1190,
+       "scale": 1.2
+      },
+      {
+       "kind": "scoreboard",
+       "x": 850,
+       "y": 640,
+       "scale": 1.7,
+       "rot": -8,
+       "face": "shock",
+       "text": "1:20"
+      },
+      {
+       "kind": "tag",
+       "x": 940,
+       "y": 730,
+       "scale": 0.9,
+       "rot": 10
+      }
+     ],
+     "sfx": {
+      "text": "THUD",
+      "x": 230,
+      "y": 470,
+      "r": 100
+     }
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.42,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "kane",
+       "x": 270,
+       "y": 1440,
+       "pose": "tired",
+       "emote": "dizzy",
+       "scale": 1.4
+      },
+      {
+       "id": "fanA",
+       "x": 760,
+       "y": 1400,
+       "pose": "idle",
+       "emote": "sweat",
+       "scale": 1.0
+      },
+      {
+       "id": "fanB",
+       "x": 920,
+       "y": 1400,
+       "pose": "idle",
+       "emote": "sweat",
+       "scale": 1.0
+      }
+     ],
+     "props": [
+      {
+       "kind": "table",
+       "x": 560,
+       "y": 1350,
+       "scale": 2.0
+      },
+      {
+       "kind": "trophy",
+       "x": 560,
+       "y": 1190,
+       "scale": 1.2
+      },
+      {
+       "kind": "scoreboard",
+       "x": 850,
+       "y": 700,
+       "scale": 1.8,
+       "rot": 8,
+       "face": "sleepy",
+       "text": "1:20"
+      },
+      {
+       "kind": "tag",
+       "x": 940,
+       "y": 790,
+       "scale": 0.9,
+       "rot": -10
+      }
+     ]
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "kane",
+       "x": 270,
+       "y": 1440,
+       "pose": "tired",
+       "emote": "dizzy",
+       "scale": 1.4
+      },
+      {
+       "id": "fanA",
+       "x": 760,
+       "y": 1400,
+       "pose": "idle",
+       "emote": "sweat",
+       "scale": 1.0
+      },
+      {
+       "id": "fanB",
+       "x": 920,
+       "y": 1400,
+       "pose": "idle",
+       "emote": "sweat",
+       "scale": 1.0
+      }
+     ],
+     "props": [
+      {
+       "kind": "table",
+       "x": 560,
+       "y": 1350,
+       "scale": 2.0
+      },
+      {
+       "kind": "trophy",
+       "x": 560,
+       "y": 1190,
+       "scale": 1.2
+      },
+      {
+       "kind": "chart-up",
+       "x": 930,
+       "y": 340,
+       "scale": 0.8,
+       "anim": "pop"
+      },
+      {
+       "kind": "scoreboard",
+       "x": 850,
+       "y": 680,
+       "scale": 1.7,
+       "rot": 0,
+       "face": "smug",
+       "text": "1:50"
+      },
+      {
+       "kind": "tag",
+       "x": 940,
+       "y": 770,
+       "scale": 0.9,
+       "rot": 0
+      }
+     ],
+     "bubble": {
+      "who": "kane",
+      "text": "Crazy became cheap"
+     }
+    }
+   ]
+  },
+  "s05": {
+   "type": "INTERVIEW",
+   "label": "REPORTER ASKS",
+   "bubble": "Would you turn down a knighthood?",
+   "answer": {
+    "icon": "crown",
+    "gesture": "shrug",
+    "emote": "wink"
+   },
+   "subject": "Harry Kane",
+   "subject_cast": "kane"
+  },
+  "s06": {
+   "type": "COMIC",
+   "bg": "pitch",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "kane",
+       "x": 330,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "smug",
+       "scale": 1.4
+      },
+      {
+       "id": "ref",
+       "x": 830,
+       "y": 1440,
+       "pose": "point",
+       "emote": "neutral",
+       "scale": 1.15,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "goal",
+       "x": 730,
+       "y": 820,
+       "scale": 4.0,
+       "layer": "back"
+      },
+      {
+       "kind": "trophy",
+       "x": 610,
+       "y": 1350,
+       "scale": 1.0
+      },
+      {
+       "kind": "ball",
+       "x": 470,
+       "y": 1400,
+       "scale": 0.9
+      },
+      {
+       "kind": "crown",
+       "x": 730,
+       "y": 520,
+       "scale": 1.5,
+       "anim": "float"
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.52,
+     "actors": [
+      {
+       "id": "kane",
+       "x": 330,
+       "y": 1440,
+       "pose": "kick",
+       "emote": "angry-cheeky",
+       "scale": 1.4
+      },
+      {
+       "id": "ref",
+       "x": 830,
+       "y": 1440,
+       "pose": "shock",
+       "emote": "shock",
+       "scale": 1.15,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "goal",
+       "x": 730,
+       "y": 820,
+       "scale": 4.0,
+       "layer": "back"
+      },
+      {
+       "kind": "trophy",
+       "x": 610,
+       "y": 1350,
+       "scale": 1.0
+      },
+      {
+       "kind": "ball",
+       "x": 700,
+       "y": 700,
+       "scale": 0.8
+      },
+      {
+       "kind": "crown",
+       "x": 730,
+       "y": 520,
+       "scale": 1.5,
+       "face": "happy"
+      }
+     ],
+     "sfx": {
+      "text": "WHOOSH",
+      "x": 330,
+      "y": 470,
+      "r": 100
+     },
+     "cam": "push",
+     "fx": [
+      {
+       "kind": "speed",
+       "x": 560,
+       "y": 900,
+       "size": 1.0
+      }
+     ]
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.52,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "kane",
+       "x": 330,
+       "y": 1440,
+       "pose": "present",
+       "emote": "smug",
+       "scale": 1.4,
+       "hold": {
+        "kind": "crown",
+        "hand": "R",
+        "scale": 0.9
+       }
+      },
+      {
+       "id": "ref",
+       "x": 830,
+       "y": 1440,
+       "pose": "bow",
+       "emote": "smug",
+       "scale": 1.15,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "goal",
+       "x": 730,
+       "y": 820,
+       "scale": 4.0,
+       "layer": "back",
+       "rot": 6
+      },
+      {
+       "kind": "trophy",
+       "x": 610,
+       "y": 1350,
+       "scale": 1.0
+      }
+     ],
+     "bubble": {
+      "who": "kane",
+      "text": "Bayern come first"
+     }
+    }
+   ]
+  },
+  "s07": {
+   "type": "STATS",
+   "items": [
+    {
+     "icon": "trophy",
+     "value": "10",
+     "label": "top ten"
+    },
+    {
+     "icon": "chart-down",
+     "value": "5",
+     "label": "has him fifth"
+    },
+    {
+     "icon": "crown",
+     "value": "1",
+     "label": "Ballon d'Or winner"
+    }
+   ]
+  },
+  "s08": {
+   "type": "PROVOC",
+   "q": "Fifth in November's top ten: fair?",
+   "a": "Fair",
+   "b": "Harsh",
+   "split": [
+    41,
+    59
+   ],
+   "mood": "fun"
+  }
+ }
+}

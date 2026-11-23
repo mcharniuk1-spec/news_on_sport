@@ -1,0 +1,120 @@
+{
+ "video_id": "Y8jfDhtEIc0",
+ "topic": "Short: Rare off-pitch Neymar moments (Brazil, PSG, Barcelona)",
+ "hero": "Neymar",
+ "hero_role": "protagonist",
+ "media_type_overall": "mixed",
+ "hook": "Close-up of a woman reporter with PSG microphone and Neymar laughing at edge",
+ "subtitle_style": "none",
+ "reaction_overlays": "none (vertical crop of clips)",
+ "transition_summary": "Hard cuts every ~1-3 s (cuts at 2.4, 3.8, 6, 8.6, 12 s...), quick succession",
+ "audio_note": "Music or silent (inferred), no transcript",
+ "reuse_segments": [
+  {
+   "t0": 0,
+   "t1": 24,
+   "what": "Neymar behind-the-scenes/ad moments",
+   "origin_guess": "mixed",
+   "rights_risk": "high",
+   "how_to_reuse": "clips from TV/ads; needs licensing or recreate"
+  }
+ ],
+ "frames": [
+  {
+   "idx": 1,
+   "t": 0,
+   "desc": "Woman reporter in dark suit with PSG mic at stadium, others behind",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 2,
+   "t": 2,
+   "desc": "Neymar laughing in black floral shirt, close-up with green hedge",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 3,
+   "t": 4,
+   "desc": "Neymar in yellow Brazil kit and friend in black 00 shirt shadow boxing",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 4,
+   "t": 6,
+   "desc": "Neymar with Dani Alves touching finger to lips/face, Brazil kits",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 5,
+   "t": 8,
+   "desc": "Neymar in yellow Brazil kit at stadium, profile",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 6,
+   "t": 10,
+   "desc": "Neymar in yellow kit close-up at stadium looking aside",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 7,
+   "t": 12,
+   "desc": "Neymar in Barca kit covering face, locker room, ad style",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 8,
+   "t": 14,
+   "desc": "Barca player taking selfie with green phone in kit, smiling",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 9,
+   "t": 16,
+   "desc": "Neymar side face in Barca kit in locker room",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 10,
+   "t": 18,
+   "desc": "Man in white hoodie and cap sitting, wide fall pose",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 11,
+   "t": 20,
+   "desc": "Neymar in Barca kit with medal at trophy ceremony",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 12,
+   "t": 22,
+   "desc": "Neymar in Barca kit holding trophy",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "none"
+  }
+ ]
+}

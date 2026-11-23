@@ -1,0 +1,107 @@
+{
+ "no": 45,
+ "subject": "Deco says Barcelona would welcome Liverpool paying 55 million euros for Araujo",
+ "title": "Barca want 55m for the man they benched",
+ "voice": "kokoro",
+ "comic": false,
+ "style": null,
+ "lines": [
+  {
+   "vo": "Barcelona would happily take fifty-five million euros from Liverpool for Araujo.",
+   "card": "55m euro option",
+   "sfx": null,
+   "footage": "Ronald Araujo Liverpool highlights, loan debut"
+  },
+  {
+   "vo": "Ronald Araujo is a twenty-seven-year-old Uruguay defender, and a former Barcelona captain.",
+   "card": "Former Barca captain",
+   "sfx": null,
+   "footage": "Ronald Araujo Barcelona best defending"
+  },
+  {
+   "vo": "He is on loan at Liverpool, who hold an option, not an obligation, to sign him for good.",
+   "card": "Option, not obligation",
+   "sfx": null,
+   "footage": "Liverpool Anfield, Araujo training clip"
+  },
+  {
+   "vo": "Two goals in fifteen games for Liverpool. For a defender, that is a side hustle.",
+   "card": "Two goals, fifteen games",
+   "sfx": null,
+   "footage": "Ronald Araujo Liverpool goal; heading or shooting"
+  },
+  {
+   "vo": "At Barcelona he struggled for minutes, even as a former captain.",
+   "card": "Struggled for minutes",
+   "sfx": null,
+   "footage": "Araujo Barcelona matches, bench shots"
+  },
+  {
+   "vo": "Now Barcelona want fifty-five million for the man they could not find minutes for.",
+   "card": "Could not find minutes",
+   "sfx": "short crowd cheer",
+   "footage": "Barcelona fans reaction, Camp Nou"
+  },
+  {
+   "vo": "Deco says timing and fee could still be negotiated. So fifty-five million is a conversation, not a receipt.",
+   "card": "A conversation",
+   "sfx": null,
+   "footage": "Deco press conference Barcelona, Catalunya Radio interview"
+  },
+  {
+   "vo": "Araujo would need new personal terms too. The player gets a vote.",
+   "card": "The player gets a vote",
+   "sfx": null,
+   "footage": "Liverpool training ground, Araujo arrival clip"
+  },
+  {
+   "vo": "Deco also denies any plan to sell Alejandro Balde, who has played five matches. Loyalty, or a shortage of left-backs.",
+   "card": "Loyalty or shortage?",
+   "sfx": null,
+   "footage": "Alejandro Balde Barcelona left-back run"
+  },
+  {
+   "vo": "Want the next story before it breaks? Betting tips, news and predictions at aboutfootball dot UK.",
+   "card": "aboutfootball.UK",
+   "sfx": null,
+   "footage": "end card"
+  }
+ ],
+ "chars": 870,
+ "est_seconds": 49,
+ "footage_terms": [
+  "Ronald Araujo Liverpool highlights",
+  "Deco press conference Araujo",
+  "Ronald Araujo Barcelona best defending",
+  "Alejandro Balde Barcelona highlights"
+ ],
+ "inserts": [
+  {
+   "after_line": 1,
+   "story": "A cartoon red-shirt club holds a big coin on a string labelled Option, not a rope. Gag: the string stretches like elastic as the defender tugs back and forth. Twist: the coin pings off and bounces into a piggy bank.",
+   "characters": "generic cartoon red-shirt club and cartoon defender",
+   "seconds": 2
+  },
+  {
+   "after_line": 3,
+   "story": "A cartoon defender with a captain's armband sits on a bench under cobwebs. Gag: a tiny spider hangs a banner above him. Twist: the spider shyly offers him a sandwich and he accepts.",
+   "characters": "generic cartoon defender with a captain's armband",
+   "seconds": 2
+  },
+  {
+   "after_line": 6,
+   "story": "A cartoon defender holds a single ballot slip beside a big ballot box. Gag: a pair of cartoon clubs with price tags crowd around the box. Twist: he drops his slip in and the clubs all lean in to read it.",
+   "characters": "generic cartoon defender and voting box",
+   "seconds": 2
+  }
+ ],
+ "facts_used": [
+  "Deco said Barcelona would be happy if Liverpool exercised the 55 million euro option to make Araujo's loan permanent (ev0011)",
+  "Araujo, 27, has two goals in 15 appearances for Liverpool and had struggled for playing time at Barcelona (ev0011)",
+  "The 55m figure is an option, not an obligation; timing and fee could be negotiated; Araujo would need new personal terms (ev0011)",
+  "Deco denied Barcelona plan to sell Alejandro Balde, who has played only five matches this season (ev0011 background)",
+  "Araujo is a Uruguay defender and former Barcelona captain (ev0011 background)"
+ ],
+ "comic_score": 5,
+ "notes": "Non-comic, 0 inserts. Option versus obligation kept explicit. Goal.com reported 47 million pounds; the script uses the ESPN euro figure only. The 'former captain' detail comes from the background field of the news record. 'Could not find minutes' paraphrases 'struggled for playing time'; no reason is claimed. Nothing on injuries or nationality beyond the neutral fact. Balde's five matches stated neutrally, no reason given."
+}

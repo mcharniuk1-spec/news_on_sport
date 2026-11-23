@@ -1,0 +1,103 @@
+{
+ "no": 96,
+ "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/096_adventurer_karl_bushby_ends_a_28_yea.mp4",
+ "total": 42.06666666666667,
+ "outro_start": 35.69,
+ "cover": true,
+ "seq": [
+  {
+   "id": "s01",
+   "kind": "HOOK",
+   "start": 0.1,
+   "end": 1.6,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/096/s01.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s02",
+   "kind": "NEWS",
+   "start": 3.3333333333333335,
+   "end": 5.1,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/096/s02.mp4",
+   "clip_dur": 1.767,
+   "frames": 42
+  },
+  {
+   "id": "s03",
+   "kind": "STATS",
+   "start": 6.6,
+   "end": 8.1,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/096/s03.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s04",
+   "kind": "COMIC1",
+   "start": 13.0,
+   "end": 15.0,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/096/s04.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s05",
+   "kind": "COMIC2",
+   "start": 17.766666666666666,
+   "end": 19.766666666666666,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/096/s05.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s06",
+   "kind": "COMIC3",
+   "start": 23.2,
+   "end": 25.2,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/096/s06.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s07",
+   "kind": "PROVOC",
+   "start": 27.6,
+   "end": 29.1,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/096/s07.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s08",
+   "kind": "INTERVIEW",
+   "start": 31.333333333333332,
+   "end": 33.1,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/096/s08.mp4",
+   "clip_dur": 1.767,
+   "frames": 42
+  }
+ ],
+ "missing": [],
+ "dropped": [],
+ "cards": [
+  {
+   "text": "31,000 miles",
+   "a": 9.866666666666667,
+   "b": 12.066666666666666
+  }
+ ],
+ "caption_sprites": 120,
+ "whoosh": [
+  0.0,
+  3.2333333333333334,
+  6.5,
+  12.9,
+  17.666666666666664,
+  23.099999999999998,
+  27.5,
+  31.23333333333333,
+  35.59
+ ],
+ "shots": 13
+}

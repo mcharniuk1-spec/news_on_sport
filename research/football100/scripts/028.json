@@ -1,0 +1,95 @@
+{
+  "no": 28,
+  "subject": "Ronaldo Nazario (R9)",
+  "title": "R9: the haircut, the Golden Boot, the business",
+  "voice": "kokoro",
+  "comic": true,
+  "style": "shonen_anime",
+  "lines": [
+    {
+      "vo": "A Golden Boot, and a haircut he now calls horrible.",
+      "card": "A Golden Boot",
+      "sfx": null,
+      "footage": "Ronaldo 2002 World Cup celebration, close-up of the shaved head with forelock"
+    },
+    {
+      "vo": "Ronaldo, R9, has two Ballon d'Or wins and a very busy business record.",
+      "card": "Two Ballon d'Or",
+      "sfx": null,
+      "footage": "Ronaldo with the Ballon d'Or, archive, clean award footage"
+    },
+    {
+      "vo": "In 2002 he wore a shaved head with one long forelock. In 2021 he apologised to the mothers whose sons copied it.",
+      "card": "The forelock",
+      "sfx": "anime whoosh",
+      "footage": "Ronaldo 2002 World Cup match, close-up of the hair, no burned-in captions"
+    },
+    {
+      "vo": "At that World Cup he scored eight goals, including both in the two-nil final against Germany. A Golden Boot, and a haircut that needed explaining.",
+      "card": "Eight goals, 2002",
+      "sfx": "goal horn",
+      "footage": "2002 World Cup final highlights, Ronaldo goals against Germany"
+    },
+    {
+      "vo": "At Barcelona in 1996-97 he scored forty-seven goals in forty-nine games. Forty-seven in forty-nine. His shooting was better than his hairstyling.",
+      "card": "47 in 49",
+      "sfx": null,
+      "footage": "Ronaldo Barcelona 1996-97 goals compilation, clean feed"
+    },
+    {
+      "vo": "Then the business years: he bought fifty-one per cent of Real Valladolid. Three relegations and two promotions. A rollercoaster with a sports city in the brochure.",
+      "card": "Three relegations",
+      "sfx": "rollercoaster clank",
+      "footage": "Real Valladolid stadium, relegation or away match archive, neutral shot"
+    },
+    {
+      "vo": "Cruzeiro: bought in December 2021, sold in April 2024. Still a quick finisher.",
+      "card": "Quick transfers",
+      "sfx": null,
+      "footage": "Cruzeiro stadium exterior, clean footage, no logos"
+    },
+    {
+      "vo": "Think you can call the next one? Betting tips, news and predictions at aboutfootball dot UK.",
+      "card": "aboutfootball.UK",
+      "sfx": null,
+      "footage": "Closing card with site name, no footage"
+    }
+  ],
+  "chars": 857,
+  "est_seconds": 50,
+  "footage_terms": [
+    "Ronaldo Fenomeno 2002 World Cup final goals Germany",
+    "Ronaldo Nazario Barcelona 1996-97 goals compilation",
+    "Ronaldo Nazario 2002 haircut Brazil",
+    "Real Valladolid Ronaldo owner relegation highlights"
+  ],
+  "inserts": [
+    {
+      "after_line": 2,
+      "story": "Setup: a power-up panel with speed lines and a glowing golden aura. Gag: a caricature R9's lone forelock stands straight up like an anime antenna. Twist: the antenna bends into a sign reading 'SORRY, MUMS'.",
+      "characters": "Caricature of Ronaldo Nazario R9 with shaved head and forelock (no photo); generic anime aura",
+      "seconds": 2
+    },
+    {
+      "after_line": 3,
+      "story": "Setup: a night stadium with a Golden Boot floating above the pitch. Gag: a caricature R9 fires two rocket shots that smash through a cartoon wall of defenders. Twist: the Golden Boot kicks a tiny trophy into the sky and the defenders look up and sweatdrop.",
+      "characters": "Caricature of Ronaldo Nazario R9 (no photo); generic cartoon defenders and trophy",
+      "seconds": 2
+    },
+    {
+      "after_line": 5,
+      "story": "Setup: a cartoon rollercoaster with a 'VALLADOLID' track sign. Gag: a caricature R9 clutches a sales receipt while the cart loops three times. Twist: the coaster pulls into a station marked 'LIMEIRA' and he is already holding another ticket.",
+      "characters": "Caricature of Ronaldo Nazario R9 (no photo); generic cartoon coaster and station sign",
+      "seconds": 2
+    }
+  ],
+  "facts_used": [
+    "Shaved head with a lone forelock at the 2002 World Cup; called it horrible and apologised to mothers whose sons copied it (2021 interview) - https://www.notife.com/ronaldo-recordo-su-look-en-el-mundial-de-2002-y-pidio-disculpas",
+    "2002 World Cup: 8 goals, both in the 2-0 final v Germany, Golden Boot - https://en.wikipedia.org/wiki/Ronaldo_(Brazilian_footballer)",
+    "Barcelona 1996-97: 47 goals in 49 games - https://en.wikipedia.org/wiki/Ronaldo_(Brazilian_footballer)",
+    "Real Valladolid: bought 51% for over $30m (2018); three relegations and two promotions under his ownership - https://www.infobae.com/deportes/2025/05/23/ronaldo-dejo-de-ser-propietario-del-valladolid-la-millonaria-cifra-por-la-que-vendio-sus-acciones/",
+    "Cruzeiro: bought control Dec 2021 (about $70m invested), sold April 2024 - https://en.wikipedia.org/wiki/Ronaldo_(Brazilian_footballer)"
+  ],
+  "comic_score": 8,
+  "notes": "Hair and the haircut apology are his public image, not health. Valladolid and Cruzeiro are business facts, no legal or court content. The 'sports city' promise comes from Infobae's review of the club years. The 2002 line previously read 'eight goals, both in the final', which blurred the stat; it now says eight goals including both in the two-nil final, matching the source. The apology year (2021) is from the notife interview. Ronaldo's dispute over fake quotes (July 2026) and the Liv Drinks debt are excluded. The 'two promotions' figure is from one source (Infobae), so it should be checked again if the video goes out. Insert after_line values are 0-based."
+}

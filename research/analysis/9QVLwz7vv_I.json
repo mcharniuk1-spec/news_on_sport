@@ -1,0 +1,272 @@
+{
+ "video_id": "9QVLwz7vv_I",
+ "topic": "FUT card-wall shooting challenge: Celine Dept vs Michelle, each ball hits a player card that goes into their FC lineup; compare team ratings",
+ "hero": "Hosts (Celine Dept, other creators) / unidentified men and women",
+ "hero_role": "hosts and competitors of the challenge",
+ "media_type_overall": "mixed",
+ "hook": "Presenter's kick draws yellow trail on a card-covered goalpost, with formation graphic on screen",
+ "subtitle_style": "bold white graphic labels; rating numbers in coloured boxes; YouTuber lower-thirds",
+ "reaction_overlays": "picture-in-picture reaction cams, REPLAY tags, card pop-ups, comedic reactions",
+ "transition_summary": "Fast cuts ~1 per 2-3 s; whip/zoom graphics; replay inserts",
+ "audio_note": "Host voice-over and chat (transcript: 'whatever card Celine and Michelle hit they will get for their team')",
+ "reuse_segments": [
+  {
+   "t0": 0,
+   "t1": 40,
+   "what": "Football card wall challenge segments",
+   "origin_guess": "original studio content",
+   "rights_risk": "low",
+   "how_to_reuse": "recreate format with own cards/graphics (FC card likenesses carry licence risk)"
+  }
+ ],
+ "frames": [
+  {
+   "idx": 1,
+   "t": 0,
+   "desc": "Presenter throws yellow line trail on goalpost card wall",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 2,
+   "t": 2,
+   "desc": "Two hosts in red cheer beside empty red formation graphic with question marks",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 3,
+   "t": 4,
+   "desc": "Player in blue kicks ball at goal wall",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 4,
+   "t": 6,
+   "desc": "Two men in blue pose next to blue formation graphic",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 5,
+   "t": 8,
+   "desc": "Dark sci-fi UI showing card-select carousel graphic",
+   "type": "graphic_card",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 6,
+   "t": 10,
+   "desc": "Rating comparison graphic: two formations, 'RATING: 53' vs 'RATING: 92'",
+   "type": "graphic_card",
+   "text_on_screen": "RATING: 53 / RATING: 92",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 7,
+   "t": 12,
+   "desc": "Rating comparison graphic: two formations, 'RATING: 53' vs 'RATING: 92'",
+   "type": "graphic_card",
+   "text_on_screen": "RATING: 53 / RATING: 92",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 8,
+   "t": 14,
+   "desc": "Dark intro graphic 'COMING UP' with yellow legs",
+   "type": "graphic_card",
+   "text_on_screen": "COMING UP",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 9,
+   "t": 16,
+   "desc": "Host with pink headband clutches head in reaction; cards on wall",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 10,
+   "t": 18,
+   "desc": "Three hosts react; lower-third 'Celine Dept' subscriber badge",
+   "type": "video",
+   "text_on_screen": "Celine Dept",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 11,
+   "t": 20,
+   "desc": "Woman in red walks to goalpost wall; picture-in-picture face",
+   "type": "video",
+   "text_on_screen": "Celine dept",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 12,
+   "t": 22,
+   "desc": "Woman in red walks to goalpost wall; picture-in-picture face",
+   "type": "video",
+   "text_on_screen": "Celine dept",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 13,
+   "t": 24,
+   "desc": "Blue team man kicks at card wall; hosts discuss; replay tag",
+   "type": "video",
+   "text_on_screen": "REPLAY",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 14,
+   "t": 26,
+   "desc": "Blue team man kicks at card wall; hosts discuss; replay tag",
+   "type": "video",
+   "text_on_screen": "REPLAY",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 15,
+   "t": 28,
+   "desc": "Blue team man kicks at card wall; hosts discuss; replay tag",
+   "type": "video",
+   "text_on_screen": "REPLAY",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 16,
+   "t": 30,
+   "desc": "Woman reveals Messi card on red formation graphic",
+   "type": "video",
+   "text_on_screen": "Messi",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 17,
+   "t": 32,
+   "desc": "Woman reveals Messi card on red formation graphic",
+   "type": "video",
+   "text_on_screen": "Messi",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 18,
+   "t": 34,
+   "desc": "Man in blue reacts with J_Tekkz badge",
+   "type": "video",
+   "text_on_screen": "J_Tekkz",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 19,
+   "t": 36,
+   "desc": "Hosts laugh in front of goal wall; wide shots with kicker",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 20,
+   "t": 38,
+   "desc": "Hosts laugh in front of goal wall; wide shots with kicker",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 21,
+   "t": 40,
+   "desc": "Hosts laugh in front of goal wall; wide shots with kicker",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 22,
+   "t": 42,
+   "desc": "Hosts laugh in front of goal wall; wide shots with kicker",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 23,
+   "t": 44,
+   "desc": "Hosts mid-conversation; wide shot kicker with cameras",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 24,
+   "t": 46,
+   "desc": "Hosts mid-conversation; wide shot kicker with cameras",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 25,
+   "t": 48,
+   "desc": "Kick at wall with replay picture-in-picture; card flash",
+   "type": "video",
+   "text_on_screen": "REPLAY",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 26,
+   "t": 50,
+   "desc": "Kick at wall with replay picture-in-picture; card flash",
+   "type": "video",
+   "text_on_screen": "REPLAY",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 27,
+   "t": 52,
+   "desc": "Blue formation graphic and man holding Min Zixi 47 card, hand on head",
+   "type": "video",
+   "text_on_screen": "Min Zixi",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 28,
+   "t": 54,
+   "desc": "Blue formation graphic and man holding Min Zixi 47 card, hand on head",
+   "type": "video",
+   "text_on_screen": "Min Zixi",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 29,
+   "t": 56,
+   "desc": "Close hosts laughing; red formation graphic; kicker aiming",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 30,
+   "t": 58,
+   "desc": "Close hosts laughing; red formation graphic; kicker aiming",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 31,
+   "t": 60,
+   "desc": "Close hosts laughing; red formation graphic; kicker aiming",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "none"
+  }
+ ]
+}

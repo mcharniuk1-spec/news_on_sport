@@ -1,0 +1,144 @@
+{
+ "video_id": "13kE1aJpg-o",
+ "topic": "Clickbait news short: Bernardo Silva (per on-screen text) banned from Portugal after supporting Ronaldo; Neves reacts to disrespect",
+ "hero": "Bernardo Silva (named in captions), Joao Neves, coach at press conference, Ronaldo (text)",
+ "hero_role": "protagonist of the news story",
+ "media_type_overall": "mixed",
+ "hook": "Man in dark hoodie with mic and big white word-by-word caption 'EMBARRASSING'",
+ "subtitle_style": "Huge bold white uppercase single-word captions with black outline, centred over lower face (word-by-word karaoke style: EMBARRASSING 2026 TO RONALDO BERNARDO THE RONALDO'S A REFUSED MATCH HAVE NEVES' DISRESPECTFUL SUPPORT DESPITE)",
+ "reaction_overlays": "Social-media post screenshot cards (black box with white text) in lower third; no emojis",
+ "transition_summary": "Fast: 14 cuts in 31 s, about 5 cuts per 10 s, hard cuts every 1-2 s with one word per beat",
+ "audio_note": "Voice-over reading the news story, possibly with background music; no transcript",
+ "reuse_segments": [
+  {
+   "t0": 0,
+   "t1": 31,
+   "what": "Press conference and training clips of Portugal staff and players",
+   "origin_guess": "press conference / fan edit",
+   "rights_risk": "high",
+   "how_to_reuse": "needs licensed clips; recreate with AI/generated imagery and original VO"
+  }
+ ],
+ "frames": [
+  {
+   "idx": 1,
+   "t": 0,
+   "desc": "Man in dark hoodie holding mic, caption",
+   "type": "video",
+   "text_on_screen": "EMBARRASSING",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 2,
+   "t": 2,
+   "desc": "Same man in hoodie, camera right, caption",
+   "type": "video",
+   "text_on_screen": "2026",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 3,
+   "t": 4,
+   "desc": "Curly-haired man in Portugal training top jogging, caption",
+   "type": "video",
+   "text_on_screen": "TO",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 4,
+   "t": 6,
+   "desc": "Man at press conference Sagres backdrop, caption",
+   "type": "video",
+   "text_on_screen": "RONALDO",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 5,
+   "t": 8,
+   "desc": "Grey-haired man in white Portugal jacket at press conference, caption",
+   "type": "video",
+   "text_on_screen": "BERNARDO",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 6,
+   "t": 10,
+   "desc": "Wide stadium with players and officials on pitch, caption",
+   "type": "video",
+   "text_on_screen": "THE",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 7,
+   "t": 12,
+   "desc": "Wide Portugal team line-up with mascots, caption",
+   "type": "video",
+   "text_on_screen": "RONALDO'S",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 8,
+   "t": 14,
+   "desc": "Same line-up shot with caption",
+   "type": "video",
+   "text_on_screen": "A",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 9,
+   "t": 16,
+   "desc": "Curly-haired man in training top jogging, social post card, caption",
+   "type": "video",
+   "text_on_screen": "REFUSED",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 10,
+   "t": 18,
+   "desc": "Man in dark Portugal jacket, close, caption",
+   "type": "video",
+   "text_on_screen": "MATCH",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 11,
+   "t": 20,
+   "desc": "Man in dark Portugal jacket, social post card, caption",
+   "type": "video",
+   "text_on_screen": "HAVE",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 12,
+   "t": 22,
+   "desc": "Man in dark hoodie close, caption",
+   "type": "video",
+   "text_on_screen": "NEVES'",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 13,
+   "t": 24,
+   "desc": "Grey-haired man at Denmark FA press conference, hands raised, caption",
+   "type": "video",
+   "text_on_screen": "DISRESPECTFUL",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 14,
+   "t": 26,
+   "desc": "Man at press conference with social post card, caption",
+   "type": "video",
+   "text_on_screen": "SUPPORT",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 15,
+   "t": 28,
+   "desc": "Man in white tee and green trousers walking on plane aisle, caption",
+   "type": "video",
+   "text_on_screen": "DESPITE",
+   "transition_to_next": "none"
+  }
+ ]
+}

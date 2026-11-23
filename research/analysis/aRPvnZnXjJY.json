@@ -1,0 +1,272 @@
+{
+ "video_id": "aRPvnZnXjJY",
+ "topic": "Livestream reaction to 'Cristiano Ronaldo Retired' news; streamer in Portugal #7 shirt reacting emotionally",
+ "hero": "Streamer in red Portugal #7 shirt and headset (unidentified; channel link in description)",
+ "hero_role": "fan reacting live to the news",
+ "media_type_overall": "screen recording",
+ "hook": "Streamer leaning close to webcam in red Portugal #7 shirt, subscriber/viewer counter ticking up top-left",
+ "subtitle_style": "none; donation alert text snippets at left; white count ticker top-left (62,260,7xx)",
+ "reaction_overlays": "live donation/superchat alert text bottom-left, rising numeric counter, webcam fixed",
+ "transition_summary": "Single continuous fixed webcam shot; only 1-2 detected cuts (~97s); expressions and movement change, no editing",
+ "audio_note": "Live stream shouting/reaction audio (unknown content); no transcript",
+ "reuse_segments": [
+  {
+   "t0": 0,
+   "t1": 62,
+   "what": "Fixed webcam livestream reaction",
+   "origin_guess": "unknown",
+   "rights_risk": "medium",
+   "how_to_reuse": "Streamer's own content; do not reuse directly. Recreate reaction-cam format with own host (overlay counter, donation alerts)"
+  }
+ ],
+ "frames": [
+  {
+   "idx": 1,
+   "t": 0,
+   "desc": "Streamer leaning toward camera, face close, red chair behind",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 2,
+   "t": 2,
+   "desc": "Streamer in red Portugal #7 jersey and headset, green gaming room, counter top-left, sitting calm",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 3,
+   "t": 4,
+   "desc": "Streamer hands pressed on headphones, shocked face",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 4,
+   "t": 6,
+   "desc": "Streamer sitting upright, looking at screen",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 5,
+   "t": 8,
+   "desc": "Streamer hunched forward, hand near face",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 6,
+   "t": 10,
+   "desc": "Streamer sitting, smiling slightly",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 7,
+   "t": 12,
+   "desc": "Streamer grimacing, eyes squeezed, seated",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 8,
+   "t": 14,
+   "desc": "Streamer in red Portugal #7 jersey and headset, green gaming room, counter top-left, smaller in frame, seated",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 9,
+   "t": 16,
+   "desc": "Streamer shouting at camera, very close, wide-open mouth",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 10,
+   "t": 18,
+   "desc": "Streamer standing up beside chair, back turned",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 11,
+   "t": 20,
+   "desc": "Streamer flailing/jumping in motion blur",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 12,
+   "t": 22,
+   "desc": "Streamer standing tall in red jersey, hands down",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 13,
+   "t": 24,
+   "desc": "Streamer seated, head down, eyes down",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 14,
+   "t": 26,
+   "desc": "Streamer seated, looking sideways, donation alert at left",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 15,
+   "t": 28,
+   "desc": "Streamer seated, staring serious at camera",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 16,
+   "t": 30,
+   "desc": "Streamer seated, blank look, alert at left",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 17,
+   "t": 32,
+   "desc": "Streamer seated, leaning head to side",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 18,
+   "t": 34,
+   "desc": "Streamer reaching with hand holding drink",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 19,
+   "t": 36,
+   "desc": "Streamer seated, leaning to screen, intense",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 20,
+   "t": 38,
+   "desc": "Streamer seated frowning",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 21,
+   "t": 40,
+   "desc": "Streamer seated, calm, looking at camera",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 22,
+   "t": 42,
+   "desc": "Streamer with water bottle at lower right",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 23,
+   "t": 44,
+   "desc": "Streamer leaning forward, mouth open",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 24,
+   "t": 46,
+   "desc": "Streamer smiling and talking",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 25,
+   "t": 48,
+   "desc": "Streamer seated, smiling wide",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 26,
+   "t": 50,
+   "desc": "Streamer seated, glancing",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 27,
+   "t": 52,
+   "desc": "Streamer seated, looking at chat",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 28,
+   "t": 54,
+   "desc": "Streamer with both hands on head, stress",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 29,
+   "t": 56,
+   "desc": "Streamer seated looking down at counter",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 30,
+   "t": 58,
+   "desc": "Streamer seated, slight smile",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 31,
+   "t": 60,
+   "desc": "Streamer small in frame, seated, arms down",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "none"
+  }
+ ]
+}

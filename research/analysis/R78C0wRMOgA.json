@@ -1,0 +1,136 @@
+{
+ "video_id": "R78C0wRMOgA",
+ "topic": "Compilation of crazy dribbling skills ('WTF skills') from pro matches",
+ "hero": "various dribblers (unidentified)",
+ "hero_role": "performers of the skills",
+ "media_type_overall": "real broadcast footage",
+ "hook": "Wide shot of dribbler in a touchline run",
+ "subtitle_style": "none",
+ "reaction_overlays": "TEOCRI watermark bottom-center",
+ "transition_summary": "Fast hard cuts every ~2 s",
+ "audio_note": "music likely",
+ "reuse_segments": [
+  {
+   "t0": 0,
+   "t1": 29,
+   "what": "Skill clips from league and international matches",
+   "origin_guess": "broadcast match",
+   "rights_risk": "high",
+   "how_to_reuse": "needs licensed footage; recreate with generated imagery"
+  }
+ ],
+ "frames": [
+  {
+   "idx": 1,
+   "t": 0,
+   "desc": "Wide broadcast: dribbler runs with ball down touchline; TEOCRI watermark",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 2,
+   "t": 2,
+   "desc": "Wide broadcast: dribbler runs with ball down touchline; TEOCRI watermark",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 3,
+   "t": 4,
+   "desc": "Motion-blur duel with players",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 4,
+   "t": 6,
+   "desc": "Wide pitch overview",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 5,
+   "t": 8,
+   "desc": "Close: defender number 3 wrong-footed by dribbler",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 6,
+   "t": 10,
+   "desc": "Wide pitch with crowd and stands",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 7,
+   "t": 12,
+   "desc": "Wide pitch with crowd and stands",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 8,
+   "t": 14,
+   "desc": "Close: yellow-shirt number 8 player with ball and referee",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 9,
+   "t": 16,
+   "desc": "Wide pitch, players spaced",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 10,
+   "t": 18,
+   "desc": "Close duel: white vs green kit near touchline",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 11,
+   "t": 20,
+   "desc": "Wide empty pitch frame",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 12,
+   "t": 22,
+   "desc": "Portugal number 20 player dribbling",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 13,
+   "t": 24,
+   "desc": "Wide stadium shot, Leeds boards",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 14,
+   "t": 26,
+   "desc": "White player vs Crystal Palace defender in close duel",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "none"
+  }
+ ]
+}

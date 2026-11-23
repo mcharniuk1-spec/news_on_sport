@@ -1,0 +1,103 @@
+{
+ "no": 58,
+ "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/058_mbappe_double_beats_barcelona_in_el.mp4",
+ "total": 46.2,
+ "outro_start": 40.31,
+ "cover": true,
+ "seq": [
+  {
+   "id": "s01",
+   "kind": "HOOK",
+   "start": 0.1,
+   "end": 1.6,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/058/s01.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s02",
+   "kind": "COMIC1",
+   "start": 4.466666666666667,
+   "end": 6.466666666666667,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/058/s02.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s03",
+   "kind": "NEWS",
+   "start": 8.1,
+   "end": 9.866666666666667,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/058/s03.mp4",
+   "clip_dur": 1.767,
+   "frames": 42
+  },
+  {
+   "id": "s04",
+   "kind": "COMIC2",
+   "start": 11.633333333333333,
+   "end": 13.633333333333333,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/058/s04.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s05",
+   "kind": "STATS",
+   "start": 18.333333333333332,
+   "end": 19.833333333333332,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/058/s05.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s06",
+   "kind": "COMIC3",
+   "start": 24.466666666666665,
+   "end": 26.466666666666665,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/058/s06.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s07",
+   "kind": "PROVOC",
+   "start": 30.333333333333332,
+   "end": 31.833333333333332,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/058/s07.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s08",
+   "kind": "INTERVIEW",
+   "start": 35.6,
+   "end": 37.36666666666667,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/058/s08.mp4",
+   "clip_dur": 1.767,
+   "frames": 42
+  }
+ ],
+ "missing": [],
+ "dropped": [],
+ "cards": [
+  {
+   "text": "Three-year wait ends",
+   "a": 16.933333333333334,
+   "b": 18.2
+  }
+ ],
+ "caption_sprites": 129,
+ "whoosh": [
+  0.0,
+  4.366666666666667,
+  8.0,
+  11.533333333333333,
+  18.23333333333333,
+  24.366666666666664,
+  30.23333333333333,
+  35.5,
+  40.21
+ ],
+ "shots": 15
+}

@@ -1,0 +1,96 @@
+{
+  "no": 25,
+  "subject": "Ronaldinho",
+  "title": "Ronaldinho: 11 years off, 45 minutes on",
+  "voice": "kokoro",
+  "comic": true,
+  "style": "us_comic_book",
+  "lines": [
+    {
+      "vo": "Eleven years off, then forty-five minutes in Serie C. Worth it?",
+      "card": "Eleven years off",
+      "sfx": null,
+      "footage": "Ronaldinho on the Ravenna pitch, first touch, stadium crowd audio"
+    },
+    {
+      "vo": "Ronaldinho, aged forty-six, made his Ravenna debut this month.",
+      "card": "Ravenna debut",
+      "sfx": null,
+      "footage": "Ronaldinho walking out at the Ravenna stadium, number ten shirt"
+    },
+    {
+      "vo": "Ravenna beat Forli two-nil. He played about forty-five minutes and did not score.",
+      "card": "Two-nil, no goal",
+      "sfx": "crowd cheer",
+      "footage": "Ravenna vs Forli highlights, clean match feed, Serie C"
+    },
+    {
+      "vo": "Still on two hundred and ninety-nine career goals, one short of three hundred. He waited eleven years for a match. He can wait.",
+      "card": "299 career goals",
+      "sfx": "record scratch",
+      "footage": "Ronaldinho close-up on the pitch, slight smile, Ravenna shirt"
+    },
+    {
+      "vo": "Two thousand R10 shirts sold in forty-eight hours, at one hundred and twenty-nine euros each. That is not a football club. It is a fashion show with a corner flag.",
+      "card": "2,000 shirts sold",
+      "sfx": null,
+      "footage": "Ravenna shop or presentation event, R10 shirts on display"
+    },
+    {
+      "vo": "His signed match shirt is on auction, with bids above seventeen thousand reais. Forty-five minutes of football, and a bidding war.",
+      "card": "Shirt on auction",
+      "sfx": "auction gavel",
+      "footage": "Signed shirt on a display stand, clean product shot"
+    },
+    {
+      "vo": "Antonio Cassano called it a clown show. The club's Instagram gained over two hundred thousand followers. Clowns get great ratings.",
+      "card": "Clown show, big numbers",
+      "sfx": "crowd laughter",
+      "footage": "Ravenna crowd and fans in the stands, celebratory mood"
+    },
+    {
+      "vo": "Want more? Match news, betting tips and predictions at aboutfootball dot UK.",
+      "card": "aboutfootball.UK",
+      "sfx": null,
+      "footage": "Closing card with site name, no footage"
+    }
+  ],
+  "chars": 832,
+  "est_seconds": 49,
+  "footage_terms": [
+    "Ronaldinho Ravenna Forli highlights",
+    "Ronaldinho Ravenna debut 4K",
+    "Ronaldinho Ravenna presentation beach ceremony",
+    "Ronaldinho press conference Ravenna"
+  ],
+  "inserts": [
+    {
+      "after_line": 2,
+      "story": "Setup: a cartoon stadium with a 2-0 scoreboard and a clock stuck at forty-five. Gag: a caricature Ronaldinho flicks a rainbow over a tiny calendar labelled 'ELEVEN YEARS'. Twist: the calendar flips to 'FORTY-FIVE MINUTES' and he taps his wrist like he has somewhere to be.",
+      "characters": "Caricature of Ronaldinho with a warm wide grin (no photo); generic cartoon crowd",
+      "seconds": 2
+    },
+    {
+      "after_line": 4,
+      "story": "Setup: a comic shop window with R10 shirts flying off the racks. Gag: a caricature Ronaldinho juggles three shirts into a cartoon fan's arms without looking. Twist: the fan hands him a receipt to sign.",
+      "characters": "Caricature of Ronaldinho (no photo); generic cartoon shop assistant and fan",
+      "seconds": 2
+    },
+    {
+      "after_line": 6,
+      "story": "Setup: a comic circus tent with a generic clown on a microphone. Gag: the clown juggles three footballs, then drops a red clown nose that bounces toward the crowd. Twist: the caricature Ronaldinho catches the nose on his foot, flicks it back onto the clown, and takes a bow.",
+      "characters": "Caricature of Ronaldinho (no photo); generic clown",
+      "seconds": 2
+    }
+  ],
+  "facts_used": [
+    "Ravenna debut 15 Nov 2026, 2-0 v Forli, about 45 minutes, no goal, first competitive match since 2015 - https://www.livescore.com/en/news/football/more/ronaldinhos-return-best-moments-and-key-stats-from-the-brazilian-legends-game-in-ravenna-football-italia/",
+    "Stayed on 299 career goals, one short of 300 - https://www.espn.com/soccer/story/_/id/50501062/ronaldinho-comeback-ravenna-italy-serie-c",
+    "About 2,000 R10 shirts sold in 48 hours at EUR 129 - https://www.correiodamanha.com.br/esporte/esportes/2026/09/amp/316729-ronaldinho-gaucho-embala-o-grande-sonho-do-ravenna-de-finalmente-chegar-a-primeira-divisao-do-campeonato-italiano.html",
+    "Signed match shirt on MatchWornShirt auction, bids above R$17,000 - https://www.jornaldocomercio.com/esportes/2026/11/1270733-camisa-usada-por-ronaldinho-gaucho-em-retorno-aos-gramados-na-italia-vai-a-leilao.html",
+    "Cassano: 'pagliacciata' (clown show), 18 Nov 2026 - https://www.tuttomercatoweb.com/serie-a/cassano-ronaldinho-il-ritorno-campo-pagliacciata-condizioni-2294886",
+    "Ravenna Instagram gained 200,000+ followers around the derby - https://www.nss-sports.com/en/news/47707/ronaldinho-day-ravenna-serie-c-report-marketing-numbers"
+  ],
+  "comic_score": 7,
+  "notes": "Cassano's 'conditions' remark (fitness) is deliberately not used; only the 'clown show' label is quoted and attributed. Sources disagree on the exit minute (half-time vs second half) and touches (20 vs 28), so neither is used. The Hotcoin crypto deal is excluded (sponsored release). The 300th goal and the fee figure stay out. 'Waited eleven years' refers to the gap since his last competitive match in 2015. Insert after_line values are 0-based. Tone check: jokes are about marketing and the 11-year gap, not his body."
+}

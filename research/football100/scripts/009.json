@@ -1,0 +1,90 @@
+{
+ "no": 9,
+ "subject": "Karim Benzema",
+ "title": "Benzema: six months, one Dubai flat",
+ "voice": "kokoro",
+ "comic": true,
+ "style": "simpsons",
+ "lines": [
+  {
+   "vo": "Six months at Al Hilal. Benzema's best signing: a Dubai flat.",
+   "card": "Six months, one flat",
+   "sfx": "short bass sting",
+   "footage": "Vision Iconic Tower Dubai flats, Binghatti launch"
+  },
+  {
+   "vo": "A fifty-one million pound replacement was announced the day before he left. That is not a hint. That is a billboard.",
+   "card": "51m pound replacement",
+   "sfx": null,
+   "footage": "Ollie Watkins Al Hilal signing highlights"
+  },
+  {
+   "vo": "Lyon called a return more noise than reality. Mourinho dug up his 2010 cat story. Some stories have nine lives.",
+   "card": "More noise than reality",
+   "sfx": null,
+   "footage": "Lyon Benzema France TV interview clip"
+  },
+  {
+   "vo": "Zidane says he adores Karim. Then he picked a France squad without him. Adoration from a distance.",
+   "card": "I adore Karim",
+   "sfx": null,
+   "footage": "Zidane France press conference clip"
+  },
+  {
+   "vo": "Zidane calls him the best French striker in history. Five Champions League titles and twenty-five trophies at Real Madrid back that up.",
+   "card": "Best French striker",
+   "sfx": null,
+   "footage": "Benzema best goals Real Madrid compilation"
+  },
+  {
+   "vo": "So the best French striker in history will watch from home. Probably from a very nice flat.",
+   "card": "Watching from home",
+   "sfx": "record scratch",
+   "footage": "Benzema France 2022 World Cup highlights"
+  },
+  {
+   "vo": "Want the next story before it breaks? Betting tips, news and predictions at aboutfootball dot UK.",
+   "card": "aboutfootball.UK",
+   "sfx": null,
+   "footage": "end card, no footage"
+  }
+ ],
+ "chars": 709,
+ "est_seconds": 39,
+ "footage_terms": [
+  "Benzema Real Madrid best goals",
+  "Benzema Al Hilal highlights",
+  "Benzema Ballon d'Or 2022",
+  "Zidane press conference France striker"
+ ],
+ "inserts": [
+  {
+   "after_line": 2,
+   "story": "A cartoon shirt rack holds blue Al Hilal shirts, and a number nine shirt marked Benzema sits at the end. Gag: a cartoon delivery man wheels in a giant number nine shirt with a 51m tag and both try to fit one hanger. Twist: Benzema's caricature slides his shirt onto a hanger marked Free agent, with a tiny Dubai key hanging off it.",
+   "characters": "generic cartoon delivery man and shirt rack; caricature of Karim Benzema",
+   "seconds": 2
+  },
+  {
+   "after_line": 3,
+   "story": "A caricature of Mourinho in hunting gear whistles for a dog. Instead a smug cartoon cat with five tiny crowns strolls up and sits on his hat. Twist: the cat flips a tag that reads Nine lives, one used at Al Hilal.",
+   "characters": "caricature of Jose Mourinho; cartoon cat (stand-in for Benzema)",
+   "seconds": 2
+  },
+  {
+   "after_line": 4,
+   "story": "A caricature of Zidane stamps ADORE in big red letters on a France squad list while a caricature of Benzema peers over his shoulder. Twist: the stamp lands on the empty space where a name should be, and the ink blot looks like a small heart.",
+   "characters": "caricature of Zinedine Zidane; caricature of Karim Benzema",
+   "seconds": 2
+  }
+ ],
+ "facts_used": [
+  "Al Hilal signed Ollie Watkins for 51m pounds; announced the day before Benzema's exit (bo pack recent_news 2026-08-31)",
+  "Left Al Hilal after six months by mutual termination, one year of contract left (bo pack recent_news 2026-08-31)",
+  "Lyon director Matthieu Louis-Jean: return was more noise than reality (bo pack recent_news 2026-10-21)",
+  "Mourinho revived the 2010 cat story about Benzema (bo pack recent_news 2026-10-15)",
+  "Zidane's first France squad without Benzema; Zidane said he adores Karim; best French striker in history (bo pack recent_news 2026-09-18, 2026-11-12)",
+  "Bought Dubai flats incl. a unit in the 78-floor Vision Iconic Tower (bo pack recent_news 2026-10-07, reported list price)"
+ ],
+ "comic_score": 7,
+ "notes": "after_line is 1-based index into lines. Skipped: Nike shoot and Valbuena case, Deschamps v Riolo appeal (legal), Vinicius league ban (racism topic), injuries and the 2022 WC muscle injury, family, Gulf politics. The Dubai flat is a reported purchase; keep 'reported' if the flat count changes. Watching from home refers to France squad absence, not to any health reason. Punch-up pass: added the pack facts '5 Champions League titles, 25 trophies at Real Madrid' (quick_context) as the praise number. 'Watching from home' is about the squad omission only, no health angle; 'nice flat' is a reported-purchase gag."
+}

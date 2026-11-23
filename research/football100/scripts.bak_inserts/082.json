@@ -1,0 +1,63 @@
+{
+ "no": 82,
+ "subject": "Barcelona reportedly enquire about Bayern's Jonathan Tah to partner Cubarsí",
+ "title": "Barça want Bayern's centre-back",
+ "voice": "kokoro",
+ "comic": false,
+ "style": null,
+ "lines": [
+  {
+   "vo": "Barcelona want a centre-back from Bayern. Good luck with that.",
+   "card": "Barça want Tah",
+   "sfx": null,
+   "footage": "Jonathan Tah defending highlights"
+  },
+  {
+   "vo": "Deco reportedly wants an experienced defender to play next to Pau Cubarsí. Basically, a grown-up for the back line.",
+   "card": "Experience wanted",
+   "sfx": null,
+   "footage": "Pau Cubarsí defending compilation"
+  },
+  {
+   "vo": "Sky Sports Deutschland says Barcelona asked about Jonathan Tah, who is thirty. Bayern have little interest in selling. Asking is free, at least.",
+   "card": "Enquiry, not a bid",
+   "sfx": null,
+   "footage": "Jonathan Tah Bayern defending"
+  },
+  {
+   "vo": "His contract runs to twenty twenty-nine, and he is not considering a move. So that is a no, with extra paperwork.",
+   "card": "Contract to 2029",
+   "sfx": null,
+   "footage": "Bayern Munich defence highlights"
+  },
+  {
+   "vo": "Levi Colwill is also linked, but he is reportedly near a new deal. Two names on the list, zero yeses. Good luck with that, again.",
+   "card": "Shopping list problem",
+   "sfx": null,
+   "footage": "Levi Colwill defending highlights"
+  },
+  {
+   "vo": "Think you can call the next one? Free tips, results and predictions at aboutfootball dot UK.",
+   "card": "aboutfootball.UK",
+   "sfx": null,
+   "footage": "end card"
+  }
+ ],
+ "chars": 655,
+ "est_seconds": 36,
+ "footage_terms": [
+  "Jonathan Tah Bayern best defending",
+  "Jonathan Tah Germany highlights",
+  "Pau Cubarsi defending compilation",
+  "Tah Barcelona transfer"
+ ],
+ "inserts": [],
+ "facts_used": [
+  "ESPN rumour round-up citing Sky Sports Deutschland: Barcelona enquired about Bayern centre-back Jonathan Tah, 30 (ev0116)",
+  "Deco wants an experienced defender next to Cubarsí, with a move targeted around January (ev0116)",
+  "Bayern have little interest in selling; Tah under contract until 2029 and not considering a move (ev0116)",
+  "Levi Colwill, also linked with Barcelona, reportedly in line for a new long-term deal (ev0116)"
+ ],
+ "comic_score": 4,
+ "notes": "Non-comic. Rumour only, confidence medium. No fee reported. Colwill described only as linked (Chelsea player per source). Jokes aimed at the transfer process, not at the players."
+}

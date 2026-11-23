@@ -1,0 +1,113 @@
+{
+ "no": 75,
+ "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/075_haaland_tells_man_city_to_step_up_ev.mp4",
+ "total": 39.333333333333336,
+ "outro_start": 33.27,
+ "cover": true,
+ "seq": [
+  {
+   "id": "s01",
+   "kind": "HOOK",
+   "start": 0.1,
+   "end": 1.6,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/075/s01.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s02",
+   "kind": "COMIC1",
+   "start": 3.466666666666667,
+   "end": 5.466666666666667,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/075/s02.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s03",
+   "kind": "STATS",
+   "start": 8.333333333333334,
+   "end": 9.833333333333334,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/075/s03.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s04",
+   "kind": "COMIC2",
+   "start": 12.6,
+   "end": 14.6,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/075/s04.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s05",
+   "kind": "NEWS",
+   "start": 16.6,
+   "end": 18.366666666666667,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/075/s05.mp4",
+   "clip_dur": 1.767,
+   "frames": 42
+  },
+  {
+   "id": "s06",
+   "kind": "COMIC3",
+   "start": 20.266666666666666,
+   "end": 22.266666666666666,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/075/s06.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s07",
+   "kind": "PROVOC",
+   "start": 24.6,
+   "end": 26.1,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/075/s07.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s08",
+   "kind": "INTERVIEW",
+   "start": 28.333333333333332,
+   "end": 30.1,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/075/s08.mp4",
+   "clip_dur": 1.767,
+   "frames": 42
+  }
+ ],
+ "missing": [],
+ "dropped": [],
+ "cards": [
+  {
+   "text": "Two straight defeats",
+   "a": 10.0,
+   "b": 11.066666666666666
+  },
+  {
+   "text": "Be more aggressive",
+   "a": 26.266666666666666,
+   "b": 27.7
+  },
+  {
+   "text": "Step up",
+   "a": 30.266666666666666,
+   "b": 31.866666666666667
+  }
+ ],
+ "caption_sprites": 112,
+ "whoosh": [
+  0.0,
+  3.3666666666666667,
+  8.233333333333334,
+  12.5,
+  16.5,
+  20.166666666666664,
+  24.5,
+  28.23333333333333,
+  33.17
+ ],
+ "shots": 12
+}

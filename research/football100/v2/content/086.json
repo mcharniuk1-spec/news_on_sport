@@ -1,0 +1,508 @@
+{
+ "no": 86,
+ "style": "FLAT-POP",
+ "prop": "magnifier",
+ "cast": {
+  "olise": {
+   "role": "player",
+   "number": "17",
+   "shirt": "#d94f4f",
+   "hair": "#2b2b3a"
+  },
+  "giant": {
+   "role": "player",
+   "number": "9",
+   "shirt": "#f4f1ea",
+   "hair": "#c9b37a"
+  },
+  "rival": {
+   "role": "player",
+   "number": "7",
+   "shirt": "#3f6fb5",
+   "hair": "#a03a2a"
+  }
+ },
+ "sequences": {
+  "s01": {
+   "type": "HOOK",
+   "q": "Real Madrid still want Olise: bid or bluff?",
+   "prop": "magnifier",
+   "emote": "smug",
+   "board": "sign",
+   "role": "player"
+  },
+  "s02": {
+   "type": "COMIC",
+   "bg": "tunnel",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.24,
+     "actors": [
+      {
+       "id": "olise",
+       "x": 250,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "happy",
+       "scale": 1.15
+      },
+      {
+       "id": "giant",
+       "x": 760,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "happy",
+       "scale": 1.9,
+       "flip": true,
+       "look": "olise"
+      }
+     ],
+     "props": [
+      {
+       "kind": "newspaper",
+       "x": 760,
+       "y": 1130,
+       "scale": 3.8,
+       "anim": "grow"
+      },
+      {
+       "kind": "magnifier",
+       "x": 560,
+       "y": 720,
+       "scale": 1.7,
+       "anim": "float"
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.24,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "olise",
+       "x": 250,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "happy",
+       "scale": 1.15
+      },
+      {
+       "id": "giant",
+       "x": 760,
+       "y": 1440,
+       "pose": "shock",
+       "emote": "shock",
+       "scale": 1.9,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "magnifier",
+       "x": 560,
+       "y": 740,
+       "scale": 1.7
+      }
+     ],
+     "cam": "push",
+     "sfx": {
+      "text": "WHOOSH",
+      "x": 520,
+      "y": 480,
+      "r": 130
+     },
+     "fx": [
+      {
+       "kind": "dust",
+       "x": 760,
+       "y": 1100
+      }
+     ]
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.66
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.66,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "olise",
+       "x": 250,
+       "y": 1440,
+       "pose": "wave",
+       "emote": "happy",
+       "scale": 1.15
+      },
+      {
+       "id": "giant",
+       "x": 760,
+       "y": 1345,
+       "pose": "idle",
+       "emote": "neutral",
+       "scale": 1.9,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "magnifier",
+       "x": 560,
+       "y": 740,
+       "scale": 1.7
+      },
+      {
+       "kind": "crate",
+       "x": 760,
+       "y": 1420,
+       "scale": 2.0,
+       "layer": "back",
+       "anim": "drop"
+      }
+     ],
+     "sfx": {
+      "text": "DING",
+      "x": 300,
+      "y": 480,
+      "r": 120
+     }
+    }
+   ]
+  },
+  "s03": {
+   "type": "STATS",
+   "items": [
+    {
+     "icon": "medal",
+     "value": "3",
+     "label": "Ranks him third"
+    },
+    {
+     "icon": "calendar",
+     "value": "24",
+     "label": "Olise is twenty-four"
+    },
+    {
+     "icon": "hourglass",
+     "value": "2",
+     "label": "Two years left"
+    }
+   ]
+  },
+  "s04": {
+   "type": "COMIC",
+   "bg": "street",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.24,
+     "actors": [
+      {
+       "id": "olise",
+       "x": 540,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "smug",
+       "scale": 1.35
+      },
+      {
+       "id": "giant",
+       "x": 195,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "love",
+       "scale": 1.15,
+       "look": "olise"
+      },
+      {
+       "id": "rival",
+       "x": 885,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "love",
+       "scale": 1.15,
+       "flip": true,
+       "look": "olise"
+      }
+     ],
+     "props": [
+      {
+       "kind": "net",
+       "x": 540,
+       "y": 960,
+       "scale": 4.0,
+       "layer": "back"
+      },
+      {
+       "kind": "tag",
+       "x": 540,
+       "y": 440,
+       "scale": 1.2,
+       "anim": "wobble",
+       "label": "Shop window"
+      },
+      {
+       "kind": "magnifier",
+       "x": 200,
+       "y": 540,
+       "scale": 1.4,
+       "anim": "float"
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.24,
+     "t1": 0.42,
+     "actors": [
+      {
+       "id": "olise",
+       "x": 540,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "smug",
+       "scale": 1.35
+      },
+      {
+       "id": "giant",
+       "x": 200,
+       "y": 1440,
+       "pose": "lean",
+       "emote": "love",
+       "scale": 1.15,
+       "look": "olise"
+      },
+      {
+       "id": "rival",
+       "x": 880,
+       "y": 1440,
+       "pose": "lean",
+       "emote": "love",
+       "scale": 1.15,
+       "flip": true,
+       "look": "olise"
+      }
+     ],
+     "props": [
+      {
+       "kind": "net",
+       "x": 540,
+       "y": 960,
+       "scale": 4.0,
+       "layer": "back"
+      },
+      {
+       "kind": "tag",
+       "x": 540,
+       "y": 440,
+       "scale": 1.2,
+       "label": "Shop window"
+      },
+      {
+       "kind": "magnifier",
+       "x": 230,
+       "y": 560,
+       "scale": 1.4
+      }
+     ],
+     "cam": "push"
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.42,
+     "t1": 0.56,
+     "actors": [
+      {
+       "id": "olise",
+       "x": 540,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "smug",
+       "scale": 1.35
+      },
+      {
+       "id": "giant",
+       "x": 210,
+       "y": 1440,
+       "pose": "lean",
+       "emote": "dizzy",
+       "scale": 1.15,
+       "look": "olise"
+      },
+      {
+       "id": "rival",
+       "x": 870,
+       "y": 1440,
+       "pose": "lean",
+       "emote": "dizzy",
+       "scale": 1.15,
+       "flip": true,
+       "look": "olise"
+      }
+     ],
+     "props": [
+      {
+       "kind": "net",
+       "x": 540,
+       "y": 960,
+       "scale": 4.0,
+       "layer": "back"
+      },
+      {
+       "kind": "tag",
+       "x": 540,
+       "y": 440,
+       "scale": 1.2,
+       "label": "Shop window"
+      },
+      {
+       "kind": "magnifier",
+       "x": 230,
+       "y": 560,
+       "scale": 1.4
+      }
+     ],
+     "sfx": {
+      "text": "THUD",
+      "x": 880,
+      "y": 500,
+      "r": 110
+     },
+     "fx": [
+      {
+       "kind": "dust",
+       "x": 335,
+       "y": 975,
+       "size": 1.0
+      },
+      {
+       "kind": "dust",
+       "x": 745,
+       "y": 975,
+       "size": 1.0
+      }
+     ]
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.56,
+     "t1": 0.66
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.66,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "olise",
+       "x": 540,
+       "y": 1440,
+       "pose": "shush",
+       "emote": "smug",
+       "scale": 1.35
+      },
+      {
+       "id": "giant",
+       "x": 210,
+       "y": 1440,
+       "pose": "facepalm",
+       "emote": "sad",
+       "scale": 1.15,
+       "look": "olise"
+      },
+      {
+       "id": "rival",
+       "x": 870,
+       "y": 1440,
+       "pose": "shock",
+       "emote": "sad",
+       "scale": 1.15,
+       "flip": true,
+       "look": "olise"
+      }
+     ],
+     "props": [
+      {
+       "kind": "net",
+       "x": 540,
+       "y": 960,
+       "scale": 4.0,
+       "layer": "back"
+      },
+      {
+       "kind": "magnifier",
+       "x": 230,
+       "y": 560,
+       "scale": 1.4
+      },
+      {
+       "kind": "crate",
+       "x": 540,
+       "y": 1400,
+       "scale": 1.4,
+       "layer": "back"
+      },
+      {
+       "kind": "umbrella",
+       "x": 540,
+       "y": 650,
+       "scale": 3.2,
+       "anim": "drop",
+       "layer": "back"
+      }
+     ],
+     "sfx": {
+      "text": "BANG",
+      "x": 890,
+      "y": 470,
+      "r": 100
+     }
+    }
+   ]
+  },
+  "s05": {
+   "type": "NEWS",
+   "name": "Michael Olise",
+   "fact": "Bayern deal then has two years left",
+   "ticker": "Two years left",
+   "icons": [
+    "calendar",
+    "hourglass",
+    "flag"
+   ],
+   "role": "player",
+   "actor": "olise"
+  },
+  "s06": {
+   "type": "INTERVIEW",
+   "label": "REPORTER ASKS",
+   "bubble": "Is Real's interest just window shopping?",
+   "answer": {
+    "icon": "tag",
+    "gesture": "shrug",
+    "emote": "smug"
+   },
+   "subject": "Michael Olise",
+   "subject_cast": "olise",
+   "reporter_role": "reporter"
+  },
+  "s07": {
+   "type": "PROVOC",
+   "q": "Real Madrid: buy now or wait?",
+   "a": "Buy now",
+   "b": "Wait",
+   "split": [
+    41,
+    59
+   ],
+   "mood": "smug"
+  }
+ }
+}

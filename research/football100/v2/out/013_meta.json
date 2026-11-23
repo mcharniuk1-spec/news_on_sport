@@ -1,0 +1,103 @@
+{
+ "no": 13,
+ "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/013_luis_figo.mp4",
+ "total": 38.833333333333336,
+ "outro_start": 32.76,
+ "cover": true,
+ "seq": [
+  {
+   "id": "s01",
+   "kind": "HOOK",
+   "start": 0.1,
+   "end": 1.6,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/013/s01.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s02",
+   "kind": "STATS",
+   "start": 3.8666666666666667,
+   "end": 5.366666666666666,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/013/s02.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s03",
+   "kind": "COMIC1",
+   "start": 7.666666666666667,
+   "end": 9.666666666666666,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/013/s03.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s04",
+   "kind": "NEWS",
+   "start": 11.1,
+   "end": 12.866666666666667,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/013/s04.mp4",
+   "clip_dur": 1.766,
+   "frames": 42
+  },
+  {
+   "id": "s05",
+   "kind": "COMIC2",
+   "start": 14.366666666666667,
+   "end": 16.366666666666667,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/013/s05.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s06",
+   "kind": "COMIC3",
+   "start": 20.2,
+   "end": 22.2,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/013/s06.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s07",
+   "kind": "PROVOC",
+   "start": 24.6,
+   "end": 26.1,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/013/s07.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s08",
+   "kind": "INTERVIEW",
+   "start": 28.333333333333332,
+   "end": 30.1,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/013/s08.mp4",
+   "clip_dur": 1.766,
+   "frames": 42
+  }
+ ],
+ "missing": [],
+ "dropped": [],
+ "cards": [
+  {
+   "text": "Not a hobby",
+   "a": 27.033333333333335,
+   "b": 28.2
+  }
+ ],
+ "caption_sprites": 106,
+ "whoosh": [
+  0.0,
+  3.7666666666666666,
+  7.566666666666667,
+  11.0,
+  14.266666666666667,
+  20.099999999999998,
+  24.5,
+  28.23333333333333,
+  32.66
+ ],
+ "shots": 12
+}

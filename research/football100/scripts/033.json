@@ -1,0 +1,77 @@
+{
+ "no": 33,
+ "subject": "Man Utd come from two goals down to beat Roma 3-2 at Old Trafford",
+ "title": "Two down, Cunha up",
+ "voice": "kokoro",
+ "comic": false,
+ "style": null,
+ "lines": [
+  {
+   "vo": "Two-nil down after eighteen minutes. Man United still won three-two.",
+   "card": "Two down, 3-2 up",
+   "sfx": null,
+   "footage": "Man United Roma 3-2 highlights"
+  },
+  {
+   "vo": "Roma came in unbeaten in Serie A. Their defence then took a day trip.",
+   "card": "Day trip defence",
+   "sfx": null,
+   "footage": "Roma first half goals Old Trafford"
+  },
+  {
+   "vo": "A poor Balerdi clearance led to the equaliser. Matheus Cunha scored in the eighty-third and eighty-sixth minutes. Three minutes, two goals, no mercy.",
+   "card": "Cunha, twice",
+   "sfx": null,
+   "footage": "Cunha winner Roma Old Trafford"
+  },
+  {
+   "vo": "Bruno Fernandes had just accepted being benched. His penalty was saved, then retaken, then scored. Persistence. Or paperwork.",
+   "card": "Retaken penalty",
+   "sfx": null,
+   "footage": "Fernandes retaken penalty Roma"
+  },
+  {
+   "vo": "The win ended a nine-match winless run. Cunha then saw a second yellow in stoppage time. Hero and early bath, in one evening.",
+   "card": "Hero, then bath",
+   "sfx": null,
+   "footage": "Cunha red card Old Trafford"
+  },
+  {
+   "vo": "Your mates will never guess this. Match news and betting tips at aboutfootball dot UK.",
+   "card": "aboutfootball.UK",
+   "sfx": null,
+   "footage": "end card"
+  }
+ ],
+ "chars": 622,
+ "est_seconds": 35,
+ "footage_terms": [
+  "Man United Roma 3-2 highlights",
+  "Cunha winner Roma Old Trafford",
+  "Fernandes retaken penalty Roma",
+  "Cunha red card Old Trafford"
+ ],
+ "inserts": [
+  {
+   "after_line": 0,
+   "story": "A cartoon scoreboard shows 0-2 with the clock at 18 minutes and the red-shirt fans sink in their seats. Gag: the fans pull out umbrellas against a rain of cartoon gloom clouds. Twist: a tiny sun peeks out from behind the scoreboard.",
+   "characters": "generic cartoon red-shirt team and fans",
+   "seconds": 2
+  },
+  {
+   "after_line": 3,
+   "story": "A cartoon calendar page is covered with nine red crosses in a row. Gag: a hand stamps a big green tick over the next square. Twist: the crosses all pop off and bounce away like confetti.",
+   "characters": "generic cartoon calendar",
+   "seconds": 2
+  }
+ ],
+ "facts_used": [
+  "Roma led 2-0 by the 18th minute through Soule and a Malen penalty (ev0037)",
+  "Balerdi's poor clearance led to the equaliser; Cunha scored in the 83rd and 86th minutes (ev0037)",
+  "Fernandes scored a penalty on the retake after the first was saved; he had accepted recent benching (ev0037)",
+  "Cunha sent off for a second yellow in stoppage time; win ended a nine-match winless run for United (ev0037)",
+  "Roma came into the game unbeaten in Serie A (ev0037 background)"
+ ],
+ "comic_score": 6,
+ "notes": "Non-comic, no inserts. Facts unchanged; 'three minutes' is 86 minus 83. Source is unclear on who scored Roma's first goal, so no scorer is named. Order of the Fernandes penalty versus Cunha goals is not stated in source, so the script does not claim one. Source: ev0037."
+}

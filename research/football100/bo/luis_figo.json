@@ -1,0 +1,820 @@
+{
+  "name": "Luis Figo",
+  "years": "b. 4 Nov 1972; pro career 1989-2009; Ballon d'Or 2000",
+  "research_date": "2026-11-20",
+  "window": "last 90 days = 2026-08-22 to 2026-11-20",
+  "recent_news": [
+    {
+      "date": "2026-11-19",
+      "headline": "FIFA confirms three presidential candidates for 2027; Figo is not one of them",
+      "facts": [
+        "On 19 Nov 2026 FIFA confirmed three candidacies for the 18 March 2027 election in Rabat: Gianni Infantino, Philippe Diallo (French FA president) and Kohzo Tashima (ex-Japan FA president).",
+        "Luis Figo, who had been named as a possible UEFA-backed challenger, did not enter; the nomination deadline passed on 18 Nov.",
+        "Diallo was endorsed by the UEFA Executive Committee and European FIFA Council members (Wikipedia); O Jogo's 'unanimous' wording could not be checked (HTTP 403)."
+      ],
+      "source_url": "https://ojogo.pt/internacional/artigo/figo-fica-de-fora-fifa-anuncia-os-tres-candidatos-a-presidencia/18149836",
+      "source_domain": "ojogo.pt",
+      "tone": "roast",
+      "sensitive": false,
+      "in_window": true,
+      "note": "Punchline material: the 'candidate' who never became one.",
+      "alt_sources": [
+        "https://en.wikipedia.org/wiki/2027_FIFA_presidential_election"
+      ]
+    },
+    {
+      "date": "2026-11-16",
+      "headline": "UEFA reportedly tries to persuade Figo to challenge Infantino for the FIFA presidency",
+      "facts": [
+        "On 16 Nov 2026 French outlet Foot Mercato reported that several UEFA officials wanted Figo to run, two days before the 18 Nov nomination deadline.",
+        "Figo came up after Arsene Wenger declined and Hungarian FA chief Sandor Csanyi was considered (A Bola says Csanyi also declined); the idea was not unanimous inside UEFA.",
+        "A candidate needs backing from at least five FIFA member associations; the vote is 18 March 2027 in Rabat, Morocco. Figo himself had not announced anything."
+      ],
+      "source_url": "https://footballtoday.com/2026/11/16/uefa-want-luis-figo-as-fifa-president-plan-new-global-body",
+      "source_domain": "footballtoday.com",
+      "tone": "neutral",
+      "sensitive": false,
+      "in_window": true,
+      "alt_sources": [
+        "https://www.abola.pt/noticias/uefa-tenta-convencer-figo-a-concorrer-a-presidencia-da-fifa-2026111610130541564",
+        "https://jornaleconomico.sapo.pt/noticias/uefa-pondera-avancar-com-luis-figo-para-a-presidencia-da-fifa/"
+      ]
+    },
+    {
+      "date": "2026-10-15",
+      "headline": "Sky Sports (as relayed by a Brazilian outlet): Figo among names UEFA weighs against Infantino",
+      "facts": [
+        "A report credited to Sky Sports on 15 Oct 2026 listed Figo, Arsene Wenger and Michelle Kang (Eagle Football Group) among possible challengers to Infantino.",
+        "The relayed report says Figo had not announced a run and that rivals could wait until the 18 Nov deadline."
+      ],
+      "source_url": "http://www.informativoemfoco.com/2026/10/luis-figo-e-cotado-para-disputar.html",
+      "source_domain": "informativoemfoco.com",
+      "tone": "neutral",
+      "sensitive": false,
+      "in_window": true,
+      "note": "Relay page opened and matches; original Sky Sports page not opened."
+    },
+    {
+      "date": "2026-11-15",
+      "headline": "Figo trades barbs on X with Catalan politician Gabriel Rufian; 'Figo the mercenary' resurfaces",
+      "facts": [
+        "At an ERC rally in Tarragona on Friday 13 Nov Rufian joked that a hypothetical PP-Vox government could make Figo sports minister.",
+        "Figo replied on X on Sunday 15 Nov that Rufian had gone from uniting the left to ending up with Podemos and wished him luck for the 29th; Goal says Figo later deleted a post.",
+        "Rufian answered 'Not all of us sell ourselves' and reposted the old 'Figo pesetero' banknote image tied to Figo's 2000 move from Barcelona to Real Madrid.",
+        "Figo then added 'Ya no vendes ni humo!!!' (OKDiario, 16 Nov).",
+        "The exchange came less than two weeks before Spain's 29 Nov 2026 general election."
+      ],
+      "source_url": "https://okdiario.com/deportes/figo-vuelve-reventar-rufian-dos-semanas-elecciones-ya-no-vendes-ni-humo-20930396",
+      "source_domain": "okdiario.com",
+      "tone": "roast",
+      "sensitive": false,
+      "in_window": true,
+      "alt_sources": [
+        "https://www.goal.com/en/news/figo-the-mercenary-political-spat-reopens-wound-of-barcelona-betrayal/bltbde422b77cbbd4ce",
+        "https://www.abola.pt/noticias/nem-todos-nos-vendemos-figo-reentra-em-polemica-com-politico-catalao-2026111519311029833"
+      ],
+      "note": "Partisan politics during a live election campaign: use ONLY the 'mercenary' transfer history for jokes, never take a side on the politics."
+    },
+    {
+      "date": "2026-11-19",
+      "headline": "Figo tells El Pais (via Record) he is launching his own clothing brand as an 'industrial project, not a hobby'",
+      "facts": [
+        "Figo says the clothing brand under his own name, built with a business partner, is 'an industrial project, not a hobby'.",
+        "He told El Pais that his name can help early promotion but 'the name guarantees you nothing' and the product must stand on quality.",
+        "On critics he said: if God does not please everyone, imagine Luis Figo; he also called free time and independence 'the luxury' of today."
+      ],
+      "source_url": "https://www.record.pt/internacional/detalhe/se-deus-nao-agrada-a-toda-a-gente-imaginem-luis-figo-antigo-internacional-aventura-se-na-moda-sem-receios",
+      "source_domain": "record.pt",
+      "tone": "roast",
+      "sensitive": false,
+      "in_window": true,
+      "alt_sources": [
+        "https://caras.pt/famosos/2026-11-19-dos-relvados-para-o-universo-empresarial-luis-figo-aposta-na-moda-e-redefine-a-sua-liberdade/"
+      ],
+      "note": "Record (19 Nov) reports that Figo told El Pais; the El Pais original was not opened. The sources give no launch year and no brand name; the earlier '2024' and 'LF Luis Figo' were not supported."
+    },
+    {
+      "date": "2026-11-19",
+      "headline": "Figo on Real Madrid: Vinicius will return to form, Diomande quick and a goal threat, credit to Mourinho",
+      "facts": [
+        "Figo said Vinicius Jr 'will return to his level, to his status'; he called Yan Diomande quick and a goal threat whose defensive work matters, and said Arda Guler's involvement shows his quality.",
+        "He said credit for Real Madrid's good run belongs to Jose Mourinho's decisions and the players, citing better solidity.",
+        "Madrid Universal (via Yahoo) describes him as a Betfair ambassador."
+      ],
+      "source_url": "https://sports.yahoo.com/articles/luis-figo-talks-vinicius-diomande-123000401.html",
+      "source_domain": "sports.yahoo.com",
+      "tone": "praise",
+      "sensitive": false,
+      "in_window": true
+    },
+    {
+      "date": "2026-11-04",
+      "headline": "Figo turns 54: 'It is just a number'",
+      "facts": [
+        "Figo turned 54 on Wednesday 4 Nov 2026 and posted on Instagram that '54 is just a number'."
+      ],
+      "source_url": "https://onfm.pt/2026/11/05/luis-figo-54-e-apenas-um-numero/",
+      "source_domain": "onfm.pt",
+      "tone": "neutral",
+      "sensitive": false,
+      "in_window": true,
+      "note": "Age joke is mild; do not reference the family in the post."
+    },
+    {
+      "date": "2026-10-22",
+      "headline": "Figo predicts a 2-2 Clasico and says he could have started for either team",
+      "facts": [
+        "Before the 25 Oct 2026 Clasico Figo predicted 2-2 at Camp Nou with goals from Raphinha, Lamine Yamal, Bellingham and Mbappe.",
+        "He said that at his level of 26 years ago he could have been a starter for either team, and that if he coached either side he would pick himself: 'si no lo digo yo, nadie lo dirá'.",
+        "He said Mourinho could have been a good Barcelona coach and that, had he overlapped with Lamine Yamal, he might have had to move to the left."
+      ],
+      "source_url": "https://www.libertaddigital.com/deportes/liga/2026-10-22/figo-analiza-el-clasico-el-real-madrid-seguramente-tendra-opciones-a-la-contra-7480547/",
+      "source_domain": "libertaddigital.com",
+      "tone": "roast",
+      "sensitive": false,
+      "in_window": true,
+      "note": "Libertad Digital identifies him as a Betfair ambassador but does not say the remarks come from a Betfair interview."
+    },
+    {
+      "date": "2026-10-25",
+      "headline": "The Clasico ends Barcelona 1-2 Real Madrid, not the 2-2 Figo predicted",
+      "facts": [
+        "Real Madrid won 2-1 at Camp Nou on 25 Oct 2026: Mbappe scored in the first half and in the 87th minute; Raphinha equalised in between.",
+        "Of Figo's four predicted scorers, only Mbappe and Raphinha scored; Yamal and Bellingham did not score."
+      ],
+      "source_url": "https://www.101greatgoals.com/?p=219286",
+      "source_domain": "101greatgoals.com",
+      "tone": "roast",
+      "sensitive": false,
+      "in_window": true,
+      "alt_sources": [
+        "https://en.wikipedia.org/wiki/El_Cl%C3%A1sico"
+      ],
+      "note": "Joke is on his prediction, not on any person's misfortune."
+    },
+    {
+      "date": "2026-10-09",
+      "headline": "Figo seen at the Open de Espana golf at Club de Campo Villa de Madrid",
+      "facts": [
+        "Getty photo caption (via Caras) shows Figo at the Club de Campo Villa de Madrid for day two of the Open de Espana on 9 October; the caption gives no year, so 2026 is inferred."
+      ],
+      "source_url": "https://caras.pt/famosos/2026-11-19-dos-relvados-para-o-universo-empresarial-luis-figo-aposta-na-moda-e-redefine-a-sua-liberdade/",
+      "source_domain": "caras.pt",
+      "tone": "neutral",
+      "sensitive": false,
+      "in_window": true,
+      "note": "Minor colour only."
+    },
+    {
+      "date": "2026-09-22",
+      "headline": "Figo on Radio MARCA: Real Madrid will fight to the end; Mbappe 'one of the best in the world' at scoring",
+      "facts": [
+        "Figo said Real Madrid would fight until the very end and that Barcelona had started strong, but the season is long.",
+        "Asked about Mourinho's comments on referees after the Madrid derby, he declined to judge and said he had not watched because he was in Zurich.",
+        "On the Ballon d'Or he said he does not vote, so he would not comment."
+      ],
+      "source_url": "https://sports.yahoo.com/articles/luis-figo-talks-mourinho-mbappe-121000551.html",
+      "source_domain": "sports.yahoo.com",
+      "tone": "neutral",
+      "sensitive": false,
+      "in_window": true
+    },
+    {
+      "date": "2026-09-03",
+      "headline": "Figo praises Real Madrid's summer signings but says transfer fees are 'crazy' and hard to justify",
+      "facts": [
+        "Figo praised Real Madrid's summer business (six signings in key positions) as 'necessary' after two seasons without a major trophy.",
+        "On Diomande's reported EUR 140m fee he said the price reflects the market, and that a EUR 150m deal is hard to recoup through merchandise sales."
+      ],
+      "source_url": "https://sports.yahoo.com/articles/luis-figo-lauds-real-madrid-112000657.html",
+      "source_domain": "sports.yahoo.com",
+      "tone": "neutral",
+      "sensitive": false,
+      "in_window": true
+    },
+    {
+      "date": "2026-08-05",
+      "headline": "[Outside 90-day window, explains current story] Figo says Infantino 'should go. Now.'",
+      "facts": [
+        "On 5 Aug 2026 Euronews reported that Figo posted on X that Infantino 'debased the office that he promised to elevate' and 'lied, deceived and tried to feather his own nest'.",
+        "A Bola and a Sky relay describe a Daily Mail op-ed/open letter by Figo in August calling for Infantino to step down.",
+        "It came after Infantino scrapped a plan for private minority stakes in a new FIFA commercial unit."
+      ],
+      "source_url": "https://www.euronews.com/2026/08/05/portugal-legend-luis-figo-calls-for-infantino-to-resign-saying-he-debased-fifa-presidency",
+      "source_domain": "euronews.com",
+      "tone": "neutral",
+      "sensitive": false,
+      "in_window": false,
+      "alt_sources": [
+        "https://www.abola.pt/noticias/uefa-tenta-convencer-figo-a-concorrer-a-presidencia-da-fifa-2026111610130541564",
+        "http://www.informativoemfoco.com/2026/10/luis-figo-e-cotado-para-disputar.html"
+      ],
+      "note": "Euronews opened. '10,000 words / three words' not found and removed. Euronews does not call Figo a UEFA adviser. These are Figo's own accusations: always attribute ('Figo said')."
+    }
+  ],
+  "now": {
+    "as_of": "2026-11-20",
+    "club_or_role": "No club. Retired from playing in May 2009 at Inter. Goal calls him a UEFA adviser and A Bola's caption calls him a UEFA and FIFA ambassador; also Betfair ambassador (Spain, since May 2025) and TenTrade global brand ambassador (23 Apr 2026); owns a clothing brand under his own name (launch year not stated) and other businesses (hotel, bar, catering, wine, mining).",
+    "contract": "None as a player or coach. He told El Pais he never wanted to depend on being a coach or sporting director.",
+    "season_numbers": "No team season. Nearest to a 'result': he predicted 2-2 in the 25 Oct Clasico, Real Madrid won 1-2 at Camp Nou (Mbappe 2, Raphinha 1).",
+    "fifa_story": "Mid-Nov 2026 UEFA reportedly tried to recruit him against Infantino; on 19 Nov FIFA's candidate list had Infantino, Diallo, Tashima only. Election 18 Mar 2027, Rabat.",
+    "what_people_say": "Portuguese press frames him as a wealthy businessman and possible FIFA outsider; Spanish politics reopened the 'Figo the mercenary' label from 2000.",
+    "age": "54 (born 4 Nov 1972)"
+  },
+  "quick_context": "Figo won the 2000 Ballon d'Or (he scored 14 goals in 51 games for Barcelona in 1999-2000) and the 2001 FIFA World Player of the Year after a record EUR 62m move to Real Madrid. He won four La Liga titles, one Champions League and four Serie A titles, and played 127 times for Portugal, reaching the Euro 2000 semi-finals and the Euro 2004 final. He retired at Inter in 2009.",
+  "roast_past": [
+    {
+      "angle": "The EUR 62m 'mercenary': Barcelona captain to Real Madrid in 2000, a world-record fee, and a Netflix documentary about it.",
+      "basis": "Move from Barcelona to Real Madrid in 2000 for a world-record EUR 62m; Netflix released the documentary 'The Figo Affair' in August 2022 about the transfer.",
+      "source_url": "https://en.wikipedia.org/wiki/Lu%C3%ADs_Figo"
+    },
+    {
+      "angle": "The returns to Camp Nou: ears covered and jeers in 2000, then in 2002 missiles and a pig's head by the corner flag.",
+      "basis": "First return 21 Oct 2000: jeers, fingers to ears, Barcelona won 2-0. Return of 23 Nov 2002: missiles during corners, about 20 minutes of suspension, a pig's head near the corner flag; 0-0.",
+      "source_url": "https://en.wikipedia.org/wiki/Lu%C3%ADs_Figo"
+    },
+    {
+      "angle": "Won the Ballon d'Or in Madrid white, 'largely for what he did for Barcelona'.",
+      "basis": "Wikipedia (citing Sid Lowe) says Figo won the Ballon d'Or in Nov 2000 'largely for what he did for Barcelona', after joining Real Madrid that summer.",
+      "source_url": "https://en.wikipedia.org/wiki/Lu%C3%ADs_Figo"
+    },
+    {
+      "angle": "Galactico era: five seasons at Madrid and one Champions League.",
+      "basis": "He spent five seasons at Real Madrid (2000-2005) and won one Champions League (2001-02) in his career.",
+      "source_url": "https://en.wikipedia.org/wiki/Lu%C3%ADs_Figo"
+    },
+    {
+      "angle": "Retired from Portugal after the Euro 2004 final loss to Greece, then un-retired in June 2005.",
+      "basis": "He announced international retirement after the Euro 2004 final defeat to Greece and reversed it in June 2005.",
+      "source_url": "https://en.wikipedia.org/wiki/Lu%C3%ADs_Figo"
+    },
+    {
+      "angle": "2015 FIFA presidency bid: announced in January, withdrew in May saying he did not want 'absolute power'; Blatter won.",
+      "basis": "Figo announced a FIFA presidency run on 28 Jan 2015 and withdrew on 21 May 2015 before the vote; Blatter was re-elected.",
+      "source_url": "https://en.wikipedia.org/wiki/Lu%C3%ADs_Figo"
+    },
+    {
+      "angle": "From winger to hotels, a bar, wine and mining.",
+      "basis": "He operates businesses in hotel, fashion, catering, mining and wine; he started the mining company after visiting a mining fair in Dakar in 2010.",
+      "source_url": "https://en.wikipedia.org/wiki/Lu%C3%ADs_Figo"
+    },
+    {
+      "angle": "Briefly co-owned a team in the A1 Grand Prix racing series (2005-06).",
+      "basis": "Figo was briefly joint seat holder for A1 Team Portugal in the 2005-06 A1 Grand Prix with Carlos Queiroz.",
+      "source_url": "https://en.wikipedia.org/wiki/Lu%C3%ADs_Figo"
+    }
+  ],
+  "roast_now": [
+    {
+      "angle": "UEFA's reported Plan C for FIFA: Wenger said no, Csanyi was considered, then Figo was floated; by 19 Nov the final list had no Figo.",
+      "basis": "Foot Mercato (16 Nov) said Figo came up after Wenger declined and Csanyi was considered; FIFA's list on 19 Nov showed Infantino, Diallo, Tashima.",
+      "source_url": "https://footballtoday.com/2026/11/16/uefa-want-luis-figo-as-fifa-president-plan-new-global-body"
+    },
+    {
+      "angle": "26 years later he is still 'Figo the mercenary' to a politician on X.",
+      "basis": "Rufian answered Figo's X post by reposting the old 'Figo pesetero' banknote image tied to the 2000 transfer.",
+      "source_url": "https://okdiario.com/deportes/figo-vuelve-reventar-rufian-dos-semanas-elecciones-ya-no-vendes-ni-humo-20930396"
+    },
+    {
+      "angle": "Joked in 2025 it was 'time to be president'; he became president of a Betfair loyalty club, not FIFA.",
+      "basis": "In Oct 2025 Figo posted 'I think it is time to be president', then revealed he was president of Club Betfair, the brand's loyalty programme; FIFA list of 19 Nov 2026 did not include him.",
+      "source_url": "https://www.casasdeapuestas.com/noticias/figo-sorprende-con-su-nuevo-cargo-soy-el-presidente/"
+    },
+    {
+      "angle": "Predicted 2-2 at the Clasico; Madrid won 2-1 (his Mbappe pick scored twice).",
+      "basis": "Figo predicted 2-2 on 22 Oct; the 25 Oct Clasico ended Barcelona 1-2 Real Madrid with Mbappe scoring twice.",
+      "source_url": "https://www.101greatgoals.com/?p=219286"
+    },
+    {
+      "angle": "'If I were coach of either team I'd play myself... if I don't say it, nobody will' - at 54.",
+      "basis": "Figo said he 'could have started for either team' at his level of 26 years ago and 'if I don't say it, nobody will'.",
+      "source_url": "https://www.libertaddigital.com/deportes/liga/2026-10-22/figo-analiza-el-clasico-el-real-madrid-seguramente-tendra-opciones-a-la-contra-7480547/"
+    },
+    {
+      "angle": "Backed Mourinho in November; in May said Madrid did not need a 'tough' coach.",
+      "basis": "On 8 May 2026 Figo said he does not think Real Madrid needs a 'tough' coach; on 19 Nov 2026 he credited Mourinho for Madrid's form.",
+      "source_url": "https://sports.yahoo.com/articles/luis-figo-weighs-state-real-161000573.html"
+    },
+    {
+      "angle": "'If God doesn't please everyone, imagine me' - launches a clothing brand under his own name.",
+      "basis": "Figo said 'if God does not please everyone, imagine Luis Figo' while describing his clothing brand as an industrial project.",
+      "source_url": "https://www.record.pt/internacional/detalhe/se-deus-nao-agrada-a-toda-a-gente-imaginem-luis-figo-antigo-internacional-aventura-se-na-moda-sem-receios"
+    }
+  ],
+  "praise": [
+    {
+      "angle": "One of only a handful of players to win the Ballon d'Or (2000) and FIFA World Player of the Year (2001).",
+      "basis": "Figo won the 2000 Ballon d'Or and the 2001 FIFA World Player of the Year.",
+      "source_url": "https://en.wikipedia.org/wiki/Lu%C3%ADs_Figo"
+    },
+    {
+      "angle": "127 caps for Portugal, a record at the time, and 32 goals.",
+      "basis": "He won 127 caps for Portugal, a one-time record, scoring 32 goals.",
+      "source_url": "https://en.wikipedia.org/wiki/Lu%C3%ADs_Figo"
+    },
+    {
+      "angle": "Won league titles in two countries: four La Liga and four Serie A, plus a Champions League.",
+      "basis": "Four La Liga, four Serie A and one Champions League title.",
+      "source_url": "https://en.wikipedia.org/wiki/Lu%C3%ADs_Figo"
+    },
+    {
+      "angle": "Second-most Champions League assists ever for a Portuguese player (15).",
+      "basis": "He ranks second for all-time Portuguese assist providers in the UEFA Champions League with 15.",
+      "source_url": "https://en.wikipedia.org/wiki/Lu%C3%ADs_Figo"
+    },
+    {
+      "angle": "Said publicly in August that Infantino 'should go. Now.'",
+      "basis": "Figo posted on X (Euronews, 5 Aug 2026); A Bola and a Sky relay also mention a Daily Mail op-ed.",
+      "source_url": "https://www.euronews.com/2026/08/05/portugal-legend-luis-figo-calls-for-infantino-to-resign-saying-he-debased-fifa-presidency"
+    },
+    {
+      "angle": "Builds a brand with his name but insists 'the name guarantees nothing' - quality first.",
+      "basis": "Figo told El Pais (via Record) 'the name guarantees you nothing' and the product must stand on its quality.",
+      "source_url": "https://www.record.pt/internacional/detalhe/se-deus-nao-agrada-a-toda-a-gente-imaginem-luis-figo-antigo-internacional-aventura-se-na-moda-sem-receios"
+    }
+  ],
+  "no_joke_topics": [
+    "Health, injuries, ageing-as-illness (none found in the news pack; keep it that way).",
+    "Doping and any legal or tax matter (none found; do not invent).",
+    "War and geopolitics.",
+    "Family: wife and three daughters; his 4 Nov birthday post mentions celebrating with family.",
+    "Partisan politics and the 29 Nov 2026 Spanish general election: joke only about the 2000 'mercenary' transfer, never about Rufian's or Figo's party views.",
+    "Gambling harm: Figo is a Betfair and TenTrade ambassador; tease the 'president' gag only, never gambling addiction or losses.",
+    "Do not state as fact that Figo wanted to run for FIFA president in 2026: he never announced it.",
+    "Infantino accusations ('lied', 'deceived') are Figo's own words: always attribute them."
+  ],
+  "viral_moments": [
+    {
+      "moment": "'Ya no vendes ni humo!!!' - Figo's X reply to Rufian, 15-16 Nov 2026 (Goal says Figo later deleted a post).",
+      "why_provocative": "Mixes football and politics 13 days before an election; Rufian replied with the 2000 'mercenary' image.",
+      "source_url": "https://okdiario.com/deportes/figo-vuelve-reventar-rufian-dos-semanas-elecciones-ya-no-vendes-ni-humo-20930396",
+      "youtube_link": null,
+      "timestamp": null
+    },
+    {
+      "moment": "'He should go. Now.' - Figo on Infantino, 5 Aug 2026 (X post; Daily Mail op-ed also reported).",
+      "why_provocative": "A UEFA-linked figure calls for the FIFA president's resignation.",
+      "source_url": "https://www.qatar-tribune.com/article/247594/sports/he-should-go-now-figo-the-latest-to-hit-out-at-infantino/amp",
+      "youtube_link": null,
+      "timestamp": null
+    },
+    {
+      "moment": "'If I were coach of either team I would pick myself - if I don't say it, nobody will' (22 Oct 2026).",
+      "why_provocative": "Cheeky claim by a 54-year-old that he would start in a Clasico.",
+      "source_url": "https://www.libertaddigital.com/deportes/liga/2026-10-22/figo-analiza-el-clasico-el-real-madrid-seguramente-tendra-opciones-a-la-contra-7480547/",
+      "youtube_link": null,
+      "timestamp": null
+    },
+    {
+      "moment": "Classic: Camp Nou return, 23 Nov 2002: pig's head near the corner flag, 20-minute stoppage (fingers in ears were from his 2000 return).",
+      "why_provocative": "The defining image of the Barcelona-Madrid rivalry.",
+      "source_url": "https://en.wikipedia.org/wiki/Lu%C3%ADs_Figo",
+      "youtube_link": null,
+      "timestamp": null,
+      "youtube_search": "Figo Camp Nou 2002 cerdo córner Barcelona Real Madrid"
+    }
+  ],
+  "footage_terms": [
+    {
+      "term": "Luis Figo Barcelona vs Real Madrid 2002 Camp Nou pig head corner kick",
+      "watermark_risk": "high",
+      "note": "TV broadcast rips, often with channel logos and burned-in Spanish captions."
+    },
+    {
+      "term": "Luis Figo Real Madrid best goals and skills 2000-2005",
+      "watermark_risk": "high",
+      "note": "Fan compilations carry channel watermarks and music."
+    },
+    {
+      "term": "Luis Figo Barcelona 1999-2000 skills assists",
+      "watermark_risk": "high",
+      "note": "Fan compilations."
+    },
+    {
+      "term": "Luis Figo Euro 2000 Portugal England 3-2",
+      "watermark_risk": "medium",
+      "note": "UEFA/broadcaster rights; some uploads cropped."
+    },
+    {
+      "term": "Luis Figo free kick Inter Roma Supercoppa 2008",
+      "watermark_risk": "medium",
+      "note": "Italian broadcast logo."
+    },
+    {
+      "term": "Luis Figo entrevista Betfair Clásico 2026",
+      "watermark_risk": "medium",
+      "note": "Spanish subtitles burned-in on many clips; channel branding."
+    },
+    {
+      "term": "Barcelona 1-2 Real Madrid highlights 25 October 2026 Mbappe",
+      "watermark_risk": "high",
+      "note": "Rights-protected, often removed; use only short clip."
+    },
+    {
+      "term": "Luis Figo press conference interview 2026 English",
+      "watermark_risk": "low",
+      "note": "Interview clips from sponsors usually clean but check subtitles."
+    },
+    {
+      "term": "El Caso Figo Netflix trailer",
+      "watermark_risk": "medium",
+      "note": "Netflix trailer, copyright; Spanish captions possible."
+    }
+  ],
+  "flipbook_ideas": [
+    "Figo carries a ballot box labelled 'FIFA 2027' with three candidate names stuck on; he tiptoes out of frame and the box shows a tiny 'Not on the list' note.",
+    "Figo at a sewing machine stamping 'INDUSTRIAL PROJECT - NOT A HOBBY' on a shirt; a halo appears over a pile of jumpers labelled 'God can't please everyone'.",
+    "Betfair 'president' sash and tiny crown on Figo, pointing proudly at a '2-2' prediction board while the scoreboard behind flips to '1-2'.",
+    "Banknote with Figo's face flying from Barcelona to Madrid, an arrow labelled '62M' (caricature of the 2000 'pesetero' image, no names of the politician).",
+    "A birthday cake: candle shaped like the number 54 flashes 'just a number' like a scoreboard (no family, no health)."
+  ],
+  "image_reference_notes": {
+    "signature_look": "Winger of the Galactico era; not verified in this pack: recent photo references needed for hairstyle and beard (Getty captions available: 8 Apr 2026 PSG v Liverpool at Parc des Princes; 9 Oct 2026 Open de Espana at Club de Campo Villa de Madrid).",
+    "current_look": "UNVERIFIED in this pack: sources only give age 54; no hair or beard description was fetched. Pull a 2026 Getty photo before drawing.",
+    "kit_colours": [
+      "Real Madrid: white",
+      "Barcelona: blue and garnet (blaugrana)",
+      "Portugal: red and green",
+      "Inter Milan: blue and black stripes (he wore number 7 per the Inter museum caption)"
+    ],
+    "expressions": "Stern, serious on the pitch; fingers in ears at the 2000 Camp Nou return; self-ironic in Betfair videos.",
+    "signature_pose": "Fingers to ears (Camp Nou return, 2000); suit-and-tie institutional pose from the Betfair 'president' video."
+  },
+  "claims": [
+    {
+      "claim": "On 19 Nov 2026 FIFA confirmed three candidacies for the 18 March 2027 election in Rabat: Gianni Infantino, Philippe Diallo (French FA president) and Kohzo Tashima (ex-Japan FA president).",
+      "source_url": "https://ojogo.pt/internacional/artigo/figo-fica-de-fora-fifa-anuncia-os-tres-candidatos-a-presidencia/18149836",
+      "confidence": "high"
+    },
+    {
+      "claim": "Luis Figo, who had been named as a possible UEFA-backed challenger, did not enter; the nomination deadline passed on 18 Nov.",
+      "source_url": "https://ojogo.pt/internacional/artigo/figo-fica-de-fora-fifa-anuncia-os-tres-candidatos-a-presidencia/18149836",
+      "confidence": "high"
+    },
+    {
+      "claim": "Diallo was endorsed by the UEFA Executive Committee and European FIFA Council members (Wikipedia, 2027 FIFA presidential election). The word 'unanimous' from O Jogo could not be checked: the page returned HTTP 403.",
+      "source_url": "https://en.wikipedia.org/wiki/2027_FIFA_presidential_election",
+      "confidence": "medium",
+      "verification": "corrected"
+    },
+    {
+      "claim": "On 16 Nov 2026 French outlet Foot Mercato reported that several UEFA officials wanted Figo to run, two days before the 18 Nov nomination deadline.",
+      "source_url": "https://footballtoday.com/2026/11/16/uefa-want-luis-figo-as-fifa-president-plan-new-global-body",
+      "confidence": "high"
+    },
+    {
+      "claim": "Figo came up after Arsene Wenger declined and Hungarian FA chief Sandor Csanyi was considered (A Bola and Jornal Economico add that Csanyi also withdrew); the idea was not unanimous inside UEFA.",
+      "source_url": "https://footballtoday.com/2026/11/16/uefa-want-luis-figo-as-fifa-president-plan-new-global-body",
+      "confidence": "high",
+      "verification": "corrected"
+    },
+    {
+      "claim": "A candidate needs backing from at least five FIFA member associations; the vote is 18 March 2027 in Rabat, Morocco. Figo himself had not announced anything.",
+      "source_url": "https://footballtoday.com/2026/11/16/uefa-want-luis-figo-as-fifa-president-plan-new-global-body",
+      "confidence": "high"
+    },
+    {
+      "claim": "A report by Sky Sports, relayed by informativoemfoco on 15 Oct 2026, listed Figo, Arsene Wenger and Michelle Kang (Eagle Football Group) among possible challengers to Infantino.",
+      "source_url": "http://www.informativoemfoco.com/2026/10/luis-figo-e-cotado-para-disputar.html",
+      "confidence": "medium",
+      "verification": "corrected"
+    },
+    {
+      "claim": "The relayed report says Figo had not officially announced a run and that rivals could wait until the 18 Nov deadline; it also notes Figo wrote a Daily Mail op-ed in August calling for Infantino to step down.",
+      "source_url": "http://www.informativoemfoco.com/2026/10/luis-figo-e-cotado-para-disputar.html",
+      "confidence": "medium",
+      "verification": "corrected"
+    },
+    {
+      "claim": "At an ERC rally in Tarragona on Friday 13 Nov 2026, Gabriel Rufian joked that a hypothetical PP-Vox government could make Figo sports minister (OKDiario, A Bola).",
+      "source_url": "https://okdiario.com/deportes/figo-vuelve-reventar-rufian-dos-semanas-elecciones-ya-no-vendes-ni-humo-20930396",
+      "confidence": "high",
+      "verification": "corrected"
+    },
+    {
+      "claim": "Figo replied on X on Sunday 15 Nov that Rufian had gone from uniting the left to ending up with Podemos and wished him luck for the 29th; after Rufian's answer he added 'Ya no vendes ni humo!!!' (reported by OKDiario on 16 Nov). Goal says Figo later deleted a post.",
+      "source_url": "https://okdiario.com/deportes/figo-vuelve-reventar-rufian-dos-semanas-elecciones-ya-no-vendes-ni-humo-20930396",
+      "confidence": "high",
+      "verification": "corrected"
+    },
+    {
+      "claim": "Rufian answered 'Not all of us sell ourselves' and reposted the old 'Figo pesetero' banknote image tied to Figo's 2000 move from Barcelona to Real Madrid.",
+      "source_url": "https://okdiario.com/deportes/figo-vuelve-reventar-rufian-dos-semanas-elecciones-ya-no-vendes-ni-humo-20930396",
+      "confidence": "high"
+    },
+    {
+      "claim": "The exchange came less than two weeks before Spain's 29 Nov 2026 general election.",
+      "source_url": "https://okdiario.com/deportes/figo-vuelve-reventar-rufian-dos-semanas-elecciones-ya-no-vendes-ni-humo-20930396",
+      "confidence": "high"
+    },
+    {
+      "claim": "Figo is launching a clothing brand under his own name, built with a business partner who brought him the opportunity; he calls it 'an industrial project, not a hobby' (Record, 19 Nov 2026). The name 'LF Luis Figo' and a 2024 start date are not in the sources.",
+      "source_url": "https://www.record.pt/internacional/detalhe/se-deus-nao-agrada-a-toda-a-gente-imaginem-luis-figo-antigo-internacional-aventura-se-na-moda-sem-receios",
+      "confidence": "high",
+      "verification": "corrected"
+    },
+    {
+      "claim": "He told El Pais that his name can help early promotion but 'the name guarantees you nothing' and the product must stand on quality.",
+      "source_url": "https://www.record.pt/internacional/detalhe/se-deus-nao-agrada-a-toda-a-gente-imaginem-luis-figo-antigo-internacional-aventura-se-na-moda-sem-receios",
+      "confidence": "high"
+    },
+    {
+      "claim": "On critics he said: if God does not please everyone, imagine Luis Figo; he also called free time and independence 'the luxury' of today.",
+      "source_url": "https://www.record.pt/internacional/detalhe/se-deus-nao-agrada-a-toda-a-gente-imaginem-luis-figo-antigo-internacional-aventura-se-na-moda-sem-receios",
+      "confidence": "high"
+    },
+    {
+      "claim": "Figo said Vinicius Jr 'will return to his level, to his status' and that a dip in form does not reflect his quality; he called Yan Diomande quick and a goal threat whose defensive work matters for Madrid, and said Arda Guler's involvement shows his quality in build-up play.",
+      "source_url": "https://sports.yahoo.com/articles/luis-figo-talks-vinicius-diomande-123000401.html",
+      "confidence": "high",
+      "verification": "corrected"
+    },
+    {
+      "claim": "He credited Jose Mourinho's decisions and lineup changes and the players for better solidity in pressing and defence; he said Real Madrid are in a great moment of form.",
+      "source_url": "https://sports.yahoo.com/articles/luis-figo-talks-vinicius-diomande-123000401.html",
+      "confidence": "high",
+      "verification": "corrected"
+    },
+    {
+      "claim": "Madrid Universal describes him as an ambassador for Betfair who often talks about Real Madrid.",
+      "source_url": "https://sports.yahoo.com/articles/luis-figo-talks-vinicius-diomande-123000401.html",
+      "confidence": "high"
+    },
+    {
+      "claim": "Figo turned 54 on Wednesday 4 Nov 2026 and posted on Instagram that '54 is just a number'.",
+      "source_url": "https://onfm.pt/2026/11/05/luis-figo-54-e-apenas-um-numero/",
+      "confidence": "high"
+    },
+    {
+      "claim": "Before the 25 Oct 2026 Clasico Figo predicted 2-2 at Camp Nou with goals from Raphinha, Lamine Yamal, Bellingham and Mbappe.",
+      "source_url": "https://www.libertaddigital.com/deportes/liga/2026-10-22/figo-analiza-el-clasico-el-real-madrid-seguramente-tendra-opciones-a-la-contra-7480547/",
+      "confidence": "high"
+    },
+    {
+      "claim": "Figo joked that at his level of 26 years ago he could have been a starter for either team, and said that if he coached either side he would pick himself: 'No puedo decir otra cosa, si no lo digo yo, nadie lo dirá' (Libertad Digital, 22 Oct 2026).",
+      "source_url": "https://www.libertaddigital.com/deportes/liga/2026-10-22/figo-analiza-el-clasico-el-real-madrid-seguramente-tendra-opciones-a-la-contra-7480547/",
+      "confidence": "high",
+      "verification": "corrected"
+    },
+    {
+      "claim": "He said Mourinho could have been a good Barcelona coach and that, had he overlapped with Lamine Yamal, he might have had to move to the left.",
+      "source_url": "https://www.libertaddigital.com/deportes/liga/2026-10-22/figo-analiza-el-clasico-el-real-madrid-seguramente-tendra-opciones-a-la-contra-7480547/",
+      "confidence": "high"
+    },
+    {
+      "claim": "Real Madrid won 2-1 at Camp Nou on 25 Oct 2026: Mbappe scored in the first half and again in the 87th minute; Raphinha equalised in between. (The 41st-minute timing in the earlier pack was not confirmed.)",
+      "source_url": "https://www.101greatgoals.com/?p=219286",
+      "confidence": "high",
+      "verification": "corrected"
+    },
+    {
+      "claim": "Of Figo's four predicted scorers, only Mbappe and Raphinha scored; Yamal and Bellingham did not score.",
+      "source_url": "https://www.101greatgoals.com/?p=219286",
+      "confidence": "high"
+    },
+    {
+      "claim": "Getty photo caption (via Caras, 19 Nov) shows Figo at the Club de Campo Villa de Madrid on day two of the Open de Espana on 9 October; the caption gives no year and does not name golf, so 2026 is inferred.",
+      "source_url": "https://caras.pt/famosos/2026-11-19-dos-relvados-para-o-universo-empresarial-luis-figo-aposta-na-moda-e-redefine-a-sua-liberdade/",
+      "confidence": "medium",
+      "verification": "corrected"
+    },
+    {
+      "claim": "Figo told Radio MARCA on 22 Sep 2026 that Real Madrid will fight until the very end and that Barcelona (Hansi Flick's side) had made a strong start, but the season is long.",
+      "source_url": "https://sports.yahoo.com/articles/luis-figo-talks-mourinho-mbappe-121000551.html",
+      "confidence": "high",
+      "verification": "corrected"
+    },
+    {
+      "claim": "Asked about Mourinho's comments on referees after the Madrid derby, he declined to comment and said he had not watched because he was in Zurich.",
+      "source_url": "https://sports.yahoo.com/articles/luis-figo-talks-mourinho-mbappe-121000551.html",
+      "confidence": "high"
+    },
+    {
+      "claim": "On the Ballon d'Or, Figo said he does not vote, so he would not comment (Radio MARCA, 22 Sep 2026). The earlier quotes 'who has the power to decide is the one who votes' and 'I don't have that problem' were not found.",
+      "source_url": "https://sports.yahoo.com/articles/luis-figo-talks-mourinho-mbappe-121000551.html",
+      "confidence": "high",
+      "verification": "corrected"
+    },
+    {
+      "claim": "Figo praised Real Madrid's summer business (six signings, key positions) as 'necessary' after two seasons without a major trophy.",
+      "source_url": "https://sports.yahoo.com/articles/luis-figo-lauds-real-madrid-112000657.html",
+      "confidence": "high",
+      "verification": "corrected"
+    },
+    {
+      "claim": "On Diomande's reported EUR 140m fee Figo said the price reflects the market, and that a EUR 150m deal is hard to recoup through merchandise sales.",
+      "source_url": "https://sports.yahoo.com/articles/luis-figo-lauds-real-madrid-112000657.html",
+      "confidence": "high",
+      "verification": "corrected"
+    },
+    {
+      "claim": "On 5 Aug 2026 Euronews reported that Figo posted on X that Infantino had 'debased the office that he promised to elevate' and 'should go. Now.' A Bola and a Sky relay call it a Daily Mail op-ed/open letter by Figo. It followed Infantino scrapping a plan for private minority stakes in a new FIFA commercial unit (FIFA Forward Enterprise), which UEFA had threatened to boycott.",
+      "source_url": "https://www.euronews.com/2026/08/05/portugal-legend-luis-figo-calls-for-infantino-to-resign-saying-he-debased-fifa-presidency",
+      "confidence": "medium",
+      "verification": "corrected"
+    },
+    {
+      "claim": "Euronews quotes Figo saying Infantino 'lied, deceived and tried to feather his own nest at the expense of the game'; always attribute this to Figo. The '10,000 words / three words' line was not found and is removed.",
+      "source_url": "https://www.euronews.com/2026/08/05/portugal-legend-luis-figo-calls-for-infantino-to-resign-saying-he-debased-fifa-presidency",
+      "confidence": "medium",
+      "verification": "corrected"
+    },
+    {
+      "claim": "Goal (17 Nov 2026) describes Figo as an adviser to UEFA; A Bola's caption calls him a UEFA and FIFA ambassador. Euronews, Wikipedia and the 19 Nov Yahoo/Madrid Universal piece do not mention a UEFA role, so the exact title is unsettled.",
+      "source_url": "https://www.goal.com/en/news/figo-the-mercenary-political-spat-reopens-wound-of-barcelona-betrayal/bltbde422b77cbbd4ce",
+      "confidence": "medium",
+      "verification": "corrected"
+    },
+    {
+      "claim": "A Bola's photo caption calls him 'ambassador of UEFA and FIFA' and a businessman, while Goal says UEFA adviser; title wording differs.",
+      "source_url": "https://www.abola.pt/noticias/uefa-tenta-convencer-figo-a-concorrer-a-presidencia-da-fifa-2026111610130541564",
+      "confidence": "medium",
+      "verification": "corrected"
+    },
+    {
+      "claim": "Figo was named global brand ambassador of broker TenTrade on 23 Apr 2026.",
+      "source_url": "https://aapnews.aap.com.au/news/cision20260423EN42038",
+      "confidence": "high"
+    },
+    {
+      "claim": "Figo has been Betfair's ambassador in Spain since May 2025 and on 16 Oct 2025 presented himself in a humorous video as 'president' of Club Betfair, the brand's loyalty programme, after posting 'I think the time has come to be president'.",
+      "source_url": "https://www.casasdeapuestas.com/noticias/figo-sorprende-con-su-nuevo-cargo-soy-el-presidente/",
+      "confidence": "high",
+      "verification": "corrected"
+    },
+    {
+      "claim": "He retired from playing on 16 May 2009 (confirmed 30 May); last game 31 May 2009 at Inter, as captain for the match.",
+      "source_url": "https://en.wikipedia.org/wiki/Lu%C3%ADs_Figo",
+      "confidence": "high"
+    },
+    {
+      "claim": "Figo is active in hotel, fashion, catering, mining and wine sectors; Wikipedia lists a hotel in Carvoeiro and an upscale bar in Vilamoura (co-ownership is not stated).",
+      "source_url": "https://en.wikipedia.org/wiki/Lu%C3%ADs_Figo",
+      "confidence": "high",
+      "verification": "corrected"
+    },
+    {
+      "claim": "Figo never wanted to depend on being a coach or sporting director (El Pais via Record).",
+      "source_url": "https://www.record.pt/internacional/detalhe/se-deus-nao-agrada-a-toda-a-gente-imaginem-luis-figo-antigo-internacional-aventura-se-na-moda-sem-receios",
+      "confidence": "high"
+    },
+    {
+      "claim": "Figo was born 4 November 1972.",
+      "source_url": "https://en.wikipedia.org/wiki/Lu%C3%ADs_Figo",
+      "confidence": "high"
+    },
+    {
+      "claim": "Figo won the 2000 Ballon d'Or and the 2001 FIFA World Player of the Year; named in Pele's FIFA 100 in 2004.",
+      "source_url": "https://en.wikipedia.org/wiki/Lu%C3%ADs_Figo",
+      "confidence": "high"
+    },
+    {
+      "claim": "Barcelona 1999-2000: 51 appearances, 14 goals in all competitions (La Liga 32 apps, 9 goals).",
+      "source_url": "https://en.wikipedia.org/wiki/Lu%C3%ADs_Figo",
+      "confidence": "high"
+    },
+    {
+      "claim": "His move from Barcelona to Real Madrid in 2000 set a world record fee of EUR 62 million.",
+      "source_url": "https://en.wikipedia.org/wiki/Lu%C3%ADs_Figo",
+      "confidence": "high"
+    },
+    {
+      "claim": "Trophies: four La Liga, one Champions League, four Serie A (plus cups).",
+      "source_url": "https://en.wikipedia.org/wiki/Lu%C3%ADs_Figo",
+      "confidence": "high"
+    },
+    {
+      "claim": "127 caps and 32 goals for Portugal; Euro 2004 runner-up; Euro 2000 semi-finalist; 2006 World Cup semi-finalist.",
+      "source_url": "https://en.wikipedia.org/wiki/Lu%C3%ADs_Figo",
+      "confidence": "high"
+    },
+    {
+      "claim": "Move from Barcelona to Real Madrid in 2000 for a world-record EUR 62m; Netflix released the documentary 'The Figo Affair' in August 2022 about the transfer.",
+      "source_url": "https://en.wikipedia.org/wiki/Lu%C3%ADs_Figo",
+      "confidence": "high"
+    },
+    {
+      "claim": "On his return to Camp Nou on 23 Nov 2002 missiles were thrown at him during corners, the match was suspended for almost 20 minutes and a pig's head was photographed near the corner flag. The match ended 0-0 (Wikipedia gives no score; from general knowledge, the 2-0 Barcelona win was his first return on 21 Oct 2000).",
+      "source_url": "https://en.wikipedia.org/wiki/Lu%C3%ADs_Figo",
+      "confidence": "medium",
+      "verification": "corrected"
+    },
+    {
+      "claim": "Wikipedia's narration, citing a Sid Lowe source, says Figo won the Ballon d'Or in Nov 2000 'largely for what he did for Barcelona' while wearing Real Madrid's shirt.",
+      "source_url": "https://en.wikipedia.org/wiki/Lu%C3%ADs_Figo",
+      "confidence": "high",
+      "verification": "corrected"
+    },
+    {
+      "claim": "He spent five seasons at Real Madrid (2000-2005) and won one Champions League (2001-02) in his career.",
+      "source_url": "https://en.wikipedia.org/wiki/Lu%C3%ADs_Figo",
+      "confidence": "high"
+    },
+    {
+      "claim": "He announced international retirement after the Euro 2004 final defeat to Greece and reversed it in June 2005.",
+      "source_url": "https://en.wikipedia.org/wiki/Lu%C3%ADs_Figo",
+      "confidence": "high"
+    },
+    {
+      "claim": "Figo announced a FIFA presidency run on 28 Jan 2015 and withdrew on 21 May 2015 before the vote; Blatter was re-elected.",
+      "source_url": "https://en.wikipedia.org/wiki/Lu%C3%ADs_Figo",
+      "confidence": "high"
+    },
+    {
+      "claim": "He operates businesses in hotel, fashion, catering, mining and wine; he started the mining company after visiting a mining fair in Dakar in 2010.",
+      "source_url": "https://en.wikipedia.org/wiki/Lu%C3%ADs_Figo",
+      "confidence": "high"
+    },
+    {
+      "claim": "Figo was briefly joint seat holder for A1 Team Portugal in the 2005-06 A1 Grand Prix with Carlos Queiroz.",
+      "source_url": "https://en.wikipedia.org/wiki/Lu%C3%ADs_Figo",
+      "confidence": "high"
+    },
+    {
+      "claim": "Foot Mercato (16 Nov) said Figo came up after Wenger declined and Csanyi was considered; FIFA's list on 19 Nov showed Infantino, Diallo, Tashima.",
+      "source_url": "https://footballtoday.com/2026/11/16/uefa-want-luis-figo-as-fifa-president-plan-new-global-body",
+      "confidence": "high"
+    },
+    {
+      "claim": "Rufian answered Figo's X post by reposting the old 'Figo pesetero' banknote image tied to the 2000 transfer.",
+      "source_url": "https://okdiario.com/deportes/figo-vuelve-reventar-rufian-dos-semanas-elecciones-ya-no-vendes-ni-humo-20930396",
+      "confidence": "high"
+    },
+    {
+      "claim": "In Oct 2025 Figo posted 'I think it is time to be president', then revealed he was president of Club Betfair, the brand's loyalty programme; FIFA list of 19 Nov 2026 did not include him.",
+      "source_url": "https://www.casasdeapuestas.com/noticias/figo-sorprende-con-su-nuevo-cargo-soy-el-presidente/",
+      "confidence": "high"
+    },
+    {
+      "claim": "Figo predicted 2-2 on 22 Oct; the 25 Oct Clasico ended Barcelona 1-2 Real Madrid with Mbappe scoring twice.",
+      "source_url": "https://www.101greatgoals.com/?p=219286",
+      "confidence": "high"
+    },
+    {
+      "claim": "Figo said that at his level of 26 years ago he could have been a starter for either team, and that if he coached either side he would play himself (Libertad Digital, 22 Oct 2026).",
+      "source_url": "https://www.libertaddigital.com/deportes/liga/2026-10-22/figo-analiza-el-clasico-el-real-madrid-seguramente-tendra-opciones-a-la-contra-7480547/",
+      "confidence": "high",
+      "verification": "corrected"
+    },
+    {
+      "claim": "On 8 May 2026 Figo said he does not think Real Madrid needs a 'tough' coach, wished his friend Mourinho well and wanted 'management skills and common sense'; on 19 Nov 2026 he credited Mourinho for Madrid's form. The quote 'I didn't know Mourinho was known for his tough approach' was not found.",
+      "source_url": "https://sports.yahoo.com/articles/luis-figo-weighs-state-real-161000573.html",
+      "confidence": "high",
+      "verification": "corrected"
+    },
+    {
+      "claim": "Figo said 'if God does not please everyone, imagine Luis Figo' while describing his clothing brand as an industrial project.",
+      "source_url": "https://www.record.pt/internacional/detalhe/se-deus-nao-agrada-a-toda-a-gente-imaginem-luis-figo-antigo-internacional-aventura-se-na-moda-sem-receios",
+      "confidence": "high"
+    },
+    {
+      "claim": "Harry Kane won the 2026 Ballon d'Or on Monday 26 Oct 2026; Kylian Mbappe and Lamine Yamal were also on the podium (SI does not state their order). The London Palladium venue is not confirmed.",
+      "source_url": "https://www.si.com/soccer/how-world-reacted-harry-kane-2026-ballon-dor-win",
+      "confidence": "high",
+      "verification": "corrected"
+    },
+    {
+      "claim": "Figo won the 2000 Ballon d'Or and the 2001 FIFA World Player of the Year.",
+      "source_url": "https://en.wikipedia.org/wiki/Lu%C3%ADs_Figo",
+      "confidence": "high"
+    },
+    {
+      "claim": "He won 127 caps for Portugal, a one-time record, scoring 32 goals.",
+      "source_url": "https://en.wikipedia.org/wiki/Lu%C3%ADs_Figo",
+      "confidence": "high"
+    },
+    {
+      "claim": "Four La Liga, four Serie A and one Champions League title.",
+      "source_url": "https://en.wikipedia.org/wiki/Lu%C3%ADs_Figo",
+      "confidence": "high"
+    },
+    {
+      "claim": "He ranks second for all-time Portuguese assist providers in the UEFA Champions League with 15.",
+      "source_url": "https://en.wikipedia.org/wiki/Lu%C3%ADs_Figo",
+      "confidence": "high"
+    },
+    {
+      "claim": "Figo wrote a Daily Mail column in Aug 2026 saying Infantino must go.",
+      "source_url": "https://www.euronews.com/2026/08/05/portugal-legend-luis-figo-calls-for-infantino-to-resign-saying-he-debased-fifa-presidency",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Figo told El Pais 'the name guarantees you nothing' and the product must stand on its quality.",
+      "source_url": "https://www.record.pt/internacional/detalhe/se-deus-nao-agrada-a-toda-a-gente-imaginem-luis-figo-antigo-internacional-aventura-se-na-moda-sem-receios",
+      "confidence": "high"
+    },
+    {
+      "claim": "The 2002 Camp Nou match was suspended for almost 20 minutes while objects were thrown. Figo's fingers-to-ears gesture and the tunnel jeers are from his first return, 21 Oct 2000.",
+      "source_url": "https://en.wikipedia.org/wiki/Lu%C3%ADs_Figo",
+      "confidence": "high",
+      "verification": "corrected"
+    }
+  ],
+  "coverage_note": "Adversarial recheck 2026-11-20 (web search budget exhausted; direct page fetches only). 13 dated stories remain; two unverifiable ones were removed (EA FC 27 launch quote and exhibition: Sportskeeda returned HTTP 405 and Roastbrief 403/404). Still not opened: O Jogo (403), Qatar Tribune (404), El Pais original, Sky original, YouTube links, current-look photos.",
+  "verification": {
+    "checked": 97,
+    "corrected": 40,
+    "removed": 8,
+    "notes": "Verified by direct page fetch: FIFA candidate list and 18 Mar 2027 Rabat date (Wikipedia), Foot Mercato report (footballtoday, A Bola, Jornal Economico), Rufian exchange (OKDiario, A Bola, Goal), Record brand interview, Clasico score and Kane Ballon d'Or (101greatgoals, SI), Yahoo/Madrid Universal quotes, Libertad Digital prediction, Betfair president video (Oct 2025), TenTrade (23 Apr 2026), birthday post, Euronews Aug 2026, Wikipedia career facts. Key corrections: 2002 Camp Nou was a 0-0 (the 2-0 and ear-cupping were Oct 2000); Daily Mail statement was an X post per Euronews with the 10,000-words line unsupported; Mbappe 41st minute unconfirmed; no brand name or 2024 start in sources; UEFA adviser role only from Goal (A Bola says ambassador); Diallo 'unanimous' softened. Removed: Sportskeeda Yamal-over-Messi items, Roastbrief exhibition items, Ceferin claim. Current club: none (retired 2009); no current-season numbers apply. Trophy counts confirmed: 4 La Liga, 1 Champions League, 4 Serie A; 127 caps, 32 goals. Not verified: O Jogo page (403), El Pais original, current look."
+  }
+}

@@ -1,0 +1,82 @@
+{
+ "no": 84,
+ "subject": "Jack Grealish dropped by Everton for a breach of discipline, then apologises on Instagram",
+ "title": "Grealish: dropped, then sorry",
+ "voice": "kokoro",
+ "comic": true,
+ "style": "southpark_cutout",
+ "lines": [
+  {
+   "vo": "Seven games, no goals, no assists, and one very public apology.",
+   "card": "Seven games, zero assists",
+   "sfx": null,
+   "footage": "Jack Grealish Everton highlights"
+  },
+  {
+   "vo": "Jack Grealish was dropped by Everton for a breach of club discipline. The club has not said more, so neither will we.",
+   "card": "Dropped for discipline",
+   "sfx": null,
+   "footage": "David Moyes press conference, neutral"
+  },
+  {
+   "vo": "He missed four matches, then came back in a friendly against Derby. Behind closed doors. Nobody saw the comeback, because the doors were closed.",
+   "card": "Closed-door comeback",
+   "sfx": "short record scratch",
+   "footage": "Grealish Everton assist"
+  },
+  {
+   "vo": "He is on a second straight loan from Manchester City. Seven appearances, and the goals and assists column is a perfect row of zeros.",
+   "card": "Second loan",
+   "sfx": null,
+   "footage": "Jack Grealish Manchester City highlights"
+  },
+  {
+   "vo": "He apologised on Instagram. He said he could not help the team in recent weeks. Honest, at least. And unlike the comeback, the apology was open to the public.",
+   "card": "Apology goes viral",
+   "sfx": null,
+   "footage": "Grealish Everton comeback clip"
+  },
+  {
+   "vo": "Need the next big story first? Betting tips, news and predictions at aboutfootball dot UK.",
+   "card": "aboutfootball.UK",
+   "sfx": null,
+   "footage": "end card"
+  }
+ ],
+ "chars": 704,
+ "est_seconds": 39,
+ "footage_terms": [
+  "Jack Grealish Everton highlights",
+  "Grealish Everton assist",
+  "Moyes Grealish press conference",
+  "Jack Grealish Manchester City 100 million"
+ ],
+ "inserts": [
+  {
+   "after_line": 1,
+   "story": "Setup: a cutout Grealish types a long apology on a giant phone. Gag: autocorrect swaps sorry for assist, the word he has not delivered in seven games. Twist: he presses Post anyway and the first like comes from the cutout coach.",
+   "characters": "South Park style cutout Grealish; cutout phone; generic cutout coach",
+   "seconds": 2
+  },
+  {
+   "after_line": 2,
+   "story": "Setup: a cutout Grealish sits on a bench under a DROPPED sign. Gag: a cutout coach stamps DROPPED on the clipboard, the bench, then the water bottle. Twist: the coach stamps his own hand and the sign flips to COMEBACK.",
+   "characters": "South Park style cutout Grealish; generic cutout coach with a rubber stamp",
+   "seconds": 2
+  },
+  {
+   "after_line": 3,
+   "story": "Setup: a cutout Grealish drags a suitcase labelled LOAN into an empty stadium. Gag: a scoreboard above the stand shows 0-0-0 and he polishes it like a trophy. Twist: a sticker on the suitcase says SECOND LOAN and he starts unpacking.",
+   "characters": "cutout Grealish; cutout suitcase; cutout scoreboard",
+   "seconds": 2
+  }
+ ],
+ "facts_used": [
+  "Everton left Grealish out of the 29 October Carabao Cup game for a breach of club discipline (ev0126)",
+  "He returned on 12 November in a behind-closed-doors friendly against Derby and apologised on Instagram (ev0126)",
+  "Second straight loan from Manchester City; no goals or assists in seven appearances this season (ev0126)",
+  "Missed four matches after the club discipline breach (ev0126)"
+ ],
+ "comic_score": 6,
+ "notes": "Comic, 3 inserts (after_line counts from 1). Neutral on the breach: club gave no details, none speculated. No injuries, no family, no legal angle. No praise-with-number available in the source data, so honesty ('honest, at least') is the only compliment. Joke targets: stats and the closed-doors comeback."
+}

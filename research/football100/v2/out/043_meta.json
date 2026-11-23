@@ -1,0 +1,118 @@
+{
+ "no": 43,
+ "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/043_raphinha_is_sent_off_late_as_brazil.mp4",
+ "total": 45.3,
+ "outro_start": 39.2,
+ "cover": true,
+ "seq": [
+  {
+   "id": "s01",
+   "kind": "HOOK",
+   "start": 0.1,
+   "end": 1.6,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/043/s01.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s02",
+   "kind": "STATS",
+   "start": 5.866666666666666,
+   "end": 7.366666666666666,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/043/s02.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s03",
+   "kind": "COMIC1",
+   "start": 11.866666666666667,
+   "end": 13.866666666666667,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/043/s03.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s04",
+   "kind": "NEWS",
+   "start": 16.366666666666667,
+   "end": 18.133333333333333,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/043/s04.mp4",
+   "clip_dur": 1.766,
+   "frames": 42
+  },
+  {
+   "id": "s05",
+   "kind": "COMIC2",
+   "start": 20.466666666666665,
+   "end": 22.466666666666665,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/043/s05.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s06",
+   "kind": "PROVOC",
+   "start": 24.6,
+   "end": 26.1,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/043/s06.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s07",
+   "kind": "COMIC3",
+   "start": 28.6,
+   "end": 30.6,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/043/s07.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s08",
+   "kind": "INTERVIEW",
+   "start": 36.86666666666667,
+   "end": 38.63333333333333,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/043/s08.mp4",
+   "clip_dur": 1.767,
+   "frames": 42
+  }
+ ],
+ "missing": [],
+ "dropped": [],
+ "cards": [
+  {
+   "text": "91st-minute winner",
+   "a": 4.1,
+   "b": 5.7
+  },
+  {
+   "text": "Give his best",
+   "a": 8.033333333333333,
+   "b": 10.266666666666667
+  },
+  {
+   "text": "Ancelotti also off",
+   "a": 18.266666666666666,
+   "b": 19.4
+  },
+  {
+   "text": "Make of that what you will",
+   "a": 34.233333333333334,
+   "b": 36.43333333333333
+  }
+ ],
+ "caption_sprites": 123,
+ "whoosh": [
+  0.0,
+  5.766666666666667,
+  11.766666666666667,
+  16.266666666666666,
+  20.366666666666664,
+  24.5,
+  28.5,
+  36.766666666666666,
+  39.1
+ ],
+ "shots": 13
+}

@@ -1,0 +1,640 @@
+{
+  "name": "Lionel Messi",
+  "years": [
+    2009,
+    2010,
+    2011,
+    2012,
+    2015,
+    2019,
+    2021,
+    2023
+  ],
+  "as_of": "2026-11-20",
+  "research_notes": "Fact pack adversarially re-checked on 2026-11-20 by fetching the cited pages and Wikipedia season and biography pages; see 'verification'. Original notes: some angles (business news, YouTube video IDs, current hair/beard) remain gaps.",
+  "recent_news": [
+    {
+      "date": "2026-08-29",
+      "headline": "Messi scores four in Inter Miami's club-record 7-1 win over CF Montreal",
+      "facts": [
+        "Four goals (40', 52', 83', 90+6') plus one assist at Nu Stadium; Casemiro, Suarez and Alexander Shaw also scored (Herbers scored for Montreal).",
+        "He became the 19th player in MLS history with four goals in a game and the fastest to reach 20 multi-goal games (72 appearances).",
+        "He passed Petar Musa (16 goals) for the Golden Boot lead, reaching 18 goals and 10 assists at that point."
+      ],
+      "source_url": "https://www.mlssoccer.com/news/lionel-messi-makes-more-history-with-four-goal-masterpiece",
+      "source_domain": "mlssoccer.com",
+      "tone": "praise",
+      "sensitive": false
+    },
+    {
+      "date": "2026-08-31",
+      "headline": "Messi announces retirement from the Argentina national team",
+      "facts": [
+        "Announced on Instagram at 39 after about two decades with Argentina; he said the decision hurt and still hurts but he understands the time has come.",
+        "He wrote the letter on 21 July, two days after the World Cup final loss to Spain, and delayed publishing it.",
+        "He stays with Inter Miami. Final Argentina numbers: 207 caps and 125 goals at announcement, later 208 caps and 126 goals after the farewell match."
+      ],
+      "source_url": "https://abc13.com/story/lionel-messi-says-hes-retiring-playing-argentina/19769980/",
+      "source_domain": "abc13.com",
+      "tone": "neutral",
+      "sensitive": true,
+      "sensitive_note": "The delay is linked to his father's illness and death. Use the retirement as news; never joke about the father."
+    },
+    {
+      "date": "2026-09-08",
+      "headline": "Messi named on the 30-man Ballon d'Or 2026 shortlist",
+      "facts": [
+        "The 30-player shortlist (announced 8 Sep) included Kane, Mbappe, Yamal, Rodri and Dembele.",
+        "MLSsoccer.com lists his 2025 MLS Cup, a second straight MLS MVP and Argentina's run to the 2026 World Cup final as the achievements behind the nomination (it does not say France Football cited them).",
+        "Ceremony was set for 26 October at the London Palladium."
+      ],
+      "source_url": "https://www.mlssoccer.com/news/lionel-messi-nominated-ballon-dor-2026-inter-miami-argentina",
+      "source_domain": "mlssoccer.com",
+      "tone": "praise",
+      "sensitive": false
+    },
+    {
+      "date": "2026-09-15",
+      "headline": "Inter Miami appoints Kily Gonzalez as head coach, the club's third coach of 2026",
+      "facts": [
+        "Javier Mascherano was head coach until 14 April; Guillermo Hoyos was interim from 14 April to 14 September; Kily Gonzalez took over on 15 September.",
+        "Messi is the one constant across all three."
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/2026_Inter_Miami_CF_season",
+      "source_domain": "wikipedia.org",
+      "tone": "roast",
+      "sensitive": false
+    },
+    {
+      "date": "2026-09-16",
+      "headline": "Messi scores his 100th Inter Miami goal as Miami win the Campeones Cup 2-0 over Cruz Azul",
+      "facts": [
+        "Messi scored on 24 minutes (Man of the Match); Casemiro added a second goal on 81 minutes at Nu Stadium. The local10 headline calls it his 100th Inter Miami goal.",
+        "It is Miami's fourth trophy of the Messi era: Leagues Cup 2023, Supporters' Shield 2024, MLS Cup 2025, Campeones Cup 2026 (2023 and 2024 trophies not re-checked in this pass)."
+      ],
+      "source_url": "https://www.local10.com/sports/local/2026/09/17/messi-scores-100th-inter-miami-goal-as-miami-beats-cruz-azul-2-0-to-win-campeones-cup/",
+      "source_domain": "local10.com",
+      "tone": "praise",
+      "sensitive": false
+    },
+    {
+      "date": "2026-09-27",
+      "headline": "Columbus Crew beat Inter Miami 2-1 despite a Messi goal",
+      "facts": [
+        "Messi scored in the 33rd minute; Columbus had a penalty goal on 28' and won it with a stoppage-time goal (90+8' per Wikipedia; one preview credits Brais Mendez, so do not name the scorer).",
+        "Columbus later became Miami's first playoff opponent; this was the most recent meeting before the playoffs (they also drew 2-2 on 1 Aug)."
+      ],
+      "source_url": "https://www.101greatgoals.com/match-previews/mls-matches/inter-miami-v-columbus-crew-preview-expected-line-ups-stats-where-to-watch/",
+      "source_domain": "101greatgoals.com",
+      "tone": "neutral",
+      "sensitive": false
+    },
+    {
+      "date": "2026-10-06",
+      "headline": "Messi's farewell for Argentina: 3-0 over Benin with a penalty and two assists",
+      "facts": [
+        "More than 85,000 fans at the Monumental in Buenos Aires; he set up Otamendi and Nico Paz and scored a penalty for his 126th Argentina goal.",
+        "It was his 208th and last cap; Otamendi also ended his international career that night.",
+        "He cried as the team bus passed fans and dedicated his first thoughts to his late father; a giant 'Gracias' shirt hung in Rosario."
+      ],
+      "source_url": "https://www.aljazeera.com/sports/2026/10/7/lionel-messis-last-game-for-argentina-ends-in-triumph-and-tears",
+      "source_domain": "aljazeera.com",
+      "tone": "praise",
+      "sensitive": true,
+      "sensitive_note": "Emotional night linked to his father's death. Praise only, no jokes about the tears."
+    },
+    {
+      "date": "2026-10-23",
+      "headline": "Messi receives the Princess of Asturias Award for Sports in Oviedo",
+      "facts": [
+        "Princess Leonor presented the prize in Oviedo on Friday 23 Oct; the jury, which named him in June 2026, called him the most successful footballer of all time and cited his social work.",
+        "At a children's event the day before he said knowing how to win and lose is essential in football."
+      ],
+      "source_url": "https://www.aljazeera.com/sports/2026/10/24/lionel-messi-receives-top-spanish-award-in-recognition-of-social-work",
+      "source_domain": "aljazeera.com",
+      "tone": "praise",
+      "sensitive": false
+    },
+    {
+      "date": "2026-10-26",
+      "headline": "Messi finishes fifth in the Ballon d'Or and skips the gala; Harry Kane wins",
+      "facts": [
+        "Kane won; Rodri, Yamal and Mbappe also finished ahead of him (exact order of the top four not confirmed). He was ahead of Olise, Bellingham, Haaland and 2025 winner Dembele.",
+        "He stayed in Miami for the inaugural Messi Cup (a U-16 youth tournament) instead of going to London.",
+        "He is 39 and has eight Ballon d'Or wins, the record."
+      ],
+      "source_url": "https://www.si.com/soccer/lionel-messi-2026-ballon-dor-ranking-revealed",
+      "source_domain": "si.com",
+      "tone": "neutral",
+      "sensitive": false
+    },
+    {
+      "date": "2026-11-01",
+      "headline": "Messi assists and scores the 83rd-minute winner at New England; Miami clinch the 2027 Concacaf Champions Cup",
+      "facts": [
+        "He set up Berterame's 69th-minute equaliser with a backward header, then scored the winner on 83 minutes (Gazdag had put New England ahead on 53').",
+        "The 2-1 win put Miami second in the East on 59 points after 33 games with one match left, and clinched a 2027 Concacaf Champions Cup place."
+      ],
+      "source_url": "https://www.espn.com/soccer/story/_/id/50354699/messi-brings-miami-back-stun-revs-clinch-champions-cup",
+      "source_domain": "espn.com",
+      "tone": "praise",
+      "sensitive": false
+    },
+    {
+      "date": "2026-11-06",
+      "headline": "Messi will not go on loan to Newell's Old Boys, says Fabrizio Romano",
+      "facts": [
+        "South American reports linked him with a January loan to his boyhood club Newell's; Romano said 'No chance for Messi on loan' and that there are no negotiations.",
+        "Messi is reportedly settled in Florida and plans to honour his Miami contract through December 2028."
+      ],
+      "source_url": "https://sports.yahoo.com/articles/lionel-messi-rejects-newell-loan-134852350.html",
+      "source_domain": "yahoo.com",
+      "tone": "neutral",
+      "sensitive": false
+    },
+    {
+      "date": "2026-11-07",
+      "headline": "Messi wins the 2026 MLS Golden Boot, the first player ever to win it in consecutive seasons",
+      "facts": [
+        "26 goals in 31 regular-season matches; Petar Musa had 22 and Sam Surridge 21.",
+        "43 goal contributions (26 goals, 17 assists), the league's best (17 assists is derived: 43 minus 26).",
+        "75 goals over the last three seasons, the second-most in a three-season span in MLS history."
+      ],
+      "source_url": "https://www.mlssoccer.com/news/inter-miami-cf-forward-lionel-messi-wins-2026-mls-golden-boot-presented-by-audi",
+      "source_domain": "mlssoccer.com",
+      "tone": "praise",
+      "sensitive": false
+    },
+    {
+      "date": "2026-11-07",
+      "headline": "Inter Miami draw 3-3 with Charlotte on the final regular-season day; Messi adds no goal",
+      "facts": [
+        "Score and date confirmed on the ESPN results page and Wikipedia; Messi is not among the scorers and his season total stayed at 26 league goals.",
+        "Miami led 3-0 after 42 minutes (Fray 14', Suarez 33', De Paul 42') and Charlotte scored through Abada (50', 55') and Aloko (90') for 3-3, so the 'blew a three-goal lead' roast is supported by the goal times.",
+        "Miami finished second in the East on 60 points (16W 12D 6L), 17 points behind Supporters' Shield winners Nashville (77)."
+      ],
+      "source_url": "https://www.espn.com/soccer/team/results/_/id/20232/inter-miami-cf",
+      "source_domain": "espn.com",
+      "tone": "roast",
+      "sensitive": false
+    },
+    {
+      "date": "2026-11-13",
+      "headline": "Messi is one of five finalists for MLS MVP, chasing a record third in a row",
+      "facts": [
+        "Finalists: Messi, Cavan Sullivan (17, youngest ever nominee), Hany Mukhtar, Evander, Guilherme.",
+        "He won the award in 2024 and 2025; a third in a row would be a first in MLS history.",
+        "He won Goal of the Matchday seven times and made the Team of the Matchday 13 times."
+      ],
+      "source_url": "https://www.intermiamicf.com/news/leo-messi-amongst-finalists-for-2026-landon-donovan-mls-mvp-award",
+      "source_domain": "intermiamicf.com",
+      "tone": "praise",
+      "sensitive": false
+    },
+    {
+      "date": "2026-11-17",
+      "headline": "Scaloni jokes Messi can join Argentina's staff now that Walter Samuel is leaving",
+      "facts": [
+        "Said ahead of the Costa Rica friendly: if he wants to come, no problem at all, 'now that Walter is no longer here, let him come' (Walter Samuel is leaving the staff).",
+        "Scaloni said Messi already said no to the national team job (Scaloni's account only) and that he will keep playing beyond 2030.",
+        "Messi has not publicly replied."
+      ],
+      "source_url": "https://www.soccernews.com/scaloni-opens-door-for-messi-to-join-argentina-staff-after-retirement/408295/",
+      "source_domain": "soccernews.com",
+      "tone": "neutral",
+      "sensitive": false
+    },
+    {
+      "date": "2026-11-17",
+      "headline": "Report: Messi will stay in Miami through 2028, no move to an Argentine club in 2027",
+      "facts": [
+        "Reports say he plans to honour his Inter Miami deal to December 2028 and is firmly settled in South Florida; this is a media report, not an official contract announcement.",
+        "Romano says no negotiations are under way for him to leave Miami. Inter Miami play a preseason friendly against River Plate in Buenos Aires on 19 Jan 2027, so he is expected back in Argentina for that match."
+      ],
+      "source_url": "https://sports.yahoo.com/articles/messi-shuts-down-exit-rumors-113436064.html",
+      "source_domain": "yahoo.com",
+      "tone": "neutral",
+      "sensitive": false
+    },
+    {
+      "date": "2026-11-16",
+      "headline": "Playoff preview: No. 2 Miami meet hot No. 7 Columbus in a best-of-three, Game 1 on 21 November",
+      "facts": [
+        "Columbus have won eight of nine and six in a row; Miami's six regular-season home wins are the fewest of the 18 playoff teams.",
+        "Miami could be the first back-to-back MLS Cup winner since the LA Galaxy in 2011-12; Game 1 is Saturday 21 Nov, 6 pm ET (Apple TV), Game 2 is in Columbus on Friday 27 Nov, a Game 3 would follow if needed (date not confirmed), MLS Cup is 18 Dec.",
+        "Miami's expected absences include Mateo Silvetti (shoulder); Messi is not listed as injured."
+      ],
+      "source_url": "https://sports.yahoo.com/articles/inter-miami-vs-columbus-crew-164900188.html",
+      "source_domain": "yahoo.com",
+      "tone": "roast",
+      "sensitive": false
+    }
+  ],
+  "older_context": [
+    {
+      "date": "2026-07-19",
+      "headline": "Argentina lose the World Cup final 1-0 to Spain after extra time",
+      "facts": [
+        "Ferran Torres scored early in the second period of extra time (exact minute not confirmed); Argentina played the end of extra time with ten men after Enzo Fernandez's second yellow in stoppage time.",
+        "Spain led shots 20-2; ESPN says Argentina's first shot of any kind came around the 115th minute (its text is internally inconsistent: it also says 117 minutes without a shot). ESPN headline rated Messi 3/10.",
+        "Messi finished the tournament with 8 goals and 4 assists, two goals behind Mbappe's 10 (Mbappe's 10 is inferred from his reported 22 career World Cup goals; sources checked do not state it directly)."
+      ],
+      "source_url": "https://www.espn.com/soccer/story/_/id/49402253/world-cup-spain-win-lionel-messi-argentina-reaction-analysis-ferran-torres",
+      "source_domain": "espn.com",
+      "tone": "neutral",
+      "sensitive": false
+    },
+    {
+      "date": "2026-08-07",
+      "headline": "Jorge Messi, Lionel's father and longtime agent, dies aged 68 (reported 8 Aug)",
+      "facts": [
+        "He died on Friday night 7 Aug in a clinic in Rosario after a long illness the family did not specify; Al Jazeera reported it on 8 Aug.",
+        "He represented Lionel for several years. Messi's availability for the following matches (8 Aug Monterrey, 12 Aug Leon) was not confirmed in sources."
+      ],
+      "source_url": "https://www.aljazeera.com/sports/2026/8/8/lionel-messis-father-dies-aged-68-after-a-long-illness",
+      "source_domain": "aljazeera.com",
+      "tone": "neutral",
+      "sensitive": true,
+      "sensitive_note": "Bereavement. News context only. Never a joke."
+    },
+    {
+      "date": "2026-08-15",
+      "headline": "Messi misses a penalty as Nashville beat Miami 4-1, his third penalty miss in a row",
+      "facts": [
+        "Brian Schwake saved his low shot in the 23rd minute; earlier misses came at the World Cup against Austria and Egypt.",
+        "ESPN Research: first such run since 2014; Miami's third straight loss in all competitions (Monterrey and Leon in Leagues Cup, then Nashville); Nashville led Miami by five points."
+      ],
+      "source_url": "https://africa.espn.com/football/story/_/id/49623511/lionel-messi-penalty-miss-inter-miami-nashville-mls",
+      "source_domain": "espn.com",
+      "tone": "roast",
+      "sensitive": true,
+      "sensitive_note": "Came days after his father's death. Tease the stat only if the script says nothing about the circumstances."
+    }
+  ],
+  "now": {
+    "as_of": "2026-11-20",
+    "role": "Captain and number 10 of Inter Miami CF (MLS, Eastern Conference). Retired from Argentina's national team (announced 2026-08-31, farewell 2026-10-06). No official coaching or other new job; Scaloni joked about a staff place and says Messi already declined.",
+    "contract": "Reported to run to December 2028 and he is reportedly open to an extension. These are media reports; no official announcement was found.",
+    "season_2026": {
+      "regular_season": "16W 12D 6L, 60 points, second in the East, third overall, 17 points behind Nashville (Supporters' Shield). 80 goals scored, 59 conceded.",
+      "messi_numbers": "26 goals and 17 assists in 31 league matches (43 goal contributions, league-best); 30 goals in all competitions; 2026 Golden Boot, first ever in consecutive seasons; MVP finalist.",
+      "honours_2026": "Campeones Cup (16 Sep), 2027 Concacaf Champions Cup place, Princess of Asturias Award, fifth in Ballon d'Or.",
+      "disappointments": "Leagues Cup exit in the league phase (won 4-2 at San Luis, then lost 1-2 to Monterrey and 2-3 to Club Leon), three coaches in one year, fewest home wins (six) of any playoff team, 3-3 draw with Charlotte after leading 3-0."
+    },
+    "next": "MLS Cup playoffs Round One, best-of-three vs Columbus Crew: Game 1 on Sat 21 Nov at Nu Stadium (6 pm ET, Apple TV), Game 2 on Fri 27 Nov in Columbus, Game 3 only if needed (date not confirmed). MLS Cup is 18 Dec. Miami are defending champions. Inter Miami play a preseason friendly vs River Plate in Buenos Aires on 19 Jan 2027 (Yahoo report; venue not confirmed).",
+    "what_people_say": "Scaloni expects him to play beyond 2030. Romano and reports say no loan or exit; he is settled in Florida."
+  },
+  "quick_context": [
+    "Messi won a record eight Ballon d'Or awards (2009, 2010, 2011, 2012, 2015, 2019, 2021, 2023).",
+    "In 2011-12 he scored 73 goals in all competitions for Barcelona (50 in La Liga) and 91 for club and country in calendar 2012, records at the time.",
+    "He won the 2022 World Cup and the Copa America in 2021 and 2024."
+  ],
+  "roast_past": [
+    "Argentina debut at 18 against Hungary: sent off after about two minutes on the pitch.",
+    "Retired from Argentina in 2016 after losing the Copa America final to Chile, was talked back within days (a bronze statue in Buenos Aires and public campaigns), then retired again in 2026.",
+    "Three lost finals in a row (World Cup 2014, Copa America 2015 and 2016) before the trophies finally came: friendly angle is 'the trophy cabinet had a long waiting list'.",
+    "Wanted to leave Barcelona in 2020 and then stayed one more year anyway.",
+    "At the 2022 World Cup quarter-final against the Netherlands his provocative behaviour on the pitch was compared to Maradona's (Ardiles). Use as a light 'mouthy side' tease, medium confidence on the exact incident."
+  ],
+  "roast_now": [
+    "Three penalty misses in a row (World Cup vs Austria, vs Egypt, then Nashville on 15 Aug), the first such run since 2014. Tease the stat only; do not link it to the bereavement.",
+    "Inter Miami have had three head coaches in 2026 (Mascherano, Hoyos, Kily Gonzalez). Messi is the only constant, so he is basically the HR department.",
+    "Eight-time Ballon d'Or winner finishes fifth at 39 and skips the gala for a U-16 tournament named after himself, the Messi Cup.",
+    "Messi has now retired from Argentina twice (2016 and 2026) and Scaloni is already offering him a coach's chair; reportedly he said no.",
+    "Best player in MLS, but Miami's six home wins are the fewest of all 18 playoff teams and they finished 17 points behind Nashville.",
+    "Leagues Cup 2026: out in the league phase after a 4-2 win and then losses to Monterrey (1-2) and Club Leon (2-3).",
+    "Said to be staying in Miami until 2028 while Scaloni says he will play beyond 2030: the contract is shorter than the optimism.",
+    "Four goals in a 7-1 romp in August, then no goal in a 3-3 draw with Charlotte on the last day after Miami led 3-0 at 42 minutes: either a hat-trick machine or a day off."
+  ],
+  "praise": [
+    "26 goals and 17 assists in 31 league games (43 goal contributions) at 39, plus the first back-to-back MLS Golden Boot.",
+    "127 goal contributions in the last three MLS seasons, 29 more than the next-best three-season span.",
+    "Four goals vs Montreal in the club-record 7-1 win; fastest player in MLS history to reach 20 multi-goal games (72 appearances).",
+    "World Cup 2026 at 39: 8 goals and 4 assists (12 goal contributions), 21 career World Cup goals.",
+    "Argentina record holder: 208 caps and 126 goals, with a goal and two assists in his farewell 3-0 win over Benin.",
+    "Reached 100 Inter Miami goals on 16 Sep in the Campeones Cup final, and four trophies in four seasons at the club."
+  ],
+  "no_joke_topics": [
+    "Death and illness of his father Jorge Messi (died on the night of 2026-08-07, reported 2026-08-08), grief, funerals, tears on the pitch or at the farewell",
+    "Any injury, muscle strain or health topic",
+    "His wife, children, brothers, sister or any family matter",
+    "The 2016 tax fraud conviction (suspended 21-month sentence) and any legal matter",
+    "Doping of any kind",
+    "War or politics",
+    "The penalty misses may only be teased as a stat, never connected to the first match after his father's death",
+    "Age as an insult: light friendly 'veteran' teasing only"
+  ],
+  "viral_moments": [
+    {
+      "title": "Scaloni press conference: 'Now that Walter is no longer here, let him come' (16-17 Nov 2026)",
+      "why_provocative": "Argentina's coach publicly offers the retired Messi a staff job as a joke, and says Messi already declined.",
+      "youtube_url": "https://www.youtube.com/results?search_query=Scaloni+Messi+let+him+come+Walter+Samuel",
+      "timestamp": null,
+      "verified": false
+    },
+    {
+      "title": "Messi's farewell night, Argentina 3-0 Benin (6 Oct 2026)",
+      "why_provocative": "Penalty and two assists in the 3-0 win, over 85,000 fans, tears on the team bus; Messi's last Argentina match.",
+      "youtube_url": "https://www.youtube.com/results?search_query=Messi+Argentina+Benin+farewell+highlights+2026",
+      "timestamp": null,
+      "verified": false
+    },
+    {
+      "title": "Messi four goals vs CF Montreal, Inter Miami 7-1 (29 Aug 2026)",
+      "why_provocative": "Four goals in a club-record win, after Miami had lost four of their previous five.",
+      "youtube_url": "https://www.youtube.com/results?search_query=Messi+four+goals+Inter+Miami+Montreal+7-1+highlights",
+      "timestamp": null,
+      "verified": false
+    },
+    {
+      "title": "Messi misses penalty vs Nashville, third in a row (15 Aug 2026)",
+      "why_provocative": "Rare miss streak; use only as a stat clip and avoid the context.",
+      "youtube_url": "https://www.youtube.com/results?search_query=Messi+penalty+saved+Nashville+Inter+Miami+4-1",
+      "timestamp": null,
+      "verified": false
+    },
+    {
+      "title": "Classic: 2022 World Cup quarter-final Argentina vs Netherlands touchline moments",
+      "why_provocative": "Messi's provocative behaviour towards the Dutch bench was compared to Maradona's.",
+      "youtube_url": "https://www.youtube.com/results?search_query=Messi+Netherlands+World+Cup+2022+press+conference+reaction",
+      "timestamp": null,
+      "verified": false
+    }
+  ],
+  "viral_moments_note": "The YouTube links are search-result URLs, not confirmed video IDs, because search budget ran out. Pick the actual clip manually and check for watermarks.",
+  "footage_terms": [
+    {
+      "phrase": "Messi 4 goals Inter Miami vs CF Montreal 7-1 full highlights",
+      "watermark_risk": "high (MLS/Apple TV logos, fan channels add subtitles)"
+    },
+    {
+      "phrase": "Messi 100th goal Inter Miami Campeones Cup Cruz Azul",
+      "watermark_risk": "medium"
+    },
+    {
+      "phrase": "Messi last Argentina match Benin 2026 goal and assists Monumental",
+      "watermark_risk": "high (TV Publica/TyC Sports logos, Spanish burned-in captions)"
+    },
+    {
+      "phrase": "Messi winner vs New England Revolution 2026 goal 83rd minute",
+      "watermark_risk": "medium"
+    },
+    {
+      "phrase": "Messi Golden Boot 2026 all 26 goals compilation",
+      "watermark_risk": "high (compilation channels often burn in subtitles or logos)"
+    },
+    {
+      "phrase": "Inter Miami Nu Stadium Messi arrival training b-roll 2026",
+      "watermark_risk": "low to medium"
+    },
+    {
+      "phrase": "Messi Princess of Asturias Oviedo Princess Leonor ceremony",
+      "watermark_risk": "medium (news agency logos)"
+    },
+    {
+      "phrase": "Messi penalty miss Nashville 2026 save",
+      "watermark_risk": "high"
+    },
+    {
+      "phrase": "Scaloni press conference Messi Walter Samuel staff",
+      "watermark_risk": "high (burned-in Spanish subtitles common)"
+    },
+    {
+      "phrase": "Messi celebration pointing to sky Inter Miami 2026",
+      "watermark_risk": "medium"
+    }
+  ],
+  "flipbook_ideas": [
+    "Three tiny coaches walking through a revolving door in Miami colours while Messi in a pink shirt sits calmly on a bench and waves: 'Coach number three'.",
+    "Penalty spot gag: the ball grows little legs and sunglasses and runs off the pitch before Messi's left boot arrives (penalty stat only, no context).",
+    "Scaloni holds out a clipboard marked 'Assistant coach: vacancy' while Messi pushes it away with his left foot and a thumbs-down.",
+    "Eight golden Ballon d'Or balls on a shelf and a small '5th' rosette hanging next to a 'Messi Cup' U-16 trophy that is bigger than the golden balls.",
+    "Messi pressing a big red 'RETIRE' button, a sign pops up 'Argentina: yes / Miami: not yet', and he hides the button behind his back.",
+    "A giant golden boot labelled 'x2' that Messi polishes, with 26 tiny balls in a net behind him."
+  ],
+  "image_reference_notes": {
+    "signature_look": "Short dark-brown hair, medium-height frame, compact and low centre of gravity, left-footed, usually captain's armband; calm, almost neutral face on the pitch.",
+    "current_look": "GAP: current hair and beard length could not be verified from sources. The 2026 World Cup/Miami images should be checked by the image team. Generally a trimmed short beard and short hair in recent years.",
+    "kit_colours": "Inter Miami: pink with black (verify exact 2026 shirt). Argentina: sky-blue and white vertical stripes, number 10. Both with captain's armband.",
+    "expressions": "Deadpan concentration, quiet half-smile after goals, wide-open mouth only when he scores a late winner; emotional at the 6 Oct farewell (do not caricature the tears).",
+    "signature_pose": "Looks up and points both index fingers to the sky after a goal; left foot dragging the ball, head down, tiny close-control dribble."
+  },
+  "claims": [
+    {
+      "claim": "Messi won a record eight Ballon d'Or awards: 2009, 2010, 2011, 2012, 2015, 2019, 2021, 2023.",
+      "source_url": "https://en.wikipedia.org/wiki/Lionel_Messi",
+      "confidence": "high"
+    },
+    {
+      "claim": "In 2011-12 Messi scored 73 goals in all competitions for Barcelona, 50 in La Liga, and 91 goals for club and country in calendar 2012.",
+      "source_url": "https://en.wikipedia.org/wiki/Lionel_Messi",
+      "confidence": "high"
+    },
+    {
+      "claim": "Messi won the 2022 World Cup and the Copa America in 2021 and 2024.",
+      "source_url": "https://abc13.com/story/lionel-messi-says-hes-retiring-playing-argentina/19769980/",
+      "confidence": "high"
+    },
+    {
+      "claim": "Messi announced retirement from Argentina on 31 August 2026 via Instagram, aged 39, and stays with Inter Miami.",
+      "source_url": "https://abc13.com/story/lionel-messi-says-hes-retiring-playing-argentina/19769980/",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Messi wrote his retirement letter on 21 July 2026, two days after the World Cup final, and delayed publishing it.",
+      "source_url": "https://abc13.com/story/lionel-messi-says-hes-retiring-playing-argentina/19769980/",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Argentina lost the 2026 World Cup final 1-0 to Spain after extra time on 19 July 2026; Ferran Torres scored early in the second period of extra time (exact minute unconfirmed).",
+      "source_url": "https://www.espn.com/story/_/id/49397462",
+      "confidence": "high"
+    },
+    {
+      "claim": "Argentina played extra time with ten men after Enzo Fernandez's second yellow, and Spain led shots 20-2.",
+      "source_url": "https://www.espn.com/soccer/story/_/id/49402253/world-cup-spain-win-lionel-messi-argentina-reaction-analysis-ferran-torres",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Messi scored 8 goals and 4 assists at the 2026 World Cup, finishing behind Mbappe for the Golden Boot (Mbappe's 10 goals is inferred from his 22 career total), including a hat-trick against Algeria in the opener.",
+      "source_url": "https://www.mlssoccer.com/playoffs/2026/news/lionel-messi-inter-miami-enter-mls-cup-playoffs-with-historic-ambitions",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Messi has 21 career World Cup goals, one fewer than Mbappe's 22.",
+      "source_url": "https://www.aljazeera.com/sports/2026/8/8/argentina-fa-chief-says-messi-is-the-only-one-to-decide-when-he-retires",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jorge Messi died on the night of Friday 7 August 2026 (reported 8 August) aged 68 in Rosario after a long illness the family did not specify.",
+      "source_url": "https://www.aljazeera.com/sports/2026/8/8/lionel-messis-father-dies-aged-68-after-a-long-illness",
+      "confidence": "high"
+    },
+    {
+      "claim": "Messi missed a penalty in a 4-1 loss at Nashville on 15 Aug 2026, his third straight penalty miss and first such run since 2014.",
+      "source_url": "https://africa.espn.com/football/story/_/id/49623511/lionel-messi-penalty-miss-inter-miami-nashville-mls",
+      "confidence": "high"
+    },
+    {
+      "claim": "Messi scored four goals and added an assist in Inter Miami's 7-1 win over CF Montreal on 29 Aug 2026, a club record for goals in a game.",
+      "source_url": "https://www.mlssoccer.com/news/lionel-messi-makes-more-history-with-four-goal-masterpiece",
+      "confidence": "high"
+    },
+    {
+      "claim": "Messi became the fastest player in MLS history to reach 20 multi-goal games (72 appearances) and the 19th with four goals in a game.",
+      "source_url": "https://www.mlssoccer.com/news/lionel-messi-makes-more-history-with-four-goal-masterpiece",
+      "confidence": "high"
+    },
+    {
+      "claim": "Messi was on the 30-player Ballon d'Or 2026 shortlist; ceremony 26 Oct at the London Palladium.",
+      "source_url": "https://www.mlssoccer.com/news/lionel-messi-nominated-ballon-dor-2026-inter-miami-argentina",
+      "confidence": "high"
+    },
+    {
+      "claim": "Messi finished fifth in the 2026 Ballon d'Or behind Kane (winner), Mbappe, Yamal and Rodri (order of the top four not confirmed); Messi skipped the gala.",
+      "source_url": "https://www.si.com/soccer/lionel-messi-2026-ballon-dor-ranking-revealed",
+      "confidence": "high"
+    },
+    {
+      "claim": "Messi stayed in Miami for the inaugural Messi Cup U-16 tournament during the Ballon d'Or gala.",
+      "source_url": "https://www.si.com/soccer/lionel-messi-2026-ballon-dor-ranking-revealed",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Mascherano was Miami head coach until 14 April 2026, Hoyos interim until 14 Sep, Kily Gonzalez from 15 Sep.",
+      "source_url": "https://en.wikipedia.org/wiki/2026_Inter_Miami_CF_season",
+      "confidence": "high"
+    },
+    {
+      "claim": "Inter Miami's Nu Stadium opened on 4 April 2026 with a 2-2 draw against Austin FC.",
+      "source_url": "https://en.wikipedia.org/wiki/2026_Inter_Miami_CF_season",
+      "confidence": "high"
+    },
+    {
+      "claim": "Messi scored in the 2-0 Campeones Cup final win over Cruz Azul on 16 Sep 2026 (24th minute; Casemiro 81'); the local10 headline calls it his 100th Inter Miami goal.",
+      "source_url": "https://www.local10.com/sports/local/2026/09/17/messi-scores-100th-inter-miami-goal-as-miami-beats-cruz-azul-2-0-to-win-campeones-cup/",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Argentina beat Benin 3-0 on 6 Oct 2026 at the Monumental in Buenos Aires; Messi scored a penalty (126th goal) and assisted twice; 208th and final cap; over 85,000 fans.",
+      "source_url": "https://www.aljazeera.com/sports/2026/10/7/lionel-messis-last-game-for-argentina-ends-in-triumph-and-tears",
+      "confidence": "high"
+    },
+    {
+      "claim": "Messi received the Princess of Asturias Award for Sports from Princess Leonor in Oviedo on Friday 23 Oct 2026; the jury named him in June 2026.",
+      "source_url": "https://www.aljazeera.com/sports/2026/10/24/lionel-messi-receives-top-spanish-award-in-recognition-of-social-work",
+      "confidence": "high"
+    },
+    {
+      "claim": "Inter Miami beat New England 2-1 on 1 Nov 2026; Messi assisted the equaliser and scored the 83rd-minute winner; Miami clinched a 2027 Concacaf Champions Cup place.",
+      "source_url": "https://www.espn.com/soccer/story/_/id/50354699/messi-brings-miami-back-stun-revs-clinch-champions-cup",
+      "confidence": "high"
+    },
+    {
+      "claim": "Messi won the 2026 MLS Golden Boot with 26 goals in 31 matches, first player to win it in consecutive seasons.",
+      "source_url": "https://www.mlssoccer.com/news/inter-miami-cf-forward-lionel-messi-wins-2026-mls-golden-boot-presented-by-audi",
+      "confidence": "high"
+    },
+    {
+      "claim": "Messi had 43 goal contributions (26 goals, 17 assists) in 2026, the league best; 127 goal contributions over three seasons, 29 more than the next best span.",
+      "source_url": "https://www.mlssoccer.com/news/inter-miami-cf-forward-lionel-messi-wins-2026-mls-golden-boot-presented-by-audi",
+      "confidence": "high"
+    },
+    {
+      "claim": "Inter Miami drew Charlotte 3-3 on 7 Nov 2026 in the final regular-season match.",
+      "source_url": "https://www.espn.com/soccer/team/results/_/id/20232/inter-miami-cf",
+      "confidence": "high"
+    },
+    {
+      "claim": "Inter Miami finished 16W 12D 6L (80 goals for, 59 against, 60 points), second in the East and third overall, 17 points behind Supporters' Shield winners Nashville (77).",
+      "source_url": "https://www.101greatgoals.com/match-previews/mls-matches/inter-miami-v-columbus-crew-preview-expected-line-ups-stats-where-to-watch/",
+      "confidence": "high"
+    },
+    {
+      "claim": "Messi is one of five 2026 MLS MVP finalists with Cavan Sullivan (17), Mukhtar, Evander and Guilherme; a third straight MVP would be a first.",
+      "source_url": "https://www.beinsports.com/en-us/soccer/mls/articles/lionel-messi-eyes-history-with-third-consecutive-mls-mvp-award-2026-11-13",
+      "confidence": "high"
+    },
+    {
+      "claim": "Fabrizio Romano says there are no talks for a Messi loan to Newell's; Messi reportedly plans to honour his Miami contract to December 2028.",
+      "source_url": "https://sports.yahoo.com/articles/lionel-messi-rejects-newell-loan-134852350.html",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Scaloni joked on 16-17 Nov 2026 that Messi could join the staff 'now that Walter is no longer here', said Messi already said no to the national team, and expects him to play beyond 2030.",
+      "source_url": "https://www.soccernews.com/scaloni-opens-door-for-messi-to-join-argentina-staff-after-retirement/408295/",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Miami's playoff Round One vs Columbus: Game 1 Sat 21 Nov, 6 pm ET at Nu Stadium; Game 2 Fri 27 Nov in Columbus; Game 3 only if needed (Dec 2 not confirmed); MLS Cup 18 Dec.",
+      "source_url": "https://sports.yahoo.com/articles/inter-miami-vs-columbus-crew-164900188.html",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Miami's six regular-season home wins are the fewest of the 18 playoff teams; Columbus won eight of their last nine.",
+      "source_url": "https://sports.yahoo.com/articles/inter-miami-vs-columbus-crew-164900188.html",
+      "confidence": "high"
+    },
+    {
+      "claim": "Messi's Argentina debut at 18 against Hungary ended with a red card after about two minutes.",
+      "source_url": "https://abc13.com/story/lionel-messi-says-hes-retiring-playing-argentina/19769980/",
+      "confidence": "high"
+    },
+    {
+      "claim": "Messi briefly retired from Argentina in 2016 after losing the Copa America final to Chile and returned after a public campaign.",
+      "source_url": "https://abc13.com/story/lionel-messi-says-hes-retiring-playing-argentina/19769980/",
+      "confidence": "high"
+    },
+    {
+      "claim": "Messi announced the 2016 retirement after three consecutive lost finals and a bronze statue was put up in Buenos Aires to bring him back.",
+      "source_url": "https://en.wikipedia.org/wiki/Lionel_Messi",
+      "confidence": "medium"
+    },
+    {
+      "claim": "On 6 July 2016 Messi and his father were found guilty of tax fraud and received suspended 21-month sentences (sensitive: no joke).",
+      "source_url": "https://en.wikipedia.org/wiki/Lionel_Messi",
+      "confidence": "high"
+    },
+    {
+      "claim": "Messi wanted to leave Barcelona in 2020 but stayed for his final contract year.",
+      "source_url": "https://en.wikipedia.org/wiki/Lionel_Messi",
+      "confidence": "high"
+    },
+    {
+      "claim": "At the 2022 World Cup quarter-final his provocative actions towards the Netherlands were compared to Maradona's by Osvaldo Ardiles.",
+      "source_url": "https://en.wikipedia.org/wiki/Lionel_Messi",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Inter Miami went out of the 2026 Leagues Cup in the league phase (1W 0D 2L: 4-2 win at Atletico de San Luis, 1-2 loss to Monterrey, 2-3 loss to Club Leon).",
+      "source_url": "https://www.espn.com/soccer/team/results/_/id/20232/inter-miami-cf",
+      "confidence": "high"
+    },
+    {
+      "claim": "Inter Miami are reported to play a preseason friendly against River Plate in Buenos Aires on 19 January 2027 (venue 'Monumental' not confirmed).",
+      "source_url": "https://sports.yahoo.com/articles/messi-shuts-down-exit-rumors-113436064.html",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Miami led Charlotte 3-0 after 42 minutes on 7 Nov 2026 and drew 3-3 (Charlotte scored at 50', 55' and 90').",
+      "source_url": "https://en.wikipedia.org/wiki/2026_Inter_Miami_CF_season",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Messi's current hair and beard, and the exact 2026 Inter Miami shirt colours.",
+      "source_url": "https://en.wikipedia.org/wiki/2026_Inter_Miami_CF_season",
+      "confidence": "low"
+    },
+    {
+      "claim": "YouTube moment links are search-result URLs, not confirmed videos.",
+      "source_url": "https://www.youtube.com/",
+      "confidence": "low"
+    }
+  ],
+  "verification": {
+    "checked": 72,
+    "corrected": 42,
+    "removed": 13,
+    "notes": "Method: fetched the cited URLs (MLSsoccer, ESPN, Al Jazeera, Yahoo, SI, Wikipedia season page and Messi biography); web search budget was exhausted so no extra independent searches. Core facts held: 8 Ballon d'Or, retirement 31 Aug, 3-0 Benin farewell (126th goal, 208th cap), Golden Boot 26 goals/17 assists, 4 goals vs Montreal 7-1, Campeones Cup 2-0, 2-1 at New England (Messi 83'), 16W-12D-6L 60 points 2nd East 3rd overall, Nashville 77, Columbus Game 1 on 21 Nov, contract to Dec 2028 reported. Corrected: father's death is 7 Aug (Friday night), not 8 Aug; 'missed one match, returned 15 Aug' unsupported and removed; Mbappe gap is two goals, not one; 'third straight league loss' was third straight loss in all competitions; Torres minute and 115th-minute first shot are not confirmed by ESPN; Ballon d'Or top-four order not confirmed and 'two years away' removed; Leagues Cup record verified (1W 0D 2L) but halftime lead and bench claim removed; Columbus 27 Sep: only 33' goal confirmed, set-piece detail removed, one source names a different stoppage-time scorer; 'blew a 3-0 lead' at Charlotte now supported by goal times; River Plate friendly (19 Jan 2027) now supported by one Yahoo report; Game 3 date (2 Dec) unconfirmed; Hoyos and Princess Leonor quotes, honorary doctorate, drone show and Kily lineup quote removed as unverifiable. Still unverified or single-source: Messi's 2023 Leagues Cup and 2024 Supporters' Shield trophies (from general knowledge), Preki record, Messi Cup, minute of Torres goal, current hair and beard, YouTube clip IDs. Sensitive: father's death, no jokes."
+  }
+}

@@ -1,0 +1,676 @@
+{
+ "no": 75,
+ "style": "FLAT-POP",
+ "prop": "ball",
+ "cast": {
+  "erling": {
+   "role": "striker",
+   "number": "9",
+   "shirt": "#6cb4ee",
+   "hair": "#f2d16b"
+  },
+  "mate1": {
+   "role": "player",
+   "shirt": "#6cb4ee",
+   "hair": "#2b2b3a",
+   "skin": "#c68642"
+  },
+  "mate2": {
+   "role": "player",
+   "shirt": "#6cb4ee",
+   "hair": "#a03a2a"
+  }
+ },
+ "sequences": {
+  "s01": {
+   "type": "HOOK",
+   "q": "Late winner, so why step up?",
+   "prop": "megaphone",
+   "emote": "angry-cheeky",
+   "board": "neon",
+   "role": "striker"
+  },
+  "s02": {
+   "type": "COMIC",
+   "bg": "pitch",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "erling",
+       "x": 310,
+       "y": 1440,
+       "pose": "kick",
+       "emote": "happy",
+       "scale": 1.4,
+       "label": "Late winner"
+      }
+     ],
+     "props": [
+      {
+       "kind": "goal",
+       "x": 780,
+       "y": 1080,
+       "scale": 2.3
+      },
+      {
+       "kind": "ball",
+       "x": 430,
+       "y": 1380,
+       "scale": 0.8
+      },
+      {
+       "kind": "sticker",
+       "x": 300,
+       "y": 520,
+       "scale": 1.5,
+       "text": "78",
+       "anim": "drop"
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.52,
+     "actors": [
+      {
+       "id": "erling",
+       "x": 310,
+       "y": 1440,
+       "pose": "celebrate",
+       "emote": "happy",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "goal",
+       "x": 780,
+       "y": 1080,
+       "scale": 2.3
+      },
+      {
+       "kind": "ball",
+       "x": 790,
+       "y": 1150,
+       "scale": 0.8
+      },
+      {
+       "kind": "sticker",
+       "x": 300,
+       "y": 520,
+       "scale": 1.5,
+       "text": "78"
+      }
+     ],
+     "sfx": {
+      "text": "BANG",
+      "x": 880,
+      "y": 500,
+      "r": 110
+     },
+     "cam": "push",
+     "fx": [
+      {
+       "kind": "confetti",
+       "x": 790,
+       "y": 700
+      }
+     ]
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.52,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "erling",
+       "x": 310,
+       "y": 1440,
+       "pose": "cheer",
+       "emote": "wink",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "goal",
+       "x": 780,
+       "y": 1080,
+       "scale": 2.3
+      },
+      {
+       "kind": "ball",
+       "x": 790,
+       "y": 1150,
+       "scale": 0.8
+      },
+      {
+       "kind": "sticker",
+       "x": 640,
+       "y": 640,
+       "scale": 2.6,
+       "text": "14"
+      }
+     ],
+     "sfx": {
+      "text": "DING",
+      "x": 250,
+      "y": 520,
+      "r": 110
+     },
+     "fx": [
+      {
+       "kind": "confetti",
+       "x": 640,
+       "y": 560
+      }
+     ]
+    }
+   ]
+  },
+  "s03": {
+   "type": "STATS",
+   "items": [
+    {
+     "icon": "stopwatch",
+     "value": "78",
+     "suffix": "'",
+     "label": "Seventy-eighth minute"
+    },
+    {
+     "icon": "trophy",
+     "value": "3-2",
+     "label": "City won three-two"
+    },
+    {
+     "icon": "cross",
+     "value": "2",
+     "label": "Two straight defeats"
+    }
+   ]
+  },
+  "s04": {
+   "type": "COMIC",
+   "bg": "training",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "erling",
+       "x": 310,
+       "y": 1440,
+       "pose": "kick",
+       "emote": "happy",
+       "scale": 1.45
+      }
+     ],
+     "props": [
+      {
+       "kind": "ball",
+       "x": 440,
+       "y": 1280,
+       "scale": 0.8,
+       "anim": "bounce"
+      },
+      {
+       "kind": "sticker",
+       "x": 600,
+       "y": 600,
+       "scale": 2.4,
+       "text": "3"
+      },
+      {
+       "kind": "goal",
+       "x": 860,
+       "y": 1120,
+       "scale": 2.0
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.42,
+     "actors": [
+      {
+       "id": "erling",
+       "x": 310,
+       "y": 1440,
+       "pose": "jump",
+       "emote": "happy",
+       "scale": 1.45
+      }
+     ],
+     "props": [
+      {
+       "kind": "ball",
+       "x": 450,
+       "y": 1000,
+       "scale": 0.8
+      },
+      {
+       "kind": "sticker",
+       "x": 600,
+       "y": 600,
+       "scale": 2.4,
+       "text": "9"
+      },
+      {
+       "kind": "coin",
+       "x": 560,
+       "y": 1380,
+       "scale": 0.7,
+       "anim": "drop"
+      },
+      {
+       "kind": "coin",
+       "x": 640,
+       "y": 1400,
+       "scale": 0.7,
+       "anim": "drop"
+      },
+      {
+       "kind": "goal",
+       "x": 860,
+       "y": 1120,
+       "scale": 2.0
+      }
+     ],
+     "sfx": {
+      "text": "POP",
+      "x": 880,
+      "y": 540,
+      "r": 100
+     },
+     "cam": "push"
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.42,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "erling",
+       "x": 310,
+       "y": 1440,
+       "pose": "kick",
+       "emote": "smug",
+       "scale": 1.45
+      }
+     ],
+     "props": [
+      {
+       "kind": "ball",
+       "x": 450,
+       "y": 1250,
+       "scale": 0.8
+      },
+      {
+       "kind": "sticker",
+       "x": 600,
+       "y": 600,
+       "scale": 2.4,
+       "text": "9"
+      },
+      {
+       "kind": "coin",
+       "x": 560,
+       "y": 1380,
+       "scale": 0.7
+      },
+      {
+       "kind": "coin",
+       "x": 640,
+       "y": 1400,
+       "scale": 0.7
+      },
+      {
+       "kind": "coin",
+       "x": 600,
+       "y": 1330,
+       "scale": 0.7,
+       "anim": "drop"
+      },
+      {
+       "kind": "coin",
+       "x": 700,
+       "y": 1370,
+       "scale": 0.7,
+       "anim": "drop"
+      },
+      {
+       "kind": "goal",
+       "x": 860,
+       "y": 1120,
+       "scale": 2.0
+      }
+     ]
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "erling",
+       "x": 310,
+       "y": 1440,
+       "pose": "cheer",
+       "emote": "wink",
+       "scale": 1.45
+      }
+     ],
+     "props": [
+      {
+       "kind": "ball",
+       "x": 860,
+       "y": 1180,
+       "scale": 0.8
+      },
+      {
+       "kind": "sticker",
+       "x": 600,
+       "y": 600,
+       "scale": 2.4,
+       "text": "13"
+      },
+      {
+       "kind": "coin",
+       "x": 560,
+       "y": 1380,
+       "scale": 0.7
+      },
+      {
+       "kind": "coin",
+       "x": 640,
+       "y": 1400,
+       "scale": 0.7
+      },
+      {
+       "kind": "coin",
+       "x": 600,
+       "y": 1330,
+       "scale": 0.7
+      },
+      {
+       "kind": "coin",
+       "x": 700,
+       "y": 1370,
+       "scale": 0.7
+      },
+      {
+       "kind": "goal",
+       "x": 860,
+       "y": 1120,
+       "scale": 2.0
+      }
+     ],
+     "sfx": {
+      "text": "BANG",
+      "x": 880,
+      "y": 500,
+      "r": 100
+     },
+     "fx": [
+      {
+       "kind": "confetti",
+       "x": 860,
+       "y": 900
+      }
+     ]
+    }
+   ]
+  },
+  "s05": {
+   "type": "NEWS",
+   "name": "Haaland",
+   "actor": "erling",
+   "fact": "Thirteen goals against them",
+   "ticker": "13 goals in 9",
+   "icons": [
+    "ticket",
+    "ball",
+    "chart-up"
+   ],
+   "role": "striker"
+  },
+  "s06": {
+   "type": "COMIC",
+   "bg": "dressing-room",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "mate1",
+       "x": 220,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "neutral",
+       "scale": 1.15
+      },
+      {
+       "id": "mate2",
+       "x": 480,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "neutral",
+       "scale": 1.15
+      },
+      {
+       "id": "erling",
+       "x": 840,
+       "y": 1440,
+       "pose": "present",
+       "emote": "smug",
+       "scale": 1.35,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "pitch-board",
+       "x": 470,
+       "y": 700,
+       "scale": 2.4
+      },
+      {
+       "kind": "ball",
+       "x": 655,
+       "y": 1395,
+       "scale": 0.7
+      },
+      {
+       "kind": "sticker",
+       "x": 840,
+       "y": 520,
+       "scale": 1.5,
+       "text": "13"
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.52,
+     "actors": [
+      {
+       "id": "mate1",
+       "x": 220,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "neutral",
+       "scale": 1.15
+      },
+      {
+       "id": "mate2",
+       "x": 480,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "neutral",
+       "scale": 1.15
+      },
+      {
+       "id": "erling",
+       "x": 840,
+       "y": 1440,
+       "pose": "point",
+       "emote": "angry-cheeky",
+       "scale": 1.35,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "pitch-board",
+       "x": 470,
+       "y": 700,
+       "scale": 2.4
+      },
+      {
+       "kind": "ball",
+       "x": 655,
+       "y": 1395,
+       "scale": 0.7
+      },
+      {
+       "kind": "sticker",
+       "x": 840,
+       "y": 520,
+       "scale": 1.5,
+       "text": "13"
+      },
+      {
+       "kind": "arrow",
+       "x": 470,
+       "y": 690,
+       "scale": 1.8,
+       "anim": "slide-l"
+      }
+     ],
+     "sfx": {
+      "text": "WHOOSH",
+      "x": 300,
+      "y": 420,
+      "r": 100
+     },
+     "cam": "push"
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.52,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "mate1",
+       "x": 220,
+       "y": 1440,
+       "pose": "cheer",
+       "emote": "happy",
+       "scale": 1.15
+      },
+      {
+       "id": "mate2",
+       "x": 480,
+       "y": 1440,
+       "pose": "cheer",
+       "emote": "happy",
+       "scale": 1.15
+      },
+      {
+       "id": "erling",
+       "x": 840,
+       "y": 1440,
+       "pose": "thumbsup",
+       "emote": "smug",
+       "scale": 1.35,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "pitch-board",
+       "x": 470,
+       "y": 700,
+       "scale": 2.4
+      },
+      {
+       "kind": "ball",
+       "x": 655,
+       "y": 1395,
+       "scale": 0.7
+      },
+      {
+       "kind": "sticker",
+       "x": 840,
+       "y": 520,
+       "scale": 1.5,
+       "text": "13"
+      },
+      {
+       "kind": "arrow",
+       "x": 655,
+       "y": 1190,
+       "scale": 1.5,
+       "rot": 90
+      }
+     ],
+     "sfx": {
+      "text": "DING",
+      "x": 300,
+      "y": 420,
+      "r": 100
+     }
+    }
+   ]
+  },
+  "s07": {
+   "type": "PROVOC",
+   "q": "Should City be more aggressive when ahead?",
+   "a": "More aggressive",
+   "b": "Stay calm",
+   "split": [
+    62,
+    38
+   ],
+   "mood": "cheeky"
+  },
+  "s08": {
+   "type": "INTERVIEW",
+   "label": "REPORTER ASKS",
+   "bubble": "Be more aggressive after going ahead?",
+   "answer": {
+    "icon": "fire",
+    "gesture": "point",
+    "emote": "smug"
+   },
+   "subject": "Haaland",
+   "subject_cast": "erling"
+  }
+ }
+}

@@ -1,0 +1,623 @@
+{
+  "name": "Pavel Nedvěd (Pavel Nedved)",
+  "years": "Born 30 Aug 1972. Ballon d'Or 2003. Playing career 1990-2009 (Plzen, Dukla Prague, Sparta Prague, Kosice, Lazio, Juventus). Czech national team 1994-2006, 91 caps, 18 goals. Since 2025: general manager of the Czech national teams (FAČR).",
+  "research_meta": {
+    "as_of": "2026-11-20",
+    "window_start": "2026-08-22",
+    "recent_news_total": 18,
+    "recent_news_inside_90_days": 15,
+    "recent_news_older_context": 3,
+    "limits": [
+      "Spain-away date (3 Oct) was confirmed by the Bolavip preview in the fact check. The Czech-home-Croatia date is not stated in any checked source and is not used.",
+      "No direct YouTube search was possible. viral_moments carry article links; YouTube links are given only where one was actually found, otherwise a search phrase is supplied.",
+      "Several Czech news pages returned 403 (infotbal.cz, fotbal.cz, tn.nova.cz). Facts from them are only used where another readable source confirms them."
+    ]
+  },
+  "recent_news": [
+    {
+      "date": "2026-11-18",
+      "headline": "FIFA ranking: Czechia falls to 53rd, lowest since 2017",
+      "facts": [
+        "The November 2026 FIFA ranking (published 18 Nov) puts Czechia 53rd with 1,451 points.",
+        "A year and a quarter earlier (Sept 2025) the team was 39th, so it lost 14 places; it is the lowest spot since Sept 2017 (58th).",
+        "Czechia now ranks behind Slovakia (47th), Slovenia (49th) and Peru (52nd); Austria is 22nd, Hungary 37th, Poland 38th."
+      ],
+      "source_url": "https://tiscali.cz/cesky-fotbal-se-dal-propada-v-zebricku-fifa-je-na-tom-nejhur-za-poslednich-9-let-810152",
+      "source_domain": "tiscali.cz",
+      "tone": "roast",
+      "sensitive": false,
+      "within_90_days": true
+    },
+    {
+      "date": "2026-11-17",
+      "headline": "Poborský: Czechia cannot play Spanish football, worst losing run in national history",
+      "facts": [
+        "Karel Poborsky said he sees only a continued search for a line-up, that it should have looked different long ago, and that the coach will have to give some ground (compromise).",
+        "The seven-match losing run (Mexico at the World Cup plus six Nations League games) is the longest in Czech and Czechoslovak national team history.",
+        "Across the two November games Czechia had one shot on target; in Osijek Croatia had 8 shots on target to Czechia's 1."
+      ],
+      "source_url": "https://www.tiscali.cz/jedna-strela-za-dva-zapasy-karel-poborsky-kritizuje-vykony-pod-koucem-deniou-808571",
+      "source_domain": "tiscali.cz",
+      "tone": "roast",
+      "sensitive": false,
+      "within_90_days": true
+    },
+    {
+      "date": "2026-11-16",
+      "headline": "Nedvěd: Denia has full confidence, firing is not up for discussion",
+      "facts": [
+        "After the sixth straight defeat Nedvěd told ČT Sport that a coaching change is not on the agenda and the team is being rebuilt.",
+        "He said the federation has full confidence in Denia and admitted quality is missing; the 37 players used this autumn, 12 of them complete debutants, is a figure Nedvěd gave that was reported in the 17 Nov SportyZive/Tiscali piece (not in this article).",
+        "Nedvěd cannot sack the coach alone but can propose it; the FAČR executive committee decides. One commentary calls Denia largely Nedvěd's choice."
+      ],
+      "source_url": "https://www.tiscali.cz/po-seste-porazce-se-zacina-mluvit-o-pozici-kouce-denii-manazer-nedved-odmitl-diskuzi-807652",
+      "source_domain": "tiscali.cz",
+      "tone": "roast",
+      "sensitive": false,
+      "within_90_days": true
+    },
+    {
+      "date": "2026-11-15",
+      "headline": "Croatia 2-1 Czechia in Osijek: six defeats from six, relegated from Nations League A",
+      "facts": [
+        "Czechia finished the Nations League A3 group with 0 points, 3 goals scored and 14 conceded (goal difference -11).",
+        "England and Spain finished on 15 points each, Croatia on 6 (relegation play-off).",
+        "Three red cards in six games: Šulc (25', v England), and Krejčí twice (once at Spain, once at home v Spain)."
+      ],
+      "source_url": "https://isport.blesk.cz/clanek/fotbal-reprezentace-liga-narodu/482186/nedved-denia-ma-plnou-duveru-nikdy-nebudeme-hrat-spanelsky-fotbal-rekl-poborsky.html",
+      "source_domain": "isport.blesk.cz",
+      "tone": "roast",
+      "sensitive": false,
+      "within_90_days": true
+    },
+    {
+      "date": "2026-11-12",
+      "headline": "Czechia 0-2 Spain in Prague, Krejčí sent off after VAR review",
+      "facts": [
+        "Match played at Letná, Prague, on Thursday 12 November; Czechia entered it with four straight defeats and no points.",
+        "Krejčí's yellow was upgraded to a red card by VAR in the 72nd minute.",
+        "Spain had already qualified for the quarter-finals."
+      ],
+      "source_url": "https://bolavip.com/en/soccer/czechia-vs-spain-how-to-watch-live-stream-tv-channel-and-time-for-a-uefa-nations-league-game-on-november-12-2026",
+      "source_domain": "bolavip.com",
+      "tone": "roast",
+      "sensitive": false,
+      "within_90_days": true
+    },
+    {
+      "date": "2026-11-06",
+      "headline": "Nedvěd calls out Sparta: no Sparta player in the Czech squad for the first time since 2022",
+      "facts": [
+        "Nedvěd said it was a problem that no Sparta player was in the November squad; it is the first time since November 2022.",
+        "He said Sparta sometimes starts with only one or two Czech players and that he spoke to the club leadership.",
+        "He also said the door is open for Patrik Schick, but the team did not contact him before this camp."
+      ],
+      "source_url": "https://www.ceskenoviny.cz/zpravy/schick-ma-dvere-otevrene-ale-ted-jsme-ho-znovu-oslovovat-nechteli-rekl-nedved/2898396",
+      "source_domain": "ceskenoviny.cz",
+      "tone": "neutral",
+      "sensitive": false,
+      "within_90_days": true
+    },
+    {
+      "date": "2026-11-02",
+      "headline": "Slovak tabloids relayed: Nedvěd's adult children missed the September wedding",
+      "facts": [
+        "A Time News rewrite of Slovak entertainment reports says his two adult children were absent from the wedding, reportedly staying in Florida.",
+        "Dara Rolins reportedly said it is a private matter and everyone is on good terms.",
+        "The article offers speculation only and no confirmed evidence of any family conflict."
+      ],
+      "source_url": "https://time.news/pavel-nedved-family-faces-scrutiny-after-wedding-absence/",
+      "source_domain": "time.news",
+      "tone": "neutral",
+      "sensitive": true,
+      "within_90_days": true
+    },
+    {
+      "date": "2026-10-06",
+      "headline": "England 3-0 Czechia at Wembley: Kane brace, Coufal own goal",
+      "facts": [
+        "Vladimír Coufal put a Harry Kane cross into his own net on 27 minutes; Kane then scored in the 40th and 57th minutes.",
+        "England had 65% possession and 17 shots to Czechia's 5.",
+        "Kane's two goals took his England tally to 91 goals in 125 caps."
+      ],
+      "source_url": "https://www.sportsmole.co.uk/football/england/uefa-nations-league/result/kane-caps-special-night-with-a-brace-as-england-near-last-eight-nations-league-spot_606349.html",
+      "source_domain": "sportsmole.co.uk",
+      "tone": "roast",
+      "sensitive": false,
+      "within_90_days": true
+    },
+    {
+      "date": "2026-10-03",
+      "headline": "Spain 3-1 Czechia in Oviedo: Krejčí sent off for a second yellow",
+      "facts": [
+        "Spain beat Czechia 3-1 on 3 October (date confirmed by the Bolavip preview) in the first of the two meetings.",
+        "Krejčí was sent off for a second yellow card (85th minute per the Tiscali results table; another report only says he was sent off, so the minute is not fully certain).",
+        "Per Fotbalportal, Czechia had no shot on target at Wembley (England) or in the home game v Spain; seven shots on target in six games overall."
+      ],
+      "source_url": "https://www.fotbalportal.cz/cesko/synot-liga/81845-santi-denia-nedved-poborsky-spanelsky-fotbal-coufal-kvalita/",
+      "source_domain": "fotbalportal.cz",
+      "tone": "roast",
+      "sensitive": false,
+      "within_90_days": true
+    },
+    {
+      "date": "2026-09-30",
+      "headline": "Czechia 0-2 England in Prague: Šulc sent off after 25 minutes",
+      "facts": [
+        "Anthony Gordon (47') and Harry Kane (69') scored; it was England's first Nations League win (second attempt).",
+        "Pavel Šulc's yellow card was upgraded to a red by VAR for a high lunge on Elliot Anderson in the 25th minute.",
+        "Sky Sports report dated 30 September; the match itself was most likely played on the evening of 29 September (not stated directly)."
+      ],
+      "source_url": "https://www.skysports.com/football/news/13593441/czech-republic-0-2-england-anthony-gordon-harry-kane-net-to-give-three-lions-first-nations-league-win",
+      "source_domain": "skysports.com",
+      "tone": "roast",
+      "sensitive": false,
+      "within_90_days": true
+    },
+    {
+      "date": "2026-09-18",
+      "headline": "Nedvěd to Schick's criticism: 'I'm not one who looks for alibis'",
+      "facts": [
+        "Schick had criticised the World Cup logistics (insufficient recovery, heavy travel).",
+        "Nedvěd said the travel was set by FIFA and may have affected the team, but that results are decided on the pitch.",
+        "He said the federation added a nutrition adviser for the Nations League camp, and that Schick has no interest in playing for the national team."
+      ],
+      "source_url": "https://isport.blesk.cz/clanek/fotbal-reprezentace-liga-narodu/480027/nedved-o-schickove-kritice-ja-nejsem-ten-kdo-hleda-alibi-zajem-reprezentovat-stale-nema.html",
+      "source_domain": "isport.blesk.cz",
+      "tone": "neutral",
+      "sensitive": false,
+      "within_90_days": true
+    },
+    {
+      "date": "2026-09-18",
+      "headline": "Denia names first squad: 11 new or returning players, Schick absent",
+      "facts": [
+        "Santi Denia, first foreign coach of the Czech A-team, announced his first Nations League squad on 18 September.",
+        "Of the 26 World Cup players, 15 kept their place; Staněk, Souček, Darida, Chytil and Schick, among others, were left out.",
+        "Nedvěd said final sporting decisions belong to Denia and he acts as a support partner with context and data."
+      ],
+      "source_url": "https://www.tiscali.cz/spousta-hracu-na-hrane-manazer-narodaku-nedved-popsal-zemetreseni-v-nominaci-764030",
+      "source_domain": "tiscali.cz",
+      "tone": "neutral",
+      "sensitive": false,
+      "within_90_days": true
+    },
+    {
+      "date": "2026-09-02",
+      "headline": "Nedvěd marries singer Dara Rolins (reportedly in Italy)",
+      "facts": [
+        "The couple married on Wednesday 2 September 2026; Blesk says clues point to Italy (Lake Maggiore area) but the location was not explicitly confirmed.",
+        "Rolins confirmed it on Instagram with a photo of the rings and kept her own surname.",
+        "The relationship was first confirmed in December 2021; he proposed at the end of 2024 in Livigno."
+      ],
+      "source_url": "https://www.blesk.cz/clanek/celebrity-ceske-celebrity/847310/dara-rolins-a-pavel-nedved-tajna-svatba.html",
+      "source_domain": "blesk.cz",
+      "tone": "praise",
+      "sensitive": true,
+      "within_90_days": true
+    },
+    {
+      "date": "2026-08-28",
+      "headline": "Schick says the national team's World Cup logistics wore players down",
+      "facts": [
+        "Patrik Schick sharply criticised travel and recovery at the World Cup; the piece is cited as a 28 August report.",
+        "Nedvěd answered three weeks later (see 18 Sept item).",
+        "Tiscali reports Schick ended his national team career after the tournament; Nedvěd said in September that Schick has no interest in playing for the team. The earlier '26 goals in 56 caps' figure could not be verified and was removed."
+      ],
+      "source_url": "https://isport.blesk.cz/clanek/fotbal-reprezentace-liga-narodu/480027/nedved-o-schickove-kritice-ja-nejsem-ten-kdo-hleda-alibi-zajem-reprezentovat-stale-nema.html",
+      "source_domain": "isport.blesk.cz",
+      "tone": "roast",
+      "sensitive": false,
+      "within_90_days": true,
+      "note": "Date confirmed: the 18 Sept iSport article links the original Schick piece ('Schick ostře: Nároďák nás znehodnocoval') dated 28 Aug 2026."
+    },
+    {
+      "date": "2026-08-25",
+      "headline": "Chovanec reportedly claims Nedvěd ended Koubek's reign with 'one phone call'",
+      "facts": [
+        "An article on 25 Aug 2026 cites a podcast from 27 Jan 2026 in which Jozef Chovanec describes Nedvěd's informal influence in Czech football.",
+        "The exact 'single call' wording could not be found in a public transcript; treat as allegation, not fact.",
+        "FAČR chairman Trunda said on 2 July that Nedvěd's departure was not on the table."
+      ],
+      "source_url": "https://sportyzive.cz/fotbal/jozef-chovanec-promluvil-o-pomerech-v-ceskem-fotbalu/",
+      "source_domain": "sportyzive.cz",
+      "tone": "roast",
+      "sensitive": false,
+      "within_90_days": true,
+      "note": "Unverified allegation. Do not state as fact in the script."
+    },
+    {
+      "date": "2026-07-31",
+      "headline": "FAČR appoints Santi Denia, the first foreign national team coach",
+      "facts": [
+        "Spaniard Santi Denia (Olympic gold with Spain in 2024) signed a two-year contract with an option to extend.",
+        "Nedvěd said he hoped Denia would help give the team a new identity.",
+        "Older than 90 days, kept because it explains the current Nations League story."
+      ],
+      "source_url": "https://www.praguedaily.news/2026/08/01/vamos-czech-republic-spaniard-santi-denia-named-new-czech-national-team-coach/",
+      "source_domain": "praguedaily.news",
+      "tone": "neutral",
+      "sensitive": false,
+      "within_90_days": false
+    },
+    {
+      "date": "2026-07-07",
+      "headline": "Nedvěd admits mistakes after World Cup group-stage exit",
+      "facts": [
+        "In an iSport interview Nedvěd said the team went out deservedly and that he saw tired players but did not push hard enough to change things.",
+        "He said he was annoyed that Rosický criticised Schick during the tournament.",
+        "Older than 90 days; context for the later Denia and Schick stories."
+      ],
+      "source_url": "https://isport.blesk.cz/clanek/fotbal-reprezentace-ms-fotbal-2026/477408/nedvedova-zpoved-o-vztahu-s-koubkem-i-chybach-unaveni-a-bez-radosti-mel-jsem-reagovat.html",
+      "source_domain": "isport.blesk.cz",
+      "tone": "neutral",
+      "sensitive": false,
+      "within_90_days": false
+    },
+    {
+      "date": "2025-09-22",
+      "headline": "Italian court accepts Nedvěd's plea deal in Juventus accounts case",
+      "facts": [
+        "A Rome judge accepted plea deals; Nedvěd received a suspended sentence of 1 year 2 months, Agnelli 1 year 8 months, Juventus a 156,000 euro fine.",
+        "Under Italian law a plea deal is not an admission of guilt, and the defendants denied wrongdoing.",
+        "FAČR said the ruling does not affect his job. Old and legal: background only, never a joke."
+      ],
+      "source_url": "https://www.echo24.cz/a/HEqVx/zpravy-domov-denik-nedved-odsouzen",
+      "source_domain": "echo24.cz",
+      "tone": "neutral",
+      "sensitive": true,
+      "within_90_days": false
+    }
+  ],
+  "now": {
+    "as_of": "2026-11-20",
+    "role": "General manager of the Czech national teams (A team and U21) at the Czech FA (FAČR), appointed June 2025. Not a coach: he proposes coaches and manages the set-up, while the FAČR executive committee decides on firing.",
+    "club_or_contract": "No club job found. Wikipedia lists a Jan 2025 Al Shabab sporting-director role (stale next to the national team role). Forbes reports he is leaving the Fotbal HK 1905 (Hradec Králové) ownership group; its date, the reason and the share split were not verifiable. Contract length not found.",
+    "this_season_in_numbers": [
+      "World Cup 2026 (first for Czechia in 20 years, reached via March playoff wins on penalties over Ireland and Denmark): 1 point from 3 games, out in the group stage, 0-3 loss to Mexico.",
+      "Nations League A3 autumn 2026 under new coach Denia: 6 matches, 0 points, 3 goals for, 14 against, relegated to League B.",
+      "Seven straight defeats counting Mexico, the longest losing run in Czech and Czechoslovak history.",
+      "Three red cards in six Nations League games (Šulc once, Krejčí twice).",
+      "FIFA ranking 53rd (39th in Sept 2025), lowest since 2017.",
+      "37 players used this autumn, 12 of them debutants."
+    ],
+    "what_people_say": "Critics (Vízek, Hynek, Chovanec's reported remarks) question his management and some say he should go; Poborský says the team is still only searching for a line-up and the coach will have to give some ground. Nedvěd and FAČR say Denia has full confidence and there is no talk of change. Next: Euro 2028 qualifying draw on 6 December 2026, with Czechia outside the top pot."
+  },
+  "quick_context": [
+    "Nedvěd won Serie A with Lazio in 2000 and with Juventus in 2002 and 2003, after starting at Sparta Prague.",
+    "In 2002-03 he made 43 appearances and scored 14 goals in all competitions, and won the 2003 Ballon d'Or even though he missed the Champions League final through suspension.",
+    "He earned 91 caps and 18 goals for Czechia and captained the team to the Euro 2004 semi-final."
+  ],
+  "roast_past": [
+    "The hair: the long blond mane and the 'Furia Ceca' / 'Méďa' (Little Bear) nicknames from Italian and Czech fans.",
+    "Sent off three times in his first six matches at Sparta, while critics later called him overly aggressive and accused of diving.",
+    "Won the Ballon d'Or in the same season he watched the Champions League final from the stands, suspended after a semi-final booking.",
+    "Euro 1996 final lost to Germany on a golden goal; Euro 2004 semi-final lost to Greece. A big golden career without a major national team trophy.",
+    "Came out of international retirement for the 2006 World Cup and Czechia still finished third in their group.",
+    "Famous long-hair perfectionist who later ran the Prague Half Marathon (2010) and Prague Marathon (2012): never stopped running, just changed the shirt.",
+    "Left Juventus as a player, came back as vice chairman, left again with the board in 2022 - a career in the same building, with different coats (jokes about career moves only, never about the legal case)."
+  ],
+  "roast_now": [
+    "He hired the first foreign coach in Czech history, and the new coach opened with six defeats from six: zero points, 3 goals scored, 14 conceded.",
+    "Seven defeats in a row is now the longest losing run in Czech and Czechoslovak national team history, and it started under his previous coach.",
+    "A national team that once had a Ballon d'Or winner now has one shot on target in two November games.",
+    "Three red cards in six matches: the old tackler would approve of the style, the scoreboard would not.",
+    "He said he does not look for alibis, in the same breath as adding a nutrition adviser to the camp.",
+    "He criticised Sparta for starting with only one or two Czech players, while the national team used 37 players this autumn, 12 of them debutants.",
+    "The FIFA ranking fell from 39th to 53rd, behind Slovakia, Slovenia and Peru.",
+    "'Full confidence' in the coach, 'not up for discussion': the loyal friend of a man with 0 points."
+  ],
+  "praise": [
+    "Ballon d'Or 2003, the second Czech winner after Josef Masopust and the first since Czechoslovakia split.",
+    "2002-03: 43 appearances and 14 goals in all competitions, Serie A title, Serie A Footballer of the Year (shared with Totti), World Soccer Player of the Year.",
+    "91 caps and 18 goals for Czechia, captain at Euro 2004 and named in the Team of the Tournament.",
+    "In the 2006-07 Serie B season, with Juventus in the second tier, he stayed and scored 11 league goals as the club won the title.",
+    "Career total: 501 league appearances and 110 goals; Czech Footballer of the Year four times, UEFA Team of the Year in 2003, 2004 and 2005.",
+    "As general manager, the Czech team reached the 2026 World Cup, its first in 20 years, after playoff wins on penalties over Ireland and Denmark."
+  ],
+  "no_joke_topics": [
+    "Juventus false-accounting case, the plea deal, the suspended sentence, the Italian football ban and any 'legal troubles' wording (news only if needed, never a joke).",
+    "Calciopoli and the revoked Juventus titles (club legal history).",
+    "Family: marriage to Dara Rolins, the wedding, the divorce from his first wife, his children (Ivana, Pavel Jr.), Ivana's engagement, and any rumour of family friction.",
+    "Health, injuries and exhaustion of players (the World Cup 'tired players' story is a sporting story, but no jokes about anyone's body or health).",
+    "Doping, war, politics, and Schick's personal reasons for leaving the national team.",
+    "Unverified allegations such as the Chovanec 'one phone call' claim: do not repeat as fact."
+  ],
+  "viral_moments": [
+    {
+      "title": "Nedvěd to Schick's criticism: 'I'm not one who looks for alibis' (Sept 2026)",
+      "why_provocative": "Directly answers a star striker's criticism of World Cup logistics; fans split on whether it is leadership or deflection.",
+      "link": "https://isport.blesk.cz/clanek/fotbal-reprezentace-liga-narodu/480027/nedved-o-schickove-kritice-ja-nejsem-ten-kdo-hleda-alibi-zajem-reprezentovat-stale-nema.html",
+      "youtube_link": null,
+      "youtube_search_phrase": "Nedvěd Schick alibi tisková konference září 2026",
+      "timestamp": null
+    },
+    {
+      "title": "'Koubek is still the right choice' - Nedvěd after the World Cup group-stage exit (June 2026)",
+      "why_provocative": "He backed the coach on 27 June; Koubek left two days later (29 June).",
+      "link": "https://www.irishexaminer.com/sport/soccer/arid-41870190.html",
+      "youtube_link": null,
+      "youtube_search_phrase": "Nedvěd Koubek je správná volba MS 2026 rozhovor",
+      "timestamp": null
+    },
+    {
+      "title": "Nedvěd on Rosický criticising Schick during the World Cup (21 June / July 2026)",
+      "why_provocative": "Rosický said on 16 June that Schick was cut off from the game; Nedvěd said on 21 June the timing was wrong. One-sided so far: Rosický had not replied by early July.",
+      "link": "https://www.tiscali.cz/spor-velkych-postav-ceskeho-fotbalu-nedved-se-kvuli-ms-pustil-do-rosickeho-699476",
+      "youtube_link": null,
+      "youtube_search_phrase": "Nedvěd Rosický spor MS 2026",
+      "timestamp": null
+    },
+    {
+      "title": "Nedvěd after Osijek: 'not up for discussion', full confidence in Denia (15-16 Nov 2026, ČT Sport interview)",
+      "why_provocative": "Backing a coach with six defeats and 0 points; the most quoted line of the week.",
+      "link": "https://www.fotbalportal.cz/cesko/synot-liga/81845-santi-denia-nedved-poborsky-spanelsky-fotbal-coufal-kvalita/",
+      "youtube_link": null,
+      "youtube_search_phrase": "Nedvěd ČT sport Denia plná důvěra Chorvatsko",
+      "timestamp": null
+    },
+    {
+      "title": "Czech football debate: Denia as an 'evolution mistake'? (YouTube debate)",
+      "why_provocative": "Public argument about whether the squad deserves criticism; useful for mood and facts, not a Nedvěd clip.",
+      "link": "https://www.youtube.com/watch?v=6mFMEOvXBKw",
+      "youtube_link": "https://www.youtube.com/watch?v=6mFMEOvXBKw",
+      "youtube_search_phrase": null,
+      "timestamp": null
+    }
+  ],
+  "footage_terms": [
+    {
+      "phrase": "Pavel Nedved Juventus goals compilation 2003",
+      "watermark_risk": "high: fan compilations often have logos and burned-in captions"
+    },
+    {
+      "phrase": "Nedved Ballon d'Or 2003 ceremony",
+      "watermark_risk": "medium: broadcaster logos"
+    },
+    {
+      "phrase": "Nedved Champions League 2003 semi-final Real Madrid yellow card",
+      "watermark_risk": "medium to high"
+    },
+    {
+      "phrase": "Nedved Euro 2004 Czech Republic highlights",
+      "watermark_risk": "medium"
+    },
+    {
+      "phrase": "Nedvěd tisková konference reprezentace 2026",
+      "watermark_risk": "low to medium: Czech TV (ČT sport) lower-thirds, subtitles possible"
+    },
+    {
+      "phrase": "Nedvěd Denia představení nového trenéra reprezentace",
+      "watermark_risk": "low: FAČR press conference, may have channel logo"
+    },
+    {
+      "phrase": "Česko Chorvatsko 1:2 Liga národů 2026 zkrácený sestřih",
+      "watermark_risk": "high: UEFA/broadcaster graphics, often burned-in subtitles"
+    },
+    {
+      "phrase": "Czech Republic vs England Nations League 2026 highlights Šulc red card",
+      "watermark_risk": "high"
+    },
+    {
+      "phrase": "Dara Rolins Pavel Nedvěd svatba",
+      "watermark_risk": "medium: tabloid logos; skip family footage for jokes"
+    },
+    {
+      "phrase": "Nedved free kick Lazio Juventus best goals",
+      "watermark_risk": "high"
+    }
+  ],
+  "flipbook_ideas": [
+    "Seven red-and-white shirts fall one after another like dominoes, ending on a tiny 'FIFA 53' sign (tied to the seven straight defeats and ranking drop).",
+    "A caricature Nedvěd with the long blond mane sweeps the pitch like a broom, collecting a pile of three red cards (tied to the three sendings off; no health or family angle).",
+    "Cartoon scoreboard showing 3-14 where the '3' is drawn as a tiny sad number next to a big '14' balloon.",
+    "Caricature Nedvěd holds a 'FULL CONFIDENCE' umbrella over a coach while rain falls as zeroes (0 points).",
+    "One lone shot on target drawn as a small sad football dribbling toward a huge Croatian goalkeeper (tied to the single shot on target in November).",
+    "Nedvěd in the 2003 Ballon d'Or pose swapping places with a bored GM in a suit, same blond mane both ways (past vs present)."
+  ],
+  "image_reference_notes": {
+    "signature_look": "Long blond hair worn loose or pushed back, lean athletic build, intense serious face, strong jaw; Italian fans called him 'Furia Ceca'.",
+    "current_look": "UNVERIFIED: no reliable photo description of his 2026 look was found in the sources used. Public photos usually show short, grey-tinged hair and business wear as general manager; confirm with a current press photo before drawing.",
+    "kit_colours": "Juventus black-and-white stripes (No. 11), Lazio sky blue, Sparta dark red, Czech Republic red with white and blue accents.",
+    "expressions": "Fierce, tight-lipped determination; pointing and shouting at teammates; rare broad smile.",
+    "signature_pose": "Running full tilt with fist clenched and long hair flying; also arms pumping after a goal; as GM, hands folded and serious expression at press tables."
+  },
+  "claims": [
+    {
+      "claim": "FIFA November 2026 ranking (18 Nov): Czechia 53rd with 1,451 points, lowest since September 2017; was 39th in September 2025.",
+      "source_url": "https://tiscali.cz/cesky-fotbal-se-dal-propada-v-zebricku-fifa-je-na-tom-nejhur-za-poslednich-9-let-810152",
+      "confidence": "high"
+    },
+    {
+      "claim": "Czechia lost all six Nations League A3 games with 3 goals scored and 14 conceded and was relegated to League B.",
+      "source_url": "https://isport.blesk.cz/clanek/fotbal-reprezentace-liga-narodu/482186/nedved-denia-ma-plnou-duveru-nikdy-nebudeme-hrat-spanelsky-fotbal-rekl-poborsky.html",
+      "confidence": "high"
+    },
+    {
+      "claim": "Final A3 table: England 15, Spain 15, Croatia 6, Czechia 0.",
+      "source_url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Nations_League",
+      "confidence": "high"
+    },
+    {
+      "claim": "Croatia beat Czechia 2-1 in Osijek on 15 November 2026.",
+      "source_url": "https://www.fotbalportal.cz/cesko/synot-liga/81845-santi-denia-nedved-poborsky-spanelsky-fotbal-coufal-kvalita/",
+      "confidence": "high"
+    },
+    {
+      "claim": "Nedvěd said a Denia dismissal is not up for discussion and the federation has full confidence.",
+      "source_url": "https://www.tiscali.cz/po-seste-porazce-se-zacina-mluvit-o-pozici-kouce-denii-manazer-nedved-odmitl-diskuzi-807652",
+      "confidence": "high"
+    },
+    {
+      "claim": "Nedvěd cannot dismiss the coach alone; the FAČR executive committee decides.",
+      "source_url": "https://www.tiscali.cz/po-seste-porazce-se-zacina-mluvit-o-pozici-kouce-denii-manazer-nedved-odmitl-diskuzi-807652",
+      "confidence": "high"
+    },
+    {
+      "claim": "Three red cards in six Nations League games: Šulc (25' v England), Krejčí (85' at Spain), Krejčí (72' v Spain at home).",
+      "source_url": "https://www.tiscali.cz/po-seste-porazce-se-zacina-mluvit-o-pozici-kouce-denii-manazer-nedved-odmitl-diskuzi-807652",
+      "confidence": "high"
+    },
+    {
+      "claim": "Seven-match losing run (Mexico + six NL games) is the longest in Czech and Czechoslovak national team history.",
+      "source_url": "https://www.tiscali.cz/jedna-strela-za-dva-zapasy-karel-poborsky-kritizuje-vykony-pod-koucem-deniou-808571",
+      "confidence": "high"
+    },
+    {
+      "claim": "Only one shot on target across the two November matches (v Spain and at Croatia); Croatia had 8 shots on target in Osijek.",
+      "source_url": "https://www.tiscali.cz/jedna-strela-za-dva-zapasy-karel-poborsky-kritizuje-vykony-pod-koucem-deniou-808571",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Denia used 37 players this autumn, 12 of them debutants (Nedvěd).",
+      "source_url": "https://www.tiscali.cz/jedna-strela-za-dva-zapasy-karel-poborsky-kritizuje-vykony-pod-koucem-deniou-808571",
+      "confidence": "high"
+    },
+    {
+      "claim": "Nedvěd criticised Sparta: no Sparta player in the November squad, first time since Nov 2022.",
+      "source_url": "https://www.ruik.cz/nedved-verejne-tlaci-na-spartu-hraje-s-jednim-cechem-mluvil-jsem-s-vedenim/",
+      "confidence": "high"
+    },
+    {
+      "claim": "Nedvěd said the door is open for Schick, but the team did not contact him before the November camp.",
+      "source_url": "https://www.ceskenoviny.cz/zpravy/schick-ma-dvere-otevrene-ale-ted-jsme-ho-znovu-oslovovat-nechteli-rekl-nedved/2898396",
+      "confidence": "high"
+    },
+    {
+      "claim": "England beat Czechia 3-0 at Wembley on 6 Oct 2026 (Coufal own goal 27', Kane 40' and 57').",
+      "source_url": "https://www.sportsmole.co.uk/football/england/uefa-nations-league/result/kane-caps-special-night-with-a-brace-as-england-near-last-eight-nations-league-spot_606349.html",
+      "confidence": "high"
+    },
+    {
+      "claim": "Czechia lost 0-2 to England in Prague with Šulc sent off in the 25th minute after a VAR review (Sky report dated 30 Sept 2026).",
+      "source_url": "https://www.skysports.com/football/news/13593441/czech-republic-0-2-england-anthony-gordon-harry-kane-net-to-give-three-lions-first-nations-league-win",
+      "confidence": "high"
+    },
+    {
+      "claim": "Spain beat Czechia 3-1 on 3 Oct 2026; Spain won 2-0 in Prague on 12 Nov 2026.",
+      "source_url": "https://bolavip.com/en/soccer/czechia-vs-spain-how-to-watch-live-stream-tv-channel-and-time-for-a-uefa-nations-league-game-on-november-12-2026",
+      "confidence": "high"
+    },
+    {
+      "claim": "Santi Denia was appointed on 31 July 2026, first foreign coach, two-year contract with an option.",
+      "source_url": "https://www.praguedaily.news/2026/08/01/vamos-czech-republic-spaniard-santi-denia-named-new-czech-national-team-coach/",
+      "confidence": "high"
+    },
+    {
+      "claim": "Denia's first squad (18 Sept 2026): 15 of the 26 World Cup players kept, Schick not available.",
+      "source_url": "https://www.tiscali.cz/spousta-hracu-na-hrane-manazer-narodaku-nedved-popsal-zemetreseni-v-nominaci-764030",
+      "confidence": "high"
+    },
+    {
+      "claim": "Nedvěd said 'I'm not one who looks for alibis' and a nutrition adviser was added to the camp.",
+      "source_url": "https://isport.blesk.cz/clanek/fotbal-reprezentace-liga-narodu/480027/nedved-o-schickove-kritice-ja-nejsem-ten-kdo-hleda-alibi-zajem-reprezentovat-stale-nema.html",
+      "confidence": "high"
+    },
+    {
+      "claim": "Schick criticised World Cup logistics in a piece dated 28 August 2026.",
+      "source_url": "https://isport.blesk.cz/clanek/fotbal-reprezentace-liga-narodu/480027/nedved-o-schickove-kritice-ja-nejsem-ten-kdo-hleda-alibi-zajem-reprezentovat-stale-nema.html",
+      "confidence": "high"
+    },
+    {
+      "claim": "Chovanec reportedly said Nedvěd ended Koubek's reign with one phone call (quote not found in a transcript).",
+      "source_url": "https://sportyzive.cz/fotbal/jozef-chovanec-promluvil-o-pomerech-v-ceskem-fotbalu/",
+      "confidence": "low"
+    },
+    {
+      "claim": "Nedvěd married Dara Rolins on 2 September 2026; Blesk says the ceremony was near Lake Maggiore, Italy, but location is not explicitly confirmed.",
+      "source_url": "https://www.blesk.cz/clanek/celebrity-ceske-celebrity/847310/dara-rolins-a-pavel-nedved-tajna-svatba.html",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Nedvěd's adult children reportedly missed the wedding; no confirmed evidence of any family conflict.",
+      "source_url": "https://time.news/pavel-nedved-family-faces-scrutiny-after-wedding-absence/",
+      "confidence": "low"
+    },
+    {
+      "claim": "Nedvěd is leaving the Fotbal HK 1905 (Hradec Králové) ownership group and billionaire Ondřej Tomek is now majority owner (Forbes); percentages, date and reason not verified.",
+      "source_url": "https://forbes.cz/miliardar-tomek-je-vetsinovym-majitelem-fotbaloveho-hradce-nedved-odchazi/",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Nedvěd admitted mistakes after the World Cup exit (iSport interview, 7 July 2026).",
+      "source_url": "https://isport.blesk.cz/clanek/fotbal-reprezentace-ms-fotbal-2026/477408/nedvedova-zpoved-o-vztahu-s-koubkem-i-chybach-unaveni-a-bez-radosti-mel-jsem-reagovat.html",
+      "confidence": "high"
+    },
+    {
+      "claim": "Czechia reached the 2026 World Cup via playoffs, beating Ireland and Denmark on penalties, and left with 1 point from 3 games including a 0-3 loss to Mexico.",
+      "source_url": "https://www.irishexaminer.com/sport/soccer/arid-41870190.html",
+      "confidence": "high"
+    },
+    {
+      "claim": "Koubek left on 29 June 2026 by mutual agreement with FAČR chairman Trunda; Trunda said on 2 July that Nedvěd's departure was not on the table.",
+      "source_url": "https://sportyzive.cz/fotbal/jozef-chovanec-promluvil-o-pomerech-v-ceskem-fotbalu/",
+      "confidence": "high"
+    },
+    {
+      "claim": "Nedvěd has been general manager of the Czech national teams since June 2025.",
+      "source_url": "https://tribuna.com/en/news/2025-06-29-pavel-nedved-appointed-general-manager-of-czech-national-teams/",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Euro 2028 qualifying draw on 6 December 2026; Czechia not in the top pot.",
+      "source_url": "https://www.tiscali.cz/jedna-strela-za-dva-zapasy-karel-poborsky-kritizuje-vykony-pod-koucem-deniou-808571",
+      "confidence": "high"
+    },
+    {
+      "claim": "Rome judge accepted plea deals on 22 Sept 2025: Nedvěd suspended 1 year 2 months, Agnelli 1 year 8 months, Juventus fined 156,000 euros; no admission of guilt.",
+      "source_url": "https://www.echo24.cz/a/HEqVx/zpravy-domov-denik-nedved-odsouzen",
+      "confidence": "high"
+    },
+    {
+      "claim": "2002-03: 43 appearances, 14 goals in all competitions; Ballon d'Or 2003; missed the Champions League final suspended.",
+      "source_url": "https://en.wikipedia.org/wiki/Pavel_Nedv%C4%9Bd",
+      "confidence": "high"
+    },
+    {
+      "claim": "Career: Sparta 1992-96, Lazio 1996-2001, Juventus 2001-2009; 501 league appearances and 110 goals; Serie A titles 1999-2000 (Lazio), 2001-02 and 2002-03 (Juventus).",
+      "source_url": "https://en.wikipedia.org/wiki/Pavel_Nedv%C4%9Bd",
+      "confidence": "high"
+    },
+    {
+      "claim": "91 caps and 18 goals for Czechia; captain at Euro 2004 (semi-final loss to Greece, Team of the Tournament); Euro 1996 final lost 2-1 to Germany on a golden goal.",
+      "source_url": "https://en.wikipedia.org/wiki/Pavel_Nedv%C4%9Bd",
+      "confidence": "high"
+    },
+    {
+      "claim": "Returned from international retirement for the 2006 World Cup; Czechia finished third in the group.",
+      "source_url": "https://en.wikipedia.org/wiki/Pavel_Nedv%C4%9Bd",
+      "confidence": "high"
+    },
+    {
+      "claim": "Scored 11 league goals in Juventus's 2006-07 Serie B title season.",
+      "source_url": "https://en.wikipedia.org/wiki/Pavel_Nedv%C4%9Bd",
+      "confidence": "high"
+    },
+    {
+      "claim": "Czech Footballer of the Year four times (1998, 2000, 2003, 2004); UEFA Team of the Year 2003, 2004, 2005.",
+      "source_url": "https://en.wikipedia.org/wiki/Pavel_Nedv%C4%9Bd",
+      "confidence": "high"
+    },
+    {
+      "claim": "Sent off three times in his first six matches at Sparta; critics called him overly aggressive and accused him of diving.",
+      "source_url": "https://en.wikipedia.org/wiki/Pavel_Nedv%C4%9Bd",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Nicknames 'Furia Ceca' and 'Méďa'; long blond hair.",
+      "source_url": "https://en.wikipedia.org/wiki/Pavel_Nedv%C4%9Bd",
+      "confidence": "high"
+    },
+    {
+      "claim": "Ran the Prague Half Marathon in 2010 and the Prague Marathon in 2012.",
+      "source_url": "https://en.wikipedia.org/wiki/Pavel_Nedv%C4%9Bd",
+      "confidence": "medium"
+    }
+  ],
+  "verification": {
+    "checked": 71,
+    "corrected": 18,
+    "removed": 3,
+    "notes": "Adversarial check on 2026-11-20 by opening cited URLs (Tiscali, iSport, Blesk, ČTK/ceskenoviny, Sky, Sports Mole, Bolavip, Irish Examiner, Echo24, Praguedaily, Wikipedia en/cs). Confirmed: FIFA rank 53rd/1,451 and 39th in Sept 2025; A3 table (ENG 15, ESP 15, CRO 6, CZE 0; GF 3, GA 14); all six scores; 3 red cards; seven-loss run; 37 players/12 debutants; Denia appointed 31 Jul, two-year deal; WC playoffs v Ireland/Denmark on penalties and 0-3 v Mexico with 1 point; Euro 2028 draw 6 Dec in Belfast; plea deal terms; Ballon d'Or and career stats. Corrected: wedding location only reported, not confirmed; Hradec Králové entry removed (no date, shares or reason in Forbes); Schick '26 goals in 56 caps' removed; Poborský 'did not call for sacking' unsupported; shots-on-target wording for Oct games; Sept match date likely 29 Sept; Koubek claim re Nedvěd staying; career start 1990; Serie A Footballer of the Year was shared with Totti; Rosický dispute is one-sided. Remaining gaps: Spain-away Krejčí red minute (85' in one table, other source unclear); Al Shabab exit not documented; GM start date June 2025 only from cs.wikipedia (tribuna 403); WebSearch budget exhausted, so independent-search checks were limited to opened URLs; the checker could not open fotbal.cz/infotbal.cz."
+  }
+}

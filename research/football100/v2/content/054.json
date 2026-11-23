@@ -1,0 +1,570 @@
+{
+ "no": 54,
+ "style": "FLAT-POP",
+ "prop": "balloon",
+ "cast": {
+  "gA": {
+   "role": "player",
+   "number": "10",
+   "shirt": "#8b1e3f",
+   "hair": "#2b2b3a"
+  },
+  "gB": {
+   "role": "player",
+   "number": "9",
+   "shirt": "#f4f4f4",
+   "hair": "#d9c27a"
+  },
+  "vusk": {
+   "role": "rookie",
+   "number": "5",
+   "shirt": "#2d7dd2",
+   "hair": "#2b2b3a"
+  },
+  "seller": {
+   "role": "boss",
+   "shirt": "#2d9cdb",
+   "hair": "#6b4a2a"
+  },
+  "club1": {
+   "role": "fan",
+   "shirt": "#d94f4f",
+   "hair": "#a03a2a"
+  },
+  "club2": {
+   "role": "pundit",
+   "shirt": "#3fb8af",
+   "hair": "#2b2b3a"
+  }
+ },
+ "sequences": {
+  "s01": {
+   "type": "HOOK",
+   "q": "Barca or Real: who gets him?",
+   "prop": "suitcase",
+   "emote": "sweat",
+   "board": "stamp"
+  },
+  "s02": {
+   "type": "COMIC",
+   "bg": "training",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "gA",
+       "x": 250,
+       "y": 1440,
+       "pose": "lean",
+       "emote": "neutral",
+       "scale": 1.4
+      },
+      {
+       "id": "gB",
+       "x": 830,
+       "y": 1440,
+       "pose": "lean",
+       "emote": "neutral",
+       "scale": 1.4,
+       "flip": true
+      },
+      {
+       "id": "vusk",
+       "x": 540,
+       "y": 1440,
+       "pose": "present",
+       "emote": "sweat",
+       "scale": 1.0
+      }
+     ],
+     "props": [
+      {
+       "kind": "shelf",
+       "x": 540,
+       "y": 1130,
+       "scale": 2.6,
+       "layer": "front"
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.42,
+     "actors": [
+      {
+       "id": "gA",
+       "x": 215,
+       "y": 1440,
+       "pose": "lean",
+       "emote": "angry-cheeky",
+       "scale": 1.4
+      },
+      {
+       "id": "gB",
+       "x": 865,
+       "y": 1440,
+       "pose": "lean",
+       "emote": "angry-cheeky",
+       "scale": 1.4,
+       "flip": true
+      },
+      {
+       "id": "vusk",
+       "x": 540,
+       "y": 1440,
+       "pose": "present",
+       "emote": "shock",
+       "scale": 1.0
+      }
+     ],
+     "props": [
+      {
+       "kind": "shelf",
+       "x": 540,
+       "y": 1130,
+       "scale": 3.0,
+       "layer": "front"
+      }
+     ],
+     "cam": "push"
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.42,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "gA",
+       "x": 215,
+       "y": 1440,
+       "pose": "lean",
+       "emote": "angry-cheeky",
+       "scale": 1.4
+      },
+      {
+       "id": "gB",
+       "x": 865,
+       "y": 1440,
+       "pose": "lean",
+       "emote": "angry-cheeky",
+       "scale": 1.4,
+       "flip": true
+      },
+      {
+       "id": "vusk",
+       "x": 540,
+       "y": 1440,
+       "pose": "shock",
+       "emote": "shock",
+       "scale": 1.0
+      }
+     ],
+     "props": [
+      {
+       "kind": "shelf",
+       "x": 540,
+       "y": 1130,
+       "scale": 3.4,
+       "layer": "front"
+      }
+     ],
+     "sfx": {
+      "text": "CREAK",
+      "x": 540,
+      "y": 560,
+      "r": 130
+     }
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "gA",
+       "x": 382,
+       "y": 1440,
+       "pose": "fall",
+       "emote": "dizzy",
+       "scale": 0.8,
+       "flip": true
+      },
+      {
+       "id": "gB",
+       "x": 712,
+       "y": 1440,
+       "pose": "fall",
+       "emote": "dizzy",
+       "scale": 0.8
+      },
+      {
+       "id": "vusk",
+       "x": 540,
+       "y": 1150,
+       "pose": "cheer",
+       "emote": "happy",
+       "scale": 1.3
+      }
+     ],
+     "props": [
+      {
+       "kind": "balloon",
+       "x": 540,
+       "y": 480,
+       "scale": 1.35,
+       "anim": "drop"
+      }
+     ],
+     "sfx": {
+      "text": "POP",
+      "x": 860,
+      "y": 640,
+      "r": 120
+     }
+    }
+   ]
+  },
+  "s03": {
+   "type": "NEWS",
+   "name": "Luka Vuskovic",
+   "fact": "Croatian centre-back",
+   "ticker": "The new Rodri",
+   "icons": [
+    "flag",
+    "goal",
+    "star"
+   ],
+   "role": "rookie",
+   "actor": "vusk"
+  },
+  "s04": {
+   "type": "INTERVIEW",
+   "label": "REPORTER ASKS",
+   "bubble": "Forty-six million pounds: any pressure?",
+   "answer": {
+    "icon": "sofa",
+    "gesture": "shrug",
+    "emote": "smug"
+   },
+   "subject": "Brighton's Vuskovic",
+   "subject_cast": "vusk"
+  },
+  "s05": {
+   "type": "PROVOC",
+   "q": "Is 46 million pounds a bargain?",
+   "a": "Bargain",
+   "b": "Pricey",
+   "split": [
+    57,
+    43
+   ],
+   "mood": "cheeky"
+  },
+  "s06": {
+   "type": "COMIC",
+   "bg": "street",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "seller",
+       "x": 280,
+       "y": 1440,
+       "pose": "sit",
+       "emote": "smug",
+       "scale": 1.35
+      }
+     ],
+     "props": [
+      {
+       "kind": "armchair",
+       "x": 280,
+       "y": 1250,
+       "scale": 3.0,
+       "layer": "back"
+      },
+      {
+       "kind": "shelf",
+       "x": 650,
+       "y": 1130,
+       "scale": 2.6,
+       "layer": "back"
+      },
+      {
+       "kind": "tag",
+       "x": 580,
+       "y": 520,
+       "scale": 2.0,
+       "face": "smug"
+      },
+      {
+       "kind": "balloon",
+       "x": 160,
+       "y": 560,
+       "scale": 1.4,
+       "anim": "float"
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.42,
+     "actors": [
+      {
+       "id": "seller",
+       "x": 280,
+       "y": 1440,
+       "pose": "sit",
+       "emote": "smug",
+       "scale": 1.35
+      },
+      {
+       "id": "club1",
+       "x": 640,
+       "y": 1440,
+       "pose": "tired",
+       "emote": "sweat",
+       "scale": 1.05,
+       "hold": {
+        "kind": "clock",
+        "hand": "L",
+        "scale": 0.5
+       }
+      },
+      {
+       "id": "club2",
+       "x": 880,
+       "y": 1440,
+       "pose": "tired",
+       "emote": "sweat",
+       "scale": 1.0,
+       "flip": true,
+       "hold": {
+        "kind": "clock",
+        "hand": "L",
+        "scale": 0.5
+       }
+      }
+     ],
+     "props": [
+      {
+       "kind": "armchair",
+       "x": 280,
+       "y": 1250,
+       "scale": 3.0,
+       "layer": "back"
+      },
+      {
+       "kind": "shelf",
+       "x": 650,
+       "y": 1130,
+       "scale": 2.6,
+       "layer": "back"
+      },
+      {
+       "kind": "tag",
+       "x": 580,
+       "y": 520,
+       "scale": 2.0,
+       "face": "smug"
+      },
+      {
+       "kind": "balloon",
+       "x": 160,
+       "y": 560,
+       "scale": 1.4,
+       "anim": "float"
+      }
+     ],
+     "cam": "pan"
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.42,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "seller",
+       "x": 280,
+       "y": 1440,
+       "pose": "sit",
+       "emote": "smug",
+       "scale": 1.35
+      },
+      {
+       "id": "club1",
+       "x": 640,
+       "y": 1440,
+       "pose": "headscratch",
+       "emote": "sweat",
+       "scale": 1.05
+      },
+      {
+       "id": "club2",
+       "x": 880,
+       "y": 1440,
+       "pose": "tired",
+       "emote": "sleepy",
+       "scale": 1.0,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "armchair",
+       "x": 280,
+       "y": 1250,
+       "scale": 3.0,
+       "layer": "back"
+      },
+      {
+       "kind": "shelf",
+       "x": 650,
+       "y": 1130,
+       "scale": 2.6,
+       "layer": "back"
+      },
+      {
+       "kind": "tag",
+       "x": 580,
+       "y": 520,
+       "scale": 2.0,
+       "face": "smug"
+      },
+      {
+       "kind": "balloon",
+       "x": 160,
+       "y": 560,
+       "scale": 1.4,
+       "anim": "float"
+      }
+     ],
+     "bubble": {
+      "who": "club1",
+      "text": "..."
+     }
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "seller",
+       "x": 280,
+       "y": 1440,
+       "pose": "cheer",
+       "emote": "wink",
+       "scale": 1.35,
+       "hold": {
+        "kind": "cup",
+        "hand": "R",
+        "scale": 0.6
+       }
+      },
+      {
+       "id": "club1",
+       "x": 640,
+       "y": 1440,
+       "pose": "shock",
+       "emote": "shock",
+       "scale": 1.05
+      },
+      {
+       "id": "club2",
+       "x": 850,
+       "y": 1440,
+       "pose": "facepalm",
+       "emote": "sad",
+       "scale": 1.0,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "armchair",
+       "x": 280,
+       "y": 1250,
+       "scale": 3.0,
+       "layer": "back"
+      },
+      {
+       "kind": "shelf",
+       "x": 650,
+       "y": 1130,
+       "scale": 2.6,
+       "layer": "back"
+      },
+      {
+       "kind": "tag",
+       "x": 580,
+       "y": 520,
+       "scale": 2.5,
+       "face": "happy",
+       "rot": 8
+      },
+      {
+       "kind": "balloon",
+       "x": 160,
+       "y": 560,
+       "scale": 1.4
+      },
+      {
+       "kind": "chart-up",
+       "x": 930,
+       "y": 780,
+       "scale": 1.1,
+       "anim": "pop"
+      }
+     ],
+     "fx": [
+      {
+       "kind": "sparkle",
+       "x": 580,
+       "y": 520
+      }
+     ]
+    }
+   ]
+  },
+  "s07": {
+   "type": "STATS",
+   "items": [
+    {
+     "icon": "coin",
+     "value": "46",
+     "suffix": "m",
+     "label": "Million pounds"
+    },
+    {
+     "icon": "calendar",
+     "value": "2031",
+     "label": "Contract to 2031"
+    },
+    {
+     "icon": "hourglass",
+     "value": "19",
+     "label": "He is nineteen"
+    }
+   ]
+  }
+ }
+}

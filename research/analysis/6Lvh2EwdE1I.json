@@ -1,0 +1,112 @@
+{
+ "video_id": "6Lvh2EwdE1I",
+ "topic": "Top 5 greatest football moments of all time (not ranked), cinematic collage: Zidane vs Materazzi 2006, Pele at 17, Lewandowski five goals, Mbappe hat-trick 2022, Anfield 4-4",
+ "hero": "Ronaldo Nazario (yellow Brazil kit with medal) as the title card",
+ "hero_role": "opening hero image",
+ "media_type_overall": "static photo(s)",
+ "hook": "Bald player in yellow Brazil shirt with medal, stadium behind, caption 'Top 5 Greatest football Moments of all time (Not Ranked)'",
+ "subtitle_style": "white bold sans-serif with black outline, centred caption; per-quadrant small captions in 2x2 collages",
+ "reaction_overlays": "2x2 collage grids, flash overlay at start, vignette",
+ "transition_summary": "Hard cuts with flash/cross-fade, title card repeated with fades; 2x2 collages each 1-2 s; fast, about 10 cuts in 9 s",
+ "audio_note": "cinematic music likely; description only",
+ "reuse_segments": [
+  {
+   "t0": 0,
+   "t1": 22,
+   "what": "Collage cards of famous moments with stills",
+   "origin_guess": "unknown",
+   "rights_risk": "high",
+   "how_to_reuse": "licensed stills or AI recreated illustrations"
+  }
+ ],
+ "frames": [
+  {
+   "idx": 1,
+   "t": 0,
+   "desc": "Ronaldo Nazario in yellow Brazil shirt with medal, caption title",
+   "type": "static_image",
+   "text_on_screen": "Top 5 Greatest football Moments of all time (Not Ranked)",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 2,
+   "t": 2,
+   "desc": "same title card, slight zoom",
+   "type": "static_image",
+   "text_on_screen": "Top 5 Greatest football Moments of all time (Not Ranked)",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 3,
+   "t": 4,
+   "desc": "same card with white fade",
+   "type": "static_image",
+   "text_on_screen": "Top 5 Greatest football Moments of all time (Not Ranked)",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 4,
+   "t": 6,
+   "desc": "same card, dark vignette",
+   "type": "static_image",
+   "text_on_screen": "Top 5 Greatest football Moments of all time (Not Ranked)",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 5,
+   "t": 8,
+   "desc": "washed-out white flash of card with blurred motion collage overlay",
+   "type": "static_image",
+   "text_on_screen": "",
+   "transition_to_next": "flash"
+  },
+  {
+   "idx": 6,
+   "t": 10,
+   "desc": "2x2 collage: Zidane vs Materazzi head-butt frames",
+   "type": "graphic_card",
+   "text_on_screen": "Zidane vs Materazzi in the world cup final 2006",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 7,
+   "t": 12,
+   "desc": "2x2 collage: black-and-white Pele and young Pele, caption",
+   "type": "graphic_card",
+   "text_on_screen": "17 Years Old Pele leads Brazil to World Cup Victory",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 8,
+   "t": 14,
+   "desc": "2x2 collage: Lewandowski kneel and Bayern 5-1 scoreboard",
+   "type": "graphic_card",
+   "text_on_screen": "Lewandowski 5 Goals in 9 Minutes",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 9,
+   "t": 16,
+   "desc": "2x2 collage: Mbappe hat-trick frames in blue France kit",
+   "type": "graphic_card",
+   "text_on_screen": "Kylian Mbappe Hattrick in world cup final 2022",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 10,
+   "t": 18,
+   "desc": "2x2 collage: Arsenal players celebrating, 4-4 scoreboard Liverpool Arsenal",
+   "type": "graphic_card",
+   "text_on_screen": "Anfield 4-4 thriller",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 11,
+   "t": 20,
+   "desc": "darkened fade of next collage",
+   "type": "graphic_card",
+   "text_on_screen": "",
+   "transition_to_next": "none"
+  }
+ ]
+}

@@ -1,0 +1,96 @@
+{
+ "no": 4,
+ "subject": "Cristiano Ronaldo",
+ "title": "Ronaldo's red card and the own goal debate",
+ "voice": "kokoro",
+ "comic": true,
+ "style": "simpsons",
+ "lines": [
+  {
+   "vo": "Ronaldo's first Champions League game for Juventus ended with a red card.",
+   "card": "First UCL red card",
+   "sfx": "referee whistle",
+   "footage": "Juventus v Valencia Ronaldo red card highlights"
+  },
+  {
+   "vo": "Five Ballons d'Or later, the headlines keep coming.",
+   "card": "Five Ballons d'Or",
+   "sfx": null,
+   "footage": "Ronaldo Ballon d'Or speech clip"
+  },
+  {
+   "vo": "At the 2006 World Cup came the Rooney incident. Then a season of boos. Red card, Rooney, boos. Classic.",
+   "card": "Rooney incident, 2006",
+   "sfx": null,
+   "footage": "2006 World Cup Rooney Ronaldo incident clip"
+  },
+  {
+   "vo": "At school he was expelled. By his own account, he threw a chair at a teacher. His first red card, basically.",
+   "card": "Chair, teacher, expelled",
+   "sfx": null,
+   "footage": "Ronaldo childhood interview clip"
+  },
+  {
+   "vo": "This October the league credited him with a goal. Opta logged it as an own goal. A goal with two owners.",
+   "card": "Own goal debate",
+   "sfx": "VAR beep",
+   "footage": "Al Nassr 3-1 Al Faisaly highlights"
+  },
+  {
+   "vo": "Thirty-five trophies. Seventeen Champions League goals in one season. Not bad for an expelled student.",
+   "card": "35 trophies",
+   "sfx": null,
+   "footage": "Ronaldo Champions League 2014 goals compilation"
+  },
+  {
+   "vo": "Now he is up for Best Middle East Player again. He won it last time. Keep the chairs on the floor.",
+   "card": "Shortlist again",
+   "sfx": "crowd cheer",
+   "footage": "Ronaldo award night clip"
+  },
+  {
+   "vo": "Think you can call the next one? Betting tips, news and predictions at aboutfootball dot UK.",
+   "card": "aboutfootball.UK",
+   "sfx": null,
+   "footage": "end card, no footage"
+  }
+ ],
+ "chars": 731,
+ "est_seconds": 41,
+ "footage_terms": [
+  "Ronaldo Juventus Valencia red card",
+  "Ronaldo 2014 Champions League goals",
+  "Ronaldo Al Nassr goals 2026",
+  "Ronaldo Ballon d'Or speech"
+ ],
+ "inserts": [
+  {
+   "after_line": 4,
+   "story": "A cartoon principal writes EXPELLED on a blackboard. A caricature of Ronaldo sits down on a school chair very gently, as if it might bite. Twist: the principal slides over a notebook and asks for an autograph.",
+   "characters": "generic cartoon principal; caricature of Cristiano Ronaldo",
+   "seconds": 3
+  },
+  {
+   "after_line": 5,
+   "story": "A cartoon VAR screen shows two scoreboards: one says RONALDO, one says OWN GOAL. A caricature of Ronaldo and a tiny cartoon defender tug at one ball like two kids. Twist: the ball splits in two, both roll into the net, and both scoreboards are happy.",
+   "characters": "generic cartoon referee and defender; caricature of Cristiano Ronaldo",
+   "seconds": 3
+  },
+  {
+   "after_line": 7,
+   "story": "A cartoon trophy cabinet is so full that its door is held shut by a single chair. A caricature of Ronaldo opens it and a flood of cups pours out. Twist: the last item is a tiny envelope marked Shortlist, and he puts the chair back, gently.",
+   "characters": "generic cartoon cabinet; caricature of Cristiano Ronaldo",
+   "seconds": 3
+  }
+ ],
+ "facts_used": [
+  "Red card in his first Champions League game for Juventus, vs Valencia (bo pack roast_past)",
+  "2006 World Cup Rooney incident; booed through 2006-07 (bo pack roast_past)",
+  "Expelled from school after throwing a chair at a teacher, own account per Wikipedia (bo pack roast_past, hedged)",
+  "Goal logged by Opta and others as own goal by Andrei Girotto; league credited Ronaldo, 3-1 vs Al Faisaly, 2026-10-23 (bo pack recent_news)",
+  "35 trophies; 17 Champions League goals in 2013-14 (bo pack praise)",
+  "Nominated again for Globe Soccer Best Middle East Player; won the category at the previous ceremony (bo pack recent_news 2026-11-18)"
+ ],
+ "comic_score": 8,
+ "notes": "after_line is 1-based index into lines. Part B: different stories from part A (no rested match, no retirement, no 985 hat-trick). Skipped: mother and Jesus row, Trump anecdote, hair clinics, and the 'Thank you, captain' story (used in 003). The school story is a hedged own-account item, so keep the 'by his own account' tag. Best Middle East Player: a shortlist, not a win. Punch-up pass: chair callback (school, red card, cabinet) is a gag on the hedged own-account story; 'expelled student' stays tied to his own account. No new facts."
+}

@@ -1,0 +1,626 @@
+{
+ "no": 37,
+ "style": "FLAT-POP",
+ "prop": "ball",
+ "cast": {
+  "brobbey": {
+   "role": "striker",
+   "shirt": "#d94f4f",
+   "hair": "#2b2b3a"
+  },
+  "ref": {
+   "role": "referee"
+  },
+  "coach": {
+   "role": "coach",
+   "shirt": "#2f6f5e",
+   "hair": "#bdbdbd"
+  },
+  "kit": {
+   "role": "staff",
+   "shirt": "#3f6fb5"
+  }
+ },
+ "sequences": {
+  "s01": {
+   "type": "HOOK",
+   "q": "How did Sunderland finally beat Chelsea?",
+   "prop": "calendar",
+   "emote": "shock",
+   "board": "stamp"
+  },
+  "s02": {
+   "type": "COMIC",
+   "bg": "stadium",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "brobbey",
+       "x": 275,
+       "y": 1440,
+       "pose": "fall",
+       "emote": "dizzy",
+       "scale": 0.95
+      },
+      {
+       "id": "ref",
+       "x": 850,
+       "y": 1440,
+       "pose": "point",
+       "emote": "angry-cheeky",
+       "scale": 1.2,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "goal",
+       "x": 540,
+       "y": 640,
+       "scale": 3.0
+      },
+      {
+       "kind": "flag",
+       "x": 110,
+       "y": 860,
+       "scale": 1.4
+      },
+      {
+       "kind": "cross",
+       "x": 650,
+       "y": 1400,
+       "scale": 0.9
+      },
+      {
+       "kind": "ball",
+       "x": 950,
+       "y": 1480,
+       "scale": 1.3,
+       "anim": "slide-r"
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.44,
+     "actors": [
+      {
+       "id": "brobbey",
+       "x": 275,
+       "y": 1440,
+       "pose": "fall",
+       "emote": "dizzy",
+       "scale": 0.95
+      },
+      {
+       "id": "ref",
+       "x": 850,
+       "y": 1440,
+       "pose": "point",
+       "emote": "smug",
+       "scale": 1.2,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "goal",
+       "x": 540,
+       "y": 640,
+       "scale": 3.0
+      },
+      {
+       "kind": "flag",
+       "x": 110,
+       "y": 860,
+       "scale": 1.4
+      },
+      {
+       "kind": "cross",
+       "x": 650,
+       "y": 1400,
+       "scale": 0.9
+      },
+      {
+       "kind": "ball",
+       "x": 650,
+       "y": 1385,
+       "scale": 1.3,
+       "anim": "spin"
+      }
+     ],
+     "cam": "push"
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.44,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "brobbey",
+       "x": 275,
+       "y": 1440,
+       "pose": "fall",
+       "emote": "dizzy",
+       "scale": 0.95
+      },
+      {
+       "id": "ref",
+       "x": 850,
+       "y": 1440,
+       "pose": "shrug",
+       "emote": "sweat",
+       "scale": 1.2,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "goal",
+       "x": 540,
+       "y": 640,
+       "scale": 3.0
+      },
+      {
+       "kind": "flag",
+       "x": 110,
+       "y": 860,
+       "scale": 1.4
+      },
+      {
+       "kind": "cross",
+       "x": 650,
+       "y": 1400,
+       "scale": 0.9
+      },
+      {
+       "kind": "ball",
+       "x": 650,
+       "y": 1385,
+       "scale": 1.5,
+       "anim": "shake",
+       "face": "sweat"
+      }
+     ],
+     "bubble": {
+      "who": "ball",
+      "icon": "sweat-drop"
+     }
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "brobbey",
+       "x": 275,
+       "y": 1440,
+       "pose": "cheer",
+       "emote": "happy",
+       "scale": 0.95
+      },
+      {
+       "id": "ref",
+       "x": 850,
+       "y": 1440,
+       "pose": "thumbsup",
+       "emote": "wink",
+       "scale": 1.2,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "goal",
+       "x": 540,
+       "y": 640,
+       "scale": 3.0
+      },
+      {
+       "kind": "flag",
+       "x": 110,
+       "y": 860,
+       "scale": 1.4
+      },
+      {
+       "kind": "cross",
+       "x": 650,
+       "y": 1400,
+       "scale": 0.9
+      },
+      {
+       "kind": "ball",
+       "x": 540,
+       "y": 740,
+       "scale": 0.9,
+       "face": "happy"
+      }
+     ],
+     "sfx": {
+      "text": "DING",
+      "x": 330,
+      "y": 790,
+      "r": 100
+     },
+     "fx": [
+      {
+       "kind": "confetti",
+       "x": 540,
+       "y": 560,
+       "size": 1.4
+      },
+      {
+       "kind": "confetti",
+       "x": 220,
+       "y": 640,
+       "size": 1.0
+      }
+     ]
+    }
+   ]
+  },
+  "s03": {
+   "type": "NEWS",
+   "name": "Brian Brobbey",
+   "fact": "Brian Brobbey was brought down",
+   "ticker": "Le Fee penalty",
+   "icons": [
+    "whistle",
+    "ball",
+    "stopwatch"
+   ],
+   "role": "striker",
+   "actor": "brobbey"
+  },
+  "s04": {
+   "type": "PROVOC",
+   "q": "Sunderland up, Chelsea down: fair swap?",
+   "a": "Fair swap",
+   "b": "Pure chaos",
+   "split": [
+    58,
+    42
+   ],
+   "mood": "cheeky"
+  },
+  "s05": {
+   "type": "INTERVIEW",
+   "label": "REPORTER ASKS",
+   "bubble": "Were Chelsea bullied?",
+   "answer": {
+    "icon": "clipboard",
+    "gesture": "headscratch"
+   },
+   "subject": "Xabi Alonso",
+   "subject_role": "coach"
+  },
+  "s06": {
+   "type": "COMIC",
+   "bg": "office",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.22,
+     "actors": [
+      {
+       "id": "coach",
+       "x": 300,
+       "y": 1440,
+       "pose": "tired",
+       "emote": "sad",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "desk",
+       "x": 430,
+       "y": 1340,
+       "scale": 2.4,
+       "layer": "front"
+      },
+      {
+       "kind": "notepad",
+       "x": 250,
+       "y": 1190,
+       "scale": 0.9
+      },
+      {
+       "kind": "ball",
+       "x": 480,
+       "y": 1190,
+       "scale": 0.7
+      },
+      {
+       "kind": "flag",
+       "x": 380,
+       "y": 1180,
+       "scale": 0.6
+      },
+      {
+       "kind": "bolt",
+       "x": 300,
+       "y": 520,
+       "scale": 1.4,
+       "anim": "shake"
+      }
+     ],
+     "fx": [
+      {
+       "kind": "smoke",
+       "x": 300,
+       "y": 700,
+       "size": 0.8
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.22,
+     "t1": 0.42,
+     "actors": [
+      {
+       "id": "coach",
+       "x": 300,
+       "y": 1440,
+       "pose": "tired",
+       "emote": "sad",
+       "scale": 1.4
+      },
+      {
+       "id": "kit",
+       "x": 900,
+       "y": 1440,
+       "pose": "run",
+       "emote": "happy",
+       "scale": 1.2,
+       "flip": true,
+       "hold": {
+        "kind": "gift",
+        "hand": "both",
+        "scale": 0.8
+       }
+      }
+     ],
+     "props": [
+      {
+       "kind": "desk",
+       "x": 430,
+       "y": 1340,
+       "scale": 2.4,
+       "layer": "front"
+      },
+      {
+       "kind": "notepad",
+       "x": 250,
+       "y": 1190,
+       "scale": 0.9
+      },
+      {
+       "kind": "ball",
+       "x": 480,
+       "y": 1190,
+       "scale": 0.7
+      },
+      {
+       "kind": "flag",
+       "x": 380,
+       "y": 1180,
+       "scale": 0.6
+      },
+      {
+       "kind": "bolt",
+       "x": 300,
+       "y": 520,
+       "scale": 1.4,
+       "anim": "shake"
+      }
+     ],
+     "fx": [
+      {
+       "kind": "smoke",
+       "x": 300,
+       "y": 700,
+       "size": 0.8
+      }
+     ],
+     "cam": "pan"
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.42,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "coach",
+       "x": 300,
+       "y": 1440,
+       "pose": "shock",
+       "emote": "shock",
+       "scale": 1.4
+      },
+      {
+       "id": "kit",
+       "x": 880,
+       "y": 1440,
+       "pose": "present",
+       "emote": "happy",
+       "scale": 1.2,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "desk",
+       "x": 430,
+       "y": 1340,
+       "scale": 2.4,
+       "layer": "front"
+      },
+      {
+       "kind": "notepad",
+       "x": 250,
+       "y": 1190,
+       "scale": 0.9
+      },
+      {
+       "kind": "ball",
+       "x": 480,
+       "y": 1190,
+       "scale": 0.7
+      },
+      {
+       "kind": "flag",
+       "x": 380,
+       "y": 1180,
+       "scale": 0.6
+      },
+      {
+       "kind": "bolt",
+       "x": 300,
+       "y": 520,
+       "scale": 1.4,
+       "anim": "shake"
+      },
+      {
+       "kind": "gift",
+       "x": 600,
+       "y": 1140,
+       "scale": 1.3,
+       "anim": "drop"
+      }
+     ],
+     "sfx": {
+      "text": "THUD",
+      "x": 720,
+      "y": 800,
+      "r": 120
+     },
+     "fx": [
+      {
+       "kind": "smoke",
+       "x": 300,
+       "y": 700,
+       "size": 0.8
+      }
+     ]
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "coach",
+       "x": 300,
+       "y": 1440,
+       "pose": "cheer",
+       "emote": "happy",
+       "scale": 1.4
+      },
+      {
+       "id": "kit",
+       "x": 880,
+       "y": 1440,
+       "pose": "thumbsup",
+       "emote": "wink",
+       "scale": 1.2,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "desk",
+       "x": 430,
+       "y": 1340,
+       "scale": 2.4,
+       "layer": "front"
+      },
+      {
+       "kind": "notepad",
+       "x": 250,
+       "y": 1190,
+       "scale": 0.9
+      },
+      {
+       "kind": "ball",
+       "x": 480,
+       "y": 1190,
+       "scale": 0.7
+      },
+      {
+       "kind": "flag",
+       "x": 380,
+       "y": 1180,
+       "scale": 0.6
+      },
+      {
+       "kind": "star",
+       "x": 300,
+       "y": 520,
+       "scale": 1.6,
+       "anim": "pulse"
+      },
+      {
+       "kind": "trophy",
+       "x": 600,
+       "y": 1110,
+       "scale": 0.9,
+       "anim": "pop",
+       "face": "happy"
+      }
+     ],
+     "fx": [
+      {
+       "kind": "sparkle",
+       "x": 300,
+       "y": 540
+      },
+      {
+       "kind": "sparkle",
+       "x": 600,
+       "y": 1080
+      }
+     ]
+    }
+   ]
+  },
+  "s07": {
+   "type": "STATS",
+   "items": [
+    {
+     "icon": "cross",
+     "value": "2-0",
+     "label": "Dinamo Zagreb"
+    },
+    {
+     "icon": "trophy",
+     "value": "1",
+     "label": "win from nine"
+    },
+    {
+     "icon": "calendar",
+     "value": "1-0",
+     "label": "since August"
+    }
+   ]
+  }
+ }
+}

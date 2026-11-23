@@ -1,0 +1,618 @@
+{
+ "no": 42,
+ "style": "FLAT-POP",
+ "prop": "pizza",
+ "cast": {
+  "brady": {
+   "role": "boss",
+   "shirt": "#2b4a7a",
+   "hair": "#b79a6b"
+  },
+  "chair": {
+   "role": "boss",
+   "shirt": "#7a3b8a",
+   "hair": "#9a9aa4"
+  },
+  "striker": {
+   "role": "striker",
+   "number": "9",
+   "shirt": "#2f4fb0",
+   "hair": "#2b2b3a"
+  }
+ },
+ "sequences": {
+  "s01": {
+   "type": "HOOK",
+   "q": "Brady leaves, Birmingham top: coincidence?",
+   "prop": "crown",
+   "emote": "smug",
+   "board": "stamp"
+  },
+  "s02": {
+   "type": "COMIC",
+   "bg": "stadium",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "brady",
+       "x": 400,
+       "y": 1440,
+       "scale": 1.4,
+       "pose": "present",
+       "emote": "smug",
+       "label": "Tom Brady"
+      }
+     ],
+     "props": [
+      {
+       "kind": "door",
+       "x": 180,
+       "y": 1150,
+       "scale": 2.8,
+       "layer": "back"
+      },
+      {
+       "kind": "chart-down",
+       "x": 800,
+       "y": 560,
+       "scale": 1.8
+      },
+      {
+       "kind": "pizza",
+       "x": 620,
+       "y": 1130,
+       "scale": 0.9,
+       "anim": "float"
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.52,
+     "actors": [
+      {
+       "id": "brady",
+       "x": 400,
+       "y": 1440,
+       "scale": 1.4,
+       "pose": "shrug",
+       "emote": "sweat"
+      }
+     ],
+     "props": [
+      {
+       "kind": "door",
+       "x": 180,
+       "y": 1150,
+       "scale": 2.8,
+       "layer": "back"
+      },
+      {
+       "kind": "chart-up",
+       "x": 800,
+       "y": 560,
+       "scale": 1.8,
+       "anim": "pop"
+      },
+      {
+       "kind": "pizza",
+       "x": 620,
+       "y": 1130,
+       "scale": 0.9,
+       "anim": "float"
+      }
+     ],
+     "sfx": {
+      "text": "POP",
+      "x": 800,
+      "y": 380,
+      "r": 90
+     },
+     "cam": "push"
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.52,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "brady",
+       "x": 400,
+       "y": 1440,
+       "scale": 1.4,
+       "pose": "headscratch",
+       "emote": "shock",
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "door",
+       "x": 180,
+       "y": 1150,
+       "scale": 2.8,
+       "layer": "back"
+      },
+      {
+       "kind": "chart-up",
+       "x": 800,
+       "y": 560,
+       "scale": 1.8
+      },
+      {
+       "kind": "pizza",
+       "x": 700,
+       "y": 1090,
+       "scale": 2.1
+      },
+      {
+       "kind": "glasses",
+       "x": 700,
+       "y": 985,
+       "scale": 1.3
+      }
+     ],
+     "sfx": {
+      "text": "DING",
+      "x": 330,
+      "y": 470,
+      "r": 90
+     },
+     "fx": [
+      {
+       "kind": "sparkle",
+       "x": 700,
+       "y": 1090
+      }
+     ]
+    }
+   ]
+  },
+  "s03": {
+   "type": "NEWS",
+   "name": "Birmingham City",
+   "fact": "lead the Championship with twenty-nine points",
+   "ticker": "29 points, 15 games",
+   "icons": [
+    "ball",
+    "chart-up",
+    "trophy"
+   ],
+   "role": "fan"
+  },
+  "s04": {
+   "type": "COMIC",
+   "bg": "boardroom",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "brady",
+       "x": 290,
+       "y": 1440,
+       "scale": 1.3,
+       "pose": "idle",
+       "emote": "smug"
+      },
+      {
+       "id": "chair",
+       "x": 790,
+       "y": 1440,
+       "scale": 1.3,
+       "pose": "think",
+       "emote": "neutral",
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "table",
+       "x": 540,
+       "y": 1300,
+       "scale": 4.2,
+       "layer": "back"
+      },
+      {
+       "kind": "pizza",
+       "x": 540,
+       "y": 1010,
+       "scale": 1.4,
+       "anim": "drop",
+       "label": "3.3 percent"
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.52,
+     "actors": [
+      {
+       "id": "brady",
+       "x": 290,
+       "y": 1440,
+       "scale": 1.3,
+       "pose": "present",
+       "emote": "happy"
+      },
+      {
+       "id": "chair",
+       "x": 790,
+       "y": 1440,
+       "scale": 1.3,
+       "pose": "think",
+       "emote": "shock",
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "table",
+       "x": 540,
+       "y": 1300,
+       "scale": 4.2,
+       "layer": "back"
+      },
+      {
+       "kind": "pizza",
+       "x": 540,
+       "y": 880,
+       "scale": 2.0,
+       "rot": 14,
+       "anim": "bounce",
+       "label": "3.3 percent",
+       "face": "happy"
+      },
+      {
+       "kind": "cap",
+       "x": 530,
+       "y": 750,
+       "scale": 0.9,
+       "anim": "drop"
+      }
+     ],
+     "sfx": {
+      "text": "POP",
+      "x": 540,
+      "y": 440,
+      "r": 95
+     },
+     "cam": "push"
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.52,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "brady",
+       "x": 290,
+       "y": 1440,
+       "scale": 1.3,
+       "pose": "cheer",
+       "emote": "happy"
+      },
+      {
+       "id": "chair",
+       "x": 790,
+       "y": 1440,
+       "scale": 1.3,
+       "pose": "cheer",
+       "emote": "happy",
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "table",
+       "x": 540,
+       "y": 1300,
+       "scale": 4.2,
+       "layer": "back"
+      },
+      {
+       "kind": "pizza",
+       "x": 540,
+       "y": 880,
+       "scale": 2.0,
+       "label": "3.3 percent",
+       "face": "smug"
+      },
+      {
+       "kind": "cap",
+       "x": 540,
+       "y": 735,
+       "scale": 0.9
+      }
+     ],
+     "fx": [
+      {
+       "kind": "confetti",
+       "x": 540,
+       "y": 700
+      }
+     ]
+    }
+   ]
+  },
+  "s05": {
+   "type": "PROVOC",
+   "q": "Advisory boards: useful or just meetings?",
+   "a": "Useful",
+   "b": "Just meetings",
+   "split": [
+    38,
+    62
+   ],
+   "mood": "cheeky"
+  },
+  "s06": {
+   "type": "COMIC",
+   "bg": "office",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "chair",
+       "x": 290,
+       "y": 1440,
+       "scale": 1.4,
+       "pose": "present",
+       "emote": "smug"
+      },
+      {
+       "id": "striker",
+       "x": 790,
+       "y": 1440,
+       "scale": 1.4,
+       "pose": "idle",
+       "emote": "shock",
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "crate",
+       "x": 540,
+       "y": 1330,
+       "scale": 1.8
+      },
+      {
+       "kind": "coin",
+       "x": 540,
+       "y": 1190,
+       "scale": 1.2
+      },
+      {
+       "kind": "tag",
+       "x": 800,
+       "y": 430,
+       "scale": 1.1,
+       "label": "Record fifteen million",
+       "anim": "float"
+      },
+      {
+       "kind": "pizza",
+       "x": 720,
+       "y": 1390,
+       "scale": 0.9
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.52,
+     "actors": [
+      {
+       "id": "chair",
+       "x": 290,
+       "y": 1440,
+       "scale": 1.4,
+       "pose": "shock",
+       "emote": "shock"
+      },
+      {
+       "id": "striker",
+       "x": 790,
+       "y": 1440,
+       "scale": 1.4,
+       "pose": "idle",
+       "emote": "shock",
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "crate",
+       "x": 540,
+       "y": 1330,
+       "scale": 1.8
+      },
+      {
+       "kind": "coin",
+       "x": 540,
+       "y": 1190,
+       "scale": 1.4
+      },
+      {
+       "kind": "coin",
+       "x": 540,
+       "y": 1050,
+       "scale": 1.4,
+       "anim": "drop"
+      },
+      {
+       "kind": "coin",
+       "x": 540,
+       "y": 910,
+       "scale": 1.4,
+       "anim": "drop"
+      },
+      {
+       "kind": "coin",
+       "x": 540,
+       "y": 770,
+       "scale": 1.4,
+       "anim": "drop"
+      },
+      {
+       "kind": "tag",
+       "x": 800,
+       "y": 430,
+       "scale": 1.1,
+       "label": "Record fifteen million",
+       "anim": "float"
+      },
+      {
+       "kind": "pizza",
+       "x": 720,
+       "y": 1390,
+       "scale": 0.9
+      }
+     ],
+     "sfx": {
+      "text": "CLANG",
+      "x": 560,
+      "y": 450,
+      "r": 95
+     },
+     "cam": "push"
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.52,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "chair",
+       "x": 290,
+       "y": 1440,
+       "scale": 1.4,
+       "pose": "shock",
+       "emote": "sweat"
+      },
+      {
+       "id": "striker",
+       "x": 790,
+       "y": 1440,
+       "scale": 1.4,
+       "pose": "wave",
+       "emote": "happy",
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "crate",
+       "x": 540,
+       "y": 1330,
+       "scale": 1.8
+      },
+      {
+       "kind": "ball",
+       "x": 540,
+       "y": 1180,
+       "scale": 1.5,
+       "anim": "pop"
+      },
+      {
+       "kind": "ball",
+       "x": 540,
+       "y": 1030,
+       "scale": 1.5,
+       "anim": "pop"
+      },
+      {
+       "kind": "ball",
+       "x": 540,
+       "y": 880,
+       "scale": 1.5,
+       "anim": "pop"
+      },
+      {
+       "kind": "glasses",
+       "x": 540,
+       "y": 880,
+       "scale": 1.0
+      },
+      {
+       "kind": "tag",
+       "x": 800,
+       "y": 430,
+       "scale": 1.1,
+       "label": "Record fifteen million",
+       "anim": "float"
+      },
+      {
+       "kind": "pizza",
+       "x": 720,
+       "y": 1390,
+       "scale": 0.9
+      }
+     ],
+     "fx": [
+      {
+       "kind": "sparkle",
+       "x": 540,
+       "y": 950
+      }
+     ]
+    }
+   ]
+  },
+  "s07": {
+   "type": "STATS",
+   "items": [
+    {
+     "icon": "calendar",
+     "value": "83",
+     "label": "Days later"
+    },
+    {
+     "icon": "coin",
+     "value": "15",
+     "suffix": "m",
+     "label": "Record fifteen million"
+    }
+   ]
+  },
+  "s08": {
+   "type": "INTERVIEW",
+   "label": "REPORTER ASKS",
+   "bubble": "Why did Brady leave Birmingham?",
+   "answer": {
+    "icon": "door",
+    "gesture": "shrug"
+   },
+   "subject": "Tom Brady",
+   "subject_cast": "brady"
+  }
+ }
+}

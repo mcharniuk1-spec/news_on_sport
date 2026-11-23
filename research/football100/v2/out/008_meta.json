@@ -1,0 +1,98 @@
+{
+ "no": 8,
+ "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/008_kaka_ricardo_izecson_dos_santos_leit.mp4",
+ "total": 40.1,
+ "outro_start": 34.96,
+ "cover": true,
+ "seq": [
+  {
+   "id": "s01",
+   "kind": "HOOK",
+   "start": 0.1,
+   "end": 1.6,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/008/s01.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s02",
+   "kind": "COMIC1",
+   "start": 4.5,
+   "end": 6.5,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/008/s02.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s03",
+   "kind": "NEWS",
+   "start": 9.466666666666667,
+   "end": 11.233333333333333,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/008/s03.mp4",
+   "clip_dur": 1.766,
+   "frames": 42
+  },
+  {
+   "id": "s04",
+   "kind": "COMIC2",
+   "start": 14.266666666666667,
+   "end": 16.266666666666666,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/008/s04.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s05",
+   "kind": "PROVOC",
+   "start": 19.333333333333332,
+   "end": 20.833333333333332,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/008/s05.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s06",
+   "kind": "INTERVIEW",
+   "start": 23.4,
+   "end": 25.166666666666668,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/008/s06.mp4",
+   "clip_dur": 1.766,
+   "frames": 42
+  },
+  {
+   "id": "s07",
+   "kind": "STATS",
+   "start": 31.566666666666666,
+   "end": 33.06666666666667,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/008/s07.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  }
+ ],
+ "missing": [],
+ "dropped": [],
+ "cards": [
+  {
+   "text": "29 goals, 32 assists",
+   "a": 7.866666666666666,
+   "b": 9.333333333333334
+  },
+  {
+   "text": "Highest-paid, no playoffs",
+   "a": 29.233333333333334,
+   "b": 31.4
+  }
+ ],
+ "caption_sprites": 93,
+ "whoosh": [
+  0.0,
+  4.4,
+  9.366666666666667,
+  14.166666666666668,
+  19.23333333333333,
+  23.299999999999997,
+  31.466666666666665,
+  34.86
+ ],
+ "shots": 14
+}

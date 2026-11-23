@@ -1,0 +1,1592 @@
+{
+ "3": {
+  "cta_opener_type": "question",
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "verify_fact",
+    "action": "985 is one league's count; say 'by one count' or check a second tally."
+   },
+   {
+    "priority": "P2",
+    "category": "add_comment_bait",
+    "action": "End on 'Will he reach 1,000?' so viewers predict in comments."
+   },
+   {
+    "priority": "P2",
+    "category": "poster_title",
+    "action": "Shorten the bubble to 'SAT OUT A 6-2 WIN.'"
+   },
+   {
+    "priority": "P2",
+    "category": "vary_cta",
+    "action": "Replace 'Want the next story before it breaks?' (used in 25 videos)."
+   }
+  ]
+ },
+ "4": {
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "hook_rewrite",
+    "action": "Open on the own-goal row ('A goal with two owners') instead of the old red card."
+   },
+   {
+    "priority": "P2",
+    "category": "poster_title",
+    "action": "Replace the generic bubble with 'A GOAL WITH TWO OWNERS.'"
+   },
+   {
+    "priority": "P2",
+    "category": "verify_fact",
+    "action": "Keep 'by his own account' on the school chair story; confirm primary source."
+   },
+   {
+    "priority": "P2",
+    "category": "vary_cta",
+    "action": "Replace the CTA opener 'Think you can call the next one?' (used in 20 videos) with a line tied to this story."
+   },
+   {
+    "priority": "P2",
+    "category": "stronger_twist",
+    "action": "Story jumps across five topics; build to the own-goal dispute."
+   }
+  ]
+ },
+ "5": {
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "shorten",
+    "action": "603 chars exceed the 600 limit: trim one line, for example the fewer-men beat."
+   },
+   {
+    "priority": "P2",
+    "category": "improve_humour",
+    "action": "Explain or cut the confusing 'fewer men' quote; it lacks context."
+   },
+   {
+    "priority": "P2",
+    "category": "merge_or_drop",
+    "action": "Low UK appeal: consider swapping for a Cannavaro story with an English link."
+   },
+   {
+    "priority": "P2",
+    "category": "hook_rewrite",
+    "action": "Start with the score and the nine minutes, not the dream."
+   },
+   {
+    "priority": "P2",
+    "category": "add_comment_bait",
+    "action": "Ask whether fewer men really means more spirit."
+   },
+   {
+    "priority": "P2",
+    "category": "vary_cta",
+    "action": "Replace 'Think you can call the next one?' (used in 20 videos)."
+   },
+   {
+    "priority": "P3",
+    "category": "poster_title",
+    "action": "Lead with the number-plus-twist already in line 2."
+   }
+  ]
+ },
+ "7": {
+  "hook_type": "roast_jab",
+  "hook_type_alt": "news_flash",
+  "hook_type_why": "Plain event, then the jab: 'Nobody blamed the onions.'",
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "poster_title",
+    "action": "Put the onions joke on the poster to match the crying headline."
+   },
+   {
+    "priority": "P2",
+    "category": "stronger_twist",
+    "action": "Merge the loose Raphinha line into the Kaka legacy payoff; the video feels like a list."
+   },
+   {
+    "priority": "P2",
+    "category": "add_comment_bait",
+    "action": "Ask fans to name their favourite Kaka moment."
+   },
+   {
+    "priority": "P2",
+    "category": "improve_humour",
+    "action": "Soften or drop 'Brave' so the crying joke reads as warm."
+   },
+   {
+    "priority": "P2",
+    "category": "vary_cta",
+    "action": "Replace 'Your mates will never guess this' (used in 32 videos)."
+   }
+  ]
+ },
+ "8": {
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "shorten",
+    "action": "606 chars exceed the 600 limit: cut the Osasuna red card line."
+   },
+   {
+    "priority": "P1",
+    "category": "verify_fact",
+    "action": "Fee and Orlando salary are 'reportedly'; confirm with a primary source."
+   },
+   {
+    "priority": "P2",
+    "category": "poster_title",
+    "action": "Put the 'million euros each' gag on the poster bubble."
+   },
+   {
+    "priority": "P2",
+    "category": "vary_cta",
+    "action": "Replace 'Think you can call the next one?' (used in 20 videos)."
+   }
+  ]
+ },
+ "9": {
+  "cta_opener_type": "question",
+  "risk_flags": [
+   "betting_under18_appeal",
+   "negative_real_person",
+   "unverified_claim",
+   "overlap_other_video"
+  ],
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "verify_fact",
+    "action": "Confirm the Dubai flat purchase and Lyon return claims; keep 'reported' wording."
+   },
+   {
+    "priority": "P2",
+    "category": "poster_title",
+    "action": "Use 'His best signing: a Dubai flat' as the bubble."
+   },
+   {
+    "priority": "P2",
+    "category": "improve_humour",
+    "action": "Explain or cut the 2010 Mourinho cat reference; most UK viewers will not know it."
+   },
+   {
+    "priority": "P2",
+    "category": "add_comment_bait",
+    "action": "Ask: should Zidane have picked Benzema? Invite a vote."
+   },
+   {
+    "priority": "P2",
+    "category": "vary_cta",
+    "action": "Replace the CTA opener 'Want the next story before it breaks?' (used in 25 videos) with a line tied to this story."
+   },
+   {
+    "priority": "P2",
+    "category": "merge_or_drop",
+    "action": "Differentiate from 010: both use the six-months-at-Al-Hilal beat."
+   }
+  ]
+ },
+ "10": {
+  "risk_flags": [
+   "betting_under18_appeal",
+   "unverified_claim",
+   "overlap_other_video"
+  ],
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "hook_rewrite",
+    "action": "Fuse the first two lines: 'By 356 points, that was not a win, that was a lap of honour.'"
+   },
+   {
+    "priority": "P2",
+    "category": "verify_fact",
+    "action": "Confirm the 23m dollar ambassador deal and its clause with a primary source."
+   },
+   {
+    "priority": "P2",
+    "category": "merge_or_drop",
+    "action": "Differentiate from 009: both use the six-months-at-Al-Hilal beat."
+   },
+   {
+    "priority": "P2",
+    "category": "vary_cta",
+    "action": "Replace the CTA opener 'Your mates will never guess this.' (used in 32 videos) with a line tied to this story."
+   }
+  ]
+ },
+ "12": {
+  "risk_flags": [
+   "betting_under18_appeal",
+   "off_topic_footage_risk",
+   "unverified_claim",
+   "overlap_other_video"
+  ],
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "verify_fact",
+    "action": "Confirm the Nashville penalty miss and its footage before airing."
+   },
+   {
+    "priority": "P1",
+    "category": "footage_match",
+    "action": "Verify the Nashville penalty clip before using it as insert footage."
+   },
+   {
+    "priority": "P2",
+    "category": "merge_or_drop",
+    "action": "Trim the Ballon d'Or fifth beat; it overlaps video 19."
+   },
+   {
+    "priority": "P2",
+    "category": "vary_cta",
+    "action": "Replace the CTA opener 'Your mates will never guess this.' (used in 32 videos) with a line tied to this story."
+   },
+   {
+    "priority": "P2",
+    "category": "shorten",
+    "action": "Drop the Messi Cup line; five side stories blur the penalty hook."
+   },
+   {
+    "priority": "P2",
+    "category": "poster_title",
+    "action": "Use the HR-department joke on the cover bubble."
+   }
+  ]
+ },
+ "13": {
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "verify_fact",
+    "action": "Confirm the UEFA approach and Wenger refusal with a second primary report."
+   },
+   {
+    "priority": "P1",
+    "category": "add_second_source",
+    "action": "UEFA recruitment claim rests on one outlet; add a second source."
+   },
+   {
+    "priority": "P2",
+    "category": "add_comment_bait",
+    "action": "Ask whether a former player should run FIFA."
+   },
+   {
+    "priority": "P2",
+    "category": "poster_title",
+    "action": "Shorten bubble to the waiting-list joke."
+   },
+   {
+    "priority": "P2",
+    "category": "vary_cta",
+    "action": "Replace the CTA opener 'Think you can call the next one?' (used in 20 videos) with a line tied to this story."
+   }
+  ]
+ },
+ "14": {
+  "changes": [
+   {
+    "priority": "P2",
+    "category": "add_comment_bait",
+    "action": "End on a question: who would you back for the next Clasico?"
+   },
+   {
+    "priority": "P2",
+    "category": "improve_humour",
+    "action": "Sharpen the Mourinho line; \"Bold, Luis\" is a weak closer."
+   },
+   {
+    "priority": "P2",
+    "category": "poster_title",
+    "action": "Put the 2-of-4 reveal in the bubble."
+   },
+   {
+    "priority": "P2",
+    "category": "vary_cta",
+    "action": "Replace the CTA opener 'Want the next story before it breaks?' (used in 25 videos) with a line tied to this story."
+   },
+   {
+    "priority": "P3",
+    "category": "add_second_source",
+    "action": "Confirm Figo's prediction quote beyond the one Spanish outlet."
+   }
+  ]
+ },
+ "15": {
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "verify_fact",
+    "action": "Opponent count differs by outlet; keep \"says Gazzetta\" on air or drop it."
+   },
+   {
+    "priority": "P1",
+    "category": "merge_or_drop",
+    "action": "Overlaps video 16 (Croatia run, Milan 90 minutes); differentiate or merge."
+   },
+   {
+    "priority": "P1",
+    "category": "hook_rewrite",
+    "action": "Lead with 208 caps level with Messi, not a generic retirement line."
+   },
+   {
+    "priority": "P2",
+    "category": "vary_cta",
+    "action": "Replace the CTA opener 'Your mates will never guess this.' (used in 32 videos) with a line tied to this story."
+   },
+   {
+    "priority": "P2",
+    "category": "add_comment_bait",
+    "action": "Ask: will Modric catch Ronaldo's 234 caps?"
+   }
+  ]
+ },
+ "16": {
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "poster_title",
+    "action": "Replace the 'suit' headline with the England 7-0 result."
+   },
+   {
+    "priority": "P1",
+    "category": "merge_or_drop",
+    "action": "Overlaps video 15; keep England 7-0 here, drop shared Milan and losing-run lines."
+   },
+   {
+    "priority": "P2",
+    "category": "stronger_twist",
+    "action": "Six loose beats; end on the Suker line with a clearer punchline."
+   },
+   {
+    "priority": "P2",
+    "category": "shorten",
+    "action": "Cut Spain and Suker lines; six topics in 46 seconds blur the story."
+   },
+   {
+    "priority": "P2",
+    "category": "add_comment_bait",
+    "action": "Ask England fans: was 7-0 the best result under this manager?"
+   },
+   {
+    "priority": "P2",
+    "category": "vary_cta",
+    "action": "Replace the CTA opener 'Want the next story before it breaks?' (used in 25 videos) with a line tied to this story."
+   }
+  ]
+ },
+ "17": {
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "verify_fact",
+    "action": "Recheck the league table and Rashford's goal count before posting."
+   },
+   {
+    "priority": "P2",
+    "category": "improve_humour",
+    "action": "Mostly plain facts; add one sharper joke before the Rashford line."
+   },
+   {
+    "priority": "P2",
+    "category": "add_comment_bait",
+    "action": "Ask fans if United can really go down."
+   },
+   {
+    "priority": "P2",
+    "category": "hook_rewrite",
+    "action": "Open with: Owen tipped United for the top four. They are in the relegation zone."
+   },
+   {
+    "priority": "P2",
+    "category": "vary_cta",
+    "action": "Replace the CTA opener 'Your mates will never guess this.' (used in 32 videos) with a line tied to this story."
+   }
+  ]
+ },
+ "18": {
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "poster_title",
+    "action": "Rewrite cover so a stranger understands 'yard off' and the horse angle."
+   },
+   {
+    "priority": "P2",
+    "category": "hook_rewrite",
+    "action": "Open with the Isak \"yard off\" jab for Liverpool fans, not 2001 votes."
+   },
+   {
+    "priority": "P2",
+    "category": "stronger_twist",
+    "action": "Four threads; cut Bahrain results or tie them to the yard gag."
+   },
+   {
+    "priority": "P2",
+    "category": "verify_fact",
+    "action": "Confirm Isak 125m figure is Owen's framing, then attribute on air."
+   },
+   {
+    "priority": "P2",
+    "category": "shorten",
+    "action": "Cut the Bahrain results line; the story is split across Isak, horses and Ballon d'Or."
+   },
+   {
+    "priority": "P2",
+    "category": "vary_cta",
+    "action": "Replace the CTA opener 'Think you can call the next one?' (used in 20 videos) with a line tied to this story."
+   }
+  ]
+ },
+ "19": {
+  "changes": [
+   {
+    "priority": "P2",
+    "category": "hook_rewrite",
+    "action": "Lead with Harry Kane winning the Ballon d'Or; UK appeal is buried."
+   },
+   {
+    "priority": "P1",
+    "category": "merge_or_drop",
+    "action": "Overlaps video 20 (Dembele seventh behind Kane) and 12 (Messi fifth); differentiate."
+   },
+   {
+    "priority": "P2",
+    "category": "add_comment_bait",
+    "action": "Ask whether Dembele deserved seventh."
+   },
+   {
+    "priority": "P2",
+    "category": "stronger_twist",
+    "action": "Replace the weak \"has company\" inference with a real payoff line."
+   },
+   {
+    "priority": "P2",
+    "category": "vary_cta",
+    "action": "Replace the CTA opener 'Want the next story before it breaks?' (used in 25 videos) with a line tied to this story."
+   }
+  ]
+ },
+ "20": {
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "add_second_source",
+    "action": "Dortmund training sanction rests on one French Wikipedia page; confirm elsewhere."
+   },
+   {
+    "priority": "P1",
+    "category": "merge_or_drop",
+    "action": "Overlaps video 19 (Ballon d'Or seventh); keep the fee story here only."
+   },
+   {
+    "priority": "P1",
+    "category": "hook_rewrite",
+    "action": "Lead with the 105m-to-50.4m fee loss; the 2017 training skip is stale."
+   },
+   {
+    "priority": "P2",
+    "category": "stronger_twist",
+    "action": "Timeline jumps; order events or build the story on the 105m-to-50.4m arc."
+   },
+   {
+    "priority": "P2",
+    "category": "vary_cta",
+    "action": "Replace the CTA opener 'Think you can call the next one?' (used in 20 videos) with a line tied to this story."
+   }
+  ]
+ },
+ "21": {
+  "risk_flags": [
+   "betting_under18_appeal"
+  ],
+  "changes": [
+   {
+    "priority": "P2",
+    "category": "vary_cta",
+    "action": "Replace 'Your mates will never guess this', used in 32 videos, with a story-specific opener."
+   },
+   {
+    "priority": "P2",
+    "category": "verify_fact",
+    "action": "Reconcile 'zero points in six games' with 'seven straight defeats' so the count is clear."
+   },
+   {
+    "priority": "P2",
+    "category": "add_comment_bait",
+    "action": "Add a question: should Denia stay? Czech and neutral viewers can argue."
+   },
+   {
+    "priority": "P2",
+    "category": "poster_title",
+    "action": "Put the 3 scored, 14 conceded contrast on the cover."
+   }
+  ]
+ },
+ "22": {
+  "cta_opener_type": "question",
+  "risk_flags": [
+   "single_source",
+   "betting_under18_appeal"
+  ]
+ },
+ "23": {
+  "risk_flags": [
+   "over_length",
+   "single_source",
+   "unverified_claim",
+   "betting_under18_appeal"
+  ]
+ },
+ "24": {
+  "risk_flags": [
+   "single_source",
+   "betting_under18_appeal"
+  ]
+ },
+ "25": {
+  "risk_flags": [
+   "unverified_claim",
+   "betting_under18_appeal"
+  ]
+ },
+ "27": {
+  "cta_opener_type": "question",
+  "risk_flags": [
+   "off_topic_footage_risk",
+   "overlap_other_video",
+   "betting_under18_appeal"
+  ]
+ },
+ "32": {
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "poster_title",
+    "action": "Swap flat Kane bubble for the 'popped round to Madrid' or 3-0 joke."
+   },
+   {
+    "priority": "P2",
+    "category": "vary_cta",
+    "action": "Replace the CTA opener 'Think you can call the next one?' (used in 20 videos) with a line tied to this story."
+   },
+   {
+    "priority": "P2",
+    "category": "add_comment_bait",
+    "action": "Add a line asking if this is Tuchel's best result and if England can win the World Cup."
+   }
+  ]
+ },
+ "33": {
+  "changes": [
+   {
+    "priority": "P2",
+    "category": "vary_cta",
+    "action": "Replace 'Your mates will never guess this', used in 32 videos."
+   },
+   {
+    "priority": "P2",
+    "category": "poster_title",
+    "action": "Swap bubble to the day-trip-defence joke."
+   },
+   {
+    "priority": "P2",
+    "category": "add_comment_bait",
+    "action": "Ask who was the real hero: Cunha or the retake rule?"
+   }
+  ]
+ },
+ "34": {
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "verify_fact",
+    "action": "Confirm clause size and how the restructure changed it; reports conflict."
+   },
+   {
+    "priority": "P2",
+    "category": "stronger_twist",
+    "action": "End on a punchline instead of the Chelsea, United, Arsenal list."
+   },
+   {
+    "priority": "P2",
+    "category": "vary_cta",
+    "action": "Replace the CTA opener 'Your mates will never guess this.' (used in 32 videos) with a line tied to this story."
+   },
+   {
+    "priority": "P2",
+    "category": "poster_title",
+    "action": "Replace the bubble with the 6m to 80m arithmetic joke."
+   },
+   {
+    "priority": "P3",
+    "category": "add_comment_bait",
+    "action": "Ask if 80m is a bargain, and name the three rival clubs as fan-rivalry bait."
+   }
+  ]
+ },
+ "35": {
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "poster_hero_art",
+    "action": "Check looney-style cartoon art against the betting CTA; use a neutral hero."
+   },
+   {
+    "priority": "P2",
+    "category": "poster_title",
+    "action": "Put the \"could not mark\" joke in the bubble."
+   },
+   {
+    "priority": "P2",
+    "category": "footage_match",
+    "action": "Confirm cartoon inserts do not imply real drone footage or real people."
+   },
+   {
+    "priority": "P2",
+    "category": "add_comment_bait",
+    "action": "End on a direct question: should drones be banned from training grounds?"
+   },
+   {
+    "priority": "P2",
+    "category": "vary_cta",
+    "action": "Replace the CTA opener 'Your mates will never guess this.' (used in 32 videos) with a line tied to this story."
+   },
+   {
+    "priority": "P3",
+    "category": "stronger_twist",
+    "action": "End on the Anfield date with a pointed line instead of a flat close."
+   }
+  ]
+ },
+ "36": {
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "verify_fact",
+    "action": "Check the 35m ask and 2.5m fee; both rest on Goal alone."
+   },
+   {
+    "priority": "P2",
+    "category": "hook_rewrite",
+    "action": "Name Varela and the 2.5m-to-35m jump in the first sentence."
+   },
+   {
+    "priority": "P2",
+    "category": "add_comment_bait",
+    "action": "Ask: would Varela work at Spurs or Liverpool?"
+   },
+   {
+    "priority": "P3",
+    "category": "poster_title",
+    "action": "Use the fee jump in the bubble."
+   }
+  ]
+ },
+ "37": {
+  "changes": [
+   {
+    "priority": "P2",
+    "category": "poster_title",
+    "action": "Replace the bubble with the Zagreb-then-Chelsea irony."
+   },
+   {
+    "priority": "P2",
+    "category": "vary_cta",
+    "action": "Replace the CTA opener 'Your mates will never guess this.' (used in 32 videos) with a line tied to this story."
+   },
+   {
+    "priority": "P3",
+    "category": "add_comment_bait",
+    "action": "Ask whether the penalty was soft."
+   },
+   {
+    "priority": "P3",
+    "category": "hook_rewrite",
+    "action": "Lead with the bottom-of-the-table twist rather than a plain news line."
+   }
+  ]
+ },
+ "38": {
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "verify_fact",
+    "action": "Confirm 7m, 2m and Allegri claims; all are press reports."
+   },
+   {
+    "priority": "P2",
+    "category": "hook_rewrite",
+    "action": "Open on 'six titles for seven million' to bury less and surprise more."
+   },
+   {
+    "priority": "P2",
+    "category": "vary_cta",
+    "action": "Replace the CTA opener 'Your mates will never guess this.' (used in 32 videos) with a line tied to this story."
+   }
+  ]
+ },
+ "39": {
+  "changes": [
+   {
+    "priority": "P2",
+    "category": "vary_cta",
+    "action": "Replace the CTA opener 'Your mates will never guess this.' (used in 32 videos) with a line tied to this story."
+   },
+   {
+    "priority": "P2",
+    "category": "add_comment_bait",
+    "action": "Add a closing question: should Newcastle stick with Jaissle?"
+   },
+   {
+    "priority": "P3",
+    "category": "poster_title",
+    "action": "Test the coffee joke in the bubble."
+   }
+  ]
+ },
+ "40": {
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "hook_rewrite",
+    "action": "Lead with Yamal's teenage record over Mbappe, not a generic result."
+   },
+   {
+    "priority": "P2",
+    "category": "poster_title",
+    "action": "Use the boots-on joke and the 3-0 score on the poster."
+   },
+   {
+    "priority": "P2",
+    "category": "vary_cta",
+    "action": "Replace the CTA opener 'Your mates will never guess this.' (used in 32 videos) with a line tied to this story."
+   },
+   {
+    "priority": "P2",
+    "category": "add_comment_bait",
+    "action": "Ask: Yamal or Mbappe, who is the best teenager ever?"
+   }
+  ]
+ },
+ "41": {
+  "risk_flags": [
+   "over_length",
+   "overlap_other_video"
+  ],
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "shorten",
+    "action": "Cut at least 3 characters: 602 chars against the 600 ElevenLabs limit."
+   },
+   {
+    "priority": "P2",
+    "category": "stronger_twist",
+    "action": "The 'How?' is answered only by a stoppage-time goal; end on the Disasi mystery as the real payoff."
+   },
+   {
+    "priority": "P2",
+    "category": "merge_or_drop",
+    "action": "Three Palace stories (Sage, Frank, this one) in one batch; differentiate or space them out."
+   },
+   {
+    "priority": "P2",
+    "category": "add_comment_bait",
+    "action": "Ask why Sage dropped Disasi, so viewers guess in the comments."
+   },
+   {
+    "priority": "P2",
+    "category": "hook_rewrite",
+    "action": "Answer the 'How?' faster or name the stoppage-time equaliser in sentence one."
+   },
+   {
+    "priority": "P2",
+    "category": "vary_cta",
+    "action": "Rotate the CTA opener; 'Want the next story before it breaks?' is used in 25 videos."
+   }
+  ]
+ },
+ "43": {
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "merge_or_drop",
+    "action": "Video 47 also tells the 7-0 Singapore win; split or drop the 7-0 detail."
+   },
+   {
+    "priority": "P2",
+    "category": "verify_fact",
+    "action": "Sources conflict (injury-time versus 91st minute); confirm the winner's time before publishing."
+   },
+   {
+    "priority": "P2",
+    "category": "add_comment_bait",
+    "action": "Replace 'Make of that what you will' with a direct question: play Raphinha again?"
+   },
+   {
+    "priority": "P2",
+    "category": "poster_title",
+    "action": "Use the 'wrong department' joke in the bubble instead of the score."
+   },
+   {
+    "priority": "P2",
+    "category": "vary_cta",
+    "action": "'Think you can call the next one?' is used in 20 videos; try a new opener."
+   }
+  ]
+ },
+ "44": {
+  "risk_flags": [
+   "betting_under18_appeal",
+   "single_source",
+   "overlap_other_video"
+  ]
+ },
+ "45": {
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "hook_rewrite",
+    "action": "Lead with the irony: 'Barcelona want 55m for the captain they benched.'"
+   },
+   {
+    "priority": "P2",
+    "category": "shorten",
+    "action": "Drop the Balde tangent (line 9); it dilutes the Araujo story at 52.9 seconds."
+   },
+   {
+    "priority": "P2",
+    "category": "add_comment_bait",
+    "action": "End by asking whether Liverpool should pay 55m for Araujo."
+   },
+   {
+    "priority": "P3",
+    "category": "add_second_source",
+    "action": "Goal.com gives 47m pounds; add a second source for the fee and option."
+   },
+   {
+    "priority": "P3",
+    "category": "verify_fact",
+    "action": "Reconcile euro figure against Goal's 47 million pounds before posting."
+   },
+   {
+    "priority": "P2",
+    "category": "vary_cta",
+    "action": "Replace the CTA opener 'Want the next story before it breaks?' (used in 25 videos) with a line tied to this story."
+   }
+  ]
+ },
+ "46": {
+  "risk_flags": [
+   "betting_under18_appeal",
+   "single_source",
+   "overlap_other_video"
+  ],
+  "changes": [
+   {
+    "priority": "P2",
+    "category": "hook_rewrite",
+    "action": "Lead with Palace and Man United sacking managers in the same hour."
+   },
+   {
+    "priority": "P2",
+    "category": "merge_or_drop",
+    "action": "Overlaps videos 41 and 44 (Sage and Frank); differentiate or publish with spacing."
+   },
+   {
+    "priority": "P2",
+    "category": "shorten",
+    "action": "Eleven lines of stats; cut the Europe line and coaches' names to keep the back-door joke clear."
+   },
+   {
+    "priority": "P2",
+    "category": "poster_title",
+    "action": "Make the cover headline say what the back door is: the 24 goals conceded."
+   },
+   {
+    "priority": "P2",
+    "category": "verify_fact",
+    "action": "Check the Carrick sacking and 'first two sacked' claim against a second domain."
+   },
+   {
+    "priority": "P2",
+    "category": "vary_cta",
+    "action": "'Think you can call the next one?' is used in 20 videos; vary it."
+   },
+   {
+    "priority": "P3",
+    "category": "add_comment_bait",
+    "action": "Ask who goes next: 'Which manager is next in the sack race?'"
+   }
+  ]
+ },
+ "47": {
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "merge_or_drop",
+    "action": "Video 43 also covers Brazil's 7-0 Singapore win; differentiate or merge."
+   },
+   {
+    "priority": "P2",
+    "category": "verify_fact",
+    "action": "'Looked upset' is the report's reading of his mood; soften or cite the source."
+   },
+   {
+    "priority": "P3",
+    "category": "poster_title",
+    "action": "Change the burst word so it matches a positive hat-trick story."
+   },
+   {
+    "priority": "P2",
+    "category": "vary_cta",
+    "action": "'Your mates will never guess this' is used in 32 videos; vary the opener."
+   }
+  ]
+ },
+ "48": {
+  "risk_flags": [
+   "single_source",
+   "off_topic_footage_risk"
+  ],
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "hook_rewrite",
+    "action": "Lead with the surprise: club for sale, no price, relocation possible; add a UK angle."
+   },
+   {
+    "priority": "P1",
+    "category": "merge_or_drop",
+    "action": "Low UK relevance; consider dropping or swapping for a UK ownership story."
+   },
+   {
+    "priority": "P2",
+    "category": "add_comment_bait",
+    "action": "Ask which UK city or owner could buy it, or whether MLS clubs should relocate."
+   },
+   {
+    "priority": "P2",
+    "category": "add_second_source",
+    "action": "Single domain; confirm the sale, advisers and relocation wording from a second outlet."
+   },
+   {
+    "priority": "P2",
+    "category": "footage_match",
+    "action": "Check MLS Montreal footage exists; avoid generic stadium shots."
+   },
+   {
+    "priority": "P2",
+    "category": "vary_cta",
+    "action": "'Want the next story before it breaks?' is used in 25 videos; vary it."
+   }
+  ]
+ },
+ "49": {
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "stronger_twist",
+    "action": "Say once that Southampton were expelled for spying; the Middlesbrough line confuses without it."
+   },
+   {
+    "priority": "P1",
+    "category": "verify_fact",
+    "action": "Confirm Eckert, Solak and the rule-breach wording with a second source; avoid defamatory phrasing."
+   },
+   {
+    "priority": "P2",
+    "category": "improve_humour",
+    "action": "Cut the 'one very long afternoon' gag on Middlesbrough; sharpen the pension line."
+   },
+   {
+    "priority": "P2",
+    "category": "add_comment_bait",
+    "action": "Ask whether Eckert deserves the 2029 contract."
+   },
+   {
+    "priority": "P2",
+    "category": "vary_cta",
+    "action": "'Your mates will never guess this' is used in 32 videos; vary it."
+   }
+  ]
+ },
+ "50": {
+  "changes": [
+   {
+    "priority": "P2",
+    "category": "add_comment_bait",
+    "action": "Close by asking if Karl is the next Yamal, so viewers argue in the comments."
+   },
+   {
+    "priority": "P2",
+    "category": "improve_humour",
+    "action": "Add one sharper joke; current humour is only light asides."
+   },
+   {
+    "priority": "P2",
+    "category": "hook_rewrite",
+    "action": "Name Lennart Karl, 18, in the first sentence; viewers do not know him."
+   },
+   {
+    "priority": "P3",
+    "category": "add_second_source",
+    "action": "Confirm the 'fourth player' record from a second outlet."
+   },
+   {
+    "priority": "P2",
+    "category": "vary_cta",
+    "action": "'Think you can call the next one?' is used in 20 videos; vary it."
+   },
+   {
+    "priority": "P3",
+    "category": "poster_hero_art",
+    "action": "Use drawn hero art of the chip; footage frame may be off-target."
+   }
+  ]
+ },
+ "51": {
+  "timeliness": "recent_month"
+ },
+ "52": {
+  "changes": [
+   {
+    "priority": "P2",
+    "category": "vary_cta",
+    "action": "CTA opener \"Your mates will never guess this\" is in 32 videos; rotate it."
+   },
+   {
+    "priority": "P2",
+    "category": "add_comment_bait",
+    "action": "End with a question: can Klopp win the World Cup with this side?"
+   },
+   {
+    "priority": "P2",
+    "category": "poster_title",
+    "action": "Move the Klopp three-or-four-months quote to the bubble."
+   },
+   {
+    "priority": "P2",
+    "category": "hook_rewrite",
+    "action": "Open on Klopp's UK-loved name plus the five-goal ask; 'So they did' is soft."
+   },
+   {
+    "priority": "P3",
+    "category": "stronger_twist",
+    "action": "Open on Klopp's date joke or add the Belgium quarter-final for a forward hook."
+   },
+   {
+    "priority": "P3",
+    "category": "add_second_source",
+    "action": "Second source is on the same domain; check Klopp quote elsewhere."
+   }
+  ]
+ },
+ "53": {
+  "changes": [
+   {
+    "priority": "P2",
+    "category": "hook_rewrite",
+    "action": "Name Inter Miami or Messi in the opening line for UK recognition."
+   },
+   {
+    "priority": "P2",
+    "category": "add_comment_bait",
+    "action": "Ask whether MLS champions beat a Championship side; invite an argument."
+   },
+   {
+    "priority": "P2",
+    "category": "poster_title",
+    "action": "Use the low-budget punchline in the bubble; fix the burst word."
+   },
+   {
+    "priority": "P2",
+    "category": "improve_humour",
+    "action": "Sharpen the low-budget callback; 'Funny how that works' is flat."
+   },
+   {
+    "priority": "P3",
+    "category": "add_second_source",
+    "action": "Both sources come from one domain; add a second."
+   }
+  ]
+ },
+ "57": {
+  "changes": [
+   {
+    "priority": "P2",
+    "category": "vary_cta",
+    "action": "Replace the CTA opener 'Want the next story before it breaks?' (used in 25 videos) with a line tied to this story."
+   },
+   {
+    "priority": "P2",
+    "category": "add_comment_bait",
+    "action": "Ask: is Hakimi the best defender in the world?"
+   },
+   {
+    "priority": "P2",
+    "category": "poster_title",
+    "action": "Put the \"saving up\" joke in the bubble instead of repeating numbers."
+   },
+   {
+    "priority": "P2",
+    "category": "shorten",
+    "action": "Cut the Enrique record and Ballon d'Or lines; they dilute the Hakimi story."
+   }
+  ]
+ },
+ "60": {
+  "changes": [
+   {
+    "priority": "P2",
+    "category": "vary_cta",
+    "action": "Opener repeated in 25 videos; replace with a Europa League tease."
+   },
+   {
+    "priority": "P1",
+    "category": "add_second_source",
+    "action": "Only one source and domain; add a second before publishing."
+   },
+   {
+    "priority": "P2",
+    "category": "hook_rewrite",
+    "action": "Mention Amorim, former Manchester United manager, in the first line to lift UK appeal."
+   },
+   {
+    "priority": "P2",
+    "category": "poster_title",
+    "action": "Bring the extra-man twist to the headline and the Amorim joke to the bubble."
+   }
+  ]
+ },
+ "61": {
+  "risk_flags": [
+   "single_source",
+   "unverified_claim",
+   "betting_under18_appeal"
+  ],
+  "changes": [
+   {
+    "priority": "P2",
+    "category": "hook_rewrite",
+    "action": "Open on the joke, not the spoiler: 'United wanted Hurzeler. Hurzeler wants a quiet life in Brighton.'"
+   },
+   {
+    "priority": "P2",
+    "category": "vary_cta",
+    "action": "Replace 'Want the next story before it breaks?' (used in 25 videos) with a story-specific CTA."
+   },
+   {
+    "priority": "P2",
+    "category": "add_comment_bait",
+    "action": "Add a question: should Brighton fear United coming back for Hurzeler?"
+   },
+   {
+    "priority": "P2",
+    "category": "verify_fact",
+    "action": "Chairman quote is paraphrased; check Bloom's wording and the second-place table before publishing."
+   }
+  ]
+ },
+ "62": {
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "add_comment_bait",
+    "action": "Add a direct question: is Vinicius brave or making excuses? Fans will pick a side."
+   },
+   {
+    "priority": "P2",
+    "category": "hook_rewrite",
+    "action": "Lead with the confession: 'Vinicius admits he trained less after the World Cup. Mourinho heard.'"
+   },
+   {
+    "priority": "P2",
+    "category": "vary_cta",
+    "action": "'Your mates will never guess this' (32 videos) does not fit a known story; use a story-linked CTA."
+   },
+   {
+    "priority": "P2",
+    "category": "verify_fact",
+    "action": "Check the paraphrased Vinicius and Mourinho quotes and the one-goal-in-eight count."
+   },
+   {
+    "priority": "P2",
+    "category": "improve_humour",
+    "action": "Sharpen 'Honest, at least': one clear joke on one goal in eight games."
+   }
+  ]
+ },
+ "63": {
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "add_comment_bait",
+    "action": "Add a hot take: is Como the best newcomer in Europe? Fans have a view."
+   },
+   {
+    "priority": "P2",
+    "category": "improve_humour",
+    "action": "Fourth-in-Serie-A hype line is muddled; replace with a clear Fabregas or Lens joke."
+   },
+   {
+    "priority": "P2",
+    "category": "verify_fact",
+    "action": "Confirm the Bayern tie and Liverpool 8-0 margin; match was 4 Nov, so check the story is not stale."
+   },
+   {
+    "priority": "P2",
+    "category": "stronger_twist",
+    "action": "Make the Fabregas 'don't believe the hype' line the twist and close on it."
+   },
+   {
+    "priority": "P2",
+    "category": "vary_cta",
+    "action": "'Think you can call the next one?' appears in 20 videos; tie it to Como's next fixture."
+   }
+  ]
+ },
+ "64": {
+  "changes": [
+   {
+    "priority": "P2",
+    "category": "hook_rewrite",
+    "action": "Name the stakes: 'Denmark led 2-0. Haaland needed ninety-five minutes and one VAR check.'"
+   },
+   {
+    "priority": "P2",
+    "category": "add_comment_bait",
+    "action": "Ask whether the late handball penalty was fair; invites VAR arguments."
+   },
+   {
+    "priority": "P2",
+    "category": "vary_cta",
+    "action": "Replace repeated 'Want the next story before it breaks?' (25 videos)."
+   },
+   {
+    "priority": "P2",
+    "category": "verify_fact",
+    "action": "Check the 68 goals in 61 games and the 25 Nations League goals record against a primary source."
+   },
+   {
+    "priority": "P3",
+    "category": "poster_title",
+    "action": "Make cover headline about the shirt booking or the 2-0 collapse, not the result."
+   }
+  ]
+ },
+ "66": {
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "verify_fact",
+    "action": "Recheck 'still twelfth' against current table; match was two weeks ago."
+   },
+   {
+    "priority": "P2",
+    "category": "hook_rewrite",
+    "action": "Lead with the collapse: 'Six points clear in October. Twelfth now. Newcastle at Fulham.'"
+   },
+   {
+    "priority": "P2",
+    "category": "add_comment_bait",
+    "action": "Ask: should Newcastle sack Jaissle?"
+   },
+   {
+    "priority": "P2",
+    "category": "vary_cta",
+    "action": "Replace repeated 'Want the next story before it breaks?' (25 videos)."
+   },
+   {
+    "priority": "P2",
+    "category": "improve_humour",
+    "action": "'At least it is tidy' is weak; use a sharper punchline on twelve points."
+   }
+  ]
+ },
+ "71": {
+  "timeliness": "recent_month"
+ },
+ "72": {
+  "timeliness": "recent_month"
+ },
+ "73": {
+  "timeliness": "recent_month"
+ },
+ "74": {
+  "timeliness": "recent_month"
+ },
+ "75": {
+  "timeliness": "recent_month"
+ },
+ "76": {
+  "timeliness": "recent_month",
+  "risk_flags": [
+   "single_source",
+   "off_topic_footage_risk"
+  ]
+ },
+ "77": {
+  "timeliness": "recent_month",
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "shorten",
+    "action": "Spoken text is 601 chars against the 600 limit; trim one phrase."
+   },
+   {
+    "priority": "P1",
+    "category": "verify_fact",
+    "action": "Confirm the equaliser minute or remove \"late\" from the poster headline."
+   },
+   {
+    "priority": "P1",
+    "category": "hook_rewrite",
+    "action": "Replace the 'Hollywood came to Wrexham' cliche with the film-stars-watching joke or the Wolves top-spot denial."
+   },
+   {
+    "priority": "P2",
+    "category": "vary_cta",
+    "action": "Replace 'Want the next story before it breaks?' (used in 25 videos) with a Wrexham-specific line."
+   },
+   {
+    "priority": "P3",
+    "category": "add_comment_bait",
+    "action": "Ask whether Wrexham will reach the Premier League."
+   }
+  ]
+ },
+ "78": {
+  "timeliness": "recent_month"
+ },
+ "79": {
+  "timeliness": "recent_month"
+ },
+ "80": {
+  "timeliness": "recent_month"
+ },
+ "81": {
+  "timeliness": "recent_month",
+  "changes": [
+   {
+    "priority": "P2",
+    "category": "vary_cta",
+    "action": "Replace the CTA opener used in 25 videos with a fresh one."
+   },
+   {
+    "priority": "P2",
+    "category": "add_comment_bait",
+    "action": "Add a hot take: is a defender winning the Golden Boy deserved over Doué?"
+   },
+   {
+    "priority": "P3",
+    "category": "poster_title",
+    "action": "Name the age in the headline: nineteen-year-old defender wins Golden Boy."
+   }
+  ]
+ },
+ "82": {
+  "timeliness": "recent_month",
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "hook_rewrite",
+    "action": "Name Tah and the 'no' in sentence one instead of a generic centre-back."
+   },
+   {
+    "priority": "P1",
+    "category": "poster_title",
+    "action": "Fix the truncated bubble; use the \"no, with extra paperwork\" joke."
+   },
+   {
+    "priority": "P2",
+    "category": "add_comment_bait",
+    "action": "Ask whether Colwill or Tah would be the better fit for Barça."
+   },
+   {
+    "priority": "P2",
+    "category": "vary_cta",
+    "action": "Replace the CTA opener 'Think you can call the next one?' (used in 20 videos) with a line tied to this story."
+   },
+   {
+    "priority": "P2",
+    "category": "add_second_source",
+    "action": "Rumour rests on one ESPN round-up of Sky Germany; find a second source."
+   }
+  ]
+ },
+ "83": {
+  "timeliness": "recent_month",
+  "changes": [
+   {
+    "priority": "P2",
+    "category": "hook_rewrite",
+    "action": "Name Ngumoha and Liverpool in the first sentence; the UK pull is buried."
+   },
+   {
+    "priority": "P1",
+    "category": "verify_fact",
+    "action": "Confirm the 70m offer with a second source; it rests on one Bild report."
+   },
+   {
+    "priority": "P2",
+    "category": "poster_title",
+    "action": "Put Ngumoha and the waiting-room joke on the cover."
+   },
+   {
+    "priority": "P2",
+    "category": "vary_cta",
+    "action": "Replace the CTA opener 'Your mates will never guess this.' (used in 32 videos) with a line tied to this story."
+   },
+   {
+    "priority": "P3",
+    "category": "add_comment_bait",
+    "action": "Ask: should Liverpool sell at 70m?"
+   }
+  ]
+ },
+ "84": {
+  "timeliness": "recent_month"
+ },
+ "85": {
+  "timeliness": "recent_month"
+ },
+ "88": {
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "footage_match",
+    "action": "Use poker or table footage; football clips will mismatch the story."
+   },
+   {
+    "priority": "P1",
+    "category": "poster_hero_art",
+    "action": "Draw poker-table hero art with Neymar cutout; it signals the odd story fast."
+   },
+   {
+    "priority": "P2",
+    "category": "add_comment_bait",
+    "action": "Ask: would you back Neymar at the table? Add an explicit question."
+   },
+   {
+    "priority": "P2",
+    "category": "poster_title",
+    "action": "Put the 15K to 24K numbers on the cover."
+   },
+   {
+    "priority": "P3",
+    "category": "vary_cta",
+    "action": "Gambling-adjacent topic plus betting CTA in cartoon style; soften the offer wording."
+   }
+  ]
+ },
+ "92": {
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "verify_fact",
+    "action": "Check the 35m rejected bid and the Newcastle 33m summer figure against a second report."
+   },
+   {
+    "priority": "P1",
+    "category": "add_second_source",
+    "action": "Only goal.com is cited; add one more outlet for the six-club list."
+   },
+   {
+    "priority": "P2",
+    "category": "add_comment_bait",
+    "action": "Ask viewers which of the six clubs he should pick."
+   },
+   {
+    "priority": "P2",
+    "category": "vary_cta",
+    "action": "Replace the CTA opener 'Want the next story before it breaks?' (used in 25 videos) with a line tied to this story."
+   },
+   {
+    "priority": "P3",
+    "category": "improve_humour",
+    "action": "Sharpen the Newcastle \"Awkward\" line; it is the only real joke."
+   }
+  ]
+ },
+ "93": {
+  "risk_flags": [
+   "overlap_other_video",
+   "single_source",
+   "unverified_claim",
+   "betting_under18_appeal"
+  ],
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "merge_or_drop",
+    "action": "Same Sky article as video 95; publish only one, or space them apart."
+   },
+   {
+    "priority": "P2",
+    "category": "vary_cta",
+    "action": "CTA opener \"Your mates will never guess this\" appears in 32 videos; replace."
+   },
+   {
+    "priority": "P2",
+    "category": "poster_title",
+    "action": "Put 75m and the Arteta jab on the poster."
+   },
+   {
+    "priority": "P2",
+    "category": "stronger_twist",
+    "action": "The \"twist\" line is weak; reveal the Sunderland and Leeds goals earlier."
+   },
+   {
+    "priority": "P3",
+    "category": "verify_fact",
+    "action": "Check the ground-duel ranking behind Lavia and the 31 goals."
+   },
+   {
+    "priority": "P3",
+    "category": "add_comment_bait",
+    "action": "Add: is Bruno worth 75m? Say it in the comments."
+   }
+  ]
+ },
+ "95": {
+  "risk_flags": [
+   "overlap_other_video",
+   "single_source",
+   "unverified_claim"
+  ]
+ },
+ "96": {
+  "risk_flags": [
+   "off_topic_footage_risk",
+   "single_source",
+   "betting_under18_appeal"
+  ]
+ },
+ "97": {
+  "risk_flags": [
+   "single_source",
+   "unverified_claim",
+   "betting_under18_appeal"
+  ]
+ },
+ "99": {
+  "risk_flags": [
+   "single_source",
+   "unverified_claim",
+   "betting_under18_appeal"
+  ]
+ },
+ "100": {
+  "risk_flags": [
+   "single_source",
+   "unverified_claim",
+   "betting_under18_appeal"
+  ]
+ }
+}

@@ -1,0 +1,96 @@
+{
+ "video_id": "HgSaXHapxFk",
+ "topic": "Short meme edit of Neymar sitting alone on tunnel stairs at Barcelona waiting for Messi",
+ "hero": "Neymar (Barcelona shirt) and Messi (marked by yellow circle label)",
+ "hero_role": "butt of the joke / waiting",
+ "media_type_overall": "real broadcast footage",
+ "hook": "Neymar sitting on tunnel steps while yellow circle labels 'MESSI' on a figure at top-left",
+ "subtitle_style": "Small yellow 'MESSI' label with circle at top-left",
+ "reaction_overlays": "Yellow circle marking Messi",
+ "transition_summary": "Mostly one long shot with slight zoom, brief cuts at 6 s (6 rapid cuts); about 3 cuts per 18 s",
+ "audio_note": "Unknown; probably meme/sad music, no transcript",
+ "reuse_segments": [
+  {
+   "t0": 0,
+   "t1": 18,
+   "what": "Barcelona tunnel footage with Neymar and teammates",
+   "origin_guess": "broadcast / tunnel",
+   "rights_risk": "high",
+   "how_to_reuse": "needs licensed footage; recreate with generated imagery"
+  }
+ ],
+ "frames": [
+  {
+   "idx": 1,
+   "t": 0,
+   "desc": "Neymar sitting on tunnel stairs, yellow circle on far-left player labelled MESSI",
+   "type": "video",
+   "text_on_screen": "MESSI",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 2,
+   "t": 2,
+   "desc": "Neymar sitting alone on stairs, staff in orange vest behind",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 3,
+   "t": 4,
+   "desc": "Neymar sitting, medium, hands clasped",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 4,
+   "t": 6,
+   "desc": "Neymar looking aside and leaning on stairs, staff pass",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 5,
+   "t": 8,
+   "desc": "Neymar standing among teammates coming down stairs",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 6,
+   "t": 10,
+   "desc": "Neymar with staff and teammates at tunnel, walking",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 7,
+   "t": 12,
+   "desc": "Barcelona players going down stairs, #10 shirt visible, Neymar arm around",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 8,
+   "t": 14,
+   "desc": "Neymar embraced by teammates, tunnel wall",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 9,
+   "t": 16,
+   "desc": "Staff member in dark jacket smiling, Neymar behind",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "none"
+  }
+ ]
+}

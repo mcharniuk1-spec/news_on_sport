@@ -1,0 +1,96 @@
+{
+ "no": 16,
+ "subject": "Luka Modric",
+ "title": "Croatia's 7-0 nightmare and Modric's suit",
+ "voice": "kokoro",
+ "comic": true,
+ "style": "simpsons",
+ "lines": [
+  {
+   "vo": "England beat Croatia seven-nil, and Modric was the captain.",
+   "card": "England 7, Croatia 0",
+   "sfx": null,
+   "footage": "England Croatia Rijeka 7-0 highlights"
+  },
+  {
+   "vo": "He said losing was not the problem. The way they lost was. Seven goals is a lot of way.",
+   "card": "The way they lost",
+   "sfx": null,
+   "footage": "Modric post-match interview, neutral shot"
+  },
+  {
+   "vo": "Spain won two-one in Split, with Merino scoring twice. Croatia scored once. Progress.",
+   "card": "Merino scores twice",
+   "sfx": null,
+   "footage": "Croatia Spain Split highlights"
+  },
+  {
+   "vo": "Modric has six Champions League titles. Croatia's losing run was not impressed.",
+   "card": "Six Champions Leagues",
+   "sfx": "small cartoon boing",
+   "footage": "Modric Real Madrid Champions League lift archive"
+  },
+  {
+   "vo": "He gave Harry Kane a replica of the first football brought to Croatia. It dates from 1880. Seven-nil, and still giving gifts. Classy.",
+   "card": "A 1880 football gift",
+   "sfx": null,
+   "footage": "HNS replica ball presentation, Kane and Modric"
+  },
+  {
+   "vo": "Then, at forty-one, he played all ninety minutes as Milan beat Inter three-one. Redemption, Milan style.",
+   "card": "Full 90 in derby",
+   "sfx": null,
+   "footage": "AC Milan Inter derby 3-1 highlights"
+  },
+  {
+   "vo": "Davor Suker says Modric would do a great job in Real Madrid's administration. Same club, smarter shoes.",
+   "card": "Suker's suit idea",
+   "sfx": null,
+   "footage": "Real Madrid boardroom exterior, neutral shot"
+  },
+  {
+   "vo": "Want the next story before it breaks? Betting tips, news and predictions at aboutfootball dot UK.",
+   "card": "aboutfootball dot UK",
+   "sfx": null,
+   "footage": "End card, no footage"
+  }
+ ],
+ "chars": 747,
+ "est_seconds": 42,
+ "footage_terms": [
+  "England Croatia 7-0 Rijeka highlights 2026",
+  "Croatia Spain Split 1-2 Merino highlights",
+  "Modric Milan Inter derby 3-1 2026 highlights",
+  "Modric Kane replica first football Croatia 1880"
+ ],
+ "inserts": [
+  {
+   "after_line": 1,
+   "story": "A cartoon scoreboard flips to England 7, Croatia 0 and starts to smoke. A caricature Modric hands the scoreboard a tiny apology card. The scoreboard reads it, sniffs, and flips back to 0-0 out of pity.",
+   "characters": "caricature Modric; generic cartoon scoreboard with a face; no real people",
+   "seconds": 2
+  },
+  {
+   "after_line": 4,
+   "story": "A cartoon boardroom has a suit on a hanger labelled administration. A caricature Modric tries it on and it fits perfectly, except the shoes, which are football boots. He shrugs, and the pocket sticker reads still playing.",
+   "characters": "caricature Modric; generic cartoon boardroom staff; no real people",
+   "seconds": 2
+  },
+  {
+   "after_line": 5,
+   "story": "A cartoon stopwatch counts up to ninety while younger cartoon midfielders fall over like dominoes. A caricature Modric jogs on, then asks, is that all? He politely hands the stopwatch to the last tired rookie to hold.",
+   "characters": "caricature Modric; generic cartoon midfielders; no real people",
+   "seconds": 2
+  }
+ ],
+ "facts_used": [
+  "England beat Croatia 7-0 in Rijeka; captain Modric said losing was not the problem but the way they lost was (https://www.nst.com.my/amp/sports/football/2026/10/1548661/modric-hopes-fans-back-croatia-against-spain-after-england-shame)",
+  "Croatia 1-2 Spain in Split; Merino scored twice (https://www.aljazeera.com/sports/2026/10/6/spains-merino-nets-twice-to-avoid-croatia-shock-and-maintain-perfect-start)",
+  "Six Champions League titles with Real Madrid (https://en.wikipedia.org/wiki/Luka_Modri%C4%87)",
+  "Replica of the first football brought to Croatia (1880, Zupanja) presented to Harry Kane (https://hns.team/en/news/32036/luka-modric-presents-harry-kane-with-a-replica-of-the-first-football-brought-to-croatia/)",
+  "Milan 3-1 Inter derby; Modric played 90 minutes (https://www.acmilan.com/en/news/articles/serie-a/2026-10-31/ac-milan-wins-the-derby)",
+  "Davor Suker: Modric would do a great job in Real Madrid administration; one person's opinion, no club announcement (https://sports.yahoo.com/articles/croatia-legend-opens-vinicius-flaws-140000527.html)"
+ ],
+ "comic_score": 7,
+ "notes": "Roasts the team and the result, not Modric personally; the captain's 'ashamed' comment is not repeated as a joke about him. The fan-racism stadium ban and health material are excluded. Suker's remark is opinion and is labelled as one person's view. The Champions League count comes from the Wikipedia reference in the pack. after_line counts from 1. Punch-up pass: jokes roast the scoreline and the calendar, not Modric. 'Giving gifts' is a light compliment. The gift timing relative to the match is not stated; the line does not claim it was given after the match."
+}

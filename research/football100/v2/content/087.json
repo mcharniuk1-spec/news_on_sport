@@ -1,0 +1,589 @@
+{
+ "no": 87,
+ "style": "CUTOUT-PAPER",
+ "prop": "card-red",
+ "cast": {
+  "klopp": {
+   "role": "coach",
+   "shirt": "#3a3d4f",
+   "hair": "#e3cf8a"
+  },
+  "official": {
+   "role": "staff",
+   "shirt": "#59616b",
+   "hair": "#2b2b3a"
+  },
+  "ref": {
+   "role": "referee"
+  }
+ },
+ "sequences": {
+  "s01": {
+   "type": "HOOK",
+   "q": "Klopp: is FIFA worse than Blatter's day?",
+   "prop": "chart-down",
+   "emote": "shock",
+   "board": "stamp",
+   "role": "coach"
+  },
+  "s02": {
+   "type": "NEWS",
+   "name": "Jürgen Klopp",
+   "fact": "Klopp hopes Gianni Infantino gets replaced",
+   "ticker": "Klopp wants a change",
+   "icons": [
+    "cap",
+    "whistle",
+    "clipboard"
+   ],
+   "role": "coach",
+   "actor": "klopp",
+   "dateline": "Germany coach"
+  },
+  "s03": {
+   "type": "COMIC",
+   "bg": "press-room",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "klopp",
+       "x": 300,
+       "y": 1440,
+       "pose": "point",
+       "emote": "angry-cheeky",
+       "scale": 1.45,
+       "talk": true,
+       "label": "Klopp",
+       "hold": {
+        "kind": "microphone",
+        "hand": "R",
+        "scale": 0.8
+       }
+      },
+      {
+       "id": "official",
+       "x": 790,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "smug",
+       "scale": 1.25,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "table",
+       "x": 790,
+       "y": 1370,
+       "scale": 3.4,
+       "layer": "front"
+      },
+      {
+       "kind": "card-red",
+       "x": 670,
+       "y": 1150,
+       "scale": 0.9,
+       "rot": -20,
+       "anim": "pop"
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.42,
+     "actors": [
+      {
+       "id": "klopp",
+       "x": 300,
+       "y": 1440,
+       "pose": "point",
+       "emote": "angry-cheeky",
+       "scale": 1.45,
+       "talk": true,
+       "hold": {
+        "kind": "microphone",
+        "hand": "R",
+        "scale": 0.8
+       }
+      },
+      {
+       "id": "official",
+       "x": 790,
+       "y": 1440,
+       "pose": "present",
+       "emote": "smug",
+       "scale": 1.25,
+       "flip": true,
+       "hold": {
+        "kind": "cross",
+        "hand": "R",
+        "scale": 1.2
+       }
+      }
+     ],
+     "props": [
+      {
+       "kind": "table",
+       "x": 790,
+       "y": 1370,
+       "scale": 3.4,
+       "layer": "front"
+      },
+      {
+       "kind": "card-red",
+       "x": 670,
+       "y": 1150,
+       "scale": 0.9,
+       "rot": -20
+      }
+     ],
+     "cam": "push"
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.42,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "klopp",
+       "x": 300,
+       "y": 1440,
+       "pose": "point",
+       "emote": "angry-cheeky",
+       "scale": 1.45,
+       "talk": true,
+       "hold": {
+        "kind": "microphone",
+        "hand": "R",
+        "scale": 0.8
+       }
+      },
+      {
+       "id": "official",
+       "x": 790,
+       "y": 1440,
+       "pose": "present",
+       "emote": "sweat",
+       "scale": 1.25,
+       "flip": true,
+       "hold": {
+        "kind": "hourglass",
+        "hand": "R",
+        "scale": 1.2
+       }
+      }
+     ],
+     "props": [
+      {
+       "kind": "table",
+       "x": 790,
+       "y": 1370,
+       "scale": 3.4,
+       "layer": "front"
+      },
+      {
+       "kind": "card-red",
+       "x": 670,
+       "y": 1150,
+       "scale": 0.9,
+       "rot": -20
+      }
+     ]
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "klopp",
+       "x": 300,
+       "y": 1440,
+       "pose": "shock",
+       "emote": "shock",
+       "scale": 1.45,
+       "hold": {
+        "kind": "microphone",
+        "hand": "R",
+        "scale": 0.8
+       }
+      },
+      {
+       "id": "official",
+       "x": 790,
+       "y": 1535,
+       "pose": "crouch",
+       "emote": "sweat",
+       "scale": 1.25,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "table",
+       "x": 790,
+       "y": 1370,
+       "scale": 3.4,
+       "layer": "front"
+      },
+      {
+       "kind": "card-red",
+       "x": 670,
+       "y": 1150,
+       "scale": 0.9,
+       "rot": -20
+      }
+     ],
+     "sfx": {
+      "text": "CLANG",
+      "x": 540,
+      "y": 560,
+      "r": 130
+     }
+    }
+   ]
+  },
+  "s04": {
+   "type": "COMIC",
+   "bg": "boardroom",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "klopp",
+       "x": 300,
+       "y": 1440,
+       "pose": "present",
+       "emote": "happy",
+       "scale": 1.45
+      }
+     ],
+     "props": [
+      {
+       "kind": "pitch-board",
+       "x": 740,
+       "y": 700,
+       "scale": 2.2,
+       "rot": -4,
+       "anim": "pop",
+       "label": "Blatter's day"
+      },
+      {
+       "kind": "card-red",
+       "x": 430,
+       "y": 1300,
+       "scale": 0.8,
+       "anim": "pop"
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "klopp",
+       "x": 250,
+       "y": 1440,
+       "pose": "think",
+       "emote": "sweat",
+       "scale": 1.45,
+       "look": "pitch-board"
+      }
+     ],
+     "props": [
+      {
+       "kind": "pitch-board",
+       "x": 740,
+       "y": 700,
+       "scale": 2.2,
+       "rot": -4,
+       "label": "Blatter's day"
+      },
+      {
+       "kind": "card-red",
+       "x": 560,
+       "y": 790,
+       "scale": 0.9,
+       "rot": -12
+      }
+     ],
+     "cam": "push"
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "klopp",
+       "x": 270,
+       "y": 1440,
+       "pose": "shock",
+       "emote": "dizzy",
+       "scale": 1.45
+      }
+     ],
+     "props": [
+      {
+       "kind": "pitch-board",
+       "x": 840,
+       "y": 1390,
+       "scale": 2.2,
+       "rot": 80
+      },
+      {
+       "kind": "screen",
+       "x": 672,
+       "y": 720,
+       "scale": 2.7,
+       "anim": "drop",
+       "label": "Twenty billion dollars"
+      },
+      {
+       "kind": "card-red",
+       "x": 560,
+       "y": 790,
+       "scale": 0.9,
+       "rot": -12
+      }
+     ],
+     "cam": "shake",
+     "sfx": {
+      "text": "THUD",
+      "x": 400,
+      "y": 520,
+      "r": 120
+     }
+    }
+   ]
+  },
+  "s05": {
+   "type": "PROVOC",
+   "q": "A twenty billion dollar World Cup company?",
+   "a": "Great idea",
+   "b": "No thanks",
+   "split": [
+    24,
+    76
+   ],
+   "mood": "shock"
+  },
+  "s06": {
+   "type": "COMIC",
+   "bg": "studio",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "klopp",
+       "x": 300,
+       "y": 1440,
+       "pose": "point",
+       "emote": "smug",
+       "scale": 1.45
+      }
+     ],
+     "props": [
+      {
+       "kind": "table",
+       "x": 560,
+       "y": 1390,
+       "scale": 2.6
+      },
+      {
+       "kind": "scoreboard",
+       "x": 560,
+       "y": 1130,
+       "scale": 2.0,
+       "text": "20",
+       "face": "happy"
+      },
+      {
+       "kind": "card-red",
+       "x": 450,
+       "y": 1290,
+       "scale": 0.8,
+       "rot": 15
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "klopp",
+       "x": 300,
+       "y": 1440,
+       "pose": "shock",
+       "emote": "shock",
+       "scale": 1.45
+      }
+     ],
+     "props": [
+      {
+       "kind": "table",
+       "x": 560,
+       "y": 1390,
+       "scale": 2.6
+      },
+      {
+       "kind": "scoreboard",
+       "x": 560,
+       "y": 1130,
+       "scale": 2.0,
+       "text": "20",
+       "face": "shock"
+      },
+      {
+       "kind": "card-red",
+       "x": 450,
+       "y": 1290,
+       "scale": 0.8,
+       "rot": 15
+      },
+      {
+       "kind": "coin",
+       "x": 520,
+       "y": 1320,
+       "scale": 1.2,
+       "anim": "arc"
+      },
+      {
+       "kind": "coin",
+       "x": 430,
+       "y": 1420,
+       "scale": 1.2,
+       "anim": "arc"
+      },
+      {
+       "kind": "coin",
+       "x": 360,
+       "y": 1440,
+       "scale": 1.2,
+       "anim": "arc"
+      }
+     ],
+     "cam": "push"
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "klopp",
+       "x": 300,
+       "y": 1440,
+       "pose": "shrug",
+       "emote": "sweat",
+       "scale": 1.45
+      },
+      {
+       "id": "ref",
+       "x": 880,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "angry-cheeky",
+       "scale": 1.2,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "table",
+       "x": 560,
+       "y": 1390,
+       "scale": 2.6
+      },
+      {
+       "kind": "scoreboard",
+       "x": 560,
+       "y": 1130,
+       "scale": 2.0,
+       "text": "20",
+       "face": "cry",
+       "rot": 8
+      },
+      {
+       "kind": "card-red",
+       "x": 700,
+       "y": 820,
+       "scale": 1.5,
+       "anim": "pop",
+       "rot": -10
+      }
+     ],
+     "sfx": {
+      "text": "DING",
+      "x": 300,
+      "y": 520,
+      "r": 110
+     }
+    }
+   ]
+  },
+  "s07": {
+   "type": "STATS",
+   "items": [
+    {
+     "icon": "coin",
+     "value": "20",
+     "label": "Twenty billion dollars"
+    },
+    {
+     "icon": "calendar",
+     "value": "15",
+     "label": "Twenty-fifteen"
+    },
+    {
+     "icon": "flag",
+     "value": "2027",
+     "label": "In Rabat"
+    }
+   ]
+  },
+  "s08": {
+   "type": "INTERVIEW",
+   "label": "REPORTER ASKS",
+   "bubble": "Klopp, any opinions to bring?",
+   "answer": {
+    "icon": "megaphone",
+    "gesture": "present",
+    "emote": "smug"
+   },
+   "subject": "Klopp",
+   "subject_cast": "klopp",
+   "reporter_role": "reporter"
+  }
+ }
+}

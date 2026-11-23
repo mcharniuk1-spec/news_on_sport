@@ -1,0 +1,272 @@
+{
+ "video_id": "UJpuIXIJAHM",
+ "topic": "FC Barcelona 6-1 Alavés La Liga 2026/27 matchday 11 highlights",
+ "hero": "Barcelona team (Raphinha, Lamine Yamal scoring twice each per description)",
+ "hero_role": "winning team",
+ "media_type_overall": "real broadcast footage",
+ "hook": "Blue-red 'BARÇAAAA' graphic in bold white capitals",
+ "subtitle_style": "Broadcast score bug top-left, LaLiga EA Sports logo top-right; 'BARÇAAAA' title card",
+ "reaction_overlays": "none",
+ "transition_summary": "Highlights with hard cuts every 3-6 s between wide tactical and close-ups; 10 detected cuts in 60 s",
+ "audio_note": "Original broadcast ambience or commentary; description only (Halloween weekend context)",
+ "reuse_segments": [
+  {
+   "t0": 0,
+   "t1": 60,
+   "what": "Barcelona v Alaves highlights",
+   "origin_guess": "broadcast match",
+   "rights_risk": "high",
+   "how_to_reuse": "needs LaLiga rights; recreate with generated visuals"
+  }
+ ],
+ "frames": [
+  {
+   "idx": 1,
+   "t": 0,
+   "desc": "'BARÇAAAA' white text on blue-red split background",
+   "type": "graphic_card",
+   "text_on_screen": "BARÇAAAA",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 2,
+   "t": 2,
+   "desc": "Barcelona players walking out of tunnel, one in red training jacket",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 3,
+   "t": 4,
+   "desc": "Barcelona mascot with yellow head and staff in red jackets in tunnel",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 4,
+   "t": 6,
+   "desc": "Man in maroon jacket walking head down, mascot behind",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 5,
+   "t": 8,
+   "desc": "Barcelona line-up on pitch, goalkeeper in orange",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 6,
+   "t": 10,
+   "desc": "Barcelona line-up on pitch, goalkeeper in orange",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 7,
+   "t": 12,
+   "desc": "Wide tactical camera Barcelona vs light-blue, score bug 0-0",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 8,
+   "t": 14,
+   "desc": "Wide tactical camera Barcelona vs light-blue, score bug 0-0",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 9,
+   "t": 16,
+   "desc": "Wide tactical camera Barcelona vs light-blue, score bug 0-0",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 10,
+   "t": 18,
+   "desc": "Wide camera at corner, Barca attack, Estrella Damm boards",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 11,
+   "t": 20,
+   "desc": "Wide camera at corner, Barca attack, Estrella Damm boards",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 12,
+   "t": 22,
+   "desc": "Wide camera at corner, Barca attack, Estrella Damm boards",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 13,
+   "t": 24,
+   "desc": "Barca #11 celebrating arms out, crowd behind",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 14,
+   "t": 26,
+   "desc": "Fans celebrating in stands",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 15,
+   "t": 28,
+   "desc": "Light-blue player sliding, ball in goal",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 16,
+   "t": 30,
+   "desc": "Goal-line view, Barca ball into net, keeper beaten",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 17,
+   "t": 32,
+   "desc": "Wide shot pitch with Estrella Damm boards",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 18,
+   "t": 34,
+   "desc": "Wide shot pitch with Estrella Damm boards",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 19,
+   "t": 36,
+   "desc": "Wide tactical camera, Barca players near box",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 20,
+   "t": 38,
+   "desc": "Wide tactical camera, Barca players near box",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 21,
+   "t": 40,
+   "desc": "Barca player in dark kit running after goal",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 22,
+   "t": 42,
+   "desc": "Barca player in dark kit running after goal",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 23,
+   "t": 44,
+   "desc": "Goal mouth, goalkeeper in yellow reaches ball, Barca attackers closing",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 24,
+   "t": 46,
+   "desc": "Wide shot Barca attack, Ambilight Philips boards",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 25,
+   "t": 48,
+   "desc": "Wide shot Barca attack, Ambilight Philips boards",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 26,
+   "t": 50,
+   "desc": "Wide shot, Egyptair boards",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 27,
+   "t": 52,
+   "desc": "Wide shot, Egyptair boards",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 28,
+   "t": 54,
+   "desc": "Close-up Barca player looking up",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 29,
+   "t": 56,
+   "desc": "Goal net view, keeper diving in net",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 30,
+   "t": 58,
+   "desc": "Wide halfway line, Barca vs light-blue",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 31,
+   "t": 60,
+   "desc": "Wide halfway line, Barca vs light-blue",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "none"
+  }
+ ]
+}

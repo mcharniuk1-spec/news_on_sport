@@ -1,0 +1,90 @@
+{
+ "no": 3,
+ "subject": "Cristiano Ronaldo",
+ "title": "985 goals and still getting rested",
+ "voice": "kokoro",
+ "comic": true,
+ "style": "simpsons",
+ "lines": [
+  {
+   "vo": "Nine hundred and eighty-five goals, and still rested for a six-two win.",
+   "card": "985 career goals",
+   "sfx": "short bass sting",
+   "footage": "Ronaldo Al Nassr goals highlights 2026"
+  },
+  {
+   "vo": "On November second he sat out a six-two Champions League win. Al Nassr scored six without him. Rotation, apparently.",
+   "card": "Rested for six-two",
+   "sfx": null,
+   "footage": "Pakhtakor v Al Nassr Champions League highlights"
+  },
+  {
+   "vo": "Then he retired from Portugal. Twenty-three years, two hundred thirty-four caps, one hundred forty-six goals. That is a very long shift.",
+   "card": "234 caps, 146 goals",
+   "sfx": null,
+   "footage": "Ronaldo Portugal career tribute video"
+  },
+  {
+   "vo": "Portugal's first game without him: four-one to Denmark. The banner said thank you, captain. The scoreboard said, we noticed.",
+   "card": "Thank you, captain",
+   "sfx": "crowd cheer",
+   "footage": "Portugal fans thank you captain banner"
+  },
+  {
+   "vo": "Fifteen short of a thousand. That is five hat-tricks. No man has ever reached a thousand.",
+   "card": "15 short of 1,000",
+   "sfx": null,
+   "footage": "Ronaldo 1000 goals countdown graphic"
+  },
+  {
+   "vo": "So he is rested and ready for Al Ahli away. Al Ahli, you have been warned.",
+   "card": "Rested and ready",
+   "sfx": "record scratch",
+   "footage": "Al Nassr match day warm-up clip"
+  },
+  {
+   "vo": "Want the next story before it breaks? Betting tips, news and predictions at aboutfootball dot UK.",
+   "card": "aboutfootball.UK",
+   "sfx": null,
+   "footage": "end card, no footage"
+  }
+ ],
+ "chars": 707,
+ "est_seconds": 39,
+ "footage_terms": [
+  "Ronaldo Al Nassr goals 2026",
+  "Ronaldo Champions League goals Al Nassr",
+  "Ronaldo Portugal farewell",
+  "Ronaldo 800 goals celebration"
+ ],
+ "inserts": [
+  {
+   "after_line": 2,
+   "story": "A cartoon coach hands a caricature of Ronaldo a fluffy pillow and a sign saying Rotation. Gag: Ronaldo lies on the bench with eyes wide open, doing sit-ups on the pillow. Twist: a far-away whistle blows and he springs up already in full kit.",
+   "characters": "generic cartoon coach; caricature of Cristiano Ronaldo",
+   "seconds": 2
+  },
+  {
+   "after_line": 3,
+   "story": "A cartoon Al Ahli coach builds a wall against a caricature of Ronaldo's free kick: ten tiny defenders with umbrellas. Gag: nobody looks at the ball, they all look at the sky. Twist: the wall is really stacked water bottles, a nod to the water plant he backs.",
+   "characters": "generic cartoon coach and defenders; caricature of Cristiano Ronaldo",
+   "seconds": 2
+  },
+  {
+   "after_line": 4,
+   "story": "Cartoon fans hold a giant banner reading Thank you, captain. A caricature of Ronaldo hands his shirt and armband to a cartoon kit man, who stamps them Returned. Twist: the scoreboard behind them flashes 4-1 and the kit man quietly hands the armband back.",
+   "characters": "generic cartoon fans and kit man; caricature of Cristiano Ronaldo",
+   "seconds": 2
+  }
+ ],
+ "facts_used": [
+  "Al Nassr 6-2 Pakhtakor on 2 Nov 2026; Ronaldo rested with Coman and Simakan (bo pack recent_news 2026-11-02)",
+  "Retired from Portugal after 23 years, 234 caps, 146 goals; handed back shirt and armband (bo pack recent_news 2026-11-05)",
+  "Portugal lost 4-1 to Denmark in first game without him; Thank you, captain banner (bo pack recent_news 2026-11-14)",
+  "985 career goals per league count, 15 short of 1,000; no man has reached 1,000 (bo pack praise)",
+  "Rested and ready for Al Ahli away; Al Nassr third (bo pack recent_news 2026-11-20)",
+  "Backs nearly EUR 20m water bottling plant in Gostei, Portugal (bo pack recent_news 2026-11-11)"
+ ],
+ "comic_score": 8,
+ "notes": "after_line is 1-based index into lines. 985 is the league count; the 982nd own-goal debate is in part B. Skipped: mother and Jesus row (family), Trump anecdote (political), hair clinics (health-adjacent), injury, Norway bench story (reported not confirmed). Al Ahli away is the next fixture per the pack. Punch-up pass: 'five hat-tricks' is simple arithmetic on the 15-goal gap; jokes are about rotation and the banner only."
+}

@@ -1,0 +1,76 @@
+{
+ "no": 83,
+ "subject": "Bayern reportedly still chasing Liverpool teen Rio Ngumoha",
+ "title": "Bayern's seventy million miss",
+ "voice": "EL_A",
+ "comic": false,
+ "style": null,
+ "lines": [
+  {
+   "vo": "Bayern reportedly offered seventy million euros, then signed someone else.",
+   "card": "70m, then Saibari",
+   "sfx": null,
+   "footage": "Rio Ngumoha Liverpool highlights"
+  },
+  {
+   "vo": "They still need a left winger, so they keep chasing Liverpool's eighteen-year-old, Rio Ngumoha. Seventy million euros is quite a compliment.",
+   "card": "Left winger hunt",
+   "sfx": null,
+   "footage": "Rio Ngumoha goal"
+  },
+  {
+   "vo": "Instead, they signed Ismael Saibari. Plan B arrived, and the left wing is still waiting.",
+   "card": "Saibari signed",
+   "sfx": null,
+   "footage": "Ismael Saibari Bayern highlights"
+  },
+  {
+   "vo": "A later report says Liverpool have no plans to sell. Bayern may try again in January or next summer.",
+   "card": "Liverpool say no",
+   "sfx": null,
+   "footage": "Rio Ngumoha Liverpool goals"
+  },
+  {
+   "vo": "An offer, a signing, and still no left winger. That is not a transfer window. That is a waiting room.",
+   "card": "Bayern patience",
+   "sfx": null,
+   "footage": "Bayern Munich wide attack highlights"
+  },
+  {
+   "vo": "Your mates will never guess this. Match news and betting tips at aboutfootball dot UK.",
+   "card": "aboutfootball.UK",
+   "sfx": null,
+   "footage": "end card"
+  }
+ ],
+ "chars": 589,
+ "est_seconds": 33,
+ "footage_terms": [
+  "Rio Ngumoha Liverpool highlights",
+  "Rio Ngumoha goal",
+  "Ngumoha Bayern Munich transfer",
+  "Rio Ngumoha highlights"
+ ],
+ "inserts": [
+  {
+   "after_line": 0,
+   "story": "A cartoon club official wheels a barrow stacked with 70 coins up to a gate. Gag: the coins turn into a tall tower. Twist: the gate opens and a different winger walks out.",
+   "characters": "generic cartoon coin wheelbarrow",
+   "seconds": 2
+  },
+  {
+   "after_line": 1,
+   "story": "A cartoon winger arrives wearing a bright shirt on the right wing. Gag: the left wing stays empty with a lonely chair. Twist: a tiny sign on the chair reads Reserved.",
+   "characters": "generic cartoon winger",
+   "seconds": 2
+  }
+ ],
+ "facts_used": [
+  "ESPN, citing Bild's Christian Falk: Bayern still in talks to sign the 18-year-old Liverpool winger (ev0124)",
+  "Bayern reportedly offered 70 million euros in the summer but signed Ismael Saibari instead (ev0124)",
+  "Bayern still lack a left winger; January or summer move could return (ev0124)",
+  "ESPN roundup of 18 Nov: Liverpool reportedly have no plans to sell (ev0124)"
+ ],
+ "comic_score": 4,
+ "notes": "Non-comic, EL_A (600 limit). Rumour, confidence medium. Nationality not mentioned on purpose. Fixed an earlier wording that said the 70m offer 'went to' Saibari; the source only says Bayern signed him instead."
+}

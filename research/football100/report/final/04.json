@@ -1,0 +1,604 @@
+[
+ {
+  "hook_type": "stat_shock",
+  "hook_basis": "contract_or_job",
+  "topic_primary": "manager_news",
+  "scope": "english_other",
+  "subject_type": "manager",
+  "timeliness": "recent_month",
+  "uk_relevance": "high",
+  "story_structure": "stat_stack",
+  "twist_position": "middle",
+  "payoff_type": "punchline",
+  "humour_type": "understatement",
+  "humour_target": "club",
+  "dominant_emotion": "amusement",
+  "comment_bait": "hot_take",
+  "cta_opener_type": "question",
+  "hook_type_alt": "roast_jab",
+  "hook_strength": 3.0,
+  "story_clarity": 4.0,
+  "humour_quality": 3.0,
+  "shareability": 2.0,
+  "comment_potential": 2.5,
+  "uk_fit": 5.0,
+  "novelty": 2.0,
+  "poster_title_sells_hook": 3.0,
+  "poster_joke_quality": 2.0,
+  "humour_intensity": 1.5,
+  "virality_pred": 4.0,
+  "risk_flags": [
+   "none"
+  ],
+  "hook_type_why": "Opens on \"Thirteen months\", then jabs \"how long West Ham's patience lasted\".",
+  "hook_basis_detail": "West Ham sacked Nuno after 13 months and named Scott Parker, 46, the next morning.",
+  "story_summary": "West Ham sack Nuno, rehire Parker; he drew 3-3 at Cardiff from 3-0 down and has three promotions.",
+  "poster_issue": "Speech bubble is a plain fact, not a joke; \"OUCH!\" does not match anything in the story.",
+  "poster_change": "Use a real quip: \"Sacked Nuno. Hired Parker. Before breakfast.\" Match burst to the 3-3 comeback.",
+  "changes": [
+   {
+    "priority": "P2",
+    "category": "vary_cta",
+    "action": "Replace the CTA opener used in 25 videos with a fresh line."
+   },
+   {
+    "priority": "P2",
+    "category": "add_comment_bait",
+    "action": "Add a closing question: was sacking Nuno right, and will Parker last?"
+   },
+   {
+    "priority": "P2",
+    "category": "poster_title",
+    "action": "Put the Cardiff 3-3 twist or the 13-month number on the cover."
+   }
+  ],
+  "no": 31,
+  "annotator_agreement": 0.89
+ },
+ {
+  "hook_type": "stat_shock",
+  "hook_basis": "record_or_milestone",
+  "topic_primary": "match_report",
+  "scope": "english_other",
+  "subject_type": "club_team",
+  "timeliness": "breaking_week",
+  "uk_relevance": "high",
+  "story_structure": "chronological_recap",
+  "twist_position": "middle",
+  "payoff_type": "shock_stat",
+  "humour_type": "understatement",
+  "humour_target": "situation",
+  "dominant_emotion": "surprise",
+  "comment_bait": "none",
+  "cta_opener_type": "question",
+  "hook_type_alt": "contrast_twist",
+  "hook_strength": 4.5,
+  "story_clarity": 4.0,
+  "humour_quality": 4.0,
+  "shareability": 4.5,
+  "comment_potential": 3.5,
+  "uk_fit": 5.0,
+  "novelty": 3.5,
+  "poster_title_sells_hook": 4.5,
+  "poster_joke_quality": 2.0,
+  "humour_intensity": 2.0,
+  "virality_pred": 8.5,
+  "risk_flags": [
+   "none"
+  ],
+  "hook_type_why": "\"Forty-three games unbeaten. Then England popped round to Madrid.\" number, then a flip.",
+  "hook_basis_detail": "Spain's 43-match unbeaten run ended by England's 3-2 win in Madrid.",
+  "story_summary": "England lead 3-0 in Madrid, lose a man, survive a Yamal-inspired Spain fightback and end Spain's 43-game run.",
+  "poster_issue": "Bubble \"Harry Kane scored a penalty\" is flat and not funny; it wastes the biggest joke space.",
+  "poster_change": "Bubble: \"Spain's 43-game run. England's afternoon.\" Or use the pasta gag about Yamal.",
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "poster_title",
+    "action": "Swap flat Kane bubble for the 'popped round to Madrid' or 3-0 joke."
+   },
+   {
+    "priority": "P2",
+    "category": "vary_cta",
+    "action": "Change the CTA opener used in 20 videos."
+   },
+   {
+    "priority": "P2",
+    "category": "add_comment_bait",
+    "action": "Add a line asking if this is Tuchel's best result and if England can win the World Cup."
+   }
+  ],
+  "no": 32,
+  "annotator_agreement": 0.89
+ },
+ {
+  "hook_type": "contrast_twist",
+  "hook_basis": "comeback_collapse",
+  "topic_primary": "comeback",
+  "scope": "europe_club",
+  "subject_type": "club_team",
+  "timeliness": "recent_month",
+  "uk_relevance": "high",
+  "story_structure": "chronological_recap",
+  "twist_position": "late",
+  "payoff_type": "punchline",
+  "humour_type": "roast",
+  "humour_target": "club",
+  "dominant_emotion": "surprise",
+  "comment_bait": "none",
+  "cta_opener_type": "mates_social",
+  "hook_type_alt": "stat_shock",
+  "hook_strength": 4.0,
+  "story_clarity": 3.5,
+  "humour_quality": 4.0,
+  "shareability": 3.5,
+  "comment_potential": 3.0,
+  "uk_fit": 5.0,
+  "novelty": 3.0,
+  "poster_title_sells_hook": 4.0,
+  "poster_joke_quality": 2.5,
+  "humour_intensity": 2.0,
+  "virality_pred": 7.0,
+  "risk_flags": [
+   "none"
+  ],
+  "hook_type_why": "\"Two-nil down after eighteen minutes. Man United still won three-two.\" deficit, then win.",
+  "hook_basis_detail": "Man United trailed Roma 2-0 after 18 minutes and won 3-2; Cunha scored twice in three minutes.",
+  "story_summary": "United recover from 2-0 down to beat unbeaten Roma 3-2; Cunha scores twice, Fernandes retakes a penalty, Cunha is sent off.",
+  "poster_issue": "Bubble \"Roma came in unbeaten\" is a fact, not a joke; the best line (day trip defence) is unused.",
+  "poster_change": "Bubble: \"Roma's defence took a day trip.\" Keep the headline.",
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "vary_cta",
+    "action": "Replace 'Your mates will never guess this', used in 32 videos."
+   },
+   {
+    "priority": "P2",
+    "category": "poster_title",
+    "action": "Swap bubble to the day-trip-defence joke."
+   },
+   {
+    "priority": "P2",
+    "category": "add_comment_bait",
+    "action": "Ask who was the real hero: Cunha or the retake rule?"
+   }
+  ],
+  "no": 33,
+  "annotator_agreement": 0.96
+ },
+ {
+  "hook_type": "contrast_twist",
+  "hook_basis": "transfer_fee_or_bid",
+  "topic_primary": "transfer_story",
+  "scope": "la_liga",
+  "subject_type": "player",
+  "timeliness": "breaking_week",
+  "uk_relevance": "medium",
+  "story_structure": "rumour_explainer",
+  "twist_position": "middle",
+  "payoff_type": "open_question",
+  "humour_type": "deadpan_stat",
+  "humour_target": "situation",
+  "dominant_emotion": "curiosity",
+  "comment_bait": "hot_take",
+  "cta_opener_type": "mates_social",
+  "hook_type_alt": "stat_shock",
+  "hook_strength": 5.0,
+  "story_clarity": 4.0,
+  "humour_quality": 3.0,
+  "shareability": 3.5,
+  "comment_potential": 3.5,
+  "uk_fit": 3.0,
+  "novelty": 3.5,
+  "poster_title_sells_hook": 3.5,
+  "poster_joke_quality": 2.0,
+  "humour_intensity": 1.5,
+  "virality_pred": 6.0,
+  "risk_flags": [
+   "unverified_claim"
+  ],
+  "hook_type_why": "\"Sold for six million. Possibly bought back for eighty.\" two prices in two sentences.",
+  "hook_basis_detail": "Nico Paz sold to Como for about EUR 6m; buy-back clause reportedly raised to EUR 80m.",
+  "story_summary": "Madrid reportedly plan to use Paz's EUR 80m buy-back from Como; unconfirmed, Chelsea, United and Arsenal also watching.",
+  "poster_issue": "Bubble about the restructured deal is dull and drops the 6m to 80m number that sells the hook.",
+  "poster_change": "Bubble: \"Six million in. Eighty million back?\" Keep the headline.",
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "verify_fact",
+    "action": "Confirm clause size and how the restructure changed it; reports conflict."
+   },
+   {
+    "priority": "P2",
+    "category": "stronger_twist",
+    "action": "End on a punchline instead of the Chelsea, United, Arsenal list."
+   },
+   {
+    "priority": "P2",
+    "category": "vary_cta",
+    "action": "Rotate the CTA opener used in 32 videos."
+   },
+   {
+    "priority": "P2",
+    "category": "poster_title",
+    "action": "Replace the bubble with the 6m to 80m arithmetic joke."
+   },
+   {
+    "priority": "P3",
+    "category": "add_comment_bait",
+    "action": "Ask if 80m is a bargain, and name the three rival clubs as fan-rivalry bait."
+   }
+  ],
+  "no": 34,
+  "annotator_agreement": 0.86
+ },
+ {
+  "hook_type": "stat_shock",
+  "hook_basis": "viral_or_social",
+  "topic_primary": "viral_moment",
+  "scope": "premier_league",
+  "subject_type": "manager",
+  "timeliness": "breaking_week",
+  "uk_relevance": "high",
+  "story_structure": "chronological_recap",
+  "twist_position": "middle",
+  "payoff_type": "none",
+  "humour_type": "wordplay",
+  "humour_target": "club",
+  "dominant_emotion": "amusement",
+  "comment_bait": "hot_take",
+  "cta_opener_type": "mates_social",
+  "hook_type_alt": "curiosity_gap",
+  "hook_strength": 4.0,
+  "story_clarity": 4.0,
+  "humour_quality": 3.5,
+  "shareability": 4.0,
+  "comment_potential": 4.0,
+  "uk_fit": 5.0,
+  "novelty": 4.0,
+  "poster_title_sells_hook": 3.5,
+  "poster_joke_quality": 2.0,
+  "humour_intensity": 2.0,
+  "virality_pred": 7.5,
+  "risk_flags": [
+   "betting_under18_appeal",
+   "off_topic_footage_risk"
+  ],
+  "hook_type_why": "\"Eight million views for a session meant to be secret.\" number plus a hidden thing.",
+  "hook_basis_detail": "Drone footage of Pochettino's first Man United training passed eight million views.",
+  "story_summary": "A drone films 12 minutes of Pochettino's secret United session; operator apologises, Iraola backs a ban, United may sue next time.",
+  "poster_issue": "Bubble just repeats the premise; no joke. The strongest line, something United could not mark, is missing.",
+  "poster_change": "Bubble: \"Finally, something United could not mark.\"",
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "poster_hero_art",
+    "action": "Check looney-style cartoon art against the betting CTA; use a neutral hero."
+   },
+   {
+    "priority": "P2",
+    "category": "poster_title",
+    "action": "Put the \"could not mark\" joke in the bubble."
+   },
+   {
+    "priority": "P2",
+    "category": "footage_match",
+    "action": "Confirm cartoon inserts do not imply real drone footage or real people."
+   },
+   {
+    "priority": "P2",
+    "category": "add_comment_bait",
+    "action": "End on a direct question: should drones be banned from training grounds?"
+   },
+   {
+    "priority": "P3",
+    "category": "vary_cta",
+    "action": "Rotate the CTA opener used in 32 videos."
+   },
+   {
+    "priority": "P3",
+    "category": "stronger_twist",
+    "action": "End on the Anfield date with a pointed line instead of a flat close."
+   }
+  ],
+  "no": 35,
+  "annotator_agreement": 0.89
+ },
+ {
+  "hook_type": "stat_shock",
+  "hook_basis": "transfer_fee_or_bid",
+  "topic_primary": "transfer_story",
+  "scope": "serie_a",
+  "subject_type": "player",
+  "timeliness": "breaking_week",
+  "uk_relevance": "medium",
+  "story_structure": "stat_stack",
+  "twist_position": "late",
+  "payoff_type": "punchline",
+  "humour_type": "deadpan_stat",
+  "humour_target": "club",
+  "dominant_emotion": "curiosity",
+  "comment_bait": "none",
+  "cta_opener_type": "question",
+  "hook_type_alt": "contrast_twist",
+  "hook_strength": 3.5,
+  "story_clarity": 3.5,
+  "humour_quality": 3.0,
+  "shareability": 3.0,
+  "comment_potential": 2.5,
+  "uk_fit": 3.0,
+  "novelty": 4.0,
+  "poster_title_sells_hook": 3.0,
+  "poster_joke_quality": 2.5,
+  "humour_intensity": 2.0,
+  "virality_pred": 5.5,
+  "risk_flags": [
+   "single_source",
+   "unverified_claim"
+  ],
+  "hook_type_why": "\"Two and a half million, reportedly. Now he tops Serie A.\" cheap fee, then top scorer.",
+  "hook_basis_detail": "Varela reportedly cost Monza EUR 2.5m from Benfica; Goal says Monza now ask EUR 35m.",
+  "story_summary": "Monza striker Varela leads Serie A scoring while Monza sit in the drop zone; Spurs, Liverpool, Juventus and Napoli circle at EUR 35m.",
+  "poster_issue": "Bubble gives his age and top-scorer fact with no joke; the 2.5m to 35m number is missing.",
+  "poster_change": "Bubble: \"Cost 2.5m. Now asking 35m. Tops Serie A.\"",
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "verify_fact",
+    "action": "Check the 35m ask and 2.5m fee; both rest on Goal alone."
+   },
+   {
+    "priority": "P1",
+    "category": "hook_rewrite",
+    "action": "Name Varela and the 2.5m-to-35m jump in the first sentence."
+   },
+   {
+    "priority": "P2",
+    "category": "add_comment_bait",
+    "action": "Ask: would Varela work at Spurs or Liverpool?"
+   },
+   {
+    "priority": "P3",
+    "category": "poster_title",
+    "action": "Use the fee jump in the bubble."
+   }
+  ],
+  "no": 36,
+  "annotator_agreement": 0.82
+ },
+ {
+  "hook_type": "news_flash",
+  "hook_basis": "upset",
+  "topic_primary": "giant_killing",
+  "scope": "premier_league",
+  "subject_type": "club_team",
+  "timeliness": "recent_month",
+  "uk_relevance": "high",
+  "story_structure": "stat_stack",
+  "twist_position": "late",
+  "payoff_type": "punchline",
+  "humour_type": "understatement",
+  "humour_target": "club",
+  "dominant_emotion": "schadenfreude",
+  "comment_bait": "fan_rivalry",
+  "cta_opener_type": "mates_social",
+  "hook_type_alt": "stat_shock",
+  "hook_strength": 3.0,
+  "story_clarity": 4.5,
+  "humour_quality": 3.5,
+  "shareability": 3.0,
+  "comment_potential": 3.5,
+  "uk_fit": 5.0,
+  "novelty": 2.0,
+  "poster_title_sells_hook": 3.0,
+  "poster_joke_quality": 2.0,
+  "humour_intensity": 2.0,
+  "virality_pred": 5.5,
+  "risk_flags": [
+   "none"
+  ],
+  "hook_type_why": "\"Sunderland's first Premier League win since August. Against Chelsea. One-nil.\" plain announcement with drought.",
+  "hook_basis_detail": "Sunderland's first Premier League win since August came 1-0 over Chelsea through a Le Fee penalty.",
+  "story_summary": "Sunderland beat Chelsea 1-0 on a Le Fee penalty, leaving the bottom while Chelsea drop out of the top four; Le Bris gets relief.",
+  "poster_issue": "\"Brobbey was brought down\" reads like an injury story, not a joke; \"CHEEKY!\" hints at a dodgy penalty not in the video.",
+  "poster_change": "Bubble: \"Beaten by Zagreb. Then Chelsea beaten by Sunderland.\" Keep the headline.",
+  "changes": [
+   {
+    "priority": "P2",
+    "category": "poster_title",
+    "action": "Replace the bubble with the Zagreb-then-Chelsea irony."
+   },
+   {
+    "priority": "P2",
+    "category": "vary_cta",
+    "action": "Rotate the CTA opener used in 32 videos."
+   },
+   {
+    "priority": "P3",
+    "category": "add_comment_bait",
+    "action": "Ask whether the penalty was soft."
+   },
+   {
+    "priority": "P3",
+    "category": "hook_rewrite",
+    "action": "Lead with the bottom-of-the-table twist rather than a plain news line."
+   }
+  ],
+  "no": 37,
+  "annotator_agreement": 0.93
+ },
+ {
+  "hook_type": "news_flash",
+  "hook_basis": "transfer_fee_or_bid",
+  "topic_primary": "transfer_story",
+  "scope": "serie_a",
+  "subject_type": "player",
+  "timeliness": "breaking_week",
+  "uk_relevance": "medium",
+  "story_structure": "rumour_explainer",
+  "twist_position": "late",
+  "payoff_type": "punchline",
+  "humour_type": "deadpan_stat",
+  "humour_target": "situation",
+  "dominant_emotion": "curiosity",
+  "comment_bait": "hot_take",
+  "cta_opener_type": "mates_social",
+  "hook_type_alt": "none",
+  "hook_strength": 3.0,
+  "story_clarity": 3.0,
+  "humour_quality": 3.5,
+  "shareability": 3.0,
+  "comment_potential": 3.5,
+  "uk_fit": 4.0,
+  "novelty": 3.0,
+  "poster_title_sells_hook": 2.5,
+  "poster_joke_quality": 2.5,
+  "humour_intensity": 2.0,
+  "virality_pred": 5.5,
+  "risk_flags": [
+   "unverified_claim"
+  ],
+  "hook_type_why": "\"Napoli reportedly want seven million for Kevin De Bruyne. PSV say no.\" plain report with a figure.",
+  "hook_basis_detail": "Napoli reportedly want EUR 7m for De Bruyne, 35; PSV reportedly offered 2m and refuse to pay more.",
+  "story_summary": "Napoli ask 7m for De Bruyne, PSV offered 2m, Allegri opposes a midseason sale; he won six titles for City.",
+  "poster_issue": "Bubble repeats a rumour fact; it does not use the six-titles or \"a million a trophy\" joke.",
+  "poster_change": "Bubble: \"Six titles. Seven million. Bargain.\"",
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "verify_fact",
+    "action": "Confirm 7m, 2m and Allegri claims; all are press reports."
+   },
+   {
+    "priority": "P1",
+    "category": "hook_rewrite",
+    "action": "Open on 'six titles for seven million' to bury less and surprise more."
+   },
+   {
+    "priority": "P2",
+    "category": "vary_cta",
+    "action": "Rotate the CTA opener used in 32 videos."
+   }
+  ],
+  "no": 38,
+  "annotator_agreement": 0.93
+ },
+ {
+  "hook_type": "stat_shock",
+  "hook_basis": "stats_oddity",
+  "topic_primary": "match_report",
+  "scope": "premier_league",
+  "subject_type": "club_team",
+  "timeliness": "recent_month",
+  "uk_relevance": "high",
+  "story_structure": "chronological_recap",
+  "twist_position": "none",
+  "payoff_type": "punchline",
+  "humour_type": "sarcasm",
+  "humour_target": "club",
+  "dominant_emotion": "schadenfreude",
+  "comment_bait": "hot_take",
+  "cta_opener_type": "mates_social",
+  "hook_type_alt": "roast_jab",
+  "hook_strength": 4.0,
+  "story_clarity": 4.0,
+  "humour_quality": 4.5,
+  "shareability": 3.0,
+  "comment_potential": 4.0,
+  "uk_fit": 5.0,
+  "novelty": 3.0,
+  "poster_title_sells_hook": 4.0,
+  "poster_joke_quality": 3.0,
+  "humour_intensity": 2.5,
+  "virality_pred": 6.5,
+  "risk_flags": [
+   "none"
+  ],
+  "hook_type_why": "\"No shot on target in the first half. Newcastle still got booed.\" zero count plus a jab.",
+  "hook_basis_detail": "Newcastle had no shot on target in the first half, lost 1-0 to Everton and were booed.",
+  "story_summary": "Everton win 1-0 at Newcastle via a trickled goal; Ramsey is sent off after two yellows in 86 seconds; Jaissle takes the blame.",
+  "poster_issue": "Bubble \"Ugly goals count the same\" is decent but gives no hint of Newcastle's pain; \"OUCH!\" is generic.",
+  "poster_change": "Bubble: \"Some people take longer to order a coffee.\" Keep the rhyming headline.",
+  "changes": [
+   {
+    "priority": "P2",
+    "category": "vary_cta",
+    "action": "Rotate the CTA opener used in 32 videos."
+   },
+   {
+    "priority": "P2",
+    "category": "add_comment_bait",
+    "action": "Add a closing question: should Newcastle stick with Jaissle?"
+   },
+   {
+    "priority": "P3",
+    "category": "poster_title",
+    "action": "Test the coffee joke in the bubble."
+   }
+  ],
+  "no": 39,
+  "annotator_agreement": 0.82
+ },
+ {
+  "hook_type": "contrast_twist",
+  "hook_basis": "scoreline_result",
+  "topic_primary": "match_report",
+  "scope": "europe_club",
+  "subject_type": "player",
+  "timeliness": "recent_month",
+  "uk_relevance": "high",
+  "story_structure": "stat_stack",
+  "twist_position": "none",
+  "payoff_type": "punchline",
+  "humour_type": "roast",
+  "humour_target": "club",
+  "dominant_emotion": "awe",
+  "comment_bait": "none",
+  "cta_opener_type": "mates_social",
+  "hook_type_alt": "none",
+  "hook_strength": 2.5,
+  "story_clarity": 4.0,
+  "humour_quality": 3.5,
+  "shareability": 3.5,
+  "comment_potential": 2.5,
+  "uk_fit": 4.0,
+  "novelty": 2.5,
+  "poster_title_sells_hook": 3.0,
+  "poster_joke_quality": 2.0,
+  "humour_intensity": 2.5,
+  "virality_pred": 5,
+  "risk_flags": [
+   "none"
+  ],
+  "hook_type_why": "\"Perfect European record, meet Camp Nou.\" a perfect run set against a venue.",
+  "hook_basis_detail": "Barcelona beat Aston Villa 3-0 at Camp Nou, ending Villa's perfect Champions League record.",
+  "story_summary": "Yamal scores early, Raphinha adds two, Villa's perfect record ends; Yamal becomes top teenage scorer ahead of Mbappe.",
+  "poster_issue": "Headline is a recap, not a hook; bubble repeats Villa's winning run with no joke or scoreline.",
+  "poster_change": "Headline \"Villa's perfect record meets Camp Nou\"; bubble \"Defence still putting its boots on.\"",
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "hook_rewrite",
+    "action": "Lead with Yamal's teenage record over Mbappe, not a generic result."
+   },
+   {
+    "priority": "P2",
+    "category": "poster_title",
+    "action": "Use the boots-on joke and the 3-0 score on the poster."
+   },
+   {
+    "priority": "P2",
+    "category": "vary_cta",
+    "action": "Rotate the CTA opener used in 32 videos."
+   },
+   {
+    "priority": "P2",
+    "category": "add_comment_bait",
+    "action": "Ask: Yamal or Mbappe, who is the best teenager ever?"
+   }
+  ],
+  "no": 40,
+  "annotator_agreement": 0.82
+ }
+]

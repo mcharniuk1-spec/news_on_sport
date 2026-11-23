@@ -1,0 +1,97 @@
+{
+ "no": 22,
+ "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/022_pavel_nedv_d_pavel_nedved.mp4",
+ "total": 46.8,
+ "outro_start": 40.55,
+ "cover": true,
+ "seq": [
+  {
+   "id": "s01",
+   "kind": "HOOK",
+   "start": 0.1,
+   "end": 1.6,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/022/s01.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s02",
+   "kind": "NEWS",
+   "start": 4.1,
+   "end": 5.866666666666666,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/022/s02.mp4",
+   "clip_dur": 1.767,
+   "frames": 42
+  },
+  {
+   "id": "s03",
+   "kind": "COMIC1",
+   "start": 8.333333333333334,
+   "end": 10.333333333333334,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/022/s03.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s04",
+   "kind": "COMIC2",
+   "start": 15.633333333333333,
+   "end": 17.633333333333333,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/022/s04.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s05",
+   "kind": "COMIC3",
+   "start": 21.533333333333335,
+   "end": 23.533333333333335,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/022/s05.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s06",
+   "kind": "PROVOC",
+   "start": 26.333333333333332,
+   "end": 27.833333333333332,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/022/s06.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s07",
+   "kind": "INTERVIEW",
+   "start": 30.6,
+   "end": 32.36666666666667,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/022/s07.mp4",
+   "clip_dur": 1.766,
+   "frames": 42
+  },
+  {
+   "id": "s08",
+   "kind": "STATS",
+   "start": 38.333333333333336,
+   "end": 39.833333333333336,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/022/s08.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  }
+ ],
+ "missing": [],
+ "dropped": [],
+ "cards": [],
+ "caption_sprites": 129,
+ "whoosh": [
+  0.0,
+  3.9999999999999996,
+  8.233333333333334,
+  15.533333333333333,
+  21.433333333333334,
+  26.23333333333333,
+  30.5,
+  38.233333333333334,
+  40.45
+ ],
+ "shots": 13
+}

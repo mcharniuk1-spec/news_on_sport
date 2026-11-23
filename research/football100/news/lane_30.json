@@ -1,0 +1,529 @@
+[
+  {
+    "headline": "Flamengo one draw from the Brasileirao title as Palmeiras fans hand back tickets",
+    "date": "2026-11-20",
+    "source_domain": "espn.com.br",
+    "url": "https://www.espn.com.br/futebol/brasileirao/artigo/_/id/17538104/palmeiras-flamengo-torcedores-devolvem-ingressos",
+    "entities": ["Flamengo", "Palmeiras", "Abel Ferreira", "Leila Pereira", "Cruzeiro", "Nubank Parque"],
+    "facts": [
+      "Flamengo lead Palmeiras by six points with three rounds left and hold the first tiebreaker, so a draw in the Saturday 21 November clash at Nubank Parque would be enough for the title.",
+      "Flamengo beat Athletico-PR 2-1 while Palmeiras lost 2-1 to Cruzeiro, and Abel Ferreira effectively conceded the league afterwards.",
+      "Some Palmeiras fans cancelled their tickets for the match and ESPN reports some starters may be rested ahead of the Libertadores and Copa do Brasil finals."
+    ],
+    "background": "Flamengo beat Palmeiras 1-0 in the 2025 Copa Libertadores final for their fourth continental title, per ESPN.",
+    "angle": "win",
+    "sensitive": false,
+    "footage_terms": ["Flamengo Palmeiras Brasileirao 2026 highlights", "Abel Ferreira press conference Flamengo title", "Cruzeiro 2-1 Palmeiras melhores momentos"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Gremio and Internacional both stuck in the relegation zone with three rounds left",
+    "date": "2026-11-19",
+    "source_domain": "espn.com.br",
+    "url": "https://www.espn.com.br/futebol/brasileirao/artigo/_/id/17536417/corinthians-ganha-folego-dupla-grenal-complica-chances-rebaixamento-brasileirao",
+    "entities": ["Gremio", "Internacional", "Corinthians", "Botafogo", "Chapecoense", "Remo"],
+    "facts": [
+      "ESPN's Opta-based odds give Gremio about a 73% and Internacional about a 59% chance of going down, with Gremio on 38 points after a 0-0 home draw with Bahia.",
+      "Chapecoense are already relegated and Remo are about 99.98% likely to follow.",
+      "Corinthians eased their own danger with a 4-0 win over Botafogo and now carry roughly an 19% relegation chance."
+    ],
+    "background": "Gremio and Internacional are the two big Porto Alegre clubs whose derby is the Gre-Nal; ESPN's headline calls them the 'GreNal duo'.",
+    "angle": "scandal",
+    "sensitive": false,
+    "footage_terms": ["Gremio Bahia 0-0 Brasileirao 2026", "Vasco Internacional Sao Januario melhores momentos", "Corinthians 4-0 Botafogo gols"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Libertadores final set: Estudiantes against Palmeiras in Montevideo on 28 November",
+    "date": "2026-11-19",
+    "source_domain": "espn.com.br",
+    "url": "https://www.espn.com.br/futebol/palmeiras/artigo/_/id/17536570/nada-mais-interessa-recado-leila-torcida-palmeiras-apos-titulo-brasileiro-improvavel",
+    "entities": ["Palmeiras", "Estudiantes de La Plata", "Leila Pereira", "Fluminense", "Estadio Centenario"],
+    "facts": [
+      "Palmeiras president Leila Pereira said the club's full focus is the Libertadores and Copa do Brasil, summing it up as 'nothing else matters'.",
+      "The Libertadores final against Estudiantes is on 28 November at the Centenario in Montevideo.",
+      "Palmeiras reached the final by beating Fluminense 5-3 on penalties after the semifinal finished level on aggregate."
+    ],
+    "background": "Brazilian clubs have won the last seven Libertadores titles; the last non-Brazilian winner was River Plate in the all-Argentine 2018 final.",
+    "angle": "history",
+    "sensitive": false,
+    "footage_terms": ["Palmeiras Fluminense penaltis Libertadores semifinal", "Estudiantes Palmeiras final Libertadores 2026", "Abel Ferreira Libertadores final coletiva"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Estudiantes knock Flamengo out of the Libertadores on penalties after two 0-0 draws",
+    "date": "2026-10-22",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/scoreboard/_/date/20261022/league/conmebol.libertadores",
+    "entities": ["Estudiantes de La Plata", "Flamengo", "Maracana", "Fernando Muslera"],
+    "facts": [
+      "The second leg at the Maracana ended 0-0 and Estudiantes won the shootout 3-2, after a goalless first leg in La Plata on 15 October.",
+      "Flamengo were the defending Libertadores champions.",
+      "The result kept alive Estudiantes' bid for a first continental title since 2009."
+    ],
+    "background": "Estudiantes won three straight Libertadores titles from 1968 to 1970 and again in 2009; last year Flamengo beat them in a quarterfinal shootout.",
+    "angle": "history",
+    "sensitive": false,
+    "footage_terms": ["Flamengo Estudiantes penaltis Libertadores 2026", "Estudiantes elimina Flamengo Maracana", "Flamengo vs Estudiantes semifinal highlights"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Neymar banned two games for covering his mouth under the 'Vinicius Junior rule'",
+    "date": "2026-10-28",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50309333/neymar-suspension-red-card-cover-mouth-santos-bahia",
+    "entities": ["Neymar", "Santos", "Bahia", "Rodrigo Nestor", "Vinicius Junior"],
+    "facts": [
+      "Brazil's sports tribunal gave Neymar a two-match ban after he was sent off in Santos' 1-0 win over Bahia for covering his mouth while arguing with Bahia midfielder Rodrigo Nestor.",
+      "Neymar admitted the gesture was wrong but denied insulting Nestor, while Bahia condemned what it called verbal abuse.",
+      "The ban was on top of an accumulated-yellow-card suspension and could still be appealed."
+    ],
+    "background": "Neymar is Brazil's all-time top scorer with 80 goals in 130 games and retired from international football after the 2026 World Cup.",
+    "angle": "scandal",
+    "sensitive": true,
+    "footage_terms": ["Neymar expulso Santos Bahia", "Neymar red card covering mouth Santos Bahia", "Neymar entrevista apos expulsao"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Neymar finishes 10th in a poker tournament and wins 24,000 dollars",
+    "date": "2026-11-16",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50500778/neymar-wins-24000-poker-santos-brazil",
+    "entities": ["Neymar", "Santos", "BSOP Millions", "Pedro Neves"],
+    "facts": [
+      "Neymar finished 10th in an invitation-only 50K Super High Roller event that had 152 entries and a roughly 1.2 million dollar prize pool.",
+      "He paid a 15,000 dollar buy-in, played for more than eight hours and was knocked out by 2024 world poker champion Pedro Neves.",
+      "Two nights earlier he finished 12th in a separate event with a 4,000 dollar buy-in."
+    ],
+    "background": "Neymar plays poker regularly and finished 29th in the Brazilian Series of Poker last year, per ESPN.",
+    "angle": "viral",
+    "sensitive": false,
+    "footage_terms": ["Neymar poker BSOP Millions", "Neymar poker mesa final", "Neymar joga poker torneio"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Corinthians hire Clarence Seedorf after seven straight league defeats",
+    "date": "2026-10-11",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50160171/corinthians-hire-clarence-seedorf-head-coach-seven-consecutive-league-defeats",
+    "entities": ["Corinthians", "Clarence Seedorf", "Fernando Diniz", "Memphis Depay"],
+    "facts": [
+      "Corinthians named Seedorf head coach on a contract running to the end of 2027, replacing Fernando Diniz who was fired after seven consecutive league losses.",
+      "The club was 16th of 20, one place above the relegation zone, at the time.",
+      "Seedorf last coached Cameroon more than seven years ago and none of his three previous club spells lasted longer than six months."
+    ],
+    "background": "Seedorf is the only player to win the European Cup or Champions League with three different clubs: Ajax, Real Madrid and AC Milan.",
+    "angle": "coach",
+    "sensitive": false,
+    "footage_terms": ["Seedorf Corinthians apresentacao", "Clarence Seedorf Corinthians primeira coletiva", "Diniz demitido Corinthians"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Botafogo keep Tite after a 4-0 loss but call the Sao Paulo game a final",
+    "date": "2026-11-19",
+    "source_domain": "espn.com.br",
+    "url": "https://www.espn.com.br/futebol/botafogo/artigo/_/id/17537563/botafogo-segura-tite-diretoria-cobra-senso-urgencia-trata-jogo-sao-paulo-final",
+    "entities": ["Botafogo", "Tite", "Sao Paulo", "Corinthians", "Joao Paulo Magalhaes"],
+    "facts": [
+      "After the 4-0 home defeat to Corinthians on 18 November the board decided not to sack Tite, though some inside the club reportedly wanted a change.",
+      "Leadership, the SAF board, staff and players met at the training ground on 19 November and demanded a 'sense of urgency'.",
+      "The home game against Sao Paulo on 23 November is being treated as a final for staying in Serie A and chasing a continental place."
+    ],
+    "background": "Tite is a former Brazil national team coach who now leads Botafogo.",
+    "angle": "coach",
+    "sensitive": false,
+    "footage_terms": ["Tite Botafogo coletiva", "Botafogo 0-4 Corinthians melhores momentos", "Botafogo Sao Paulo Nilton Santos"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Thiago Silva, 42, undecided on retirement as Fluminense clinch a Libertadores place",
+    "date": "2026-11-20",
+    "source_domain": "espn.com.br",
+    "url": "https://www.espn.com.br/futebol/fluminense/artigo/_/id/17536876/fluminense-marcao-entra-campanha-fico-thiago-silva-brinca-da-para-jogar-mais-tres-aninhos",
+    "entities": ["Thiago Silva", "Fluminense", "Marcao", "Sao Paulo", "Zubeldia"],
+    "facts": [
+      "Interim coach Marcao joined the fans' campaign for Thiago Silva to stay, joking that the 42-year-old could play about three more years.",
+      "Silva's contract runs to the end of December 2026 and he has not announced a decision.",
+      "A 1-0 win away at Sao Paulo secured Fluminense a Libertadores place; they are fourth with 60 points."
+    ],
+    "background": "ESPN reported last year that Thiago Silva, then 41, was aiming for a place in Brazil's World Cup squad.",
+    "angle": "history",
+    "sensitive": false,
+    "footage_terms": ["Thiago Silva Fluminense 2026 gol", "Sao Paulo 0-1 Fluminense melhores momentos", "Marcao coletiva Thiago Silva renovacao"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Vasco sign Carlos Vinicius on a pre-contract and annoy Gremio",
+    "date": "2026-11-18",
+    "source_domain": "espn.com.br",
+    "url": "https://www.espn.com.br/futebol/vasco/artigo/_/id/17535274/carlos-vinicius-vasco-gremio-pre-contrato-incomodo",
+    "entities": ["Carlos Vinicius", "Vasco da Gama", "Gremio", "Renato Portaluppi"],
+    "facts": [
+      "Striker Carlos Vinicius signed a pre-contract with Vasco in early November and is expected to join in January on a two-year deal with an option for a third year.",
+      "Gremio say their finances blocked a renewal, and its board felt the player's side was not transparent about the pre-contract.",
+      "Gremio are in the relegation zone on 38 points yet still have a Copa do Brasil final against Palmeiras on 6 December in Brasilia."
+    ],
+    "background": "Renato Portaluppi coaches Gremio, and ESPN reports he will keep playing Carlos Vinicius despite the off-field row.",
+    "angle": "transfer",
+    "sensitive": false,
+    "footage_terms": ["Carlos Vinicius Gremio gol", "Carlos Vinicius Vasco pre-contrato", "Renato Portaluppi coletiva Gremio rebaixamento"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Chapecoense crash survivor Alan Ruschel retires after helping Juventude win promotion",
+    "date": "2026-11-16",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50500378/chapecoense-plane-crash-alan-ruschel-survivor-juventude-brazil-serie-a",
+    "entities": ["Alan Ruschel", "Juventude", "Chapecoense", "Botafogo"],
+    "facts": [
+      "Ruschel, a 37-year-old left-back, came on in the 74th minute of Juventude's 2-0 home win over Botafogo that secured direct promotion to Serie A.",
+      "He announced his retirement afterwards in an Instagram post.",
+      "He returned to his boyhood club Juventude in 2023."
+    ],
+    "background": "Ruschel was one of six survivors of the 2016 Chapecoense plane crash in Colombia that killed 71 people, including 19 players.",
+    "angle": "history",
+    "sensitive": true,
+    "footage_terms": ["Alan Ruschel despedida Juventude", "Juventude acesso Serie A 2026", "Alan Ruschel sobrevivente Chapecoense entrevista"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Brazilian winger Sergio Barboza becomes first outfield player to play in all six confederations",
+    "date": "2026-11-18",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50461455/soccer-star-played-clubs-six-continents",
+    "entities": ["Sergio Barboza", "AS Tohie'a", "Tahiti", "Flamengo"],
+    "facts": [
+      "The 33-year-old reached Tahiti on 21 September with no club and was helped by about 300 followers paying 6 dollars a month who voted on decisions in a WhatsApp group.",
+      "He scored twice and set up another in a 5-1 win on his Tahiti debut and ended his stint with four goals and four assists in five games, unpaid apart from accommodation.",
+      "A cyclone doubled his return flight to about 3,000 dollars and he plans to go back to Africa to score and assist there."
+    ],
+    "background": "Barboza was a Flamengo youth player who left in 2011 and has since played in Costa Rica, Laos, Cambodia, India, Nepal, Malta, Angola and the US.",
+    "angle": "viral",
+    "sensitive": false,
+    "footage_terms": ["Sergio Barboza Tahiti gol", "Jogador Duble Sergio Barboza", "Barboza seis confederacoes"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Ronaldinho, 46, comes out of retirement for Ravenna and lasts 45 minutes",
+    "date": "2026-11-15",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50489043/ronaldinho-ravenna-brazil-barcelona-serie-c",
+    "entities": ["Ronaldinho", "Ravenna", "Forli", "Giulio Donati"],
+    "facts": [
+      "Ronaldinho played 45 minutes for Serie C side Ravenna against Forli and did not score, so he stayed on 299 career goals.",
+      "He nearly set up a goal with a corner that Giulio Donati headed, but it was saved.",
+      "Ravenna's president said Ronaldinho did not want to leave the pitch and hinted at another appearance."
+    ],
+    "background": "Ronaldinho won the 2002 World Cup with Brazil and was FIFA World Player of the Year twice in a row; his previous match was for Fluminense in September 2015.",
+    "angle": "viral",
+    "sensitive": false,
+    "footage_terms": ["Ronaldinho Ravenna Forli", "Ronaldinho retorno Serie C", "Ronaldinho Ravenna highlights"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Brazil lose 3-2 to Japan as Ancelotti and captain Raphinha are sent off",
+    "date": "2026-11-14",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50500727/singapore-gavin-lee-brazil-carlo-ancelotti",
+    "entities": ["Brazil", "Japan", "Carlo Ancelotti", "Raphinha", "Bruno Guimaraes"],
+    "facts": [
+      "Japan beat Brazil 3-2 in a friendly in Singapore with a 91st-minute winner.",
+      "Ancelotti and captain Raphinha were both sent off late on after protesting that goal.",
+      "Ancelotti had to serve a one-match touchline ban against Singapore and Bruno Guimaraes took the armband."
+    ],
+    "background": "Brazil went out of the 2026 World Cup in the round of 16 against Norway, and Ancelotti has coached the national team since 2025.",
+    "angle": "coach",
+    "sensitive": false,
+    "footage_terms": ["Japao 3x2 Brasil amistoso gols", "Ancelotti expulso Brasil Japao", "Raphinha expulso Brasil Japao"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Romario demands Brazil sack Ancelotti and Ancelotti shrugs it off",
+    "date": "2026-11-17",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50509468/brazil-romario-carlo-ancelotti-sacking",
+    "entities": ["Romario", "Carlo Ancelotti", "CBF", "Brazil"],
+    "facts": [
+      "Before the Singapore friendly, Romario posted on Instagram criticising Ancelotti's work and urging the CBF president to fire him.",
+      "Ancelotti answered that Romario has the right to speak as much as he wants, and said he likes the direction but must do more.",
+      "Under Ancelotti Brazil lost the World Cup round of 16 to Norway and since then have won two and lost one."
+    ],
+    "background": "Romario is a 1994 World Cup winner for Brazil.",
+    "angle": "coach",
+    "sensitive": false,
+    "footage_terms": ["Romario critica Ancelotti selecao", "Ancelotti responde Romario coletiva", "Romario Ancelotti demissao"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Vinicius Junior scores a 21-minute hat-trick as Brazil beat Singapore 7-0",
+    "date": "2026-11-17",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50510724/vinicius-junior-brazil-hat-trick-real-madrid",
+    "entities": ["Vinicius Junior", "Brazil", "Singapore", "Endrick", "Estevao", "Rayan"],
+    "facts": [
+      "Vinicius scored three times in the first 21 minutes of the 7-0 friendly win, his first international hat-trick, after both goals in the 3-2 loss to Japan.",
+      "Endrick, Estevao and Rayan also scored and Singapore's Raoul Suhaimi added an own goal.",
+      "Vinicius has just one goal in 12 appearances for Real Madrid this season and looked upset at being substituted early in the second half."
+    ],
+    "background": "Vinicius now has 19 goals in 59 appearances for Brazil.",
+    "angle": "win",
+    "sensitive": false,
+    "footage_terms": ["Singapura 0x7 Brasil gols", "Vinicius Junior hat-trick Singapore", "Brazil 7-0 Singapore highlights"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Vinicius admits poor preparation and Mourinho tells him to win his place back",
+    "date": "2026-11-20",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50539637/jose-mourinho-vinicius-junior-real-madrid",
+    "entities": ["Vinicius Junior", "Jose Mourinho", "Real Madrid", "Yan Diomande", "Celta Vigo", "Nathan Saliba"],
+    "facts": [
+      "Vinicius said he trained less than usual after the World Cup, and Mourinho replied that blaming preseason preparation was a mistake and that Vinicius must win his place back.",
+      "New signing Yan Diomande has taken his starting spot and Vinicius has one goal in eight LaLiga appearances this season.",
+      "He returns from a four-game ban, handed after a red card for pulling Villarreal's Nathan Saliba's hair, for the Celta Vigo match on 21 November."
+    ],
+    "background": "Vinicius was linked with Arsenal in the summer but signed a long-term Real Madrid deal that runs until 2032.",
+    "angle": "scandal",
+    "sensitive": false,
+    "footage_terms": ["Vinicius Junior Mourinho coletiva", "Vinicius red card Villarreal Saliba", "Real Madrid Celta Vigo Vinicius"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Estevao struggles for minutes at Chelsea under Xabi Alonso",
+    "date": "2026-11-20",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50523536/estevao-brazil-young-talent-chelsea",
+    "entities": ["Estevao", "Chelsea", "Xabi Alonso", "Cole Palmer", "Morgan Rogers", "Brazil"],
+    "facts": [
+      "Estevao has started only once in 10 Premier League games this season, a 2-0 home win over Manchester United in late October.",
+      "Xabi Alonso prefers a 3-4-3 that does not suit him, and Cole Palmer and Morgan Rogers occupy his favoured attacking spots.",
+      "Alonso says there are no plans to move him, while with Brazil under Ancelotti Estevao has five goals and four starts in five post-World Cup games."
+    ],
+    "background": "Estevao left Palmeiras after a wonder goal against Chelsea at the Club World Cup and picked Chelsea over Real Madrid and Barcelona.",
+    "angle": "transfer",
+    "sensitive": false,
+    "footage_terms": ["Estevao Chelsea gol", "Estevao Brasil Singapura gol", "Xabi Alonso Estevao coletiva"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Raphinha's comments about managing Brazil minutes go down badly at home",
+    "date": "2026-11-13",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50470476/raphinha-brazil-international-friendly",
+    "entities": ["Raphinha", "Barcelona", "Brazil", "Carlo Ancelotti"],
+    "facts": [
+      "Raphinha, 29, said he wants to play for Brazil as much as possible as long as his body allows, after talking with Ancelotti about managing his minutes.",
+      "The comments were poorly received in Brazil and he said they were misinterpreted and about fitness.",
+      "He brought forward ear-cyst surgery so he could join Brazil's two November friendlies and was set to captain the side against Japan."
+    ],
+    "background": "Raphinha has 19 goals in 14 appearances for Barcelona this season, per ESPN.",
+    "angle": "viral",
+    "sensitive": true,
+    "footage_terms": ["Raphinha entrevista selecao Ancelotti", "Raphinha Barcelona goals 2026", "Raphinha capitao Brasil Japao"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Barcelona want Liverpool to make Ronald Araujo's loan permanent for 55 million euros",
+    "date": "2026-11-19",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50530266/barcelona-deco-ronald-araujo-liverpool-transfer",
+    "entities": ["Ronald Araujo", "Liverpool", "Barcelona", "Deco", "Alejandro Balde"],
+    "facts": [
+      "Deco said Barcelona would welcome Liverpool using a 55 million euro option to turn Araujo's loan into a permanent deal and may be flexible on timing and fee.",
+      "The 27-year-old Uruguayan has two goals in 15 appearances for Liverpool since joining in the summer.",
+      "Deco denied pushing out left-back Alejandro Balde, who has five appearances for 124 minutes this season."
+    ],
+    "background": "Araujo is a Uruguayan defender who spent years at Barcelona before the summer loan to Liverpool.",
+    "angle": "transfer",
+    "sensitive": false,
+    "footage_terms": ["Ronald Araujo Liverpool debut", "Araujo Liverpool goal", "Deco Araujo Liverpool entrevista"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Mac Allister's father says Liverpool contract talks have not started",
+    "date": "2026-11-13",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50460760/alexis-mac-allister-liverpool-contract-renewal-talks",
+    "entities": ["Alexis Mac Allister", "Liverpool", "Carlos Mac Allister"],
+    "facts": [
+      "His father Carlos said no renewal talks have begun, with about 20 months left on the deal, and an update could come before year-end.",
+      "He dismissed any near-term return to Argentine club football, saying the player's career is still in Europe.",
+      "Mac Allister has started every Premier League game this season, scoring one league goal and three Champions League goals."
+    ],
+    "background": "Mac Allister joined Liverpool from Brighton in 2023 and won the 2024-25 Premier League title.",
+    "angle": "transfer",
+    "sensitive": false,
+    "footage_terms": ["Mac Allister Liverpool goal 2026", "Mac Allister Argentina entrevista", "Mac Allister Liverpool Champions League gol"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Argentina lose 2-1 to Uruguay in their first match since Messi retired",
+    "date": "2026-11-13",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50476278/scaloni-calls-rebuild-argentina-fall-first-messi",
+    "entities": ["Argentina", "Uruguay", "Lionel Scaloni", "Diego Forlan", "Julian Alvarez", "Leonardo Balerdi", "Maxi Araujo"],
+    "facts": [
+      "Uruguay won 2-1 at La Bombonera, with an own goal from Leonardo Balerdi, a Maxi Araujo goal and a Julian Alvarez reply for Argentina.",
+      "The stadium was not sold out and Scaloni left the No. 10 shirt unassigned.",
+      "Scaloni said Argentina must rebuild without Messi, while Diego Forlan was in charge of Uruguay as their new coach."
+    ],
+    "background": "Argentina were the 2026 World Cup runners-up, beaten 1-0 by Spain in the final in New Jersey.",
+    "angle": "history",
+    "sensitive": false,
+    "footage_terms": ["Argentina 1-2 Uruguay Bombonera amistoso", "Scaloni reconstruccion sin Messi conferencia", "Uruguay Argentina Forlan highlights"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Argentina thrash Costa Rica 7-0 in a statement win without Messi",
+    "date": "2026-11-17",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50516991/argentina-set-tone-post-messi-era-costa-rica-rout",
+    "entities": ["Argentina", "Costa Rica", "Nico Paz", "Julian Alvarez", "Franco Mastantuono", "Alexis Mac Allister", "Emiliano Martinez"],
+    "facts": [
+      "Nico Paz, Julian Alvarez and Franco Mastantuono each scored twice in Cordoba and Alexis Mac Allister added one.",
+      "Emiliano Martinez captained the side and reached 47 clean sheets for Argentina, matching Sergio Romero's record.",
+      "Martinez said the team wants fans to fall in love with it all over again after the previous Friday's loss to Uruguay."
+    ],
+    "background": "Argentina made five changes from the side that lost 2-1 to Uruguay four days earlier.",
+    "angle": "win",
+    "sensitive": false,
+    "footage_terms": ["Argentina 7-0 Costa Rica goles", "Nico Paz gol Argentina Costa Rica", "Mastantuono doblete Argentina"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Masked Emi Martinez returns for Argentina after jaw surgery",
+    "date": "2026-11-16",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50505748/martinez-return-argentina-gruesome-jaw-injury",
+    "entities": ["Emiliano Martinez", "Chelsea", "Lionel Scaloni", "Jarrad Branthwaite", "Xabi Alonso", "Geronimo Rulli"],
+    "facts": [
+      "Martinez hurt his jaw on 16 October in a collision with Everton defender Jarrad Branthwaite and then had surgery.",
+      "He returned to training in a protective mask about two weeks later, and Chelsea manager Xabi Alonso left him out of the 8 November loss to Sunderland as too risky.",
+      "Scaloni confirmed he would replace Geronimo Rulli for the Costa Rica match."
+    ],
+    "background": "Martinez plays for Chelsea under Xabi Alonso and is Argentina's first-choice goalkeeper; the Costa Rica match was his return after about a month out.",
+    "angle": "history",
+    "sensitive": true,
+    "footage_terms": ["Dibu Martinez mascara Argentina", "Emiliano Martinez lesion mandibula Chelsea", "Dibu Martinez Argentina Costa Rica"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Scaloni signs new Argentina deal through the 2030 World Cup",
+    "date": "2026-11-12",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50451803/argentina-coach-lionel-scaloni-new-contract-2030-world-cup",
+    "entities": ["Lionel Scaloni", "Claudio Tapia", "AFA", "Nico Paz", "Franco Mastantuono", "Valentin Barco"],
+    "facts": [
+      "AFA president Claudio Tapia confirmed the 2027-2030 renewal for Scaloni and his staff, making him the first coach to lead Argentina at three World Cups.",
+      "In 107 matches Argentina under Scaloni have 79 wins, 18 draws and 10 losses.",
+      "Scaloni plans to give more minutes to young players such as Nico Paz, Franco Mastantuono, Valentin Barco, Matias Soule and Gianluca Prestianni."
+    ],
+    "background": "Scaloni took over in 2018 and won the 2022 World Cup, two Copa America titles and a Finalissima; Argentina lost this summer's World Cup final to Spain.",
+    "angle": "coach",
+    "sensitive": true,
+    "footage_terms": ["Scaloni renueva hasta 2030 conferencia", "Tapia anuncia renovacion Scaloni", "Scaloni Argentina campeon del mundo 2022 highlights"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Como's Nico Paz inherits Messi's No. 10 shirt for Argentina",
+    "date": "2026-11-16",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50460862/nico-paz-como-argentina-lionel-messi",
+    "entities": ["Nico Paz", "Como", "Real Madrid", "Cesc Fabregas", "Lionel Messi"],
+    "facts": [
+      "Paz has 25 goals and 25 assists in 89 games for Como, including 6 goals and 8 assists in 14 games this season.",
+      "Real Madrid let Como take his full rights for about 60 million euros this summer, with a clause to re-sign him for 80 million in 2027.",
+      "Compared at the same age, Messi created 2.58 chances per 90 against Paz's 1.59, and Paz's shots on target fell from 39.7% to 26%."
+    ],
+    "background": "Paz was born in Tenerife to Pablo Paz, who played for Argentina at the 1998 World Cup, and joined Como from Real Madrid in 2024 for about 6 million euros.",
+    "angle": "transfer",
+    "sensitive": false,
+    "footage_terms": ["Nico Paz Como goles", "Nico Paz Argentina gol Costa Rica", "Nico Paz Fabregas entrevista"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Messi will play in Argentina on 19 January when Inter Miami face River Plate",
+    "date": "2026-11-13",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50472990/messi-play-argentina-jan-19-inter-miami-river-friendly",
+    "entities": ["Lionel Messi", "Inter Miami", "River Plate", "Casemiro", "Rodrigo De Paul", "Luis Suarez"],
+    "facts": [
+      "Inter Miami will meet River at the Monumental on 19 January in Messi's first club match in his home country.",
+      "Miami expect Casemiro, Rodrigo De Paul, Luis Suarez, Nicolas Otamendi and Thiago Almada to travel with him.",
+      "Miami open the 2027 MLS season on 19 February against FC Cincinnati."
+    ],
+    "background": "River Plate have 38 domestic titles and four Copa Libertadores trophies; Messi has played 29 matches for Argentina at the Monumental.",
+    "angle": "history",
+    "sensitive": false,
+    "footage_terms": ["Messi River Plate Monumental Inter Miami amistoso", "Messi vuelve a Argentina Inter Miami", "Messi Monumental despedida"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Messi up for a record third straight MLS MVP award",
+    "date": "2026-11-12",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50463634/mls-mvp-award-2026-lionel-messi-cavan-sullivan-griezmann",
+    "entities": ["Lionel Messi", "Inter Miami", "Cavan Sullivan", "Evander", "Hany Mukhtar", "Antoine Griezmann"],
+    "facts": [
+      "Messi is an MVP finalist and would be the first player to win it three years in a row.",
+      "He also won a second straight Golden Boot after scoring 26 regular-season goals in 2026.",
+      "Philadelphia's 17-year-old Cavan Sullivan is the youngest MVP finalist in league history."
+    ],
+    "background": "Messi won MLS MVP in 2024 and 2025; only Preki has won it twice before, in 1997 and 2003.",
+    "angle": "record",
+    "sensitive": false,
+    "footage_terms": ["Messi MLS MVP 2026", "Messi Golden Boot 2026 Inter Miami goals", "Inter Miami Charlotte 3-3 highlights"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Messi's non-league club Cornella: a million followers but two wins in ten",
+    "date": "2026-11-10",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50441349/why-messi-takeover-non-league-cornella-wrexham-repeat",
+    "entities": ["Lionel Messi", "UE Cornella", "Eldense", "Wrexham"],
+    "facts": [
+      "Cornella's social following grew from about 35,000 to over a million, with Adidas and MyInvestor among new sponsors.",
+      "On the pitch the fifth-tier side have won only 2 of their first 10 league games and drew 1-1 in front of fewer than 1,000 fans in a stand holding about 700.",
+      "Messi also bought second-division Eldense and the deal awaits approval from Spain's CSD."
+    ],
+    "background": "Messi took over Cornella in April 2026; the club went through back-to-back relegations and its 2012 sale of Jordi Alba to Barcelona reportedly earned 1.4 million euros.",
+    "angle": "business",
+    "sensitive": false,
+    "footage_terms": ["Messi UE Cornella propietario", "Messi compra Eldense", "Messi Cup Cornella Sub-16"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Pochettino leaves the US job to take over 18th-placed Manchester United",
+    "date": "2026-11-19",
+    "source_domain": "goal.com",
+    "url": "https://www.goal.com/en/news/mauricio-pochettino-manchester-united-press-conference-liverpool/blta75ddcd46c1cd11f",
+    "entities": ["Mauricio Pochettino", "Manchester United", "Liverpool", "Michael Carrick"],
+    "facts": [
+      "Pochettino left his US head coach role during the international break to replace Michael Carrick and says he sleeps only three or four hours a day preparing for the trip to Liverpool.",
+      "United are 18th with one win in 10 league games, their lowest total at this stage since 1986-87, and have no clean sheet this season.",
+      "He has not won any of his last eight meetings with Liverpool across his spells at Tottenham and Chelsea."
+    ],
+    "background": "Pochettino is an Argentine coach who previously managed Tottenham and Chelsea; Opta gives Liverpool a 57.3% chance in the match.",
+    "angle": "coach",
+    "sensitive": false,
+    "footage_terms": ["Pochettino Manchester United press conference", "Pochettino Man United first training", "Liverpool vs Manchester United Pochettino preview"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Ecuadorian player banned for eight years for throwing a stone at a referee",
+    "date": "2026-11-20",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50539565/jhon-michel-perlaza-stone-referee-eight-year-ban",
+    "entities": ["Jhon Michel Perlaza", "Ecuadorian Football Federation", "Club Ciudad de Yantzaza", "Lenin Ojeda Nunez"],
+    "facts": [
+      "Midfielder Jhon Michel Perlaza threw a stone from the bench that hit an assistant referee in the face in the 96th minute of a third-tier match on 17 October.",
+      "The assistant referee fractured a cheekbone, needed surgery and was off work for 60 days.",
+      "The federation banned Perlaza until 19 October 2034, fined his club 2,000 dollars and ordered three home games at a neutral venue."
+    ],
+    "background": "The Ecuadorian federation will also ask FIFA to extend the ban worldwide.",
+    "angle": "scandal",
+    "sensitive": true,
+    "footage_terms": ["Perlaza piedra arbitro Yantzaza", "Ecuador jugador suspendido ocho anos arbitro", "Yantzaza Rio Aguarico incidente"],
+    "confidence": "high"
+  }
+]

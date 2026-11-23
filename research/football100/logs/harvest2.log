@@ -1,0 +1,35 @@
+long pool 27406 picked 1000 creators 303 max per creator 10 cap used 10
+short todo 0
+long todo 909
+long 50 / 909
+long 100 / 909
+long 150 / 909
+long 200 / 909
+long 250 / 909
+Traceback (most recent call last):
+  File "<PROJECT_ROOT>/research/football100/corpus_harvest.py", line 272, in <module>
+    {"discover": discover, "pick": pick, "enrich": enrich, "captions": captions, "stats": stats, "longchan": longchan, "picklong": picklong}[sys.argv[1]]()
+  File "<PROJECT_ROOT>/research/football100/corpus_harvest.py", line 185, in enrich
+    for r in ex.map(one, todo):
+             ^^^^^^^^^^^^^^^^^
+  File "~/.pyenv/versions/3.12.9/lib/python3.12/concurrent/futures/_base.py", line 619, in result_iterator
+    yield _result_or_cancel(fs.pop())
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "~/.pyenv/versions/3.12.9/lib/python3.12/concurrent/futures/_base.py", line 317, in _result_or_cancel
+    return fut.result(timeout)
+           ^^^^^^^^^^^^^^^^^^^
+  File "~/.pyenv/versions/3.12.9/lib/python3.12/concurrent/futures/_base.py", line 449, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "~/.pyenv/versions/3.12.9/lib/python3.12/concurrent/futures/_base.py", line 401, in __get_result
+    raise self._exception
+  File "~/.pyenv/versions/3.12.9/lib/python3.12/concurrent/futures/thread.py", line 59, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<PROJECT_ROOT>/research/football100/corpus_harvest.py", line 182, in one
+    return enrich_one(*a)
+           ^^^^^^^^^^^^^^
+  File "<PROJECT_ROOT>/research/football100/corpus_harvest.py", line 160, in enrich_one
+    hm = j.get("heatmap") or []
+         ^^^^^
+AttributeError: 'NoneType' object has no attribute 'get'

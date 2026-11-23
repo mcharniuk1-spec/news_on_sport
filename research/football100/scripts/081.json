@@ -1,0 +1,76 @@
+{
+ "no": 81,
+ "subject": "Pau Cubarsí wins the 2026 Golden Boy",
+ "title": "The defender who won the Golden Boy",
+ "voice": "kokoro",
+ "comic": false,
+ "style": null,
+ "lines": [
+  {
+   "vo": "Defenders almost never win the Golden Boy. One just did.",
+   "card": "Golden Boy 2026",
+   "sfx": null,
+   "footage": "Cubarsí award moment, stage or press shot"
+  },
+  {
+   "vo": "Pau Cubarsí is nineteen, and he took the trophy from Désiré Doué. At nineteen, most people are still learning to do laundry.",
+   "card": "Nineteen and top",
+   "sfx": null,
+   "footage": "Cubarsí Barcelona defending highlights"
+  },
+  {
+   "vo": "He is the first defender to win it since Matthijs de Ligt in twenty-eighteen. Eight years of scouts only watching the goals.",
+   "card": "First since 2018",
+   "sfx": null,
+   "footage": "Cubarsí defending compilation"
+  },
+  {
+   "vo": "Barcelona now have four winners in six years: Pedri, Gavi, Yamal and him. Other clubs have academies. Barcelona have a factory.",
+   "card": "Barça production line",
+   "sfx": "short crowd cheer",
+   "footage": "Pedri, Gavi and Yamal goal clips"
+  },
+  {
+   "vo": "He also won LaLiga and the World Cup with Spain this year. Then he came twelfth in the Ballon d'Or, as the top defender. Defenders usually get a handshake. Cubarsí got a trophy.",
+   "card": "Twelfth, top defender",
+   "sfx": null,
+   "footage": "Cubarsí World Cup Spain highlights"
+  },
+  {
+   "vo": "Want the next story before it breaks? Betting tips, news and predictions at aboutfootball dot UK.",
+   "card": "aboutfootball.UK",
+   "sfx": null,
+   "footage": "end card"
+  }
+ ],
+ "chars": 705,
+ "est_seconds": 39,
+ "footage_terms": [
+  "Pau Cubarsí Golden Boy 2026",
+  "Cubarsí Barcelona best defending 2026",
+  "Cubarsí World Cup Spain highlights",
+  "Pau Cubarsi Barcelona defending highlights"
+ ],
+ "inserts": [
+  {
+   "after_line": 0,
+   "story": "A cartoon trophy shaped like a striker looks surprised as a teenage defender receives it. Gag: the trophy tries to climb away and the defender holds it tight. Twist: the trophy gives up and sits on his shoulder.",
+   "characters": "generic cartoon teen defender and trophy",
+   "seconds": 2
+  },
+  {
+   "after_line": 2,
+   "story": "A conveyor belt delivers four trophies to a shelf one by one. Gag: each trophy wears a different tiny shirt. Twist: the fifth trophy arrives and the shelf says Full.",
+   "characters": "generic cartoon trophy shelf",
+   "seconds": 2
+  }
+ ],
+ "facts_used": [
+  "Cubarsí, 19, won the Golden Boy for best under-21 men's player, succeeding PSG's Désiré Doué (ev0112)",
+  "First defender to win since Matthijs de Ligt in 2018 (ev0112)",
+  "Fourth Barcelona winner in six years after Pedri, Gavi and Yamal (ev0112)",
+  "Won LaLiga and the World Cup with Spain in 2026; Young Player of the Tournament; 12th in Ballon d'Or as top defender (ev0112)"
+ ],
+ "comic_score": 4,
+ "notes": "Non-comic, light jokes only (age, scouts, factory, handshake callback). Tuttosport vote (100 nominees, 22 countries) not used. Spain-Argentina final detail not used. Laundry gag is generic, not a claim about the player."
+}

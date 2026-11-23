@@ -1,0 +1,103 @@
+{
+ "no": 17,
+ "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/017_michael_owen.mp4",
+ "total": 34.06666666666667,
+ "outro_start": 28.3,
+ "cover": true,
+ "seq": [
+  {
+   "id": "s01",
+   "kind": "HOOK",
+   "start": 0.1,
+   "end": 1.6,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/017/s01.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s02",
+   "kind": "COMIC1",
+   "start": 2.8333333333333335,
+   "end": 4.833333333333333,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/017/s02.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s03",
+   "kind": "NEWS",
+   "start": 6.8,
+   "end": 8.566666666666666,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/017/s03.mp4",
+   "clip_dur": 1.766,
+   "frames": 42
+  },
+  {
+   "id": "s04",
+   "kind": "COMIC2",
+   "start": 11.7,
+   "end": 13.7,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/017/s04.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s05",
+   "kind": "PROVOC",
+   "start": 15.966666666666667,
+   "end": 17.466666666666665,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/017/s05.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s06",
+   "kind": "INTERVIEW",
+   "start": 20.1,
+   "end": 21.866666666666667,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/017/s06.mp4",
+   "clip_dur": 1.767,
+   "frames": 42
+  },
+  {
+   "id": "s07",
+   "kind": "STATS",
+   "start": 26.7,
+   "end": 28.2,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/017/s07.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  }
+ ],
+ "missing": [],
+ "dropped": [],
+ "cards": [
+  {
+   "text": "Leicester-level shock",
+   "a": 17.6,
+   "b": 18.7
+  },
+  {
+   "text": "Rashford comeback?",
+   "a": 22.466666666666665,
+   "b": 24.666666666666668
+  },
+  {
+   "text": "No league goal",
+   "a": 25.266666666666666,
+   "b": 26.533333333333335
+  }
+ ],
+ "caption_sprites": 99,
+ "whoosh": [
+  0.0,
+  2.7333333333333334,
+  6.7,
+  11.6,
+  15.866666666666667,
+  20.0,
+  26.599999999999998,
+  28.2
+ ],
+ "shots": 11
+}

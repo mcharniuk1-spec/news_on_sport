@@ -1,0 +1,16 @@
+{
+  "palette": [
+    "#e9ccdf",
+    "#454374",
+    "#f7c36e",
+    "#c6819d",
+    "#96cda1"
+  ],
+  "style": "SITCOM-YELLOW",
+  "font": "Arial Bold",
+  "characters": [
+    "Luka Modric",
+    "generic reporter"
+  ],
+  "recurring_prop": "scoreboard"
+}

@@ -1,0 +1,88 @@
+{
+ "video_id": "e4R3cPp3TVQ",
+ "topic": "Football meme about a player suffering after reportedly breaking up with his girlfriend",
+ "hero": "unidentified Barcelona player (meme target)",
+ "hero_role": "butt of the joke",
+ "media_type_overall": "mixed",
+ "hook": "Caption 'Did his gf broke up with him' over wide match footage",
+ "subtitle_style": "small white sans caption center-top with emoji",
+ "reaction_overlays": "none",
+ "transition_summary": "Hard cuts at ~6 s and ~9 s; slow rhythm",
+ "audio_note": "unknown",
+ "reuse_segments": [
+  {
+   "t0": 0,
+   "t1": 6,
+   "what": "Match footage with joke caption",
+   "origin_guess": "broadcast match",
+   "rights_risk": "high",
+   "how_to_reuse": "needs licensed footage"
+  },
+  {
+   "t0": 6,
+   "t1": 14,
+   "what": "Crowd event clips",
+   "origin_guess": "fan phone/stadium footage",
+   "rights_risk": "medium",
+   "how_to_reuse": "needs permission"
+  }
+ ],
+ "frames": [
+  {
+   "idx": 1,
+   "t": 0,
+   "desc": "Wide broadcast: Barca vs white team, Google Pixel 11 Pro boards; caption 'Did his gf broke up with him'",
+   "type": "video",
+   "text_on_screen": "Did his gf broke up with him",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 2,
+   "t": 2,
+   "desc": "Wide broadcast: Barca vs white team, Google Pixel 11 Pro boards; caption 'Did his gf broke up with him'",
+   "type": "video",
+   "text_on_screen": "Did his gf broke up with him",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 3,
+   "t": 4,
+   "desc": "Wide broadcast: Barca vs white team, Google Pixel 11 Pro boards; caption 'Did his gf broke up with him'",
+   "type": "video",
+   "text_on_screen": "Did his gf broke up with him",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 4,
+   "t": 6,
+   "desc": "Wide attack shot Barca vs white team at goal, Spotify boards",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 5,
+   "t": 8,
+   "desc": "Wide attack shot Barca vs white team at goal, Spotify boards",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 6,
+   "t": 10,
+   "desc": "Crowd at street event, young man in striped red-blue shirt",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 7,
+   "t": 12,
+   "desc": "Young man in striped shirt among people under trees",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "none"
+  }
+ ]
+}

@@ -1,0 +1,95 @@
+{
+ "no": 77,
+ "subject": "Wrexham owners Reynolds and Mac watch 1-1 draw with Wolves at the Racecourse",
+ "title": "Wrexham's owners and a late equaliser",
+ "voice": "EL_B",
+ "comic": false,
+ "style": null,
+ "lines": [
+  {
+   "vo": "Hollywood came to Wrexham, and Wrexham took a point.",
+   "card": "Hollywood owners",
+   "sfx": null,
+   "footage": "Ryan Reynolds Rob McElhenney Racecourse Ground"
+  },
+  {
+   "vo": "Ryan Reynolds and Rob McElhenney watched the one-all draw with Wolves.",
+   "card": "One-all at home",
+   "sfx": null,
+   "footage": "Wrexham Wolves 1-1 highlights"
+  },
+  {
+   "vo": "Adam Armstrong put Wolves ahead. Lewis O'Brien equalised, his first goal of the season. Two film stars were watching.",
+   "card": "O'Brien equaliser",
+   "sfx": null,
+   "footage": "Lewis O'Brien goal Wrexham"
+  },
+  {
+   "vo": "It denied Wolves sole top spot.",
+   "card": "Wolves denied top",
+   "sfx": null,
+   "footage": "Wolves table graphic"
+  },
+  {
+   "vo": "Phil Parkinson says the owners' visits lift players, staff and fans. No script needed.",
+   "card": "Visits lift the club",
+   "sfx": null,
+   "footage": "Phil Parkinson press conference Wrexham"
+  },
+  {
+   "vo": "Lost at Sheffield United, beat Middlesbrough, then held Wolves.",
+   "card": "Busy week",
+   "sfx": null,
+   "footage": "Wrexham Middlesbrough highlights"
+  },
+  {
+   "vo": "Non-league to the Championship. Any studio would call that script unrealistic.",
+   "card": "Non-league to Championship",
+   "sfx": null,
+   "footage": "Racecourse Ground, fans"
+  },
+  {
+   "vo": "Want the next story before it breaks? Betting tips, news and predictions at aboutfootball dot UK.",
+   "card": "Betting tips and news",
+   "sfx": null,
+   "footage": "Ryan Reynolds Rob McElhenney Wrexham match"
+  }
+ ],
+ "chars": 594,
+ "est_seconds": 41,
+ "footage_terms": [
+  "Wrexham Wolves 1-1 highlights",
+  "Ryan Reynolds Rob McElhenney Racecourse Ground",
+  "Phil Parkinson post-match Wrexham",
+  "Phil Parkinson press conference Wrexham",
+  "Ryan Reynolds Rob McElhenney Wrexham match"
+ ],
+ "inserts": [
+  {
+   "after_line": 0,
+   "story": "Two cartoon owners in sunglasses sit in director's chairs at a pitch side. Gag: a cartoon clapperboard snaps in front of them. Twist: the chairs collapse and they land in a heap.",
+   "characters": "generic cartoon film owners",
+   "seconds": 2
+  },
+  {
+   "after_line": 1,
+   "story": "A late ball loops into a crowded penalty box. Gag: a cartoon midfielder jumps and heads it down. Twist: it bounces over the line and the scoreboard reads 1-1.",
+   "characters": "generic cartoon players",
+   "seconds": 2
+  },
+  {
+   "after_line": 5,
+   "story": "A cartoon team climbs a long staircase with leagues on each step. Gag: a cartoon camera crew follows them step by step. Twist: at the top a golden door opens onto a bright spotlight.",
+   "characters": "generic cartoon team and staircase",
+   "seconds": 2
+  }
+ ],
+ "facts_used": [
+  "Owners Ryan Reynolds and Rob Mac attended the 1-1 draw with Wolves at the Racecourse; manager Phil Parkinson says visits lift staff, players and fans (news 105; espn.com/soccer/story/_/id/50408846)",
+  "Adam Armstrong put Wolves ahead; Lewis O'Brien equalised, his first goal of the season; Wolves denied sole top spot (news 105)",
+  "Wrexham lost 1-0 at Sheffield United on 30 October and beat Middlesbrough midweek (news 105)",
+  "Background: owners bought the then non-league club; it rose to the Championship (news 105 background)"
+ ],
+ "comic_score": 5,
+ "notes": "Punched up: film-stars-watching joke on O'Brien's first goal, 'no script needed', unrealistic-script twist. 'Held Wolves' used instead of calling Wolves leaders (source only says denied sole top spot). EL_B, vo 600 or less. Racecourse = Racecourse Ground. Non-comic, no inserts."
+}

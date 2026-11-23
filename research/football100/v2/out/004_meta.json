@@ -1,0 +1,108 @@
+{
+ "no": 4,
+ "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/004_cristiano_ronaldo.mp4",
+ "total": 44.3,
+ "outro_start": 38.31,
+ "cover": true,
+ "seq": [
+  {
+   "id": "s01",
+   "kind": "HOOK",
+   "start": 0.1,
+   "end": 1.6,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/004/s01.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s02",
+   "kind": "NEWS",
+   "start": 3.6,
+   "end": 5.366666666666666,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/004/s02.mp4",
+   "clip_dur": 1.766,
+   "frames": 42
+  },
+  {
+   "id": "s03",
+   "kind": "STATS",
+   "start": 7.6,
+   "end": 9.1,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/004/s03.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s04",
+   "kind": "COMIC1",
+   "start": 14.7,
+   "end": 16.7,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/004/s04.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s05",
+   "kind": "COMIC2",
+   "start": 20.8,
+   "end": 22.8,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/004/s05.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s06",
+   "kind": "COMIC3",
+   "start": 26.933333333333334,
+   "end": 28.933333333333334,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/004/s06.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s07",
+   "kind": "PROVOC",
+   "start": 31.333333333333332,
+   "end": 32.833333333333336,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/004/s07.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s08",
+   "kind": "INTERVIEW",
+   "start": 35.1,
+   "end": 36.86666666666667,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/004/s08.mp4",
+   "clip_dur": 1.766,
+   "frames": 42
+  }
+ ],
+ "missing": [],
+ "dropped": [],
+ "cards": [
+  {
+   "text": "Five Ballons d'Or",
+   "a": 5.533333333333333,
+   "b": 7.033333333333333
+  },
+  {
+   "text": "Shortlist again",
+   "a": 33.03333333333333,
+   "b": 34.93333333333333
+  }
+ ],
+ "caption_sprites": 132,
+ "whoosh": [
+  0.0,
+  3.5,
+  7.5,
+  14.6,
+  20.7,
+  26.833333333333332,
+  31.23333333333333,
+  35.0,
+  38.21
+ ],
+ "shots": 14
+}

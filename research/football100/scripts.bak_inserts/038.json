@@ -1,0 +1,70 @@
+{
+  "no": 38,
+  "subject": "Napoli reportedly want 7 million euros for De Bruyne, PSV say no",
+  "title": "Napoli want seven million",
+  "voice": "EL_A",
+  "comic": false,
+  "style": null,
+  "lines": [
+    {
+      "vo": "Napoli reportedly want seven million for Kevin De Bruyne. PSV say no.",
+      "card": "7m, PSV say no",
+      "sfx": null,
+      "footage": "Kevin De Bruyne Napoli goals"
+    },
+    {
+      "vo": "De Bruyne is thirty-five, with under a year left on his deal.",
+      "card": "Under a year left",
+      "sfx": null,
+      "footage": "Kevin De Bruyne interview Napoli"
+    },
+    {
+      "vo": "PSV reportedly opened with two million. Napoli said no. Five million apart is a different planet.",
+      "card": "2m vs 7m",
+      "sfx": null,
+      "footage": "Peter Bosz PSV press conference"
+    },
+    {
+      "vo": "Napoli are tenth in Serie A. They may need his passes more than the cash.",
+      "card": "Tenth in Serie A",
+      "sfx": null,
+      "footage": "Kevin De Bruyne Napoli highlights"
+    },
+    {
+      "vo": "Allegri reportedly opposes a midseason sale. That makes three noes in one story.",
+      "card": "Allegri says no",
+      "sfx": null,
+      "footage": "Allegri Napoli press conference"
+    },
+    {
+      "vo": "He won six Premier League titles at City. Seven million is about a million a trophy. Bargain.",
+      "card": "Six PL titles",
+      "sfx": null,
+      "footage": "De Bruyne best passes"
+    },
+    {
+      "vo": "Your mates will never guess this. Match news and betting tips at aboutfootball dot UK.",
+      "card": "aboutfootball.UK",
+      "sfx": null,
+      "footage": "end card"
+    }
+  ],
+  "chars": 559,
+  "est_seconds": 31,
+  "footage_terms": [
+    "Kevin De Bruyne Napoli goals",
+    "De Bruyne PSV return",
+    "Kevin De Bruyne best passes",
+    "Peter Bosz PSV press conference"
+  ],
+  "inserts": [],
+  "facts_used": [
+    "La Gazzetta dello Sport: Napoli set a 7 million euro price; De Telegraaf: PSV will not pay and reportedly saw a 2 million euro opening offer rejected (ev0059)",
+    "De Bruyne, 35, in the last year of a two-year deal; Napoli reportedly will not use a 12-month extension option (ev0059)",
+    "Napoli are 10th in Serie A and at risk of missing the Champions League knockout rounds (ev0059)",
+    "Allegri reportedly opposes a midseason sale (ev0059)",
+    "De Bruyne won six Premier League titles with Manchester City (ev0059 background)"
+  ],
+  "comic_score": 6,
+  "notes": "Non-comic, no inserts. Facts unchanged. All fees are press reports, not confirmed. Arithmetic jokes: 7 - 2 = five million gap; 7 / 6 = about 1.2m per title ('about a million'). Three noes: PSV, Napoli's rejection of the 2m bid, Allegri (reported). Personal reasons for the move left out. Source: ev0059."
+}

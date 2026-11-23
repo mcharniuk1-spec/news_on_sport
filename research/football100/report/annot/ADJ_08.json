@@ -1,0 +1,11 @@
+{
+"71": {"dominant_emotion": "amusement"},
+"73": {"hook_basis": "transfer_fee_or_bid", "scope": "europe_club", "story_structure": "rumour_explainer", "humour_type": "understatement", "humour_target": "situation", "hook_type_alt": "news_flash"},
+"74": {"subject_type": "manager", "comment_bait": "none"},
+"75": {"twist_position": "late", "payoff_type": "callback_to_hook", "humour_type": "callback", "comment_bait": "none", "hook_type_alt": "quote_led"},
+"76": {"hook_type": "contrast_twist", "topic_primary": "manager_news", "subject_type": "manager", "story_structure": "stat_stack", "twist_position": "early", "hook_type_alt": "stat_shock", "risk_flags": ["single_source"]},
+"77": {"hook_type": "contrast_twist", "topic_primary": "club_ownership_finance", "subject_type": "owner_or_other", "story_structure": "twist_payoff", "twist_position": "late", "payoff_type": "callback_to_hook", "humour_target": "situation", "hook_type_alt": "news_flash", "risk_flags": ["over_length", "single_source"]},
+"78": {"hook_basis": "scoreline_result", "humour_type": "roast", "hook_type_alt": "news_flash"},
+"79": {"humour_type": "roast"},
+"80": {"humour_type": "deadpan_stat", "dominant_emotion": "surprise"}
+}

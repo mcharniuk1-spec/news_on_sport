@@ -1,0 +1,460 @@
+{
+ "no": 17,
+ "style": "FLAT-POP",
+ "prop": "trophy",
+ "cast": {
+  "owen": {
+   "role": "pundit",
+   "shirt": "#3b5bdb",
+   "hair": "#6b4a2a"
+  },
+  "fox": {
+   "role": "mascot",
+   "shirt": "#f08a24",
+   "skin": "#f08a24",
+   "hair": "#f08a24"
+  }
+ },
+ "sequences": {
+  "s01": {
+   "type": "HOOK",
+   "q": "Top four or relegation zone?",
+   "prop": "chart-down",
+   "emote": "shock",
+   "board": "stamp",
+   "role": "pundit"
+  },
+  "s02": {
+   "type": "COMIC",
+   "bg": "studio",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "owen",
+       "x": 320,
+       "y": 1440,
+       "pose": "think",
+       "emote": "neutral",
+       "scale": 1.4,
+       "label": "Michael Owen"
+      }
+     ],
+     "props": [
+      {
+       "kind": "globe",
+       "x": 770,
+       "y": 860,
+       "scale": 2.5
+      },
+      {
+       "kind": "trophy",
+       "x": 770,
+       "y": 850,
+       "scale": 0.9,
+       "anim": "pop"
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.42,
+     "actors": [
+      {
+       "id": "owen",
+       "x": 320,
+       "y": 1440,
+       "pose": "shock",
+       "emote": "sweat",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "globe",
+       "x": 770,
+       "y": 860,
+       "scale": 2.5
+      },
+      {
+       "kind": "chart-down",
+       "x": 770,
+       "y": 860,
+       "scale": 1.4,
+       "anim": "grow"
+      }
+     ],
+     "cam": "push"
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.42,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "owen",
+       "x": 320,
+       "y": 1440,
+       "pose": "shock",
+       "emote": "sweat",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "globe",
+       "x": 770,
+       "y": 860,
+       "scale": 2.5,
+       "anim": "shake"
+      },
+      {
+       "kind": "chart-down",
+       "x": 770,
+       "y": 860,
+       "scale": 1.8,
+       "rot": 6
+      }
+     ],
+     "sfx": {
+      "text": "BANG",
+      "x": 330,
+      "y": 520,
+      "r": 120
+     }
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "owen",
+       "x": 320,
+       "y": 1440,
+       "pose": "thumbsup",
+       "emote": "smug",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "globe",
+       "x": 770,
+       "y": 860,
+       "scale": 2.5,
+       "rot": -10,
+       "face": "dizzy"
+      },
+      {
+       "kind": "chart-down",
+       "x": 770,
+       "y": 880,
+       "scale": 1.5,
+       "rot": 6
+      },
+      {
+       "kind": "trophy",
+       "x": 520,
+       "y": 1400,
+       "scale": 0.9,
+       "anim": "drop"
+      }
+     ],
+     "sfx": {
+      "text": "CLANG",
+      "x": 770,
+      "y": 470,
+      "r": 100
+     },
+     "fx": [
+      {
+       "kind": "dust",
+       "x": 770,
+       "y": 860
+      }
+     ]
+    }
+   ]
+  },
+  "s03": {
+   "type": "NEWS",
+   "name": "Michael Owen",
+   "fact": "He said it in August",
+   "ticker": "Relegation zone",
+   "icons": [
+    "calendar",
+    "chart-down",
+    "door"
+   ],
+   "role": "pundit",
+   "actor": "owen"
+  },
+  "s04": {
+   "type": "COMIC",
+   "bg": "sky",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "owen",
+       "x": 300,
+       "y": 1440,
+       "pose": "hold",
+       "emote": "neutral",
+       "scale": 1.4,
+       "hold": {
+        "kind": "notepad",
+        "hand": "both",
+        "scale": 1.3
+       }
+      }
+     ],
+     "props": [
+      {
+       "kind": "trophy",
+       "x": 560,
+       "y": 1400,
+       "scale": 0.8
+      },
+      {
+       "kind": "globe",
+       "x": 920,
+       "y": 1380,
+       "scale": 1.0,
+       "rot": -12,
+       "face": "dizzy"
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.42,
+     "actors": [
+      {
+       "id": "owen",
+       "x": 300,
+       "y": 1440,
+       "pose": "hold",
+       "emote": "smug",
+       "scale": 1.4,
+       "hold": {
+        "kind": "notepad",
+        "hand": "both",
+        "scale": 1.3
+       }
+      },
+      {
+       "id": "fox",
+       "x": 760,
+       "y": 1440,
+       "pose": "dance",
+       "emote": "happy",
+       "scale": 0.9
+      }
+     ],
+     "props": [
+      {
+       "kind": "trophy",
+       "x": 760,
+       "y": 930,
+       "scale": 0.8
+      },
+      {
+       "kind": "crown",
+       "x": 760,
+       "y": 960,
+       "scale": 0.5,
+       "anim": "pop"
+      },
+      {
+       "kind": "globe",
+       "x": 920,
+       "y": 1380,
+       "scale": 1.0,
+       "rot": -12,
+       "face": "dizzy"
+      }
+     ],
+     "cam": "push"
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.42,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "owen",
+       "x": 300,
+       "y": 1440,
+       "pose": "hold",
+       "emote": "smug",
+       "scale": 1.4,
+       "hold": {
+        "kind": "notepad",
+        "hand": "both",
+        "scale": 1.3
+       }
+      },
+      {
+       "id": "fox",
+       "x": 760,
+       "y": 1440,
+       "pose": "cheer",
+       "emote": "happy",
+       "scale": 0.9
+      }
+     ],
+     "props": [
+      {
+       "kind": "trophy",
+       "x": 760,
+       "y": 880,
+       "scale": 0.9
+      },
+      {
+       "kind": "crown",
+       "x": 760,
+       "y": 940,
+       "scale": 0.5
+      },
+      {
+       "kind": "globe",
+       "x": 920,
+       "y": 1380,
+       "scale": 1.0,
+       "rot": -12,
+       "face": "dizzy"
+      }
+     ],
+     "fx": [
+      {
+       "kind": "confetti",
+       "x": 760,
+       "y": 700
+      }
+     ]
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "owen",
+       "x": 300,
+       "y": 1440,
+       "pose": "shush",
+       "emote": "smug",
+       "scale": 1.4
+      },
+      {
+       "id": "fox",
+       "x": 700,
+       "y": 1200,
+       "pose": "wave",
+       "emote": "happy",
+       "scale": 0.8
+      }
+     ],
+     "props": [
+      {
+       "kind": "notepad",
+       "x": 700,
+       "y": 1360,
+       "scale": 1.9,
+       "anim": "drop"
+      },
+      {
+       "kind": "trophy",
+       "x": 820,
+       "y": 1120,
+       "scale": 0.6
+      },
+      {
+       "kind": "crown",
+       "x": 700,
+       "y": 780,
+       "scale": 0.5
+      },
+      {
+       "kind": "globe",
+       "x": 920,
+       "y": 1380,
+       "scale": 1.0,
+       "rot": -12,
+       "face": "dizzy"
+      }
+     ],
+     "sfx": {
+      "text": "POP",
+      "x": 520,
+      "y": 560,
+      "r": 110
+     }
+    }
+   ]
+  },
+  "s05": {
+   "type": "PROVOC",
+   "q": "Would United going down shock you?",
+   "a": "Huge shock",
+   "b": "Not really",
+   "split": [
+    58,
+    42
+   ],
+   "mood": "shock"
+  },
+  "s06": {
+   "type": "INTERVIEW",
+   "label": "REPORTER ASKS",
+   "bubble": "as big a shock as Leicester's title",
+   "answer": {
+    "icon": "trophy",
+    "gesture": "present",
+    "emote": "smug"
+   },
+   "subject": "Michael Owen",
+   "subject_cast": "owen"
+  },
+  "s07": {
+   "type": "STATS",
+   "items": [
+    {
+     "icon": "trophy",
+     "value": "4",
+     "label": "Top four"
+    },
+    {
+     "icon": "calendar",
+     "value": "2029",
+     "label": "Pochettino to 2029"
+    },
+    {
+     "icon": "star",
+     "value": "2016",
+     "label": "Leicester's title"
+    }
+   ]
+  }
+ }
+}

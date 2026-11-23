@@ -1,0 +1,102 @@
+{
+ "no": 1,
+ "subject": "Andriy Shevchenko",
+ "title": "Shevchenko: exactly the division it deserves",
+ "voice": "kokoro",
+ "comic": true,
+ "style": "simpsons",
+ "lines": [
+  {
+   "vo": "Shevchenko says Ukraine is in exactly the division it deserves. Refreshing honesty.",
+   "card": "League B",
+   "sfx": "short bass sting",
+   "footage": "Shevchenko UAF press conference or interview clip"
+  },
+  {
+   "vo": "Third in a four-team group. Euro 2028 seeding? Gone.",
+   "card": "Third of four",
+   "sfx": null,
+   "footage": "Nations League group B table graphic and highlights"
+  },
+  {
+   "vo": "Seven points from six games: two wins, one draw, three defeats.",
+   "card": "7 points, 6 games",
+   "sfx": null,
+   "footage": "Ukraine Nations League 2026 highlights"
+  },
+  {
+   "vo": "Against Northern Ireland: seventy-three percent of the ball, two shots on target. Northern Ireland had the goals. Three-nil.",
+   "card": "73% ball, lost 0-3",
+   "sfx": "crowd groan",
+   "footage": "Northern Ireland v Ukraine Nations League match highlights"
+  },
+  {
+   "vo": "Coach Maldera says he has not even discussed resigning. Yet.",
+   "card": "Not resigning. Yet.",
+   "sfx": null,
+   "footage": "Andrea Maldera press conference clip"
+  },
+  {
+   "vo": "Shevchenko won the Ballon d'Or in 2004. Twenty-four goals in thirty-two Serie A games. Ukraine's table could use a few.",
+   "card": "Ballon d'Or 2004",
+   "sfx": null,
+   "footage": "Shevchenko Milan 2004 Serie A goals compilation"
+  },
+  {
+   "vo": "Last month in London he handed Lamine Yamal the Young Talent award.",
+   "card": "Young Talent award",
+   "sfx": null,
+   "footage": "Ballon d'Or 2026 ceremony London, Yamal award clip"
+  },
+  {
+   "vo": "Yamal has three of those trophies. Ukraine has seven points.",
+   "card": "Three Kopa trophies",
+   "sfx": "record scratch",
+   "footage": "Yamal Kopa Trophy clip"
+  },
+  {
+   "vo": "Think you can call the next one? Betting tips, news and predictions at aboutfootball dot UK.",
+   "card": "aboutfootball.UK",
+   "sfx": null,
+   "footage": "end card, no footage"
+  }
+ ],
+ "chars": 720,
+ "est_seconds": 40,
+ "footage_terms": [
+  "Shevchenko Milan goals highlights",
+  "Shevchenko Ukraine goals compilation",
+  "Ukraine Nations League highlights 2026",
+  "Shevchenko Ballon d'Or 2004"
+ ],
+ "inserts": [
+  {
+   "after_line": 2,
+   "story": "A cartoon reporter asks a caricature of Shevchenko for his verdict. He points to a cosy armchair with slippers, marked League B. Gag: the reporter sits, the chair sighs happily. Twist: a tag under the seat reads Seeding pot: pending.",
+   "characters": "generic cartoon reporter; caricature of Shevchenko",
+   "seconds": 2
+  },
+  {
+   "after_line": 4,
+   "story": "A cartoon team hugs a giant football and passes it politely, after you, no, after you, while a scoreboard shows 73%. Gag: nobody shoots. Twist: a cartoon striker in a rival shirt strolls past with a tiny spare ball and scores, and the scoreboard flips to 0-3.",
+   "characters": "generic cartoon teams; no real player caricature",
+   "seconds": 2
+  },
+  {
+   "after_line": 6,
+   "story": "A caricature of Shevchenko hands a cartoon Yamal a trophy. His shelf already holds three shiny cups. Gag: Yamal makes room with a polite nod. Twist: the only other item on the shelf is a sticky note reading Ukraine: 7 points, and Yamal hands it back.",
+   "characters": "caricature of Shevchenko; caricature of Lamine Yamal",
+   "seconds": 2
+  }
+ ],
+ "facts_used": [
+  "Ukraine 3rd of 4 in Nations League League B group, 7 pts, 2W 1D 3L; Shevchenko 'in exactly the division it deserves' (news.liga.net, 2026-11-18; bo pack Andriy Shevchenko recent_news)",
+  "Ukraine missed the second seeding pot for the Euro 2028 qualifying draw (bo pack recent_news 2026-11-18, per Liga.net)",
+  "Ukraine 73% possession, 2 of 11 shots on target, lost 0-3 to Northern Ireland (bo pack recent_news 2026-10-02)",
+  "Maldera said he has not discussed resigning with Shevchenko (bo pack recent_news 2026-11-16, UNN)",
+  "Shevchenko won Ballon d'Or 2004; 24 goals in 32 Serie A games (bo pack praise / quick_context)",
+  "Shevchenko presented Young Talent (Kopa) award to Lamine Yamal in London, 2026-10-26; Yamal has three Kopa trophies (bo pack recent_news 2026-10-26)"
+ ],
+ "comic_score": 8,
+ "notes": "after_line is 1-based index into lines. The Mudryk/meldonium story is skipped (sensitive:true, doping). Children-of-rescuers item skipped (war-related). 'Yet.' is a tease about the resignation, not a claim. Part A uses newest stories. Punch-up pass: added the 0-3 score and 2-of-11 shots (both in the bo pack fact list; spoken line says two on target); all other facts unchanged."
+}

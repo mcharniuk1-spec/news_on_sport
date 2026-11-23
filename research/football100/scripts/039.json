@@ -1,0 +1,83 @@
+{
+ "no": 39,
+ "subject": "Newcastle booed at home as Everton win 1-0 and Jaissle takes the blame",
+ "title": "No shots, lots of boos",
+ "voice": "kokoro",
+ "comic": false,
+ "style": null,
+ "lines": [
+  {
+   "vo": "No shot on target in the first half. Newcastle still got booed.",
+   "card": "Zero shots",
+   "sfx": null,
+   "footage": "Newcastle 0-1 Everton highlights"
+  },
+  {
+   "vo": "Thierno Barry scored in the forty-ninth minute, after a shot squirmed under the keeper. Not a thunderbolt. A polite trickle.",
+   "card": "Barry 49'",
+   "sfx": null,
+   "footage": "Thierno Barry winner Newcastle"
+  },
+  {
+   "vo": "Ugly goals count the same. Everton's first away league win of the season. They will frame it.",
+   "card": "Ugly away win",
+   "sfx": null,
+   "footage": "Newcastle 0-1 Everton highlights"
+  },
+  {
+   "vo": "Jacob Ramsey was sent off late, for two yellows in eighty-six seconds. Some people take longer to order a coffee.",
+   "card": "86 seconds",
+   "sfx": null,
+   "footage": "Newcastle Everton red card Ramsey"
+  },
+  {
+   "vo": "It was Newcastle's second straight home loss and fourth defeat in five games. They sit thirteenth. Only the volume is rising.",
+   "card": "Four in five",
+   "sfx": null,
+   "footage": "Matthias Jaissle press conference Newcastle boos"
+  },
+  {
+   "vo": "Matthias Jaissle took the blame and said they must improve. The crowd had already reached the same conclusion.",
+   "card": "Jaissle's blame",
+   "sfx": null,
+   "footage": "Matthias Jaissle post match Newcastle"
+  },
+  {
+   "vo": "Your mates will never guess this. Match news and betting tips at aboutfootball dot UK.",
+   "card": "aboutfootball.UK",
+   "sfx": null,
+   "footage": "end card"
+  }
+ ],
+ "chars": 714,
+ "est_seconds": 40,
+ "footage_terms": [
+  "Newcastle 0-1 Everton highlights",
+  "Matthias Jaissle press conference Newcastle boos",
+  "Thierno Barry winner Newcastle",
+  "Everton 3-1 Newcastle Carabao Cup highlights"
+ ],
+ "inserts": [
+  {
+   "after_line": 0,
+   "story": "A cartoon shot dribbles slowly toward a goalkeeper. Gag: the ball squirms under his body like a mouse. Twist: it crawls into the net and the keeper looks at his empty gloves.",
+   "characters": "generic cartoon goalkeeper and players",
+   "seconds": 2
+  },
+  {
+   "after_line": 4,
+   "story": "A cartoon coach stands at a microphone in front of a crowd of cartoon fans giving thumbs down. Gag: he bows with a tiny blame sign over his head. Twist: the crowd's thumbs all flip up for one second, then down again.",
+   "characters": "generic cartoon coach and fans",
+   "seconds": 2
+  }
+ ],
+ "facts_used": [
+  "Thierno Barry scored in the 49th minute after a Tyrique George shot squirmed under Lukas Hornicek; Newcastle had no shot on target in the first half (ev0090)",
+  "Jacob Ramsey sent off late for two yellow cards in 86 seconds (ev0090)",
+  "Second straight home loss and fourth defeat in five games in all competitions; Newcastle sit 13th (ev0090)",
+  "Everton's first away league win of the season (ev0090)",
+  "Jaissle takes the blame; Newcastle admitted they must improve (ev0090 background)"
+ ],
+ "comic_score": 7,
+ "notes": "Non-comic, no inserts. Facts unchanged. Source does not say when the boos came, so the script does not say half-time. 'Eighty-six seconds' is the source figure; the coffee line is a narrator gag. Tyrique George and Hornicek not named. Source: ev0090."
+}

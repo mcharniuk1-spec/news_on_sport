@@ -1,0 +1,591 @@
+{
+  "name": "Andriy Shevchenko",
+  "years": "Ballon d'Or 2004; born 29 Sep 1976; research as of 2026-11-20 (90-day window 2026-08-22 to 2026-11-20)",
+  "recent_news": [
+    {
+      "date": "2026-11-19",
+      "headline": "Shevchenko calls Mudryk's accusations against the UAF 'baseless slander' and demands evidence or an apology",
+      "facts": [
+        "In an interview with Dmytro Hordon, Chelsea winger Mykhailo Mudryk (now at Tottenham on loan) said the banned substance meldonium could only have entered his body at a Ukraine national-team camp, and said the UAF was involved.",
+        "Shevchenko, as UAF president, said the claims unfairly target staff who work honestly and professionally, and that Mudryk's representatives had repeatedly asked the UAF to find an employee to take the blame, which the UAF refused.",
+        "Shevchenko said Chelsea had asked the UAF to give Mudryk no medication at camps and staff complied; he asked Mudryk to provide his evidence."
+      ],
+      "source_url": "https://zaxid.net/shevchenko_vidpoviv_mudriku_na_zvinuvachennya_ta_visunuv_yomu_konkretnu_umovu_n1650577",
+      "source_domain": "zaxid.net",
+      "tone": "neutral",
+      "sensitive": true
+    },
+    {
+      "date": "2026-11-18",
+      "headline": "Shevchenko: Ukraine failed its Nations League goal and is 'in exactly the division it deserves'",
+      "facts": [
+        "Ukraine finished third in its League B group, kept its League B place, missed the promotion play-offs and missed the second seeding pot for the Euro 2028 qualifying draw (per Liga.net).",
+        "Shevchenko said Maldera and staff gained experience in difficult squad circumstances and gave new players their national-team debuts; the UAF is not considering the coach's resignation.",
+        "Shevchenko thanked fans for support and said qualifying for Euro 2028 is the main task."
+      ],
+      "source_url": "https://news.liga.net/en/society/news/shevchenko-summed-up-the-ukrainian-national-teams-performance-in-the-nations-league-under-malderas-leadership",
+      "source_domain": "news.liga.net",
+      "tone": "roast",
+      "sensitive": false
+    },
+    {
+      "date": "2026-11-17",
+      "headline": "Ukraine beat Georgia 1-0 in the last Nations League game and stay in League B",
+      "facts": [
+        "Danylo Sikan scored in the 1st minute in Kosice, Slovakia (Wikipedia; UNN calls it the fastest goal in the team's official matches); Ukraine finished third with 7 points.",
+        "Final group table: Northern Ireland 12, Hungary 11, Ukraine 7, Georgia 2 (Wikipedia, confirmed).",
+        "The win avoided relegation to League C; Georgia finished fourth and enters the relegation play-offs."
+      ],
+      "source_url": "https://unn.ua/en/topics/persons/andriy-shevchenko",
+      "source_domain": "unn.ua",
+      "tone": "neutral",
+      "sensitive": false
+    },
+    {
+      "date": "2026-11-16",
+      "headline": "Maldera says he has not discussed resigning with Shevchenko after the run of Nations League defeats",
+      "facts": [
+        "Coach Andrea Maldera said he and Shevchenko had not discussed his resignation (UNN, 16 Nov).",
+        "Ukraine had lost three games in a row under him before the Georgia game (2 Oct, 5 Oct, 14 Nov).",
+        "Shevchenko had previously expressed support for Maldera and trust in him (Liga.net)."
+      ],
+      "source_url": "https://unn.ua/en/topics/persons/andriy-shevchenko",
+      "source_domain": "unn.ua",
+      "tone": "roast",
+      "sensitive": false
+    },
+    {
+      "date": "2026-11-14",
+      "headline": "Northern Ireland 1-0 Ukraine in Belfast: third straight defeat under Maldera",
+      "facts": [
+        "Devlin scored in the 68th minute at Windsor Park; it was 0-0 at half-time.",
+        "Ukraine had more of the ball but did not score; after five games Ukraine had 4 points and goal difference -4.",
+        "A loss to Georgia three days later would have meant relegation to League C."
+      ],
+      "source_url": "https://www.psg.fr/en/content/narrow-defeat-for-zabarnyis-ukraine-illia-zabarnyi-paris-saint-germain-2026-2027",
+      "source_domain": "psg.fr",
+      "tone": "roast",
+      "sensitive": false
+    },
+    {
+      "date": "2026-10-05",
+      "headline": "Ukraine lose 1-2 to Hungary in Trnava after conceding straight after an 83rd-minute equaliser",
+      "facts": [
+        "Hungary led through Milan Toth (52'), Roman Yaremchuk equalised from a corner in the 83rd minute, and Hungary scored the winner two minutes later (Wikipedia and 11v11 per earlier research: Mark Csinger 85'; UNN names Gabor Jurek, so the scorer is disputed).",
+        "It was Ukraine's second straight defeat; they fell to third in the group.",
+        "The game was a nominal home game played in Trnava, Slovakia because of the Russian invasion."
+      ],
+      "source_url": "https://unn.ua/en/news/ukraine-lost-to-hungary-and-dropped-to-third-place-in-its-nations-league-group",
+      "source_domain": "unn.ua",
+      "tone": "roast",
+      "sensitive": false
+    },
+    {
+      "date": "2026-10-02",
+      "headline": "Ukraine 0-3 Northern Ireland in Trnava, third goal rolls through Riznyk's legs",
+      "facts": [
+        "Ukraine had 73% possession and 11 shots but only 2 on target.",
+        "The third goal went between goalkeeper Dmytro Riznyk's legs; Isaac Price headed the second.",
+        "It was Ukraine's first defeat of the campaign after a 1-0 win in Hungary and a 0-0 draw in Georgia."
+      ],
+      "source_url": "https://unn.ua/en/news/ukraine-suffered-a-heavy-defeat-to-northern-ireland-in-the-nations-league-conceding-a-comical-goal",
+      "source_domain": "unn.ua",
+      "tone": "roast",
+      "sensitive": false
+    },
+    {
+      "date": "2026-09-25",
+      "headline": "Hungary 0-1 Ukraine: Maldera wins his first competitive game with three debutants",
+      "facts": [
+        "Ukraine won 1-0 in Budapest in the first Nations League game under Maldera (25 Sep 2026).",
+        "Maldera said the team can play better and congratulated three debutants: Krupskyi, Drambayev and Krasnopir.",
+        "The UNN article does not name the scorer (the earlier 'Sikan per Liga.net caption' could not be confirmed and was removed)."
+      ],
+      "source_url": "https://unn.ua/en/news/we-can-play-better-maldera-commented-on-ukraines-victory-over-hungary",
+      "source_domain": "unn.ua",
+      "tone": "praise",
+      "sensitive": false
+    },
+    {
+      "date": "2026-09-29",
+      "headline": "Shevchenko turns 50; Zelensky calls him a legend",
+      "facts": [
+        "Zelensky wrote 'Happy anniversary, legend. Victories to you, to our national team, and to our country; peace to us all. Glory to Ukraine.'",
+        "UNN traces his path from Dynamo Kyiv to Milan to UAF president (elected 25 Jan 2024 at the 26th Congress, replacing Andriy Pavelko; Oleh Protasov was acting president from May 2023; UNN says 'unanimously', Wikipedia lists 94 votes for and 1 abstention).",
+        "Former Milan teammate Alessandro Costacurta congratulated him; UNN also notes the VHS-tape story of his Milan move."
+      ],
+      "source_url": "https://unn.ua/en/news/the-sheva-beloved-by-the-entire-country-zelenskyy-emotionally-congratulated-shevchenko-on-his-anniversary",
+      "source_domain": "unn.ua",
+      "tone": "praise",
+      "sensitive": false
+    },
+    {
+      "date": "2026-09-29",
+      "headline": "Retro story: Milan signed Shevchenko after ordering a VHS tape of his Barcelona hat-trick",
+      "facts": [
+        "Milan scouts were not at the 4-0 win at Camp Nou on 5 Nov 1997; sporting director Ariedo Braida ordered a VHS recording from the Mediaset newsroom.",
+        "Milan paid about 45 billion lire (about $24m) in summer 1999.",
+        "In his first Milan season he scored 24 goals in 32 Serie A games."
+      ],
+      "source_url": "https://unn.ua/en/news/shevchenko-ended-up-at-milan-thanks-to-a-vhs-tape-media-outlets-recalled-shevas-move-to-italy",
+      "source_domain": "unn.ua",
+      "tone": "praise",
+      "sensitive": false
+    },
+    {
+      "date": "2026-10-03",
+      "headline": "Shevchenko's son Kristian signs for seventh-tier Sholing",
+      "facts": [
+        "Kristian, 19, joined Southern League side Sholing (seventh tier) after being released by Watford in the summer; he never made a senior appearance for Watford and has 15 Ukraine youth caps (BritBrief, published 3 Oct 2026).",
+        "A Sholing statement says he came through the youth setups at Chelsea, Tottenham Hotspur and Watford.",
+        "Sholing were 16th with 10 points from their first 8 league games (per Mirror via BritBrief)."
+      ],
+      "source_url": "https://britbrief.co.uk/sports/football/shevchenkos-son-joins-non-league-sholing.html",
+      "source_domain": "britbrief.co.uk",
+      "tone": "neutral",
+      "sensitive": true
+    },
+    {
+      "date": "2026-10-26",
+      "headline": "Shevchenko presents the Young Talent award to Lamine Yamal at the London Ballon d'Or ceremony",
+      "facts": [
+        "Ceremony at the London Palladium on 26 October 2026 (Wikipedia; ua.news says London); Shevchenko is described as UAF president and Ukrainian legend and presented the men's Young Talent (Kopa Trophy) award.",
+        "Yamal won the men's Kopa Trophy for the third time (96 points, Pau Cubarsi second with 94 per Wikipedia). The earlier '24 goals and 18 assists' figure could not be confirmed and was removed.",
+        "Shevchenko won his own Ballon d'Or in 2004."
+      ],
+      "source_url": "https://ua.news/en/sport/u-londoni-pochali-ogoloshuvati-peremozhtsiv-zolotogo-miacha-2026",
+      "source_domain": "ua.news",
+      "tone": "praise",
+      "sensitive": false
+    },
+    {
+      "date": "2026-10-14",
+      "headline": "Shevchenko presents the 'Legend of Football' order to Rinat Akhmetov",
+      "facts": [
+        "UAF article dated 14 Oct 2026, 21:37: Shevchenko awarded Rinat Akhmetov the 'Legend of Football' order, recognising his 30 years leading FC Shakhtar.",
+        "The earlier '18 Nov' date came from an unverified search listing and is dropped; the UAF page itself shows 14 Oct."
+      ],
+      "source_url": "https://uaf.ua/en/news/andriy-shevchenko-awarded-rinat-akhmetov-with-the-legend-of-football-order",
+      "source_domain": "uaf.ua",
+      "tone": "neutral",
+      "sensitive": false
+    },
+    {
+      "date": "2026-09-01",
+      "headline": "Mudryk joins Tottenham on season-long loan after his doping ban ends (background to the Nov 19 row)",
+      "facts": [
+        "Mudryk joined Tottenham from Chelsea on a season-long loan on 1 Sep 2026 (Wikipedia; Malay Mail dated 2 Sep).",
+        "His doping case ended in late July 2026: Wikipedia says all charges were dropped on 31 July 2026; Shevchenko refers to settlements with WADA and the English FA. Exact terms of the settlement differ between sources and were not independently confirmed.",
+        "He had not played since late 2024 before his return."
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Mykhailo_Mudryk",
+      "source_domain": "en.wikipedia.org",
+      "tone": "neutral",
+      "sensitive": true
+    },
+    {
+      "date": "2026-11-17",
+      "headline": "Children of rescuers lead Ukraine onto the pitch against Georgia (UAF)",
+      "facts": [
+        "UAF announced children of State Emergency Service rescuers would lead the team out for the Georgia game.",
+        "Posted on the UAF news feed on 17 Nov 2026."
+      ],
+      "source_url": "https://uaf.ua/en/about-uaf/executive/71",
+      "source_domain": "uaf.ua",
+      "tone": "neutral",
+      "sensitive": true
+    },
+    {
+      "date": "2026-11-20",
+      "headline": "UAF opens a UEFA Playmakers centre in Vinnytsia Oblast",
+      "facts": [
+        "Listed at the top of the UAF news feed on 20 Nov 2026.",
+        "Part of UAF grassroots programmes under Shevchenko's presidency (headline only; details not read)."
+      ],
+      "source_url": "https://uaf.ua/en/about-uaf/executive/71",
+      "source_domain": "uaf.ua",
+      "tone": "neutral",
+      "sensitive": false
+    }
+  ],
+  "now": {
+    "as_of": "2026-11-20",
+    "role": "President of the Ukrainian Association of Football (UAF). Elected on 25 January 2024 at the 26th Congress (UNN: unanimously; Wikipedia: 94 votes for, 1 abstention), replacing Andriy Pavelko; Oleh Protasov was acting president from May 2023 to Jan 2024. No report of a leadership change found.",
+    "national_team": "Italian Andrea Maldera (55) was appointed head coach on 18 May 2026 after Serhiy Rebrov left in April when Ukraine failed to reach the 2026 World Cup. Maldera is the first foreign coach of the national team and had earlier worked with the national team and clubs (UNN). Shevchenko chose him from four candidates, called him 'an Italian with a Ukrainian soul' and set Euro 2028 qualification as the task.",
+    "season_numbers": "2026/27 Nations League, League B Group 2: W 1-0 Hungary (a, 25 Sep), D 0-0 Georgia (a, 28 Sep), L 0-3 Northern Ireland (2 Oct), L 1-2 Hungary (5 Oct), L 0-1 Northern Ireland (14 Nov), W 1-0 Georgia (17 Nov). Record 2W 1D 3L, goals 3-6 (GD -3), 7 points, third place, stayed in League B. Final table: Northern Ireland 12 (promoted to League A), Hungary 11 (promotion play-offs), Ukraine 7, Georgia 2 (relegation play-offs). Ukraine missed the play-offs and the second pot for the Euro 2028 qualifying draw.",
+    "contract": "GAP: no source found for the length or end date of his UAF presidency term. HYPOTHESIS: Wikipedia notes the UAF term was extended from four to five years in 2017; his term end was not confirmed.",
+    "what_people_say": "Shevchenko himself says the team is 'in exactly the division it deserves' and the goal was missed. Mudryk accuses the UAF over his meldonium case and Shevchenko calls it baseless slander. Zelensky called him a legend on his 50th birthday (29 Sep 2026).",
+    "other": "Turned 50 on 29 Sep 2026. Presented the Young Talent (Kopa Trophy) award to Lamine Yamal at the 26 Oct Ballon d'Or ceremony in London (ua.news; Wikipedia confirms date and venue). Presented the 'Legend of Football' order to Rinat Akhmetov on 14 Oct (UAF). No coaching or club job outside UAF found. No business, media-job or personal social-media stories found in the window (GAP: web search budget ran out)."
+  },
+  "quick_context": [
+    "Shevchenko won the 2004 Ballon d'Or after scoring 24 goals in 32 Serie A games as Milan took the 2003-04 title.",
+    "He scored the winning penalty in the 2003 Champions League final shootout against Juventus.",
+    "He is Ukraine's record scorer with 48 goals in 111 games."
+  ],
+  "roast_past": [
+    "Chelsea paid 30.8 million pounds in 2006; he scored 22 goals in 77 games in all competitions, only 9 in 48 Premier League appearances. Friendly line: the most expensive 22 goals in London.",
+    "2005 Istanbul final: Dudek saved his extra-time double chance and then his shootout penalty. Shevchenko himself has called the double save inexplicable and said his penalty was too close to the middle of the goal.",
+    "2012: he left football for politics; his party 'Ukraine - Forward!' took 1.58% of the vote and won no seats.",
+    "Genoa 2021-22: 11 matches, 1 win, 3 draws, 7 losses, sacked on 15 January 2022 after a 0-2 debut at home to Roma.",
+    "2008-09 loan back to Milan: 26 appearances, 2 goals and no league goals.",
+    "Euro 2020: Ukraine's first quarter-final ended 0-4 against England in Rome (Kane 2, Maguire, Henderson). Balance with praise: it was still Ukraine's best Euro run.",
+    "His transfer to Milan needed a VHS tape: scouts did not travel, Milan ordered a recording of the Barcelona hat-trick."
+  ],
+  "roast_now": [
+    "As UAF president he says the national team is 'in exactly the division it deserves' - League B, third in a four-team group.",
+    "He picked Maldera from four candidates; the new coach then lost three games in a row and had to say publicly that he had not discussed resigning.",
+    "Ukraine had 73% possession and only 2 of 11 shots on target against Northern Ireland, then lost 0-3 with a goal through the goalkeeper's legs. Aim the joke at the situation, not at a named player.",
+    "Ukraine missed the Euro 2028 second seeding pot, even though the main target is Euro 2028.",
+    "He handed the Young Talent award to Yamal, who already has three Kopa trophies; Sheva has one Ballon d'Or and a presidency of League B.",
+    "From striker to politician to coach to boss: a CV with more titles than the national team has points this autumn (7)."
+  ],
+  "praise": [
+    "2003-04: 24 goals in 32 Serie A games, top scorer, Milan champions, then the 2004 Ballon d'Or (third Ukrainian winner after Blokhin and Belanov).",
+    "Scored the decisive penalty in the 2003 Champions League final against Juventus.",
+    "Ukraine's all-time top scorer: 48 goals in 111 games; Yarmolenko is next with 47.",
+    "Hat-trick in the 4-0 win at Barcelona's Camp Nou on 5 Nov 1997; Dynamo won 7-0 on aggregate.",
+    "As coach took Ukraine to the Euro 2020 quarter-finals, their first ever at a Euro; 52 games, 25 wins, 13 draws, 14 losses. Beat Sweden 2-1 after extra time (Dovbyk 120+1).",
+    "Zelensky called him 'legend' on his 50th birthday; about 174 Milan goals, second on the club's all-time list (sources vary 173-175)."
+  ],
+  "no_joke_topics": [
+    "Doping and the meldonium case (Mudryk): report as news only, no jokes at anyone's expense",
+    "Health, injuries and any medical matter",
+    "War, the Russian invasion, attacks such as Poltava, rescuers and children of rescuers, FIFA/Russia return debate",
+    "Family: sons, including Kristian at Sholing, and marriage",
+    "Legal troubles and accusations of wrongdoing (the UAF scapegoat claim is an allegation from one side)",
+    "Players' personal failures: joke about results and the situation, not named players"
+  ],
+  "viral_moments": [
+    {
+      "title": "Shevchenko's reply to Mudryk (19 Nov 2026): 'baseless slander', show evidence or apologise",
+      "link": "https://www.youtube.com/results?search_query=%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE+%D0%9C%D1%83%D0%B4%D1%80%D0%B8%D0%BA+%D0%BD%D0%B0%D0%BA%D0%BB%D0%B5%D0%BF+%D0%A3%D0%90%D0%A4",
+      "link_type": "youtube_search_url_not_a_verified_video",
+      "why_provocative": "Open fight with a Chelsea winger over doping blame. Use as news only; sensitive topic.",
+      "timestamp": "unknown"
+    },
+    {
+      "title": "Dynamo Kyiv 4-0 Barcelona, Camp Nou, 5 Nov 1997, Shevchenko hat-trick",
+      "link": "https://www.youtube.com/results?search_query=Shevchenko+hat+trick+Barcelona+Dynamo+Kyiv+1997+Camp+Nou",
+      "link_type": "youtube_search_url_not_a_verified_video",
+      "why_provocative": "The game that got him to Milan via VHS tape; classic praise material.",
+      "timestamp": "unknown"
+    },
+    {
+      "title": "2005 Champions League final: Dudek double save and penalty save",
+      "link": "https://www.youtube.com/results?search_query=Dudek+double+save+Shevchenko+2005+final",
+      "link_type": "youtube_search_url_not_a_verified_video",
+      "why_provocative": "Shevchenko calls the save 'inexplicable' himself; friendly roast.",
+      "timestamp": "unknown"
+    },
+    {
+      "title": "Euro 2012: two Shevchenko headers beat Sweden 2-1 in Kyiv",
+      "link": "https://www.youtube.com/results?search_query=Shevchenko+two+headers+Sweden+Euro+2012",
+      "link_type": "youtube_search_url_not_a_verified_video",
+      "why_provocative": "Late-career peak at home Euro; shows the 'legend' side.",
+      "timestamp": "unknown"
+    },
+    {
+      "title": "Maldera presentation, 18 May 2026: 'an Italian with a Ukrainian soul'",
+      "link": "https://www.youtube.com/results?search_query=Shevchenko+Maldera+presentation+press+conference+UAF",
+      "link_type": "youtube_search_url_not_a_verified_video",
+      "why_provocative": "The hire that led to a 2W 1D 3L autumn. Quote paraphrased in the source (The Star/Reuters).",
+      "timestamp": "unknown"
+    }
+  ],
+  "footage_terms": [
+    {
+      "phrase": "Shevchenko Milan best goals",
+      "watermark_risk": "high: fan compilations with logos and music"
+    },
+    {
+      "phrase": "Shevchenko Dynamo Kyiv Barcelona 4-0 1997 highlights",
+      "watermark_risk": "high: archive reuploads, often burned-in logos"
+    },
+    {
+      "phrase": "Shevchenko Euro 2012 Sweden headers",
+      "watermark_risk": "medium: UEFA-owned, often reuploaded with channel watermarks"
+    },
+    {
+      "phrase": "Shevchenko penalty Juventus 2003 final",
+      "watermark_risk": "medium"
+    },
+    {
+      "phrase": "Ukraine Northern Ireland 1-0 Nations League highlights 14 November 2026",
+      "watermark_risk": "medium: broadcaster marks, rights-claimed"
+    },
+    {
+      "phrase": "Ukraine Georgia 1-0 Nations League highlights Sikan",
+      "watermark_risk": "medium"
+    },
+    {
+      "phrase": "Shevchenko UAF press conference Maldera",
+      "watermark_risk": "low to medium: UAF or media channels, may carry subtitles"
+    },
+    {
+      "phrase": "Шевченко Мудрик заява УАФ",
+      "watermark_risk": "high: news channels with burned-in Ukrainian subtitles and logos"
+    },
+    {
+      "phrase": "Shevchenko Ballon d'Or ceremony 2026 Yamal Kopa",
+      "watermark_risk": "medium: broadcaster logos"
+    },
+    {
+      "phrase": "Shevchenko 50th birthday Milan interview",
+      "watermark_risk": "medium: Italian TV with lower-third captions"
+    }
+  ],
+  "flipbook_ideas": [
+    "Sheva in a suit proudly hammers a signpost that reads 'League B: exactly where we deserve'.",
+    "A VHS cassette with tiny legs sprints across a map from Kyiv to Milan carrying a contract.",
+    "A price tag 'GBP 30.8m' hangs on a goal net; a small counter ticks to '22 goals' and the tag blushes.",
+    "A giant Dudek-style glove blocks a speech bubble 'Euro 2028!' while Sheva shrugs.",
+    "Sheva holds one big Ballon d'Or and hands a tiny trophy to a cartoon Yamal already juggling three.",
+    "A coach picker: four silhouettes behind a curtain, Sheva points and an Italian hat with a Ukrainian-flag ribbon pops out."
+  ],
+  "image_reference_notes": {
+    "signature_look": "Classic Sheva: Milan red-and-black number 7 shirt; Dynamo Kyiv white and blue; Chelsea blue number 7; Ukraine yellow-blue. Athletic, lean, short dark hair, intense focused expression.",
+    "current_look": "As UAF president: suit and tie or UAF/national-team tracksuit, short hair. UNVERIFIED: beard or stubble and exact hair colour at 50; check latest official photos before drawing.",
+    "kit_colours": "Milan red-black (2003-04 era); Ukraine national team yellow shirt with blue shorts; Dynamo Kyiv white.",
+    "expressions": "Concentrated scowl before a shot; broad grin after a goal; dry, serious expression at press conferences.",
+    "signature_pose": "UNVERIFIED from sources read: running celebration with arms out is typical for him; confirm with footage before drawing."
+  },
+  "claims": [
+    {
+      "claim": "Shevchenko is UAF president, elected 25 Jan 2024 (UNN: unanimously; Wikipedia: 94 votes for, 1 abstention), replacing Andriy Pavelko (Oleh Protasov acting from May 2023)",
+      "source_url": "https://unn.ua/en/news/andriy-shevchenko-celebrates-his-50th-birthday-the-journey-from-dynamo-to-the-uaf",
+      "confidence": "high"
+    },
+    {
+      "claim": "On 19 Nov 2026 Shevchenko called Mudryk's accusations against the UAF groundless and asked for evidence",
+      "source_url": "https://zaxid.net/shevchenko_vidpoviv_mudriku_na_zvinuvachennya_ta_visunuv_yomu_konkretnu_umovu_n1650577",
+      "confidence": "high"
+    },
+    {
+      "claim": "Shevchenko says Mudryk's representatives asked the UAF to find an employee to take responsibility for the meldonium sample and the UAF refused (allegation from one side)",
+      "source_url": "https://zaxid.net/shevchenko_vidpoviv_mudriku_na_zvinuvachennya_ta_visunuv_yomu_konkretnu_umovu_n1650577",
+      "confidence": "high"
+    },
+    {
+      "claim": "Chelsea asked the UAF not to give Mudryk medication at camps; Rebrov allowed two personal specialists",
+      "source_url": "https://www.goal.com/en/news/andriy-shevchenko-mykhailo-mudryk-ukraine-chelsea-doping-ban/bltb44f9406e0c90547",
+      "confidence": "high"
+    },
+    {
+      "claim": "Mudryk joined Tottenham on a season-long loan on 1 Sep 2026; his doping case ended in late July 2026 (Wikipedia: charges dropped 31 Jul; settlement terms and option to buy not confirmed)",
+      "source_url": "https://en.wikipedia.org/wiki/Mykhailo_Mudryk",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Ukraine finished third in Nations League League B Group 2 with 7 points and stayed in League B",
+      "source_url": "https://news.liga.net/en/society/news/shevchenko-summed-up-the-ukrainian-national-teams-performance-in-the-nations-league-under-malderas-leadership",
+      "confidence": "high"
+    },
+    {
+      "claim": "Final table: Northern Ireland 12, Hungary 11, Ukraine 7 (GD -3), Georgia 2",
+      "source_url": "https://en.wikipedia.org/wiki/2026–27_UEFA_Nations_League_B",
+      "confidence": "high"
+    },
+    {
+      "claim": "Ukraine missed the play-offs and the second seeding pot for the Euro 2028 draw",
+      "source_url": "https://news.liga.net/en/society/news/shevchenko-summed-up-the-ukrainian-national-teams-performance-in-the-nations-league-under-malderas-leadership",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Shevchenko said the team is 'in exactly the division it deserves'",
+      "source_url": "https://dynamo.kiev.ua/uk/news/743594-andrii-shevchenko-obiektyvno-kazhuchy-nasha-zbirna-narazi-perebuvaie-same-v-tomu-dyvizioni-lihy-natsii-na-yakyi-i-zasluhovuie",
+      "confidence": "high"
+    },
+    {
+      "claim": "UAF is not considering Maldera's resignation; Maldera said he had not discussed resigning",
+      "source_url": "https://news.liga.net/en/society/news/shevchenko-summed-up-the-ukrainian-national-teams-performance-in-the-nations-league-under-malderas-leadership",
+      "confidence": "high"
+    },
+    {
+      "claim": "Ukraine 1-0 Georgia on 17 Nov 2026 in Kosice, Slovakia; Sikan scored in the 1st minute",
+      "source_url": "https://unn.ua/en/topics/persons/andriy-shevchenko",
+      "confidence": "high"
+    },
+    {
+      "claim": "Northern Ireland 1-0 Ukraine on 14 Nov 2026, Devlin 68', Windsor Park",
+      "source_url": "https://www.psg.fr/en/content/narrow-defeat-for-zabarnyis-ukraine-illia-zabarnyi-paris-saint-germain-2026-2027",
+      "confidence": "high"
+    },
+    {
+      "claim": "After five games Ukraine had 4 points and goal difference -4",
+      "source_url": "https://www.psg.fr/en/content/narrow-defeat-for-zabarnyis-ukraine-illia-zabarnyi-paris-saint-germain-2026-2027",
+      "confidence": "high"
+    },
+    {
+      "claim": "Ukraine lost 1-2 to Hungary on 5 Oct 2026; Yaremchuk scored in the 83rd minute",
+      "source_url": "https://unn.ua/en/news/ukraine-lost-to-hungary-and-dropped-to-third-place-in-its-nations-league-group",
+      "confidence": "high"
+    },
+    {
+      "claim": "Hungary's goals on 5 Oct: Toth 52' and Csinger 85' (Wikipedia, 11v11); UNN names Gabor Jurek for the winner, so the winner's scorer remains disputed",
+      "source_url": "https://en.wikipedia.org/wiki/2026–27_UEFA_Nations_League_B",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Ukraine 0-3 Northern Ireland on 2 Oct 2026 in Trnava; 73% possession, 11 shots, 2 on target; third goal through Riznyk's legs",
+      "source_url": "https://unn.ua/en/news/ukraine-suffered-a-heavy-defeat-to-northern-ireland-in-the-nations-league-conceding-a-comical-goal",
+      "confidence": "high"
+    },
+    {
+      "claim": "Hungary 0-1 Ukraine on 25 Sep 2026 in Budapest, Maldera's first competitive win; debutants Krupskyi, Drambayev, Krasnopir",
+      "source_url": "https://unn.ua/en/news/we-can-play-better-maldera-commented-on-ukraines-victory-over-hungary",
+      "confidence": "high"
+    },
+    {
+      "claim": "Georgia 0-0 Ukraine on 28 Sep 2026 in Tbilisi",
+      "source_url": "https://en.wikipedia.org/wiki/2026–27_UEFA_Nations_League_B",
+      "confidence": "high"
+    },
+    {
+      "claim": "Maldera (55) was appointed Ukraine head coach on 18 May 2026, first foreign coach; Rebrov left in April after the World Cup miss",
+      "source_url": "https://www.thestar.com.my/sport/football/2026/05/18/soccer-italian-maldera-appointed-ukraine-coach",
+      "confidence": "high"
+    },
+    {
+      "claim": "Shevchenko considered four candidates and set Euro 2028 qualification as Maldera's task",
+      "source_url": "https://unn.ua/en/news/shevchenko-stated-that-four-candidates-were-considered-for-the-position-of-ukraines-national-team-coach",
+      "confidence": "high"
+    },
+    {
+      "claim": "Shevchenko turned 50 on 29 Sep 2026; Zelensky congratulated him",
+      "source_url": "https://unn.ua/en/news/the-sheva-beloved-by-the-entire-country-zelenskyy-emotionally-congratulated-shevchenko-on-his-anniversary",
+      "confidence": "high"
+    },
+    {
+      "claim": "Milan ordered a VHS of the 5 Nov 1997 4-0 Barcelona game; fee about 45 billion lire",
+      "source_url": "https://unn.ua/en/news/shevchenko-ended-up-at-milan-thanks-to-a-vhs-tape-media-outlets-recalled-shevas-move-to-italy",
+      "confidence": "high"
+    },
+    {
+      "claim": "Kristian Shevchenko, 19, joined Sholing (seventh tier) in early Oct 2026 (BritBrief dated 3 Oct) after Watford released him; youth spells at Chelsea, Tottenham and Watford",
+      "source_url": "https://britbrief.co.uk/sports/football/shevchenkos-son-joins-non-league-sholing.html",
+      "confidence": "high"
+    },
+    {
+      "claim": "Shevchenko presented the Young Talent (Kopa Trophy) award to Lamine Yamal at the 26 Oct 2026 ceremony in London (London Palladium per Wikipedia)",
+      "source_url": "https://ua.news/en/sport/u-londoni-pochali-ogoloshuvati-peremozhtsiv-zolotogo-miacha-2026",
+      "confidence": "high"
+    },
+    {
+      "claim": "Yamal won the men's Kopa Trophy for the third time at the 26 Oct 2026 ceremony (96 points; '24 goals and 18 assists' removed as unverified)",
+      "source_url": "https://en.wikipedia.org/wiki/2026_Ballon_d'Or",
+      "confidence": "high"
+    },
+    {
+      "claim": "Shevchenko presented a 'Legend of Football' order to Rinat Akhmetov on 14 Oct 2026 (UAF article, marking 30 years of Akhmetov leading Shakhtar)",
+      "source_url": "https://uaf.ua/en/news/andriy-shevchenko-awarded-rinat-akhmetov-with-the-legend-of-football-order",
+      "confidence": "high"
+    },
+    {
+      "claim": "Children of rescuers led Ukraine out against Georgia; UEFA Playmakers centre opened in Vinnytsia Oblast on 20 Nov",
+      "source_url": "https://uaf.ua/en/about-uaf/executive/71",
+      "confidence": "medium"
+    },
+    {
+      "claim": "2003-04 Serie A: 24 goals in 32 games, top scorer, Milan champions",
+      "source_url": "https://en.wikipedia.org/wiki/Andriy_Shevchenko",
+      "confidence": "high"
+    },
+    {
+      "claim": "Won the 2004 Ballon d'Or, third Ukrainian winner after Blokhin and Belanov",
+      "source_url": "https://en.wikipedia.org/wiki/Andriy_Shevchenko",
+      "confidence": "high"
+    },
+    {
+      "claim": "Scored the winning penalty in the 2003 Champions League final shootout vs Juventus",
+      "source_url": "https://en.wikipedia.org/wiki/Andriy_Shevchenko",
+      "confidence": "high"
+    },
+    {
+      "claim": "Ukraine record 111 caps and 48 goals; Yarmolenko has 47",
+      "source_url": "https://unn.ua/en/news/andriy-shevchenko-celebrates-his-50th-birthday-the-journey-from-dynamo-to-the-uaf",
+      "confidence": "high"
+    },
+    {
+      "claim": "Milan goals: sources differ (173, 174 or 175; 296 games per Wikipedia)",
+      "source_url": "https://en.wikipedia.org/wiki/Andriy_Shevchenko",
+      "confidence": "low"
+    },
+    {
+      "claim": "Chelsea paid 30.8m pounds in 2006; 77 apps and 22 goals all competitions, 48 league apps and 9 league goals",
+      "source_url": "https://en.wikipedia.org/wiki/Andriy_Shevchenko",
+      "confidence": "high"
+    },
+    {
+      "claim": "2008-09 loan at Milan: 26 apps, 2 goals, no league goals",
+      "source_url": "https://en.wikipedia.org/wiki/Andriy_Shevchenko",
+      "confidence": "high"
+    },
+    {
+      "claim": "Dudek saved Shevchenko's extra-time double chance and his shootout penalty in the 2005 final; Shevchenko says Dudek 'inexplicably' saved the double chance",
+      "source_url": "https://www.fourfourtwo.com/features/we-dominated-the-game-and-i-had-a-double-chance-that-dudek-inexplicably-saved-football-is-beautiful-for-that-reason-never-take-anything-for-granted-andriy-shevchenko-relives-2005-champions-league-defeat-to-liverpool",
+      "confidence": "high"
+    },
+    {
+      "claim": "2012 politics: Ukraine - Forward! took 1.58% and no seats",
+      "source_url": "https://en.wikipedia.org/wiki/Andriy_Shevchenko",
+      "confidence": "high"
+    },
+    {
+      "claim": "Genoa 2021-22: 11 matches, 1W 3D 7L, sacked 15 Jan 2022; debut 0-2 vs Roma",
+      "source_url": "https://en.wikipedia.org/wiki/Andriy_Shevchenko",
+      "confidence": "high"
+    },
+    {
+      "claim": "Ukraine coach 2016-2021: 52 games, 25W 13D 14L; Euro 2020 quarter-final",
+      "source_url": "https://en.wikipedia.org/wiki/Andriy_Shevchenko",
+      "confidence": "high"
+    },
+    {
+      "claim": "Euro 2020 R16: Ukraine 2-1 Sweden after extra time on 29 June 2021 at Hampden Park (Zinchenko 27', Dovbyk 120+1'; Forsberg 43' for Sweden)",
+      "source_url": "https://en.wikipedia.org/wiki/UEFA_Euro_2020_knockout_phase",
+      "confidence": "high"
+    },
+    {
+      "claim": "Euro 2020 QF: Ukraine 0-4 England, Rome, 3 July 2021 (Kane 2, Maguire, Henderson)",
+      "source_url": "https://en.wikipedia.org/wiki/UEFA_Euro_2020_knockout_phase",
+      "confidence": "high"
+    },
+    {
+      "claim": "Dynamo Kyiv won 4-0 at Barcelona on 5 Nov 1997 with a Shevchenko hat-trick; 7-0 aggregate",
+      "source_url": "https://unn.ua/en/news/shevchenko-ended-up-at-milan-thanks-to-a-vhs-tape-media-outlets-recalled-shevas-move-to-italy",
+      "confidence": "high"
+    },
+    {
+      "claim": "Euro 2012: two headers in Ukraine's 2-1 win over Sweden",
+      "source_url": "https://en.wikipedia.org/wiki/Andriy_Shevchenko",
+      "confidence": "high"
+    },
+    {
+      "claim": "Feb 2026: Shevchenko sought a meeting with FIFA president Infantino over remarks on Russia's return to competitions (older than 90 days, war topic)",
+      "source_url": "https://www.pravda.com.ua/eng/news/2026/02/09/8020102/",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Current look (hair, beard) and signature celebration pose: not verified from any source read",
+      "source_url": "https://uaf.ua/en/about-uaf/executive/71",
+      "confidence": "unverified"
+    },
+    {
+      "claim": "YouTube viral-moment links are search URLs only; no specific video ID or timestamp was verified (web search budget ran out)",
+      "source_url": "https://www.youtube.com",
+      "confidence": "unverified"
+    },
+    {
+      "claim": "UAF acting president Oleh Protasov served 11 May 2023 to 24 Jan 2024 during Pavelko's suspension",
+      "source_url": "https://en.wikipedia.org/wiki/Ukrainian_Association_of_Football",
+      "confidence": "medium"
+    }
+  ],
+  "notes": "16 dated stories found in the 90-day window (2026-08-22 to 2026-11-20); the strongest are the Nations League autumn, the Mudryk row, the 50th birthday and the Ballon d'Or ceremony. Gaps: no business, media or social-media stories; contract term unknown; YouTube video IDs not verified; Hungary winning scorer on 5 Oct conflicts (Csinger per Wikipedia/11v11, Jurek per UNN); Ballon d'Or men's winner (Wikipedia lists Harry Kane) not confirmed by a second source, so do not state it. Akhmetov award date is now confirmed as 14 Oct by the UAF page.",
+  "verification": {
+    "checked": 72,
+    "corrected": 25,
+    "removed": 1,
+    "notes": "Verified by fetching cited URLs and Wikipedia (Nations League B, 2026 Ballon d'Or, UAF, Mudryk, Shevchenko, Euro 2020 knockout) on 2026-11-20; web search budget was exhausted so no independent search was possible, and malaymail and 11v11 returned HTTP 403. Corrected: UAF election vote (UNN 'unanimously' vs Wikipedia 94-1), Mudryk loan/doping details, Hungary scorers on 5 Oct, Sikan goal minute and venue, final table confirmed, Georgia 0-0 date, Kristian Sholing date and youth clubs, Ballon d'Or ceremony details, Akhmetov date confirmed, Maldera resignation wording. Removed: Italian-media Milan quote, Sikan caption claim for 25 Sep, Yamal 24 goals/18 assists, Mudryk option-to-buy and 'accepted breach' detail, BBC-style headline remark, Mourinho claim. Not verified: Maldera 'former assistant' link, viral-moment YouTube links, look/pose notes, Milan goal total (173-175 sources differ). Core Shevchenko career stats (Chelsea fee/apps, Genoa record, 2012 party result, Ukraine coach record, 111 caps/48 goals, Euro 2020 QF 0-4) confirmed against Wikipedia. Current-season numbers and trophy counts (Ballon d'Or 2004 only; 3 Kopa trophies for Yamal) checked."
+  }
+}

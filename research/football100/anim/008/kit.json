@@ -1,0 +1,16 @@
+{
+  "palette": [
+    "#bee1cd",
+    "#3c5a77",
+    "#ffdb62",
+    "#ef8d76",
+    "#a2a3e4"
+  ],
+  "style": "FLAT-POP",
+  "font": "Arial Bold",
+  "characters": [
+    "Kaka (Ricardo Izecson dos Santos Leite)",
+    "generic reporter"
+  ],
+  "recurring_prop": "wheelbarrow"
+}

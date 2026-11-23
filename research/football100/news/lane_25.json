@@ -1,0 +1,829 @@
+[
+  {
+    "headline": "Ronaldo hits 985 career goals after Al Nassr hat-trick, 15 short of 1,000",
+    "date": "2026-10-29",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/46751020/cristiano-ronaldo-goal-tracker-road-1000-career-goals",
+    "entities": [
+      "Cristiano Ronaldo",
+      "Al Nassr",
+      "Al Kholood"
+    ],
+    "facts": [
+      "ESPN's tracker puts Ronaldo at 985 career goals in 1,343 games, needing 15 more to reach 1,000.",
+      "On Oct 29, 2026 he scored a hat-trick in Al Nassr's 5-3 win over Al Kholood, his 67th career hat-trick.",
+      "One goal on Oct 23 against Al Faisaly is disputed: Opta ruled an own goal, the Saudi league credited Ronaldo."
+    ],
+    "background": "Ronaldo joined Al Nassr in January 2023 after leaving Manchester United and has won five Ballon d'Ors.",
+    "angle": "record",
+    "sensitive": false,
+    "footage_terms": [
+      "Ronaldo Al Nassr hat trick Al Kholood highlights",
+      "Ronaldo 1000 goals road",
+      "Ronaldo goals Saudi Pro League October 2026"
+    ],
+    "confidence": "high"
+  },
+  {
+    "headline": "Messi ends Argentina career with a penalty vs Benin and 41 goals in 2026",
+    "date": "2026-11-07",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/47978642/lionel-messi-2026-tracker-inter-miami-argentina-games-goals-assists-stats",
+    "entities": [
+      "Lionel Messi",
+      "Inter Miami",
+      "Argentina",
+      "Benin"
+    ],
+    "facts": [
+      "ESPN's tracker says Messi scored a penalty in Argentina's 3-0 friendly win over Benin on Oct 6, his 126th Argentina goal in what it calls his final senior international appearance (208th cap).",
+      "His brace against Atlanta on Oct 17 took him to 25 MLS goals, the league lead at that point.",
+      "As of Nov 7 the page lists 41 goals and 19 assists in 47 games in 2026."
+    ],
+    "background": "Messi captained Argentina to the 2022 World Cup and joined Inter Miami in 2023 after leaving Paris Saint-Germain.",
+    "angle": "record",
+    "sensitive": false,
+    "footage_terms": [
+      "Messi Argentina Benin penalty 126th goal",
+      "Messi Inter Miami Atlanta United brace",
+      "Messi final Argentina match"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Manchester United's eight-game winless league run is worst in Premier League history",
+    "date": "2026-11-20",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50520411/liverpool-manchester-united-anfield-premier-league",
+    "entities": [
+      "Manchester United",
+      "Mauricio Pochettino",
+      "Liverpool"
+    ],
+    "facts": [
+      "ESPN says United are 18th and have failed to win any of their past eight league games, their worst run in Premier League history.",
+      "Mauricio Pochettino takes charge for the first time at Liverpool.",
+      "Liverpool are fourth in the table but have won only one of five home league games."
+    ],
+    "background": "United won 2-1 at Anfield last season, their first win there in almost a decade.",
+    "angle": "coach",
+    "sensitive": false,
+    "footage_terms": [
+      "Pochettino Manchester United press conference Liverpool",
+      "Manchester United winless run Premier League",
+      "Liverpool vs Manchester United Anfield preview"
+    ],
+    "confidence": "high"
+  },
+  {
+    "headline": "Liverpool failed to register a shot on target at Anfield vs Arsenal, a first in 442 league games",
+    "date": "2026-11-20",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50520411/liverpool-manchester-united-anfield-premier-league",
+    "entities": [
+      "Liverpool",
+      "Arsenal",
+      "Andoni Iraola"
+    ],
+    "facts": [
+      "Against Arsenal, Liverpool had no shot on target for the first time in 442 league matches at Anfield.",
+      "Liverpool have won 1, drawn 2 and lost 2 of five league games at Anfield this season, but have the best away record in the top flight (4 wins, 1 draw).",
+      "In calendar year 2026 they won only 5 of 15 league home games."
+    ],
+    "background": "Under Jurgen Klopp Liverpool went 68 league games unbeaten at home between April 2017 and January 2021.",
+    "angle": "record",
+    "sensitive": false,
+    "footage_terms": [
+      "Liverpool Arsenal Anfield highlights",
+      "Iraola press conference Liverpool home form",
+      "Liverpool Anfield struggles 2026"
+    ],
+    "confidence": "high"
+  },
+  {
+    "headline": "Upamecano is three games short of the Bundesliga unbeaten record",
+    "date": "2026-11-20",
+    "source_domain": "bundesliga.com",
+    "url": "https://www.bundesliga.com/en/bundesliga/news/unbeaten-record-bayern-munich-boateng-neuer-upamecano-ribery-39971",
+    "entities": [
+      "Dayot Upamecano",
+      "Bayern Munich",
+      "Jerome Boateng",
+      "Lukas Hradecky"
+    ],
+    "facts": [
+      "Upamecano has 53 consecutive Bundesliga appearances without defeat, going back to the start of 2024/25.",
+      "The record is 56 by Jerome Boateng (Bayern, 2012-2014); Lukas Hradecky of Leverkusen is second with 54.",
+      "His last league defeat was a 4-2 loss at Hoffenheim on the final day of 2023/24."
+    ],
+    "background": "Upamecano joined Bayern from RB Leipzig in 2021 and Boateng's record has stood since the 2012-2014 period.",
+    "angle": "record",
+    "sensitive": false,
+    "footage_terms": [
+      "Upamecano Bayern unbeaten streak",
+      "Boateng Bayern defender highlights",
+      "Bayern Munich Bundesliga highlights November 2026"
+    ],
+    "confidence": "high"
+  },
+  {
+    "headline": "Bayern and Dortmund level on 21 points after nine matchdays in tightest title race in years",
+    "date": "2026-11-20",
+    "source_domain": "bundesliga.com",
+    "url": "https://www.bundesliga.com/en/bundesliga/news/bayern-munich-borussia-dortmund-tightest-title-race-in-years-26-27-39958",
+    "entities": [
+      "Bayern Munich",
+      "Borussia Dortmund",
+      "Vincent Kompany",
+      "Niko Kovac"
+    ],
+    "facts": [
+      "Bayern and Dortmund both have 21 points; Bayern lead on goal difference and both are unbeaten.",
+      "Dortmund's 21 points are their best after nine games since 2013/14.",
+      "Bayern have beaten Union Berlin 7-0 and Leipzig 6-1, but have not matched last season's nine-win start."
+    ],
+    "background": "Bayern won the Bundesliga last season; Dortmund finished with 73 points, their best since 2018/19.",
+    "angle": "history",
+    "sensitive": false,
+    "footage_terms": [
+      "Dortmund Elversberg highlights",
+      "Bayern Union Berlin 7-0",
+      "Bundesliga title race Bayern Dortmund"
+    ],
+    "confidence": "high"
+  },
+  {
+    "headline": "Como thrash Lens 9-1 in Champions League, a record away goal haul",
+    "date": "2026-11-04",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50382528/fabregas-como-4th-record-setting-9-goal-night",
+    "entities": [
+      "Como",
+      "Lens",
+      "Tasos Douvikas",
+      "Nico Paz",
+      "Cesc Fabregas"
+    ],
+    "facts": [
+      "Como won 9-1 away at Lens, the most goals any team has scored on the road in Champions League history.",
+      "Tasos Douvikas scored a hat-trick, the first by a Como player in European competition; Nico Paz added two assists.",
+      "Fabregas warned his team not to buy into their own hype."
+    ],
+    "background": "Como are managed by former Arsenal and Barcelona midfielder Cesc Fabregas and sit fourth in Serie A with 23 points.",
+    "angle": "record",
+    "sensitive": false,
+    "footage_terms": [
+      "Lens Como 9-1 highlights",
+      "Douvikas hat trick Como Champions League",
+      "Fabregas Como press conference Lens"
+    ],
+    "confidence": "high"
+  },
+  {
+    "headline": "England end Spain's 43-match unbeaten run with 3-2 win in Madrid",
+    "date": "2026-11-15",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50495394/spain-overwhelmed-england-43-game-streak-ends",
+    "entities": [
+      "England",
+      "Spain",
+      "Lamine Yamal",
+      "Mikel Oyarzabal",
+      "Nico Williams"
+    ],
+    "facts": [
+      "England won 3-2 at the Metropolitano in the Nations League, ending Spain's 43-game unbeaten run.",
+      "Spain trailed 3-0 before Oyarzabal and Nico Williams scored, both created by Lamine Yamal.",
+      "Spain finished second in the group behind England."
+    ],
+    "background": "Spain had gone about three years without a competitive defeat and had beaten England 3-2 at Wembley in September.",
+    "angle": "record",
+    "sensitive": false,
+    "footage_terms": [
+      "Spain England Nations League 3-2 highlights",
+      "England beat Spain Metropolitano",
+      "Spain unbeaten run ends"
+    ],
+    "confidence": "high"
+  },
+  {
+    "headline": "Kane leads the Bundesliga in assists and matches his best season total",
+    "date": "2026-11-09",
+    "source_domain": "skysports.com",
+    "url": "https://www.skysports.com/football/news/13607213/harry-kane-is-bayern-munichs-assist-king-barcelona-win-at-atletico-madrid-and-inter-close-gap-on-lazio-all-in-the-euro-debrief",
+    "entities": [
+      "Harry Kane",
+      "Bayern Munich",
+      "Mainz",
+      "Joshua Kimmich"
+    ],
+    "facts": [
+      "Kane made two assists in Bayern's 2-1 win at Mainz, setting up goals for Joshua Kimmich and Lennart Karl.",
+      "He has eight Bundesliga assists, the most in the league, matching his best-ever Bundesliga season total.",
+      "He has gone four games without a goal, which the column says has happened only once before at Bayern."
+    ],
+    "background": "Kane joined Bayern from Tottenham in summer 2023 and was Bundesliga top scorer with 36 goals last season.",
+    "angle": "record",
+    "sensitive": false,
+    "footage_terms": [
+      "Mainz Bayern 2-1 highlights Kane assists",
+      "Kane assist Kimmich goal",
+      "Harry Kane Bayern assists Bundesliga"
+    ],
+    "confidence": "high"
+  },
+  {
+    "headline": "Kane wins the 2026 Ballon d'Or, first Englishman in 25 years",
+    "date": "2026-10-27",
+    "source_domain": "skysports.com",
+    "url": "https://www.skysports.com/football/news/13601934/harry-kane-wins-2026-ballon-dor-bayern-munich-striker-becomes-first-english-winner-of-award-in-25-years",
+    "entities": [
+      "Harry Kane",
+      "Kylian Mbappe",
+      "Lamine Yamal",
+      "Bayern Munich"
+    ],
+    "facts": [
+      "Kane won the Ballon d'Or in London, ahead of Mbappe and Yamal, the first English winner since Michael Owen in 2001.",
+      "He scored 73 goals for club and country last season (61 for Bayern, 12 for England).",
+      "The Ballon d'Or website briefly published articles naming other winners before the ceremony."
+    ],
+    "background": "Kane is the fifth Englishman to win the award after Stanley Matthews, Bobby Charlton, Kevin Keegan and Owen.",
+    "angle": "history",
+    "sensitive": false,
+    "footage_terms": [
+      "Kane Ballon d'Or 2026 ceremony",
+      "Kane Ballon d'Or speech",
+      "Harry Kane Bayern goals 2025-26 compilation"
+    ],
+    "confidence": "high"
+  },
+  {
+    "headline": "Kane misses a penalty on first outing as Ballon d'Or winner as Bayern draw 2-2 with Dortmund",
+    "date": "2026-11-02",
+    "source_domain": "skysports.com",
+    "url": "https://www.skysports.com/football/news/13606635/harry-kane-penalty-miss-mars-ballon-dor-week-with-bayern-munich-plus-twente-score-nine-in-the-euro-debrief",
+    "entities": [
+      "Harry Kane",
+      "Bayern Munich",
+      "Borussia Dortmund",
+      "Fabio Silva"
+    ],
+    "facts": [
+      "Kane missed a penalty in Der Klassiker at the Allianz Arena, his first match since winning the Ballon d'Or.",
+      "The match finished 2-2, with Fabio Silva snatching a point for Dortmund.",
+      "The column does not give the exact match date, only that it was at the weekend."
+    ],
+    "background": "Bayern and Dortmund have been the Bundesliga's main rivals for over a decade and Der Klassiker is its biggest fixture.",
+    "angle": "viral",
+    "sensitive": false,
+    "footage_terms": [
+      "Bayern Dortmund 2-2 Kane penalty miss",
+      "Der Klassiker highlights Fabio Silva",
+      "Kane missed penalty Dortmund"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Twente beat Excelsior 9-0 as Orjasaeter makes five assists",
+    "date": "2026-11-02",
+    "source_domain": "skysports.com",
+    "url": "https://www.skysports.com/football/news/13606635/harry-kane-penalty-miss-mars-ballon-dor-week-with-bayern-munich-plus-twente-score-nine-in-the-euro-debrief",
+    "entities": [
+      "FC Twente",
+      "Excelsior",
+      "Wout Weghorst",
+      "Sondre Orjasaeter"
+    ],
+    "facts": [
+      "Twente won 9-0 away at Excelsior, the biggest win on the continent that weekend.",
+      "Wout Weghorst scored four goals.",
+      "Sondre Orjasaeter became the first player this century to register five assists in an Eredivisie game."
+    ],
+    "background": "Wout Weghorst is a veteran Dutch striker who has played in the Premier League and Bundesliga before returning to the Eredivisie.",
+    "angle": "record",
+    "sensitive": false,
+    "footage_terms": [
+      "Excelsior Twente 0-9 highlights",
+      "Weghorst four goals Twente",
+      "Orjasaeter five assists Eredivisie"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Raya has seven clean sheets in ten games and has not conceded a saveable goal",
+    "date": "2026-11-19",
+    "source_domain": "skysports.com",
+    "url": "https://www.skysports.com/football/news/13613642/david-rayas-shot-stopping-cross-claiming-and-passing-make-him-premier-leagues-best-goalkeeper-the-radar",
+    "entities": [
+      "David Raya",
+      "Arsenal",
+      "Gianluigi Donnarumma",
+      "Emiliano Martinez"
+    ],
+    "facts": [
+      "Raya has kept seven clean sheets in ten Premier League games and is the only keeper yet to concede a saveable goal, per Gradient Sports.",
+      "Emiliano Martinez has conceded three saveable goals, Alisson four and Donnarumma five.",
+      "He has caught 13 crosses, the most of any keeper, and is a three-time Golden Glove winner."
+    ],
+    "background": "Raya has made 117 Premier League appearances for Arsenal, keeping clean sheets in nearly half of them.",
+    "angle": "record",
+    "sensitive": false,
+    "footage_terms": [
+      "David Raya saves Arsenal 2026",
+      "Raya clean sheet Arsenal highlights",
+      "Arsenal goalkeeper Raya best in Premier League"
+    ],
+    "confidence": "high"
+  },
+  {
+    "headline": "Arsenal top the table five points clear, with only one defeat this season",
+    "date": "2026-11-19",
+    "source_domain": "skysports.com",
+    "url": "https://www.skysports.com/football/news/13613208/mauricio-pochettino-begins-man-utd-tenure-with-testing-trip-to-liverpool-premier-league-talking-points",
+    "entities": [
+      "Arsenal",
+      "Newcastle United",
+      "Mikel Arteta",
+      "Brighton"
+    ],
+    "facts": [
+      "Sky says Arsenal have won every game this season except a 3-0 defeat at Brighton in September.",
+      "They are five points clear at the top and visit Newcastle on Saturday.",
+      "Newcastle have won one of their five home league games."
+    ],
+    "background": "Arsenal are managed by Mikel Arteta and dropped Manchester City from top spot after City's recent defeats.",
+    "angle": "win",
+    "sensitive": false,
+    "footage_terms": [
+      "Arsenal Premier League highlights November 2026",
+      "Arteta press conference Newcastle",
+      "Newcastle vs Arsenal preview"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Liverpool conceded a record 53 league goals last season; Iraola tries to fix defence",
+    "date": "2026-11-19",
+    "source_domain": "skysports.com",
+    "url": "https://www.skysports.com/football/news/13613875/andoni-iraolas-liverpool-start-assessed-creating-chaos-going-direct-and-fixing-leaky-defence",
+    "entities": [
+      "Liverpool",
+      "Andoni Iraola",
+      "Arne Slot",
+      "Ronald Araujo"
+    ],
+    "facts": [
+      "Under Arne Slot Liverpool conceded 53 league goals in 2025-26, their most ever in a 38-game Premier League season.",
+      "Iraola replaced Slot in June and Liverpool have conceded from set pieces only twice so far this season.",
+      "Since Ronald Araujo moved into defence in September they have conceded only three league goals with 11 men on the pitch."
+    ],
+    "background": "Liverpool won the league in 2024-25 but finished fifth last season, 24 points fewer.",
+    "angle": "coach",
+    "sensitive": false,
+    "footage_terms": [
+      "Iraola Liverpool press conference",
+      "Liverpool Brighton 2-0 highlights",
+      "Araujo Liverpool defender"
+    ],
+    "confidence": "high"
+  },
+  {
+    "headline": "Bournemouth equal club record with eight straight wins in all competitions",
+    "date": "2026-11-19",
+    "source_domain": "skysports.com",
+    "url": "https://www.skysports.com/football/news/13613208/mauricio-pochettino-begins-man-utd-tenure-with-testing-trip-to-liverpool-premier-league-talking-points",
+    "entities": [
+      "Bournemouth",
+      "Marco Rose",
+      "Nottingham Forest"
+    ],
+    "facts": [
+      "Bournemouth have won four league games in a row and eight in all competitions, equalling a club record.",
+      "Marco Rose has been in charge for 16 games.",
+      "They host Nottingham Forest on Saturday."
+    ],
+    "background": "Bournemouth were previously managed by Andoni Iraola, who left for Liverpool in the summer.",
+    "angle": "record",
+    "sensitive": false,
+    "footage_terms": [
+      "Bournemouth Ipswich 2-1 highlights",
+      "Marco Rose Bournemouth press conference",
+      "Bournemouth winning run Premier League"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Yamal becomes the Champions League's all-time leading teenage scorer with 14 goals",
+    "date": "2026-11-05",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50388254/soccer-champions-league-main-characters-man-united-como-psg-donnarumma",
+    "entities": [
+      "Lamine Yamal",
+      "Barcelona"
+    ],
+    "facts": [
+      "ESPN says Yamal scored his 14th Champions League goal, making him the competition's all-time leading teenage goalscorer.",
+      "Barcelona were involved in the same matchday round, beating Aston Villa according to ESPN's headline list.",
+      "Yamal finished third in the 2026 Ballon d'Or voting."
+    ],
+    "background": "Yamal is a Barcelona academy graduate who won LaLiga last season and was named the 2026 Ballon d'Or Young Talent.",
+    "angle": "record",
+    "sensitive": false,
+    "footage_terms": [
+      "Yamal Champions League goal Aston Villa Barcelona",
+      "Lamine Yamal teenage record Champions League",
+      "Barcelona Aston Villa highlights"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Mbappe named LaLiga Player of the Month for October with 11 goals in the league",
+    "date": "2026-11-09",
+    "source_domain": "laliga.com",
+    "url": "https://www.laliga.com/en-GB/news/kylian-mbappe-laliga-ea-sports-player-of-the-month-for-october",
+    "entities": [
+      "Kylian Mbappe",
+      "Real Madrid",
+      "Barcelona",
+      "Sevilla"
+    ],
+    "facts": [
+      "Mbappe won LaLiga Player of the Month for October, his second such award after January 2025.",
+      "He scored four goals in October: two in the 4-1 win over Sevilla and two in the 2-1 Clasico win over Barcelona.",
+      "He ended October with 11 goals and two assists in the league."
+    ],
+    "background": "Mbappe joined Real Madrid in 2024 and finished second to Kane in the 2026 Ballon d'Or.",
+    "angle": "win",
+    "sensitive": false,
+    "footage_terms": [
+      "Mbappe Clasico goals Barcelona Real Madrid",
+      "Mbappe Sevilla two goals",
+      "Mbappe October LaLiga highlights"
+    ],
+    "confidence": "high"
+  },
+  {
+    "headline": "Real Madrid beat Barcelona 2-1 in Clasico as Mbappe is flagged offside seven times",
+    "date": "2026-10-26",
+    "source_domain": "skysports.com",
+    "url": "https://www.skysports.com/football/news/13602313/kylian-mbappe-and-jose-mourinho-expose-barcelonas-issue-in-el-clasico-plus-other-big-stories-in-the-euro-debrief",
+    "entities": [
+      "Real Madrid",
+      "Barcelona",
+      "Kylian Mbappe",
+      "Jose Mourinho",
+      "Eduardo Camavinga"
+    ],
+    "facts": [
+      "Mbappe scored both goals in Real Madrid's 2-1 win at Barcelona, ending the hosts' nine-win start to the league season.",
+      "He was flagged offside seven times by Barcelona's high line, the most by any player in a major European league in six years.",
+      "Camavinga's run from deep set up the winning goal; Barcelona stayed top, with Atletico two points behind."
+    ],
+    "background": "Mourinho previously coached Real Madrid from 2010 to 2013 and was named LaLiga Manager of the Month for October.",
+    "angle": "win",
+    "sensitive": false,
+    "footage_terms": [
+      "Barcelona Real Madrid 1-2 Clasico highlights",
+      "Mbappe winning goal Clasico Camp Nou",
+      "Mourinho press conference after Clasico"
+    ],
+    "confidence": "high"
+  },
+  {
+    "headline": "Barcelona score 39 goals in nine games, the best LaLiga start in 86 years",
+    "date": "2026-10-19",
+    "source_domain": "skysports.com",
+    "url": "https://www.skysports.com/football/news/13598099/lamine-yamal-and-kylian-mbappe-on-form-ahead-of-el-clasico-bayern-munich-top-and-lazio-march-on-in-euro-debrief",
+    "entities": [
+      "Barcelona",
+      "Real Betis",
+      "Lamine Yamal",
+      "Hansi Flick"
+    ],
+    "facts": [
+      "Barcelona beat Real Betis 5-2 to make it nine wins from nine in LaLiga, with 39 goals scored.",
+      "Sky says that is the best scoring start to a LaLiga season by any team in 86 years.",
+      "Nine opening wins is the longest run to start a campaign in 58 years."
+    ],
+    "background": "Hansi Flick's Barcelona won a second straight LaLiga title last season with 94 points.",
+    "angle": "record",
+    "sensitive": false,
+    "footage_terms": [
+      "Barcelona Betis 5-2 highlights",
+      "Yamal goal Betis",
+      "Hansi Flick press conference Betis"
+    ],
+    "confidence": "high"
+  },
+  {
+    "headline": "Lazio post best-ever Serie A start after beating Juventus 3-0 in Turin",
+    "date": "2026-10-19",
+    "source_domain": "skysports.com",
+    "url": "https://www.skysports.com/football/news/13598099/lamine-yamal-and-kylian-mbappe-on-form-ahead-of-el-clasico-bayern-munich-top-and-lazio-march-on-in-euro-debrief",
+    "entities": [
+      "Lazio",
+      "Juventus",
+      "Oliver Provstgaard"
+    ],
+    "facts": [
+      "Lazio won 3-0 at Juventus, their best-ever start to a Serie A season.",
+      "Oliver Provstgaard scored in the game, only the second top-division goal of his career.",
+      "Lazio's six-match winning run later ended in a 1-1 draw at Napoli in early November, with Inter one point behind."
+    ],
+    "background": "Lazio last won Serie A in 1999-2000, and Juventus are one of Italy's most decorated clubs.",
+    "angle": "record",
+    "sensitive": false,
+    "footage_terms": [
+      "Juventus Lazio 0-3 highlights",
+      "Lazio best start Serie A",
+      "Provstgaard goal Lazio Juventus"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Monza striker Varela leads Serie A scorers as Juventus ask about a EUR 35m price",
+    "date": "2026-11-20",
+    "source_domain": "goal.com",
+    "url": "https://www.goal.com/en/news/juventus-eur35-million-for-varela-competition-from-napoli-and-de-zerbi-monza-also-consider-camarda-for-january/bltae117b93aa06651f",
+    "entities": [
+      "Varela",
+      "Monza",
+      "Juventus",
+      "Napoli",
+      "Tottenham"
+    ],
+    "facts": [
+      "Varela has 9 league goals and 1 assist, plus a brace in the Coppa Italia, for 11 goals in 11 games.",
+      "Goal says Monza signed him from Benfica for about EUR 2.5 million a few months ago and now want a guaranteed EUR 35 million.",
+      "Juventus, Napoli and Tottenham under De Zerbi are reported to be interested."
+    ],
+    "background": "Varela is a 2005-born Portuguese forward who came through at Benfica, who hold a 20% sell-on clause.",
+    "angle": "transfer",
+    "sensitive": false,
+    "footage_terms": [
+      "Varela Monza goals highlights",
+      "Varela Serie A top scorer",
+      "Monza Avellino Coppa Italia Varela brace"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Haaland's 78th-minute winner at Leipzig is his 14th goal of the season",
+    "date": "2026-11-04",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50382966/erling-haaland-man-city-rb-leipzig-uefa-champions-league",
+    "entities": [
+      "Erling Haaland",
+      "Manchester City",
+      "RB Leipzig",
+      "Enzo Maresca"
+    ],
+    "facts": [
+      "Haaland scored the 78th-minute winner in City's 3-2 win at RB Leipzig, his 14th goal of the season.",
+      "It was his 13th goal against Leipzig in nine appearances, more than against any other opponent.",
+      "He had only 13 touches in the match and told City to step up."
+    ],
+    "background": "Haaland scored five in City's 7-0 win over Leipzig in 2023.",
+    "angle": "record",
+    "sensitive": false,
+    "footage_terms": [
+      "Leipzig Manchester City 2-3 highlights",
+      "Haaland winner Leipzig",
+      "Haaland press conference Leipzig"
+    ],
+    "confidence": "high"
+  },
+  {
+    "headline": "Haaland scores three for Norway in the break while City suffer three straight league defeats",
+    "date": "2026-11-19",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50533036/erling-haaland-man-city-leader",
+    "entities": [
+      "Erling Haaland",
+      "Manchester City",
+      "Norway",
+      "Enzo Maresca",
+      "Fulham"
+    ],
+    "facts": [
+      "Haaland scored a penalty in Norway's 3-1 win over Wales and a late winner in a 3-2 comeback win over Denmark, sending Norway into the Nations League quarter-finals.",
+      "City have lost three straight Premier League games and host Fulham on Saturday.",
+      "Maresca named Haaland one of four club captains alongside Ruben Dias, Marc Guehi and Gianluigi Donnarumma."
+    ],
+    "background": "Haaland, 26, is in his fifth season at City after joining from Borussia Dortmund in 2022.",
+    "angle": "win",
+    "sensitive": false,
+    "footage_terms": [
+      "Norway Denmark 3-2 Haaland winner",
+      "Norway Wales 3-1 Haaland penalty",
+      "Maresca press conference Fulham"
+    ],
+    "confidence": "high"
+  },
+  {
+    "headline": "Donnarumma's goals-prevented number turns negative at Man City",
+    "date": "2026-11-05",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50388254/soccer-champions-league-main-characters-man-united-como-psg-donnarumma",
+    "entities": [
+      "Gianluigi Donnarumma",
+      "Manchester City",
+      "Enzo Maresca"
+    ],
+    "facts": [
+      "ESPN's goals-prevented figure for Donnarumma is -1.2 this season, after +6.8 for City last season.",
+      "Over his last six games he is at -4.0 goals prevented.",
+      "City had lost three of their last seven matches and allowed 12 goals in those seven; Maresca said the form is no concern."
+    ],
+    "background": "Donnarumma moved from Paris Saint-Germain to Manchester City and has since been named one of City's four captains.",
+    "angle": "business",
+    "sensitive": false,
+    "footage_terms": [
+      "Donnarumma Manchester City mistake",
+      "Maresca backs Donnarumma press conference",
+      "Donnarumma saves Man City highlights"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "headline": "PSG win ten in a row across all competitions after 6-0 thrashing of Villarreal",
+    "date": "2026-11-05",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50388254/soccer-champions-league-main-characters-man-united-como-psg-donnarumma",
+    "entities": [
+      "Paris Saint-Germain",
+      "Villarreal",
+      "Fabian Ruiz",
+      "Achraf Hakimi"
+    ],
+    "facts": [
+      "PSG beat Villarreal 6-0, leading 4-0 after 17 minutes.",
+      "They have won all four Champions League games, outscoring opponents 20-5, with wins over Manchester City and Barcelona.",
+      "ESPN counts ten straight wins in all competitions by a combined 36-9; Real Madrid are the only other team with four wins from four."
+    ],
+    "background": "PSG are two-time defending Champions League winners and were named Men's Club of the Year at the 2026 Ballon d'Or.",
+    "angle": "win",
+    "sensitive": false,
+    "footage_terms": [
+      "PSG Villarreal 6-0 highlights",
+      "PSG Champions League win streak",
+      "Paris Saint-Germain Barcelona Champions League 2026"
+    ],
+    "confidence": "high"
+  },
+  {
+    "headline": "Man United come from 2-0 down to beat Roma 3-2 and end a nine-match winless run",
+    "date": "2026-11-05",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50388254/soccer-champions-league-main-characters-man-united-como-psg-donnarumma",
+    "entities": [
+      "Manchester United",
+      "Roma",
+      "Bruno Fernandes",
+      "Matheus Cunha"
+    ],
+    "facts": [
+      "United beat Roma 3-2 at Old Trafford on Nov 3 after trailing 2-0 inside 20 minutes, ending a nine-match winless run.",
+      "Bruno Fernandes scored a retaken penalty and Matheus Cunha scored twice.",
+      "During the run United scored 6 goals from 9.9 xG; Opta gave them a 9.5% chance of a top-seven finish."
+    ],
+    "background": "Baleba, a EUR 75.9 million signing, has played only 397 minutes because of injuries, per ESPN.",
+    "angle": "win",
+    "sensitive": false,
+    "footage_terms": [
+      "Manchester United Roma 3-2 highlights",
+      "Cunha two goals Roma",
+      "Bruno Fernandes retaken penalty Roma"
+    ],
+    "confidence": "high"
+  },
+  {
+    "headline": "Bayern beat Atletico 2-0 for first clean sheet in eight games after a rare 0-0 at Schalke",
+    "date": "2026-11-05",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50388254/soccer-champions-league-main-characters-man-united-como-psg-donnarumma",
+    "entities": [
+      "Bayern Munich",
+      "Atletico Madrid",
+      "Konrad Laimer",
+      "Schalke 04"
+    ],
+    "facts": [
+      "Bayern won 2-0 against Atletico Madrid, their first clean sheet in eight games; Konrad Laimer scored a long-range goal.",
+      "Atletico had won seven straight in LaLiga before the game.",
+      "Bayern's earlier 0-0 at Schalke was their first scoreless game in over a year."
+    ],
+    "background": "Bayern are coached by Vincent Kompany and were knocked out of last season's Champions League semi-final by PSG.",
+    "angle": "win",
+    "sensitive": false,
+    "footage_terms": [
+      "Bayern Atletico Madrid 2-0 highlights Laimer",
+      "Laimer wonder goal Bayern",
+      "Schalke Bayern 0-0 highlights"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Club Brugge striker Tresoldi has five Champions League goals, including a hat-trick at Inter",
+    "date": "2026-11-05",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50388254/soccer-champions-league-main-characters-man-united-como-psg-donnarumma",
+    "entities": [
+      "Nicolo Tresoldi",
+      "Club Brugge",
+      "PSV Eindhoven",
+      "Inter"
+    ],
+    "facts": [
+      "Club Brugge beat PSV 2-1 on matchday four with a Nicolo Tresoldi goal.",
+      "Tresoldi has five Champions League goals this season, including a hat-trick at Inter.",
+      "ESPN says Inter lost at home to Club Brugge and Brugge have three wins from four European games."
+    ],
+    "background": "Brugge's 2-1 win over PSV came after they beat Inter at home in the league phase, per ESPN.",
+    "angle": "record",
+    "sensitive": false,
+    "footage_terms": [
+      "Tresoldi hat trick Inter Club Brugge",
+      "Club Brugge PSV highlights",
+      "Inter Club Brugge Champions League highlights"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Yamal named best LaLiga player of 2025/26 after 16 goals and 12 assists",
+    "date": "2026-11-18",
+    "source_domain": "laliga.com",
+    "url": "https://www.laliga.com/en-GB/news/lamine-yamal-hansi-flick-joan-garcia-carlos-espi-and-arda-guler-named-winners-of-the-2025-26-laliga-awards",
+    "entities": [
+      "Lamine Yamal",
+      "Hansi Flick",
+      "Joan Garcia",
+      "Carlos Espi",
+      "Arda Guler"
+    ],
+    "facts": [
+      "LaLiga named Yamal Best Player of 2025/26 after 16 goals and 12 assists.",
+      "Barcelona won three of the five awards: Yamal, Hansi Flick (Best Coach, 94 points) and Joan Garcia (Best Save).",
+      "Levante's Carlos Espi, 20, won the U23 award with 11 goals, 10 in the last 13 matchdays; Arda Guler won Best Goal."
+    ],
+    "background": "The awards will be presented on December 28 in the UAE at the Globe Soccer Awards.",
+    "angle": "win",
+    "sensitive": false,
+    "footage_terms": [
+      "Lamine Yamal LaLiga best player award",
+      "Arda Guler goal Elche Bernabeu",
+      "Joan Garcia save Espanyol derby"
+    ],
+    "confidence": "high"
+  },
+  {
+    "headline": "Porto win all 11 matches to start the Primeira Liga season",
+    "date": "2026-11-09",
+    "source_domain": "skysports.com",
+    "url": "https://www.skysports.com/football/news/13607213/harry-kane-is-bayern-munichs-assist-king-barcelona-win-at-atletico-madrid-and-inter-close-gap-on-lazio-all-in-the-euro-debrief",
+    "entities": [
+      "Porto"
+    ],
+    "facts": [
+      "Sky's Euro Debrief says Porto have won all of their 11 matches this season.",
+      "The same column notes PSG's 11th straight win in all competitions, a 1-0 win over Troyes.",
+      "In Ligue 1, Lassine Sinayoko has nine league goals, two more than anyone else."
+    ],
+    "background": "Porto are one of Portugal's big three clubs alongside Benfica and Sporting.",
+    "angle": "record",
+    "sensitive": false,
+    "footage_terms": [
+      "Porto Primeira Liga highlights November 2026",
+      "FC Porto perfect start",
+      "Porto vs Sporting preview"
+    ],
+    "confidence": "low"
+  },
+  {
+    "headline": "Rennes teenager Thymeo Hanyurwimana Ferreira Cruz, 14, could become Ligue 1's youngest debutant",
+    "date": "2026-11-20",
+    "source_domain": "goal.com",
+    "url": "https://www.goal.com/en/news/who-is-thymeo-hanyurwimana-ferreira-cruz-rennes-want-him-playing-in-ligue-1-at-14-and-he-is-being-compared-to-messi/bltd5db8c8556c6a9dd",
+    "entities": [
+      "Thymeo Hanyurwimana Ferreira Cruz",
+      "Rennes",
+      "Barcelona",
+      "Manchester City"
+    ],
+    "facts": [
+      "Thymeo was born on 5 April 2012 and normally plays for Rennes' under-15s, with matches for the under-17s.",
+      "Rennes signed him to a semi-professional deal in October 2025 that takes effect on 1 July 2027.",
+      "Goal says that if he debuts then he would be Ligue 1's youngest ever, at 15 years and under three months; Barcelona and Manchester City are reported to be interested."
+    ],
+    "background": "Rennes' academy has produced Ousmane Dembele, Eduardo Camavinga and Desire Doue.",
+    "angle": "viral",
+    "sensitive": true,
+    "footage_terms": [
+      "Thymeo Rennes academy goals",
+      "Rennes youth wonderkid Ligue 1 youngest",
+      "Rennes under 17 highlights"
+    ],
+    "confidence": "low"
+  }
+]

@@ -1,0 +1,93 @@
+{
+ "no": 96,
+ "subject": "Adventurer Karl Bushby ends a 28-year walk from Chile in Hull wearing the club shirt",
+ "title": "Twenty-eight years, no lifts",
+ "voice": "kokoro",
+ "comic": true,
+ "style": "peanuts_minimal",
+ "lines": [
+  {
+   "vo": "Twenty-eight years of walking, and absolutely no lifts.",
+   "card": "28 years, no lifts",
+   "sfx": null,
+   "footage": "Bushby arrival in Hull, walking shots, gear close-up"
+  },
+  {
+   "vo": "Karl Bushby set off from Chile in nineteen ninety-eight. Destination: Hull. Some people love a long commute.",
+   "card": "Chile, 1998",
+   "sfx": null,
+   "footage": "map graphic, Chile coastline b-roll"
+  },
+  {
+   "vo": "About thirty-one thousand miles, across four continents.",
+   "card": "31,000 miles",
+   "sfx": null,
+   "footage": "route map, long road shots"
+  },
+  {
+   "vo": "The rules: no buses, no trains, no lifts. And no coming home until he finished.",
+   "card": "Strict rules",
+   "sfx": null,
+   "footage": "Bushby talking to camera, rucksack"
+  },
+  {
+   "vo": "He swam the Channel on the fifth of October to start the final leg. A ferry would have been cheating.",
+   "card": "The Channel swim",
+   "sfx": "splash",
+   "footage": "Channel swim b-roll, sea and white cliffs"
+  },
+  {
+   "vo": "Hull City urged fans to welcome him at City Hall. After the two-two with Ipswich, the club posted his video in a Hull shirt.",
+   "card": "Hull shirt",
+   "sfx": null,
+   "footage": "club video clip, City Hall square"
+  },
+  {
+   "vo": "Twenty-eight years on foot. He hopes to watch a match at the MKM Stadium. Sitting down.",
+   "card": "A seat, finally",
+   "sfx": "crowd cheer",
+   "footage": "MKM Stadium exterior, stands in the sunshine"
+  },
+  {
+   "vo": "Want more stories nobody saw coming? News, betting tips and predictions at aboutfootball dot UK.",
+   "card": "aboutfootball dot UK",
+   "sfx": null,
+   "footage": "end card"
+  }
+ ],
+ "chars": 706,
+ "est_seconds": 39,
+ "footage_terms": [
+  "Karl Bushby arrives Hull",
+  "Karl Bushby Goliath Expedition walk finish",
+  "Hull City MKM Stadium fans"
+ ],
+ "inserts": [
+  {
+   "after_line": 3,
+   "story": "Setup: a stick figure sets off with a rucksack past a bus stop. Gag: the bus waves politely. Twist: he waves back and keeps walking.",
+   "characters": "Generic stick figure, bus prop, no real faces",
+   "seconds": 2
+  },
+  {
+   "after_line": 4,
+   "story": "Setup: the stick figure reaches the sea. Gag: a ferry toots hopefully. Twist: he shakes his head, dives in, and the ferry sulks.",
+   "characters": "Generic stick figure, ferry prop",
+   "seconds": 2
+  },
+  {
+   "after_line": 5,
+   "story": "Setup: the stick figure asks a stadium guard for a seat. Gag: the guard asks if he walked here. Twist: he says yes, from Chile, and the guard hands him a cushion.",
+   "characters": "Generic stick figure, generic stadium guard",
+   "seconds": 2
+  }
+ ],
+ "facts_used": [
+  "Bushby, a former paratrooper, reached Hull after swimming the Channel on 5 October to start the final leg (news 397, espn.com)",
+  "Hull City backed him and urged fans to welcome him at City Hall; the club posted his video in a Hull shirt after the 2-2 draw with Ipswich (news 397)",
+  "He hopes to see a match at the MKM Stadium in person (news 397)",
+  "Set out from Chile in 1998 and walked about 31,000 miles across four continents; no transport, no return to Britain until finished (news 397, background)"
+ ],
+ "comic_score": 8,
+ "notes": "Source: news 397 (ESPN, 2026-11-02). Real person: jokes only on the walk and the rules he set; no age, health or weather jokes. 'No buses, no trains, no lifts' illustrates the stated no-transport rule. Hull and the Ipswich draw are stated neutrally. Frozen Bering Strait left out. Inserts are generic stick figures in a minimal style, with no franchise characters. after_line is the 0-based index into lines[]. Data gap: the exact date of the Monday before the story ran is not in the data."
+}

@@ -1,0 +1,280 @@
+{
+ "video_id": "aOUGXHSAOks",
+ "topic": "Yan Diomande's individual performance vs Barcelona (25/10/2026) in a match compilation",
+ "hero": "Yan Diomande (per title; not confirmable from frames)",
+ "hero_role": "protagonist of the performance clip",
+ "media_type_overall": "real broadcast footage",
+ "hook": "Black screen, then close-up of man with braids looking down",
+ "subtitle_style": "none",
+ "reaction_overlays": "small scoreboard graphic bottom-left (from broadcast)",
+ "transition_summary": "Long continuous takes; few hard cuts, ~1 cut per 20 s",
+ "audio_note": "music plus commentary mentioning Asensio/Villarreal (transcript)",
+ "reuse_segments": [
+  {
+   "t0": 0,
+   "t1": 10,
+   "what": "Intro close-ups of player in tunnel",
+   "origin_guess": "broadcast match",
+   "rights_risk": "high",
+   "how_to_reuse": "needs licensed footage"
+  },
+  {
+   "t0": 10,
+   "t1": 62,
+   "what": "Wide tactical match play",
+   "origin_guess": "broadcast match",
+   "rights_risk": "high",
+   "how_to_reuse": "needs licensed footage"
+  }
+ ],
+ "frames": [
+  {
+   "idx": 1,
+   "t": 0,
+   "desc": "Black frame",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 2,
+   "t": 2,
+   "desc": "Close face of man with braids looking down",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 3,
+   "t": 4,
+   "desc": "Man with braids in white tracksuit stands beside young man in tunnel",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 4,
+   "t": 6,
+   "desc": "Profile and back of head, braided hair, white jacket red stripes",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 5,
+   "t": 8,
+   "desc": "Profile and back of head, braided hair, white jacket red stripes",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 6,
+   "t": 10,
+   "desc": "Wide tactical broadcast camera: white team vs Barca, scoreboard bug bottom-left, ball carrier dribbles",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 7,
+   "t": 12,
+   "desc": "Wide tactical broadcast camera: white team vs Barca, scoreboard bug bottom-left, ball carrier dribbles",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 8,
+   "t": 14,
+   "desc": "Wide tactical broadcast camera: white team vs Barca, scoreboard bug bottom-left, ball carrier dribbles",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 9,
+   "t": 16,
+   "desc": "Wide tactical broadcast camera: white team vs Barca, scoreboard bug bottom-left, ball carrier dribbles",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 10,
+   "t": 18,
+   "desc": "Wide tactical broadcast camera: white team vs Barca, scoreboard bug bottom-left, ball carrier dribbles",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 11,
+   "t": 20,
+   "desc": "Wide tactical broadcast camera: white team vs Barca, scoreboard bug bottom-left, ball carrier dribbles",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 12,
+   "t": 22,
+   "desc": "Wide tactical broadcast camera: white team vs Barca, scoreboard bug bottom-left, ball carrier dribbles",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 13,
+   "t": 24,
+   "desc": "Wide tactical broadcast camera: white team vs Barca, scoreboard bug bottom-left, ball carrier dribbles",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 14,
+   "t": 26,
+   "desc": "Wide tactical broadcast camera: white team vs Barca, scoreboard bug bottom-left, ball carrier dribbles",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 15,
+   "t": 28,
+   "desc": "Wide tactical broadcast camera: white team vs Barca, scoreboard bug bottom-left, ball carrier dribbles",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 16,
+   "t": 30,
+   "desc": "Wide tactical broadcast camera: white team vs Barca, scoreboard bug bottom-left, ball carrier dribbles",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 17,
+   "t": 32,
+   "desc": "Wide tactical broadcast camera: white team vs Barca, scoreboard bug bottom-left, ball carrier dribbles",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 18,
+   "t": 34,
+   "desc": "Wide tactical broadcast camera: white team vs Barca, scoreboard bug bottom-left, ball carrier dribbles",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 19,
+   "t": 36,
+   "desc": "Wide tactical broadcast camera: white team vs Barca, scoreboard bug bottom-left, ball carrier dribbles",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 20,
+   "t": 38,
+   "desc": "Wide tactical broadcast camera: white team vs Barca, scoreboard bug bottom-left, ball carrier dribbles",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 21,
+   "t": 40,
+   "desc": "Wide tactical broadcast camera: white team vs Barca, scoreboard bug bottom-left, ball carrier dribbles",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 22,
+   "t": 42,
+   "desc": "Wide tactical broadcast camera: white team vs Barca, scoreboard bug bottom-left, ball carrier dribbles",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 23,
+   "t": 44,
+   "desc": "Wide tactical broadcast camera: white team vs Barca, scoreboard bug bottom-left, ball carrier dribbles",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 24,
+   "t": 46,
+   "desc": "Wide tactical broadcast camera: white team vs Barca, scoreboard bug bottom-left, ball carrier dribbles",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 25,
+   "t": 48,
+   "desc": "Wide broadcast near goal, 1XBET/GOLF ad boards, attacking move",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 26,
+   "t": 50,
+   "desc": "Wide broadcast near goal, 1XBET/GOLF ad boards, attacking move",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 27,
+   "t": 52,
+   "desc": "Wide broadcast near goal, 1XBET/GOLF ad boards, attacking move",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 28,
+   "t": 54,
+   "desc": "Wide broadcast near goal, 1XBET/GOLF ad boards, attacking move",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 29,
+   "t": 56,
+   "desc": "Wide pitch view, white player on the ball",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 30,
+   "t": 58,
+   "desc": "Wide pitch view, white player on the ball",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 31,
+   "t": 60,
+   "desc": "Wide pitch view, white player on the ball",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "none"
+  }
+ ]
+}

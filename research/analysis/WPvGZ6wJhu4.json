@@ -1,0 +1,272 @@
+{
+ "video_id": "WPvGZ6wJhu4",
+ "topic": "Compilation of awkward and crazy public encounters of Zlatan Ibrahimović with fans, haters and stunts, mixing old match clips and street videos",
+ "hero": "Zlatan Ibrahimović (per title)",
+ "hero_role": "protagonist/subject of street-encounter anecdotes",
+ "media_type_overall": "mixed",
+ "hook": "Bald bearded man with yellow arrow label 'HATER', then car interior with 'STREAMER' label; narrator lists crazy moments",
+ "subtitle_style": "short white caps labels with yellow hand-drawn arrows (HATER, STREAMER, HEY); lower-third white captions with black outline ('We're gonna get you.', 'ITS GONNA GET UGLY BACK HOME!')",
+ "reaction_overlays": "hand-drawn yellow arrows, name labels, split-screen reaction cuts, photo-in-frame inserts, blurred faces, Nost FC watermark bottom centre",
+ "transition_summary": "Very fast hard cuts, flash/split-screen swaps and 0.2s burst cuts (about 6.5 cuts/10s, 40 cuts in 60s); mix of whip-like cuts and picture-frame insert",
+ "audio_note": "English documentary-style voice-over ('From getting death threats because of a celebration to having his most awkward situation ever...') plus original clip audio",
+ "reuse_segments": [
+  {
+   "t0": 0,
+   "t1": 62,
+   "what": "Street/fan encounter clips (phone and TV footage) mixed with archival matches",
+   "origin_guess": "fan edit",
+   "rights_risk": "high",
+   "how_to_reuse": "Third-party clips; recreate with generated imagery or own staged sketch; reuse caption/arrow label style only"
+  }
+ ],
+ "frames": [
+  {
+   "idx": 1,
+   "t": 0,
+   "desc": "Bald bearded man in black jacket with arrow label HATER, outdoor",
+   "type": "video",
+   "text_on_screen": "HATER",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 2,
+   "t": 2,
+   "desc": "Back seat of car: man in red-black Milan shirt (face blurred), man in white shirt, label STREAMER",
+   "type": "video",
+   "text_on_screen": "STREAMER",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 3,
+   "t": 4,
+   "desc": "Car interior, man in Milan shirt face blurred and man in white shirt talking",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 4,
+   "t": 6,
+   "desc": "Street with passers-by in front of cream building",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 5,
+   "t": 8,
+   "desc": "Airport hall, security guards walking with man in dark clothes",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 6,
+   "t": 10,
+   "desc": "Black Ferrari convertible on street, text instagram.com/stockholm.carspotting/",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 7,
+   "t": 12,
+   "desc": "Shirtless man in front of red sports car, bodyguards around",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 8,
+   "t": 14,
+   "desc": "Huge crowd gathered on street around lone man in white shirt",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 9,
+   "t": 16,
+   "desc": "Eiffel Tower against blue sky (Paris cutaway)",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 10,
+   "t": 18,
+   "desc": "Player in maroon kit kicking, dark vignetted archive clip",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 11,
+   "t": 20,
+   "desc": "Distant football pitch, players on grass, Canal+ boards",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 12,
+   "t": 22,
+   "desc": "Players in blue and maroon chasing ball",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 13,
+   "t": 24,
+   "desc": "Goal with Företagspalatset ad boards, tiny figure on pitch",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 14,
+   "t": 26,
+   "desc": "Maroon-kit player in white shorts on pitch, shadows",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 15,
+   "t": 28,
+   "desc": "Two maroon-kit players hands to head celebration",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 16,
+   "t": 30,
+   "desc": "Man in blue #17 TRELLEBORG jersey in doorway, crowd of kids",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 17,
+   "t": 32,
+   "desc": "Bald bearded man pointing, kids smiling behind",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 18,
+   "t": 34,
+   "desc": "Closer on bald bearded man pointing at camera",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 19,
+   "t": 36,
+   "desc": "Man in dark suit in doorway looking down",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 20,
+   "t": 38,
+   "desc": "Man in suit outside near parked cars and stairs",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 21,
+   "t": 40,
+   "desc": "Framed photo-insert of bearded man, caption 'We're gonna get you.'",
+   "type": "video",
+   "text_on_screen": "We're gonna get you.",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 22,
+   "t": 42,
+   "desc": "Man in suit with backpack seen from behind walking to bus",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 23,
+   "t": 44,
+   "desc": "Man in suit near bus, bearded man partly visible",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 24,
+   "t": 46,
+   "desc": "Bearded man foreground, dark suited man behind",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 25,
+   "t": 48,
+   "desc": "Split-screen transition, green-yellow tint",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 26,
+   "t": 50,
+   "desc": "Split screen: man in suit left, bald man right, caption ITS GONNA GET UGLY BACK HOME!",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 27,
+   "t": 52,
+   "desc": "Bald man close, sunglasses on head, cars behind",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 28,
+   "t": 54,
+   "desc": "Bald man close in profile outdoors",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 29,
+   "t": 56,
+   "desc": "Bearded man pointing near a road sign",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 30,
+   "t": 58,
+   "desc": "Maroon-kit player with raised arms celebrating, teammates",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 31,
+   "t": 60,
+   "desc": "Man in dark suit beside bus, dark foreground",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "none"
+  }
+ ]
+}

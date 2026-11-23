@@ -1,0 +1,675 @@
+{
+ "no": 88,
+ "style": "CUTOUT-PAPER",
+ "prop": "coin",
+ "cast": {
+  "neymar": {
+   "role": "player",
+   "number": "10",
+   "shirt": "#f2d34a",
+   "hair": "#f0c75a"
+  },
+  "bouncer": {
+   "role": "staff",
+   "shirt": "#2f2f3d",
+   "hair": "#2b2b3a"
+  },
+  "champ": {
+   "role": "legend",
+   "shirt": "#c9a227",
+   "hair": "#d6d2c6"
+  }
+ },
+ "sequences": {
+  "s01": {
+   "type": "HOOK",
+   "q": "Neymar: fifteen thousand in, how much out?",
+   "prop": "coin",
+   "emote": "smug",
+   "board": "neon",
+   "role": "player"
+  },
+  "s02": {
+   "type": "NEWS",
+   "name": "Neymar",
+   "fact": "Super High Roller event at BSOP Millions",
+   "ticker": "Tenth, invitation only",
+   "icons": [
+    "trophy",
+    "ticket",
+    "coin"
+   ],
+   "role": "player",
+   "actor": "neymar",
+   "dateline": "BSOP Millions"
+  },
+  "s03": {
+   "type": "COMIC",
+   "bg": "pub",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "neymar",
+       "x": 280,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "happy",
+       "scale": 1.45,
+       "label": "Neymar"
+      },
+      {
+       "id": "bouncer",
+       "x": 810,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "neutral",
+       "scale": 1.3,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "table",
+       "x": 560,
+       "y": 1390,
+       "scale": 3.0
+      },
+      {
+       "kind": "coin",
+       "x": 560,
+       "y": 1230,
+       "scale": 1.1,
+       "anim": "pop"
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.42,
+     "actors": [
+      {
+       "id": "neymar",
+       "x": 280,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "happy",
+       "scale": 1.45
+      },
+      {
+       "id": "bouncer",
+       "x": 810,
+       "y": 1440,
+       "pose": "point",
+       "emote": "smug",
+       "scale": 1.3,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "table",
+       "x": 560,
+       "y": 1390,
+       "scale": 3.0
+      },
+      {
+       "kind": "coin",
+       "x": 560,
+       "y": 1230,
+       "scale": 1.1
+      },
+      {
+       "kind": "clipboard",
+       "x": 590,
+       "y": 880,
+       "scale": 1.7,
+       "anim": "slide-r",
+       "label": "Neymar"
+      }
+     ],
+     "cam": "push"
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.42,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "neymar",
+       "x": 280,
+       "y": 1440,
+       "pose": "headscratch",
+       "emote": "sweat",
+       "scale": 1.45
+      },
+      {
+       "id": "bouncer",
+       "x": 810,
+       "y": 1440,
+       "pose": "present",
+       "emote": "smug",
+       "scale": 1.3,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "table",
+       "x": 560,
+       "y": 1390,
+       "scale": 3.0
+      },
+      {
+       "kind": "coin",
+       "x": 560,
+       "y": 1230,
+       "scale": 1.1
+      },
+      {
+       "kind": "clipboard",
+       "x": 590,
+       "y": 880,
+       "scale": 1.7,
+       "label": "Neymar"
+      }
+     ],
+     "bubble": {
+      "who": "bouncer",
+      "icon": "question"
+     }
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "neymar",
+       "x": 280,
+       "y": 1440,
+       "pose": "cheer",
+       "emote": "smug",
+       "scale": 1.45,
+       "hold": {
+        "kind": "ball",
+        "hand": "R",
+        "scale": 1.5,
+        "dx": 10,
+        "dy": -190
+       }
+      },
+      {
+       "id": "bouncer",
+       "x": 810,
+       "y": 1440,
+       "pose": "facepalm",
+       "emote": "sweat",
+       "scale": 1.3,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "table",
+       "x": 560,
+       "y": 1390,
+       "scale": 3.0
+      },
+      {
+       "kind": "coin",
+       "x": 560,
+       "y": 1230,
+       "scale": 1.1
+      },
+      {
+       "kind": "clipboard",
+       "x": 590,
+       "y": 1050,
+       "scale": 1.7
+      }
+     ],
+     "sfx": {
+      "text": "DING",
+      "x": 850,
+      "y": 560,
+      "r": 110
+     }
+    }
+   ]
+  },
+  "s04": {
+   "type": "STATS",
+   "items": [
+    {
+     "icon": "ticket",
+     "value": "152",
+     "label": "Entries"
+    },
+    {
+     "icon": "chart-up",
+     "value": "7",
+     "suffix": "%",
+     "label": "top seven percent"
+    },
+    {
+     "icon": "coin",
+     "value": "1.2",
+     "suffix": "m",
+     "label": "prize pool"
+    }
+   ]
+  },
+  "s05": {
+   "type": "COMIC",
+   "bg": "studio",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "neymar",
+       "x": 300,
+       "y": 1440,
+       "pose": "present",
+       "emote": "sad",
+       "scale": 1.45
+      }
+     ],
+     "props": [
+      {
+       "kind": "scoreboard",
+       "x": 790,
+       "y": 840,
+       "scale": 2.6,
+       "text": "29",
+       "face": "sad",
+       "anim": "pop"
+      },
+      {
+       "kind": "coin",
+       "x": 790,
+       "y": 1260,
+       "scale": 1.1,
+       "anim": "pop"
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.42,
+     "actors": [
+      {
+       "id": "neymar",
+       "x": 300,
+       "y": 1440,
+       "pose": "point",
+       "emote": "smug",
+       "scale": 1.45
+      }
+     ],
+     "props": [
+      {
+       "kind": "scoreboard",
+       "x": 790,
+       "y": 840,
+       "scale": 2.6,
+       "text": "29",
+       "face": "dizzy"
+      },
+      {
+       "kind": "coin",
+       "x": 790,
+       "y": 1260,
+       "scale": 1.1
+      }
+     ],
+     "cam": "push",
+     "fx": [
+      {
+       "kind": "dust",
+       "x": 790,
+       "y": 840,
+       "size": 0.7
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.42,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "neymar",
+       "x": 300,
+       "y": 1440,
+       "pose": "point",
+       "emote": "happy",
+       "scale": 1.45
+      }
+     ],
+     "props": [
+      {
+       "kind": "scoreboard",
+       "x": 790,
+       "y": 840,
+       "scale": 2.6,
+       "text": "10",
+       "face": "happy"
+      },
+      {
+       "kind": "coin",
+       "x": 790,
+       "y": 1260,
+       "scale": 1.1
+      }
+     ]
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "neymar",
+       "x": 270,
+       "y": 1440,
+       "pose": "bow",
+       "emote": "smug",
+       "scale": 1.45
+      }
+     ],
+     "props": [
+      {
+       "kind": "scoreboard",
+       "x": 790,
+       "y": 840,
+       "scale": 2.6,
+       "text": "10",
+       "face": "wink",
+       "anim": "wobble"
+      },
+      {
+       "kind": "coin",
+       "x": 790,
+       "y": 1260,
+       "scale": 1.1
+      }
+     ],
+     "sfx": {
+      "text": "POP",
+      "x": 330,
+      "y": 470,
+      "r": 100
+     },
+     "fx": [
+      {
+       "kind": "sparkle",
+       "x": 790,
+       "y": 840
+      }
+     ]
+    }
+   ]
+  },
+  "s06": {
+   "type": "PROVOC",
+   "q": "Poker marathon: tougher than four matches?",
+   "a": "Poker marathon",
+   "b": "Four matches",
+   "split": [
+    37,
+    63
+   ],
+   "mood": "fun"
+  },
+  "s07": {
+   "type": "COMIC",
+   "bg": "night-city",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "champ",
+       "x": 800,
+       "y": 1440,
+       "pose": "present",
+       "emote": "smug",
+       "scale": 1.45,
+       "flip": true
+      },
+      {
+       "id": "neymar",
+       "x": 200,
+       "y": 1440,
+       "pose": "sit",
+       "emote": "neutral",
+       "scale": 0.95
+      }
+     ],
+     "props": [
+      {
+       "kind": "table",
+       "x": 540,
+       "y": 1390,
+       "scale": 3.2
+      },
+      {
+       "kind": "chair",
+       "x": 200,
+       "y": 1380,
+       "scale": 1.8,
+       "layer": "back"
+      },
+      {
+       "kind": "trophy",
+       "x": 640,
+       "y": 1060,
+       "scale": 1.6,
+       "anim": "slide-r"
+      },
+      {
+       "kind": "coin",
+       "x": 430,
+       "y": 1210,
+       "scale": 1.0
+      },
+      {
+       "kind": "coin",
+       "x": 500,
+       "y": 1230,
+       "scale": 1.0
+      },
+      {
+       "kind": "coin",
+       "x": 570,
+       "y": 1215,
+       "scale": 1.0
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "champ",
+       "x": 800,
+       "y": 1440,
+       "pose": "point",
+       "emote": "smug",
+       "scale": 1.45,
+       "flip": true
+      },
+      {
+       "id": "neymar",
+       "x": 200,
+       "y": 1440,
+       "pose": "sit",
+       "emote": "shock",
+       "scale": 0.95
+      }
+     ],
+     "props": [
+      {
+       "kind": "table",
+       "x": 540,
+       "y": 1390,
+       "scale": 3.2
+      },
+      {
+       "kind": "chair",
+       "x": 200,
+       "y": 1380,
+       "scale": 1.8,
+       "layer": "back"
+      },
+      {
+       "kind": "trophy",
+       "x": 470,
+       "y": 930,
+       "scale": 2.7
+      },
+      {
+       "kind": "coin",
+       "x": 380,
+       "y": 1100,
+       "scale": 1.0
+      },
+      {
+       "kind": "coin",
+       "x": 330,
+       "y": 1180,
+       "scale": 1.0
+      },
+      {
+       "kind": "coin",
+       "x": 300,
+       "y": 1250,
+       "scale": 1.0
+      }
+     ],
+     "cam": "push",
+     "sfx": {
+      "text": "WHOOSH",
+      "x": 540,
+      "y": 470,
+      "r": 110
+     }
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "champ",
+       "x": 800,
+       "y": 1440,
+       "pose": "shrug",
+       "emote": "sad",
+       "scale": 1.45,
+       "flip": true
+      },
+      {
+       "id": "neymar",
+       "x": 200,
+       "y": 1440,
+       "pose": "sit",
+       "emote": "smug",
+       "scale": 0.95
+      }
+     ],
+     "props": [
+      {
+       "kind": "table",
+       "x": 540,
+       "y": 1390,
+       "scale": 3.2
+      },
+      {
+       "kind": "chair",
+       "x": 200,
+       "y": 1380,
+       "scale": 1.8,
+       "layer": "back"
+      },
+      {
+       "kind": "trophy",
+       "x": 470,
+       "y": 930,
+       "scale": 2.7
+      },
+      {
+       "kind": "coin",
+       "x": 180,
+       "y": 1290,
+       "scale": 1.0
+      },
+      {
+       "kind": "coin",
+       "x": 230,
+       "y": 1300,
+       "scale": 1.0
+      },
+      {
+       "kind": "coin",
+       "x": 205,
+       "y": 1270,
+       "scale": 1.0
+      }
+     ],
+     "sfx": {
+      "text": "DING",
+      "x": 250,
+      "y": 520,
+      "r": 100
+     },
+     "bubble": {
+      "who": "neymar",
+      "icon": "fire"
+     }
+    }
+   ]
+  },
+  "s08": {
+   "type": "INTERVIEW",
+   "label": "REPORTER ASKS",
+   "bubble": "What comes after tenth, Neymar?",
+   "answer": {
+    "icon": "trophy",
+    "gesture": "point",
+    "emote": "smug"
+   },
+   "subject": "Neymar",
+   "subject_cast": "neymar",
+   "reporter_role": "reporter"
+  }
+ }
+}

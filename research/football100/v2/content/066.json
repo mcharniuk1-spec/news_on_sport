@@ -1,0 +1,448 @@
+{
+ "no": 66,
+ "style": "FLAT-POP",
+ "prop": "goal",
+ "cast": {
+  "murphy": {
+   "role": "striker",
+   "shirt": "#e6e6ee",
+   "hair": "#6b4a2a",
+   "number": "23"
+  },
+  "hornicek": {
+   "role": "keeper",
+   "shirt": "#f2a31b",
+   "hair": "#c9a24a"
+  }
+ },
+ "sequences": {
+  "s01": {
+   "type": "HOOK",
+   "q": "Screamer, then a three-minute reply?",
+   "prop": "rocket",
+   "emote": "shock",
+   "board": "neon",
+   "role": "striker"
+  },
+  "s02": {
+   "type": "COMIC",
+   "bg": "pitch",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "murphy",
+       "x": 290,
+       "y": 1440,
+       "pose": "point",
+       "emote": "smug",
+       "scale": 1.45
+      }
+     ],
+     "props": [
+      {
+       "kind": "goal",
+       "x": 790,
+       "y": 960,
+       "scale": 2.2
+      },
+      {
+       "kind": "ball",
+       "x": 500,
+       "y": 1390,
+       "scale": 1.1
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.42,
+     "actors": [
+      {
+       "id": "murphy",
+       "x": 290,
+       "y": 1440,
+       "pose": "kick",
+       "emote": "angry-cheeky",
+       "scale": 1.45
+      }
+     ],
+     "props": [
+      {
+       "kind": "goal",
+       "x": 790,
+       "y": 960,
+       "scale": 2.2
+      },
+      {
+       "kind": "ball",
+       "x": 640,
+       "y": 1010,
+       "scale": 1.25,
+       "anim": "spin"
+      }
+     ],
+     "cam": "push",
+     "sfx": {
+      "text": "WHOOSH",
+      "x": 560,
+      "y": 600,
+      "r": 130
+     },
+     "fx": [
+      {
+       "kind": "speed",
+       "x": 520,
+       "y": 1180,
+       "size": 1.0
+      },
+      {
+       "kind": "sparkle",
+       "x": 430,
+       "y": 1350
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.42,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "murphy",
+       "x": 290,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "shock",
+       "scale": 1.45
+      }
+     ],
+     "props": [
+      {
+       "kind": "goal",
+       "x": 790,
+       "y": 960,
+       "scale": 2.2
+      },
+      {
+       "kind": "ball",
+       "x": 945,
+       "y": 810,
+       "scale": 1.1,
+       "anim": "spin"
+      }
+     ],
+     "fx": [
+      {
+       "kind": "sparkle",
+       "x": 780,
+       "y": 900,
+       "size": 1.3
+      }
+     ]
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "murphy",
+       "x": 290,
+       "y": 1440,
+       "pose": "celebrate",
+       "emote": "smug",
+       "scale": 1.45
+      }
+     ],
+     "props": [
+      {
+       "kind": "goal",
+       "x": 790,
+       "y": 960,
+       "scale": 2.2,
+       "anim": "shake"
+      },
+      {
+       "kind": "ball",
+       "x": 955,
+       "y": 800,
+       "scale": 1.0
+      }
+     ],
+     "sfx": {
+      "text": "DING",
+      "x": 640,
+      "y": 450,
+      "r": 110
+     },
+     "fx": [
+      {
+       "kind": "sparkle",
+       "x": 955,
+       "y": 800,
+       "size": 1.5
+      },
+      {
+       "kind": "confetti",
+       "x": 790,
+       "y": 860
+      }
+     ]
+    }
+   ]
+  },
+  "s03": {
+   "type": "COMIC",
+   "bg": "stadium",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "hornicek",
+       "x": 560,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "neutral",
+       "scale": 1.3
+      }
+     ],
+     "props": [
+      {
+       "kind": "goal",
+       "x": 800,
+       "y": 1170,
+       "scale": 1.9
+      },
+      {
+       "kind": "hourglass",
+       "x": 260,
+       "y": 630,
+       "scale": 2.5,
+       "face": "happy"
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.42,
+     "actors": [
+      {
+       "id": "hornicek",
+       "x": 560,
+       "y": 1440,
+       "pose": "crouch",
+       "emote": "sweat",
+       "scale": 1.3
+      }
+     ],
+     "props": [
+      {
+       "kind": "goal",
+       "x": 800,
+       "y": 1170,
+       "scale": 1.9
+      },
+      {
+       "kind": "hourglass",
+       "x": 260,
+       "y": 630,
+       "scale": 2.5,
+       "face": "sweat",
+       "anim": "shake"
+      },
+      {
+       "kind": "ball",
+       "x": 150,
+       "y": 1330,
+       "scale": 1.1,
+       "anim": "slide-l"
+      }
+     ],
+     "cam": "push"
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.42,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "hornicek",
+       "x": 560,
+       "y": 1440,
+       "pose": "shock",
+       "emote": "shock",
+       "scale": 1.3
+      }
+     ],
+     "props": [
+      {
+       "kind": "goal",
+       "x": 800,
+       "y": 1170,
+       "scale": 1.9,
+       "anim": "shake"
+      },
+      {
+       "kind": "hourglass",
+       "x": 260,
+       "y": 630,
+       "scale": 2.5,
+       "face": "shock"
+      },
+      {
+       "kind": "ball",
+       "x": 880,
+       "y": 1250,
+       "scale": 1.1,
+       "anim": "spin"
+      }
+     ],
+     "sfx": {
+      "text": "BANG",
+      "x": 260,
+      "y": 1100,
+      "r": 110
+     },
+     "fx": [
+      {
+       "kind": "dust",
+       "x": 880,
+       "y": 1330
+      }
+     ]
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "hornicek",
+       "x": 560,
+       "y": 1440,
+       "pose": "facepalm",
+       "emote": "sad",
+       "scale": 1.3
+      }
+     ],
+     "props": [
+      {
+       "kind": "goal",
+       "x": 800,
+       "y": 1170,
+       "scale": 1.9
+      },
+      {
+       "kind": "hourglass",
+       "x": 260,
+       "y": 630,
+       "scale": 2.5,
+       "face": "smug",
+       "rot": 180
+      },
+      {
+       "kind": "ball",
+       "x": 880,
+       "y": 1250,
+       "scale": 1.1
+      },
+      {
+       "kind": "scoreboard",
+       "x": 800,
+       "y": 620,
+       "scale": 1.5,
+       "text": "1:1",
+       "face": "happy",
+       "anim": "drop"
+      }
+     ],
+     "fx": [
+      {
+       "kind": "sparkle",
+       "x": 800,
+       "y": 620,
+       "size": 1.3
+      }
+     ]
+    }
+   ]
+  },
+  "s04": {
+   "type": "PROVOC",
+   "q": "Fulham the better side: fair draw?",
+   "a": "Fair draw",
+   "b": "Deserved more",
+   "split": [
+    38,
+    62
+   ],
+   "mood": "shock"
+  },
+  "s05": {
+   "type": "NEWS",
+   "name": "Rodrigo Muniz",
+   "fact": "Equalised for Fulham in the eighty-third",
+   "ticker": "Muniz levels it",
+   "icons": [
+    "boot",
+    "stopwatch",
+    "ball"
+   ],
+   "role": "striker",
+   "dateline": "Fulham 1-1 Newcastle"
+  },
+  "s06": {
+   "type": "INTERVIEW",
+   "label": "REPORTER ASKS",
+   "bubble": "A stoppage-time save: how big?",
+   "answer": {
+    "icon": "gloves",
+    "gesture": "present",
+    "emote": "smug"
+   },
+   "subject": "Lukas Hornicek",
+   "subject_cast": "hornicek",
+   "subject_role": "keeper",
+   "reporter_role": "reporter"
+  },
+  "s07": {
+   "type": "STATS",
+   "items": [
+    {
+     "icon": "chart-up",
+     "value": "6",
+     "label": "Six points clear"
+    },
+    {
+     "icon": "chart-down",
+     "value": "12",
+     "label": "Twelve points"
+    },
+    {
+     "icon": "scoreboard",
+     "value": "1-1",
+     "label": "Newcastle drew 1-1"
+    }
+   ]
+  }
+ }
+}

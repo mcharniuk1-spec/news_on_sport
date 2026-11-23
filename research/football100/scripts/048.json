@@ -1,0 +1,94 @@
+{
+ "no": 48,
+ "subject": "Joey Saputo puts CF Montreal up for sale after 34 years of family ownership",
+ "title": "Montreal for sale, no price on the tag",
+ "voice": "kokoro",
+ "comic": false,
+ "style": null,
+ "lines": [
+  {
+   "vo": "Thirty-four years of ownership, and now CF Montreal are up for sale.",
+   "card": "Montreal for sale",
+   "sfx": null,
+   "footage": "CF Montreal Saputo sale news, Stade Saputo exterior"
+  },
+  {
+   "vo": "Joey Saputo says it is time to find new ownership. The family has owned the club since nineteen ninety-two.",
+   "card": "Owned since 1992",
+   "sfx": null,
+   "footage": "Joey Saputo press conference, CF Montreal"
+  },
+  {
+   "vo": "Montreal finished last in the East, with twenty-six points. Six wins in thirty-four games. Not the glossiest sales brochure.",
+   "card": "Six wins, 34 games",
+   "sfx": null,
+   "footage": "CF Montreal highlights 2026, Eastern Conference table"
+  },
+  {
+   "vo": "They fired Marco Donadel in April, their eleventh manager in fourteen seasons. Some people change phones less often.",
+   "card": "Eleventh manager",
+   "sfx": null,
+   "footage": "Marco Donadel CF Montreal sideline, press conference"
+  },
+  {
+   "vo": "Saputo prefers a local buyer, but may accept a relocation offer. Plan A, and a very polite Plan B.",
+   "card": "Very polite Plan B",
+   "sfx": "short whistle",
+   "footage": "Montreal fans and stadium, Saputo interview clip"
+  },
+  {
+   "vo": "BMO Capital Markets and National Bank Financial are advising. No price has been given. Plenty of bankers, no number.",
+   "card": "No price given",
+   "sfx": null,
+   "footage": "CF Montreal Saputo sale, business news graphic"
+  },
+  {
+   "vo": "Last in the table, eleven managers, one for-sale sign. Montreal do like a theme.",
+   "card": "Montreal like a theme",
+   "sfx": null,
+   "footage": "Stade Saputo exterior, skyline"
+  },
+  {
+   "vo": "Want the next story before it breaks? Betting tips, news and predictions at aboutfootball dot UK.",
+   "card": "aboutfootball.UK",
+   "sfx": null,
+   "footage": "end card"
+  }
+ ],
+ "chars": 806,
+ "est_seconds": 46,
+ "footage_terms": [
+  "CF Montreal Saputo sale",
+  "CF Montreal highlights 2026",
+  "Joey Saputo press conference",
+  "CF Montreal Stade Saputo"
+ ],
+ "inserts": [
+  {
+   "after_line": 0,
+   "story": "A cartoon owner plants a big For Sale sign on a stadium roof. Gag: the sign's price tag is blank and he scratches his head. Twist: a tiny question mark floats out of the tag and takes a seat.",
+   "characters": "generic cartoon owner",
+   "seconds": 2
+  },
+  {
+   "after_line": 2,
+   "story": "A cartoon revolving door spins out coach after coach in identical tracksuits. Gag: the door spins faster and faster until the coaches blur. Twist: a stack of eleven name tags falls out of the door in a heap.",
+   "characters": "generic cartoon coaches in a revolving door",
+   "seconds": 2
+  },
+  {
+   "after_line": 3,
+   "story": "A cartoon owner packs a stadium into a rolling suitcase. Gag: the stadium's roof sticks out and he sits on the case to close it. Twist: the suitcase grows wheels and rolls away with the owner holding on.",
+   "characters": "generic cartoon owner and suitcase",
+   "seconds": 2
+  }
+ ],
+ "facts_used": [
+  "Joey Saputo said 9 November it is time to find new ownership; prefers a local buyer but may accept a relocation offer; BMO Capital Markets and National Bank Financial advising; no price given (ev0042)",
+  "Montreal finished last in the East in 2026 with 26 points and six wins in 34 games (ev0042)",
+  "Fired coach Marco Donadel in April, its 11th manager in 14 seasons (ev0042)",
+  "The Saputo family has owned the club since the Impact's founding in 1992 (ev0042)"
+ ],
+ "comic_score": 5,
+ "notes": "Non-comic, 0 inserts, kokoro. Family ownership is stated as a fact only, with no joke on the family. Jokes target results and the managerial turnover. Relocation remark is the report's own wording, kept as a hint, not a threat. 'Eleventh manager in fourteen seasons' as in ev0042."
+}

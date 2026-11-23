@@ -1,0 +1,89 @@
+{
+ "no": 44,
+ "subject": "Thomas Frank named Palace manager on a three-year deal, with Spurs coffee-cup saga in tow",
+ "title": "Frank's new job, same coffee cup",
+ "voice": "EL_C",
+ "comic": true,
+ "style": "looney_slapstick",
+ "lines": [
+  {
+   "vo": "Palace's new boss has a three-year deal and a coffee problem.",
+   "card": "Coffee problem",
+   "sfx": null,
+   "footage": "Thomas Frank Crystal Palace appointed announcement"
+  },
+  {
+   "vo": "Thomas Frank's contract runs to June twenty twenty-nine. Palace sit bottom, and he starts away at Coventry.",
+   "card": "Bottom of the league",
+   "sfx": null,
+   "footage": "Crystal Palace Premier League table, Coventry highlights"
+  },
+  {
+   "vo": "In January, as Spurs boss, he was photographed with an Arsenal cup.",
+   "card": "Arsenal cup",
+   "sfx": null,
+   "footage": "Thomas Frank Arsenal cup Tottenham"
+  },
+  {
+   "vo": "He had said drinking a rival's cup on purpose would be absolutely stupid.",
+   "card": "Absolutely stupid",
+   "sfx": "short cartoon boing",
+   "footage": "Frank press conference, Tottenham"
+  },
+  {
+   "vo": "Spurs sacked him in February, after under eight months. Some cups last longer.",
+   "card": "Cups last longer",
+   "sfx": null,
+   "footage": "Tottenham Frank sacked news clip"
+  },
+  {
+   "vo": "Now he hopes not to be pictured with another rival's cup. Plain bottle at Coventry, then.",
+   "card": "Plain bottle only",
+   "sfx": null,
+   "footage": "Thomas Frank Crystal Palace press conference, Coventry City stadium"
+  },
+  {
+   "vo": "Your mates will never guess this. Match news and betting tips at aboutfootball dot UK.",
+   "card": "aboutfootball.UK",
+   "sfx": null,
+   "footage": "end card"
+  }
+ ],
+ "chars": 561,
+ "est_seconds": 32,
+ "footage_terms": [
+  "Thomas Frank Arsenal cup Tottenham",
+  "Thomas Frank Crystal Palace appointed",
+  "Crystal Palace Coventry highlights",
+  "Thomas Frank press conference Palace"
+ ],
+ "inserts": [
+  {
+   "after_line": 2,
+   "story": "Setup: a cartoon Frank poses for a photo holding a mug with a tiny red-and-white flag. Gag: the mug shrieks like a kettle and the flag pops up like a periscope. Twist: he hides it in his coat, and a hundred identical mugs march out of the other sleeve.",
+   "characters": "Generic cartoon photographer; caricature of Thomas Frank",
+   "seconds": 2
+  },
+  {
+   "after_line": 3,
+   "story": "Setup: a cartoon Frank walks into a press room with a very plain water bottle, held up like a trophy. Gag: every cartoon reporter leans in and squints at the label. Twist: the label reads 'Not a cup', and the bottle grows a handle.",
+   "characters": "Generic cartoon reporters; caricature of Thomas Frank",
+   "seconds": 2
+  },
+  {
+   "after_line": 4,
+   "story": "Setup: a cartoon Frank gets a stopwatch from a cartoon club director: 'Under eight months.' Gag: the stopwatch hits zero and a mug-shaped alarm clock explodes in his face. Twist: the steam clears and he is wearing a tiny cardboard crown that says 'Cup holder'.",
+   "characters": "Generic cartoon club director; caricature of Thomas Frank",
+   "seconds": 2
+  }
+ ],
+ "facts_used": [
+  "Palace appointed Thomas Frank on a three-year contract to June 2029 after sacking Pierre Sage (ev0002)",
+  "Palace are bottom of the Premier League; his first game is away at Coventry on Saturday 21 November (ev0002)",
+  "In January, as Spurs manager, Frank was photographed with an Arsenal-branded cup before a loss to Bournemouth; he said drinking a rival's cup deliberately would be absolutely stupid (ev0002)",
+  "Spurs sacked Frank in February after under eight months (ev0002 background)",
+  "Frank says he hopes not to be pictured with another rival's cup (ev0002)"
+ ],
+ "comic_score": 7,
+ "notes": "Comic, 3 inserts (zero-based after_line), EL 600-char limit. Jokes only on the cup photo and the sacking timeline. 'Some cups last longer' is a joke on the 'under eight months' fact, no claim beyond it. Insert characters are generic cartoons and a caricature, no franchise characters, no logos. Data note: ESPN and Palace release used; Frank's age and personal matters are not used."
+}

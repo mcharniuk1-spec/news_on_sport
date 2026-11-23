@@ -1,0 +1,55 @@
+{
+  "no": 62,
+  "subject": "Vinicius admits poor preparation after the World Cup; Mourinho says he shouldn't have said it but values honesty",
+  "title": "Vinicius blames the World Cup. Mourinho disagrees.",
+  "voice": "EL_C",
+  "comic": false,
+  "style": null,
+  "lines": [
+    {
+      "vo": "Vinicius blames his slow start on the World Cup. Mourinho disagrees.",
+      "card": "Blame the World Cup",
+      "footage": "Vinicius press conference clip, Singapore, close-up"
+    },
+    {
+      "vo": "Real Madrid's winger has one league goal in eight games. He lost his starting place to new signing Yan Diomande.",
+      "card": "One goal in eight",
+      "footage": "Real Madrid bench shot, Vinicius sitting, then a pitch shot"
+    },
+    {
+      "vo": "In Singapore he said he trained less after the tournament. He felt overwhelmed by summer transfer talk. Honest, at least.",
+      "card": "Trained less",
+      "footage": "Vinicius training session clip, Real Madrid ground"
+    },
+    {
+      "vo": "Mourinho said he should not have said it. But he does not criticise honesty.",
+      "card": "Honesty, not excuses",
+      "footage": "Mourinho press conference clip, arms folded"
+    },
+    {
+      "vo": "His message is simple: win your place back. The honesty gets a thumbs up. The excuse does not.",
+      "card": "Win the place back",
+      "footage": "Vinicius dribbling clip, Real Madrid home match"
+    },
+    {
+      "vo": "Your mates will never guess this. Match news and betting tips at aboutfootball dot UK.",
+      "card": "aboutfootball.UK",
+      "footage": "Channel end card, neutral background"
+    }
+  ],
+  "chars": 557,
+  "est_seconds": 33,
+  "footage_terms": [
+    "Vinicius Junior press conference Singapore",
+    "Mourinho Vinicius press conference Real Madrid",
+    "Vinicius Junior Real Madrid goals 2026"
+  ],
+  "inserts": [],
+  "facts_used": [
+    "Vinicius said at a Singapore press conference on 16 November that he trained less after the World Cup and felt overwhelmed by summer transfer talk (news id 13, espn.com/soccer/story/_/id/50539637)",
+    "Vinicius has one LaLiga goal in eight games and lost his starting spot to new signing Yan Diomande (news id 13)",
+    "Mourinho said Vinicius shouldn't have said it, does not criticise honesty, and told him to win back his place (news id 13)"
+  ],
+  "comic_score": 4,
+  "notes": "Non-comic, so no inserts. Quotes are paraphrased. The red card and ban are not used as joke material. The joke rests on the honesty and the one-goal-in-eight stat. Real Madrid versus Celta Vigo timing not stated in the script."
+}

@@ -1,0 +1,93 @@
+{
+ "no": 83,
+ "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/083_bayern_reportedly_still_chasing_live.mp4",
+ "total": 37.266666666666666,
+ "outro_start": 32.0,
+ "cover": true,
+ "seq": [
+  {
+   "id": "s01",
+   "kind": "HOOK",
+   "start": 0.1,
+   "end": 1.6,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/083/s01.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s02",
+   "kind": "COMIC1",
+   "start": 4.566666666666666,
+   "end": 6.566666666666666,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/083/s02.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s03",
+   "kind": "NEWS",
+   "start": 8.966666666666667,
+   "end": 10.733333333333333,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/083/s03.mp4",
+   "clip_dur": 1.767,
+   "frames": 42
+  },
+  {
+   "id": "s04",
+   "kind": "COMIC2",
+   "start": 12.466666666666667,
+   "end": 14.466666666666667,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/083/s04.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s05",
+   "kind": "INTERVIEW",
+   "start": 21.566666666666666,
+   "end": 23.333333333333332,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/083/s05.mp4",
+   "clip_dur": 1.767,
+   "frames": 42
+  },
+  {
+   "id": "s06",
+   "kind": "PROVOC",
+   "start": 25.533333333333335,
+   "end": 27.033333333333335,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/083/s06.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s07",
+   "kind": "STATS",
+   "start": 29.3,
+   "end": 30.8,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/083/s07.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  }
+ ],
+ "missing": [],
+ "dropped": [],
+ "cards": [
+  {
+   "text": "Liverpool say no",
+   "a": 19.0,
+   "b": 21.2
+  }
+ ],
+ "caption_sprites": 98,
+ "whoosh": [
+  0.0,
+  4.466666666666667,
+  8.866666666666667,
+  12.366666666666667,
+  21.466666666666665,
+  25.433333333333334,
+  29.2,
+  31.9
+ ],
+ "shots": 12
+}

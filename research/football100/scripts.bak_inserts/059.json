@@ -1,0 +1,82 @@
+{
+ "no": 59,
+ "subject": "Fleetwood Town knock Arsenal out of the Carabao Cup on penalties",
+ "title": "Fleetwood's penalty shootout upset",
+ "voice": "EL_B",
+ "comic": true,
+ "style": "looney_slapstick",
+ "lines": [
+  {
+   "vo": "The Premier League champions lost to League Two Fleetwood. Yes, really.",
+   "card": "League Two beats Arsenal",
+   "sfx": "boing",
+   "footage": "Fleetwood Town Arsenal penalties highlights"
+  },
+  {
+   "vo": "One-one, then Fleetwood won the shootout five-three.",
+   "card": "Shootout 5-3",
+   "footage": "Fleetwood 1-1 Arsenal Carabao Cup"
+  },
+  {
+   "vo": "Their winner, nineteen-year-old Conor Haughey, had never practised a penalty. Imagine if he had.",
+   "card": "Never practised penalties",
+   "footage": "Conor Haughey penalty Fleetwood Arsenal"
+  },
+  {
+   "vo": "Jay Lynch saved Bruno Guimaraes' penalty. Fleetwood had a hero at each end.",
+   "card": "Lynch saves",
+   "footage": "Fleetwood vs Arsenal penalty shootout highlights"
+  },
+  {
+   "vo": "Max Dowman was sent off in the eighty-fifth minute. Arteta said a drone stopped play for eight minutes.",
+   "card": "A drone, eight minutes",
+   "footage": "Fleetwood Arsenal drone stoppage"
+  },
+  {
+   "vo": "ESPN says no champion had lost a League Cup tie to a fourth-tier side. The drone did not help.",
+   "card": "First time ever",
+   "footage": "Arteta reaction Fleetwood defeat"
+  },
+  {
+   "vo": "Your mates will never see this coming. Betting tips and predictions at aboutfootball dot UK.",
+   "card": "aboutfootball.uk",
+   "footage": "football100 end card"
+  }
+ ],
+ "chars": 583,
+ "est_seconds": 32,
+ "footage_terms": [
+  "Fleetwood Town Arsenal penalties highlights",
+  "Conor Haughey penalty Fleetwood Arsenal",
+  "Arteta reaction Fleetwood defeat",
+  "Fleetwood vs Arsenal penalty shootout highlights"
+ ],
+ "inserts": [
+  {
+   "after_line": 2,
+   "story": "Setup: a cartoon coach unrolls a giant 'PENALTY PRACTICE' timetable for a kid in a Fleetwood shirt. Gag: the kid folds it into a paper plane and flies it out of the window. Twist: the plane lands in the goal, the net bulges, and the cartoon crowd cheers it like a winner.",
+   "characters": "generic cartoon coach; generic cartoon kid; no real faces",
+   "seconds": 3
+  },
+  {
+   "after_line": 4,
+   "story": "Setup: a caricature Arteta points at a tiny cartoon drone buzzing over the pitch. Gag: a cartoon referee chases it with a butterfly net and ties himself to a goalpost. Twist: the drone lands on the ball, takes a bow, and gets a yellow card.",
+   "characters": "caricature Arteta in cartoon style; cartoon referee; cartoon drone",
+   "seconds": 3
+  },
+  {
+   "after_line": 5,
+   "story": "Setup: a cartoon trophy cabinet holds a gleaming Premier League shaped trophy. Gag: a cartoon cleaner dusts it and the trophy drops into his bucket labelled 'Carabao'. Twist: a cartoon Fleetwood fan fishes it out and polishes it with his scarf.",
+   "characters": "generic cartoon cleaner; generic cartoon fan; trophy prop",
+   "seconds": 3
+  }
+ ],
+ "facts_used": [
+  "ev0083: League Two Fleetwood drew 1-1 with Arsenal and won the fourth-round shootout 5-3 (news/news_dedup.json)",
+  "ev0083: Conor Haughey, 19, scored the winner without having practised penalties; Jay Lynch saved Bruno Guimaraes' penalty (news/news_dedup.json)",
+  "ev0083: Arsenal's Max Dowman was sent off in the 85th minute; ESPN says it is the first time a Premier League champion has lost a League Cup tie to a fourth-tier side (news/news_dedup.json)",
+  "ev0083: Arteta said later that a drone stopped the match for eight minutes (news/news_dedup.json)"
+ ],
+ "comic_score": 9,
+ "notes": "Comic (looney_slapstick). The ESPN match page gives conflicting goalscorer data, so the script does not name who scored first. The drone line is Arteta's claim, attributed in the voice line. Dowman's red card is in the facts; no injury or health joke. Insert after_line is 0-based. Check the 600-char limit after writing. Punch-up pass: 'Premier League champions' is the ESPN framing; the drone is Arteta's claim and stays attributed. Guimaraes line now says Lynch saved, same fact. No injury or health gags (Dowman red card only). 'Hero at each end' rests on Haughey scoring and Lynch saving."
+}

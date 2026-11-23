@@ -1,0 +1,96 @@
+{
+  "no": 23,
+  "subject": "Rodri",
+  "title": "Rodri: the hesitation that made Madrid walk away",
+  "voice": "EL_B",
+  "comic": true,
+  "style": "us_comic_book",
+  "lines": [
+    {
+      "vo": "How long can a midfielder hesitate before Real Madrid walks away?",
+      "card": "Madrid walked away",
+      "sfx": null,
+      "footage": "Rodri in a Manchester City shirt, close-up, calm face"
+    },
+    {
+      "vo": "Rodri joined Barcelona this summer. Pure soap opera.",
+      "card": "Summer soap opera",
+      "sfx": null,
+      "footage": "Rodri arriving at Barcelona, training ground, clean club footage"
+    },
+    {
+      "vo": "Mourinho says Rodri hesitated, and Madrid dropped out. A midfielder who thinks first. Scandal.",
+      "card": "Hesitation",
+      "sfx": "record scratch",
+      "footage": "Mourinho press conference, speaking, no logos burned in"
+    },
+    {
+      "vo": "His debut came off the bench: 'I am where I want to be.' No hesitation.",
+      "card": "Debut quote",
+      "sfx": null,
+      "footage": "Rodri debut against Athletic Club, 62nd minute substitution, Camp Nou"
+    },
+    {
+      "vo": "Fifty-one days later, a header at Real Betis. Slow start, good finish.",
+      "card": "Fifty-one days",
+      "sfx": "goal horn",
+      "footage": "Rodri header goal at Real Betis, corner kick, clean match feed"
+    },
+    {
+      "vo": "Two years after his Ballon d'Or: fourth, behind Kane, Mbappé and Yamal.",
+      "card": "Fourth place",
+      "sfx": null,
+      "footage": "Ballon d'Or 2026 ceremony, London Palladium, podium shot"
+    },
+    {
+      "vo": "ESPN's November top ten: Yamal, his new teammate, first. Rodri nowhere. Hesitated again?",
+      "card": "Not in top ten",
+      "sfx": null,
+      "footage": "ESPN top-ten graphic or a Yamal dribbling clip, no logos"
+    },
+    {
+      "vo": "Can you call the next one? Betting tips, news and predictions at aboutfootball dot UK.",
+      "card": "aboutfootball.UK",
+      "sfx": null,
+      "footage": "Closing card with site name, no footage"
+    }
+  ],
+  "chars": 597,
+  "est_seconds": 35,
+  "footage_terms": [
+    "Rodri Barcelona debut Athletic Club 2026 highlights",
+    "Rodri goal Real Betis Barcelona 5-2 2026",
+    "Ballon d'Or 2026 London Palladium ceremony",
+    "Rodri Barcelona training Flick 2026"
+  ],
+  "inserts": [
+    {
+      "after_line": 2,
+      "story": "Setup: a cartoon Real Madrid boardroom with a giant 'OFFER' sign. Gag: a caricature Rodri sits inside a cartoon hourglass, thinking, while the sand barely moves. Twist: when he finally stands up, the hourglass has turned into a blaugrana scarf.",
+      "characters": "Caricature of Rodri (short dark hair, serious face, no photo); generic cartoon coach; generic fans",
+      "seconds": 2
+    },
+    {
+      "after_line": 4,
+      "story": "Setup: a comic stadium panel with a 'FIRST GOAL' banner. Gag: a caricature Rodri's header sends a calendar page flying, labelled 'DAY 51'. Twist: the page lands on the bench, where a cartoon coach is calmly writing the next date.",
+      "characters": "Caricature of Rodri (no photo); generic cartoon coach and fans",
+      "seconds": 2
+    },
+    {
+      "after_line": 5,
+      "story": "Setup: a cartoon podium with four steps. Gag: a caricature Rodri stands on the fourth step holding a tiny trophy and thinking very hard. Twist: a cartoon voter holds up a sign reading 'Pass', and Rodri takes a full second to decide whether to read it.",
+      "characters": "Caricature of Rodri (no photo); generic cartoon voters",
+      "seconds": 2
+    }
+  ],
+  "facts_used": [
+    "Rodri to Barcelona until June 2030, announced 18 Aug 2026 - https://www.fcbarcelona.com/en/football/first-team/news/4561501/fc-barcelona-sign-rodrigo-hernandez",
+    "Mourinho says Madrid made a very good offer, Rodri hesitated and Madrid dropped out (his claim, not established fact) - https://en.wikipedia.org/wiki/Rodri (Guardian page blocked)",
+    "Debut 27 Aug 2026, 62nd-minute sub v Athletic, 'I am where I want to be' - https://www.fcbarcelona.com/en/football/first-team/news/4567837/rodri-debuts-with-a-win-for-fc-barcelona",
+    "First Barcelona goal, header v Real Betis 17 Oct 2026, 51 days after debut - https://en.wikipedia.org/wiki/2026%E2%80%9327_FC_Barcelona_season (single-source medium confidence)",
+    "Ballon d'Or 26 Oct 2026: Kane 1,055, Mbappe 1,027, Yamal 3rd, Rodri 4th with 726 points - https://en.wikipedia.org/wiki/2026_Ballon_d%27Or",
+    "ESPN November top ten: Yamal 1st, Rodri not in the list - https://www.espn.com/soccer/story/_/id/50454088/10-best-ranking-top-soccer-players-november"
+  ],
+  "comic_score": 7,
+  "notes": "Mourinho quote rests on Wikipedia only (Guardian blocked): attributed as his claim, not established fact. The 'scandal' and 'hesitated again' lines are jokes, not claims. Injury (4 Nov hamstring) and the Villarreal availability are not used. Rodri's involvement in the Clasico and Spain games is unverified, so none is mentioned. Last vo now says it is ESPN's November list. Insert after_line values are 0-based."
+}

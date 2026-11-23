@@ -1,0 +1,648 @@
+[
+  {
+    "headline": "Kane signs new Bayern deal to 2029 weeks after winning the Ballon d'Or",
+    "date": "2026-11-05",
+    "source_domain": "skysports.com",
+    "url": "https://www.skysports.com/football/news/13608255/harry-kane-england-captain-signs-new-contract-at-bayern-munich-running-until-2029",
+    "entities": ["Harry Kane", "Bayern Munich", "Vincent Kompany"],
+    "facts": [
+      "Bayern announced on 5 November 2026 that Kane's contract now runs to summer 2029.",
+      "Sky in Germany reported a salary of at least about 25 million euros gross per year; no release clause was mentioned.",
+      "Kane, 33, has 156 goals in 161 games for Bayern since joining from Tottenham in 2023."
+    ],
+    "background": "Kane left Tottenham in 2023 without winning a trophy there; at Bayern he has won two Bundesliga titles, the German Cup and the German Super Cup.",
+    "angle": "business",
+    "sensitive": false,
+    "footage_terms": ["Harry Kane new contract Bayern Munich", "Kane Bayern 2029 interview", "Harry Kane Bayern goals compilation"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Harry Kane wins the 2026 Ballon d'Or, first Englishman in 25 years",
+    "date": "2026-10-26",
+    "source_domain": "skysports.com",
+    "url": "https://www.skysports.com/football/news/13602662/harry-kane-wins-ballon-dor-bayern-munich-striker-completes-cinderella-story-from-efl-loans-to-worlds-best-player",
+    "entities": ["Harry Kane", "Kylian Mbappe", "Lamine Yamal", "Bayern Munich"],
+    "facts": [
+      "Kane scored 73 goals for club and country last season, 61 of them for Bayern.",
+      "He is only the fifth Englishman to win the award and the first in 25 years.",
+      "ESPN reports he beat Kylian Mbappe and Lamine Yamal and is Bayern's fourth Ballon d'Or winner after Beckenbauer, Muller and Rummenigge."
+    ],
+    "background": "Kane started out with forgettable loan spells in the lower English leagues before becoming Tottenham's all-time top scorer, yet he never won a trophy at Spurs.",
+    "angle": "record",
+    "sensitive": false,
+    "footage_terms": ["Ballon d'Or 2026 Harry Kane wins", "Harry Kane Ballon d'Or speech", "Kane Ballon d'Or reaction Bayern"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Kane parades Ballon d'Or, then misses a penalty as Dortmund snatch a 2-2 draw in Der Klassiker",
+    "date": "2026-10-31",
+    "source_domain": "skysports.com",
+    "url": "https://www.skysports.com/football/bayern-vs-dortmund/report/563377",
+    "entities": ["Harry Kane", "Fabio Silva", "Bayern Munich", "Borussia Dortmund", "Konrad Laimer", "Dayot Upamecano", "Serhou Guirassy"],
+    "facts": [
+      "Bayern 2-2 Dortmund on 31 October 2026 at the Allianz Arena; Laimer (38') and Upamecano (66') scored for Bayern, Guirassy (60') and Silva (89') for Dortmund.",
+      "Kane showed the Ballon d'Or to fans before kick-off, then hit the crossbar with a 57th-minute penalty and was dispossessed before Guirassy's goal.",
+      "Both clubs stayed unbeaten and level on points at the top of the Bundesliga; Gnabry and Saibari went off injured for Bayern."
+    ],
+    "background": "Bayern beat Dortmund 3-2 in the previous league meeting in February 2026 with a Kane brace and a late Kimmich volley.",
+    "angle": "scandal",
+    "sensitive": false,
+    "footage_terms": ["Bayern Dortmund 2-2 highlights Klassiker", "Kane penalty miss Dortmund", "Fabio Silva equaliser Bayern Dortmund"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Kane's Munich homecoming: guard of honour, a golden schnitzel joke and a knighthood question",
+    "date": "2026-10-29",
+    "source_domain": "skysports.com",
+    "url": "https://www.skysports.com/football/news/13605214/harry-kane-s-ballon-d-or-homecoming-with-bayern-munich-shows-why-germany-has-fallen-in-love-with-england-s-captain",
+    "entities": ["Harry Kane", "Uli Hoeness", "Lothar Matthaus", "Bayern Munich"],
+    "facts": [
+      "Kane did not play in the 6-1 cup win over Magdeburg but received a guard of honour and fan chants at the Allianz Arena.",
+      "He said his children played with the Ballon d'Or trophy and that being called 'Sir' would feel odd; he said he would not turn down a knighthood.",
+      "Former Bayern president Uli Hoeness first called the transfer fee crazy but now says he would have paid 150 million euros for Kane."
+    ],
+    "background": "Hoeness, long Bayern's club president, was among those who doubted the size of Kane's 2023 fee when Bayern signed him from Tottenham.",
+    "angle": "viral",
+    "sensitive": false,
+    "footage_terms": ["Kane Ballon d'Or guard of honour Bayern", "Kane golden schnitzel", "Harry Kane knighthood interview"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Bayern coach Kompany collapses at training, treated for meningeal irritation",
+    "date": "2026-10-23",
+    "source_domain": "skysports.com",
+    "url": "https://www.skysports.com/football/news/13605014/vincent-kompany-bayern-munich-head-coach-discharged-from-hospital-after-collapsing-at-training",
+    "entities": ["Vincent Kompany", "Max Eberl", "Aaron Danks", "Bayern Munich"],
+    "facts": [
+      "Kompany collapsed at the training ground on Friday 23 October during a second-team session; Max Eberl said the cause was meningeal irritation.",
+      "He had missed duties earlier that week with a viral infection and was discharged from hospital on 28 October.",
+      "Assistant coach Aaron Danks took charge of the team during his absence."
+    ],
+    "background": "Kompany took over at Bayern in 2024 after relegation with Burnley, a hire that Karl-Heinz Rummenigge says he first doubted before Pep Guardiola backed him.",
+    "angle": "coach",
+    "sensitive": true,
+    "footage_terms": ["Vincent Kompany Bayern press conference", "Kompany Bayern collapse training update", "Aaron Danks Bayern press conference"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Kompany returns to the Bayern touchline for Cologne after five games away",
+    "date": "2026-11-19",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50530204/vincent-kompany-good-health-bayern-munich-collapse",
+    "entities": ["Vincent Kompany", "Aaron Danks", "Bayern Munich", "Cologne"],
+    "facts": [
+      "Kompany is set to coach Bayern against Cologne on 20 November after missing five games; he says his tests are clear.",
+      "Under Danks Bayern stayed unbeaten across those five games, including a 2-0 win at Atletico Madrid that Kompany called a highlight of his coaching career.",
+      "Bundesliga.com notes he still wore a sling for a shoulder injury at Thursday's press conference."
+    ],
+    "background": "Kompany captained Manchester City under Pep Guardiola, who now praises him as a natural coach.",
+    "angle": "coach",
+    "sensitive": true,
+    "footage_terms": ["Kompany return Bayern Cologne press conference", "Vincent Kompany good health interview", "Bayern Cologne Kompany back"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Arsenal fight back to draw 2-2 at Bayern in the Champions League",
+    "date": "2026-10-21",
+    "source_domain": "skysports.com",
+    "url": "https://www.skysports.com/football/bayern-vs-arsenal/report/577643",
+    "entities": ["Bayern Munich", "Arsenal", "Declan Rice", "Eberechi Eze", "Alphonso Davies", "Harry Kane", "Manuel Neuer"],
+    "facts": [
+      "Eze (25') and Rice (82') scored for Arsenal; Davies (35') and a Kane penalty (61') scored for Bayern.",
+      "Eze's goal was first ruled offside, then VAR found him onside; Kane's penalty followed a handball by Jurrien Timber.",
+      "Bayern were without the suspended Michael Olise; Neuer made a late save to keep the point."
+    ],
+    "background": "Kane scored his 16th goal in 22 appearances against Arsenal in this match, a record carried over from his Tottenham years.",
+    "angle": "win",
+    "sensitive": false,
+    "footage_terms": ["Bayern Arsenal 2-2 highlights Champions League", "Declan Rice equaliser Bayern", "Kane penalty Arsenal Bayern"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Viking 3-3 Bayern: Norwegian side lead twice, Olise sent off for two quick yellows",
+    "date": "2026-10-13",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/match/_/gameId/401915411",
+    "entities": ["Viking FK", "Bayern Munich", "Harry Kane", "Luis Diaz", "Michael Olise"],
+    "facts": [
+      "Viking led 2-0 by half-time; Kane scored a penalty and a header, then Diaz and Olise put Bayern 3-2 up.",
+      "Olise was booked twice in quick succession and Bayern played the rest with ten men.",
+      "Herman Haugen headed Viking's late equaliser in the 90th minute in Stavanger."
+    ],
+    "background": "Bayern started this Champions League league phase with a 5-0 win at Bodo/Glimt, another Norwegian side, on 10 September.",
+    "angle": "scandal",
+    "sensitive": false,
+    "footage_terms": ["Viking Bayern 3-3 highlights", "Olise red card Viking Bayern", "Viking FK Bayern Munich Champions League"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Bayern thrash Leipzig 6-1 as Luis Diaz scores a hat-trick",
+    "date": "2026-10-17",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/match/_/gameId/401884772",
+    "entities": ["Bayern Munich", "RB Leipzig", "Luis Diaz", "Harry Kane", "Michael Olise"],
+    "facts": [
+      "Bayern won 6-1 at the Allianz Arena on 17 October; Diaz scored three, with Pavlovic, Olise and Kane adding one each per ESPN's scorer list.",
+      "Leipzig's only goal came in stoppage time.",
+      "The result moved Bayern back to the top of the Bundesliga."
+    ],
+    "background": "Luis Diaz joined Bayern from Liverpool in 2025, where he had been a regular goalscorer on the left wing.",
+    "angle": "win",
+    "sensitive": false,
+    "footage_terms": ["Bayern Leipzig 6-1 highlights", "Luis Diaz hat trick Bayern", "Bundesliga Bayern Leipzig goals"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Augsburg score within seconds at Bayern, who escape with a 2-2 draw",
+    "date": "2026-10-10",
+    "source_domain": "skysports.com",
+    "url": "https://www.skysports.com/football/video/13597567/augsburg-vs-bayern-munich-bundesliga-highlights",
+    "entities": ["Augsburg", "Bayern Munich", "Robin Fellhauer", "Manuel Neuer", "Ismael Saibari", "Nathaniel Brown"],
+    "facts": [
+      "Sky's highlights headline says Bayern fell behind after just six seconds before escaping a scare.",
+      "ESPN lists the match as 2-2 on 10 October, with Fellhauer scoring in the first minute after a Neuer mistake.",
+      "Saibari (55') and Nathaniel Brown (80') scored for Bayern."
+    ],
+    "background": "Manuel Neuer has been Bayern's goalkeeper since 2011 and is credited by Rummenigge as the origin of the modern sweeper-keeper game.",
+    "angle": "viral",
+    "sensitive": false,
+    "footage_terms": ["Augsburg Bayern 2-2 highlights", "Fellhauer fastest goal Bundesliga", "Neuer mistake Augsburg Bayern"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Atletico 0-2 Bayern in Madrid as Karl chips Oblak, with Kompany still away",
+    "date": "2026-11-03",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/match/_/gameId/401915386",
+    "entities": ["Bayern Munich", "Atletico Madrid", "Lennart Karl", "Konrad Laimer", "Harry Kane", "Aaron Danks"],
+    "facts": [
+      "Karl scored in the 54th minute by chipping Jan Oblak; Laimer added a second in the 74th minute from a lofted Kane pass.",
+      "Atletico's expected goals were 0.83 against Bayern's 1.77.",
+      "Assistant Aaron Danks was in charge while Kompany recovered."
+    ],
+    "background": "Karl came through Bayern's youth system and became the youngest player to score in three consecutive Champions League games last season.",
+    "angle": "win",
+    "sensitive": false,
+    "footage_terms": ["Atletico Madrid Bayern 0-2 highlights", "Lennart Karl chip Oblak", "Laimer goal Atletico Bayern"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Kane sets up both goals in 2-1 win at Mainz but is stuck in a four-game goal drought",
+    "date": "2026-11-07",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/report/_/gameId/401884740",
+    "entities": ["Harry Kane", "Joshua Kimmich", "Lennart Karl", "Mainz", "Bayern Munich"],
+    "facts": [
+      "Mainz 1-2 Bayern on 7 November: Kimmich (14') and Karl (57') scored from Kane assists; Tietz scored for Mainz in stoppage time.",
+      "Sky says Kane has gone four games without a goal, which has happened only once before in his Bayern career, while his eight Bundesliga assists lead the league.",
+      "Bundesliga.com reports Manuel Neuer injured his foot at Mainz and remains out."
+    ],
+    "background": "Kane built his name as a pure goalscorer but has reinvented himself as a deep-lying playmaker, a change he credits partly to Jose Mourinho's freedom at Tottenham.",
+    "angle": "record",
+    "sensitive": false,
+    "footage_terms": ["Mainz Bayern 1-2 highlights", "Kane assists Kimmich Karl Mainz", "Bundesliga Kane assist king"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Davies tears left hamstring on Canada duty and misses Cologne",
+    "date": "2026-11-16",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50502622/bayern-munich-alphonso-davies-hamstring-injury-canada",
+    "entities": ["Alphonso Davies", "Canada", "Bayern Munich"],
+    "facts": [
+      "Bayern confirmed on 16 November that Davies has a minor tear in his left hamstring.",
+      "He captained Canada against Guatemala and went off after about six to seven minutes in a 3-2 win.",
+      "He is expected to miss several games, including the Cologne match on 20 November."
+    ],
+    "background": "Davies joined Bayern from Vancouver Whitecaps in 2019 and has played 15 matches in all competitions this season.",
+    "angle": "history",
+    "sensitive": true,
+    "footage_terms": ["Alphonso Davies Canada Guatemala", "Alphonso Davies Bayern injury update", "Alphonso Davies goal Arsenal Bayern"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Bayern injury list grows: Diaz, Gnabry, Saibari and Neuer all out",
+    "date": "2026-11-12",
+    "source_domain": "bundesliga.com",
+    "url": "https://www.bundesliga.com/en/bundesliga/news/luis-diaz-bayern-munich-injury-comeback-musiala-kompany-neuer-39982",
+    "entities": ["Luis Diaz", "Jamal Musiala", "Serge Gnabry", "Ismael Saibari", "Manuel Neuer", "Bayern Munich"],
+    "facts": [
+      "Diaz tore a muscle against Arsenal on 21 October and was back in parts of team training on 12 November.",
+      "Saibari had right ankle surgery and Gnabry a hamstring injury after the 2-2 draw with Dortmund.",
+      "Musiala trained alongside Diaz while recovering from a muscle injury; Neuer is out with a foot injury."
+    ],
+    "background": "Musiala said in August that he has treatable absence seizures and chose to keep playing after neurologists cleared him.",
+    "angle": "business",
+    "sensitive": true,
+    "footage_terms": ["Luis Diaz Bayern training return", "Bayern injury news Kompany", "Jamal Musiala Bayern training"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Real Madrid still tracking Bayern's Olise, L'Equipe reports",
+    "date": "2026-11-13",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50469742/transfer-rumors-news-man-united-balogun-freeman-pochettino",
+    "entities": ["Michael Olise", "Real Madrid", "Bayern Munich"],
+    "facts": [
+      "ESPN, citing L'Equipe, says Real Madrid remain interested in Olise after being linked with him in the summer.",
+      "Several top European clubs reportedly want him next summer, when he will have two years left on his Bayern contract.",
+      "This is a rumour; no bid or agreement has been reported."
+    ],
+    "background": "Olise joined Bayern from Crystal Palace in 2024 and is ranked third in ESPN's November list of the best players in the world.",
+    "angle": "transfer",
+    "sensitive": false,
+    "footage_terms": ["Michael Olise Bayern goals", "Olise Real Madrid transfer", "Michael Olise skills compilation"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "ESPN ranks Olise third and Kane fifth among the world's best players",
+    "date": "2026-11-13",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50454088/10-best-ranking-top-soccer-players-november",
+    "entities": ["Michael Olise", "Harry Kane", "Lamine Yamal", "Jude Bellingham", "Bayern Munich"],
+    "facts": [
+      "ESPN's November 10 Best list has Yamal first, Jude Bellingham second and Olise third (up from fifth).",
+      "Kane, the reigning Ballon d'Or winner, is ranked fifth, down from fourth.",
+      "No Dortmund player makes the top ten."
+    ],
+    "background": "Kane won the Ballon d'Or less than a month earlier after scoring 73 goals for club and country last season.",
+    "angle": "viral",
+    "sensitive": false,
+    "footage_terms": ["Michael Olise best goals Bayern", "Lamine Yamal vs Olise", "Harry Kane Ballon d'Or winner ranking"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Bayern still chasing Liverpool teenager Rio Ngumoha for a left wing",
+    "date": "2026-11-11",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50451226/transfer-rumors-news-gossip-manchester-united-brentford-nathan-collins",
+    "entities": ["Rio Ngumoha", "Bayern Munich", "Liverpool"],
+    "facts": [
+      "ESPN, citing Bild's Christian Falk, says Bayern are still negotiating for the 18-year-old.",
+      "In the summer Bayern were prepared to offer 70 million euros before signing Ismael Saibari instead.",
+      "Bayern still lack a left winger, so a January or summer move could return."
+    ],
+    "background": "Ngumoha is a teenage winger who broke through at Liverpool, a club Bayern also raided for Luis Diaz in 2025.",
+    "angle": "transfer",
+    "sensitive": false,
+    "footage_terms": ["Rio Ngumoha Liverpool goals", "Ngumoha Bayern Munich transfer", "Rio Ngumoha highlights"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Barcelona enquire about Bayern defender Jonathan Tah",
+    "date": "2026-11-10",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50440438/transfer-rumors-news-gossip-arsenal-atletico-madrid",
+    "entities": ["Jonathan Tah", "Barcelona", "Deco", "Pau Cubarsi", "Bayern Munich"],
+    "facts": [
+      "Sky Sports Deutschland reports Barcelona have asked about the 30-year-old centre-back ahead of January.",
+      "Deco wants an experienced defender to play alongside Pau Cubarsi.",
+      "Bayern have little interest in selling; Tah is contracted to 2029 and is not considering a move."
+    ],
+    "background": "Tah moved to Bayern from Bayer Leverkusen in 2025 after winning the 2023-24 Bundesliga title at Leverkusen.",
+    "angle": "transfer",
+    "sensitive": false,
+    "footage_terms": ["Jonathan Tah Bayern defending", "Tah Barcelona transfer", "Jonathan Tah Germany highlights"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Bayern's backup-goalkeeper shortlist: Baumann, Leno and Karius",
+    "date": "2026-11-10",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50440438/transfer-rumors-news-gossip-arsenal-atletico-madrid",
+    "entities": ["Oliver Baumann", "Bernd Leno", "Loris Karius", "Bayern Munich"],
+    "facts": [
+      "Sky Sports Deutschland reports Bayern want an experienced back-up goalkeeper for next season.",
+      "Oliver Baumann of Hoffenheim, Bernd Leno of Fulham and Loris Karius of Schalke are the names being considered.",
+      "Karius made five saves in Schalke's 0-0 draw with Bayern on 5 September."
+    ],
+    "background": "Karius is best known for his errors in Liverpool's 2018 Champions League final defeat to Real Madrid.",
+    "angle": "transfer",
+    "sensitive": false,
+    "footage_terms": ["Loris Karius saves Schalke Bayern", "Schalke Bayern 0-0 highlights", "Oliver Baumann Hoffenheim saves"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Kane breaks Shilton's England caps record with his 126th appearance",
+    "date": "2026-11-12",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50451241/harry-kane-england-caps-record-126-croatia",
+    "entities": ["Harry Kane", "Peter Shilton", "England", "Thomas Tuchel", "Croatia"],
+    "facts": [
+      "Kane won his 126th England cap against Croatia at Wembley on 12 November in the Nations League.",
+      "Peter Shilton's total of 125 had stood as the England record for 36 years; Kane matched it a month earlier.",
+      "Southgate said Kane may not be a 'better' player than two years ago but has more belief."
+    ],
+    "background": "Kane lost the Euro 2020 and Euro 2024 finals with England under Gareth Southgate, who managed him for eight years.",
+    "angle": "record",
+    "sensitive": false,
+    "footage_terms": ["Harry Kane 126th cap record Wembley", "Kane Shilton record England", "England Croatia Nations League highlights"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Patriots QB Drake Maye says Kane could be an NFL kicker after football",
+    "date": "2026-11-12",
+    "source_domain": "bundesliga.com",
+    "url": "https://www.bundesliga.com/en/bundesliga/news/harry-kane-backed-by-new-england-patriots-quarterback-drake-maye-kicker-nfl-bayern-39985",
+    "entities": ["Harry Kane", "Drake Maye", "New England Patriots", "Detroit Lions"],
+    "facts": [
+      "Maye said Kane's dead-ball skill and calm under pressure suit an NFL kicking job.",
+      "He spoke before the Patriots played the Lions at Munich's Allianz Arena that Sunday.",
+      "Kane said in September he would need six months to a year of serious training; he says Bayern come first."
+    ],
+    "background": "Kane has joked before about switching to American football; his Bayern contract now runs to 2029.",
+    "angle": "viral",
+    "sensitive": false,
+    "footage_terms": ["Harry Kane NFL kicker", "Drake Maye Harry Kane", "Kane kicking American football"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Lions beat Patriots 35-10 at Bayern's Allianz Arena as Bundesliga extends NFL deal",
+    "date": "2026-11-15",
+    "source_domain": "bundesliga.com",
+    "url": "https://www.bundesliga.com/en/bundesliga/news/nfl-germany-bayern-munich-allianz-arena-berlin-frankfurt-29346",
+    "entities": ["Detroit Lions", "New England Patriots", "Allianz Arena", "Jamal Musiala", "Bundesliga"],
+    "facts": [
+      "Detroit beat New England 35-10 on 15 November in Munich, the sixth regular-season NFL game in Germany.",
+      "The Bundesliga and NFL extended their memorandum of understanding on 10 November 2026.",
+      "Bayern's Jamal Musiala attended the game."
+    ],
+    "background": "The first NFL regular-season game in Germany was Buccaneers 21, Seahawks 16 in Munich in 2022.",
+    "angle": "business",
+    "sensitive": false,
+    "footage_terms": ["Lions Patriots Munich Allianz Arena highlights", "NFL Munich game 2026", "Allianz Arena NFL game"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Rummenigge reveals how Guardiola's 90-minute call sold him on Kompany",
+    "date": "2026-11-14",
+    "source_domain": "bundesliga.com",
+    "url": "https://www.bundesliga.com/en/bundesliga/news/rummenigge-bayern-munich-harry-kane-guardiola-neuer-interview-39998",
+    "entities": ["Karl-Heinz Rummenigge", "Vincent Kompany", "Pep Guardiola", "Harry Kane", "Manuel Neuer"],
+    "facts": [
+      "Rummenigge says Bayern spoke to several coaches before Kompany and he was hesitant because Kompany had just been relegated.",
+      "He phoned Guardiola, who gave a candid endorsement in a call of about an hour and a half.",
+      "He calls Kane a role model and Neuer the best goalkeeper in Bayern's history."
+    ],
+    "background": "Rummenigge, a former Bayern star and long-time executive, helped arrange Kane's move from Tottenham.",
+    "angle": "history",
+    "sensitive": false,
+    "footage_terms": ["Rummenigge interview Bayern Kompany Guardiola", "Karl-Heinz Rummenigge Kane", "Kompany Bayern appointment"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Guardiola praises Kompany and the Bundesliga from his coaching break",
+    "date": "2026-11-20",
+    "source_domain": "bundesliga.com",
+    "url": "https://www.bundesliga.com/en/bundesliga/news/pep-guardiola-interview-bayern-munich-germany-kompany-world-cup-40045",
+    "entities": ["Pep Guardiola", "Vincent Kompany", "Bayern Munich"],
+    "facts": [
+      "Guardiola says he is on a break from coaching and does not know how long it will last.",
+      "He calls Kompany destined to coach and says Bayern's attacking, winning style is a joy to watch.",
+      "He spends time in Catalonia and Abu Dhabi, plays golf and reads, and watched most of the World Cup from Barcelona."
+    ],
+    "background": "Guardiola coached Bayern for three seasons, winning three Bundesliga titles and two German Cups, before ten years at Manchester City.",
+    "angle": "coach",
+    "sensitive": false,
+    "footage_terms": ["Pep Guardiola Bayern interview", "Guardiola Kompany praise", "Guardiola Bayern Munich best moments"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Upamecano is three games short of Boateng's Bundesliga unbeaten record",
+    "date": "2026-11-11",
+    "source_domain": "bundesliga.com",
+    "url": "https://www.bundesliga.com/en/bundesliga/news/unbeaten-record-bayern-munich-boateng-neuer-upamecano-ribery-39971",
+    "entities": ["Dayot Upamecano", "Jerome Boateng", "Lukas Hradecky", "Bayern Munich"],
+    "facts": [
+      "Upamecano has played 53 straight Bundesliga games without defeat, three short of Boateng's all-time record of 56.",
+      "He has passed Ribery, Neuer and Thomas Muller and sits third, behind Hradecky's 54.",
+      "His last league defeat was a 4-2 loss at Hoffenheim on the last day of 2023-24 under Thomas Tuchel."
+    ],
+    "background": "Upamecano joined Bayern from RB Leipzig in 2021.",
+    "angle": "record",
+    "sensitive": false,
+    "footage_terms": ["Upamecano Bayern goal", "Dayot Upamecano best defending", "Jerome Boateng Bayern best moments"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Bayern's Karl and Cologne's El Mala: Germany's rising stars meet",
+    "date": "2026-11-19",
+    "source_domain": "bundesliga.com",
+    "url": "https://www.bundesliga.com/en/bundesliga/news/lennart-karl-said-el-mala-two-of-germanys-brightest-talents-bayern-cologne-40007",
+    "entities": ["Lennart Karl", "Said El Mala", "Bayern Munich", "Cologne"],
+    "facts": [
+      "Karl scored 5 goals and gave 4 assists in 24 Bundesliga games last season and made his Germany debut against Switzerland in March 2026.",
+      "A muscle injury in June cost him the 2026 World Cup.",
+      "El Mala was released by Gladbach as a youth, played for TSV Meerbusch and Viktoria Cologne, and now wears Cologne's number 10."
+    ],
+    "background": "Karl made his Bundesliga debut at 17 years and 181 days and first played for Bayern's senior team at the 2025 Club World Cup.",
+    "angle": "history",
+    "sensitive": false,
+    "footage_terms": ["Lennart Karl goals Bayern", "Said El Mala Cologne goals", "Bayern Cologne Bundesliga preview"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Bayern and Dortmund level on 21 points in the Bundesliga's tightest title race in years",
+    "date": "2026-11-10",
+    "source_domain": "bundesliga.com",
+    "url": "https://www.bundesliga.com/en/bundesliga/news/bayern-munich-borussia-dortmund-tightest-title-race-in-years-26-27-39958",
+    "entities": ["Bayern Munich", "Borussia Dortmund", "Niko Kovac", "SC Freiburg", "RB Leipzig"],
+    "facts": [
+      "After nine matchdays both teams are unbeaten with 21 points; Bayern lead on goal difference.",
+      "Dortmund's 21 points are their best nine-game start since 2013-14 and they have the league's stingiest defence.",
+      "Freiburg are two points behind and Leipzig three, the closest top three since 2019-20."
+    ],
+    "background": "The last time two teams were level after nine games was 2017-18, when Bayern and Dortmund each had 20 and Bayern still won the title by 21 points.",
+    "angle": "history",
+    "sensitive": false,
+    "footage_terms": ["Bundesliga title race Bayern Dortmund 2026", "Dortmund unbeaten start Kovac", "Bundesliga table Bayern Dortmund level"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Bayern's xG luck: unlucky, while Dortmund are lucky and good",
+    "date": "2026-10-29",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50309811/man-city-bayern-munich-como-sunderland-good-bad-lucky-european-soccer",
+    "entities": ["Bayern Munich", "Borussia Dortmund", "Harry Kane", "Gregor Kobel", "Bill Connelly"],
+    "facts": [
+      "Connelly rates Bayern unlucky: they dropped points at Schalke (0-0) and Augsburg (2-2) despite big expected-goals margins.",
+      "Kane had four league goals from shots worth 5.2 expected goals at that point.",
+      "Dortmund had allowed goals in just two league games, with keeper Gregor Kobel praised but regression expected."
+    ],
+    "background": "Dortmund finished second last season under Niko Kovac and conceded fewer goals than any other side.",
+    "angle": "history",
+    "sensitive": false,
+    "footage_terms": ["Gregor Kobel saves Dortmund", "Schalke Bayern 0-0 highlights", "Dortmund defence Kovac analysis"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Dortmund to end Rheinmetall sponsorship in 2027 after years of fan protest",
+    "date": "2026-11-13",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50473322/borussia-dortmund-rheinmetall-sponsorship-arms-manufacturer",
+    "entities": ["Borussia Dortmund", "Rheinmetall", "Carsten Cramer"],
+    "facts": [
+      "Chairman Carsten Cramer confirmed Dortmund will not renew the deal when it expires on 30 June 2027.",
+      "Media reports at signing put the deal at up to 9 million euros a year, and Cramer said the lost income will limit flexibility.",
+      "Fans had protested since 2024, including with a dummy tank, and members voted against extending beyond 2027."
+    ],
+    "background": "Rheinmetall is Germany's largest arms maker, founded in 1889, and used forced labour in World War II.",
+    "angle": "business",
+    "sensitive": true,
+    "footage_terms": ["Dortmund Rheinmetall sponsorship protest", "Dortmund fans Rheinmetall banner", "Carsten Cramer Dortmund interview"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Klopp tells Nmecha to drop his crown celebration after Dortmund supporters complain",
+    "date": "2026-11-12",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50464524/klopp-nmecha-controversial-crown-celebration",
+    "entities": ["Felix Nmecha", "Jurgen Klopp", "Borussia Dortmund", "Germany", "Ballers in God"],
+    "facts": [
+      "Nmecha mimed lifting a crown off his head after scoring twice in Dortmund's 2-1 win over Elversberg on 7 November.",
+      "A Dortmund supporters' group said the linked Ballers in God campaign discriminates against gay and transgender people; the group says it shows love and respect for all.",
+      "Germany coach Klopp spoke to Nmecha, accepted his explanation and said he will not celebrate that way again."
+    ],
+    "background": "Klopp managed Dortmund from 2008 to 2015 and is now Germany's coach.",
+    "angle": "scandal",
+    "sensitive": true,
+    "footage_terms": ["Nmecha goal Elversberg Dortmund", "Klopp Nmecha celebration press conference", "Felix Nmecha long range goal"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Dortmund launch app that rewards fans for locking their phones in the stadium",
+    "date": "2026-10-23",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50257787/borussia-dortmund-app-rewards-fans-lock-phones-stadium",
+    "entities": ["Borussia Dortmund", "Carsten Cramer", "Eintracht Frankfurt"],
+    "facts": [
+      "A 'fan mode' in the club app counts phone unlocks during a match, excluding half-time, and fewer unlocks earn more points.",
+      "Top fans win prizes such as signed jerseys and merchandise gift cards; the scheme is voluntary.",
+      "It started with the home game against Eintracht Frankfurt on 24 October."
+    ],
+    "background": "Dortmund's Yellow Wall is among Europe's best-known stands, and the club says selfies and livestreams are hurting stadium atmosphere.",
+    "angle": "viral",
+    "sensitive": false,
+    "footage_terms": ["Dortmund Yellow Wall atmosphere", "Signal Iduna Park fans phones", "Borussia Dortmund fan mode app"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Dortmund extend Kovac's contract to 2029",
+    "date": "2026-10-13",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50172307/borussia-dortmund-niko-kovac-contract-extension-2029",
+    "entities": ["Niko Kovac", "Lars Ricken", "Ole Book", "Borussia Dortmund"],
+    "facts": [
+      "Dortmund announced on 13 October that Kovac's deal now runs to June 2029.",
+      "The club says his 2.15 points per Bundesliga game is the best of any Dortmund coach.",
+      "His brother Robert and assistant Filip Tapalovic also extended."
+    ],
+    "background": "Kovac took over in January 2025 with Dortmund 11th, finished fourth that season and second last season.",
+    "angle": "coach",
+    "sensitive": false,
+    "footage_terms": ["Niko Kovac Dortmund press conference", "Kovac Dortmund contract extension", "Borussia Dortmund Kovac tactics"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Bodo/Glimt beat Dortmund 1-0 in the Arctic Circle",
+    "date": "2026-10-14",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/match/_/gameId/401915393/borussia-dortmund-bodoglimt",
+    "entities": ["Bodo/Glimt", "Borussia Dortmund", "Fredrik Sjovold", "Felix Nmecha"],
+    "facts": [
+      "Fredrik Sjovold scored in the 52nd minute from a Sondre Auklend cross in Bodo, Norway.",
+      "Dortmund were below their best for long spells and only pressed late; Nmecha was denied in stoppage time.",
+      "Expected goals were about 1.1 for Bodo/Glimt and 0.8 for Dortmund."
+    ],
+    "background": "Bodo/Glimt play at the small Aspmyra stadium in northern Norway, where the crowd for this match was 7,885; Bayern had beaten them 5-0 in this league phase.",
+    "angle": "scandal",
+    "sensitive": false,
+    "footage_terms": ["Bodo Glimt Dortmund 1-0 highlights", "Bodo Glimt Aspmyra Stadium atmosphere", "Dortmund Bodo Glimt Champions League"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Sabitzer's 93rd-minute winner saves Dortmund against Bremen's Fullkrug in the cup",
+    "date": "2026-10-27",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/match/_/gameId/401917030/werder-bremen-borussia-dortmund",
+    "entities": ["Borussia Dortmund", "Werder Bremen", "Marcel Sabitzer", "Niclas Fullkrug", "Serhou Guirassy"],
+    "facts": [
+      "Dortmund won 3-2 in the German Cup second round on 27 October, going 2-0 up through Guirassy (6') and Chukwuemeka (17').",
+      "Fullkrug scored a 65th-minute penalty and equalised in the 68th minute for Bremen.",
+      "Sabitzer scored the winner in stoppage time."
+    ],
+    "background": "Fullkrug is a former Dortmund striker who now plays for Bremen.",
+    "angle": "win",
+    "sensitive": false,
+    "footage_terms": ["Dortmund Werder Bremen 3-2 DFB Pokal highlights", "Sabitzer winner Dortmund Bremen", "Fullkrug goal Bremen Dortmund"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Silva scores as Dortmund edge Real Betis 2-1; Guirassy hurt in the first half",
+    "date": "2026-11-04",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/match/_/gameId/401915304/real-betis-borussia-dortmund",
+    "entities": ["Fabio Silva", "Konstantinos Karetsas", "Serhou Guirassy", "Borussia Dortmund", "Real Betis"],
+    "facts": [
+      "Silva scored in the 49th minute and 18-year-old Karetsas hit the 72nd-minute winner at Signal Iduna Park.",
+      "Aitor Ruibal equalised for Betis in the 67th minute.",
+      "Dortmund moved to 9 points after four Champions League matches."
+    ],
+    "background": "Wolves signed Silva from Porto for about 30 million pounds at 18; he scored four Premier League goals in 62 games and has since had six loans and moves across Europe.",
+    "angle": "win",
+    "sensitive": false,
+    "footage_terms": ["Dortmund Betis 2-1 highlights Champions League", "Fabio Silva goal Dortmund", "Karetsas goal Dortmund Betis"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Guirassy hurts thigh against Betis and will miss Elversberg",
+    "date": "2026-11-05",
+    "source_domain": "bundesliga.com",
+    "url": "https://www.bundesliga.com/en/bundesliga/news/serhou-guirassy-injury-borussia-dortmund-champions-league-betis-kovac-39891",
+    "entities": ["Serhou Guirassy", "Niko Kovac", "Borussia Dortmund"],
+    "facts": [
+      "Guirassy hurt his thigh around the 31st minute against Betis and was replaced by Karetsas.",
+      "Kovac described it as a muscle strain; no return date was given.",
+      "He has eight goals in 14 games this season, four of them in four Champions League matches."
+    ],
+    "background": "Guirassy scored 22 Bundesliga goals for Dortmund last season while Fabio Silva scored three.",
+    "angle": "business",
+    "sensitive": true,
+    "footage_terms": ["Serhou Guirassy goals Dortmund", "Guirassy Champions League braces", "Guirassy Sabah Villarreal goals"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Jobe Bellingham gets his first England call-up to join brother Jude",
+    "date": "2026-11-06",
+    "source_domain": "skysports.com",
+    "url": "https://www.skysports.com/football/news/13608890/england-jobe-bellingham-has-the-chance-to-showcase-his-own-talent-alongside-brother-jude-in-thomas-tuchels-squad",
+    "entities": ["Jobe Bellingham", "Jude Bellingham", "Thomas Tuchel", "Borussia Dortmund", "England"],
+    "facts": [
+      "Tuchel named the 21-year-old for the Nations League games against Croatia on 12 November and Spain on 15 November.",
+      "Bundesliga.com says he has started seven of Dortmund's nine league games and has no league goal yet but two assists.",
+      "Kovac called him a 'complete football freak'; Tuchel said he earned the place on merit."
+    ],
+    "background": "Jude Bellingham played for Dortmund from 2020 to 2023 before joining Real Madrid; Jobe went from Birmingham to Sunderland to Dortmund.",
+    "angle": "history",
+    "sensitive": false,
+    "footage_terms": ["Jobe Bellingham Dortmund highlights", "Jobe Bellingham England call up Tuchel", "Jude Jobe Bellingham England"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Liverpool reportedly hold Dortmund's Nmecha in high regard",
+    "date": "2026-10-27",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50295266/transfer-rumors-news-real-madrid-eye-liverpool-alexis-mac-allister",
+    "entities": ["Felix Nmecha", "Liverpool", "Borussia Dortmund"],
+    "facts": [
+      "ESPN, citing Sky Germany, says Liverpool rate the 26-year-old midfielder highly.",
+      "He is not a current priority but that could change as Liverpool reinforce midfield.",
+      "His Dortmund contract runs to June 2030."
+    ],
+    "background": "Nmecha is a Germany international who joined Dortmund from Wolfsburg in 2023 and scored twice against Elversberg on 7 November.",
+    "angle": "transfer",
+    "sensitive": false,
+    "footage_terms": ["Felix Nmecha Dortmund goals", "Nmecha long range goal Elversberg", "Nmecha Germany highlights"],
+    "confidence": "medium"
+  }
+]

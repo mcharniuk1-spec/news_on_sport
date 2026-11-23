@@ -1,0 +1,108 @@
+{
+ "no": 14,
+ "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/014_luis_figo.mp4",
+ "total": 51.833333333333336,
+ "outro_start": 43.5,
+ "cover": true,
+ "seq": [
+  {
+   "id": "s01",
+   "kind": "HOOK",
+   "start": 0.1,
+   "end": 1.8666666666666667,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/014/s01.mp4",
+   "clip_dur": 1.766,
+   "frames": 42
+  },
+  {
+   "id": "s02",
+   "kind": "STATS",
+   "start": 4.6,
+   "end": 6.1,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/014/s02.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s03",
+   "kind": "COMIC1",
+   "start": 11.366666666666667,
+   "end": 13.366666666666667,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/014/s03.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s04",
+   "kind": "NEWS",
+   "start": 16.6,
+   "end": 18.866666666666667,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/014/s04.mp4",
+   "clip_dur": 2.266,
+   "frames": 54
+  },
+  {
+   "id": "s05",
+   "kind": "COMIC2",
+   "start": 20.966666666666665,
+   "end": 23.233333333333334,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/014/s05.mp4",
+   "clip_dur": 2.266,
+   "frames": 54
+  },
+  {
+   "id": "s06",
+   "kind": "COMIC3",
+   "start": 27.333333333333332,
+   "end": 29.6,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/014/s06.mp4",
+   "clip_dur": 2.266,
+   "frames": 54
+  },
+  {
+   "id": "s07",
+   "kind": "PROVOC",
+   "start": 32.0,
+   "end": 33.5,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/014/s07.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s08",
+   "kind": "INTERVIEW",
+   "start": 36.96666666666667,
+   "end": 38.96666666666667,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/014/s08.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  }
+ ],
+ "missing": [],
+ "dropped": [],
+ "cards": [
+  {
+   "text": "Four scorers picked",
+   "a": 6.266666666666667,
+   "b": 8.166666666666666
+  },
+  {
+   "text": "Bold, Luis",
+   "a": 35.6,
+   "b": 36.8
+  }
+ ],
+ "caption_sprites": 98,
+ "whoosh": [
+  0.0,
+  4.5,
+  11.266666666666667,
+  16.5,
+  20.866666666666664,
+  27.23333333333333,
+  31.9,
+  36.86666666666667,
+  43.4
+ ],
+ "shots": 16
+}

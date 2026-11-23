@@ -1,0 +1,96 @@
+{
+  "no": 21,
+  "subject": "Pavel Nedvěd (Pavel Nedved)",
+  "title": "Nedved's national team: zero points, full confidence",
+  "voice": "kokoro",
+  "comic": true,
+  "style": "us_comic_book",
+  "lines": [
+    {
+      "vo": "Zero points in six games, and still full confidence?",
+      "card": "Zero points",
+      "sfx": null,
+      "footage": "Czech bench during a Nations League match, tight shot on a frustrated face"
+    },
+    {
+      "vo": "Pavel Nedvěd is the general manager, so every defeat lands on his desk. Busy desk.",
+      "card": "Nedvěd's desk",
+      "sfx": null,
+      "footage": "Nedvěd at a press table, serious expression, arms folded"
+    },
+    {
+      "vo": "Three goals scored. Fourteen conceded. They did not lose those games. They donated them.",
+      "card": "Fourteen goals conceded",
+      "sfx": "crowd groan",
+      "footage": "Czech goal-mouth scramble from the Croatia or England match, clean stadium audio"
+    },
+    {
+      "vo": "Three red cards in six games. Discipline was not on the team sheet. Neither were points.",
+      "card": "Three red cards",
+      "sfx": "referee whistle",
+      "footage": "Krejci or Sulc red card moment, VAR review shot"
+    },
+    {
+      "vo": "Seven straight defeats, the longest losing run in Czech national team history. Technically, a record.",
+      "card": "Seven straight defeats",
+      "sfx": null,
+      "footage": "Czech players walking off after the Spain or Croatia defeat"
+    },
+    {
+      "vo": "Nedvěd says a coach change is 'not up for discussion'. Full confidence in Santi Denia. Full confidence, zero points.",
+      "card": "Full confidence",
+      "sfx": null,
+      "footage": "Santi Denia on the touchline, arms folded, close-up"
+    },
+    {
+      "vo": "The FIFA ranking agrees: fifty-third, the lowest since 2017, and now behind Peru. Peru.",
+      "card": "Fifty-third in FIFA",
+      "sfx": "sad trombone",
+      "footage": "Clean FIFA ranking graphic or Czech squad photo, no logos burned in"
+    },
+    {
+      "vo": "Your mates will never guess this. Match news, betting tips and predictions at aboutfootball dot UK.",
+      "card": "aboutfootball.UK",
+      "sfx": null,
+      "footage": "Closing card with site name, no footage"
+    }
+  ],
+  "chars": 713,
+  "est_seconds": 42,
+  "footage_terms": [
+    "Czech Republic vs Croatia Nations League 2026 highlights",
+    "Czech Republic vs England Nations League 2026 highlights red card",
+    "Nedved press conference Denia 2026",
+    "Santi Denia Czech national team press conference"
+  ],
+  "inserts": [
+    {
+      "after_line": 2,
+      "story": "Setup: a comic-book scoreboard reads 'POINTS: 0' next to 'GOALS AGAINST: 14'. Gag: a caricature Nedvěd gift-wraps goals and hands them to grinning cartoon strikers. Twist: a striker checks the label, which reads 'From: Czechia. No returns.'",
+      "characters": "Caricature of Pavel Nedvěd with a long blond mane (no photo); generic cartoon opponent; generic fans",
+      "seconds": 2
+    },
+    {
+      "after_line": 5,
+      "story": "Setup: a cartoon press room with a row of microphones. Gag: a caricature Nedvěd says 'NOT UP FOR DISCUSSION' and a padlock snaps onto the speech bubble. Twist: the only thing still moving is his long blond mane, shaking 'no' all by itself.",
+      "characters": "Caricature of Pavel Nedvěd (no photo); generic cartoon journalists",
+      "seconds": 2
+    },
+    {
+      "after_line": 6,
+      "story": "Setup: a cartoon podium staircase with the FIFA ranking painted on the wall. Gag: a generic Peru fan waves cheerfully at a generic Czech fan standing one step lower. Twist: the step below is labelled 'fifty-three' and it wobbles.",
+      "characters": "Generic cartoon fans on a podium staircase; no real persons",
+      "seconds": 2
+    }
+  ],
+  "facts_used": [
+    "Czechia 53rd in November 2026 FIFA ranking, lowest since 2017, behind Peru (52nd) - https://tiscali.cz/cesky-fotbal-se-dal-propada-v-zebricku-fifa-je-na-tom-nejhur-za-poslednich-9-let-810152",
+    "Czechia lost all six Nations League A3 games, 3 scored, 14 conceded, relegated - https://isport.blesk.cz/clanek/fotbal-reprezentace-liga-narodu/482186/nedved-denia-ma-plnou-duveru-nikdy-nebudeme-hrat-spanelsky-fotbal-rekl-poborsky.html",
+    "Three red cards in six games: Sulc (25' v England), Krejci twice v Spain - https://www.tiscali.cz/po-seste-porazce-se-zacina-mluvit-o-pozici-kouce-denii-manazer-nedved-odmitl-diskuzi-807652",
+    "Seven-match losing run is the longest in Czech and Czechoslovak national team history - https://www.tiscali.cz/jedna-strela-za-dva-zapasy-karel-poborsky-kritizuje-vykony-pod-koucem-deniou-808571",
+    "Nedvěd: coaching change not on the agenda, full confidence in Denia; FAČR executive decides - https://www.tiscali.cz/po-seste-porazce-se-zacina-mluvit-o-pozici-kouce-denii-manazer-nedved-odmitl-diskuzi-807652",
+    "Nedvěd is general manager of the Czech national teams since June 2025 - https://tribuna.com/en/news/2025-06-29-pavel-nedved-appointed-general-manager-of-czech-national-teams/"
+  ],
+  "comic_score": 8,
+  "notes": "Comic caricature of Nedvěd, no photo. Attributed quotes only (Nedvěd, Poborský). Skipped the family, wedding and Juventus legal items entirely. 'Donated', 'busy desk' and 'Peru' are jokes on verified ranking, table and role facts. The 'neither were points' line callbacks the zero-points hook. Insert after_line values are 0-based indexes into lines; the press-room insert now follows the 'not up for discussion' line. Czech sources partly returned 403; facts rest on the readable pages listed."
+}

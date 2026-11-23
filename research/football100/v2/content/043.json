@@ -1,0 +1,665 @@
+{
+ "no": 43,
+ "style": "CUTOUT-PAPER",
+ "prop": "card-red",
+ "cast": {
+  "raphinha": {
+   "role": "player",
+   "number": "11",
+   "shirt": "#f2c81b",
+   "hair": "#2b2b3a",
+   "skin": "#c98a5a"
+  },
+  "ancelotti": {
+   "role": "coach",
+   "shirt": "#1f2a44",
+   "hair": "#d6d6d6"
+  },
+  "referee": {
+   "role": "referee"
+  },
+  "bruno": {
+   "role": "player",
+   "number": "8",
+   "shirt": "#f2c81b",
+   "hair": "#3a2a1a",
+   "skin": "#d9a066"
+  },
+  "steward": {
+   "role": "staff",
+   "shirt": "#e8762b"
+  }
+ },
+ "sequences": {
+  "s01": {
+   "type": "HOOK",
+   "q": "Captain and coach both saw red: now what?",
+   "prop": "card-red",
+   "emote": "shock",
+   "board": "typed"
+  },
+  "s02": {
+   "type": "STATS",
+   "items": [
+    {
+     "icon": "ball",
+     "value": "3-2",
+     "label": "Japan won"
+    },
+    {
+     "icon": "stopwatch",
+     "value": "91",
+     "suffix": "'",
+     "label": "91st-minute winner"
+    }
+   ]
+  },
+  "s03": {
+   "type": "COMIC",
+   "bg": "pitch",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "raphinha",
+       "x": 280,
+       "y": 1440,
+       "scale": 1.4,
+       "pose": "wave",
+       "emote": "happy",
+       "flip": false
+      },
+      {
+       "id": "referee",
+       "x": 800,
+       "y": 1440,
+       "scale": 1.3,
+       "pose": "idle",
+       "emote": "neutral",
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "card-red",
+       "x": 690,
+       "y": 1010,
+       "scale": 0.9,
+       "anim": "float"
+      }
+     ],
+     "bubble": {
+      "who": "raphinha",
+      "text": "give his best"
+     }
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.52,
+     "actors": [
+      {
+       "id": "raphinha",
+       "x": 280,
+       "y": 1440,
+       "scale": 1.4,
+       "pose": "present",
+       "emote": "shock",
+       "label": "Raphinha"
+      },
+      {
+       "id": "referee",
+       "x": 800,
+       "y": 1440,
+       "scale": 1.3,
+       "pose": "point",
+       "emote": "smug",
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "card-red",
+       "x": 440,
+       "y": 1120,
+       "scale": 1.2,
+       "anim": "arc"
+      }
+     ],
+     "sfx": {
+      "text": "WHOOSH",
+      "x": 640,
+      "y": 480,
+      "r": 100
+     },
+     "cam": "push"
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.52,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "raphinha",
+       "x": 280,
+       "y": 1440,
+       "scale": 1.4,
+       "pose": "cheer",
+       "emote": "smug"
+      },
+      {
+       "id": "referee",
+       "x": 800,
+       "y": 1440,
+       "scale": 1.3,
+       "pose": "thumbsup",
+       "emote": "happy",
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "card-red",
+       "x": 300,
+       "y": 1140,
+       "scale": 0.9
+      },
+      {
+       "kind": "star",
+       "x": 410,
+       "y": 1110,
+       "scale": 0.7,
+       "anim": "pop"
+      }
+     ],
+     "sfx": {
+      "text": "DING",
+      "x": 640,
+      "y": 560,
+      "r": 100
+     },
+     "fx": [
+      {
+       "kind": "sparkle",
+       "x": 360,
+       "y": 1120
+      }
+     ]
+    }
+   ]
+  },
+  "s04": {
+   "type": "NEWS",
+   "name": "Carlo Ancelotti",
+   "fact": "Carlo Ancelotti was sent off too",
+   "ticker": "Ancelotti also off",
+   "icons": [
+    "card-red",
+    "whistle",
+    "clipboard"
+   ],
+   "role": "coach",
+   "actor": "ancelotti"
+  },
+  "s05": {
+   "type": "COMIC",
+   "bg": "tunnel",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "ancelotti",
+       "x": 270,
+       "y": 1440,
+       "scale": 1.3,
+       "pose": "shrug",
+       "emote": "angry-cheeky",
+       "label": "Carlo Ancelotti"
+      },
+      {
+       "id": "raphinha",
+       "x": 800,
+       "y": 1440,
+       "scale": 1.3,
+       "pose": "shrug",
+       "emote": "angry-cheeky",
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "door",
+       "x": 540,
+       "y": 1130,
+       "scale": 3.0,
+       "layer": "back"
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.42,
+     "actors": [
+      {
+       "id": "ancelotti",
+       "x": 270,
+       "y": 1440,
+       "scale": 1.3,
+       "pose": "point",
+       "emote": "angry-cheeky"
+      },
+      {
+       "id": "raphinha",
+       "x": 800,
+       "y": 1440,
+       "scale": 1.3,
+       "pose": "point",
+       "emote": "angry-cheeky",
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "door",
+       "x": 540,
+       "y": 1130,
+       "scale": 3.0,
+       "layer": "back"
+      },
+      {
+       "kind": "card-red",
+       "x": 270,
+       "y": 640,
+       "scale": 1.1,
+       "anim": "pop"
+      },
+      {
+       "kind": "card-red",
+       "x": 800,
+       "y": 640,
+       "scale": 1.1,
+       "anim": "pop"
+      }
+     ],
+     "sfx": {
+      "text": "POP",
+      "x": 540,
+      "y": 560,
+      "r": 100
+     }
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.42,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "ancelotti",
+       "x": 400,
+       "y": 1440,
+       "scale": 1.3,
+       "pose": "run",
+       "emote": "neutral"
+      },
+      {
+       "id": "raphinha",
+       "x": 680,
+       "y": 1440,
+       "scale": 1.3,
+       "pose": "run",
+       "emote": "neutral",
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "door",
+       "x": 540,
+       "y": 1130,
+       "scale": 3.0,
+       "layer": "back"
+      },
+      {
+       "kind": "card-red",
+       "x": 400,
+       "y": 700,
+       "scale": 1.1
+      },
+      {
+       "kind": "card-red",
+       "x": 680,
+       "y": 700,
+       "scale": 1.1
+      }
+     ],
+     "cam": "pan"
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "ancelotti",
+       "x": 465,
+       "y": 1440,
+       "scale": 1.3,
+       "pose": "shock",
+       "emote": "sweat"
+      },
+      {
+       "id": "raphinha",
+       "x": 615,
+       "y": 1440,
+       "scale": 1.3,
+       "pose": "shock",
+       "emote": "sweat",
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "door",
+       "x": 540,
+       "y": 1130,
+       "scale": 3.0,
+       "layer": "back"
+      },
+      {
+       "kind": "card-red",
+       "x": 465,
+       "y": 650,
+       "scale": 1.0
+      },
+      {
+       "kind": "card-red",
+       "x": 615,
+       "y": 650,
+       "scale": 1.0
+      }
+     ],
+     "sfx": {
+      "text": "THUD",
+      "x": 540,
+      "y": 440,
+      "r": 95
+     },
+     "fx": [
+      {
+       "kind": "dust",
+       "x": 540,
+       "y": 1410
+      }
+     ]
+    }
+   ]
+  },
+  "s06": {
+   "type": "PROVOC",
+   "q": "One-match ban: fair or harsh?",
+   "a": "Fair",
+   "b": "Harsh",
+   "split": [
+    46,
+    54
+   ],
+   "mood": "cheeky"
+  },
+  "s07": {
+   "type": "COMIC",
+   "bg": "stadium",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "bruno",
+       "x": 300,
+       "y": 1440,
+       "scale": 1.4,
+       "pose": "present",
+       "emote": "happy",
+       "label": "Bruno Guimaraes"
+      },
+      {
+       "id": "raphinha",
+       "x": 720,
+       "y": 1150,
+       "scale": 0.9,
+       "pose": "idle",
+       "emote": "neutral",
+       "flip": true
+      },
+      {
+       "id": "ancelotti",
+       "x": 880,
+       "y": 1150,
+       "scale": 0.9,
+       "pose": "idle",
+       "emote": "neutral",
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "scoreboard",
+       "x": 640,
+       "y": 540,
+       "scale": 1.7,
+       "text": "7:0",
+       "face": "happy"
+      },
+      {
+       "kind": "star",
+       "x": 470,
+       "y": 760,
+       "scale": 0.9,
+       "anim": "float"
+      },
+      {
+       "kind": "card-red",
+       "x": 900,
+       "y": 1400,
+       "scale": 0.8
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.52,
+     "actors": [
+      {
+       "id": "bruno",
+       "x": 300,
+       "y": 1440,
+       "scale": 1.4,
+       "pose": "cheer",
+       "emote": "happy"
+      },
+      {
+       "id": "raphinha",
+       "x": 720,
+       "y": 1150,
+       "scale": 0.9,
+       "pose": "cheer",
+       "emote": "happy",
+       "flip": true
+      },
+      {
+       "id": "ancelotti",
+       "x": 880,
+       "y": 1150,
+       "scale": 0.9,
+       "pose": "cheer",
+       "emote": "happy",
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "scoreboard",
+       "x": 640,
+       "y": 540,
+       "scale": 1.7,
+       "text": "7:0",
+       "face": "happy"
+      },
+      {
+       "kind": "star",
+       "x": 470,
+       "y": 760,
+       "scale": 0.9,
+       "anim": "float"
+      },
+      {
+       "kind": "card-red",
+       "x": 900,
+       "y": 1400,
+       "scale": 0.8
+      },
+      {
+       "kind": "bucket",
+       "x": 700,
+       "y": 1290,
+       "scale": 0.8,
+       "anim": "pop"
+      },
+      {
+       "kind": "bucket",
+       "x": 860,
+       "y": 1290,
+       "scale": 0.8,
+       "anim": "pop"
+      }
+     ],
+     "cam": "push"
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.52,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "bruno",
+       "x": 300,
+       "y": 1440,
+       "scale": 1.4,
+       "pose": "cheer",
+       "emote": "smug"
+      },
+      {
+       "id": "raphinha",
+       "x": 720,
+       "y": 1150,
+       "scale": 0.9,
+       "pose": "idle",
+       "emote": "sad",
+       "flip": true
+      },
+      {
+       "id": "ancelotti",
+       "x": 880,
+       "y": 1150,
+       "scale": 0.9,
+       "pose": "idle",
+       "emote": "sad",
+       "flip": true
+      },
+      {
+       "id": "steward",
+       "x": 610,
+       "y": 1440,
+       "scale": 1.2,
+       "pose": "present",
+       "emote": "smug"
+      }
+     ],
+     "props": [
+      {
+       "kind": "scoreboard",
+       "x": 640,
+       "y": 540,
+       "scale": 1.7,
+       "text": "7:0",
+       "face": "happy"
+      },
+      {
+       "kind": "star",
+       "x": 470,
+       "y": 760,
+       "scale": 0.9,
+       "anim": "float"
+      },
+      {
+       "kind": "card-red",
+       "x": 900,
+       "y": 1400,
+       "scale": 0.8
+      },
+      {
+       "kind": "bucket",
+       "x": 700,
+       "y": 1290,
+       "scale": 0.8
+      },
+      {
+       "kind": "bucket",
+       "x": 860,
+       "y": 1290,
+       "scale": 0.8
+      },
+      {
+       "kind": "padlock",
+       "x": 790,
+       "y": 1000,
+       "scale": 0.9,
+       "anim": "drop"
+      }
+     ],
+     "sfx": {
+      "text": "CLANG",
+      "x": 800,
+      "y": 430,
+      "r": 90
+     }
+    }
+   ]
+  },
+  "s08": {
+   "type": "INTERVIEW",
+   "label": "REPORTER ASKS",
+   "bubble": "Win seven-nil without them, why?",
+   "answer": {
+    "icon": "question",
+    "gesture": "shrug"
+   },
+   "subject": "Bruno Guimaraes",
+   "subject_cast": "bruno"
+  }
+ }
+}

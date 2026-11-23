@@ -1,0 +1,615 @@
+{
+ "no": 97,
+ "style": "STRIP-MINIMAL",
+ "prop": "scoreboard",
+ "cast": {
+  "muriqi": {
+   "role": "player",
+   "number": "9",
+   "shirt": "#f2c200",
+   "hair": "#2b2b3a"
+  },
+  "rival": {
+   "role": "fan",
+   "shirt": "#4f8fd6",
+   "hair": "#6b4a2a"
+  },
+  "coach": {
+   "role": "coach"
+  }
+ },
+ "sequences": {
+  "s01": {
+   "type": "HOOK",
+   "q": "How do you lead twice and lose?",
+   "prop": "scoreboard",
+   "prop_text": "3:2",
+   "emote": "shock",
+   "board": "stamp"
+  },
+  "s02": {
+   "type": "COMIC",
+   "bg": "street",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "muriqi",
+       "x": 300,
+       "y": 1440,
+       "pose": "present",
+       "emote": "happy",
+       "scale": 1.4,
+       "hold": {
+        "kind": "pen",
+        "hand": "R"
+       }
+      }
+     ],
+     "props": [
+      {
+       "kind": "scoreboard",
+       "x": 660,
+       "y": 560,
+       "scale": 1.9,
+       "text": "4:3",
+       "face": "happy",
+       "label": "Perfect start"
+      },
+      {
+       "kind": "ball",
+       "x": 500,
+       "y": 1400,
+       "scale": 0.6
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "muriqi",
+       "x": 300,
+       "y": 1440,
+       "pose": "facepalm",
+       "emote": "sad",
+       "scale": 1.4
+      },
+      {
+       "id": "rival",
+       "x": 800,
+       "y": 1440,
+       "pose": "point",
+       "emote": "smug",
+       "scale": 1.3,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "scoreboard",
+       "x": 660,
+       "y": 560,
+       "scale": 1.9,
+       "text": "3:2",
+       "face": "sad"
+      },
+      {
+       "kind": "ball",
+       "x": 500,
+       "y": 1400,
+       "scale": 0.6
+      }
+     ],
+     "sfx": {
+      "text": "POP",
+      "x": 220,
+      "y": 540,
+      "r": 110
+     },
+     "cam": "push"
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "muriqi",
+       "x": 300,
+       "y": 1440,
+       "pose": "present",
+       "emote": "smug",
+       "scale": 1.4,
+       "hold": {
+        "kind": "pen",
+        "hand": "R"
+       }
+      },
+      {
+       "id": "rival",
+       "x": 800,
+       "y": 1440,
+       "pose": "bow",
+       "emote": "smug",
+       "scale": 1.3,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "scoreboard",
+       "x": 660,
+       "y": 560,
+       "scale": 1.9,
+       "text": "3:2",
+       "face": "smug"
+      },
+      {
+       "kind": "ball",
+       "x": 500,
+       "y": 1400,
+       "scale": 0.6
+      },
+      {
+       "kind": "check",
+       "x": 935,
+       "y": 720,
+       "scale": 0.6,
+       "anim": "pop"
+      }
+     ],
+     "sfx": {
+      "text": "DING",
+      "x": 200,
+      "y": 560,
+      "r": 110
+     }
+    }
+   ]
+  },
+  "s03": {
+   "type": "STATS",
+   "items": [
+    {
+     "icon": "ball",
+     "value": "4-3",
+     "label": "Perfect start"
+    },
+    {
+     "icon": "whistle",
+     "value": "2",
+     "label": "Liverpool led twice"
+    },
+    {
+     "icon": "scoreboard",
+     "value": "3-2",
+     "label": "Back both times"
+    }
+   ]
+  },
+  "s04": {
+   "type": "COMIC",
+   "bg": "pitch",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "muriqi",
+       "x": 300,
+       "y": 1440,
+       "pose": "present",
+       "emote": "happy",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "scoreboard",
+       "x": 700,
+       "y": 590,
+       "scale": 2.2,
+       "text": "2:1",
+       "face": "happy"
+      },
+      {
+       "kind": "bench",
+       "x": 620,
+       "y": 1340,
+       "scale": 2.0
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.42,
+     "actors": [
+      {
+       "id": "muriqi",
+       "x": 300,
+       "y": 1440,
+       "pose": "point",
+       "emote": "neutral",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "scoreboard",
+       "x": 700,
+       "y": 590,
+       "scale": 2.2,
+       "text": "2:2",
+       "face": "shock"
+      },
+      {
+       "kind": "bench",
+       "x": 620,
+       "y": 1340,
+       "scale": 2.0
+      }
+     ],
+     "cam": "push",
+     "sfx": {
+      "text": "WHOOSH",
+      "x": 230,
+      "y": 560,
+      "r": 110
+     }
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.42,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "muriqi",
+       "x": 300,
+       "y": 1440,
+       "pose": "tired",
+       "emote": "dizzy",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "scoreboard",
+       "x": 700,
+       "y": 590,
+       "scale": 2.2,
+       "text": "3:2",
+       "face": "dizzy"
+      },
+      {
+       "kind": "bench",
+       "x": 620,
+       "y": 1340,
+       "scale": 2.0
+      }
+     ]
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "muriqi",
+       "x": 540,
+       "y": 1440,
+       "pose": "sit",
+       "emote": "sleepy",
+       "scale": 1.4
+      },
+      {
+       "id": "coach",
+       "x": 820,
+       "y": 1440,
+       "pose": "present",
+       "emote": "happy",
+       "scale": 1.2,
+       "flip": true,
+       "hold": {
+        "kind": "clipboard",
+        "hand": "L"
+       }
+      }
+     ],
+     "props": [
+      {
+       "kind": "scoreboard",
+       "x": 700,
+       "y": 590,
+       "scale": 2.2,
+       "text": "3:2",
+       "face": "happy"
+      },
+      {
+       "kind": "bench",
+       "x": 620,
+       "y": 1340,
+       "scale": 2.0
+      }
+     ],
+     "sfx": {
+      "text": "DING",
+      "x": 230,
+      "y": 560,
+      "r": 110
+     }
+    }
+   ]
+  },
+  "s05": {
+   "type": "NEWS",
+   "name": "Vedat Muriqi",
+   "fact": "Fenerbahce came back both times",
+   "ticker": "Back both times",
+   "icons": [
+    "flag",
+    "ball",
+    "star"
+   ],
+   "role": "player"
+  },
+  "s06": {
+   "type": "COMIC",
+   "bg": "bench-area",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "muriqi",
+       "x": 330,
+       "y": 1440,
+       "pose": "sit",
+       "emote": "sleepy",
+       "scale": 1.4,
+       "label": "Vedat Muriqi"
+      }
+     ],
+     "props": [
+      {
+       "kind": "bench",
+       "x": 330,
+       "y": 1340,
+       "scale": 2.3
+      },
+      {
+       "kind": "net",
+       "x": 640,
+       "y": 1110,
+       "scale": 1.7
+      },
+      {
+       "kind": "scoreboard",
+       "x": 800,
+       "y": 640,
+       "scale": 1.6,
+       "text": "2:2",
+       "face": "sleepy"
+      },
+      {
+       "kind": "ball",
+       "x": 500,
+       "y": 1410,
+       "scale": 0.55
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.42,
+     "actors": [
+      {
+       "id": "muriqi",
+       "x": 330,
+       "y": 1440,
+       "pose": "shock",
+       "emote": "happy",
+       "scale": 1.4
+      },
+      {
+       "id": "coach",
+       "x": 830,
+       "y": 1440,
+       "pose": "wave",
+       "emote": "happy",
+       "scale": 1.05,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "bench",
+       "x": 330,
+       "y": 1340,
+       "scale": 2.3
+      },
+      {
+       "kind": "net",
+       "x": 640,
+       "y": 1110,
+       "scale": 1.7
+      },
+      {
+       "kind": "scoreboard",
+       "x": 800,
+       "y": 640,
+       "scale": 1.6,
+       "text": "2:2",
+       "face": "shock"
+      },
+      {
+       "kind": "ball",
+       "x": 500,
+       "y": 1410,
+       "scale": 0.55
+      }
+     ],
+     "cam": "push"
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.42,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "muriqi",
+       "x": 400,
+       "y": 1440,
+       "pose": "kick",
+       "emote": "smug",
+       "scale": 1.4
+      },
+      {
+       "id": "coach",
+       "x": 830,
+       "y": 1440,
+       "pose": "wave",
+       "emote": "happy",
+       "scale": 1.05,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "bench",
+       "x": 330,
+       "y": 1340,
+       "scale": 2.3
+      },
+      {
+       "kind": "net",
+       "x": 640,
+       "y": 1110,
+       "scale": 1.7
+      },
+      {
+       "kind": "scoreboard",
+       "x": 800,
+       "y": 640,
+       "scale": 1.6,
+       "text": "2:2",
+       "face": "shock"
+      },
+      {
+       "kind": "ball",
+       "x": 570,
+       "y": 1170,
+       "scale": 0.5
+      }
+     ],
+     "sfx": {
+      "text": "DING",
+      "x": 330,
+      "y": 520,
+      "r": 110
+     }
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "muriqi",
+       "x": 330,
+       "y": 1440,
+       "pose": "sit",
+       "emote": "sleepy",
+       "scale": 1.4
+      },
+      {
+       "id": "coach",
+       "x": 830,
+       "y": 1440,
+       "pose": "thumbsup",
+       "emote": "happy",
+       "scale": 1.05,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "bench",
+       "x": 330,
+       "y": 1340,
+       "scale": 2.3
+      },
+      {
+       "kind": "net",
+       "x": 640,
+       "y": 1110,
+       "scale": 1.7
+      },
+      {
+       "kind": "scoreboard",
+       "x": 800,
+       "y": 640,
+       "scale": 1.6,
+       "text": "3:2",
+       "face": "happy"
+      },
+      {
+       "kind": "ball",
+       "x": 570,
+       "y": 1170,
+       "scale": 0.5
+      }
+     ]
+    }
+   ]
+  },
+  "s07": {
+   "type": "PROVOC",
+   "q": "Fenerbahce's first points: deserved?",
+   "a": "Earned",
+   "b": "Lucky",
+   "split": [
+    58,
+    42
+   ],
+   "mood": "fun"
+  },
+  "s08": {
+   "type": "INTERVIEW",
+   "label": "REPORTER ASKS",
+   "bubble": "Perfect until Istanbul",
+   "answer": {
+    "icon": "heart-broken",
+    "gesture": "shrug",
+    "emote": "sad"
+   },
+   "subject": "Liverpool"
+  }
+ }
+}

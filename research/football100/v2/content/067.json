@@ -1,0 +1,766 @@
+{
+ "no": 67,
+ "style": "RUBBER-SLAPSTICK",
+ "prop": "ball",
+ "cast": {
+  "yamal": {
+   "role": "striker",
+   "shirt": "#a3234a",
+   "hair": "#1f1a2b",
+   "number": "19"
+  },
+  "kane": {
+   "role": "striker",
+   "shirt": "#f4f4f8",
+   "hair": "#b88a4a",
+   "number": "9"
+  },
+  "raphinha": {
+   "role": "striker",
+   "shirt": "#2a4fa0",
+   "hair": "#2b2b3a",
+   "number": "11"
+  },
+  "keeper": {
+   "role": "keeper",
+   "shirt": "#3fb8af",
+   "hair": "#6b4a2a"
+  }
+ },
+ "sequences": {
+  "s01": {
+   "type": "HOOK",
+   "q": "Yamal best, Kane fifth: fair?",
+   "prop": "crown",
+   "emote": "smug",
+   "board": "sign",
+   "role": "striker"
+  },
+  "s02": {
+   "type": "COMIC",
+   "bg": "podium",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "kane",
+       "x": 330,
+       "y": 1190,
+       "pose": "hold",
+       "emote": "smug",
+       "scale": 1.1
+      },
+      {
+       "id": "yamal",
+       "x": 860,
+       "y": 1440,
+       "pose": "run",
+       "emote": "happy",
+       "scale": 1.3,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "podium-box",
+       "x": 330,
+       "y": 1330,
+       "scale": 2.4,
+       "label": "number one"
+      },
+      {
+       "kind": "ball",
+       "x": 330,
+       "y": 960,
+       "scale": 0.8
+      },
+      {
+       "kind": "crown",
+       "x": 330,
+       "y": 610,
+       "scale": 0.7,
+       "anim": "float"
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.42,
+     "actors": [
+      {
+       "id": "kane",
+       "x": 330,
+       "y": 1190,
+       "pose": "shock",
+       "emote": "shock",
+       "scale": 1.1,
+       "lift": 150
+      },
+      {
+       "id": "yamal",
+       "x": 700,
+       "y": 1440,
+       "pose": "jump",
+       "emote": "shock",
+       "scale": 1.3,
+       "flip": true,
+       "lift": 230
+      }
+     ],
+     "props": [
+      {
+       "kind": "podium-box",
+       "x": 330,
+       "y": 1400,
+       "scale": 1.3,
+       "label": "number one",
+       "anim": "shake"
+      },
+      {
+       "kind": "ball",
+       "x": 330,
+       "y": 810,
+       "scale": 0.8
+      },
+      {
+       "kind": "crown",
+       "x": 330,
+       "y": 470,
+       "scale": 0.7
+      }
+     ],
+     "cam": "shake",
+     "sfx": {
+      "text": "CREAK",
+      "x": 200,
+      "y": 800,
+      "r": 100
+     }
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.42,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "kane",
+       "x": 330,
+       "y": 1190,
+       "pose": "shock",
+       "emote": "shock",
+       "scale": 1.1,
+       "lift": 190
+      },
+      {
+       "id": "yamal",
+       "x": 700,
+       "y": 1440,
+       "pose": "jump",
+       "emote": "happy",
+       "scale": 1.3,
+       "flip": true,
+       "lift": 280
+      }
+     ],
+     "props": [
+      {
+       "kind": "podium-box",
+       "x": 330,
+       "y": 1400,
+       "scale": 1.3,
+       "label": "number one"
+      },
+      {
+       "kind": "ball",
+       "x": 330,
+       "y": 770,
+       "scale": 0.8
+      },
+      {
+       "kind": "crown",
+       "x": 330,
+       "y": 430,
+       "scale": 0.7
+      }
+     ],
+     "cam": "zoom-out"
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "yamal",
+       "x": 330,
+       "y": 1190,
+       "pose": "cheer",
+       "emote": "happy",
+       "scale": 1.15
+      },
+      {
+       "id": "kane",
+       "x": 800,
+       "y": 1440,
+       "pose": "sit",
+       "emote": "sad",
+       "scale": 1.3
+      }
+     ],
+     "props": [
+      {
+       "kind": "podium-box",
+       "x": 330,
+       "y": 1330,
+       "scale": 2.4,
+       "label": "number one"
+      },
+      {
+       "kind": "chair",
+       "x": 800,
+       "y": 1360,
+       "scale": 1.5,
+       "label": "fifth",
+       "layer": "back"
+      },
+      {
+       "kind": "ball",
+       "x": 800,
+       "y": 1170,
+       "scale": 0.8
+      },
+      {
+       "kind": "crown",
+       "x": 330,
+       "y": 580,
+       "scale": 0.7,
+       "anim": "drop"
+      }
+     ],
+     "sfx": {
+      "text": "DING",
+      "x": 640,
+      "y": 560,
+      "r": 110
+     },
+     "fx": [
+      {
+       "kind": "confetti",
+       "x": 330,
+       "y": 800
+      }
+     ]
+    }
+   ]
+  },
+  "s03": {
+   "type": "NEWS",
+   "name": "Raphinha",
+   "fact": "Raphinha is fourth, despite heavy scoring",
+   "ticker": "Fourth, cheekily",
+   "icons": [
+    "medal",
+    "ball",
+    "boot"
+   ],
+   "role": "striker",
+   "actor": "raphinha"
+  },
+  "s04": {
+   "type": "STATS",
+   "items": [
+    {
+     "icon": "medal",
+     "value": "5",
+     "label": "He is fifth"
+    },
+    {
+     "icon": "chart-down",
+     "value": "4",
+     "label": "down from fourth"
+    },
+    {
+     "icon": "crown",
+     "value": "1",
+     "label": "number one"
+    }
+   ]
+  },
+  "s05": {
+   "type": "COMIC",
+   "bg": "stadium",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "raphinha",
+       "x": 300,
+       "y": 1440,
+       "pose": "kick",
+       "emote": "happy",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "goal",
+       "x": 880,
+       "y": 1320,
+       "scale": 1.3
+      },
+      {
+       "kind": "ball",
+       "x": 500,
+       "y": 1390,
+       "scale": 0.9
+      },
+      {
+       "kind": "tag",
+       "x": 770,
+       "y": 560,
+       "scale": 1.7,
+       "label": "fourth",
+       "anim": "wobble"
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.42,
+     "actors": [
+      {
+       "id": "raphinha",
+       "x": 300,
+       "y": 1440,
+       "pose": "kick",
+       "emote": "happy",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "goal",
+       "x": 880,
+       "y": 1320,
+       "scale": 1.3
+      },
+      {
+       "kind": "ball",
+       "x": 890,
+       "y": 1330,
+       "scale": 0.8,
+       "anim": "arc"
+      },
+      {
+       "kind": "ball",
+       "x": 850,
+       "y": 1370,
+       "scale": 0.8,
+       "anim": "pop"
+      },
+      {
+       "kind": "tag",
+       "x": 770,
+       "y": 560,
+       "scale": 1.7,
+       "label": "fourth",
+       "anim": "wobble"
+      }
+     ],
+     "cam": "push"
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.42,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "raphinha",
+       "x": 380,
+       "y": 1440,
+       "pose": "shock",
+       "emote": "shock",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "goal",
+       "x": 880,
+       "y": 1320,
+       "scale": 1.3
+      },
+      {
+       "kind": "ball",
+       "x": 890,
+       "y": 1330,
+       "scale": 0.8
+      },
+      {
+       "kind": "ball",
+       "x": 850,
+       "y": 1370,
+       "scale": 0.8
+      },
+      {
+       "kind": "tag",
+       "x": 770,
+       "y": 560,
+       "scale": 1.7,
+       "label": "fourth",
+       "anim": "shake"
+      },
+      {
+       "kind": "crate",
+       "x": 770,
+       "y": 400,
+       "scale": 1.0,
+       "anim": "drop"
+      },
+      {
+       "kind": "medal",
+       "x": 400,
+       "y": 560,
+       "scale": 0.9,
+       "anim": "drop"
+      }
+     ],
+     "sfx": {
+      "text": "CLANG",
+      "x": 230,
+      "y": 560,
+      "r": 100
+     }
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "raphinha",
+       "x": 380,
+       "y": 1440,
+       "pose": "present",
+       "emote": "love",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "goal",
+       "x": 880,
+       "y": 1320,
+       "scale": 1.3
+      },
+      {
+       "kind": "ball",
+       "x": 890,
+       "y": 1330,
+       "scale": 0.8
+      },
+      {
+       "kind": "ball",
+       "x": 850,
+       "y": 1370,
+       "scale": 0.8
+      },
+      {
+       "kind": "tag",
+       "x": 770,
+       "y": 560,
+       "scale": 1.7,
+       "label": "fourth"
+      },
+      {
+       "kind": "crate",
+       "x": 770,
+       "y": 400,
+       "scale": 1.0
+      },
+      {
+       "kind": "coin",
+       "x": 380,
+       "y": 925,
+       "scale": 0.5,
+       "anim": "pop"
+      }
+     ],
+     "fx": [
+      {
+       "kind": "sparkle",
+       "x": 380,
+       "y": 925,
+       "size": 1.0
+      }
+     ]
+    }
+   ]
+  },
+  "s06": {
+   "type": "COMIC",
+   "bg": "training",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "kane",
+       "x": 260,
+       "y": 1440,
+       "pose": "kick",
+       "emote": "neutral",
+       "scale": 1.3
+      },
+      {
+       "id": "keeper",
+       "x": 590,
+       "y": 1440,
+       "pose": "crouch",
+       "emote": "sweat",
+       "scale": 1.15,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "goal",
+       "x": 640,
+       "y": 1000,
+       "scale": 2.4
+      },
+      {
+       "kind": "bin",
+       "x": 920,
+       "y": 1340,
+       "scale": 1.5,
+       "label": "finishing slump"
+      },
+      {
+       "kind": "ball",
+       "x": 470,
+       "y": 1390,
+       "scale": 1.0
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.42,
+     "actors": [
+      {
+       "id": "kane",
+       "x": 260,
+       "y": 1440,
+       "pose": "kick",
+       "emote": "angry-cheeky",
+       "scale": 1.3
+      },
+      {
+       "id": "keeper",
+       "x": 590,
+       "y": 1440,
+       "pose": "crouch",
+       "emote": "shock",
+       "scale": 1.15,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "goal",
+       "x": 640,
+       "y": 1000,
+       "scale": 2.4
+      },
+      {
+       "kind": "bin",
+       "x": 920,
+       "y": 1340,
+       "scale": 1.5,
+       "label": "finishing slump"
+      },
+      {
+       "kind": "ball",
+       "x": 640,
+       "y": 760,
+       "scale": 1.1,
+       "anim": "spin"
+      }
+     ],
+     "cam": "shake",
+     "sfx": {
+      "text": "CLANG",
+      "x": 880,
+      "y": 560,
+      "r": 100
+     }
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.42,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "kane",
+       "x": 260,
+       "y": 1440,
+       "pose": "shock",
+       "emote": "shock",
+       "scale": 1.3
+      },
+      {
+       "id": "keeper",
+       "x": 590,
+       "y": 1440,
+       "pose": "shrug",
+       "emote": "smug",
+       "scale": 1.15,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "goal",
+       "x": 640,
+       "y": 1000,
+       "scale": 2.4
+      },
+      {
+       "kind": "bin",
+       "x": 920,
+       "y": 1340,
+       "scale": 1.5,
+       "label": "finishing slump"
+      },
+      {
+       "kind": "ball",
+       "x": 930,
+       "y": 1290,
+       "scale": 1.0,
+       "anim": "arc"
+      }
+     ],
+     "sfx": {
+      "text": "THUD",
+      "x": 800,
+      "y": 600,
+      "r": 100
+     }
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "kane",
+       "x": 740,
+       "y": 1440,
+       "pose": "cheer",
+       "emote": "smug",
+       "scale": 1.4
+      },
+      {
+       "id": "keeper",
+       "x": 380,
+       "y": 1440,
+       "pose": "shrug",
+       "emote": "smug",
+       "scale": 1.15,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "goal",
+       "x": 640,
+       "y": 1000,
+       "scale": 2.4
+      },
+      {
+       "kind": "bin",
+       "x": 920,
+       "y": 1340,
+       "scale": 1.5,
+       "label": "finishing slump"
+      },
+      {
+       "kind": "ball",
+       "x": 880,
+       "y": 740,
+       "scale": 1.1,
+       "anim": "spin"
+      },
+      {
+       "kind": "crown",
+       "x": 740,
+       "y": 690,
+       "scale": 0.75,
+       "anim": "drop"
+      }
+     ],
+     "fx": [
+      {
+       "kind": "sparkle",
+       "x": 880,
+       "y": 740,
+       "size": 1.3
+      }
+     ]
+    }
+   ]
+  },
+  "s07": {
+   "type": "PROVOC",
+   "q": "Shot quality or heavy scoring?",
+   "a": "Quality",
+   "b": "Scoring",
+   "split": [
+    47,
+    53
+   ],
+   "mood": "fun"
+  },
+  "s08": {
+   "type": "INTERVIEW",
+   "label": "REPORTER ASKS",
+   "bubble": "Could you borrow his notebook?",
+   "answer": {
+    "icon": "notepad",
+    "gesture": "headscratch",
+    "emote": "sweat"
+   },
+   "subject": "Kane",
+   "subject_cast": "kane",
+   "subject_role": "striker",
+   "reporter_role": "reporter"
+  }
+ }
+}

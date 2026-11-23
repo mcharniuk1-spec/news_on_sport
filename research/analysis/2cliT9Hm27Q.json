@@ -1,0 +1,240 @@
+{
+ "video_id": "2cliT9Hm27Q",
+ "topic": "Short news-meme montage about Jack Grealish and his brother's partying habits, with auto-captions over social/phone clips",
+ "hero": "Jack Grealish (named in caption); also unidentified men in pub and golf clips",
+ "hero_role": "subject of the gossip story",
+ "media_type_overall": "mixed",
+ "hook": "Street celebration with shirtless man in Man City shirt, caption 'Jack Grealish'",
+ "subtitle_style": "Small white lowercase auto-caption words, bottom-centre, black outline, one short phrase per beat (e.g. 'having the craziest', 'because this brother')",
+ "reaction_overlays": "none; clips cropped to vertical, occasional zoom-in",
+ "transition_summary": "Fast montage: 15 cuts in 54 s, about 3 cuts per 10 s; hard cuts between unrelated social clips, TV interview, celebration footage",
+ "audio_note": "Voice-over reading the story; auto-caption text visible; no transcript",
+ "reuse_segments": [
+  {
+   "t0": 0,
+   "t1": 54,
+   "what": "Social and TV clips of Grealish gossip",
+   "origin_guess": "social media / TV",
+   "rights_risk": "high",
+   "how_to_reuse": "needs licensed clips; recreate with generated imagery or short fair-use cuts"
+  }
+ ],
+ "frames": [
+  {
+   "idx": 1,
+   "t": 0,
+   "desc": "Man City fans celebrating on street, shirtless man, caption",
+   "type": "video",
+   "text_on_screen": "Jack Grealish",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 2,
+   "t": 2,
+   "desc": "Shirtless man in Man City shirt walking, man in suit beside, caption",
+   "type": "video",
+   "text_on_screen": "having the craziest",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 3,
+   "t": 4,
+   "desc": "Pub interior, men at red chairs, caption",
+   "type": "video",
+   "text_on_screen": "because this brother",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 4,
+   "t": 6,
+   "desc": "Pub interior, men standing at bar, caption",
+   "type": "video",
+   "text_on_screen": "and unfortunately it's",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 5,
+   "t": 8,
+   "desc": "Pub interior, two men near TV, caption",
+   "type": "video",
+   "text_on_screen": "football",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 6,
+   "t": 10,
+   "desc": "Pub interior, men in dark clothes, caption",
+   "type": "video",
+   "text_on_screen": "Everton had dropped",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 7,
+   "t": 12,
+   "desc": "Man in grey hoodie drinking at pub table, group of women, caption",
+   "type": "video",
+   "text_on_screen": "my guy was",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 8,
+   "t": 14,
+   "desc": "Man in grey hoodie at pub table, caption",
+   "type": "video",
+   "text_on_screen": "hours of the",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 9,
+   "t": 16,
+   "desc": "Group on boat at sea, shirtless man in city shirt, caption",
+   "type": "video",
+   "text_on_screen": "without football",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 10,
+   "t": 18,
+   "desc": "Men embracing on boat, caption",
+   "type": "video",
+   "text_on_screen": "Champions League final",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 11,
+   "t": 20,
+   "desc": "Man in pink polo and white cap at golf course, caption",
+   "type": "video",
+   "text_on_screen": "of drinking this",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 12,
+   "t": 22,
+   "desc": "Man in blue cap and pink polo shaking hands on golf course, caption",
+   "type": "video",
+   "text_on_screen": "for real he",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 13,
+   "t": 24,
+   "desc": "Man City players celebrating in team shirts, caption",
+   "type": "video",
+   "text_on_screen": "point",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 14,
+   "t": 26,
+   "desc": "Player in blue shirt with medal at interview stand, caption",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 15,
+   "t": 28,
+   "desc": "Man in dark jumper in front of 'Truth Liberty Justice' sign, caption",
+   "type": "video",
+   "text_on_screen": "Jack apparently spends",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 16,
+   "t": 30,
+   "desc": "Group at outdoor cafe table, man with beard on phone, caption",
+   "type": "video",
+   "text_on_screen": "and can we",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 17,
+   "t": 32,
+   "desc": "Group at outdoor cafe, man sleeping, caption",
+   "type": "video",
+   "text_on_screen": "him sleeping at",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 18,
+   "t": 34,
+   "desc": "Man in Everton shirt tired on pitch, caption",
+   "type": "video",
+   "text_on_screen": "completed 120 minutes",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 19,
+   "t": 36,
+   "desc": "Man walking in street, police in background, caption",
+   "type": "video",
+   "text_on_screen": "of extra time",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 20,
+   "t": 38,
+   "desc": "Man in dark with concert lights behind, caption",
+   "type": "video",
+   "text_on_screen": "at this point",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 21,
+   "t": 40,
+   "desc": "Man on stage with mic, Man City crest backdrop, caption",
+   "type": "video",
+   "text_on_screen": "fitness tracker counts",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 22,
+   "t": 42,
+   "desc": "Man with beard and man with blond hair beside photographer, caption",
+   "type": "video",
+   "text_on_screen": "instead of Premier",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 23,
+   "t": 44,
+   "desc": "Man with ponytail in grey jacket in interview, caption",
+   "type": "video",
+   "text_on_screen": "if he's genuinely",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 24,
+   "t": 46,
+   "desc": "Man with blond hair in grey jacket in interview, caption",
+   "type": "video",
+   "text_on_screen": "I really hope",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 25,
+   "t": 48,
+   "desc": "Close selfie video of blond man outdoors in City scarf, caption",
+   "type": "video",
+   "text_on_screen": "cause this is",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 26,
+   "t": 50,
+   "desc": "Same selfie video, man talking, caption",
+   "type": "video",
+   "text_on_screen": "and it would",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 27,
+   "t": 52,
+   "desc": "Same selfie video, man talking, caption",
+   "type": "video",
+   "text_on_screen": "this",
+   "transition_to_next": "none"
+  }
+ ]
+}

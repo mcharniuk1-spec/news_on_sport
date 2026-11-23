@@ -1,0 +1,12 @@
+{
+ "91": {"risk_flags": ["betting_under18_appeal", "off_topic_footage_risk", "single_source"]},
+ "92": {"scope": "other_leagues", "uk_relevance": "medium"},
+ "93": {"hook_type": "contrast_twist", "payoff_type": "callback_to_hook", "hook_type_alt": "stat_shock"},
+ "94": {"humour_type": "wordplay", "risk_flags": ["betting_under18_appeal", "single_source"]},
+ "95": {"topic_primary": "transfer_story", "story_structure": "stat_stack", "risk_flags": ["overlap_other_video", "single_source"]},
+ "96": {"twist_position": "none"},
+ "97": {"comment_bait": "none"},
+ "98": {"hook_type_alt": "none"},
+ "99": {"payoff_type": "callback_to_hook", "hook_type_alt": "none"},
+ "100": {"story_structure": "stat_stack"}
+}

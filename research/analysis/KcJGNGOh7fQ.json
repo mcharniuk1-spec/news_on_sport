@@ -1,0 +1,64 @@
+{
+ "video_id": "KcJGNGOh7fQ",
+ "topic": "Football meme: 'POV: Ronaldinho playing in the Italy 3rd league' (older man in cage pitch) then Milan-kit clip, titled 'Still better than Garnacho'",
+ "hero": "Ronaldinho (per caption) / unidentified older man",
+ "hero_role": "butt of joke / comparison subject",
+ "media_type_overall": "mixed",
+ "hook": "Letterboxed grainy clip of older man in jacket dribbling ball in a night-time cage pitch, caption 'POV: Ronaldinho playing in the italy 3rd league'",
+ "subtitle_style": "White caption with black outline and laugh emoji, centred, small size",
+ "reaction_overlays": "Caption only; letterbox bars",
+ "transition_summary": "1 hard cut at 5 s; each section ~5 s; fast",
+ "audio_note": "Meme audio: Scottish-accented threat ('John Park, young fellow, I'm going to batter the face off you')",
+ "reuse_segments": [
+  {
+   "t0": 0,
+   "t1": 4,
+   "what": "Night cage-pitch clip of older man dribbling",
+   "origin_guess": "fan edit",
+   "rights_risk": "medium",
+   "how_to_reuse": "social clip; recreate with own footage"
+  },
+  {
+   "t0": 4,
+   "t1": 9,
+   "what": "Milan-kit dribbling clip with Ford board",
+   "origin_guess": "broadcast match",
+   "rights_risk": "high",
+   "how_to_reuse": "archive broadcast rights"
+  }
+ ],
+ "frames": [
+  {
+   "idx": 1,
+   "t": 0,
+   "desc": "Older man in jacket dribbles ball in cage pitch, caption",
+   "type": "video",
+   "text_on_screen": "POV: Ronaldinho playing in the italy 3rd league 🤣",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 2,
+   "t": 2,
+   "desc": "Second man in dark clothes dribbles, caption",
+   "type": "video",
+   "text_on_screen": "POV: Ronaldinho playing in the italy 3rd league 🤣",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 3,
+   "t": 4,
+   "desc": "Player in AC Milan red-black with headband close, broadcast",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 4,
+   "t": 6,
+   "desc": "Milan-kit player dribbles on pitch, Ford board",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "none"
+  }
+ ]
+}

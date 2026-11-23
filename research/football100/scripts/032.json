@@ -1,0 +1,79 @@
+{
+ "no": 32,
+ "subject": "England beat Spain 3-2 in Madrid, ending Spain's 43-match run without a competitive defeat",
+ "title": "England end Spain's 43-game run",
+ "voice": "EL_B",
+ "comic": false,
+ "style": null,
+ "lines": [
+  {
+   "vo": "Forty-three games unbeaten. Then England popped round to Madrid.",
+   "card": "43 games unbeaten",
+   "sfx": null,
+   "footage": "England 3-2 Spain Nations League highlights"
+  },
+  {
+   "vo": "Harry Kane scored a penalty. Ezri Konsa and Ben White added two more. Three-nil, in Madrid.",
+   "card": "Three-nil lead",
+   "sfx": null,
+   "footage": "Kane penalty Spain England Madrid"
+  },
+  {
+   "vo": "Then Elliot Anderson was sent off for fouling Lamine Yamal. England made it interesting, as ever.",
+   "card": "Red card",
+   "sfx": null,
+   "footage": "Elliot Anderson red card Yamal"
+  },
+  {
+   "vo": "Oyarzabal and Nico Williams pulled it back. Yamal set up both. He is nineteen. At nineteen, I could barely boil pasta.",
+   "card": "Yamal assists",
+   "sfx": null,
+   "footage": "Spain England Metropolitano Yamal assists"
+  },
+  {
+   "vo": "Tuchel called it the best result of his England tenure. Spain's first home defeat in over four years.",
+   "card": "Spain's first home loss",
+   "sfx": null,
+   "footage": "Tuchel press conference Spain win"
+  },
+  {
+   "vo": "Think you can call the next one? Betting tips, news and predictions at aboutfootball dot UK.",
+   "card": "aboutfootball.UK",
+   "sfx": null,
+   "footage": "end card"
+  }
+ ],
+ "chars": 563,
+ "est_seconds": 31,
+ "footage_terms": [
+  "England 3-2 Spain Nations League highlights",
+  "Spain England Metropolitano Yamal assists",
+  "Spain unbeaten streak ends England",
+  "Elliot Anderson red card Yamal"
+ ],
+ "inserts": [
+  {
+   "after_line": 0,
+   "story": "A cartoon team in white shirts rings the doorbell of a huge stadium door. Gag: a chain of 43 links hangs across the entrance and they snip it with giant scissors. Twist: the door opens and a surprised cartoon bull in a red shirt waves hello.",
+   "characters": "generic cartoon team in white shirts",
+   "seconds": 2
+  },
+  {
+   "after_line": 2,
+   "story": "A generic cartoon teenage winger with a school backpack dribbles past two defenders. Gag: he sets up two team-mates with perfect passes, one after another. Twist: a cartoon alarm clock rings and he checks his homework planner.",
+   "characters": "generic cartoon teenage winger",
+   "seconds": 2
+  }
+ ],
+ "facts_used": [
+  "England won 3-2 in Madrid on 15 November in the Nations League after leading 3-0; ended Spain's 43-match unbeaten run over three years (ev0024)",
+  "Elliot Anderson sent off in the 63rd minute for fouling Lamine Yamal (ev0024)",
+  "Spain's goals from Oyarzabal (penalty) and Nico Williams, both created by Yamal (ev0024)",
+  "Kane (penalty), Konsa and White scored for England (ev0024)",
+  "Tuchel called it the best result of his England tenure (ev0024)",
+  "First home loss for Spain in over four years (ev0024)",
+  "Yamal is 19 (ev0024 background)"
+ ],
+ "comic_score": 6,
+ "notes": "Non-comic, no inserts. Facts unchanged; goal order moved so the 3-0 lead comes before the red card. Spain coach quote not used. 'Barely boil pasta' is a narrator gag, not a claim about Yamal. Source: ev0024."
+}

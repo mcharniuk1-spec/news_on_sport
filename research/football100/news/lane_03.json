@@ -1,0 +1,546 @@
+[
+  {
+    "headline": "Crystal Palace sack Pierre Sage after five months with the club bottom of the league",
+    "date": "2026-11-12",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50211714/pierre-sage-sacked-crystal-palace-manager",
+    "entities": ["Crystal Palace", "Pierre Sage", "Steve Parish"],
+    "facts": [
+      "Palace dismissed head coach Pierre Sage on 12 November 2026, about five months into the job.",
+      "Palace had lost four league games in a row and sat bottom of the Premier League with seven points.",
+      "Under Sage the club won two league games from ten and one of four Europa League matches."
+    ],
+    "background": "Sage was hired in June 2026 on a three-year deal. Chairman Steve Parish said new squad cost rules forced Palace to sell players, and the club had the lowest net spend in the league last summer.",
+    "angle": "coach",
+    "sensitive": false,
+    "footage_terms": ["Crystal Palace Sage sacked", "Pierre Sage press conference Crystal Palace", "Crystal Palace Liverpool 3-1 highlights"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Thomas Frank appointed Crystal Palace manager on a deal to June 2029",
+    "date": "2026-11-16",
+    "source_domain": "cpfc.co.uk",
+    "url": "https://www.cpfc.co.uk/news/announcement/thomas-frank-appointed-crystal-palace-manager/",
+    "entities": ["Thomas Frank", "Crystal Palace", "Steve Parish", "Tottenham Hotspur", "Brentford"],
+    "facts": [
+      "Palace announced Frank as manager on 16 November 2026 on a contract running until June 2029.",
+      "His most recent job was Tottenham Hotspur.",
+      "Chairman Steve Parish pointed to Frank's record of building winning teams and improving players."
+    ],
+    "background": "Frank managed Brentford before Tottenham and won promotion to the Premier League with them in 2020/21.",
+    "angle": "coach",
+    "sensitive": false,
+    "footage_terms": ["Thomas Frank Crystal Palace appointed", "Thomas Frank Brentford promotion 2021", "Thomas Frank first interview Palace"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Frank jokes he may tell more about his Spurs spell and wants no repeat of the Arsenal coffee cup",
+    "date": "2026-11-19",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50534780/thomas-frank-crystal-palace-arsenal-tottenham-coffee-cup",
+    "entities": ["Thomas Frank", "Crystal Palace", "Tottenham Hotspur", "Arsenal"],
+    "facts": [
+      "In January, Frank was photographed as Spurs manager drinking from a cup with the Arsenal logo, before a loss to Bournemouth.",
+      "He says he did not notice the cup and called the idea of knowingly drinking from a rival's cup ridiculous.",
+      "At his Palace unveiling he hinted he may say more one day about his Spurs spell; Spurs sacked him in February after just under eight months."
+    ],
+    "background": "Frank earned a Manager of the Year nomination at Brentford, where he was seen as a calm, stabilising manager, before his short and difficult spell at Tottenham.",
+    "angle": "viral",
+    "sensitive": false,
+    "footage_terms": ["Thomas Frank Arsenal cup Tottenham", "Thomas Frank Palace press conference", "Thomas Frank Tottenham sacked"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Frank brings three coaches with him to Palace, two from his Brentford days",
+    "date": "2026-11-19",
+    "source_domain": "cpfc.co.uk",
+    "url": "https://www.cpfc.co.uk/news/announcement/thomas-frank-new-coaching-staff-release/",
+    "entities": ["Thomas Frank", "Justin Cochrane", "Chris Haslam", "Bernardo Cueva", "Crystal Palace"],
+    "facts": [
+      "Justin Cochrane joins as first-team coach; he worked with Frank at Brentford and Tottenham and currently works with England.",
+      "Chris Haslam joins as fitness and athletic performance coach after working with Frank at Brentford.",
+      "Bernardo Cueva joins from Chelsea, where he was set-piece coach, and also worked with Frank at Brentford."
+    ],
+    "background": "Frank is already supported at Palace by coaches Paddy McCarthy and Andy Quy. Set pieces and defensive transitions are named by Frank as key areas to fix.",
+    "angle": "coach",
+    "sensitive": false,
+    "footage_terms": ["Crystal Palace Frank coaching staff", "Frank first Palace training session", "Chelsea set piece coach Bernardo Cueva"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Liverpool beat Palace 3-1 at Selhurst Park as pressure on Sage grows",
+    "date": "2026-11-08",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50418964/liverpool-bradley-barcola-alexander-isak-florian-wirtz-crystal-palace",
+    "entities": ["Crystal Palace", "Liverpool", "Pierre Sage", "Alexander Isak", "Florian Wirtz", "Eddie Nketiah"],
+    "facts": [
+      "Liverpool won 3-1 at Selhurst Park on 8 November 2026.",
+      "Alexis Mac Allister, Florian Wirtz and Alexander Isak scored for Liverpool.",
+      "Eddie Nketiah pulled one back with a stoppage-time penalty after a foul by Milos Kerkez."
+    ],
+    "background": "Palace were bottom of the table, and Sage had lost seven of his first ten league games in charge.",
+    "angle": "scandal",
+    "sensitive": false,
+    "footage_terms": ["Crystal Palace Liverpool 3-1 highlights", "Wirtz goal Selhurst Park", "Isak goal Crystal Palace"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Australia coach Tony Popovic waves off links to the Palace job",
+    "date": "2026-11-09",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50430228/tony-popovic-waves-links-crystal-palace-gig",
+    "entities": ["Tony Popovic", "Crystal Palace", "Football Australia", "Thomas Frank", "Sean Dyche"],
+    "facts": [
+      "Popovic, 53, called the Palace links speculation and gave no guarantee about staying beyond his Australia contract, which ends in March.",
+      "He confirmed talks with Football Australia about an extension have started.",
+      "Thomas Frank, Sean Dyche and Vitor Pereira were also linked with Palace at the time."
+    ],
+    "background": "Popovic played for Crystal Palace for five years, including their 2004-05 Premier League season, and later worked there as an assistant.",
+    "angle": "coach",
+    "sensitive": false,
+    "footage_terms": ["Tony Popovic Crystal Palace player", "Tony Popovic Australia coach interview", "Crystal Palace 2004-05 Premier League"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Brighton beat 10-man Brentford 2-0 to jump above Man City into second",
+    "date": "2026-11-08",
+    "source_domain": "skysports.com",
+    "url": "https://www.skysports.com/football/brighton-vs-brentford/report/559535",
+    "entities": ["Brighton", "Brentford", "Fabian Hurzeler", "Keith Andrews", "Igor Thiago", "Diego Gomez", "Pascal Gross"],
+    "facts": [
+      "Brighton won 2-0 at the Amex on 8 November 2026: Diego Gomez scored in the 15th minute and Pascal Gross added a penalty just before half-time.",
+      "Igor Thiago was sent off in the 23rd minute after a VAR review for catching Chema Andres.",
+      "Brighton moved above Manchester City into second place, five points behind leaders Arsenal."
+    ],
+    "background": "Brighton are coached by Fabian Hurzeler, and Brentford by Keith Andrews, who took over after Thomas Frank left for Tottenham in 2025.",
+    "angle": "win",
+    "sensitive": false,
+    "footage_terms": ["Brighton Brentford 2-0 highlights", "Igor Thiago red card Brighton", "Hurzeler press conference Brentford"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Thiago red card appeal fails: Brentford striker banned for three games",
+    "date": "2026-11-10",
+    "source_domain": "brentfordfc.com",
+    "url": "https://www.brentfordfc.com/en/news/first-team-igor-thiago-brighton-red-card-appeal-unsuccessful",
+    "entities": ["Igor Thiago", "Brentford", "Keith Andrews", "Callum Wilson"],
+    "facts": [
+      "Brentford's appeal against Thiago's red card against Brighton was rejected on 10 November 2026.",
+      "The ban is three Premier League games, covering Everton, Manchester United and Arsenal.",
+      "Andrews says the squad is built to cope without key players, and Callum Wilson is expected to lead the attack."
+    ],
+    "background": "Thiago joined from Club Brugge in 2024 for a club-record 30 million pounds and was last season's Golden Boot runner-up. He scored a hat-trick in Brentford's 4-2 win at Everton last season.",
+    "angle": "scandal",
+    "sensitive": false,
+    "footage_terms": ["Igor Thiago hat-trick Everton Brentford", "Igor Thiago goals Brentford", "Callum Wilson Brentford goal"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Hurzeler says he is fully committed to Brighton after Man United rumours",
+    "date": "2026-11-20",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50540734/fabin-hurzeler-brighton-man-united-mauricio-pochettino",
+    "entities": ["Fabian Hurzeler", "Brighton", "Manchester United", "Mauricio Pochettino", "Tony Bloom"],
+    "facts": [
+      "Hurzeler told a press conference he is fully committed to Brighton and called outside interest speculation.",
+      "Reports said Manchester United had considered him to replace the sacked Michael Carrick; Mauricio Pochettino was appointed United's head coach instead.",
+      "Brighton are second in the Premier League and face Hull on Sunday."
+    ],
+    "background": "Hurzeler credited chairman Tony Bloom for backing him; Brighton under him have climbed to the top of the table race.",
+    "angle": "coach",
+    "sensitive": false,
+    "footage_terms": ["Hurzeler Brighton press conference", "Fabian Hurzeler Brighton highlights", "Pochettino Manchester United appointed"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Man City 0-1 Brighton: Ayari goal stuns the Etihad and cuts the gap to the top",
+    "date": "2026-10-31",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50335782/premier-league-latest-updates-scores-results-commentary",
+    "entities": ["Brighton", "Manchester City", "Yasin Ayari", "Bart Verbruggen"],
+    "facts": [
+      "Brighton won 1-0 at the Etihad on 31 October 2026 through an early goal by Yasin Ayari.",
+      "The win left Brighton within two points of Manchester City at the top of the league.",
+      "It was City's second straight league defeat after seven unbeaten games; goalkeeper Bart Verbruggen kept them out."
+    ],
+    "background": "Brighton's rise this season has led ESPN to ask whether they are among the Premier League's most complete teams.",
+    "angle": "win",
+    "sensitive": false,
+    "footage_terms": ["Man City Brighton 0-1 highlights", "Yasin Ayari goal Man City", "Verbruggen saves Man City"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Barcelona renew interest in Brighton's Vuskovic as Real Madrid watch Chema",
+    "date": "2026-11-19",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50529152/transfer-rumors-news-cristiano-ronaldo-premier-league-carlos-forbs",
+    "entities": ["Brighton", "Luka Vuskovic", "Chema Andres", "Barcelona", "Real Madrid"],
+    "facts": [
+      "Reports say Barcelona have renewed efforts to sign centre-back Luka Vuskovic; Bayern, Real Madrid and Liverpool are also watching him.",
+      "Real Madrid are reported to be monitoring midfielder Chema Andres as a possible return.",
+      "Brighton themselves are among clubs reported to be tracking Club Brugge winger Carlos Forbs and Monza striker Gustavo Varela."
+    ],
+    "background": "Vuskovic was bought by Brighton from Tottenham for a reported 46 million pounds in the summer.",
+    "angle": "transfer",
+    "sensitive": false,
+    "footage_terms": ["Luka Vuskovic Brighton highlights", "Chema Andres Brighton goal", "Carlos Forbs Club Brugge highlights"],
+    "confidence": "low"
+  },
+  {
+    "headline": "Jack Grealish apologises publicly after returning from a club discipline breach",
+    "date": "2026-11-12",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50465734/jack-grealish-public-apology-everton-comeback",
+    "entities": ["Jack Grealish", "Everton", "David Moyes"],
+    "facts": [
+      "Grealish had not played for Everton since 17 October and missed four matches after what the club called a breach of club discipline.",
+      "He apologised on Instagram to fans and the club, saying he could not help the team in recent weeks.",
+      "He returned in a closed-door friendly against Derby at Hill Dickinson Stadium."
+    ],
+    "background": "Grealish spent the first half of 2025-26 on loan at Everton, where injury cut his spell short, and returned on another temporary deal on deadline day. Details of the breach have not been made public.",
+    "angle": "scandal",
+    "sensitive": false,
+    "footage_terms": ["Jack Grealish Everton highlights", "Moyes Grealish press conference", "Grealish Everton assist"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Everton 3-1 Coventry: Barry double lifts Toffees to fifth as Lampard rages at the referee",
+    "date": "2026-11-06",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/report/_/gameId/401879242",
+    "entities": ["Everton", "Coventry City", "Thierno Barry", "Frank Lampard", "James Tarkowski", "Kiernan Dewsbury-Hall"],
+    "facts": [
+      "Everton came from behind to win 3-1 at Hill Dickinson Stadium on 6 November 2026; Thierno Barry scored twice and Kiernan Dewsbury-Hall added the third.",
+      "The win lifted Everton to fifth with 16 points from 10 games; Coventry stayed in the relegation zone on nine.",
+      "Coventry manager Frank Lampard complained about three decisions, including a Tarkowski hair-pull on Caleb Yirenkyi that was not penalised and a handball check on Barry's second goal."
+    ],
+    "background": "Everton finished 13th last season under David Moyes, who returned to the club in January 2025.",
+    "angle": "win",
+    "sensitive": false,
+    "footage_terms": ["Everton Coventry 3-1 highlights", "Lampard referee Coventry Everton press conference", "Thierno Barry goal Coventry"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Newcastle 0-1 Everton: Barry wins it for Moyes' side in a second win over the Magpies in four days",
+    "date": "2026-11-02",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50361954/moyes-second-everton-win-newcastle",
+    "entities": ["Everton", "Newcastle United", "Thierno Barry", "David Moyes", "Matthias Jaissle", "Jacob Ramsey"],
+    "facts": [
+      "Everton won 1-0 at St James' Park on 2 November 2026 through Thierno Barry's fourth league goal of the season.",
+      "It followed a 3-1 Everton win over Newcastle in the Carabao Cup four days earlier.",
+      "It was Everton's first away league win of the season; Newcastle's Jacob Ramsey was sent off late and Newcastle sit 13th."
+    ],
+    "background": "Newcastle are managed by Matthias Jaissle, whose side admitted afterwards they must improve.",
+    "angle": "win",
+    "sensitive": false,
+    "footage_terms": ["Newcastle Everton 0-1 highlights", "Thierno Barry winner Newcastle", "Moyes post match Newcastle"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Moyes set to pass Harry Catterick's Everton games record at Brentford",
+    "date": "2026-11-20",
+    "source_domain": "evertonfc.com",
+    "url": "https://www.evertonfc.com/news/2026/november/20/Surprise-Presentation-For-Moyes-Ahead-Of-Record-Breaking-Fixture/",
+    "entities": ["David Moyes", "Everton", "Harry Catterick", "James Tarkowski", "Leon Osman"],
+    "facts": [
+      "Brentford away on Monday 23 November will be Moyes' 593rd match as Everton manager, passing Harry Catterick on the club's all-time list.",
+      "Captain James Tarkowski and former midfielder Leon Osman presented Moyes with a signed commemorative frame.",
+      "Osman said he doubts the record will ever be beaten."
+    ],
+    "background": "Moyes first managed Everton from 2002 to 2013 and returned in January 2025, when the club were 16th.",
+    "angle": "record",
+    "sensitive": false,
+    "footage_terms": ["David Moyes Everton record press conference", "Moyes Everton 2002 2013 best moments", "Everton Brentford Moyes 593"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Man United reportedly weigh Everton's Branthwaite and Fulham's Bassey and Robinson",
+    "date": "2026-11-19",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50529152/transfer-rumors-news-cristiano-ronaldo-premier-league-carlos-forbs",
+    "entities": ["Manchester United", "Jarrad Branthwaite", "Calvin Bassey", "Antonee Robinson", "Mauricio Pochettino"],
+    "facts": [
+      "ESPN's rumour roundup, citing Sky Sports, says United are considering Everton's Jarrad Branthwaite and Fulham's Calvin Bassey to strengthen their defence.",
+      "United are also reportedly monitoring Fulham left-back Antonee Robinson, who worked with Pochettino with the USMNT.",
+      "These are transfer rumours, not confirmed approaches."
+    ],
+    "background": "Pochettino was appointed Manchester United head coach in November 2026 after Michael Carrick was sacked.",
+    "angle": "transfer",
+    "sensitive": false,
+    "footage_terms": ["Jarrad Branthwaite Everton highlights", "Calvin Bassey Fulham best moments", "Antonee Robinson Fulham highlights"],
+    "confidence": "low"
+  },
+  {
+    "headline": "Everton the Premier League's sleeping giant: sixth, but Barry leads the league in missed big chances",
+    "date": "2026-11-17",
+    "source_domain": "skysports.com",
+    "url": "https://www.skysports.com/football/news/13612885/everton-how-premier-leagues-sleeping-giant-are-exceeding-expectations-ahead-of-brentford-test",
+    "entities": ["Everton", "David Moyes", "Thierno Barry", "Kiernan Dewsbury-Hall"],
+    "facts": [
+      "Everton are sixth, two points off the top four after 10 games, and are into the Carabao Cup quarter-finals.",
+      "They have lost only twice, to Chelsea at home and Arsenal away.",
+      "Thierno Barry has six league goals but has also missed more big chances than any other Premier League player this season."
+    ],
+    "background": "Moyes returned in January 2025 when Everton were 16th and finished 13th; he says a striker and a right-back are January priorities.",
+    "angle": "win",
+    "sensitive": false,
+    "footage_terms": ["Everton Premier League highlights 2026", "Thierno Barry missed chances", "Dewsbury-Hall Everton goal"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Brentford without Hickey and Collins for weeks as both are hurt on international duty",
+    "date": "2026-11-20",
+    "source_domain": "brentfordfc.com",
+    "url": "https://www.brentfordfc.com/en/news/first-team-brentford-v-everton-team-news-aaron-hickey-nathan-collins-injury-update",
+    "entities": ["Aaron Hickey", "Nathan Collins", "Brentford", "Keith Andrews", "Everton"],
+    "facts": [
+      "Aaron Hickey has a hamstring injury and Nathan Collins a knee injury, both picked up on international duty.",
+      "Head coach Keith Andrews says both will be out for a number of weeks, with Collins about two weeks.",
+      "Brentford host Everton on Monday 23 November at 8pm GMT; Thiago is suspended and Rico Henry and Kaye Furo remain out."
+    ],
+    "background": "Hickey plays for Scotland, and Collins captained Brentford in the Carabao Cup tie at Sunderland.",
+    "angle": "coach",
+    "sensitive": true,
+    "footage_terms": ["Brentford Everton preview Andrews", "Keith Andrews press conference injuries", "Brentford team news Hickey Collins"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Brentford call police over rugby ball thrown at pitch in Liverpool defeat",
+    "date": "2026-10-19",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50219498/brentford-contact-police-dangerous-rugby-ball-stunt-liverpool-game",
+    "entities": ["Brentford", "Liverpool", "Alexander Isak", "Gtech Community Stadium"],
+    "facts": [
+      "Footage showed a person apparently kicking a rugby ball toward the pitch from a nearby rooftop during Brentford v Liverpool on 17 October 2026.",
+      "Brentford called the behaviour dangerous, referred it to police and are supporting the investigation.",
+      "Liverpool won 2-1 with a late Alexander Isak goal while Brentford were down to nine men."
+    ],
+    "background": "The Liverpool win moved Liverpool above Brentford into fifth place.",
+    "angle": "viral",
+    "sensitive": true,
+    "footage_terms": ["Brentford Liverpool 2-1 highlights", "Isak winner Brentford", "Brentford rugby ball pitch"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Brentford 2-0 Nottingham Forest ends winless run and adds pressure on Glasner",
+    "date": "2026-10-31",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/report/_/gameId/401879249",
+    "entities": ["Brentford", "Nottingham Forest", "Oliver Glasner", "Igor Thiago", "Nikola Milenkovic"],
+    "facts": [
+      "Brentford won 2-0 on 31 October 2026: Nikola Milenkovic scored an own goal in the 30th minute and Igor Thiago added a second in the 76th.",
+      "It ended a four-match winless run and was Brentford's 100th Premier League match at the Gtech.",
+      "Forest had 12 shots but only two on target and have scored just six league goals this season."
+    ],
+    "background": "Oliver Glasner previously managed Crystal Palace before his move to Forest.",
+    "angle": "win",
+    "sensitive": false,
+    "footage_terms": ["Brentford Nottingham Forest 2-0 highlights", "Milenkovic own goal Brentford", "Glasner press conference Forest"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Liverpool reportedly eye Brentford's Diouf as doubts grow over Kerkez",
+    "date": "2026-11-12",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50459800/transfer-rumors-news-gossip-arsenal-chelsea-liverpool-scott",
+    "entities": ["El Hadji Malick Diouf", "Brentford", "Liverpool", "Milos Kerkez"],
+    "facts": [
+      "Liverpool are reportedly interested in Brentford full-back El Hadji Malick Diouf, 21, a Senegal international.",
+      "They want to reinforce the left side in January because of doubts about Milos Kerkez's consistency.",
+      "Brentford are said to be reluctant to sell."
+    ],
+    "background": "Diouf is a Senegal international who moved to Brentford in the summer.",
+    "angle": "transfer",
+    "sensitive": false,
+    "footage_terms": ["El Hadji Malick Diouf Brentford highlights", "Malick Diouf Senegal", "Kerkez Liverpool mistakes"],
+    "confidence": "low"
+  },
+  {
+    "headline": "Alex Iwobi's goal gives Arbeloa's Fulham their first Premier League win, 1-0 over Hull",
+    "date": "2026-10-17",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/report/_/gameId/401878770",
+    "entities": ["Fulham", "Hull City", "Alex Iwobi", "Alvaro Arbeloa", "Ryan Sessegnon"],
+    "facts": [
+      "Fulham beat Hull City 1-0 at Craven Cottage on 17 October 2026 through Alex Iwobi's 33rd-minute goal.",
+      "It was Alvaro Arbeloa's first league win after six league games without one, and it lifted Fulham out of the bottom three.",
+      "Ryan Sessegnon was sent off late for a foul on Robinio Vaz."
+    ],
+    "background": "Arbeloa is the Spanish former Real Madrid defender now in charge at Fulham.",
+    "angle": "coach",
+    "sensitive": false,
+    "footage_terms": ["Fulham Hull City 1-0 highlights", "Iwobi goal Hull Fulham", "Arbeloa Fulham press conference"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Iwobi equals Salah's Premier League appearance mark as Fulham win at Coventry",
+    "date": "2026-10-27",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/espn/story/_/id/50295832/alex-iwobi-equals-mohamed-salah-premier-league-appearance-mark-closes-toures",
+    "entities": ["Alex Iwobi", "Fulham", "Mohamed Salah", "Kolo Toure", "Oscar Bobb", "Coventry City"],
+    "facts": [
+      "Iwobi made his 328th Premier League appearance in Fulham's 1-0 win at Coventry, level with Mohamed Salah as the African with the second-most appearances.",
+      "Kolo Toure leads on 353, so Iwobi is 25 short of equalling him.",
+      "Oscar Bobb scored the only goal in the 80th minute, his first Premier League goal for Fulham, in the club's first away win in nine attempts."
+    ],
+    "background": "Iwobi made his Premier League debut for Arsenal in 2015 and rejoined Fulham in 2023. He has passed Shola Ameobi's Nigerian appearance record.",
+    "angle": "record",
+    "sensitive": false,
+    "footage_terms": ["Alex Iwobi Premier League best moments", "Fulham Coventry 1-0 highlights", "Oscar Bobb goal Fulham Coventry"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Zion Suzuki drops a corner as Fulham steal a 1-1 draw at Aston Villa",
+    "date": "2026-10-31",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50337854/aston-villa-vs-fulham-live-premier-league-latest-updates-score-result-commentary",
+    "entities": ["Fulham", "Aston Villa", "Zion Suzuki"],
+    "facts": [
+      "Aston Villa and Fulham drew 1-1 at Villa Park on 31 October 2026.",
+      "Fulham led through a first-half goal.",
+      "Zion Suzuki dropped a regulation cross from a corner, which cost Villa a win they were on course for."
+    ],
+    "background": "Fulham are coached by Alvaro Arbeloa and had only just climbed out of the relegation zone in late October after a first away win in nine attempts.",
+    "angle": "viral",
+    "sensitive": false,
+    "footage_terms": ["Aston Villa Fulham 1-1 highlights", "Zion Suzuki mistake Villa", "Fulham Villa Park draw"],
+    "confidence": "low"
+  },
+  {
+    "headline": "Fulham teenager Josh King called up by Tuchel for England ahead of Palmer and Foden",
+    "date": "2026-11-11",
+    "source_domain": "skysports.com",
+    "url": "https://www.skysports.com/football/news/13611079/josh-king-the-making-of-the-rising-star-tipped-to-become-one-of-worlds-best-players-after-england-call-up",
+    "entities": ["Josh King", "Fulham", "Thomas Tuchel", "Alvaro Arbeloa", "Cole Palmer", "Phil Foden"],
+    "facts": [
+      "Thomas Tuchel picked 19-year-old Josh King for England's games against Croatia and Spain, ahead of Cole Palmer and Phil Foden.",
+      "King has more goal involvements than any other Fulham player and has played more Premier League minutes than any other teenager in the last two seasons.",
+      "Arbeloa says King has everything to become one of the best players in the world."
+    ],
+    "background": "King came through Fulham's academy and has played for England at every level from U15. Arbeloa mostly uses him at No 10.",
+    "angle": "win",
+    "sensitive": false,
+    "footage_terms": ["Josh King Fulham highlights", "Josh King England call-up", "Josh King Fulham goal"],
+    "confidence": "high"
+  },
+  {
+    "headline": "West Ham sack Nuno Espirito Santo with the club stuck in the Championship",
+    "date": "2026-11-03",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50366969/west-ham-sack-nuno-espirito-santo",
+    "entities": ["West Ham United", "Nuno Espirito Santo", "Mark Noble", "Scott Parker"],
+    "facts": [
+      "West Ham sacked Nuno on Tuesday 3 November 2026 after a poor start to the Championship season with home defeats piling up.",
+      "His last game was a 3-1 home loss to West Bromwich Albion; West Ham sat eighth, four points short of automatic promotion.",
+      "Mark Noble, Steve Potts and Gerard Prenderville took temporary charge for the Cardiff match."
+    ],
+    "background": "West Ham were relegated from the Premier League last season while Nuno was manager.",
+    "angle": "scandal",
+    "sensitive": false,
+    "footage_terms": ["Nuno West Ham sacked", "West Ham West Brom 1-3 highlights", "West Ham fans boo Nuno"],
+    "confidence": "high"
+  },
+  {
+    "headline": "West Ham appoint Scott Parker on a two-and-a-half-year deal",
+    "date": "2026-11-04",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50376527/west-ham-appoint-scott-parker-replace-nuno-espirito-santo",
+    "entities": ["West Ham United", "Scott Parker", "Nuno Espirito Santo"],
+    "facts": [
+      "West Ham named Scott Parker head coach in early November 2026 on a two-and-a-half-year contract.",
+      "He replaces Nuno, who was dismissed after a 3-1 defeat to West Bromwich Albion.",
+      "West Ham were eighth in the Championship at the time."
+    ],
+    "background": "Parker is a former West Ham midfielder who has since managed Fulham, Burnley and Bournemouth.",
+    "angle": "coach",
+    "sensitive": false,
+    "footage_terms": ["Scott Parker West Ham appointed", "Scott Parker West Ham player goals", "Scott Parker Burnley promotion"],
+    "confidence": "high"
+  },
+  {
+    "headline": "West Ham fight back from 3-0 down at Cardiff in Parker's first game",
+    "date": "2026-11-04",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50382463/west-ham-draw-cardiff-scott-parker-first-game",
+    "entities": ["West Ham United", "Cardiff City", "Scott Parker", "Max Kilman", "Divine Mukasa", "Arne Engels", "Jack Moylan"],
+    "facts": [
+      "Cardiff led 3-0 at half-time with Jack Moylan completing a hat-trick.",
+      "Divine Mukasa, Arne Engels and Max Kilman scored to make it 3-3.",
+      "The draw left West Ham eighth, in the final playoff place."
+    ],
+    "background": "It was Scott Parker's first game as West Ham manager, a day after he was confirmed in the role.",
+    "angle": "viral",
+    "sensitive": false,
+    "footage_terms": ["Cardiff West Ham 3-3 highlights", "Max Kilman equaliser Cardiff", "Scott Parker first game West Ham"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Parker stays winless as Blackburn beat West Ham 2-1",
+    "date": "2026-11-07",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50409313/scott-parker-west-ham-loss-blackburn-championship",
+    "entities": ["West Ham United", "Blackburn Rovers", "Scott Parker", "Joel Piroe", "Andri Gudjohnsen", "Dapo Afolayan"],
+    "facts": [
+      "Blackburn won 2-1 on 7 November 2026 with goals from Andri Gudjohnsen (54') and Dapo Afolayan (71'); Joel Piroe replied for West Ham late on.",
+      "It was West Ham's first away defeat of the season and Parker's first match without a win as boss.",
+      "West Ham dominated possession but conceded early in the second half."
+    ],
+    "background": "West Ham are chasing an immediate return to the Premier League after last season's relegation.",
+    "angle": "scandal",
+    "sensitive": false,
+    "footage_terms": ["Blackburn West Ham 2-1 highlights", "Joel Piroe goal West Ham", "Scott Parker Blackburn press conference"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Referee error costs West Ham: penalty given outside the box in 1-1 draw with QPR",
+    "date": "2026-10-09",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50143373/west-ham-qpr-penalty-tomas-soucek-mistake-championship",
+    "entities": ["West Ham United", "Queens Park Rangers", "Tomas Soucek", "Jarrod Bowen", "Ruebyn Ricardo"],
+    "facts": [
+      "West Ham drew 1-1 with QPR on 9 October 2026 after a first-half penalty was awarded for a foul that replays showed was outside the box.",
+      "There is no VAR in the Championship, so the decision stood; Tomas Soucek called it a massive mistake and said the ball was won cleanly.",
+      "West Ham missed a late penalty from Jarrod Bowen, and a win would have taken them to the top of the Championship."
+    ],
+    "background": "West Ham were relegated from the Premier League last season and have missed several late penalties this term, including against Charlton and QPR.",
+    "angle": "viral",
+    "sensitive": false,
+    "footage_terms": ["West Ham QPR 1-1 highlights", "Soucek penalty QPR referee mistake", "Bowen penalty saved QPR"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Southampton beat West Ham 3-2 at the London Stadium in a Championship six-pointer",
+    "date": "2026-10-24",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50267353/nuno-espirito-santo-west-ham-loss-played-hesitation",
+    "entities": ["West Ham United", "Southampton", "Nuno Espirito Santo"],
+    "facts": [
+      "Southampton won 3-2 at West Ham on 24 October 2026 after West Ham fell two goals behind.",
+      "Nuno blamed a slow start and poor defensive decisions but praised the second-half fightback.",
+      "A win would have moved West Ham to the top of the Championship."
+    ],
+    "background": "Southampton started the season on a four-point deduction and ended the day two points behind West Ham.",
+    "angle": "scandal",
+    "sensitive": false,
+    "footage_terms": ["West Ham Southampton 2-3 highlights", "Nuno hesitant West Ham press conference", "Championship West Ham table"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Former West Ham striker Dylan Tombides' story is used to educate young players at the U17 World Cup",
+    "date": "2026-11-19",
+    "source_domain": "skysports.com",
+    "url": "https://www.skysports.com/football/news/13614140/how-the-story-of-dylan-tombides-is-helping-educate-fifa-u17-world-cup-players-about-testicular-cancer",
+    "entities": ["Dylan Tombides", "West Ham United", "DT38 Foundation", "FIFA"],
+    "facts": [
+      "Tombides' mother Tracy and brother Taylor, with the DT38 Foundation and FIFA Medical, talk to young players about regular self-examination.",
+      "They have spoken to around 1,200 players from 48 teams at this year's FIFA U17 World Cup in Doha.",
+      "Tombides was diagnosed with testicular cancer at the 2011 U17 World Cup and died in April 2014, aged 20."
+    ],
+    "background": "Tombides was a West Ham striker and an Australian youth international.",
+    "angle": "history",
+    "sensitive": true,
+    "footage_terms": ["Dylan Tombides West Ham tribute", "DT38 Foundation testicular cancer awareness", "FIFA U17 World Cup 2026 Doha"],
+    "confidence": "high"
+  }
+]

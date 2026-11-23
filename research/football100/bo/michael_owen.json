@@ -1,0 +1,707 @@
+{
+  "name": "Michael Owen",
+  "years": "Born 1979; pro career 1996-2013; Ballon d'Or 2001",
+  "research_date": "2026-11-20",
+  "window_note": "recent_news covers 2026-08-22 to 2026-11-20 (13 stories). One item has only a month (2026-09).",
+  "recent_news": [
+    {
+      "date": "2026-08-26",
+      "headline": "Owen tells Liverpool striker Isak he is 'running out of excuses'",
+      "facts": [
+        "Owen, speaking on talkSPORT, said Isak is running out of excuses after Liverpool's 2-2 draw at Newcastle.",
+        "Owen called Isak 'a yard off' and said Liverpool need to see the return on a roughly 125m pound investment.",
+        "Isak was jeered by the Newcastle home fans; Liverpool manager Andoni Iraola backed him."
+      ],
+      "source_url": "https://www.football365.com/news/alexander-isak-warned-running-out-liverpool-excuses-michael-owen",
+      "source_domain": "football365.com",
+      "tone": "neutral",
+      "sensitive": false
+    },
+    {
+      "date": "2026-08-28",
+      "headline": "Prime Video releases 'Meet the Owens', six-part docuseries on Owen's family and stables",
+      "facts": [
+        "All six episodes stream from 28 August 2026 in the UK and Ireland, produced by Whisper.",
+        "It follows Owen, wife Louise and their four children over a year at Manor House Stables, Cheshire, balancing family life with the pressures of running a successful racing business.",
+        "Pre-release coverage (Heart, 30 Jul 2026) says the trailer leans on self-aware humour; Owen jokes about the public perception that he is boring, and his daughters say he can be embarrassing."
+      ],
+      "source_url": "https://www.aboutamazon.co.uk/news/entertainment/watch-the-trailer-for-meet-the-owens",
+      "source_domain": "aboutamazon.co.uk",
+      "tone": "praise",
+      "sensitive": true,
+      "note": "sensitive:true because the show covers his children and a child's eye condition. Use only Owen's own 'boring' self-joke and the horses; no family or health jokes.",
+      "also": [
+        "https://www.heart.co.uk/showbiz/tv-movies/meet-the-owens-documentary-release-date-trailer-episodes/"
+      ]
+    },
+    {
+      "date": "2026-08-28",
+      "headline": "Owen's 2026/27 Premier League predictions: Arsenal champions, Man Utd top four",
+      "facts": [
+        "Owen picks Arsenal as champions, with Chelsea the team to push them.",
+        "His top four is Arsenal, Chelsea, Liverpool, Man Utd.",
+        "He also picks Cole Palmer as Player of the Season, Haaland for the Golden Boot and Xabi Alonso as Manager of the Season."
+      ],
+      "source_url": "https://www.premierleague.com/en/news/4698571/champions-best-player-pundits-predict-the-202627-season",
+      "source_domain": "premierleague.com",
+      "tone": "roast",
+      "sensitive": false,
+      "note": "Aged badly on Man Utd: on 9 Nov they were in the relegation zone and Carrick was sacked on 12 Nov."
+    },
+    {
+      "date": "2026-09",
+      "headline": "Owen 'not worried' about Liverpool but says 123m Barcola and other signings are not yet value for money",
+      "facts": [
+        "After Liverpool lost to Manchester City (Iraola's first defeat), Owen said he is not worried and expects injured stars to return.",
+        "Liverpool were 9th with nine points from six games; Barcola (123m pounds from PSG) had no goal or assist yet.",
+        "Owen praised youngster Lewis Koumas for energy and attitude."
+      ],
+      "source_url": "https://www.flashscore.co.uk/news/football-premier-league-exclusive-owen-not-worried-but-says-liverpool-signings-have-not-been-value-for-money/WK2LbBRO/",
+      "source_domain": "flashscore.co.uk",
+      "tone": "neutral",
+      "sensitive": false,
+      "note": "Exact publication day not shown on the page (date approximate, mid/late September 2026). Koumas is also a Manor House Stables client per The National."
+    },
+    {
+      "date": "2026-09-18",
+      "headline": "Owen says Liverpool's 40m Kerkez looks 'nervous and lost in the red shirt'",
+      "facts": [
+        "Owen told TEAMtalk that Liverpool's full-back position is a real problem.",
+        "He said Kerkez (signed from Bournemouth in 2025 for 40m pounds) does not yet convince him as the long-term left-back.",
+        "He also raised concerns about Bradley's injury record, Frimpong's defending and Tsimikas's level."
+      ],
+      "source_url": "https://www.teamtalk.com/liverpool/michael-owen-milos-kerkez-liverpool-verdict",
+      "source_domain": "teamtalk.com",
+      "tone": "roast",
+      "sensitive": false
+    },
+    {
+      "date": "2026-10-26",
+      "headline": "Owen hands Alexia Putellas her third Women's Ballon d'Or as Harry Kane ends England's 25-year wait",
+      "facts": [
+        "The 70th Ballon d'Or was held at the London Palladium, the first ceremony outside France.",
+        "Owen presented Putellas's award; Alan Shearer presented Kane's Gerd Muller Trophy.",
+        "Kane became the first English men's winner since Owen in 2001, after 73 goals for club and country."
+      ],
+      "source_url": "https://www.irishnews.com/sport/soccer/harry-kane-wins-2026-mens-ballon-dor-ahead-of-kylian-mbappe-and-lamine-yamal-PCAKTMUKTZICDBL2QORRVEO42A/",
+      "source_domain": "irishnews.com",
+      "tone": "praise",
+      "sensitive": false,
+      "also": [
+        "https://en.wikipedia.org/wiki/2026_Ballon_d%27Or"
+      ]
+    },
+    {
+      "date": "2026-10-26",
+      "headline": "FourFourTwo: 'The Forgotten Ballon d'Or' - how Owen won it 25 years ago",
+      "facts": [
+        "Owen won with 176 votes, ahead of Raul (140), Kahn (114) and Beckham (102).",
+        "He received the trophy at Anfield in April 2002 before a 2-0 win over Derby, with no formal ceremony.",
+        "Owen is quoted as saying winning it feels better now than it did when he was playing."
+      ],
+      "source_url": "https://www.fourfourtwo.com/person/player/the-forgotten-ballon-dor-how-michael-owen-won-the-prestigious-award-25-years-ago",
+      "source_domain": "fourfourtwo.com",
+      "tone": "neutral",
+      "sensitive": false
+    },
+    {
+      "date": "2026-10-30",
+      "headline": "Owen: 'I don't get the recognition other Ballon d'Or winners get'",
+      "facts": [
+        "In a FourFourTwo interview (reported by ESPN, Spanish version), Owen said the award never mattered as much in England but he was treated like a hero in Spain.",
+        "He said he still keeps a photo of the voting results on his phone and that the win means more to him now.",
+        "Kane's win had just ended Owen's run as the last English winner; Owen remains the only Liverpool player to win it while at the club."
+      ],
+      "source_url": "https://planoinformativo.com/planodeportivo/345355/owen-no-recibi-suficiente-reconocimiento-por-el-balon-de-oro",
+      "source_domain": "planoinformativo.com",
+      "tone": "roast",
+      "sensitive": false
+    },
+    {
+      "date": "2026-11-09",
+      "headline": "Owen on Carrick after 4-4 draw with Aston Villa: relegation zone is a poor look, a change might be considered",
+      "facts": [
+        "Man Utd drew 4-4 with Aston Villa and went into the international break in the relegation zone.",
+        "Owen said Carrick had not lost the dressing room and the players were fighting for him, while suggesting this could be the time to consider a change.",
+        "He said Carrick's record beats most recent United managers and the squad is better than recent ones."
+      ],
+      "source_url": "https://sports.yahoo.com/articles/t-deny-michael-owen-delivers-090000346.html",
+      "source_domain": "sports.yahoo.com",
+      "tone": "neutral",
+      "sensitive": false
+    },
+    {
+      "date": "2026-11-13",
+      "headline": "Owen in Bahrain: 140 horses in training, chasing glory in the International Trophy",
+      "facts": [
+        "The National describes Owen as owner of Manor House Stables, Cheshire, with about 140 horses in training and Hugo Palmer as trainer for four years.",
+        "Two Manor House-trained runners, Glacius and Seagull's Eleven, entered the $1.5m Group One International Trophy; Seagull's Eleven belongs to a syndicate of current and former Brighton players that began with James Milner, who had success with horses from Owen's stable.",
+        "Owen says he will never play football again and is focused on 'selling the dream' of racing."
+      ],
+      "source_url": "https://www.thenationalnews.com/sport/2026/11/13/michael-owen-on-his-love-for-racing-growing-a-successful-stable-and-targeting-glory-in-bahrain/",
+      "source_domain": "thenationalnews.com",
+      "tone": "praise",
+      "sensitive": false,
+      "note": "The National calls him a Ballon d'Or winner 'at only 21' and gives no year. FourFourTwo says he was three days past his 22nd birthday; the year is 2001 (Wikipedia, FourFourTwo). Use 2001 and avoid quoting an age."
+    },
+    {
+      "date": "2026-11-14",
+      "headline": "Manor House's two Bahrain runners finish 8th and 10th as Royal Champion wins the first Group One International Trophy in Bahrain",
+      "facts": [
+        "Royal Champion (Karl Burke, Clifford Lee) won the International Trophy by 1 1/4 lengths.",
+        "Seagulls Eleven finished eighth and Glacius tenth of 13.",
+        "Trainer Hugo Palmer was disappointed but said they will go again."
+      ],
+      "source_url": "https://www.thenationalnews.com/sport/2026/11/14/royal-champion-lives-up-to-name-as-he-powers-to-bahrain-international-trophy-win/",
+      "source_domain": "thenationalnews.com",
+      "tone": "roast",
+      "sensitive": false
+    },
+    {
+      "date": "2026-11-16",
+      "headline": "Owen backs Pochettino at Man Utd, says he 'can't see' relegation happening and that it would rank with Leicester's title as a shock",
+      "facts": [
+        "Pochettino replaces the sacked Michael Carrick on a contract to 2029, leaving the USA job.",
+        "Owen says he cannot see United going down ('I can't see it happening') and rates the squad about sixth-best in the league.",
+        "He says relegation would rank with Leicester's 2016 title as one of the biggest shocks in Premier League history."
+      ],
+      "source_url": "https://www.football365.com/news/owen-delivers-verdict-man-utd-appointing-pochettino-huge-relegation-claim",
+      "source_domain": "football365.com",
+      "tone": "roast",
+      "sensitive": false
+    },
+    {
+      "date": "2026-11-17",
+      "headline": "Owen: Pochettino can revive Rashford, and United must keep Bruno Fernandes",
+      "facts": [
+        "Owen thinks Pochettino's record of reviving players gives Rashford a strong chance of a comeback.",
+        "Rashford has no Premier League goal this season.",
+        "Owen says United should keep captain Bruno Fernandes, who has reportedly turned down a new contract offer."
+      ],
+      "source_url": "https://www.goal.com/en/news/-marcus-rashford-michael-owen-mauricio-pochettino-manchester-united-bruno-fernandes-sale/blt75c27bfd01ddfb09",
+      "source_domain": "goal.com",
+      "tone": "neutral",
+      "sensitive": false
+    }
+  ],
+  "now": {
+    "as_of": "2026-11-20",
+    "role": "46-year-old retired striker (born 14 Dec 1979). Works as a TV pundit and commentator and owns Manor House Stables, a racing yard in Cheshire (established 2006, per Heart), where Hugo Palmer is the trainer.",
+    "media": "Wikipedia's list of British football commentators shows Owen with TNT Sports and Premier League Productions (2013 to present, no end date). Also appeared on talkSPORT in Aug 2026 (Football365), BBC's Wayne Rooney Show in Mar 2026 (ESPN) and gave exclusives to TEAMtalk and Flashscore. GAP: no source confirms a TNT Sports contract for 2026-27.",
+    "racing": "About 140 horses in training at Manor House Stables, Hugo Palmer trains. Brighton-linked syndicate owners have had six or seven horses there, three of them winners. Clients include Liverpool's Lewis Koumas and, per Owen, the world snooker and darts champions. The two Bahrain runners (International Trophy, $1.5m, inaugural running as a Group One) finished 8th and 10th of 13; the race report is dated 14 Nov 2026. They are trained by Palmer from Manor House but are not owned by Owen: Seagull's Eleven belongs to the Brighton players' syndicate and Wikipedia lists Vefa Ibrahim Araci as owner of Glacius. Glacius won the Saratoga Derby on 8 Aug 2026 (older than 90 days, context only).",
+    "tv": "Prime Video docuseries 'Meet the Owens' (6 episodes, from 28 Aug 2026) on the Owen family and the stables.",
+    "contract": "No club contract: he is retired from playing (Stoke City, 2013). He says he will never play football again.",
+    "season_numbers": "No playing stats. Business numbers: about 140 horses in training; 71 winners in 2025 (Manor House newsletter, December 2025).",
+    "what_people_say": "Owen presented the women's Ballon d'Or at the London Palladium on 26 Oct 2026, the night Kane became the first English winner since Owen. He keeps a photo of his 2001 voting results on his phone. On Man Utd he predicted a top-four finish (Aug), then said on 9 Nov that Carrick had not lost the dressing room, then said on 16 Nov that he cannot see United being relegated, while the club sat in the relegation zone. Football365 ranked him last of ten TNT pundits in 2023 and called him dull (opinion, dated).",
+    "liverpool_context": "Anfield Index (12 Jun 2026) reports that Liverpool replaced Arne Slot with Andoni Iraola. Owen has criticised Kerkez and Isak; the sources found show no direct criticism of Iraola."
+  },
+  "quick_context": [
+    "Michael Owen won the 2001 Ballon d'Or at 22 after Liverpool's cup treble (League Cup, FA Cup, UEFA Cup), polling 176 votes to Raul's 140.",
+    "He scored both goals in the 2001 FA Cup final against Arsenal and a hat-trick in England's 5-1 win in Munich the same year.",
+    "He remains the only Liverpool player to win it while at the club, and Harry Kane ended his 25-year spell as England's last winner on 26 October 2026."
+  ],
+  "roast_past": [
+    {
+      "angle": "Tesco to Sainsbury's: Owen compared leaving Liverpool for Man Utd to a shop worker changing supermarkets.",
+      "source_url": "https://www.goal.com/en-za/news/playing-for-liverpool-then-man-utd-like-going-from-working-for-tesco-to-sainsburys-says-owen/7bj8kvwzw2my108yozoos8r60",
+      "date": "2019-09-15",
+      "note": "Documented quote in 2019 book promotion."
+    },
+    {
+      "angle": "Thanked Karim Benzema on French TV for moving to Real Madrid, because that freed Owen to join Man Utd. Liverpool fans demanded he lose his ambassador role.",
+      "source_url": "https://www.si.com/soccer/2017/11/13/michael-owen-infuriates-liverpool-fans-during-interview-french-tv-station-canal",
+      "date": "2017-11-13",
+      "note": "Documented."
+    },
+    {
+      "angle": "Newcastle paid a club-record 16.8m pounds; he scored 26 goals in 71 games there. Joke about the price tag only, never the injuries.",
+      "source_url": "https://en.wikipedia.org/wiki/Michael_Owen",
+      "note": "Injuries are in no_joke_topics."
+    },
+    {
+      "angle": "His last club Stoke City: 8 appearances, all as a substitute, 1 goal.",
+      "source_url": "https://en.wikipedia.org/wiki/Michael_Owen"
+    },
+    {
+      "angle": "At Man Utd: 31 games, 5 goals, and still a Premier League winner's medal (2010-11).",
+      "source_url": "https://en.wikipedia.org/wiki/Michael_Owen"
+    },
+    {
+      "angle": "Real Madrid: 8m pounds, 36 games, 13 La Liga goals, one season. He says he was treated like a hero in Spain.",
+      "source_url": "https://en.wikipedia.org/wiki/Michael_Owen",
+      "note": "Hero-in-Spain quote is from the Oct 2026 interview (plano source)."
+    },
+    {
+      "angle": "Got the Ballon d'Or with no ceremony: handed over at Anfield before a 2-0 win over Derby in April 2002.",
+      "source_url": "https://www.fourfourtwo.com/person/player/the-forgotten-ballon-dor-how-michael-owen-won-the-prestigious-award-25-years-ago",
+      "date": "2026-10-26"
+    },
+    {
+      "angle": "Punditry reputation: Football365 ranked him last of ten TNT pundits in 2023 and called him dull. Owen joked about being seen as boring in the Meet the Owens trailer.",
+      "source_url": "https://www.football365.com/news/ranking-the-tnt-sports-punditry-team-michael-owen-joe-cole",
+      "date": "2023-07-18",
+      "note": "Opinion piece; present as 'one critic said' and pair with his own self-joke (heart source)."
+    }
+  ],
+  "roast_now": [
+    {
+      "angle": "Predicted Man Utd for the top four on 28 Aug; by 9 Nov they were in the relegation zone and Carrick was sacked on 12 Nov.",
+      "source_url": "https://www.premierleague.com/en/news/4698571/champions-best-player-pundits-predict-the-202627-season",
+      "also": [
+        "https://sports.yahoo.com/articles/t-deny-michael-owen-delivers-090000346.html",
+        "https://www.itv.com/news/granada/2026-11-12/michael-carrick-sacked-by-manchester-united-as-pochettino-poised-to-take-over"
+      ]
+    },
+    {
+      "angle": "On 16 Nov he said he 'can't see' United being relegated and that it would rank with Leicester's title as a shock, while the club sat in the bottom three.",
+      "source_url": "https://www.football365.com/news/owen-delivers-verdict-man-utd-appointing-pochettino-huge-relegation-claim"
+    },
+    {
+      "angle": "Two Manor House runners in Bahrain's first Group One finished 8th and 10th of 13. The man who sells 'the dream' got a nightmare race.",
+      "source_url": "https://www.thenationalnews.com/sport/2026/11/14/royal-champion-lives-up-to-name-as-he-powers-to-bahrain-international-trophy-win/"
+    },
+    {
+      "angle": "Owen, whose stable's two Bahrain runners finished 8th and 10th, tells a 125m striker he is 'running out of excuses'.",
+      "source_url": "https://www.football365.com/news/alexander-isak-warned-running-out-liverpool-excuses-michael-owen"
+    },
+    {
+      "angle": "Still keeps a photo of his 2001 Ballon d'Or voting results on his phone.",
+      "source_url": "https://planoinformativo.com/planodeportivo/345355/owen-no-recibi-suficiente-reconocimiento-por-el-balon-de-oro",
+      "date": "2026-10-30"
+    },
+    {
+      "angle": "Hands out the women's Ballon d'Or at the Palladium on the night Kane ends his 25-year run as England's last winner.",
+      "source_url": "https://www.irishnews.com/sport/soccer/harry-kane-wins-2026-mens-ballon-dor-ahead-of-kylian-mbappe-and-lamine-yamal-PCAKTMUKTZICDBL2QORRVEO42A/",
+      "date": "2026-10-26"
+    },
+    {
+      "angle": "Says he is 'not worried' about Liverpool, but admits 123m Barcola, with no goal or assist so far, has not been value for money, and calls the 40m full-back 'nervous and lost'.",
+      "source_url": "https://www.teamtalk.com/liverpool/michael-owen-milos-kerkez-liverpool-verdict",
+      "also": [
+        "https://www.flashscore.co.uk/news/football-premier-league-exclusive-owen-not-worried-but-says-liverpool-signings-have-not-been-value-for-money/WK2LbBRO/"
+      ]
+    },
+    {
+      "angle": "Became the star of a Prime Video family series where his daughters say he is embarrassing. Use only the 'embarrassing dad' and 'boring' lines, nothing about the children's lives.",
+      "source_url": "https://www.heart.co.uk/showbiz/tv-movies/meet-the-owens-documentary-release-date-trailer-episodes/",
+      "date": "2026-07-30"
+    }
+  ],
+  "praise": [
+    {
+      "angle": "2001 Ballon d'Or at 22, 176 votes against Raul's 140.",
+      "number": "176 votes",
+      "source_url": "https://www.fourfourtwo.com/person/player/the-forgotten-ballon-dor-how-michael-owen-won-the-prestigious-award-25-years-ago"
+    },
+    {
+      "angle": "89 England caps and 40 goals.",
+      "number": "89 caps / 40 goals",
+      "source_url": "https://www.thenationalnews.com/sport/2026/11/13/michael-owen-on-his-love-for-racing-growing-a-successful-stable-and-targeting-glory-in-bahrain/"
+    },
+    {
+      "angle": "118 Premier League goals in 216 league games for Liverpool and the youngest player to reach 100 Premier League goals.",
+      "number": "118 goals in 216 games",
+      "source_url": "https://en.wikipedia.org/wiki/Michael_Owen"
+    },
+    {
+      "angle": "Scored both goals in the 2001 FA Cup final (2-1 v Arsenal) and a hat-trick in the 5-1 win in Munich.",
+      "number": "2 goals in final, hat-trick in 5-1",
+      "source_url": "https://planoinformativo.com/planodeportivo/345355/owen-no-recibi-suficiente-reconocimiento-por-el-balon-de-oro",
+      "also": [
+        "https://en.wikipedia.org/wiki/Michael_Owen"
+      ]
+    },
+    {
+      "angle": "Built Manor House Stables to about 140 horses in training; clients include a Brighton players' syndicate, Liverpool's Lewis Koumas and the world snooker and darts champions.",
+      "number": "about 140 horses",
+      "source_url": "https://www.thenationalnews.com/sport/2026/11/13/michael-owen-on-his-love-for-racing-growing-a-successful-stable-and-targeting-glory-in-bahrain/"
+    },
+    {
+      "angle": "Only Liverpool player to win the Ballon d'Or while at the club.",
+      "number": "1 of 1",
+      "source_url": "https://planoinformativo.com/planodeportivo/345355/owen-no-recibi-suficiente-reconocimiento-por-el-balon-de-oro"
+    }
+  ],
+  "no_joke_topics": [
+    "Injuries and health, including his 2006 World Cup knee injury and the long layoffs at Newcastle.",
+    "Head injuries and concussion (treat as health).",
+    "His son James's eye condition (Stargardt disease) and anything else about his children or marriage.",
+    "Gemma Owen's past on Love Island and any family-life storylines from Meet the Owens.",
+    "Doping, legal troubles, war and politics (nothing found; do not invent any).",
+    "Any claim that he is 'broke' or that the racing business is failing. No source found says the business is in financial trouble."
+  ],
+  "viral_moments": [
+    {
+      "title": "Canal+ interview, Nov 2017: thanks Benzema for letting him join Man Utd",
+      "url": "https://www.youtube.com/results?search_query=Michael+Owen+Canal%2B+Benzema+Manchester+United+interview",
+      "why": "Liverpool fans demanded he lose his ambassador role.",
+      "timestamp": "unknown",
+      "date": "2017-11-12",
+      "source_url": "https://www.si.com/soccer/2017/11/13/michael-owen-infuriates-liverpool-fans-during-interview-french-tv-station-canal",
+      "verified_url": false
+    },
+    {
+      "title": "Tesco to Sainsbury's: Owen on leaving Liverpool for Man Utd (Dublin, book tour 2019)",
+      "url": "https://www.youtube.com/results?search_query=Michael+Owen+Tesco+Sainsbury%27s+Liverpool+Manchester+United+Reboot",
+      "why": "Compares his transfer to changing supermarkets; still quoted by fans.",
+      "timestamp": "unknown",
+      "date": "2019-09-15",
+      "source_url": "https://www.goal.com/en-za/news/playing-for-liverpool-then-man-utd-like-going-from-working-for-tesco-to-sainsburys-says-owen/7bj8kvwzw2my108yozoos8r60",
+      "verified_url": false
+    },
+    {
+      "title": "The Wayne Rooney Show (BBC), Mar 2026: Liverpool 'best team in the league' while sixth",
+      "url": "https://www.youtube.com/results?search_query=Wayne+Rooney+Show+Michael+Owen+Liverpool+best+team+Arsenal+win+the+league",
+      "why": "Calls sixth-placed Liverpool the best team and tips Arsenal for the title.",
+      "timestamp": "unknown",
+      "date": "2026-03-13",
+      "source_url": "https://africa.espn.com/football/story/_/id/48194796/liverpool-not-arsenal-best-team-premier-league-michael-owen",
+      "verified_url": false
+    },
+    {
+      "title": "Meet the Owens official trailer (Prime Video UK), late Jul 2026",
+      "url": "https://www.youtube.com/results?search_query=Meet+the+Owens+trailer+Prime+Video+Michael+Owen",
+      "why": "Owen jokes about being boring; daughters call him embarrassing. Heart article dated 30 Jul; exact upload date not found.",
+      "timestamp": "unknown",
+      "date": "2026-07-30",
+      "source_url": "https://www.heart.co.uk/showbiz/tv-movies/meet-the-owens-documentary-release-date-trailer-episodes/",
+      "verified_url": false
+    },
+    {
+      "title": "Ballon d'Or 2026 ceremony, London Palladium: Owen presents Putellas",
+      "url": "https://www.youtube.com/results?search_query=Ballon+d%27Or+2026+Michael+Owen+presents+Alexia+Putellas+Palladium",
+      "why": "Owen on stage the night Kane ends his solo status as England's last winner.",
+      "timestamp": "unknown",
+      "date": "2026-10-26",
+      "source_url": "https://www.irishnews.com/sport/soccer/harry-kane-wins-2026-mens-ballon-dor-ahead-of-kylian-mbappe-and-lamine-yamal-PCAKTMUKTZICDBL2QORRVEO42A/",
+      "verified_url": false
+    }
+  ],
+  "viral_moments_note": "GAP: search budget ran out before I could confirm exact YouTube video URLs. The 'url' values are YouTube search-result links, not verified videos. Pick the clip and timestamp by hand.",
+  "footage_terms": [
+    {
+      "term": "Michael Owen 1998 World Cup goal Argentina full highlights",
+      "watermark_risk": "high",
+      "note": "Broadcast clips often have channel logos and burned-in subtitles."
+    },
+    {
+      "term": "Michael Owen hat-trick Germany 5-1 Munich 2001 full match",
+      "watermark_risk": "medium",
+      "note": "Old broadcast footage, often 4:3 with channel bugs."
+    },
+    {
+      "term": "Michael Owen FA Cup final 2001 Arsenal goals",
+      "watermark_risk": "medium",
+      "note": "Official club channels are cleaner than fan uploads."
+    },
+    {
+      "term": "Michael Owen Ballon d'Or 2026 Palladium presents Putellas",
+      "watermark_risk": "medium",
+      "note": "Official feeds may carry France Football or Ballon d'Or logos."
+    },
+    {
+      "term": "Meet the Owens trailer Prime Video official",
+      "watermark_risk": "low",
+      "note": "Official trailer; check Prime Video licensing."
+    },
+    {
+      "term": "Michael Owen Manor House Stables horses gallop Cheshire",
+      "watermark_risk": "low",
+      "note": "Stable promo or racing b-roll; check usage rights."
+    },
+    {
+      "term": "Bahrain International Trophy 2026 Royal Champion race replay",
+      "watermark_risk": "high",
+      "note": "Race replays carry timing graphics and Bahrain Turf Club logos."
+    },
+    {
+      "term": "Michael Owen pundit TNT Sports Premier League studio 2026",
+      "watermark_risk": "high",
+      "note": "Burned-in TNT graphics and subtitles are common."
+    },
+    {
+      "term": "Michael Owen Liverpool 2001 UEFA Cup final Alaves goals",
+      "watermark_risk": "medium",
+      "note": "Old broadcast footage."
+    },
+    {
+      "term": "Hugo Palmer Glacius Saratoga Derby win 2026",
+      "watermark_risk": "medium",
+      "note": "NYRA replay, graphics and logos."
+    }
+  ],
+  "flipbook_ideas": [
+    "Owen in a tiny jockey cap on a horse that runs the wrong way, wearing a '10th of 13' number card. Pair with the Bahrain result.",
+    "Owen holds a phone showing a tiny photo of 'votes: 176' and kisses the screen. Pair with the Oct 30 interview.",
+    "Owen swaps a red Liverpool apron for a United shirt behind a supermarket till (Tesco to Sainsbury's gag).",
+    "Owen gazes into a crystal ball that shows 'Man Utd top four'; the ball cracks and drops into a relegation-zone sign.",
+    "Kane squeezes into Owen's one-seat 'Exclusive English Ballon d'Or Club' sofa and Owen is pushed out.",
+    "Owen in an 'Owner' suit points to a horse with a clipboard saying 'Trainer', and the horse has the Brighton shirt on."
+  ],
+  "image_reference_notes": {
+    "signature_look": "Slim, boyish face, short neat side-swept brown hair. Wide, slightly shy grin. These are general public-knowledge notes, not taken from a fetched photo.",
+    "current_look": "GAP: not verified from a 2026 photo. At 46 expect short brown hair with some grey, usually clean-shaven or light stubble, smart-casual or suit for TV. Check Meet the Owens key art and the Palladium photos before drawing.",
+    "kit_colours": {
+      "Liverpool": "red with white/green trim",
+      "England": "white shirt, navy shorts",
+      "Man Utd": "red with white/black",
+      "Newcastle": "black and white stripes",
+      "Real Madrid": "all white",
+      "Stoke": "red and white stripes",
+      "racing_silks": "check Manor House silks before drawing"
+    },
+    "expressions": "Calm, polite, earnest; faint raised-eyebrow smile when joking; wide grin when winning.",
+    "signature_pose": "Sprinting forward with head up and arms wide after scoring; for the current look, standing with arms folded beside a horse. Low confidence; verify."
+  },
+  "claims": [
+    {
+      "claim": "Owen is owner of Manor House Stables in Cheshire with about 140 horses in training; trainer Hugo Palmer for four years.",
+      "source_url": "https://www.thenationalnews.com/sport/2026/11/13/michael-owen-on-his-love-for-racing-growing-a-successful-stable-and-targeting-glory-in-bahrain/",
+      "confidence": "high"
+    },
+    {
+      "claim": "Two Manor House horses, Glacius and Seagull's Eleven, ran in the $1.5m Group One Bahrain International Trophy.",
+      "source_url": "https://www.thenationalnews.com/sport/2026/11/13/michael-owen-on-his-love-for-racing-growing-a-successful-stable-and-targeting-glory-in-bahrain/",
+      "confidence": "high"
+    },
+    {
+      "claim": "Seagull's Eleven is owned by a syndicate of current and former Brighton players; it began with James Milner, who had success with horses from Owen's stable while at Liverpool and then spread the word at Brighton.",
+      "source_url": "https://www.thenationalnews.com/sport/2026/11/13/michael-owen-on-his-love-for-racing-growing-a-successful-stable-and-targeting-glory-in-bahrain/",
+      "confidence": "high"
+    },
+    {
+      "claim": "Owen won 89 England caps and scored 40 goals and is now 46.",
+      "source_url": "https://www.thenationalnews.com/sport/2026/11/13/michael-owen-on-his-love-for-racing-growing-a-successful-stable-and-targeting-glory-in-bahrain/",
+      "confidence": "high"
+    },
+    {
+      "claim": "Owen's Ballon d'Or was in 2001 (Wikipedia, FourFourTwo). The National gives no year and says he won 'at only 21'; FourFourTwo says he was three days past his 22nd birthday, so avoid quoting an age.",
+      "source_url": "https://www.fourfourtwo.com/person/player/the-forgotten-ballon-dor-how-michael-owen-won-the-prestigious-award-25-years-ago",
+      "confidence": "high"
+    },
+    {
+      "claim": "Royal Champion (Karl Burke, Clifford Lee) won the Bahrain International Trophy by 1 1/4 lengths; Seagulls Eleven 8th, Glacius 10th of 13.",
+      "source_url": "https://www.thenationalnews.com/sport/2026/11/14/royal-champion-lives-up-to-name-as-he-powers-to-bahrain-international-trophy-win/",
+      "confidence": "high"
+    },
+    {
+      "claim": "Hugo Palmer said the result was disappointing but they would return.",
+      "source_url": "https://www.thenationalnews.com/sport/2026/11/14/royal-champion-lives-up-to-name-as-he-powers-to-bahrain-international-trophy-win/",
+      "confidence": "high"
+    },
+    {
+      "claim": "Glacius, trained by Hugo Palmer, won the Saratoga Derby on 8 Aug 2026 (Wikipedia, Equibase chart cited there). Odds not verified.",
+      "source_url": "https://en.wikipedia.org/wiki/Saratoga_Derby",
+      "confidence": "high"
+    },
+    {
+      "claim": "Meet the Owens is a six-part Prime Video series, all episodes from 28 Aug 2026 in UK and Ireland.",
+      "source_url": "https://www.aboutamazon.co.uk/news/entertainment/watch-the-trailer-for-meet-the-owens",
+      "confidence": "high"
+    },
+    {
+      "claim": "Meet the Owens follows Owen, wife Louise and four children over a year at Manor House Stables.",
+      "source_url": "https://www.aboutamazon.co.uk/news/entertainment/watch-the-trailer-for-meet-the-owens",
+      "confidence": "high"
+    },
+    {
+      "claim": "In the trailer Owen jokes about the public perception that he is boring, and his daughters say he can be embarrassing (Heart, 30 Jul 2026).",
+      "source_url": "https://www.heart.co.uk/showbiz/tv-movies/meet-the-owens-documentary-release-date-trailer-episodes/",
+      "confidence": "high"
+    },
+    {
+      "claim": "Owen's 2026/27 picks: Arsenal champions, top four Arsenal/Chelsea/Liverpool/Man Utd, Cole Palmer player of the season, Haaland Golden Boot.",
+      "source_url": "https://www.premierleague.com/en/news/4698571/champions-best-player-pundits-predict-the-202627-season",
+      "confidence": "high"
+    },
+    {
+      "claim": "Man Utd drew 4-4 with Aston Villa at Old Trafford (probably 8 Nov 2026; the Yahoo page dates its related posts 8 Nov, not the match itself) and went into the international break in the relegation zone.",
+      "source_url": "https://sports.yahoo.com/articles/t-deny-michael-owen-delivers-090000346.html",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Owen said on 9 Nov that a change might be considered but Carrick had not lost the dressing room.",
+      "source_url": "https://sports.yahoo.com/articles/t-deny-michael-owen-delivers-090000346.html",
+      "confidence": "high"
+    },
+    {
+      "claim": "Man Utd sacked Michael Carrick on 12 Nov 2026; Pochettino was announced on 13 Nov and took over from 18 Nov (Wikipedia, Man Utd page).",
+      "source_url": "https://www.itv.com/news/granada/2026-11-12/michael-carrick-sacked-by-manchester-united-as-pochettino-poised-to-take-over",
+      "confidence": "high",
+      "also": [
+        "https://en.wikipedia.org/wiki/Manchester_United_F.C."
+      ]
+    },
+    {
+      "claim": "Pochettino left the USA job to take Man Utd on a contract to 2029; Carrick had 3 wins in 15 games.",
+      "source_url": "https://www.football365.com/news/owen-delivers-verdict-man-utd-appointing-pochettino-huge-relegation-claim",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Owen said on 16 Nov that he 'can't see' United being relegated and that it would probably rank alongside Leicester winning the league as one of the biggest shocks in Premier League history.",
+      "source_url": "https://www.football365.com/news/owen-delivers-verdict-man-utd-appointing-pochettino-huge-relegation-claim",
+      "confidence": "high"
+    },
+    {
+      "claim": "Owen says Pochettino can revive Rashford and United should keep Bruno Fernandes (17 Nov 2026).",
+      "source_url": "https://www.goal.com/en/news/-marcus-rashford-michael-owen-mauricio-pochettino-manchester-united-bruno-fernandes-sale/blt75c27bfd01ddfb09",
+      "confidence": "high"
+    },
+    {
+      "claim": "Rashford has no Premier League goal this season.",
+      "source_url": "https://www.goal.com/en/news/-marcus-rashford-michael-owen-mauricio-pochettino-manchester-united-bruno-fernandes-sale/blt75c27bfd01ddfb09",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Owen said on 26 Aug 2026 that Isak is 'running out of excuses' after a 2-2 draw at Newcastle.",
+      "source_url": "https://www.football365.com/news/alexander-isak-warned-running-out-liverpool-excuses-michael-owen",
+      "confidence": "high"
+    },
+    {
+      "claim": "Owen's Isak comments were made on talkSPORT.",
+      "source_url": "https://www.football365.com/news/alexander-isak-warned-running-out-liverpool-excuses-michael-owen",
+      "confidence": "high"
+    },
+    {
+      "claim": "On 18 Sep 2026 Owen said Kerkez looks 'nervous and lost' and that full-back is a real problem for Liverpool.",
+      "source_url": "https://www.teamtalk.com/liverpool/michael-owen-milos-kerkez-liverpool-verdict",
+      "confidence": "high"
+    },
+    {
+      "claim": "Liverpool were 9th with nine points from six games after losing to Man City; Barcola cost 123m from PSG and had no goal or assist.",
+      "source_url": "https://www.flashscore.co.uk/news/football-premier-league-exclusive-owen-not-worried-but-says-liverpool-signings-have-not-been-value-for-money/WK2LbBRO/",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Owen presented Alexia Putellas her third Women's Ballon d'Or at the London Palladium on 26 Oct 2026.",
+      "source_url": "https://www.irishnews.com/sport/soccer/harry-kane-wins-2026-mens-ballon-dor-ahead-of-kylian-mbappe-and-lamine-yamal-PCAKTMUKTZICDBL2QORRVEO42A/",
+      "confidence": "high"
+    },
+    {
+      "claim": "Harry Kane won the 2026 Ballon d'Or, first English winner since Owen in 2001, after 73 goals for club and country.",
+      "source_url": "https://www.irishnews.com/sport/soccer/harry-kane-crowned-first-english-ballon-dor-winner-in-25-years-PCAKTMUKTZICDBL2QORRVEO42A/",
+      "confidence": "high"
+    },
+    {
+      "claim": "Owen won the 2001 Ballon d'Or with 176 votes, Raul 140, Kahn 114, Beckham 102.",
+      "source_url": "https://www.fourfourtwo.com/person/player/the-forgotten-ballon-dor-how-michael-owen-won-the-prestigious-award-25-years-ago",
+      "confidence": "high"
+    },
+    {
+      "claim": "Owen received the trophy at Anfield in April 2002 before a 2-0 win over Derby, with no formal ceremony.",
+      "source_url": "https://www.fourfourtwo.com/person/player/the-forgotten-ballon-dor-how-michael-owen-won-the-prestigious-award-25-years-ago",
+      "confidence": "high"
+    },
+    {
+      "claim": "Owen said (Oct 2026 FourFourTwo, via ESPN) he does not get the recognition others get, keeps a photo of the voting results on his phone, and was treated like a hero in Spain.",
+      "source_url": "https://planoinformativo.com/planodeportivo/345355/owen-no-recibi-suficiente-reconocimiento-por-el-balon-de-oro",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Owen is the only Liverpool player to win the Ballon d'Or while at the club.",
+      "source_url": "https://planoinformativo.com/planodeportivo/345355/owen-no-recibi-suficiente-reconocimiento-por-el-balon-de-oro",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Owen scored both goals in the 2001 FA Cup final (2-1 v Arsenal).",
+      "source_url": "https://en.wikipedia.org/wiki/Michael_Owen",
+      "confidence": "high"
+    },
+    {
+      "claim": "Owen scored a hat-trick in England's 5-1 win in Munich in 2001.",
+      "source_url": "https://planoinformativo.com/planodeportivo/345355/owen-no-recibi-suficiente-reconocimiento-por-el-balon-de-oro",
+      "confidence": "high"
+    },
+    {
+      "claim": "Owen: 216 Premier League games and 118 goals for Liverpool; youngest to 100 Premier League goals.",
+      "source_url": "https://en.wikipedia.org/wiki/Michael_Owen",
+      "confidence": "high"
+    },
+    {
+      "claim": "Owen: Real Madrid 8m pounds, 36 games, 13 La Liga goals.",
+      "source_url": "https://en.wikipedia.org/wiki/Michael_Owen",
+      "confidence": "high"
+    },
+    {
+      "claim": "Owen: Newcastle club-record 16.8m pounds, 71 apps, 26 goals.",
+      "source_url": "https://en.wikipedia.org/wiki/Michael_Owen",
+      "confidence": "high"
+    },
+    {
+      "claim": "Owen: Man Utd 31 apps, 5 goals, 2010-11 Premier League winner's medal; Stoke 8 apps (all as sub), 1 goal.",
+      "source_url": "https://en.wikipedia.org/wiki/Michael_Owen",
+      "confidence": "high"
+    },
+    {
+      "claim": "Owen compared leaving Liverpool for Man Utd to switching from Tesco to Sainsbury's (Goal, 15 Sep 2019).",
+      "source_url": "https://www.goal.com/en-za/news/playing-for-liverpool-then-man-utd-like-going-from-working-for-tesco-to-sainsburys-says-owen/7bj8kvwzw2my108yozoos8r60",
+      "confidence": "high"
+    },
+    {
+      "claim": "In Nov 2017 on Canal+ Owen thanked Benzema for the Real Madrid move that let him join Man Utd.",
+      "source_url": "https://www.si.com/soccer/2017/11/13/michael-owen-infuriates-liverpool-fans-during-interview-french-tv-station-canal",
+      "confidence": "high"
+    },
+    {
+      "claim": "Football365 ranked Owen 10th of 10 TNT pundits in July 2023 (opinion).",
+      "source_url": "https://www.football365.com/news/ranking-the-tnt-sports-punditry-team-michael-owen-joe-cole",
+      "confidence": "high"
+    },
+    {
+      "claim": "Owen told the BBC's Wayne Rooney Show in March 2026 Liverpool are the best team in the league and Arsenal would win it.",
+      "source_url": "https://africa.espn.com/football/story/_/id/48194796/liverpool-not-arsenal-best-team-premier-league-michael-owen",
+      "confidence": "high"
+    },
+    {
+      "claim": "Liverpool replaced Arne Slot with Andoni Iraola in June 2026, reported by Anfield Index (Owen's comments to the Liverpool Echo).",
+      "source_url": "https://anfieldindex.com/?p=94934",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Liverpool appointed Julian Ward to lead football operations and the club backs Iraola (26 Sep 2026).",
+      "source_url": "https://www.football365.com/news/liverpool-internal-verdict-andoni-iraola-revealed-as-julian-ward-appointment",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Wikipedia's list of British football commentators shows Owen with TNT Sports and Premier League Productions, 2013 to present with no end date. A 2025-26 or 2026-27 contract is not independently confirmed.",
+      "source_url": "https://en.wikipedia.org/wiki/List_of_British_football_commentators",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Manor House Stables logged 71 winners in 2025 (newsletter: 'more than 70 winners', 71st and final winner on 19 Dec).",
+      "source_url": "https://www.manorhousestables.com/wp-content/uploads/2026/01/MHMdecember25.pdf",
+      "confidence": "high"
+    },
+    {
+      "claim": "Gemma Owen is training to ride at Glorious Goodwood; James Owen has Stargardt disease (sensitive; not for jokes).",
+      "source_url": "https://www.heart.co.uk/showbiz/tv-movies/meet-the-owens-documentary-release-date-trailer-episodes/",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Exact date of Liverpool's loss to Manchester City that Owen commented on (page shows no date).",
+      "source_url": "https://www.flashscore.com/news/exclusive-owen-on-liverpool-s-poor-start-to-the-season-thoughts-on-summer-signings/2uB42gSa/",
+      "confidence": "unverified"
+    },
+    {
+      "claim": "YouTube URLs for viral moments (search-result links only).",
+      "source_url": "https://www.youtube.com/results?search_query=Michael+Owen",
+      "confidence": "unverified"
+    },
+    {
+      "claim": "Owen's current look (hair, beard) in November 2026.",
+      "source_url": "https://www.aboutamazon.co.uk/news/entertainment/watch-the-trailer-for-meet-the-owens",
+      "confidence": "unverified"
+    },
+    {
+      "claim": "FourFourTwo says Owen won six trophies in 2001 but names five (FA Cup, League Cup, UEFA Cup, Charity Shield, UEFA Super Cup); it gives 31 goals for the season. Treat 'six' as unreliable.",
+      "source_url": "https://www.fourfourtwo.com/person/player/the-forgotten-ballon-dor-how-michael-owen-won-the-prestigious-award-25-years-ago",
+      "confidence": "medium"
+    }
+  ],
+  "verification": {
+    "checked": 73,
+    "corrected": 21,
+    "removed": 1,
+    "notes": "Checked against fetched source pages (National x2, Football365 x4, Yahoo, Goal, TEAMtalk, Flashscore x2, Irish News x2, FourFourTwo, Plano, Premier League, Amazon, Heart, Anfield Index, Wikipedia Owen/Saratoga Derby/Man Utd/2026 Ballon d'Or/commentators, Manor House PDF, SI, Goal 2019, ESPN). Corrected: Brighton syndicate was not created by Owen (began with Milner); 'The National says 1999' note was false (it says 'at 21', no year); Glacius 9-1 odds unverified and removed; Glacius and Seagull's Eleven are Palmer-trained but not Owen-owned (Wikipedia lists Araci for Glacius), so 'Owen's runners' reworded; 'can't happen' was not a quote (he said 'I can't see it happening'); Pochettino was announced 13 Nov and took over 18 Nov; Meet the Owens does not mention financial viability (Heart: pressures of running a business) and Owen's joke is 'boring', trailer coverage dated 30 Jul not 29 Jul; 'next few days crucial' not supported; 'chairman/manager' self-description and 'fans mock him online' not found, removed; Sutton 2022 row unverifiable, removed; 70+ winners confirmed as 71; Liverpool-Iraola 'Owen backs' softened; TNT 2025-26 confirmation not independently verified. Removed claim: Owen TNT contract 2026-27 (unverifiable). Open gaps: exact date of Liverpool v Man City and of the Man Utd v Villa match (8 Nov inferred); Glacius odds; Bahrain race day (report dated 14 Nov); ESPN/Plano Spanish quote paraphrased; age at Ballon d'Or conflicts (National 21, FourFourTwo 22). NYRA page returned 403 and ITV timed out, so Carrick sacking date rests on Wikipedia plus the ITV URL date. Web search budget was exhausted, so checks used direct page fetches only."
+  }
+}

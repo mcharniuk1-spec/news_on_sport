@@ -1,0 +1,745 @@
+{
+ "no": 93,
+ "style": "CLEAR-LINE",
+ "prop": "tag",
+ "cast": {
+  "bruno": {
+   "role": "player",
+   "number": "8",
+   "shirt": "#d94f4f",
+   "hair": "#3b2a20"
+  },
+  "fan": {
+   "role": "fan",
+   "shirt": "#2b2b3a",
+   "hair": "#d9d9d9"
+  },
+  "arteta": {
+   "role": "coach",
+   "shirt": "#33415c",
+   "hair": "#2b2b3a"
+  }
+ },
+ "sequences": {
+  "s01": {
+   "type": "HOOK",
+   "q": "Is £75m really not there yet?",
+   "prop": "tag",
+   "emote": "smug",
+   "board": "neon"
+  },
+  "s02": {
+   "type": "COMIC",
+   "bg": "street",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "bruno",
+       "x": 280,
+       "y": 1440,
+       "pose": "point",
+       "emote": "neutral",
+       "scale": 1.4,
+       "label": "Bruno Guimaraes"
+      }
+     ],
+     "props": [
+      {
+       "kind": "door",
+       "x": 720,
+       "y": 1010,
+       "scale": 3.2,
+       "anim": "shake"
+      },
+      {
+       "kind": "tag",
+       "x": 640,
+       "y": 1010,
+       "scale": 0.9,
+       "text": "75"
+      },
+      {
+       "kind": "ball",
+       "x": 440,
+       "y": 1420,
+       "scale": 1.0
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.42,
+     "actors": [
+      {
+       "id": "bruno",
+       "x": 280,
+       "y": 1440,
+       "pose": "shock",
+       "emote": "sweat",
+       "scale": 1.4
+      },
+      {
+       "id": "fan",
+       "x": 790,
+       "y": 1440,
+       "pose": "hold",
+       "emote": "happy",
+       "scale": 1.3,
+       "flip": true,
+       "hold": {
+        "kind": "shirt",
+        "hand": "both",
+        "scale": 1.0
+       }
+      }
+     ],
+     "props": [
+      {
+       "kind": "door",
+       "x": 920,
+       "y": 1010,
+       "scale": 2.8,
+       "flip": true
+      },
+      {
+       "kind": "tag",
+       "x": 560,
+       "y": 700,
+       "scale": 1.0,
+       "text": "75"
+      },
+      {
+       "kind": "ball",
+       "x": 440,
+       "y": 1420,
+       "scale": 1.0
+      }
+     ],
+     "sfx": {
+      "text": "CREAK",
+      "x": 300,
+      "y": 520,
+      "r": 120
+     },
+     "cam": "push"
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.42,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "bruno",
+       "x": 280,
+       "y": 1440,
+       "pose": "shock",
+       "emote": "sweat",
+       "scale": 1.4
+      },
+      {
+       "id": "fan",
+       "x": 790,
+       "y": 1440,
+       "pose": "hold",
+       "emote": "happy",
+       "scale": 1.3,
+       "flip": true,
+       "hold": {
+        "kind": "shirt",
+        "hand": "both",
+        "scale": 1.0
+       }
+      }
+     ],
+     "props": [
+      {
+       "kind": "door",
+       "x": 920,
+       "y": 1010,
+       "scale": 2.8,
+       "flip": true
+      },
+      {
+       "kind": "tag",
+       "x": 560,
+       "y": 700,
+       "scale": 1.0,
+       "text": "75"
+      },
+      {
+       "kind": "ball",
+       "x": 440,
+       "y": 1420,
+       "scale": 1.0
+      }
+     ],
+     "fx": [
+      {
+       "kind": "sparkle",
+       "x": 700,
+       "y": 1090
+      }
+     ]
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "bruno",
+       "x": 280,
+       "y": 1440,
+       "pose": "shrug",
+       "emote": "sweat",
+       "scale": 1.4
+      },
+      {
+       "id": "fan",
+       "x": 790,
+       "y": 1440,
+       "pose": "hold",
+       "emote": "smug",
+       "scale": 1.3,
+       "flip": true,
+       "hold": {
+        "kind": "shirt",
+        "hand": "both",
+        "scale": 1.0
+       }
+      }
+     ],
+     "props": [
+      {
+       "kind": "door",
+       "x": 920,
+       "y": 1010,
+       "scale": 2.8,
+       "flip": true
+      },
+      {
+       "kind": "tag",
+       "x": 560,
+       "y": 700,
+       "scale": 1.0,
+       "text": "75"
+      },
+      {
+       "kind": "ball",
+       "x": 440,
+       "y": 1420,
+       "scale": 1.0
+      }
+     ],
+     "bubble": {
+      "who": "fan",
+      "icon": "boot"
+     },
+     "sfx": {
+      "text": "DING",
+      "x": 320,
+      "y": 480,
+      "r": 120
+     }
+    }
+   ]
+  },
+  "s03": {
+   "type": "STATS",
+   "items": [
+    {
+     "icon": "ball",
+     "value": "31",
+     "label": "league goals"
+    },
+    {
+     "icon": "calendar",
+     "value": "9",
+     "label": "last season"
+    },
+    {
+     "icon": "coin",
+     "value": "75",
+     "label": "not there yet",
+     "suffix": "m"
+    }
+   ]
+  },
+  "s04": {
+   "type": "NEWS",
+   "name": "Bruno Guimaraes",
+   "fact": "Now he is first choice at Arsenal",
+   "ticker": "First choice now",
+   "icons": [
+    "stopwatch",
+    "chart-up",
+    "star"
+   ],
+   "role": "player"
+  },
+  "s05": {
+   "type": "COMIC",
+   "bg": "pitch",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "arteta",
+       "x": 290,
+       "y": 1440,
+       "pose": "present",
+       "emote": "smug",
+       "scale": 1.35,
+       "hold": {
+        "kind": "pen",
+        "hand": "R",
+        "scale": 0.9,
+        "rot": 70
+       }
+      },
+      {
+       "id": "bruno",
+       "x": 640,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "sweat",
+       "scale": 1.3
+      }
+     ],
+     "props": [
+      {
+       "kind": "goal",
+       "x": 880,
+       "y": 1020,
+       "scale": 3.0
+      },
+      {
+       "kind": "ball",
+       "x": 740,
+       "y": 1400,
+       "scale": 1.0
+      },
+      {
+       "kind": "tag",
+       "x": 640,
+       "y": 600,
+       "scale": 1.1,
+       "anim": "float",
+       "text": "75"
+      }
+     ],
+     "bubble": {
+      "who": "arteta",
+      "text": "more close-range goals"
+     }
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.52,
+     "actors": [
+      {
+       "id": "arteta",
+       "x": 290,
+       "y": 1440,
+       "pose": "point",
+       "emote": "smug",
+       "scale": 1.35,
+       "hold": {
+        "kind": "pen",
+        "hand": "R",
+        "scale": 0.9,
+        "rot": 70
+       }
+      },
+      {
+       "id": "bruno",
+       "x": 710,
+       "y": 1440,
+       "pose": "kick",
+       "emote": "angry-cheeky",
+       "scale": 1.3
+      }
+     ],
+     "props": [
+      {
+       "kind": "goal",
+       "x": 880,
+       "y": 1020,
+       "scale": 3.0
+      },
+      {
+       "kind": "ball",
+       "x": 810,
+       "y": 1410,
+       "scale": 1.0
+      },
+      {
+       "kind": "tag",
+       "x": 640,
+       "y": 600,
+       "scale": 1.1,
+       "anim": "float",
+       "text": "75"
+      }
+     ],
+     "sfx": {
+      "text": "POP",
+      "x": 520,
+      "y": 560,
+      "r": 120
+     },
+     "cam": "push"
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.52,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "arteta",
+       "x": 290,
+       "y": 1440,
+       "pose": "present",
+       "emote": "smug",
+       "scale": 1.35,
+       "hold": {
+        "kind": "pen",
+        "hand": "R",
+        "scale": 0.45,
+        "rot": 70
+       }
+      },
+      {
+       "id": "bruno",
+       "x": 710,
+       "y": 1440,
+       "pose": "shrug",
+       "emote": "sweat",
+       "scale": 1.3
+      }
+     ],
+     "props": [
+      {
+       "kind": "goal",
+       "x": 880,
+       "y": 1020,
+       "scale": 3.0
+      },
+      {
+       "kind": "ball",
+       "x": 810,
+       "y": 1410,
+       "scale": 1.0
+      },
+      {
+       "kind": "tag",
+       "x": 640,
+       "y": 600,
+       "scale": 1.1,
+       "anim": "float",
+       "text": "75"
+      }
+     ],
+     "bubble": {
+      "who": "arteta",
+      "icon": "magnifier"
+     }
+    }
+   ]
+  },
+  "s06": {
+   "type": "COMIC",
+   "bg": "sky",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "bruno",
+       "x": 300,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "happy",
+       "scale": 1.4
+      },
+      {
+       "id": "arteta",
+       "x": 810,
+       "y": 1440,
+       "pose": "think",
+       "emote": "neutral",
+       "scale": 1.3,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "tag",
+       "x": 540,
+       "y": 800,
+       "scale": 1.4,
+       "anim": "float",
+       "text": "75"
+      },
+      {
+       "kind": "ball",
+       "x": 480,
+       "y": 1420,
+       "scale": 1.0
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.42,
+     "actors": [
+      {
+       "id": "bruno",
+       "x": 300,
+       "y": 1440,
+       "pose": "cheer",
+       "emote": "happy",
+       "scale": 1.4
+      },
+      {
+       "id": "arteta",
+       "x": 810,
+       "y": 1440,
+       "pose": "point",
+       "emote": "neutral",
+       "scale": 1.3,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "tag",
+       "x": 540,
+       "y": 800,
+       "scale": 1.4,
+       "anim": "float",
+       "text": "75"
+      },
+      {
+       "kind": "ball",
+       "x": 480,
+       "y": 1420,
+       "scale": 1.0
+      },
+      {
+       "kind": "balloon",
+       "x": 330,
+       "y": 600,
+       "scale": 1.4,
+       "anim": "float"
+      },
+      {
+       "kind": "balloon",
+       "x": 450,
+       "y": 520,
+       "scale": 1.4,
+       "anim": "float"
+      }
+     ],
+     "cam": "push",
+     "fx": [
+      {
+       "kind": "confetti",
+       "x": 520,
+       "y": 560
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.42,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "bruno",
+       "x": 300,
+       "y": 1440,
+       "pose": "cheer",
+       "emote": "happy",
+       "scale": 1.4
+      },
+      {
+       "id": "arteta",
+       "x": 810,
+       "y": 1440,
+       "pose": "point",
+       "emote": "neutral",
+       "scale": 1.3,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "tag",
+       "x": 540,
+       "y": 800,
+       "scale": 1.4,
+       "anim": "float",
+       "text": "75"
+      },
+      {
+       "kind": "ball",
+       "x": 480,
+       "y": 1420,
+       "scale": 1.0
+      },
+      {
+       "kind": "balloon",
+       "x": 330,
+       "y": 600,
+       "scale": 1.4,
+       "anim": "float"
+      },
+      {
+       "kind": "balloon",
+       "x": 450,
+       "y": 520,
+       "scale": 1.4,
+       "anim": "float"
+      },
+      {
+       "kind": "balloon",
+       "x": 250,
+       "y": 470,
+       "scale": 1.4,
+       "anim": "pop"
+      },
+      {
+       "kind": "balloon",
+       "x": 530,
+       "y": 430,
+       "scale": 1.4,
+       "anim": "pop"
+      }
+     ]
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "bruno",
+       "x": 300,
+       "y": 1440,
+       "pose": "facepalm",
+       "emote": "sweat",
+       "scale": 1.4
+      },
+      {
+       "id": "arteta",
+       "x": 810,
+       "y": 1440,
+       "pose": "present",
+       "emote": "smug",
+       "scale": 1.3,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "tag",
+       "x": 540,
+       "y": 800,
+       "scale": 1.4,
+       "anim": "float",
+       "text": "75"
+      },
+      {
+       "kind": "ball",
+       "x": 480,
+       "y": 1420,
+       "scale": 1.0
+      },
+      {
+       "kind": "balloon",
+       "x": 330,
+       "y": 600,
+       "scale": 1.4,
+       "anim": "float"
+      },
+      {
+       "kind": "balloon",
+       "x": 450,
+       "y": 520,
+       "scale": 1.4,
+       "anim": "float"
+      },
+      {
+       "kind": "balloon",
+       "x": 250,
+       "y": 470,
+       "scale": 1.4,
+       "anim": "pop"
+      },
+      {
+       "kind": "balloon",
+       "x": 530,
+       "y": 430,
+       "scale": 1.4,
+       "anim": "pop"
+      }
+     ],
+     "bubble": {
+      "who": "arteta",
+      "icon": "balloon",
+      "thought": true
+     }
+    }
+   ]
+  },
+  "s07": {
+   "type": "PROVOC",
+   "q": "Scored against Sunderland and Leeds: enough?",
+   "a": "Wants more",
+   "b": "Enough",
+   "split": [
+    85,
+    15
+   ],
+   "mood": "smug"
+  },
+  "s08": {
+   "type": "INTERVIEW",
+   "label": "REPORTER ASKS",
+   "bubble": "Goals against Sunderland and Leeds. Enough now?",
+   "answer": {
+    "icon": "chart-up",
+    "gesture": "shrug"
+   },
+   "subject": "Bruno Guimaraes"
+  }
+ }
+}

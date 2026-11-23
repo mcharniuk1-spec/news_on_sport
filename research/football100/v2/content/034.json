@@ -1,0 +1,553 @@
+{
+ "no": 34,
+ "style": "FLAT-POP",
+ "prop": "sticker",
+ "cast": {
+  "shop": {
+   "role": "staff",
+   "shirt": "#3fb8af",
+   "hair": "#6b4a2a"
+  },
+  "paz": {
+   "role": "player",
+   "shirt": "#7aa8e8",
+   "hair": "#2b2b3a"
+  },
+  "cleaner": {
+   "role": "staff",
+   "shirt": "#8a6fd6",
+   "hair": "#a03a2a"
+  }
+ },
+ "sequences": {
+  "s01": {
+   "type": "HOOK",
+   "q": "Sold for six million, back for eighty?",
+   "prop": "coin",
+   "emote": "shock",
+   "board": "stamp",
+   "role": "boss"
+  },
+  "s02": {
+   "type": "COMIC",
+   "bg": "street",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "paz",
+       "x": 300,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "happy",
+       "scale": 0.85
+      },
+      {
+       "id": "shop",
+       "x": 790,
+       "y": 1440,
+       "pose": "present",
+       "emote": "happy",
+       "scale": 1.5,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "sticker",
+       "x": 300,
+       "y": 560,
+       "scale": 1.8,
+       "text": "6"
+      },
+      {
+       "kind": "bag",
+       "x": 540,
+       "y": 1190,
+       "scale": 1.0
+      },
+      {
+       "kind": "coin",
+       "x": 620,
+       "y": 1300,
+       "scale": 0.6
+      },
+      {
+       "kind": "suitcase",
+       "x": 150,
+       "y": 1400,
+       "scale": 0.7
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.44,
+     "actors": [
+      {
+       "id": "paz",
+       "x": 300,
+       "y": 1440,
+       "pose": "jump",
+       "emote": "happy",
+       "scale": 1.1
+      },
+      {
+       "id": "shop",
+       "x": 790,
+       "y": 1440,
+       "pose": "present",
+       "emote": "neutral",
+       "scale": 1.5,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "sticker",
+       "x": 300,
+       "y": 560,
+       "scale": 1.8,
+       "text": "6"
+      },
+      {
+       "kind": "bag",
+       "x": 540,
+       "y": 1190,
+       "scale": 1.0
+      },
+      {
+       "kind": "coin",
+       "x": 620,
+       "y": 1300,
+       "scale": 0.6
+      },
+      {
+       "kind": "suitcase",
+       "x": 150,
+       "y": 1400,
+       "scale": 0.7
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.44,
+     "t1": 0.56,
+     "actors": [
+      {
+       "id": "paz",
+       "x": 300,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "smug",
+       "scale": 1.45
+      },
+      {
+       "id": "shop",
+       "x": 790,
+       "y": 1440,
+       "pose": "shock",
+       "emote": "shock",
+       "scale": 1.5,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "sticker",
+       "x": 300,
+       "y": 560,
+       "scale": 1.8,
+       "text": "80",
+       "anim": "pulse"
+      },
+      {
+       "kind": "bag",
+       "x": 540,
+       "y": 1190,
+       "scale": 0.8
+      },
+      {
+       "kind": "coin",
+       "x": 620,
+       "y": 1300,
+       "scale": 0.5
+      },
+      {
+       "kind": "suitcase",
+       "x": 150,
+       "y": 1400,
+       "scale": 0.7
+      }
+     ],
+     "sfx": {
+      "text": "DING",
+      "x": 760,
+      "y": 440,
+      "r": 100
+     }
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.56,
+     "t1": 0.66
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.66,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "paz",
+       "x": 300,
+       "y": 1440,
+       "pose": "cheer",
+       "emote": "wink",
+       "scale": 1.45
+      },
+      {
+       "id": "shop",
+       "x": 640,
+       "y": 1440,
+       "pose": "cheer",
+       "emote": "love",
+       "scale": 1.5,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "sticker",
+       "x": 300,
+       "y": 560,
+       "scale": 1.8,
+       "text": "80"
+      },
+      {
+       "kind": "bag",
+       "x": 540,
+       "y": 1190,
+       "scale": 0.8
+      },
+      {
+       "kind": "coin",
+       "x": 620,
+       "y": 1300,
+       "scale": 0.5
+      },
+      {
+       "kind": "suitcase",
+       "x": 150,
+       "y": 1400,
+       "scale": 0.7
+      },
+      {
+       "kind": "heart",
+       "x": 470,
+       "y": 560,
+       "scale": 1.1,
+       "anim": "pop"
+      }
+     ],
+     "fx": [
+      {
+       "kind": "sparkle",
+       "x": 470,
+       "y": 560
+      }
+     ]
+    }
+   ]
+  },
+  "s03": {
+   "type": "COMIC",
+   "bg": "living-room",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.24,
+     "actors": [
+      {
+       "id": "cleaner",
+       "x": 740,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "neutral",
+       "scale": 1.4,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "cassette",
+       "x": 280,
+       "y": 800,
+       "scale": 1.9,
+       "face": "neutral",
+       "anim": "wobble"
+      },
+      {
+       "kind": "shelf",
+       "x": 280,
+       "y": 950,
+       "scale": 2.4,
+       "layer": "back"
+      },
+      {
+       "kind": "door",
+       "x": 940,
+       "y": 1300,
+       "scale": 1.6,
+       "layer": "back"
+      },
+      {
+       "kind": "sticker",
+       "x": 470,
+       "y": 600,
+       "scale": 1.1,
+       "text": "80"
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.24,
+     "t1": 0.42,
+     "actors": [
+      {
+       "id": "cleaner",
+       "x": 700,
+       "y": 1440,
+       "pose": "lean",
+       "emote": "neutral",
+       "scale": 1.4,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "cassette",
+       "x": 280,
+       "y": 800,
+       "scale": 1.9,
+       "face": "angry-cheeky",
+       "anim": "wobble"
+      },
+      {
+       "kind": "shelf",
+       "x": 280,
+       "y": 950,
+       "scale": 2.4,
+       "layer": "back"
+      },
+      {
+       "kind": "door",
+       "x": 940,
+       "y": 1300,
+       "scale": 1.6,
+       "layer": "back"
+      },
+      {
+       "kind": "sticker",
+       "x": 470,
+       "y": 600,
+       "scale": 1.1,
+       "text": "80"
+      }
+     ],
+     "fx": [
+      {
+       "kind": "sparkle",
+       "x": 280,
+       "y": 800
+      }
+     ],
+     "cam": "push"
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.42,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "cleaner",
+       "x": 700,
+       "y": 1440,
+       "pose": "shock",
+       "emote": "shock",
+       "scale": 1.4,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "cassette",
+       "x": 280,
+       "y": 800,
+       "scale": 1.9,
+       "face": "smug"
+      },
+      {
+       "kind": "shelf",
+       "x": 280,
+       "y": 950,
+       "scale": 2.4,
+       "layer": "back"
+      },
+      {
+       "kind": "door",
+       "x": 940,
+       "y": 1300,
+       "scale": 1.6,
+       "layer": "back"
+      },
+      {
+       "kind": "sticker",
+       "x": 470,
+       "y": 600,
+       "scale": 1.1,
+       "text": "80"
+      }
+     ],
+     "bubble": {
+      "who": "cassette",
+      "icon": "speech-dots"
+     },
+     "sfx": {
+      "text": "CREAK",
+      "x": 760,
+      "y": 420,
+      "r": 100
+     }
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "cleaner",
+       "x": 700,
+       "y": 1440,
+       "pose": "facepalm",
+       "emote": "sweat",
+       "scale": 1.4,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "cassette",
+       "x": 280,
+       "y": 800,
+       "scale": 1.9,
+       "face": "happy"
+      },
+      {
+       "kind": "shelf",
+       "x": 280,
+       "y": 950,
+       "scale": 2.4,
+       "layer": "back"
+      },
+      {
+       "kind": "door",
+       "x": 940,
+       "y": 1300,
+       "scale": 1.6,
+       "layer": "back"
+      },
+      {
+       "kind": "sticker",
+       "x": 470,
+       "y": 600,
+       "scale": 1.1,
+       "text": "80"
+      },
+      {
+       "kind": "suitcase",
+       "x": 840,
+       "y": 1420,
+       "scale": 1.0,
+       "anim": "arc"
+      }
+     ],
+     "sfx": {
+      "text": "POP",
+      "x": 280,
+      "y": 450,
+      "r": 100
+     }
+    }
+   ]
+  },
+  "s04": {
+   "type": "NEWS",
+   "name": "Nico Paz",
+   "fact": "The buy-back clause rose to eighty million",
+   "ticker": "Clause up to 80m",
+   "icons": [
+    "notepad",
+    "chart-up",
+    "coin"
+   ],
+   "role": "player",
+   "actor": "paz"
+  },
+  "s05": {
+   "type": "INTERVIEW",
+   "label": "REPORTER ASKS",
+   "bubble": "Has Madrid decided to use it?",
+   "answer": {
+    "icon": "question",
+    "gesture": "shrug",
+    "emote": "smug"
+   },
+   "subject": "Nico Paz",
+   "subject_cast": "paz",
+   "reporter_role": "reporter"
+  },
+  "s06": {
+   "type": "STATS",
+   "items": [
+    {
+     "icon": "ball",
+     "value": "6",
+     "label": "Six goals"
+    },
+    {
+     "icon": "boot",
+     "value": "8",
+     "label": "eight assists"
+    },
+    {
+     "icon": "calendar",
+     "value": "14",
+     "label": "fourteen club games"
+    }
+   ]
+  },
+  "s07": {
+   "type": "PROVOC",
+   "q": "Paz next summer: stay or go?",
+   "a": "Stay",
+   "b": "Go",
+   "split": [
+    38,
+    62
+   ],
+   "mood": "fun"
+  }
+ }
+}

@@ -1,0 +1,112 @@
+{
+ "video_id": "7xruEY0Wg9I",
+ "topic": "Meme skit: Ronaldo announces Al Nassr won the Saudi League; Messi 'reacts' while training-drill game footage plays below",
+ "hero": "AI/edited face-cams of Ronaldo and Messi (per title and transcript) with headphones; goat caption with Arsenal-style player",
+ "hero_role": "reactors in meme dialogue",
+ "media_type_overall": "game footage (e.g. GTA/FIFA)",
+ "hook": "Large face-cam of Ronaldo-style man in red headphones over a desert backdrop, caption 'RONALDO IS CHAMPION!' with a champion holding a trophy",
+ "subtitle_style": "Bold white caption with yellow highlighted word, bottom of top panel: 'RONALDO IS CHAMPION!'; later 'goat.' bold white text",
+ "reaction_overlays": "Split-screen: top face-cam panel (desert for one, trophy room with Messi-style jersey for other), bottom football-game training drill; headphones props",
+ "transition_summary": "Fixed 2-panel layout; top face-cam swaps between speakers every ~2-4 s (no hard scene cuts detected), drill gameplay continues below",
+ "audio_note": "Synthetic dialogue: 'Haha I finally did it, Messi. I am so happy... What did you do? 1,000...' (transcript)",
+ "reuse_segments": [
+  {
+   "t0": 0,
+   "t1": 21,
+   "what": "Face-cam overlays and game drill footage",
+   "origin_guess": "game / AI",
+   "rights_risk": "medium",
+   "how_to_reuse": "recreate with own game capture and generated face-cams"
+  }
+ ],
+ "frames": [
+  {
+   "idx": 1,
+   "t": 0,
+   "desc": "Ronaldo-style face-cam in red headphones, champion with trophy inset, caption 'RONALDO IS CHAMPION!', training-drill game below",
+   "type": "game",
+   "text_on_screen": "RONALDO IS CHAMPION!",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 2,
+   "t": 2,
+   "desc": "Ronaldo-style face-cam in red headphones, champion with trophy inset, caption 'RONALDO IS CHAMPION!', training-drill game below",
+   "type": "game",
+   "text_on_screen": "RONALDO IS CHAMPION!",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 3,
+   "t": 4,
+   "desc": "Messi-style face-cam in blue headphones, trophy behind, drill game below",
+   "type": "game",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 4,
+   "t": 6,
+   "desc": "Same two-panel with Ronaldo-style face-cam, champion holding trophy, player sliding in drill",
+   "type": "game",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 5,
+   "t": 8,
+   "desc": "Messi-style face-cam, drill game below",
+   "type": "game",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 6,
+   "t": 10,
+   "desc": "Messi-style face-cam, drill game below",
+   "type": "game",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 7,
+   "t": 12,
+   "desc": "Ronaldo-style face-cam, drill game below",
+   "type": "game",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 8,
+   "t": 14,
+   "desc": "Ronaldo-style face-cam, drill game below",
+   "type": "game",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 9,
+   "t": 16,
+   "desc": "Ronaldo-style face-cam, drill game below",
+   "type": "game",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 10,
+   "t": 18,
+   "desc": "Messi-style face-cam with trophy, drill game below",
+   "type": "game",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 11,
+   "t": 20,
+   "desc": "Ronaldo-style face-cam, goalpost view of drill, 'goat.' card with Arsenal-shirt player",
+   "type": "game",
+   "text_on_screen": "goat.",
+   "transition_to_next": "none"
+  }
+ ]
+}

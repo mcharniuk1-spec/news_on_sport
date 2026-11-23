@@ -1,0 +1,12 @@
+{
+"81": {"twist_position": "early"},
+"82": {"scope": "europe_club", "uk_relevance": "medium"},
+"83": {"scope": "europe_club", "twist_position": "early"},
+"84": {"payoff_type": "callback_to_hook", "hook_type_alt": "none"},
+"85": {"payoff_type": "callback_to_hook", "dominant_emotion": "schadenfreude", "comment_bait": "fan_rivalry", "risk_flags": ["single_source", "unverified_claim"]},
+"86": {"payoff_type": "punchline", "humour_type": "absurd_comparison"},
+"87": {"subject_type": "owner_or_other", "uk_relevance": "medium", "twist_position": "none", "humour_type": "sarcasm", "hook_type_alt": "bold_claim"},
+"88": {"hook_strength": 4, "risk_flags": ["betting_under18_appeal", "off_topic_footage_risk", "single_source"]},
+"89": {"twist_position": "middle", "dominant_emotion": "awe"},
+"90": {"hook_basis": "scoreline_result", "twist_position": "none", "humour_type": "absurd_comparison", "dominant_emotion": "surprise", "hook_type_alt": "none"}
+}

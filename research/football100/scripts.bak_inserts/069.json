@@ -1,0 +1,81 @@
+{
+  "no": 69,
+  "subject": "Arteta bans Arsenal players from picking themselves in FPL after team news leaked via a squad member's team",
+  "title": "Arteta bans self-picks in Fantasy Premier League",
+  "voice": "kokoro",
+  "comic": true,
+  "style": "looney_slapstick",
+  "lines": [
+    {
+      "vo": "Christos Tzolis picked himself in fantasy football. Then he made himself captain.",
+      "card": "Picked himself",
+      "sfx": "cartoon record scratch",
+      "footage": "Tzolis goal clip, Arsenal home match, then fantasy team screen graphic"
+    },
+    {
+      "vo": "Arteta has now banned Arsenal players from picking themselves in Fantasy Premier League. First rule of voting: not for yourself.",
+      "card": "Arteta's new rule",
+      "footage": "Arteta press conference clip, arms crossed, touchline"
+    },
+    {
+      "vo": "Tzolis picked and captained himself before the Liverpool game. That hinted he would start. Fantasy football just became team news.",
+      "card": "Captain hint",
+      "footage": "Tzolis warm-up clip, Arsenal training ground"
+    },
+    {
+      "vo": "A week later, he moved himself, Ezri Konsa and Riccardo Calafiori out of his team. Captain one week, dropped the next.",
+      "card": "Three transfers out",
+      "footage": "Konsa and Calafiori match clips, Arsenal defensive line"
+    },
+    {
+      "vo": "Arteta says the leaks must stop, because confidentiality is what builds trust.",
+      "card": "Trust matters",
+      "footage": "Arteta press conference, close-up"
+    },
+    {
+      "vo": "It is not just Arsenal. Chelsea warned staff too, after people moved one of their players out of fantasy teams.",
+      "card": "Chelsea too",
+      "footage": "Chelsea training clip, staff area, Stamford Bridge exterior"
+    },
+    {
+      "vo": "Want the next story before it breaks? Match news and betting tips at aboutfootball dot UK.",
+      "card": "aboutfootball.UK",
+      "footage": "Channel end card, neutral background"
+    }
+  ],
+  "chars": 736,
+  "est_seconds": 43,
+  "footage_terms": [
+    "Arteta press conference Fantasy Premier League",
+    "Arsenal Tzolis FPL captain",
+    "Arteta team news leak FPL"
+  ],
+  "inserts": [
+    {
+      "after_line": 1,
+      "story": "A caricature Tzolis stands before a huge fantasy-team screen and clicks Captain on his own face. A giant armband slams onto his arm and drags him into the screen. Twist: the armband reads Banned, and a caricature Arteta calmly peels it off him.",
+      "characters": "caricature Tzolis; generic round-headed fantasy manager",
+      "seconds": 2
+    },
+    {
+      "after_line": 3,
+      "story": "A team sheet pinned to a board has three cartoon players waving at the camera. The board flips and they all fall off. Twist: a caricature Arteta catches the sheet, shouts Confidential and swallows it.",
+      "characters": "generic cartoon players; caricature Arteta; stylised board",
+      "seconds": 2
+    },
+    {
+      "after_line": 5,
+      "story": "A caricature Arteta locks a team sheet in a padlocked box. The key is a fantasy tracker with a cartoon face, which crawls out and picks itself. Twist: it captains itself.",
+      "characters": "caricature Arteta; stylised padlock box; cartoon tracker character",
+      "seconds": 2
+    }
+  ],
+  "facts_used": [
+    "Christos Tzolis picked and captained himself in Fantasy Premier League before the Liverpool match, which signalled he had recovered (news id 61, espn.com/soccer/story/_/id/50539955)",
+    "The next week he transferred himself, Ezri Konsa and Riccardo Calafiori out of his team (news id 61)",
+    "Arteta said Arsenal have taken steps to stop leaks and players will no longer select themselves (news id 61)",
+    "Chelsea issued a similar warning to staff after Joao Pedro was dropped from FPL teams (news id 61)"
+  ],
+  "comic_score": 8,
+  "notes": "Comic (looney_slapstick). Chelsea's Joao Pedro injury context in the source is deliberately left out, and so is the 'recovered' angle on Tzolis; the script says only that he hinted he would start. Self-transfer detail is from the source's second fact. Stamford Bridge footage is only an idea; verify before use."
+}

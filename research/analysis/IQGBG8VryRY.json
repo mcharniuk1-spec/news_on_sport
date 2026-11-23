@@ -1,0 +1,272 @@
+{
+ "video_id": "IQGBG8VryRY",
+ "topic": "Lamine Yamal's performance vs Atletico Madrid (8 Nov 2026) as a long-take compilation",
+ "hero": "Lamine Yamal (per title)",
+ "hero_role": "protagonist of the performance clip",
+ "media_type_overall": "real broadcast footage",
+ "hook": "Near-black frame then close on light-blue kit",
+ "subtitle_style": "none",
+ "reaction_overlays": "small scoreboard graphic bottom-left",
+ "transition_summary": "Almost no cuts, long wide broadcast takes; ~1 cut per 15-20 s",
+ "audio_note": "commentary heard (transcript mentions right-back play)",
+ "reuse_segments": [
+  {
+   "t0": 0,
+   "t1": 62,
+   "what": "Wide match action of Yamal vs Atletico",
+   "origin_guess": "broadcast match",
+   "rights_risk": "high",
+   "how_to_reuse": "needs licensed footage; strip bug"
+  }
+ ],
+ "frames": [
+  {
+   "idx": 1,
+   "t": 0,
+   "desc": "Dark almost-black frame",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 2,
+   "t": 2,
+   "desc": "Close on shirt of player in light blue away kit",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 3,
+   "t": 4,
+   "desc": "Wide tactical broadcast: Atletico (red-white stripes) vs Barca in light blue, scoreboard bug bottom-left",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 4,
+   "t": 6,
+   "desc": "Wide tactical broadcast: Atletico (red-white stripes) vs Barca in light blue, scoreboard bug bottom-left",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 5,
+   "t": 8,
+   "desc": "Wide tactical broadcast: Atletico (red-white stripes) vs Barca in light blue, scoreboard bug bottom-left",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 6,
+   "t": 10,
+   "desc": "Wide tactical broadcast: Atletico (red-white stripes) vs Barca in light blue, scoreboard bug bottom-left",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 7,
+   "t": 12,
+   "desc": "Wide tactical broadcast: Atletico (red-white stripes) vs Barca in light blue, scoreboard bug bottom-left",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 8,
+   "t": 14,
+   "desc": "Wide tactical broadcast: Atletico (red-white stripes) vs Barca in light blue, scoreboard bug bottom-left",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 9,
+   "t": 16,
+   "desc": "Wide tactical broadcast: Atletico (red-white stripes) vs Barca in light blue, scoreboard bug bottom-left",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 10,
+   "t": 18,
+   "desc": "Wide tactical broadcast: Atletico (red-white stripes) vs Barca in light blue, scoreboard bug bottom-left",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 11,
+   "t": 20,
+   "desc": "Wide tactical broadcast: Atletico (red-white stripes) vs Barca in light blue, scoreboard bug bottom-left",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 12,
+   "t": 22,
+   "desc": "Wide tactical broadcast: Atletico (red-white stripes) vs Barca in light blue, scoreboard bug bottom-left",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 13,
+   "t": 24,
+   "desc": "Wide tactical broadcast: Atletico (red-white stripes) vs Barca in light blue, scoreboard bug bottom-left",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 14,
+   "t": 26,
+   "desc": "Wide tactical broadcast: Atletico (red-white stripes) vs Barca in light blue, scoreboard bug bottom-left",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 15,
+   "t": 28,
+   "desc": "Wide tactical broadcast: Atletico (red-white stripes) vs Barca in light blue, scoreboard bug bottom-left",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 16,
+   "t": 30,
+   "desc": "Wide tactical broadcast: Atletico (red-white stripes) vs Barca in light blue, scoreboard bug bottom-left",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 17,
+   "t": 32,
+   "desc": "Wide tactical broadcast: Atletico (red-white stripes) vs Barca in light blue, scoreboard bug bottom-left",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 18,
+   "t": 34,
+   "desc": "Wide tactical broadcast: Atletico (red-white stripes) vs Barca in light blue, scoreboard bug bottom-left",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 19,
+   "t": 36,
+   "desc": "Wide tactical broadcast: Atletico (red-white stripes) vs Barca in light blue, scoreboard bug bottom-left",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 20,
+   "t": 38,
+   "desc": "Wide tactical broadcast: Atletico (red-white stripes) vs Barca in light blue, scoreboard bug bottom-left",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 21,
+   "t": 40,
+   "desc": "Wide tactical broadcast: Atletico (red-white stripes) vs Barca in light blue, scoreboard bug bottom-left",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 22,
+   "t": 42,
+   "desc": "Wide tactical broadcast: Atletico (red-white stripes) vs Barca in light blue, scoreboard bug bottom-left",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 23,
+   "t": 44,
+   "desc": "Wide tactical broadcast: Atletico (red-white stripes) vs Barca in light blue, scoreboard bug bottom-left",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 24,
+   "t": 46,
+   "desc": "Wide tactical broadcast: Atletico (red-white stripes) vs Barca in light blue, scoreboard bug bottom-left",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 25,
+   "t": 48,
+   "desc": "Wide tactical broadcast: Atletico (red-white stripes) vs Barca in light blue, scoreboard bug bottom-left",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 26,
+   "t": 50,
+   "desc": "Wide tactical broadcast: Atletico (red-white stripes) vs Barca in light blue, scoreboard bug bottom-left",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 27,
+   "t": 52,
+   "desc": "Wide tactical broadcast: Atletico (red-white stripes) vs Barca in light blue, scoreboard bug bottom-left",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 28,
+   "t": 54,
+   "desc": "Wide tactical broadcast: Atletico (red-white stripes) vs Barca in light blue, scoreboard bug bottom-left",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 29,
+   "t": 56,
+   "desc": "Wide tactical broadcast: Atletico (red-white stripes) vs Barca in light blue, scoreboard bug bottom-left",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 30,
+   "t": 58,
+   "desc": "Wide tactical broadcast: Atletico (red-white stripes) vs Barca in light blue, scoreboard bug bottom-left",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 31,
+   "t": 60,
+   "desc": "Wide tactical broadcast: Atletico (red-white stripes) vs Barca in light blue, scoreboard bug bottom-left",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "none"
+  }
+ ]
+}

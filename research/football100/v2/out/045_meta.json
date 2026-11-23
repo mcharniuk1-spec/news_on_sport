@@ -1,0 +1,113 @@
+{
+ "no": 45,
+ "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/045_deco_says_barcelona_would_welcome_li.mp4",
+ "total": 52.96666666666667,
+ "outro_start": 46.73,
+ "cover": true,
+ "seq": [
+  {
+   "id": "s01",
+   "kind": "HOOK",
+   "start": 0.1,
+   "end": 1.8666666666666667,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/045/s01.mp4",
+   "clip_dur": 1.767,
+   "frames": 42
+  },
+  {
+   "id": "s02",
+   "kind": "COMIC1",
+   "start": 5.033333333333333,
+   "end": 7.3,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/045/s02.mp4",
+   "clip_dur": 2.267,
+   "frames": 54
+  },
+  {
+   "id": "s03",
+   "kind": "NEWS",
+   "start": 10.333333333333334,
+   "end": 12.6,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/045/s03.mp4",
+   "clip_dur": 2.266,
+   "frames": 54
+  },
+  {
+   "id": "s04",
+   "kind": "COMIC2",
+   "start": 15.7,
+   "end": 17.966666666666665,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/045/s04.mp4",
+   "clip_dur": 2.266,
+   "frames": 54
+  },
+  {
+   "id": "s05",
+   "kind": "STATS",
+   "start": 22.6,
+   "end": 24.1,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/045/s05.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s06",
+   "kind": "COMIC3",
+   "start": 28.966666666666665,
+   "end": 31.233333333333334,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/045/s06.mp4",
+   "clip_dur": 2.267,
+   "frames": 54
+  },
+  {
+   "id": "s07",
+   "kind": "INTERVIEW",
+   "start": 39.1,
+   "end": 41.1,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/045/s07.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s08",
+   "kind": "PROVOC",
+   "start": 45.1,
+   "end": 46.6,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/045/s08.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  }
+ ],
+ "missing": [],
+ "dropped": [],
+ "cards": [
+  {
+   "text": "Struggled for minutes",
+   "a": 20.666666666666668,
+   "b": 22.466666666666665
+  },
+  {
+   "text": "Could not find minutes",
+   "a": 24.533333333333335,
+   "b": 26.733333333333334
+  },
+  {
+   "text": "The player gets a vote",
+   "a": 35.56666666666667,
+   "b": 37.766666666666666
+  }
+ ],
+ "caption_sprites": 146,
+ "whoosh": [
+  0.0,
+  4.933333333333334,
+  10.233333333333334,
+  15.6,
+  22.5,
+  28.866666666666664,
+  39.0,
+  45.0,
+  46.63
+ ],
+ "shots": 17
+}

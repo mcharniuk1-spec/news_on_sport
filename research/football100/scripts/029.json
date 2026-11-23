@@ -1,0 +1,83 @@
+{
+ "no": 29,
+ "subject": "Harry Kane",
+ "title": "Kane: a Ballon d'Or, a crossbar and a museum",
+ "voice": "EL_A",
+ "comic": false,
+ "style": null,
+ "lines": [
+  {
+   "vo": "A Ballon d'Or, a crossbar, and a plan for a museum.",
+   "card": "Crossbar and museum",
+   "sfx": null,
+   "footage": "Kane in a Bayern shirt, close-up, Allianz Arena"
+  },
+  {
+   "vo": "Kane won the Ballon d'Or in October, and he has been busy since.",
+   "card": "Ballon d'Or, October",
+   "sfx": null,
+   "footage": "Harry Kane Ballon d'Or ceremony London Palladium 2026, stage shot"
+  },
+  {
+   "vo": "He beat Mbappé by twenty-eight points, with forty first-place votes to twenty-three.",
+   "card": "Twenty-eight points",
+   "sfx": "crowd cheer",
+   "footage": "Ballon d'Or 2026 results graphic, Kane and Mbappé in the crowd"
+  },
+  {
+   "vo": "Then he passed Shilton's England caps record. A plaque from Shilton, a shirt from Prince William. Busy shelf.",
+   "card": "126 caps",
+   "sfx": null,
+   "footage": "Kane 126th cap at Wembley vs Croatia, plaque presentation"
+  },
+  {
+   "vo": "Now he wants the Ballon d'Or in Bayern's museum. Modesty has left the building.",
+   "card": "Museum request",
+   "sfx": "record scratch",
+   "footage": "Kane holding the Ballon d'Or in a Bayern setting, clean club footage"
+  },
+  {
+   "vo": "Before Der Klassiker he showed off the trophy. Then his penalty hit the crossbar. Dortmund drew 2-2. The crossbar sends thanks.",
+   "card": "Crossbar penalty",
+   "sfx": "crossbar clang",
+   "footage": "Bayern vs Dortmund 2-2, Kane penalty hits the bar, clean match highlights"
+  },
+  {
+   "vo": "Wrong about the next one? News, betting tips and predictions at aboutfootball dot UK.",
+   "card": "aboutfootball.UK",
+   "sfx": null,
+   "footage": "Closing card with site name, no footage"
+  }
+ ],
+ "chars": 599,
+ "est_seconds": 35,
+ "footage_terms": [
+  "Harry Kane Ballon d'Or ceremony London Palladium 2026",
+  "Bayern Dortmund 2-2 highlights Kane penalty",
+  "Kane 126th cap England record Croatia Wembley",
+  "Mainz Bayern 2-1 highlights Kane assists"
+ ],
+ "inserts": [
+  {
+   "after_line": 3,
+   "story": "A caricature of Kane carries a golden ball trophy to a tall museum glass case. Gag: the case is too small, so he squeezes the trophy in and then himself. Twist: a cartoon guard taps the glass and Kane gives a tiny wave from inside.",
+   "characters": "caricature of Kane",
+   "seconds": 2
+  },
+  {
+   "after_line": 4,
+   "story": "A caricature of Kane lines up a penalty. Gag: the ball clangs off the crossbar with a huge ringing bell sound and the bar shakes. Twist: the ball rebounds into his hands and he sighs.",
+   "characters": "caricature of Kane",
+   "seconds": 2
+  }
+ ],
+ "facts_used": [
+  "Ballon d'Or 2026 (26 Oct): Kane 1,055, Mbappé 1,027; 40 first-place votes to 23 - https://www.espn.com/soccer/story/_/id/50330001/2026-ballon-dor-results-men-full-women-votes-kane-mbappe",
+  "England caps: 126th cap v Croatia, passed Shilton's 125; Shilton plaque; Prince William shirt - https://www.espn.com/soccer/story/_/id/50451241/harry-kane-england-caps-record-126-croatia",
+  "Wants the Ballon d'Or in the Bayern museum (SportBILD) - https://www.sportbible.com/football/football-news/harry-kane-surprising-plan-ballon-dor-trophy-877891-20261104",
+  "Showed the trophy before Bayern vs Dortmund; 57th-minute penalty hit the crossbar; Dortmund drew 2-2 - https://www.skysports.com/football/bayern-vs-dortmund/report/563377",
+  "L'Equipe: fourth-closest vote in the award's 70-year history - https://www.espn.com/soccer/story/_/id/50330001/2026-ballon-dor-results-men-full-women-votes-kane-mbappe (medium confidence)"
+ ],
+ "comic_score": 6,
+ "notes": "Non-comic, so no inserts. The acupuncture and injury stories are excluded (health). The caps milestone and the Shilton plaque are factual. 'Modesty has left the building' is opinion on the museum ask (SportBILD report). The crossbar line is a sporting fact, not a personal attack. The 57th-minute detail is from the Sky Sports report in facts_used. The 'fourth-closest vote' claim is from L'Equipe via ESPN, medium confidence, so it is left out of the script."
+}

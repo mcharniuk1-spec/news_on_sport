@@ -1,0 +1,16 @@
+{
+  "palette": [
+    "#b8cce1",
+    "#665183",
+    "#f3ad7d",
+    "#ed7780",
+    "#a0d4c7"
+  ],
+  "style": "SITCOM-YELLOW",
+  "font": "Arial Bold",
+  "characters": [
+    "Cristiano Ronaldo",
+    "generic reporter"
+  ],
+  "recurring_prop": "cabinet"
+}

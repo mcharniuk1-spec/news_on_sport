@@ -1,0 +1,751 @@
+{
+  "name": "Karim Benzema",
+  "years": "born 1987; Ballon d'Or 2022",
+  "recent_news": [
+    {
+      "date": "2026-08-17",
+      "headline": "Benzema left out of Al-Hilal's King's Cup tie amid contract dispute (5 days before the 90-day window, kept because it explains the exit)",
+      "facts": [
+        "Reports said coach Simone Inzaghi no longer counted him in his plans, after Benzema publicly disagreed with the staff when substituted in the 70th minute of a 4-2 league win over Al-Faisaly.",
+        "Benzema reportedly was willing to leave as a free agent but wanted the full salary of the final contract year; Al-Hilal and the Saudi Pro League co-fund the deal, so talks were stuck.",
+        "Al-Hilal were reportedly eyeing Ollie Watkins as his replacement."
+      ],
+      "source_url": "https://www.yardbarker.com/soccer/articles/why_is_karim_benzema_not_playing_today_for_al_raed_vs_al_hilal/s1_17615_44186774",
+      "source_domain": "yardbarker.com",
+      "tone": "roast",
+      "sensitive": false
+    },
+    {
+      "date": "2026-08-30",
+      "headline": "Benzema reportedly refuses Al-Shabab move; contract-money details emerge (Asharq Al-Awsat via AfricaSoccer)",
+      "facts": [
+        "Sources said Al-Shabab asked the Saudi league to help arrange a deal, but Benzema's refusal was the main obstacle; he also reportedly refused to be registered only in Al-Hilal's Asian squad.",
+        "Reported figures: Al-Hilal deal about $25m a year; a separate Saudi Pro League promotional deal about $23m a year to 2030 that is cancelled if he plays for a club outside Saudi Arabia.",
+        "Report was internally inconsistent on the contract end date (June 2027 vs June 2030)."
+      ],
+      "source_url": "https://africasoccer.com/benzema-rejects-al-shabab-as-details-of-al-hilal-contract-dispute-emerge/",
+      "source_domain": "africasoccer.com",
+      "tone": "roast",
+      "sensitive": false
+    },
+    {
+      "date": "2026-08-31",
+      "headline": "Karim Benzema leaves Al Hilal after just six months",
+      "facts": [
+        "Al Hilal announced a mutual termination of his contract, which had one year left.",
+        "The announcement came a day after Al Hilal completed a 51m pound (69m dollar) signing of Ollie Watkins from Aston Villa.",
+        "His future was unclear and retirement speculation started; he had joined in February after Al Ittihad."
+      ],
+      "source_url": "https://www.espn.com/soccer/story/_/id/49783743/karim-benzema-al-hilal-saudi-pro-league-transfers",
+      "source_domain": "espn.com",
+      "tone": "roast",
+      "sensitive": false
+    },
+    {
+      "date": "2026-08-31",
+      "headline": "Benzema breaks silence on X: 'A chapter of my career reaches its end'",
+      "facts": [
+        "He thanked Al-Hilal, team-mates, staff and fans and wished the club well.",
+        "He did not say what comes next; the post neither confirmed nor ruled out retirement."
+      ],
+      "source_url": "https://www.goal.com/en/news/retirement-or-what-benzema-issues-his-first-comment-after-the-al-hilal-blow/blt425f8fc7a6136d78",
+      "source_domain": "goal.com",
+      "tone": "neutral",
+      "sensitive": false
+    },
+    {
+      "date": "2026-08-31",
+      "headline": "Why the Al-Hilal spell fell apart so quickly",
+      "facts": [
+        "New coach Simone Inzaghi reportedly did not see Benzema as central, and Al-Hilal signed Watkins as a younger number 9.",
+        "Benzema was reportedly negotiating his exit earlier that month even after saying he expected to stay.",
+        "Stats given: 10 goals and 9 assists in 14 appearances (other outlets give 12 to 16 appearances)."
+      ],
+      "source_url": "https://sports.yahoo.com/articles/karim-benzema-shock-al-hilal-180237918.html",
+      "source_domain": "sports.yahoo.com",
+      "tone": "roast",
+      "sensitive": false
+    },
+    {
+      "date": "2026-09-06",
+      "headline": "L'Equipe: Lyon considered signing Benzema, who would have played for free",
+      "facts": [
+        "Lyon reportedly considered a move earlier in the summer; Benzema was said to be willing to play for free out of love for his hometown club.",
+        "It stalled because he was under contract with Al Hilal; Lyon then signed Lois Openda on loan.",
+        "L'Equipe reportedly said he never got on with Inzaghi; his Saudi ambassador deal to 2030 makes a European return unrealistic."
+      ],
+      "source_url": "https://www.si.com/soccer/karim-benzema-fairytale-european-soccer-collapsed",
+      "source_domain": "si.com",
+      "tone": "neutral",
+      "sensitive": false
+    },
+    {
+      "date": "2026-09-11",
+      "headline": "En-Nesyri reaches 10 Saudi league goals faster than Benzema did at Al-Ittihad",
+      "facts": [
+        "Youssef En-Nesyri scored his 10th Roshn League goal for Al-Ittihad in 20 matches since arriving from Besiktas.",
+        "Benzema needed 23 matches since joining Al-Ittihad to reach his 10th league goal; it came in a 2-1 win over Al-Taawoun in round 2 of 2024-25. Both counts run from each player's arrival, not from a single season.",
+        "Benzema helped Al-Ittihad win the league and King's Cup double in 2024-25."
+      ],
+      "source_url": "https://www.yardbarker.com/soccer/articles/an_exceptional_start_the_tenth_goal_gives_en_nesyri_the_edge_over_benzema_in_the_saudi_league/s1_17790_44291387",
+      "source_domain": "yardbarker.com",
+      "tone": "roast",
+      "sensitive": false
+    },
+    {
+      "date": "2026-09-15",
+      "headline": "Leverkusen rule out Benzema after Instagram-follow rumour",
+      "facts": [
+        "DZfoot journalist Ilyes Kaddouri reported Leverkusen contact; the rumour grew when Benzema was seen following Leverkusen's Instagram account.",
+        "Sporting director Simon Rolfes told BILD the squad is complete."
+      ],
+      "source_url": "https://sports.yahoo.com/articles/karim-benzema-bayer-leverkusen-sporting-063529156.html",
+      "source_domain": "sports.yahoo.com",
+      "tone": "roast",
+      "sensitive": false
+    },
+    {
+      "date": "2026-09-18",
+      "headline": "Zidane's first France squad: no Benzema",
+      "facts": [
+        "France coach Zinedine Zidane ruled out a recall of the 38-year-old, citing age and the need to look at younger players.",
+        "Zidane said he adores Karim; Benzema has not played for France since the 2022 World Cup (injured, did not play)."
+      ],
+      "source_url": "https://www.espn.com/soccer/story/_/id/49974180/france-coach-zinedine-zidane-1st-squad-benzema-kante-jacquet",
+      "source_domain": "espn.com",
+      "tone": "roast",
+      "sensitive": false
+    },
+    {
+      "date": "2026-09-24",
+      "headline": "Nike reportedly cancels London photoshoot with Benzema (The Athletic via OneFootball)",
+      "facts": [
+        "Reports said Nike reviewed his background and decided it did not fit its values; Nike said the project did not reflect a wider relationship.",
+        "Sensitive: linked to his past legal case. Use as news only."
+      ],
+      "source_url": "https://onefootball.com/en/news/nike-cancel-karim-benzema-photoshoot-in-london-43515048",
+      "source_domain": "onefootball.com",
+      "tone": "neutral",
+      "sensitive": true
+    },
+    {
+      "date": "2026-09-25",
+      "headline": "Benzema on Instagram: 'Fake news.. my dear'",
+      "facts": [
+        "He denied reports that Nike cancelled the shoot over his past.",
+        "He gave no further detail; Nike gave no further public comment beyond its statement."
+      ],
+      "source_url": "https://www.goal.com/en/news/benzema-hits-back-hard-fake-news-my-dear/bltb5558543d2f7c53b",
+      "source_domain": "goal.com",
+      "tone": "neutral",
+      "sensitive": true
+    },
+    {
+      "date": "2026-10-01",
+      "headline": "Rio Ferdinand urges Man United to sign Benzema on a free",
+      "facts": [
+        "Ferdinand said on his YouTube channel that United need a senior striker to share Sesko's load and mentor him.",
+        "No credible approach by United was reported; it is a pundit idea.",
+        "Benzema was without a club and 38."
+      ],
+      "source_url": "https://www.football365.com/news/ferdinand-man-utd-real-madrid-hero-free-transfer",
+      "source_domain": "football365.com",
+      "tone": "neutral",
+      "sensitive": false
+    },
+    {
+      "date": "2026-10-07",
+      "headline": "Benzema buys Dubai flats in Mercedes-Benz Places, about 20m euros for one unit",
+      "facts": [
+        "Binghatti announced he bought several units, including one in the 78-floor Vision Iconic Tower, at a launch event at Coca-Cola Arena (French Football Weekly says he 'reserved' the Vision Iconic unit; exact number of units not given).",
+        "French Football Weekly put the Vision Iconic unit at about 20 million euros (reported list price).",
+        "The tower has 1,426 residences and 27 retail units."
+      ],
+      "source_url": "https://frenchfootballweekly.com/2026/10/09/karim-benzema-the-new-madness-at-20-million-euros/",
+      "source_domain": "frenchfootballweekly.com",
+      "tone": "neutral",
+      "sensitive": false
+    },
+    {
+      "date": "2026-10-13",
+      "headline": "Deschamps v Riolo defamation case over Benzema's 2022 World Cup exclusion goes to appeal",
+      "facts": [
+        "Deschamps sued commentator Daniel Riolo over claims about Benzema's 2022 exit; a court found Riolo's words unfair but not defamatory.",
+        "Appeal trial is set for 13 January 2027.",
+        "Sensitive: legal and injury topic. News only."
+      ],
+      "source_url": "https://www.yardbarker.com/soccer/articles/benzemas_exclusion_case_is_not_yet_closed_deschamps_from_the_france_national_team_to_the_courts/s1_17790_44423366",
+      "source_domain": "yardbarker.com",
+      "tone": "neutral",
+      "sensitive": true
+    },
+    {
+      "date": "2026-10-15",
+      "headline": "Mourinho revives the 2010 'cat' story about Benzema",
+      "facts": [
+        "In November 2010 Mourinho, explaining how he would cope without the injured Higuain, used a hunting-dog proverb and relied on Benzema; it was widely mocked.",
+        "Benzema later said it angered him enough to confront Mourinho.",
+        "The 2026 remark was Mourinho's comment on Vinicius's league ban."
+      ],
+      "source_url": "https://www.yardbarker.com/soccer/articles/from_benzema_to_vinicius_mourinho_digs_up_the_famous_cat_story_16_years_on/s1_17790_44430859",
+      "source_domain": "yardbarker.com",
+      "tone": "roast",
+      "sensitive": false
+    },
+    {
+      "date": "2026-10-21",
+      "headline": "Lyon sporting director: Benzema return was 'more noise than reality'",
+      "facts": [
+        "Matthieu Louis-Jean told France TV it was never close and a deal was not feasible because of the Saudi contract.",
+        "Lyon are focused on the January window."
+      ],
+      "source_url": "https://www.beinsports.com/en-us/soccer/ligue-1/articles/lyon-cools-hopes-of-seeing-karim-benzema-return-2026-10-21",
+      "source_domain": "beinsports.com",
+      "tone": "roast",
+      "sensitive": false
+    },
+    {
+      "date": "2026-10-31",
+      "headline": "Benzema's Kopa Trophy ballot: Yamal, Cubarsi, Bouaddi",
+      "facts": [
+        "As a former Ballon d'Or winner he voted: Lamine Yamal first, Pau Cubarsi second, Ayyoub Bouaddi third.",
+        "Yamal won the Kopa Trophy for a third straight year; Cubarsi finished second."
+      ],
+      "source_url": "https://www.goal.com/en/news/benzema-s-choice-draws-attention-a-moroccan-talent-breaks-into-his-ballon-d-or-calculations/blt6f495a2217cea41f",
+      "source_domain": "goal.com",
+      "tone": "praise",
+      "sensitive": false
+    },
+    {
+      "date": "2026-11-05",
+      "headline": "Benzema backs Vinicius after a poor night vs AEK Athens: 'Number 1 forever'",
+      "facts": [
+        "He posted a photo with Vinicius captioned 'Number 1 forever' after Real Madrid's comeback Champions League win over AEK Athens (match date not stated in the article; related video dated 4 November).",
+        "Vinicius had a quiet match and has one goal in 12 appearances this season (beIN)."
+      ],
+      "source_url": "https://www.beinsports.com/en-us/soccer/la-liga/articles/karim-benzema-defends-vin%C3%ADcius-junior-during-his-toughest-moment-following-real-madrid-s-match-against-aek-athens-2026-11-05",
+      "source_domain": "beinsports.com",
+      "tone": "praise",
+      "sensitive": false
+    },
+    {
+      "date": "2026-11-12",
+      "headline": "France search for a Benzema-style centre-forward under Zidane",
+      "facts": [
+        "Zidane is reportedly looking for a striker with Benzema's qualities and calls him the best French striker in history.",
+        "French press reports of Mbappe unhappiness at playing as a striker are unconfirmed."
+      ],
+      "source_url": "https://www.yardbarker.com/soccer/articles/one_decision_ignited_two_crises_zidane_clashes_with_mbapp_in_the_search_for_benzema/s1_17790_44550987",
+      "source_domain": "yardbarker.com",
+      "tone": "neutral",
+      "sensitive": false
+    },
+    {
+      "date": "2026-11-19",
+      "headline": "Harry Kane: Benzema was amazing at Real Madrid",
+      "facts": [
+        "Kane (in a Foot Mercato interview; page last updated 19 Nov, interview date not stated) said he has long admired Benzema, called his 2022 achievement truly impressive and sees similarities in how both find space and help team-mates."
+      ],
+      "source_url": "https://www.yardbarker.com/soccer/articles/kane_benzema_was_amazing_at_real_madrid_and_being_alongside_messi_and_cristiano_is_a_huge_source_of_pride/s1_17790_44588186",
+      "source_domain": "yardbarker.com",
+      "tone": "praise",
+      "sensitive": false
+    }
+  ],
+  "now": {
+    "as_of": "2026-11-20",
+    "status": "Free agent since 31 Aug 2026, aged 38; no new club and no retirement announcement found in any source up to 19 Nov 2026.",
+    "last_club": "Al-Hilal (Saudi Pro League): joined Jan/Feb 2026 on a deal to 2027; contract terminated by mutual consent 31 Aug 2026. Before that Al-Ittihad (2023 to early 2026).",
+    "last_season_numbers": "At Al-Hilal about 10 goals (sources vary: Wikipedia infobox 10 goals in 12 apps as of 20 Aug 2026, 10 goals + 9 assists in 14 apps on Yahoo, 10 goals in 16 apps on SI). Debut hat-trick in a 6-0 away win at Al-Okhdood three days after signing.",
+    "contract_and_limits": "Reportedly still holds a Saudi Pro League promotional deal to 2030 (about $23m a year per Asharq Al-Awsat via AfricaSoccer/Goal) that is cancelled if he joins and plays for a club outside Saudi Arabia; the remaining value to June 2030 is about $88m (roughly 330m riyals), so leaving would forfeit that money (it is a forfeited income, not a stated fine). This is why Lyon (and any European club) was reportedly blocked.",
+    "options_reported": "Retirement or another Saudi club (Fabrizio Romano via Yahoo/FootballTransfers). Reportedly rejected Al-Shabab; AS reported Al-Ittihad offered a free return (Benzema's answer not reported). Leverkusen (denied by Rolfes), Man United (only Rio Ferdinand's podcast idea) and Lyon (director: 'more noise than reality') are all non-starters.",
+    "national_team": "Retired from France in Dec 2022; Zidane (France coach) did not select him on 18 Sep 2026, saying 'I adore Karim'.",
+    "life_and_business": "Bought several Dubai flats (one Vision Iconic Tower unit about 20m euros per French Football Weekly, Oct 2026). Active on Instagram: backed Vinicius (5 Nov), voted in the Kopa Trophy (Yamal, Cubarsi, Bouaddi), denied the Nike story ('Fake news.. my dear').",
+    "what_people_say": "Kane (19 Nov) and Zidane praise him; Ferdinand wants him at United; commentators think retirement is increasingly likely.",
+    "gap": "No source found dated 20 Nov 2026. Search budget ran out before a final sweep of French/Spanish press, so a brand-new development in the last 24-48h may be missing."
+  },
+  "quick_context": [
+    "In 2021-22 Benzema won the Pichichi with 27 La Liga goals in 32 games, scored 15 Champions League goals including hat-tricks against PSG and Chelsea, and Real Madrid won the Champions League.",
+    "He won the 2022 Ballon d'Or with 549 points, 356 clear of Sadio Mane (193), and also the first Champions League Player of the Season award.",
+    "At Real Madrid he won five Champions League titles and 25 trophies in total, passing Raul in 2022 to become the club's second-highest scorer with 324 goals."
+  ],
+  "roast_past": [
+    {
+      "angle": "Mourinho's 2010 'no dog, so I hunt with a cat' line about Benzema",
+      "detail": "Mourinho used a hunting-dog proverb to say he would rely on Benzema while Higuain was out; it was widely mocked and Benzema later said it angered him. Revived again in Oct 2026.",
+      "safe": true
+    },
+    {
+      "angle": "Giroud karting vs Formula 1",
+      "detail": "In a March 2020 Instagram live he compared Giroud to karting and himself to Formula 1.",
+      "safe": true
+    },
+    {
+      "angle": "Mocking Deschamps with a repost",
+      "detail": "In March 2023 he reposted Deschamps's statement on Instagram with a mocking caption.",
+      "safe": true
+    },
+    {
+      "angle": "Retired from France in 2022, then said 'if they call me, I come'",
+      "detail": "He announced international retirement on 19 Dec 2022, but told L'Equipe (Fox News report, 12 Dec 2025) 'when they call me, I come, I play' about the 2026 World Cup; in Sept 2026 Zidane still did not call.",
+      "safe": true
+    },
+    {
+      "angle": "Club-hopping: Real Madrid, Al-Ittihad, Al-Hilal, free agent",
+      "detail": "Left Madrid in 2023, fell out with Al-Ittihad (missed games in a contract dispute, Jan 2026), joined Al-Hilal on deadline day, and left after six months.",
+      "safe": true
+    },
+    {
+      "angle": "Fifth Frenchman to win the Ballon d'Or (2022) who now cannot get a Premier League look",
+      "detail": "The only Man United link is Rio Ferdinand's podcast.",
+      "safe": true
+    }
+  ],
+  "roast_now": [
+    {
+      "angle": "A 51m pound replacement signed the day after he was let go",
+      "detail": "Al Hilal announced Watkins the day before the Benzema exit (ESPN).",
+      "safe": true
+    },
+    {
+      "angle": "A Leverkusen rumour started because he followed them on Instagram",
+      "detail": "Rolfes: 'Our squad is complete'.",
+      "safe": true
+    },
+    {
+      "angle": "Lyon would have had him for free, and still said 'more noise than reality'",
+      "detail": "Louis-Jean on France TV; blocked by the Saudi deal.",
+      "safe": true
+    },
+    {
+      "angle": "Stuck in Saudi by an ambassador deal (about $23m a year, to 2030)",
+      "detail": "Playing abroad would cancel it; the remaining value is about 330m riyals (about $88m) of forfeited income, not a fine.",
+      "safe": true
+    },
+    {
+      "angle": "Turned down Al-Shabab, and an Al-Ittihad return offer was reported, yet still jobless",
+      "detail": "Al-Shabab refusal reported by Asharq Al-Awsat; Al-Ittihad free-return offer reported by AS (his answer not reported).",
+      "safe": true
+    },
+    {
+      "angle": "No club, but a roughly 20m euro Dubai flat",
+      "detail": "Vision Iconic Tower, 78 floors; the 20m euro figure is a reported list price.",
+      "safe": true
+    },
+    {
+      "angle": "Al-Ittihad's new striker beat his pace",
+      "detail": "En-Nesyri hit 10 league goals in 20 matches since arriving; Benzema needed 23 since joining (both counts since arrival).",
+      "safe": true
+    },
+    {
+      "angle": "Zidane adores him but did not pick him",
+      "detail": "'I adore Karim', then a squad without him.",
+      "safe": true
+    }
+  ],
+  "praise": [
+    {
+      "angle": "2022 Ballon d'Or by a huge margin",
+      "number": "549 points, 356 ahead of Mane (193)"
+    },
+    {
+      "angle": "Monster Real Madrid season",
+      "number": "27 La Liga goals in 32 games (Pichichi) and 15 Champions League goals with hat-tricks vs PSG and Chelsea"
+    },
+    {
+      "angle": "Five Champions Leagues and club-record chase",
+      "number": "5 UCL titles, 25 trophies, 324 goals (second all-time at Real Madrid in Aug 2022)"
+    },
+    {
+      "angle": "Saudi title winner at 37",
+      "number": "2024-25 Al-Ittihad: 21 league goals in 28 games, league and King's Cup double, league player of the season"
+    },
+    {
+      "angle": "Still scoring at Al-Hilal",
+      "number": "About 10 goals (reported 10 goals + 9 assists in 14 apps) and a debut hat-trick in a 6-0 win"
+    },
+    {
+      "angle": "Respected by today's stars",
+      "number": "Kane (19 Nov 2026) calls him amazing; Zidane: best French striker in history and 'I adore Karim'"
+    }
+  ],
+  "no_joke_topics": [
+    "The Valbuena blackmail case, his conviction and the Euro 2016 exclusion",
+    "Anything about the Nike story linked to his past (news only)",
+    "The Deschamps v Riolo defamation case",
+    "Injuries and health, including his 2022 World Cup muscle injury and any retirement-as-illness speculation",
+    "Family and relationships (partner, children)",
+    "Doping (mentioned in the Deschamps/Riolo coverage)",
+    "War, politics, religion and Gulf human-rights topics",
+    "Vinicius's league ban and any racism topic"
+  ],
+  "viral_moments": [
+    {
+      "title": "L'Equipe/YouTube interview: 'Qui peut refuser une Coupe du monde ?'",
+      "youtube_url": "https://www.youtube.com/watch?v=wobD6Oz_9Zg",
+      "why_provocative": "He says he would play for France if called, after retiring from the team in 2022; useful contrast with Zidane's Sept 2026 decision.",
+      "timestamp": null,
+      "verified": false,
+      "note": "Title and link came from a search result; page not read. The L'Equipe interview itself is confirmed by Fox News (12 Dec 2025: 'When they call me, I come, I play'). Check upload date and clip before use."
+    },
+    {
+      "title": "Instagram live with Mohamed Henni (March 2020): Giroud karting vs Formula 1",
+      "youtube_url": null,
+      "search_phrase": "Benzema Giroud karting Formule 1 Mohamed Henni live",
+      "why_provocative": "Public jab at a team-mate; documented on Wikipedia.",
+      "timestamp": null,
+      "verified": false,
+      "note": "Clip link not located."
+    },
+    {
+      "title": "Benzema reposts Deschamps statement with mocking caption (March 2023)",
+      "youtube_url": null,
+      "search_phrase": "Benzema Deschamps instagram story mars 2023",
+      "why_provocative": "Public dig at the France coach; documented on Wikipedia.",
+      "timestamp": null,
+      "verified": false,
+      "note": "Screenshot, not a video; use as graphic."
+    },
+    {
+      "title": "'Fake news.. my dear' Instagram story (Sep 2026)",
+      "youtube_url": null,
+      "search_phrase": "Benzema fake news my dear Nike",
+      "why_provocative": "Fast, curt denial of the Nike report. Sensitive context: use only as a reaction graphic, no jokes about the cause.",
+      "timestamp": null,
+      "verified": true,
+      "source": "https://www.goal.com/en/news/benzema-hits-back-hard-fake-news-my-dear/bltb5558543d2f7c53b"
+    },
+    {
+      "title": "'Number 1 forever' post for Vinicius (5 Nov 2026)",
+      "youtube_url": null,
+      "search_phrase": "Benzema Vinicius number 1 forever",
+      "why_provocative": "Supports Vinicius at a bad moment (one goal in 12 games).",
+      "timestamp": null,
+      "verified": true,
+      "source": "https://www.beinsports.com/en-us/soccer/la-liga/articles/karim-benzema-defends-vin%C3%ADcius-junior-during-his-toughest-moment-following-real-madrid-s-match-against-aek-athens-2026-11-05"
+    }
+  ],
+  "footage_terms": [
+    {
+      "phrase": "Benzema Al Hilal debut hat-trick Al Okhdood 6-0 highlights",
+      "watermark_risk": "high: Saudi broadcaster logos and burned-in Arabic scoreboard/subtitles"
+    },
+    {
+      "phrase": "Benzema Real Madrid hat-trick PSG Champions League 2022 4K no commentary",
+      "watermark_risk": "medium: fan-edit channels add logos/music; prefer raw broadcast clips"
+    },
+    {
+      "phrase": "Benzema hat-trick Chelsea Stamford Bridge 3-1 2022",
+      "watermark_risk": "medium"
+    },
+    {
+      "phrase": "Benzema Ballon d'Or 2022 ceremony Chatelet speech",
+      "watermark_risk": "medium: France Football/TV channel logos, burned-in French subtitles"
+    },
+    {
+      "phrase": "Benzema Al Ittihad King's Cup final 2025 celebration",
+      "watermark_risk": "high: Saudi broadcaster logos"
+    },
+    {
+      "phrase": "Benzema Al Hilal goal Inzaghi bench reaction",
+      "watermark_risk": "high: logos and Arabic captions"
+    },
+    {
+      "phrase": "Benzema L'Equipe interview 2025 sous-titres",
+      "watermark_risk": "high: French burned-in subtitles"
+    },
+    {
+      "phrase": "Benzema Dubai Binghatti Mercedes-Benz Places launch Coca-Cola Arena",
+      "watermark_risk": "medium: promo logos"
+    },
+    {
+      "phrase": "Benzema Vinicius Real Madrid celebration compilation",
+      "watermark_risk": "high: compilation channels, music, subtitles"
+    },
+    {
+      "phrase": "Benzema press conference Real Madrid farewell 2023",
+      "watermark_risk": "medium: club TV logo, Spanish subtitles"
+    }
+  ],
+  "flipbook_ideas": [
+    "Benzema in a blue Al-Hilal shirt slides under a door marked 'Mutual Termination' while a huge number 9 for Watkins rolls in on a pound-sign carpet.",
+    "Cartoon Benzema as a smug cat wearing five tiny Champions League crowns, looking at a confused hunting dog (Mourinho's 2010 'cat' line).",
+    "Benzema on the 78th floor of a Dubai tower looking at a phone with 0 missed calls from clubs, one tiny flat on a mountain of 'FREE AGENT' price tags.",
+    "Benzema as a retired-looking referee at the Kopa Trophy desk, scoring teenagers Yamal, Cubarsi and Bouaddi with big grandad glasses.",
+    "Benzema holding a 'Will play for free' sign while a Saudi ambassador-contract rope pulls him back from the Lyon border.",
+    "Zidane stamps 'I adore Karim' on a letter while the door to the France squad bus closes."
+  ],
+  "image_reference_notes": {
+    "signature_look": "Real Madrid era: short dark hair, light stubble or short beard, calm, half-smiling face; white Real Madrid kit with number 9; gold Ballon d'Or trophy pose from 17 Oct 2022 (Chatelet).",
+    "current_look": "Not verified: no recent photo could be inspected. Last known looks are Al-Hilal blue/white kit (2026) and Al-Ittihad yellow/black stripes (2023-26). Check a fresh photo before drawing hair or beard.",
+    "kit_colours": "Real Madrid white and gold; Al-Ittihad yellow and black; Al-Hilal blue and white; France navy blue.",
+    "expressions": "Deadpan, raised-eyebrow cool, small smirk; rarely big smiles.",
+    "signature_pose": "Index finger up to the sky / arms-open scorer's stance (generic reference; check footage before drawing).",
+    "status": "Unverified against a primary photo source."
+  },
+  "claims": [
+    {
+      "claim": "Al Hilal announced on 31 Aug 2026 that Benzema's contract, with one year left, was ended by mutual agreement after six months.",
+      "source_url": "https://www.espn.com/soccer/story/_/id/49783743/karim-benzema-al-hilal-saudi-pro-league-transfers",
+      "confidence": "high"
+    },
+    {
+      "claim": "The exit came a day after Al Hilal signed Ollie Watkins from Aston Villa for 51m pounds.",
+      "source_url": "https://www.espn.com/soccer/story/_/id/49783743/karim-benzema-al-hilal-saudi-pro-league-transfers",
+      "confidence": "high"
+    },
+    {
+      "claim": "He joined Al Hilal in February 2026 after Al Ittihad.",
+      "source_url": "https://www.espn.com/soccer/story/_/id/49783743/karim-benzema-al-hilal-saudi-pro-league-transfers",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Join month conflicts: Yahoo says January, ESPN says February, Wikipedia says only the final day of the 2025-26 winter window (debut hat-trick three days later).",
+      "source_url": "https://en.wikipedia.org/wiki/Karim_Benzema",
+      "confidence": "low"
+    },
+    {
+      "claim": "Benzema posted on X 'A chapter of my career reaches its end' and did not announce next step.",
+      "source_url": "https://www.goal.com/en/news/retirement-or-what-benzema-issues-his-first-comment-after-the-al-hilal-blow/blt425f8fc7a6136d78",
+      "confidence": "high"
+    },
+    {
+      "claim": "Inzaghi reportedly did not see him as central; Watkins signed as a younger number 9.",
+      "source_url": "https://sports.yahoo.com/articles/karim-benzema-shock-al-hilal-180237918.html",
+      "confidence": "medium"
+    },
+    {
+      "claim": "At Al-Hilal he scored 10 goals with 9 assists in 14 appearances.",
+      "source_url": "https://sports.yahoo.com/articles/karim-benzema-shock-al-hilal-180237918.html",
+      "confidence": "low"
+    },
+    {
+      "claim": "At Al-Hilal he scored 10 goals in 16 appearances per SI (conflicts with Yahoo 14 and Wikipedia infobox 12 apps as of 20 Aug 2026, all with 10 goals).",
+      "source_url": "https://www.si.com/soccer/karim-benzema-fairytale-european-soccer-collapsed",
+      "confidence": "low"
+    },
+    {
+      "claim": "Joined Al-Hilal on deadline day of the 2025-26 winter window, scoring a hat-trick on debut in a 6-0 win at Al-Okhdood.",
+      "source_url": "https://en.wikipedia.org/wiki/Karim_Benzema",
+      "confidence": "high"
+    },
+    {
+      "claim": "On about 17 Aug 2026 he was left out of the King's Cup tie amid a contract dispute and an earlier row over a 70th-minute substitution.",
+      "source_url": "https://www.yardbarker.com/soccer/articles/why_is_karim_benzema_not_playing_today_for_al_raed_vs_al_hilal/s1_17615_44186774",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Al-Shabab sought him; he reportedly refused to wear their shirt.",
+      "source_url": "https://africasoccer.com/benzema-rejects-al-shabab-as-details-of-al-hilal-contract-dispute-emerge/",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Reported Al-Hilal pay about $25m a year and a Saudi Pro League-funded deal about $23m a year to 2030 that is cancelled if he plays outside Saudi Arabia.",
+      "source_url": "https://africasoccer.com/benzema-rejects-al-shabab-as-details-of-al-hilal-contract-dispute-emerge/",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Reported: playing for a club outside Saudi Arabia cancels the Saudi Pro League promotional deal ($23m a year to 2030); the forfeited remaining value is about 330m riyals (about $88.2m) per Asharq Al-Awsat via Goal, 25 Aug 2026. It is lost income, not a fine.",
+      "source_url": "https://www.goal.com/en/news/a-shocking-clause-shackles-benzema-leaving-saudi-arabia-would-cost-him-330-million-riyals/bltf568b72526f76525",
+      "confidence": "medium"
+    },
+    {
+      "claim": "AS reported an Al-Ittihad free-transfer return offer; he reportedly rejected Al-Shabab.",
+      "source_url": "https://africasoccer.com/karim-benzema-offered-chance-to-return-to-al-ittihad-after-al-hilal-exit/",
+      "confidence": "medium"
+    },
+    {
+      "claim": "L'Equipe reported Lyon considered signing him and he would have played for free.",
+      "source_url": "https://www.si.com/soccer/karim-benzema-fairytale-european-soccer-collapsed",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Lyon sporting director Matthieu Louis-Jean said a return was never close, 'more noise than reality'.",
+      "source_url": "https://www.beinsports.com/en-us/soccer/ligue-1/articles/lyon-cools-hopes-of-seeing-karim-benzema-return-2026-10-21",
+      "confidence": "high"
+    },
+    {
+      "claim": "Former agent Karim Djaziri told RMC that Benzema 'thought about' a Lyon return for a long time before deciding against it, and that it was impossible this summer because his contract bound him to Saudi Arabia (Goal, 16 Oct 2026).",
+      "source_url": "https://www.goal.com/en/lists/karim-benzema-lyon-return-real-madrid/blt26d2a8b89eb3a257",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Leverkusen's Simon Rolfes said the squad is complete; the rumour grew from an Instagram follow.",
+      "source_url": "https://sports.yahoo.com/articles/karim-benzema-bayer-leverkusen-sporting-063529156.html",
+      "confidence": "high"
+    },
+    {
+      "claim": "Zidane did not select Benzema in his first France squad on 18 Sep 2026 and said 'I adore Karim'.",
+      "source_url": "https://www.espn.com/soccer/story/_/id/49974180/france-coach-zinedine-zidane-1st-squad-benzema-kante-jacquet",
+      "confidence": "high"
+    },
+    {
+      "claim": "Nike reportedly cancelled a London photoshoot with Benzema (The Athletic); Nike said the project did not reflect a wider relationship.",
+      "source_url": "https://onefootball.com/en/news/nike-cancel-karim-benzema-photoshoot-in-london-43515048",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Benzema responded on Instagram 'Fake news.. my dear'.",
+      "source_url": "https://www.goal.com/en/news/benzema-hits-back-hard-fake-news-my-dear/bltb5558543d2f7c53b",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Rio Ferdinand urged Man United to sign Benzema on a free on 1 Oct 2026; no approach was reported.",
+      "source_url": "https://www.football365.com/news/ferdinand-man-utd-real-madrid-hero-free-transfer",
+      "confidence": "high"
+    },
+    {
+      "claim": "Binghatti announced on 7 Oct 2026 that Benzema bought several units in Mercedes-Benz Places | Binghatti City, including one in Vision Iconic Tower (French Football Weekly: 'reserved', priced around 20m euros).",
+      "source_url": "https://frenchfootballweekly.com/2026/10/09/karim-benzema-the-new-madness-at-20-million-euros/",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Binghatti announced the purchase at a launch event at Coca-Cola Arena on or around 7 Oct 2026.",
+      "source_url": "https://www.biztoday.news/2026/10/07/73004/",
+      "confidence": "high"
+    },
+    {
+      "claim": "Deschamps v Riolo defamation appeal over Benzema's 2022 exclusion is set for 13 Jan 2027.",
+      "source_url": "https://www.yardbarker.com/soccer/articles/benzemas_exclusion_case_is_not_yet_closed_deschamps_from_the_france_national_team_to_the_courts/s1_17790_44423366",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Mourinho's 'cat' remark about Benzema dates to 11 Nov 2010; Benzema said it angered him.",
+      "source_url": "https://www.yardbarker.com/soccer/articles/from_benzema_to_vinicius_mourinho_digs_up_the_famous_cat_story_16_years_on/s1_17790_44430859",
+      "confidence": "medium"
+    },
+    {
+      "claim": "En-Nesyri got 10 Roshn League goals in 20 Al-Ittihad matches since arriving; Benzema needed 23 matches since joining (10th goal in round 2 of 2024-25). Counts are since arrival, not single-season.",
+      "source_url": "https://www.yardbarker.com/soccer/articles/an_exceptional_start_the_tenth_goal_gives_en_nesyri_the_edge_over_benzema_in_the_saudi_league/s1_17790_44291387",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Benzema's Kopa Trophy ballot: Yamal, Cubarsi, Bouaddi; Yamal won for a third year.",
+      "source_url": "https://www.goal.com/en/news/benzema-s-choice-draws-attention-a-moroccan-talent-breaks-into-his-ballon-d-or-calculations/blt6f495a2217cea41f",
+      "confidence": "high"
+    },
+    {
+      "claim": "Goal's article calls him captain of Al-Ittihad, which is stale/inconsistent with his Al-Hilal exit; not used.",
+      "source_url": "https://www.goal.com/en/news/benzema-s-choice-draws-attention-a-moroccan-talent-breaks-into-his-ballon-d-or-calculations/blt6f495a2217cea41f",
+      "confidence": "low"
+    },
+    {
+      "claim": "On 5 Nov 2026 Benzema posted 'Number 1 forever' with a Vinicius photo after the AEK Athens match.",
+      "source_url": "https://www.beinsports.com/en-us/soccer/la-liga/articles/karim-benzema-defends-vin%C3%ADcius-junior-during-his-toughest-moment-following-real-madrid-s-match-against-aek-athens-2026-11-05",
+      "confidence": "high"
+    },
+    {
+      "claim": "Zidane calls Benzema the best French striker in history; reports of Mbappe tension are unconfirmed.",
+      "source_url": "https://www.yardbarker.com/soccer/articles/one_decision_ignited_two_crises_zidane_clashes_with_mbapp_in_the_search_for_benzema/s1_17790_44550987",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Kane praised Benzema in a Foot Mercato interview (yardbarker page last updated 19 Nov 2026; interview date not stated).",
+      "source_url": "https://www.yardbarker.com/soccer/articles/kane_benzema_was_amazing_at_real_madrid_and_being_alongside_messi_and_cristiano_is_a_huge_source_of_pride/s1_17790_44588186",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Rudiger cited Bale, Benzema and Ronaldo in an Athletic interview around 19 Nov 2026.",
+      "source_url": "https://www.yardbarker.com/soccer/articles/antonio_rudiger_completely_misremembered_how_hard_cristiano_ronaldo_bale_and_benzema_worked/s1_17873_44585233",
+      "confidence": "medium"
+    },
+    {
+      "claim": "In 2021-22 he won the Pichichi with 27 league goals in 32 games and had hat-tricks vs Celta, PSG and Chelsea.",
+      "source_url": "https://en.wikipedia.org/wiki/Karim_Benzema",
+      "confidence": "high"
+    },
+    {
+      "claim": "He scored 15 Champions League goals in 2021-22 and won the Champions League Player of the Season award.",
+      "source_url": "https://en.wikipedia.org/wiki/Karim_Benzema",
+      "confidence": "high"
+    },
+    {
+      "claim": "2022 Ballon d'Or: 549 points, 356 ahead of Mane (193); ceremony 17 Oct 2022.",
+      "source_url": "https://en.wikipedia.org/wiki/2022_Ballon_d%27Or",
+      "confidence": "high"
+    },
+    {
+      "claim": "At Real Madrid he won 25 trophies (4 La Liga, 3 Copa del Rey, 5 Champions League) and passed Raul in Aug 2022 for 324 goals.",
+      "source_url": "https://en.wikipedia.org/wiki/Karim_Benzema",
+      "confidence": "high"
+    },
+    {
+      "claim": "At Al-Ittihad in 2024-25 he scored 21 league goals in 28 games and won the league and King's Cup.",
+      "source_url": "https://en.wikipedia.org/wiki/Karim_Benzema",
+      "confidence": "high"
+    },
+    {
+      "claim": "He announced international retirement in Dec 2022 (97 caps, 37 goals).",
+      "source_url": "https://en.wikipedia.org/wiki/Karim_Benzema",
+      "confidence": "high"
+    },
+    {
+      "claim": "In March 2020 he compared Giroud to karting and himself to Formula 1; in March 2023 he reposted a Deschamps statement with a mocking caption.",
+      "source_url": "https://en.wikipedia.org/wiki/Karim_Benzema",
+      "confidence": "high"
+    },
+    {
+      "claim": "Valbuena blackmail case: found guilty 24 Nov 2021, one-year suspended sentence and EUR 75,000 fine (sensitive); re-sentenced in June 2022 after dropping the appeal.",
+      "source_url": "https://en.wikipedia.org/wiki/Karim_Benzema",
+      "confidence": "high"
+    },
+    {
+      "claim": "Benzema told L'Equipe (Fox News, 12 Dec 2025) 'When they call me, I come, I play' and said he would want to play at the 2026 World Cup.",
+      "source_url": "https://www.foxnews.com/sports/karim-benzema-ill-play-france-2026-world-cup-if-call-me",
+      "confidence": "high"
+    },
+    {
+      "claim": "Benzema reportedly refused to play for Al-Ittihad in late Jan 2026 in a contract dispute, rejecting an extension offer (Wikipedia).",
+      "source_url": "https://en.wikipedia.org/wiki/Karim_Benzema",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Image reference notes (hair, beard, kit colours, pose) are general knowledge and not verified against a current photo.",
+      "source_url": "https://en.wikipedia.org/wiki/Karim_Benzema",
+      "confidence": "low"
+    },
+    {
+      "claim": "Roundup: no source dated 20 Nov 2026 found; last items 19 Nov 2026.",
+      "source_url": "https://www.beinsports.com/en-us/soccer/ligue-1/articles/lyon-cools-hopes-of-seeing-karim-benzema-return-2026-10-21",
+      "confidence": "medium"
+    }
+  ],
+  "meta": {
+    "as_of": "2026-11-20",
+    "recent_news_count": 20,
+    "note": "Search budget exhausted mid-run; final sweep of local French/Spanish press and Instagram not done."
+  },
+  "verification": {
+    "checked": 77,
+    "corrected": 21,
+    "removed": 2,
+    "notes": "Checked 2026-11-20 by opening cited URLs (ESPN, Goal, Yahoo, SI, yardbarker, football365, beIN, africasoccer, FFW, biztoday, onefootball, Fox News, Wikipedia). Web search budget was exhausted, so no independent search sweep for items newer than 19 Nov or for the 'plays until 40' claim was possible. Confirmed: Al-Hilal mutual termination 31 Aug 2026 (one year left), Watkins 51m pounds signing a day earlier, 'A chapter of my career reaches its end' on X, Zidane 18 Sep omission ('I adore Karim'), Rolfes 'squad is complete', Louis-Jean 'more noise than reality', Ferdinand 1 Oct, Nike/'Fake news.. my dear', Deschamps-Riolo appeal 13 Jan 2027, Mourinho cat story 11 Nov 2010, Kopa ballot, 2022 Ballon d'Or 549 vs 193, Real Madrid 25 trophies/324 goals, 2021-22 numbers, Al-Ittihad 2024-25 21 goals in 28 games. Corrected: Al-Hilal numbers quote (Wikipedia: 10 goals in 12 apps as of 20 Aug), 330m riyals is forfeited remaining income not a penalty, no source says he rejected Al-Ittihad (only offered), En-Nesyri/Benzema 10-goal counts run since arrival not within one season, Dubai flat 'reserved'/list price, Djaziri meaning, Kane interview attribution, join month sourcing, unsupported May 2026 Mbappe remark. Removed: 'playing till 40' claim and roast item. Still unverified: current club status after 19 Nov (no sweep possible), AEK match exact date, Giroud/Henni clip, image notes. Roast_past/roast_now/praise lines edited to match corrected facts; they are not counted in 'checked'.",
+    "corrections": [
+      "recent_news 2026-09-11 (counts are since arrival, not within 2024-25)",
+      "recent_news 2026-10-07 (bought vs reserved, price is list price)",
+      "recent_news 2026-11-05 (match date approximate)",
+      "recent_news 2026-11-19 (interview attribution; date is page-update date)",
+      "now.last_season_numbers (Wikipedia figure was misquoted)",
+      "now.contract_and_limits (330m riyals is forfeited remaining value, not a penalty)",
+      "now.options_reported (no source says he rejected Al-Ittihad)",
+      "roast_past World Cup 'if called' dated/verified",
+      "roast_past 'fifth French' wording",
+      "roast_now 330m penalty wording",
+      "roast_now Al-Ittihad 'turned down' unsupported",
+      "roast_now En-Nesyri 'kid' / counts",
+      "viral_moments Number 1 forever (unsupported May 2026 Mbappe claim removed)",
+      "claim join-month sources",
+      "claim Al-Hilal appearances (Football365 reference unverified, Wikipedia added)",
+      "claim 330m riyals",
+      "claim Djaziri/Lyon meaning",
+      "claim En-Nesyri counts",
+      "claim Dubai units",
+      "claim Fox/L'Equipe (now opened and confirmed)",
+      "claim Al-Ittihad dispute (source swapped; yardbarker page did not support it)"
+    ],
+    "removals": [
+      "roast_past 'playing till 40' (not found in any fetched source)",
+      "claim 'playing until 40' (AS interview not found; yardbarker page does not contain it)"
+    ]
+  }
+}

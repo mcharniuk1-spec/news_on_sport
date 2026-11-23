@@ -1,0 +1,82 @@
+{
+ "no": 67,
+ "subject": "ESPN ranks Lamine Yamal the best player in the world, Raphinha fourth, Pedri ninth",
+ "title": "ESPN says Yamal is best. Kane is fifth.",
+ "voice": "kokoro",
+ "comic": true,
+ "style": "looney_slapstick",
+ "lines": [
+  {
+   "vo": "ESPN names the best player in the world: Lamine Yamal.",
+   "card": "Yamal is number one",
+   "sfx": "cartoon trumpet fanfare",
+   "footage": "Yamal dribbling clip, slow motion, crowd noise"
+  },
+  {
+   "vo": "Bellingham is second and Olise is third. Raphinha is fourth, despite heavy scoring as a centre-forward. Cheeky.",
+   "card": "Fourth, cheekily",
+   "footage": "Raphinha goal compilation, Barcelona shirt"
+  },
+  {
+   "vo": "Kane is the reigning Ballon d'Or winner. He is fifth, down from fourth, and ESPN notes a finishing slump. A striker with a finishing slump. Brutal.",
+   "card": "Olise third, Pedri ninth",
+   "footage": "Olise goal clip, Pedri passing montage, Kane shot"
+  },
+  {
+   "vo": "Mbappe is sixth and Pedri is ninth. Barcelona have three players in the top ten.",
+   "card": "Reigning, but slumping",
+   "footage": "Kane Ballon d'Or podium shots, then a missed shot clip"
+  },
+  {
+   "vo": "And no Dortmund player makes the list at all. Not one.",
+   "card": "No Dortmund, top ten",
+   "footage": "Bellingham goal clip, Mbappe celebration, Dortmund stadium exterior"
+  },
+  {
+   "vo": "ESPN says Yamal improved his shot quality this season. Kane could borrow his notebook.",
+   "card": "Shot quality",
+   "footage": "Yamal shot compilation, then Kane training clip"
+  },
+  {
+   "vo": "Want to call the next one? Betting tips, news and predictions at aboutfootball dot UK.",
+   "card": "aboutfootball.UK",
+   "footage": "Channel end card, neutral background"
+  }
+ ],
+ "chars": 618,
+ "est_seconds": 36,
+ "footage_terms": [
+  "Lamine Yamal best goals 2026",
+  "Raphinha goals Barcelona 2026 compilation",
+  "Harry Kane Ballon d'Or winner ranking",
+  "Pedri best passes 2026"
+ ],
+ "inserts": [
+  {
+   "after_line": 1,
+   "story": "Caricature Yamal sprints up a tall podium marked Number one. At the top, caricature Kane sits holding a golden ball. The podium folds like an accordion and both shoot into the air. Twist: Yamal lands on top, Kane lands on a tiny stool marked Fifth, still holding the ball.",
+   "characters": "caricature Yamal; caricature Kane on a stool; generic referee",
+   "seconds": 2
+  },
+  {
+   "after_line": 3,
+   "story": "A caricature Raphinha scores into a tiny net again and again while a fourth-place sign swings above him. An anvil drops, misses him and lands on the sign. Twist: he catches the falling medal in his mouth, and it is a chocolate coin.",
+   "characters": "caricature Raphinha; generic stadium crowd of round-headed fans",
+   "seconds": 2
+  },
+  {
+   "after_line": 4,
+   "story": "A caricature Kane lines up a shot. The ball hits the post, the bar, the other post, then rolls into a bin labelled Finishing slump. Twist: he fishes out a golden ball from the bin and waves it. Reigning winner, after all.",
+   "characters": "caricature Kane; generic goalkeeper; stylised post",
+   "seconds": 2
+  }
+ ],
+ "facts_used": [
+  "ESPN's November top-10 list puts Yamal first, Bellingham second, Olise third, Raphinha fourth, Kane fifth, Mbappe sixth, Pedri ninth (news id 44, espn.com/soccer/story/_/id/50454088)",
+  "The writer ranks Raphinha below Yamal partly because his other contributions have dipped despite heavy scoring as a centre-forward (news id 44)",
+  "Kane, the reigning Ballon d'Or winner, is fifth, down from fourth; ESPN notes a finishing slump (news id 44)",
+  "No Dortmund player makes the top ten; the writer says Yamal improved his shot quality this season (news id 44)"
+ ],
+ "comic_score": 8,
+ "notes": "Comic (looney_slapstick). Jokes rest on ESPN rankings, the finishing-slump note and Barcelona having Yamal, Raphinha and Pedri in the list (club facts to verify against the source). No age or injury material. Inserts show generic stylised figures and caricatures only."
+}

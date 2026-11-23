@@ -1,0 +1,580 @@
+[
+  {
+    "headline": "Mbappe double beats Barcelona in El Clasico as Mourinho celebrates on his knees",
+    "date": "2026-10-25",
+    "source_domain": "skysports.com",
+    "url": "https://www.skysports.com/football/barcelona-vs-real-madrid/report/563017",
+    "entities": ["FC Barcelona", "Real Madrid", "Kylian Mbappe", "Jose Mourinho", "Hansi Flick", "Raphinha", "Joao Cancelo"],
+    "facts": [
+      "Real Madrid won 2-1 at Spotify Camp Nou on 25 October 2026. Mbappe scored a deflected opener in the 41st minute and the winner in the 87th.",
+      "Raphinha equalised in the 61st minute. It was Barcelona's first La Liga defeat after nine straight wins, and Real's first win at Barcelona in three years.",
+      "Mourinho complained that VAR did not review Cancelo's challenge on Diomande, then celebrated by sliding on his knees. The celebration led to clashes between Real players and Barcelona fans."
+    ],
+    "background": "Barcelona won La Liga in 2025-26 under Hansi Flick, while Jose Mourinho is back in charge at Real Madrid, where he previously won the league in 2012.",
+    "angle": "scandal",
+    "sensitive": false,
+    "footage_terms": ["Barcelona vs Real Madrid El Clasico October 2026 highlights", "Mourinho knee slide Camp Nou celebration", "Mbappe winner Camp Nou Clasico 2026"],
+    "confidence": "high"
+  },
+  {
+    "headline": "PSG beat Barcelona 4-2 in a Champions League thriller, ending a 12-match unbeaten run",
+    "date": "2026-10-20",
+    "source_domain": "skysports.com",
+    "url": "https://www.skysports.com/football/psg-vs-barcelona/report/577638",
+    "entities": ["Paris Saint-Germain", "FC Barcelona", "Lamine Yamal", "Xavi Espart", "Anthony Gordon", "Ousmane Dembele"],
+    "facts": [
+      "PSG won 4-2 at the Parc des Princes on 20 October 2026, Barcelona's first defeat of the season after 12 unbeaten games.",
+      "Doue scored after a Lamine Yamal mistake in the 38th minute. Teenager Xavi Espart equalised in the 55th and Yamal made it 2-2 in the 79th, before Vitinha and Fabian Ruiz scored late for PSG.",
+      "Injuries hit both sides: Dembele went off with a suspected hamstring problem, Dani Olmo came off for Barcelona, and Kvaratskhelia was helped off for PSG. Gordon said Barcelona were outlasted athletically."
+    ],
+    "background": "PSG are the defending Champions League holders, and this was Barcelona's third league-phase match after wins over Feyenoord and Galatasaray.",
+    "angle": "record",
+    "sensitive": false,
+    "footage_terms": ["PSG vs Barcelona 4-2 Champions League highlights", "Xavi Espart goal PSG Barcelona", "Lamine Yamal goal Parc des Princes October 2026"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Fermin double gives Barcelona another comeback win at Atletico Madrid",
+    "date": "2026-11-08",
+    "source_domain": "fcbarcelona.com",
+    "url": "https://www.fcbarcelona.com/en/football/first-team/news/4606439/atletico-madrid-1-2-fc-barcelona-comeback-to-stay-top",
+    "entities": ["FC Barcelona", "Atletico Madrid", "Fermin Lopez", "Giuliano Simeone", "Lamine Yamal", "Hansi Flick"],
+    "facts": [
+      "Barcelona won 2-1 at the Metropolitano on 8 November 2026 after Giuliano Simeone scored for Atletico in the 10th minute.",
+      "Fermin Lopez equalised in first-half stoppage time and scored the winner in the second half from a Lamine Yamal pass, in his 100th league game for Barcelona.",
+      "It was Hansi Flick's 23rd comeback win as Barcelona coach and kept Barcelona top of La Liga, five points clear of Atletico. Marc Bernal started in place of the injured Rodri."
+    ],
+    "background": "Flick has coached Barcelona since 2024, and the club also came back from 2-0 down at the Metropolitano in 2024-25 to win 4-2.",
+    "angle": "win",
+    "sensitive": false,
+    "footage_terms": ["Atletico Madrid 1-2 Barcelona highlights November 2026", "Fermin Lopez goal Metropolitano", "Hansi Flick press conference after Atletico win"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Yamal and a Raphinha double sink Aston Villa 3-0 at Camp Nou",
+    "date": "2026-11-03",
+    "source_domain": "skysports.com",
+    "url": "https://www.skysports.com/football/barcelona-vs-aston-villa/report/577652",
+    "entities": ["FC Barcelona", "Aston Villa", "Lamine Yamal", "Raphinha", "Unai Emery", "Joao Cancelo"],
+    "facts": [
+      "Barcelona won 3-0 at Spotify Camp Nou on 3 November 2026 in the Champions League.",
+      "Yamal scored in the 7th minute after a blind pass from Joao Gomes; Raphinha added a deflected goal in the 52nd and a tap-in from a Cancelo cross in the 64th.",
+      "It was Villa's joint-heaviest defeat in major European competition. Unai Emery said his side lacked a clinical edge in front of goal. Wikipedia also credits the Yamal goal with making him the top-scoring teenager in Champions League history (14 goals)."
+    ],
+    "background": "Unai Emery's Aston Villa came in on a three-game winning run in this season's league phase, while Barcelona had lost at PSG two weeks earlier.",
+    "angle": "win",
+    "sensitive": false,
+    "footage_terms": ["Barcelona 3-0 Aston Villa highlights", "Yamal goal Aston Villa Champions League", "Unai Emery press conference Barcelona"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Barcelona hit Alaves for six at Camp Nou",
+    "date": "2026-10-31",
+    "source_domain": "en.wikipedia.org",
+    "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_FC_Barcelona_season",
+    "entities": ["FC Barcelona", "Deportivo Alaves", "Raphinha", "Lamine Yamal", "Fermin Lopez", "Anthony Gordon"],
+    "facts": [
+      "Barcelona beat Alaves 6-1 at Spotify Camp Nou on 31 October 2026, six days after the Clasico defeat.",
+      "Per the season page, Raphinha scored twice, Yamal scored twice, and Fermin Lopez and Anthony Gordon each added one. Alaves scored once, in the 84th minute.",
+      "The win put Barcelona back on track after the Clasico loss. Raphinha topped the league scoring list with 15 league goals by 8 November."
+    ],
+    "background": "Barcelona had lost only once in La Liga this season before this match, and the Clasico loss was their first league defeat after nine straight wins.",
+    "angle": "win",
+    "sensitive": false,
+    "footage_terms": ["Barcelona 6-1 Alaves highlights", "Raphinha double Alaves Camp Nou", "Yamal goals Barcelona Alaves"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Barcelona rout Betis 5-2 to equal Real Madrid's record La Liga start",
+    "date": "2026-10-17",
+    "source_domain": "skysports.com",
+    "url": "https://www.skysports.com/football/news/13598099/lamine-yamal-and-kylian-mbappe-on-form-ahead-of-el-clasico-bayern-munich-top-and-lazio-march-on-in-euro-debrief",
+    "entities": ["FC Barcelona", "Real Betis", "Lamine Yamal", "Rodri", "Hansi Flick", "Real Madrid"],
+    "facts": [
+      "Barcelona won 5-2 at Betis on 17 October 2026, their ninth straight league win, matching Real Madrid's 1968-69 record for the best start to a La Liga season.",
+      "Yamal opened with a backheel turn and curled finish that won La Liga Goal of the Month for October. Rodri scored his first Barcelona goal, a header from a Fermin corner.",
+      "Sky reports Barcelona scored 39 goals in nine games, the best start by any team in 86 years. Flick called Yamal the best player in the world."
+    ],
+    "background": "Rodri, a former Ballon d'Or winner, joined from Manchester City in August 2026 on a four-year deal reported at up to 76.5 million euros.",
+    "angle": "record",
+    "sensitive": false,
+    "footage_terms": ["Real Betis 2-5 Barcelona highlights", "Lamine Yamal backheel goal Betis", "Rodri first goal Barcelona header"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Barcelona come from behind to win 4-1 at Galatasaray",
+    "date": "2026-10-13",
+    "source_domain": "football-espana.net",
+    "url": "https://www.football-espana.net/2026/10/14/barcelona-comeback-galatasaray",
+    "entities": ["FC Barcelona", "Galatasaray", "Lamine Yamal", "Fermin Lopez", "Anthony Gordon", "Karim Adeyemi", "Joao Cancelo"],
+    "facts": [
+      "Barcelona won 4-1 in Istanbul on 13 October 2026 after Galatasaray scored first through a deflection off Joao Cancelo.",
+      "Cancelo equalised in the 43rd minute. After the break Fermin Lopez headed in a Yamal cross, Gordon scored after Yamal created the chance, and substitute Karim Adeyemi added the fourth on the counter.",
+      "A Victor Osimhen header for Galatasaray was ruled out for offside after a VAR check."
+    ],
+    "background": "The win gave Barcelona six points from their first two Champions League matches, as Gordon and Adeyemi were both summer signings.",
+    "angle": "win",
+    "sensitive": false,
+    "footage_terms": ["Galatasaray 1-4 Barcelona highlights", "Karim Adeyemi goal Galatasaray Barcelona", "Cancelo own goal equaliser Galatasaray"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Anthony Gordon scores his first Barcelona goal after about two minutes against Getafe",
+    "date": "2026-10-10",
+    "source_domain": "skysports.com",
+    "url": "https://www.skysports.com/football/news/13593881/anthony-gordons-first-barcelona-goal-manuel-neuers-mistake-and-djed-spences-inter-debut-in-the-euro-debrief",
+    "entities": ["Anthony Gordon", "FC Barcelona", "Getafe", "Gabriel Jesus", "Hansi Flick", "Karim Adeyemi"],
+    "facts": [
+      "Gordon scored his first Barcelona goal about two minutes into a 3-0 La Liga win over Getafe on 10 October 2026.",
+      "Gabriel Jesus and Jules Kounde also scored, according to the season match list. The win was Barcelona's eighth in a row.",
+      "Flick praised his speed, ball control and dribbling, and said Gordon gives the team a lot. Gordon plays on the left alongside Adeyemi, which lets Raphinha play as centre-forward."
+    ],
+    "background": "Gordon joined from Newcastle in the summer on a deal reported at about 80 million euros, and his Barcelona debut in August brought two assists in a 5-0 win at Elche.",
+    "angle": "transfer",
+    "sensitive": false,
+    "footage_terms": ["Anthony Gordon first Barcelona goal Getafe", "Barcelona 3-0 Getafe highlights", "Hansi Flick on Anthony Gordon press conference"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Gordon admits he dreams of the Ballon d'Or while sitting at four assists in ten league games",
+    "date": "2026-10-25",
+    "source_domain": "skysports.com",
+    "url": "https://www.skysports.com/football/news/13602442/barcelona-vs-real-madrid-anthony-gordon-is-fuelled-by-barcas-belief-and-ballon-dor-dreams-ahead-of-el-clasico",
+    "entities": ["Anthony Gordon", "FC Barcelona", "Hansi Flick", "Harry Kane", "Lamine Yamal"],
+    "facts": [
+      "Before the Clasico, Gordon had two goals and four assists in 10 La Liga games for Barcelona, both goals coming after the previous international break.",
+      "He said he has dreamed of the Ballon d'Or since childhood and wants to be in the conversation, while focusing on being the best player he can be.",
+      "The piece says his crossing numbers fell because Barcelona keep the ball more than Newcastle did, while his shots, take-ons and chances created went up."
+    ],
+    "background": "Gordon's England captain Harry Kane and his Barcelona team-mate Lamine Yamal were both in the 2026 Ballon d'Or race, with the ceremony the next day.",
+    "angle": "viral",
+    "sensitive": false,
+    "footage_terms": ["Anthony Gordon Ballon d'Or interview", "Anthony Gordon Barcelona assists compilation", "Gordon Barcelona training interview"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Yamal finishes third in the Ballon d'Or as Harry Kane wins, but takes the Kopa Trophy again",
+    "date": "2026-10-26",
+    "source_domain": "en.wikipedia.org",
+    "url": "https://en.wikipedia.org/wiki/2026_Ballon_d%27Or",
+    "entities": ["Lamine Yamal", "Harry Kane", "Kylian Mbappe", "Pau Cubarsi", "Alexia Putellas", "FC Barcelona"],
+    "facts": [
+      "At the 26 October 2026 ceremony in London, Harry Kane won the men's Ballon d'Or with 1,055 points, ahead of Mbappe (1,027) and Yamal (881).",
+      "Yamal won the Kopa Trophy for the best young player, with Pau Cubarsi second. Cubarsi also placed 12th in the main Ballon d'Or ranking.",
+      "Barcelona's Alexia Putellas won the women's Ballon d'Or. Sky had called Kane the odds-on favourite, with Yamal the closest challenger until a late betting surge for Mbappe."
+    ],
+    "background": "Yamal won the Kopa Trophy in 2024 and 2025 as well, and would have been the youngest-ever Ballon d'Or winner at 19.",
+    "angle": "record",
+    "sensitive": false,
+    "footage_terms": ["Ballon d'Or 2026 ceremony highlights", "Lamine Yamal Kopa Trophy 2026", "Harry Kane Ballon d'Or speech"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Yamal, Cubarsi and Rodri named in the 2026 FIFPRO World XI",
+    "date": "2026-11-09",
+    "source_domain": "fcbarcelona.com",
+    "url": "https://www.fcbarcelona.com/en/football/first-team/news/4606953/lamine-yamal-cubarsi-and-rodri-named-in-the-2026-fifpro-world-xi",
+    "entities": ["Lamine Yamal", "Pau Cubarsi", "Rodri", "Pedri", "FIFPRO"],
+    "facts": [
+      "Three Barcelona players made the 2026 FIFPRO World XI: Lamine Yamal, Pau Cubarsi and Rodri.",
+      "Pedri was nominated but did not make the final team.",
+      "The XI was chosen by a vote of 19,806 professional footballers worldwide."
+    ],
+    "background": "Rodri arrived at Barcelona in August 2026 from Manchester City, and Cubarsi came through La Masia.",
+    "angle": "win",
+    "sensitive": false,
+    "footage_terms": ["FIFPRO World XI 2026", "Pau Cubarsi best defending compilation", "Rodri Spain World Cup 2026 passing masterclass"],
+    "confidence": "high"
+  },
+  {
+    "headline": "ESPN ranks Lamine Yamal the best player in the world, Raphinha fourth, Pedri ninth",
+    "date": "2026-11-13",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50454088/10-best-ranking-top-soccer-players-november",
+    "entities": ["Lamine Yamal", "Raphinha", "Pedri", "Jude Bellingham", "Michael Olise", "Harry Kane"],
+    "facts": [
+      "ESPN's November top-10 list puts Yamal first, followed by Bellingham, Olise, Raphinha, Kane, Mbappe, Declan Rice, Haaland, Pedri and Vitinha.",
+      "The writer says Yamal improved his shot quality this season, and ranks Raphinha below him partly because Raphinha's other contributions have dipped despite heavy scoring as a centre-forward.",
+      "Injured players are dropped from the list; neither Cubarsi nor Gordon is ranked."
+    ],
+    "background": "Yamal finished only third in the Ballon d'Or two weeks earlier, so this ranking will please his fans.",
+    "angle": "viral",
+    "sensitive": false,
+    "footage_terms": ["Lamine Yamal best goals 2026", "Raphinha goals Barcelona 2026 compilation", "Pedri best passes 2026"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Raphinha's Barcelona contract runs to June 2030",
+    "date": "2026-10-06",
+    "source_domain": "football-espana.net",
+    "url": "https://www.football-espana.net/2026/10/06/raphinha-barcelona-contract",
+    "entities": ["Raphinha", "FC Barcelona", "Fabrizio Romano", "Hansi Flick"],
+    "facts": [
+      "Football Espana reported on 6 October 2026, citing Fabrizio Romano, that Raphinha agreed a new Barcelona contract through June 2030.",
+      "No salary or release-clause figures were reported, and the formal club announcement was still pending at that point.",
+      "Wikipedia dates the official extension to 5 November 2026. In September, a separate piece described the revival of his Barcelona career as starting with one phone call from Hansi Flick."
+    ],
+    "background": "Raphinha joined Barcelona from Leeds United in 2022 and has become a regular goalscorer under Hansi Flick.",
+    "angle": "business",
+    "sensitive": false,
+    "footage_terms": ["Raphinha contract extension Barcelona signing", "Raphinha goals compilation 2026", "Raphinha interview Barcelona future"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Raphinha says Brazil comments were misread and he had ear surgery brought forward",
+    "date": "2026-11-13",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50470476/raphinha-brazil-international-friendly",
+    "entities": ["Raphinha", "Brazil", "Carlo Ancelotti", "FC Barcelona"],
+    "facts": [
+      "Raphinha said he will give his best for Brazil if his body allows it, and that his earlier comments about managing his minutes were misread.",
+      "He said he had surgery to remove a cyst from his left ear and moved it earlier so he could be available for Brazil's two November friendlies; he had it after the 25 October Clasico loss.",
+      "He has scored 19 goals in 14 appearances for Barcelona this season, and was set to captain Brazil against Japan in Singapore."
+    ],
+    "background": "Raphinha returned from the previous three international windows with hamstring injuries, which is why Barcelona watch his Brazil minutes closely.",
+    "angle": "viral",
+    "sensitive": true,
+    "footage_terms": ["Raphinha Brazil press conference November 2026", "Raphinha Brazil captain Japan", "Ancelotti on Raphinha Brazil"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Raphinha is sent off late as Brazil lose 3-2 to Japan",
+    "date": "2026-11-14",
+    "source_domain": "fcbarcelona.com",
+    "url": "https://www.fcbarcelona.com/en/football/first-team/news/4607914/fc-barcelona-international-diary",
+    "entities": ["Raphinha", "Brazil", "Japan", "Carlo Ancelotti"],
+    "facts": [
+      "Barcelona's international diary says Brazil, with Raphinha as captain, lost 3-2 to Japan, and Raphinha played 71 minutes before being sent off late.",
+      "He was suspended for Brazil's 7-0 win over Singapore on 17 November.",
+      "The sending-off came just after he had said his body would allow him to give his best for Brazil."
+    ],
+    "background": "Brazil are coached by Carlo Ancelotti, and the friendlies were played in Singapore as part of the November international window.",
+    "angle": "scandal",
+    "sensitive": false,
+    "footage_terms": ["Brazil vs Japan 3-2 highlights", "Raphinha red card Brazil Japan", "Japan beat Brazil November 2026"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Spain lose 3-2 to England at the Metropolitano with five Barcelona players on view",
+    "date": "2026-11-15",
+    "source_domain": "fcbarcelona.com",
+    "url": "https://www.fcbarcelona.com/en/football/first-team/news/4607914/fc-barcelona-international-diary",
+    "entities": ["Spain", "England", "Lamine Yamal", "Anthony Gordon", "Pedri", "Joan Garcia"],
+    "facts": [
+      "The Nations League game on 15 November 2026 at Atletico's Metropolitano put Gordon (England) against Joan Garcia, Cubarsi, Pedri, Fermin Lopez and Yamal (Spain).",
+      "Barcelona's diary says England won 3-2, ending Spain's winning streak, with Gordon playing 83 minutes.",
+      "The diary says Yamal drew a penalty that led to an opponent's red card and set up a late Spain goal, even though he had missed the Czechia game with knee discomfort."
+    ],
+    "background": "Spain won the 2026 World Cup final 1-0 against Argentina, and per Wikipedia Spain had beaten England 3-2 at Wembley in the same Nations League group on 26 September, so this was a rematch.",
+    "angle": "history",
+    "sensitive": false,
+    "footage_terms": ["Spain vs England Nations League November 2026 highlights", "Lamine Yamal penalty England Spain", "Anthony Gordon England Spain Metropolitano"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "De la Fuente angrily denies Yamal got special privileges over his knee",
+    "date": "2026-11-11",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50455459/spain-lamine-yamal-injury-luis-de-la-fuente-nations-league",
+    "entities": ["Luis de la Fuente", "Lamine Yamal", "Spain", "FC Barcelona"],
+    "facts": [
+      "Spain coach Luis de la Fuente said Yamal had no special privileges and that the decision to let him join camp late was medical.",
+      "Yamal reported knee discomfort after Barcelona's 2-1 win at Atletico and missed the Nations League game against Czechia on Thursday to receive treatment with his club.",
+      "De la Fuente called media claims of favouritism hurtful and said Yamal's recovery was going well. Spain had 12 points from four games and had already reached the quarter-finals."
+    ],
+    "background": "Yamal has been managed carefully by both club and country after a hamstring injury in the 2025-26 season.",
+    "angle": "scandal",
+    "sensitive": true,
+    "footage_terms": ["De la Fuente press conference Yamal knee", "Lamine Yamal Spain training November 2026", "Spain Czechia Nations League highlights"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Deco says Barcelona would welcome Liverpool paying 55 million euros for Araujo",
+    "date": "2026-11-19",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50530266/barcelona-deco-ronald-araujo-liverpool-transfer",
+    "entities": ["Ronald Araujo", "Deco", "Liverpool", "FC Barcelona"],
+    "facts": [
+      "Speaking to Catalunya Radio, Deco said Barcelona would be happy if Liverpool exercised the 55 million euro option to make Araujo's loan permanent.",
+      "Araujo, 27, has two goals in 15 appearances for Liverpool and had struggled for playing time at Barcelona.",
+      "Deco said the club could still negotiate timing and fee after the option deadline, and that Liverpool would also have to agree terms with the player."
+    ],
+    "background": "Araujo is a Uruguayan centre-back who was a Barcelona captain and went to Liverpool on loan in summer 2026, while Barcelona did not buy a centre-back to replace him.",
+    "angle": "transfer",
+    "sensitive": false,
+    "footage_terms": ["Ronald Araujo Liverpool goal", "Araujo Liverpool debut highlights", "Deco press conference Araujo"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Deco denies Barcelona want to push Balde out as Manchester United watch",
+    "date": "2026-11-19",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50530266/barcelona-deco-ronald-araujo-liverpool-transfer",
+    "entities": ["Alejandro Balde", "Deco", "FC Barcelona", "Manchester United"],
+    "facts": [
+      "Deco denied that Barcelona are pushing left-back Alejandro Balde out and said there is no plan to sell him.",
+      "Balde has made five appearances this season for a total of 124 minutes.",
+      "Sky's Paper Talk reported on 27 September, citing Mundo Deportivo, that Manchester United were monitoring Balde, 22, for a possible January move."
+    ],
+    "background": "Balde is a La Masia graduate who has been a regular in Barcelona's first team in recent seasons.",
+    "angle": "transfer",
+    "sensitive": false,
+    "footage_terms": ["Alejandro Balde Barcelona highlights", "Balde speed compilation", "Manchester United Balde transfer"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Barcelona reportedly enquire about Bayern's Jonathan Tah to partner Cubarsi",
+    "date": "2026-11-10",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50440438/transfer-rumors-news-gossip-arsenal-atletico-madrid",
+    "entities": ["Jonathan Tah", "FC Barcelona", "Bayern Munich", "Pau Cubarsi", "Deco", "Levi Colwill"],
+    "facts": [
+      "ESPN's rumour round-up, citing Sky Sports Deutschland, says Barcelona have made an enquiry about Bayern Munich centre-back Jonathan Tah, 30.",
+      "Deco reportedly wants an experienced defender to play next to Pau Cubarsi, with a move targeted around January. Bayern have little interest in selling and Tah is under contract until 2029.",
+      "Chelsea's Levi Colwill, also linked with Barcelona, is reportedly in line for a new long-term deal, per Football Insider."
+    ],
+    "background": "Barcelona signed no centre-back in the summer, and former defender Abelardo said after the Galatasaray game that Flick's side needs a top-level centre-back to win the competition.",
+    "angle": "transfer",
+    "sensitive": false,
+    "footage_terms": ["Jonathan Tah Bayern best defending", "Jonathan Tah Germany highlights", "Pau Cubarsi defending compilation"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Teenager Xavi Espart signs a new Barcelona contract to 2030",
+    "date": "2026-11-20",
+    "source_domain": "fcbarcelona.com",
+    "url": "https://www.fcbarcelona.com/en/football/first-team/news/4611885/xavi-espart-signs-contract-to-2030",
+    "entities": ["Xavi Espart", "FC Barcelona", "Joan Laporta"],
+    "facts": [
+      "La Masia graduate Xavi Espart signed a contract extension through 2030 at the Camp Nou offices with president Joan Laporta.",
+      "He scored in Paris against PSG in October, his second first-team goal after one at Levante, and wears the number 12 shirt.",
+      "He made his debut near the end of a Champions League last-16 game at St James' Park in March, and an injury from the Clasico has slowed his progress."
+    ],
+    "background": "Espart joined La Masia in the summer of 2015 and developed as a midfielder in the youth ranks before becoming a fullback.",
+    "angle": "business",
+    "sensitive": false,
+    "footage_terms": ["Xavi Espart goal PSG Barcelona", "Xavi Espart La Masia", "Xavi Espart contract signing Laporta"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Cubarsi and De Jong pick up muscle problems before the Villarreal game",
+    "date": "2026-11-16",
+    "source_domain": "fcbarcelona.com",
+    "url": "https://www.fcbarcelona.com/en/football/first-team/news/4609902/cubarsi-and-de-jong-injury-news",
+    "entities": ["Pau Cubarsi", "Frenkie de Jong", "FC Barcelona", "Villarreal"],
+    "facts": [
+      "Barcelona said on 16 November 2026 that Cubarsi has tightness in his hip flexor, with no fixed timeline given.",
+      "Frenkie de Jong has a strain to his obturator muscle in the inner thigh, and the club expected him to be available for Villarreal.",
+      "By 19 November the club said every available first-team player had trained, and Cubarsi, Kounde and Olmo were back in training with the group."
+    ],
+    "background": "De Jong missed the start of the season with a knee injury from the 2026 World Cup and was withdrawn from the Netherlands squad before the Germany match with this thigh problem.",
+    "angle": "coach",
+    "sensitive": true,
+    "footage_terms": ["Barcelona training Ciutat Esportiva November 2026", "Frenkie de Jong Barcelona return", "Flick press conference Villarreal"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Barcelona host Villarreal, a team that has beaten them often lately",
+    "date": "2026-11-19",
+    "source_domain": "fcbarcelona.com",
+    "url": "https://www.fcbarcelona.com/en/football/first-team/news/4610816/villarreal-a-traditionally-difficult-opponent",
+    "entities": ["FC Barcelona", "Villarreal", "Inigo Perez"],
+    "facts": [
+      "Barcelona face Villarreal at Spotify Camp Nou on Sunday 22 November, and have lost two of their last five against them, twice as many defeats as in the previous 29 meetings.",
+      "Those 29 earlier games brought 22 Barcelona wins, six draws and one loss; at home, Barcelona have lost three of the last five against Villarreal.",
+      "Villarreal are eighth in La Liga and 28th in the Champions League league phase, with new coach Inigo Perez, and have won only twice in eight away league games."
+    ],
+    "background": "Since 2021-22, only Real Madrid have matched Villarreal's count of La Liga wins away at Barcelona.",
+    "angle": "history",
+    "sensitive": false,
+    "footage_terms": ["Barcelona vs Villarreal highlights", "Villarreal beat Barcelona Camp Nou", "Hansi Flick press conference Villarreal"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Nine games in a month for Barcelona, including Manchester City's first Camp Nou visit since 2016",
+    "date": "2026-11-18",
+    "source_domain": "fcbarcelona.com",
+    "url": "https://www.fcbarcelona.com/en/football/first-team/news/4609868/nine-games-in-a-month-to-round-off-2026",
+    "entities": ["FC Barcelona", "Manchester City", "Sabah FC", "Atletico Madrid", "Celta Vigo"],
+    "facts": [
+      "Barcelona play about nine matches before the end of 2026, starting with Villarreal on 22 November and Sabah FC away in Baku on 25 November.",
+      "Other fixtures include Deportivo away on 29 November, a rescheduled home game with Atletico on 2 December, Celta Vigo on 5 December and Manchester City at home on 8 December.",
+      "The Manchester City game is their first meeting at the Camp Nou since October 2016, and a Copa del Rey round-of-32 tie is expected in the week of 16 December."
+    ],
+    "background": "Barcelona were playing at the Olympic stadium in Montjuic while the Camp Nou was rebuilt and have played at the renovated Spotify Camp Nou since returning.",
+    "angle": "history",
+    "sensitive": false,
+    "footage_terms": ["Barcelona vs Manchester City Camp Nou 2016 highlights", "Spotify Camp Nou renovated stadium", "Barcelona fixtures December 2026"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Fans can pay to place their ashes at Camp Nou from 2027",
+    "date": "2026-11-12",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50460503/barcelona-camp-nou-ashes-fans",
+    "entities": ["FC Barcelona", "Camp Nou", "Quique Montoya"],
+    "facts": [
+      "From 2027, Barcelona will let fans, including non-members, place ashes at Camp Nou or add a commemorative plaque.",
+      "A 1,500 square metre memorial space with 26,000 niches is part of the stadium upgrade; a 10-year niche costs 2,490 euros and a 50-year niche 5,990 euros, plus a 70 euro annual fee.",
+      "Plaques cost 490 euros for 10 years or 1,040 euros for a premium 50-year plaque. The design is by architect Quique Montoya, with completion due in mid-2028."
+    ],
+    "background": "The Camp Nou is being rebuilt in phases under the Espai Barca project, and the club already sells hospitality and tour packages around the stadium.",
+    "angle": "business",
+    "sensitive": true,
+    "footage_terms": ["Spotify Camp Nou stadium tour", "Camp Nou renovation 2026", "Espai Barca stadium construction"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Messi's Cornella project is no Wrexham yet, and he is buying a second club",
+    "date": "2026-11-10",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50441349/why-messi-takeover-non-league-cornella-wrexham-repeat",
+    "entities": ["Lionel Messi", "UE Cornella", "Eldense", "Ignasi Senabre", "Inter Miami"],
+    "facts": [
+      "Messi, still a player at Inter Miami, took over fifth-tier UE Cornella in April 2026; its coach first heard of the takeover through the press.",
+      "The club has new sponsors such as Adidas and MyInvestor, plus a new reserve team and a women's team, but the first team won only two of its first 10 league games.",
+      "Messi has also announced a purchase of second-division Eldense, which needs approval from Spain's sports council (CSD); two clubs under one owner could not play in the same competition under RFEF rules."
+    ],
+    "background": "Cornella's academy produced goalkeeper David Raya and Jordi Alba, and the club was in the third tier as recently as 2024.",
+    "angle": "business",
+    "sensitive": false,
+    "footage_terms": ["Messi Cornella takeover", "UE Cornella match highlights", "Messi Eldense purchase"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Ronaldinho, 46, comes out of retirement for Serie C Ravenna and lasts 45 minutes",
+    "date": "2026-11-15",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50489043/ronaldinho-ravenna-brazil-barcelona-serie-c",
+    "entities": ["Ronaldinho", "Ravenna", "Forli", "Giulio Donati"],
+    "facts": [
+      "Ronaldinho, 46, returned from retirement to play for Serie C club Ravenna, aiming to reach 300 career goals after retiring on 299.",
+      "He played 45 minutes against Forli and did not score, though a corner of his found Giulio Donati whose header was saved.",
+      "He also had a part in Ravenna's opening goal, a shot by Donati; the final score was not in the report."
+    ],
+    "background": "Ronaldinho won the 2005 Ballon d'Or and the 2006 Champions League with Barcelona and the 2002 World Cup with Brazil.",
+    "angle": "viral",
+    "sensitive": false,
+    "footage_terms": ["Ronaldinho Ravenna debut highlights", "Ronaldinho comeback Serie C", "Ronaldinho Barcelona best skills"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Barcelona tribute to Messi after his last Argentina game",
+    "date": "2026-10-07",
+    "source_domain": "football-espana.net",
+    "url": "https://www.football-espana.net/2026/10/07/lionel-messi-barcelona-tribute",
+    "entities": ["Lionel Messi", "Argentina", "FC Barcelona", "Benin"],
+    "facts": [
+      "Barcelona posted a tribute to Messi on 7 October 2026 after what the report calls his final match for Argentina, a 3-0 win over Benin.",
+      "Football Espana says Messi scored and assisted twice in that match.",
+      "The club's post traced his Argentina career back to the Beijing 2008 Olympic gold medal and used a photo of a young Messi with that medal."
+    ],
+    "background": "Messi left Barcelona in 2021 and Argentina lost the 2026 World Cup final 1-0 to Spain on 19 July, per Wikipedia.",
+    "angle": "history",
+    "sensitive": false,
+    "footage_terms": ["Messi last Argentina match Benin", "Messi Beijing 2008 Olympic gold", "Messi farewell Argentina national team"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "UEFA examines Real Madrid's Negreira documents on Barcelona",
+    "date": "2026-10-02",
+    "source_domain": "football-espana.net",
+    "url": "https://www.football-espana.net/2026/10/02/uefa-investigation-barcelona-negreira",
+    "entities": ["UEFA", "FC Barcelona", "Real Madrid", "Jose Maria Enriquez Negreira"],
+    "facts": [
+      "Football Espana reported that UEFA announced on 1 October 2026 it is investigating Barcelona, with its ethics and disciplinary inspectors assessing documents Real Madrid sent about the Negreira case.",
+      "The report stresses that the announcement does not establish wrongdoing or any sanction, and no outcome or timetable was given.",
+      "Negreira is a former vice-president of the Spanish referees' technical committee; a separate RFEF disciplinary matter involving Barcelona also exists."
+    ],
+    "background": "Spanish courts have examined up to 7 million euros in payments from Barcelona to Negreira-linked companies over about two decades; Barcelona says they were for referee reports and denies wrongdoing.",
+    "angle": "scandal",
+    "sensitive": true,
+    "footage_terms": ["Barcelona Negreira case explained", "UEFA investigation Barcelona", "Laporta Negreira press conference"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Barcelona and Florentino Perez due in a Madrid court on 25 November over his Negreira comments",
+    "date": "2026-09-29",
+    "source_domain": "football-espana.net",
+    "url": "https://www.football-espana.net/2026/09/29/florentino-perez-barcelona-court",
+    "entities": ["Florentino Perez", "FC Barcelona", "Real Madrid"],
+    "facts": [
+      "Barcelona took legal action on 12 June over comments Perez made on 12 May, which the club says were knowingly false and defamatory.",
+      "Perez had called the Negreira case the most serious case of corruption in football and said his club's trophy count would be higher without rivals' gains.",
+      "AFP sources said both sides are due before a Madrid court for a conciliation hearing on 25 November; if conciliation fails, the club plans a criminal complaint."
+    ],
+    "background": "A court cleared Barcelona of bribery charges in 2024, and Barcelona says the payments to Negreira were for referee reports.",
+    "angle": "scandal",
+    "sensitive": true,
+    "footage_terms": ["Florentino Perez Negreira press conference", "Laporta responds Florentino Perez", "Barcelona Real Madrid legal dispute"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Seventeen straight Champions League games without a clean sheet for Barcelona",
+    "date": "2026-10-15",
+    "source_domain": "football-espana.net",
+    "url": "https://www.football-espana.net/2026/10/15/barcelona-centre-back-concerns",
+    "entities": ["FC Barcelona", "Hansi Flick", "Abelardo", "Khvicha Kvaratskhelia", "Harry Kane"],
+    "facts": [
+      "Football Espana reported that Barcelona had gone 17 consecutive Champions League matches without a clean sheet.",
+      "Former Barcelona defender Abelardo said the team needs a top-level centre-back to win the competition, naming strikers like Kvaratskhelia and Harry Kane as the tests.",
+      "The piece notes Barcelona did not sign a centre-back in the summer window; they had won both league-phase games so far but conceded in each."
+    ],
+    "background": "Barcelona had sold or loaned out Ronald Araujo to Liverpool in the summer, leaving Pau Cubarsi as the main young centre-back.",
+    "angle": "coach",
+    "sensitive": false,
+    "footage_terms": ["Barcelona defensive mistakes Champions League 2026", "Hansi Flick high defensive line explained", "Barcelona conceded goals compilation"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Joan Laporta says he made peace with Atletico over the Julian Alvarez affair",
+    "date": "2026-09-30",
+    "source_domain": "football-espana.net",
+    "url": "https://www.football-espana.net/2026/09/30/alvarez-dispute-laporta-atletico",
+    "entities": ["Joan Laporta", "Miguel Angel Gil Marin", "Julian Alvarez", "Atletico Madrid", "FC Barcelona"],
+    "facts": [
+      "On 30 September 2026 Laporta said he had repaired his relationship with Atletico CEO Miguel Angel Gil Marin after the summer row over Barcelona pursuing Julian Alvarez.",
+      "Atletico objected to Barcelona discussing a player under contract while Barcelona's finances were under La Liga scrutiny; Gil Marin had called the affair a private circus.",
+      "Laporta said the two embraced at the European clubs' assembly in Copenhagen. The account is Laporta's own, not a joint statement. Alvarez later helped set up Atletico's goal in their 1-2 loss to Barcelona on 8 November."
+    ],
+    "background": "Atletico said in June that Barcelona's 100 million euro offer for Alvarez had come in on a Friday, a claim Barcelona disputed.",
+    "angle": "scandal",
+    "sensitive": false,
+    "footage_terms": ["Laporta Julian Alvarez Atletico statement", "Gil Marin Barcelona Alvarez", "Julian Alvarez Atletico goals 2026"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Robert Lewandowski has nine goals in 19 games for Chicago Fire since leaving Barcelona",
+    "date": "2026-11-08",
+    "source_domain": "en.wikipedia.org",
+    "url": "https://en.wikipedia.org/wiki/Robert_Lewandowski",
+    "entities": ["Robert Lewandowski", "Chicago Fire", "FC Barcelona", "Poland"],
+    "facts": [
+      "Lewandowski left Barcelona when his contract ended after the 2025-26 season and joined MLS side Chicago Fire in June 2026, wearing number 9.",
+      "As of 8 November 2026 he had 9 goals in 19 league appearances for Chicago.",
+      "His Wikipedia page says he has more than 170 caps and 92 goals for Poland, with the exact cap figures inconsistent on the page."
+    ],
+    "background": "Lewandowski joined Barcelona from Bayern Munich in 2022 and won La Liga with the club, including the 2025-26 title.",
+    "angle": "history",
+    "sensitive": false,
+    "footage_terms": ["Lewandowski Chicago Fire goals", "Lewandowski MLS debut", "Lewandowski Poland goals 2026"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Ter Stegen is playing for Ajax on loan from Barcelona",
+    "date": "2026-11-08",
+    "source_domain": "en.wikipedia.org",
+    "url": "https://en.wikipedia.org/wiki/Marc-Andr%C3%A9_ter_Stegen",
+    "entities": ["Marc-Andre ter Stegen", "Ajax", "FC Barcelona", "Germany"],
+    "facts": [
+      "Ter Stegen joined Ajax on loan from Barcelona for the 2026-27 season on 4 August 2026 and kept a clean sheet in his debut, a 2-0 win at Zwolle on 9 August.",
+      "By 8 November he had 11 Eredivisie and 5 Conference League appearances for Ajax.",
+      "Per Wikipedia, Germany's new head coach Jurgen Klopp started him in a 1-1 draw away to the Netherlands on 24 September."
+    ],
+    "background": "Ter Stegen was Barcelona's number one for more than a decade and also spent a loan period at Girona in 2025-26, where he suffered a hamstring injury in January 2026.",
+    "angle": "history",
+    "sensitive": false,
+    "footage_terms": ["Ter Stegen Ajax saves", "Ter Stegen Ajax debut Zwolle", "Ter Stegen Germany Klopp"],
+    "confidence": "medium"
+  }
+]

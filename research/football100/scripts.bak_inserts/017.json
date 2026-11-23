@@ -1,0 +1,76 @@
+{
+  "no": 17,
+  "subject": "Michael Owen",
+  "title": "Owen's Man Utd top-four prediction",
+  "voice": "EL_C",
+  "comic": false,
+  "style": null,
+  "lines": [
+    {
+      "vo": "Michael Owen tipped Manchester United for the top four.",
+      "card": "Top four, said Owen",
+      "sfx": null,
+      "footage": "Owen punditry clip, studio, neutral lighting"
+    },
+    {
+      "vo": "He said it in August. By November, they were in the relegation zone.",
+      "card": "Relegation zone",
+      "sfx": null,
+      "footage": "Manchester United match, league table graphic"
+    },
+    {
+      "vo": "Carrick was sacked on the twelfth. Pochettino took over on a deal to 2029.",
+      "card": "Pochettino to 2029",
+      "sfx": null,
+      "footage": "Pochettino press conference, Manchester United"
+    },
+    {
+      "vo": "Owen now says he can't see United going down. Same confidence as August.",
+      "card": "Can't see it",
+      "sfx": null,
+      "footage": "Owen studio clip, slow push-in"
+    },
+    {
+      "vo": "He says relegation would be as big a shock as Leicester's title in 2016. A fairytale in reverse.",
+      "card": "Leicester-level shock",
+      "sfx": null,
+      "footage": "Leicester 2016 title celebration archive"
+    },
+    {
+      "vo": "He also thinks Pochettino can revive Rashford.",
+      "card": "Rashford comeback?",
+      "sfx": null,
+      "footage": "Rashford training clip, 2026"
+    },
+    {
+      "vo": "Rashford, for the record, has no Premier League goal this season.",
+      "card": "No league goal",
+      "sfx": null,
+      "footage": "Rashford match action, neutral"
+    },
+    {
+      "vo": "Your mates will never guess this. Match news and betting tips at aboutfootball dot UK.",
+      "card": "aboutfootball dot UK",
+      "sfx": null,
+      "footage": "End card, no footage"
+    }
+  ],
+  "chars": 562,
+  "est_seconds": 31,
+  "footage_terms": [
+    "Michael Owen punditry Manchester United 2026",
+    "Pochettino Manchester United first press conference 2026",
+    "Manchester United Aston Villa 4-4 highlights 2026",
+    "Rashford 2026 Manchester United highlights"
+  ],
+  "inserts": [],
+  "facts_used": [
+    "Owen's 2026/27 Premier League predictions on 28 Aug: Arsenal champions, top four Arsenal, Chelsea, Liverpool, Man Utd (https://www.premierleague.com/en/news/4698571/champions-best-player-pundits-predict-the-202627-season)",
+    "Man Utd in the relegation zone at the 9 Nov international break after a 4-4 draw with Aston Villa (https://sports.yahoo.com/articles/t-deny-michael-owen-delivers-090000346.html)",
+    "Michael Carrick sacked on 12 Nov; Pochettino to a contract until 2029 (https://www.itv.com/news/granada/2026-11-12/michael-carrick-sacked-by-manchester-united-as-pochettino-poised-to-take-over and https://www.football365.com/news/owen-delivers-verdict-man-utd-appointing-pochettino-huge-relegation-claim)",
+    "Owen: 'I can't see it happening'; relegation would rank with Leicester's 2016 title as a shock (https://www.football365.com/news/owen-delivers-verdict-man-utd-appointing-pochettino-huge-relegation-claim)",
+    "Owen: Pochettino can revive Rashford; Rashford has no Premier League goal this season (https://www.goal.com/en/news/-marcus-rashford-michael-owen-mauricio-pochettino-manchester-united-bruno-fernandes-sale/blt75c27bfd01ddfb09)"
+  ],
+  "comic_score": 4,
+  "notes": "Non-comic, so no inserts. The 'Rashford has no league goal' fact is a dated source claim; recheck the Premier League table before posting. The relegation-zone line is accurate as of 9 Nov only. Keep Owen's own words attributed; no jokes about Man Utd fans or the club's finances beyond the table. after_line not used. Punch-up pass: 'same confidence as August' is a deadpan callback to the top-four tip; the rest is plain facts. Non-comic, so no inserts."
+}

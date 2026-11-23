@@ -1,0 +1,602 @@
+{
+  "name": "Cristiano Ronaldo",
+  "years": [
+    2008,
+    2013,
+    2014,
+    2016,
+    2017
+  ],
+  "research_date": "2026-11-20",
+  "recent_news": [
+    {
+      "date": "2026-08-25",
+      "headline": "Ronaldo taken off at half-time against Al Ettifaq, snubs the bench, Al Nassr (down to 10 men) still win 3-2",
+      "facts": [
+        "Match played 25 Aug 2026 (Al Ettifaq 2-3 Al Nassr, Dammam); the National story ran 26 Aug.",
+        "Al Nassr were losing 2-0 when coach Ange Postecoglou substituted Ronaldo in the 46th minute (half-time).",
+        "Al Nassr had been reduced to 10 men early after goalkeeper Bento was sent off (The National).",
+        "Ronaldo was visibly unhappy and snubbed the bench.",
+        "Al Nassr then came back to win 3-2: Mane 74' and 90', Al-Amri 77' (Wikipedia fixture list) - three goals in the last 16 minutes."
+      ],
+      "source_url": "https://www.thenationalnews.com/sport/football/2026/08/29/its-a-great-achievement-cristiano-ronaldo-now-al-nassrs-all-time-leading-scorer-in-saudi-pro-league/",
+      "source_domain": "thenationalnews.com",
+      "tone": "roast",
+      "sensitive": false
+    },
+    {
+      "date": "2026-08-28",
+      "headline": "Ronaldo becomes Al Nassr's all-time top Saudi Pro League scorer in 2-1 win over Al Taawoun",
+      "facts": [
+        "His 50th-minute goal was his 104th league goal for the club, passing Mohammed Al Sahlawi's 103; it was his 978th career goal.",
+        "Replays suggested Mohamed Simakan's shot was probably going in without his touch.",
+        "Reports say he forgot the 'Siu' celebration at first and Sadio Mane reminded him."
+      ],
+      "source_url": "https://gulfnews.com/sport/football/ronaldo-answers-substitution-drama-with-goal-no-978-but-was-it-already-going-in-1.500655993",
+      "source_domain": "gulfnews.com",
+      "tone": "praise",
+      "sensitive": false
+    },
+    {
+      "date": "2026-09-27",
+      "headline": "Portugal beat Norway 2-1; Ronaldo stays on the bench",
+      "facts": [
+        "Jorge Jesus had told Ronaldo he would come on, but did not bring him on.",
+        "Portuguese media (A Bola, via Goal) report Ronaldo felt Jesus broke a promise of at least 30 minutes; Goal gives no direct Ronaldo quote, so treat as reported, not as something he said publicly.",
+        "About a week earlier Ronaldo said the media had tried to 'kill' him for years and he could leave 'today' if the manager did not want him."
+      ],
+      "source_url": "https://www.aljazeera.com/sports/2026/9/30/cristiano-ronaldo-misses-portugal-training-as-coach-jorge-jesus-denies-rift",
+      "source_domain": "aljazeera.com",
+      "tone": "roast",
+      "sensitive": false
+    },
+    {
+      "date": "2026-09-30",
+      "headline": "Ronaldo leaves Portugal camp in Copenhagen before the Denmark game",
+      "facts": [
+        "He said in an Instagram post that he had decided to leave the national team's training camp and would later tell fans 'the truth about the reasons behind my departure'; A Bola reported federation president Pedro Proenca went to Denmark to meet him and Jesus (Jesus confirmed only that he spoke with Ronaldo).",
+        "He missed the 1 October Nations League game in Copenhagen; Portugal won 4-2 without him (Wikipedia group table: Denmark 2-4 Portugal).",
+        "Jesus denied any rift: 'He didn't refuse'; 'They forced me to talk to Cris about an issue that didn't exist.'"
+      ],
+      "source_url": "https://www.aljazeera.com/sports/2026/9/30/cristiano-ronaldo-misses-portugal-training-as-coach-jorge-jesus-denies-rift",
+      "source_domain": "aljazeera.com",
+      "tone": "roast",
+      "sensitive": false
+    },
+    {
+      "date": "2026-10-10",
+      "headline": "Portugal federation opens urgent disciplinary case and provisionally suspends Ronaldo; he apologises",
+      "facts": [
+        "Rules give a suspension of one to six months plus a fine for leaving duty without justification.",
+        "Ronaldo apologised, said he should not have left the camp and asked to be punished.",
+        "He returned to club action on Fri 9 Oct with the opening goal, reported as his 980th career goal, in a 3-0 win over Diriyah. A 30-day suspension and a token fine were reported later (Al Jazeera, 17 Nov)."
+      ],
+      "source_url": "https://www.espn.com/soccer/story/_/id/50146841/cristiano-ronaldo-suspended-portugal-national-team-walkout-jorge-jesus-disciplinary",
+      "source_domain": "espn.com",
+      "tone": "neutral",
+      "sensitive": false
+    },
+    {
+      "date": "2026-10-12",
+      "headline": "Al Nassr 3-1 Neftchi in Asian Champions League, delayed an hour by a safety warning; Ronaldo scores",
+      "facts": [
+        "Saudi Civil Defence issued a safety warning 15 minutes before kick-off in Riyadh.",
+        "Ronaldo scored the second goal in about the 42nd minute with a turning shot into the bottom corner.",
+        "Reports link the warning to Houthi missile attacks on Riyadh."
+      ],
+      "source_url": "https://www.khaleejtimes.com/sports/football/cristianto-ronaldo-al-nassr-win-neftchi-saudi-arabia-security-delay",
+      "source_domain": "khaleejtimes.com",
+      "tone": "neutral",
+      "sensitive": true
+    },
+    {
+      "date": "2026-10-23",
+      "headline": "Al Nassr 3-1 Al Faisaly: Ronaldo's 982nd goal sparks own-goal debate",
+      "facts": [
+        "Opta, SofaScore, FotMob and Flashscore logged the 49th-minute goal as an own goal by Andrei Girotto; the league and the referee report credited Ronaldo.",
+        "A second Ronaldo effort was ruled out by VAR.",
+        "Asked if he scored twice, Ronaldo reportedly answered 'Only one counted'."
+      ],
+      "source_url": "https://worldsoccertalk.com/news/cristiano-ronaldo-offers-cheeky-response-amid-confusion-over-his-latest-982nd-career-goal/",
+      "source_domain": "worldsoccertalk.com",
+      "tone": "roast",
+      "sensitive": false
+    },
+    {
+      "date": "2026-10-29",
+      "headline": "Ronaldo scores a 15-minute hat-trick in 5-3 win over Al Kholood, reaches 985 career goals",
+      "facts": [
+        "All three goals came in the 66th, 72nd and 81st minutes after the break.",
+        "It was reported as his 67th career hat-trick; Joao Felix had four assists in the game.",
+        "Postecoglou praised the hat-trick 'despite his advanced age' (Ronaldo is 41)."
+      ],
+      "source_url": "https://greekcitytimes.com/2026/11/01/ronaldo-postecoglou-hat-trick/",
+      "source_domain": "greekcitytimes.com",
+      "tone": "praise",
+      "sensitive": false
+    },
+    {
+      "date": "2026-11-02",
+      "headline": "Ronaldo rested for Al Nassr's 6-2 Champions League win at Pakhtakor",
+      "facts": [
+        "Match played 2 Nov 2026 in Tashkent (Wikipedia fixture list; Pakhtakor 2-6 Al Nassr).",
+        "Postecoglou rested Ronaldo, Kingsley Coman and Mohamed Simakan 'given the pressure of matches and the amount of travel involved'.",
+        "Ronaldo did not travel to Tashkent.",
+        "Headlines linked the absence to Saudi security concerns, but the coach's stated reason was workload."
+      ],
+      "source_url": "https://www.espn.com/soccer/story/_/id/50353917/ronaldo-al-nassr-acl-squad-saudi-security-concerns",
+      "source_domain": "espn.com",
+      "tone": "neutral",
+      "sensitive": true
+    },
+    {
+      "date": "2026-11-03",
+      "headline": "AFC moves 2027 Asian Cup in Saudi Arabia to 23 Dec 2027 - 21 Jan 2028",
+      "facts": [
+        "The AFC cited the regional conflict and safety concerns; the original dates were 7 January - 5 February 2027.",
+        "Houthi missile attacks have hit Saudi cities, including Riyadh, since September.",
+        "World Soccer Talk (about 5 Nov) reported the Saudi Pro League postponed all Matchweek 13 fixtures because of the move, with no replacement date then for Al Nassr v Al Hazem; The National on 20 Nov nevertheless lists the Al Hazem trip on 28 Nov, so check the date before use."
+      ],
+      "source_url": "https://www.aljazeera.com/sports/2026/11/3/afc-reschedules-asian-cup-2027-in-saudi-arabia-amid-regional-conflict",
+      "source_domain": "aljazeera.com",
+      "tone": "neutral",
+      "sensitive": true
+    },
+    {
+      "date": "2026-11-05",
+      "headline": "Ronaldo retires from Portugal after 23 years, 234 caps and 146 goals",
+      "facts": [
+        "He posted a roughly five-minute video, handing back the shirt and the captain's armband (the statement text does not say 'number 7'; that is from photo captions).",
+        "The statement did not mention Jorge Jesus.",
+        "He has not announced any retirement from club football; his Al Nassr contract runs to June 2027."
+      ],
+      "source_url": "https://www.fourfourtwo.com/person/player/cristiano-ronaldos-retirement-statement-in-full-portugal-star-bids-farewell-to-international-football",
+      "source_domain": "fourfourtwo.com",
+      "tone": "neutral",
+      "sensitive": false
+    },
+    {
+      "date": "2026-11-11",
+      "headline": "Ronaldo backs a nearly EUR 20 million water bottling plant in northern Portugal",
+      "facts": [
+        "The plant in Gostei (Braganca) is planned for 500-600 million litres a year, with operations expected in early 2028.",
+        "He runs it with Grupo Outeirinho; they already run the Ursu water brand.",
+        "His other interests include Pestana CR7 hotels and Insparya hair clinics."
+      ],
+      "source_url": "https://www.beinsports.com/en-us/soccer/articles/cristiano-ronaldo-moves-on-from-portugal-and-bets-on-a-multimillion-dollar-business-2026-11-11",
+      "source_domain": "beinsports.com",
+      "tone": "roast",
+      "sensitive": false
+    },
+    {
+      "date": "2026-11-14",
+      "headline": "Portugal lose 4-1 to Denmark in their first game without Ronaldo",
+      "facts": [
+        "The team walked out with number 7 shirts carrying his name and fans held a 'Thank you, captain' banner.",
+        "Hojlund scored twice; Bernardo Silva scored late for Portugal.",
+        "Portugal had already qualified for the quarter-finals.",
+        "Wikipedia match table: Hojbjerg penalty 43', Hojlund two goals, Andersen header; Portugal then won 3-2 at Wales on 17 Nov and finished top of Group 4."
+      ],
+      "source_url": "https://aljazeera.com/sports/2026/11/14/ronaldo-less-portugal-thrashed-4-1-by-denmark-in-the-nations-league",
+      "source_domain": "aljazeera.com",
+      "tone": "praise",
+      "sensitive": false
+    },
+    {
+      "date": "2026-11-17",
+      "headline": "Ronaldo's mother says she is glad Jesus lost; Jesus responds",
+      "facts": [
+        "Dolores Aveiro was glad to see Jesus suffer his first defeat since taking charge after the World Cup and said Ronaldo had been 'deceived' by him (reported indirectly by Al Jazeera).",
+        "Jesus: 'Now I have to respond to Cristiano Ronaldo's mother?' He also said 'I don't know when it is going to stop' and 'If you ask about Ronaldo next year, I will answer'.",
+        "It was Jesus' first defeat since taking charge of Portugal after the World Cup and Portugal's first defeat since Ronaldo retired from international duty.",
+        "Al Jazeera also notes Ronaldo got a 30-day suspension and a token fine after leaving camp."
+      ],
+      "source_url": "https://www.aljazeera.com/sports/2026/11/17/cristiano-ronaldo-mother-portugal-coach-jorge-jesus",
+      "source_domain": "aljazeera.com",
+      "tone": "neutral",
+      "sensitive": true
+    },
+    {
+      "date": "2026-11-18",
+      "headline": "Ronaldo nominated for Globe Soccer 'Best Middle East Player'",
+      "facts": [
+        "He won the same category at the previous ceremony; Joao Felix and Sadio Mane are also on the 10-player shortlist.",
+        "The ceremony is on 28 December in Dubai; voting closes 30 November.",
+        "The National's Best Men's Player nominee list names Messi, Mbappe, Kane, Dembele and Haaland; Ronaldo is not named there."
+      ],
+      "source_url": "https://www.thenationalnews.com/sport/football/2026/11/18/ronaldo-messi-and-mbappe-among-nominees-for-globe-soccer-awards-in-dubai/",
+      "source_domain": "thenationalnews.com",
+      "tone": "roast",
+      "sensitive": false
+    },
+    {
+      "date": "2026-11-19",
+      "headline": "Talk of a Ronaldo testimonial match for Portugal; Jesus said he wanted to keep calling him up",
+      "facts": [
+        "Portuguese media (A Bola, via Goal) report growing talk of a testimonial; this is not confirmed.",
+        "The report says Ronaldo felt Jesus broke a promise of at least 30 minutes against Norway.",
+        "The federation reportedly does not want him remembered for a fallout with the coach."
+      ],
+      "source_url": "https://www.goal.com/en/news/one-last-dance-in-portugal-cristiano-ronaldo-emotional-testimonial-retirement/bltb2ebe04b728395c9",
+      "source_domain": "goal.com",
+      "tone": "neutral",
+      "sensitive": false
+    },
+    {
+      "date": "2026-11-20",
+      "headline": "Ronaldo 'rested and ready' for Al Ahli away in Jeddah; Al Nassr third in the league",
+      "facts": [
+        "He has 8 goals in 10 league games this season (league count, The National) and 985 career goals.",
+        "Al Nassr are third, level on points with Al Qadsiah and two points behind leader Al Hilal; The National says a win will take them above Hilal.",
+        "The Al Ahli game was postponed earlier for 'logistical considerations related to rest period for players' (The National), not security.",
+        "Next match is Al Hazem on 28 November."
+      ],
+      "source_url": "https://www.thenationalnews.com/sport/football/2026/11/20/cristiano-ronaldo-rested-and-ready-as-al-nassr-resume-title-defence-against-al-ahli/",
+      "source_domain": "thenationalnews.com",
+      "tone": "praise",
+      "sensitive": false
+    }
+  ],
+  "now": {
+    "as_of": "2026-11-20",
+    "club": "Al Nassr (Saudi Pro League), captain, number 7; coach Ange Postecoglou (appointed 3 July 2026 after Jorge Jesus).",
+    "age": "41 (born 5 February 1985)",
+    "contract": "Until June 2027 (World Soccer Talk); Yahoo (5 Nov) says to the end of the current season; no extension reported.",
+    "national_team": "Retired from Portugal on 5 Nov 2026: 234 caps, 146 goals (men's records).",
+    "season_numbers": "8 goals in 10 Saudi league games by the league's count (The National); Wikipedia's Al Nassr season page lists 7 league goals, which fits the Faisaly goal being counted as an own goal. 985 career goals per the league count (15 short of 1,000). He passed Al Sahlawi's 103 to reach 104 league goals for Al Nassr on 28 Aug (club league record); more since.",
+    "standing": "Al Nassr are reigning Saudi champions (title clinched 21 May 2026, 4-1 v Damac) and sit third, two points behind Al Hilal and level with Al Qadsiah.",
+    "this_week": "Al Ahli away on 20 Nov (result unknown at time of research); Al Hazem away on 28 Nov per The National (World Soccer Talk reported earlier that Matchweek 13 had no new dates).",
+    "off_pitch": "Backs a EUR 20m water plant in Portugal; Pestana CR7 hotels; Insparya hair clinics; Globe Soccer nomination (Best Middle East Player); testimonial talk is speculation.",
+    "what_people_say": "Jesus: 'Now I have to respond to Cristiano Ronaldo's mother?', 'I don't know when it is going to stop'. Postecoglou: praises him 'despite his advanced age'. Portugal fans: 'Thank you, captain' banner.",
+    "goal_count_caveat": "Opta, SofaScore and FotMob logged the 23 Oct Al Faisaly goal as an own goal, so their tally can be one lower than the league's 985."
+  },
+  "quick_context": "Cristiano Ronaldo won the Ballon d'Or in 2008, 2013, 2014, 2016 and 2017. In 2007-08 he scored 31 Premier League goals for Manchester United, in 2013-14 he set a record 17 Champions League goals for Real Madrid, and in 2016-17 he scored 42 goals in all competitions. He has 35 trophies, including five Champions Leagues and Euro 2016, and added his first Saudi league title with Al Nassr in May 2026.",
+  "roast_past": [
+    "Named after Ronald Reagan by his father; in November 2025 he met Trump at the White House (18 Nov) and Trump joked his son Barron respects him a little more after meeting Ronaldo.",
+    "2006 World Cup: the Rooney incident, then booed through 2006-07 and publicly asked for a transfer (United refused).",
+    "Clashed with Ruud van Nistelrooy over showboating at United.",
+    "Red card in his first Champions League game for Juventus (vs Valencia).",
+    "2022 Piers Morgan interview: said he felt 'betrayed' at Manchester United (Wikipedia frames it as by Erik ten Hag); contract terminated 22 Nov 2022.",
+    "Trophy drought: The National said he had not won a club trophy since the 2021 Coppa Italia until the Saudi title in May 2026, but he scored both goals in the 2023 Arab Club Champions Cup final (2-1 a.e.t. v Al-Hilal). Safer line: his first league title in five years, Al Nassr's first since 2018-19.",
+    "Expelled from school after throwing a chair at a teacher (own account, per Wikipedia).",
+    "Five Ballons d'Or, but 2026 World Cup ended in the last 16: Spain won 1-0 in the 91st minute, and he never won the trophy."
+  ],
+  "roast_now": [
+    "Reportedly promised at least 30 minutes against Norway, never came on, left camp, then retired from the whole national team: handed back the shirt and the armband.",
+    "Asked the federation to punish him, was suspended, then retired anyway.",
+    "'Only one counted': the 982nd goal that Opta calls an own goal and the league calls his.",
+    "Goal 978 may have been going in without his touch; forgot the Siu until Mane reminded him.",
+    "Snubbed the bench after being subbed off at half-time; ten-man Al Nassr then won 3-2 without him.",
+    "Postecoglou praises him 'despite his advanced age': 41, still chasing goal 1,000 in a league with a disputed counter.",
+    "Portugal lost 4-1 to Denmark in their first game without him (do not mention his mother; see no_joke_topics).",
+    "Nominated for 'Best Middle East Player' while the world list went elsewhere; owns hair clinics and a water plant: the diversified empire at 41."
+  ],
+  "praise": [
+    "985 career goals per the league count, 15 short of 1,000 (no man has reached 1,000).",
+    "Hat-trick in about 15 minutes on 29 Oct at age 41: goals at 66, 72 and 81 minutes; reported as his 67th career hat-trick.",
+    "8 goals in 10 league games this season (league count); 28 goals in 30 games last season, title-winning brace on the last day.",
+    "Al Nassr all-time top league scorer: 104 league goals as of 28 Aug (passing Al Sahlawi's 103), more since.",
+    "Portugal's record: 234 caps and 146 goals after 23 years; also first player to score at six World Cups.",
+    "Five Ballons d'Or, 35 trophies, 17 Champions League goals in one season (2013-14)."
+  ],
+  "no_joke_topics": [
+    "War and security: Houthi missile attacks on Riyadh, the delayed Neftchi match, the Asian Cup postponement.",
+    "Family: his mother (Dolores Aveiro), his children, his partner, his sister's comments.",
+    "Health: any health or injury topic, including childhood heart condition and age-related decline framed as a medical matter.",
+    "Injuries, doping, and legal troubles (the past Juventus pay dispute and any court or criminal allegations).",
+    "The disciplinary process itself can be reported as news but not as a legal-trouble joke."
+  ],
+  "viral_moments": [
+    {
+      "moment": "Retirement video from Portugal (5 Nov 2026)",
+      "url": "https://www.youtube.com/results?search_query=Cristiano+Ronaldo+retirement+video+Portugal+number+7+shirt",
+      "why": "Emotional farewell; says nothing about Jesus. Contrast with the earlier public row.",
+      "timestamp": "unknown",
+      "verified": "search link only; direct video URL not confirmed"
+    },
+    {
+      "moment": "Instagram post leaving the Portugal camp (30 Sep 2026)",
+      "url": "https://www.youtube.com/results?search_query=Ronaldo+leaves+Portugal+camp+Copenhagen+Jorge+Jesus+press+conference",
+      "why": "Said he would later explain 'the truth'; Jesus said 'no incident'.",
+      "timestamp": "unknown",
+      "verified": "search link only"
+    },
+    {
+      "moment": "'Only one counted' reply on the disputed 982nd goal",
+      "url": "https://www.youtube.com/results?search_query=Ronaldo+only+one+counted+982+goal+Al+Faisaly",
+      "why": "Dry joke at his own stat dispute; platform where he said it not confirmed.",
+      "timestamp": "unknown",
+      "verified": "search link only"
+    },
+    {
+      "moment": "Al Nassr vs Al Taawoun: forgets Siu, Mane reminds him (28 Aug 2026)",
+      "url": "https://www.youtube.com/results?search_query=Ronaldo+Mane+reminds+Siu+celebration+Al+Taawoun",
+      "why": "Light-hearted clip around goal 978.",
+      "timestamp": "unknown",
+      "verified": "search link only"
+    },
+    {
+      "moment": "Classic: Piers Morgan interview, 'betrayed' at Man United (2022)",
+      "url": "https://www.youtube.com/results?search_query=Cristiano+Ronaldo+Piers+Morgan+interview+full+2022",
+      "why": "Led to United terminating his contract.",
+      "timestamp": "unknown",
+      "verified": "search link only"
+    }
+  ],
+  "footage_terms": [
+    {
+      "phrase": "Ronaldo hat-trick Al Nassr Al Kholood full highlights",
+      "watermark_risk": "High: broadcaster logos and Arabic commentary"
+    },
+    {
+      "phrase": "Ronaldo goal Al Nassr Neftchi ACL Elite",
+      "watermark_risk": "High: AFC/channel burn-in"
+    },
+    {
+      "phrase": "Ronaldo Siu celebration 4K no commentary",
+      "watermark_risk": "Medium: fan edits with music and logos"
+    },
+    {
+      "phrase": "Ronaldo retirement video Portugal",
+      "watermark_risk": "Medium: news channel overlays and captions"
+    },
+    {
+      "phrase": "Ronaldo Al Nassr press conference Postecoglou",
+      "watermark_risk": "Medium: club or media-house logos"
+    },
+    {
+      "phrase": "Ronaldo goal 978 Al Taawoun",
+      "watermark_risk": "High: broadcast logos"
+    },
+    {
+      "phrase": "Ronaldo warm up bench Portugal Norway",
+      "watermark_risk": "High: burned-in subtitles in news edits"
+    },
+    {
+      "phrase": "Ronaldo Al Nassr training Riyadh",
+      "watermark_risk": "Low to medium: club channel logo"
+    },
+    {
+      "phrase": "Ronaldo Portugal Denmark 4-1 tribute number 7 Braga",
+      "watermark_risk": "High: UEFA/broadcaster logos"
+    }
+  ],
+  "flipbook_ideas": [
+    "Stopwatch gag: Ronaldo warms up for 90 minutes holding a '30 min promised' sign, nobody calls his name.",
+    "Scoreboard 985 with a tiny ladder to 1000; a referee points at '982' with a magnifying glass ('Only one counted').",
+    "Returning the number 7 shirt at a lost-property desk, with a clerk stamping 'Received'.",
+    "Caricature waiter pours 'Ursu' water over a stack of Ballon d'Or trophies while a tiny hair clinic sign is in the background.",
+    "A birthday cake with 41 candles and a Siu pose on top; coach writes 'advanced age' on a clipboard.",
+    "Trophy cabinet door labelled 'Best Middle East Player', Ronaldo squeezing past the world list."
+  ],
+  "image_reference_notes": {
+    "signature_look": "Athletic build, tan skin, defined jaw, number 7 kit, arms-out-and-turn 'Siu' pose.",
+    "current_look": "GAP: current hair and beard not verified from fetched sources. Use a recent Nov 2026 match photo as reference.",
+    "kit_colours": "Al Nassr: yellow and blue (Wikipedia: logo yellow = desert sands, blue = seas; nickname 'the big Yellow'); Portugal: red and green.",
+    "expressions": "Tears after the May 2026 title goal (The National); visible displeasure when substituted (Aug 2026); the intense 'scowl' during free kicks.",
+    "signature_pose": "Siu: jump, half-turn, arms spread; also the free-kick stance with legs wide."
+  },
+  "claims": [
+    {
+      "claim": "Ronaldo won the Ballon d'Or in 2008, 2013, 2014, 2016 and 2017.",
+      "source_url": "https://en.wikipedia.org/wiki/Cristiano_Ronaldo",
+      "confidence": "high"
+    },
+    {
+      "claim": "2007-08: 31 league goals for Manchester United and the Premier League Golden Boot.",
+      "source_url": "https://en.wikipedia.org/wiki/Cristiano_Ronaldo",
+      "confidence": "high"
+    },
+    {
+      "claim": "2013-14: record 17 Champions League goals.",
+      "source_url": "https://en.wikipedia.org/wiki/Cristiano_Ronaldo",
+      "confidence": "high"
+    },
+    {
+      "claim": "2016-17: 42 goals in all competitions; two goals in the Champions League final.",
+      "source_url": "https://en.wikipedia.org/wiki/Cristiano_Ronaldo",
+      "confidence": "high"
+    },
+    {
+      "claim": "Total 35 trophies incl. five Champions Leagues, two Nations Leagues, Euro 2016.",
+      "source_url": "https://en.wikipedia.org/wiki/Cristiano_Ronaldo",
+      "confidence": "high"
+    },
+    {
+      "claim": "He was named after Ronald Reagan by his father.",
+      "source_url": "https://en.wikipedia.org/wiki/Cristiano_Ronaldo",
+      "confidence": "high"
+    },
+    {
+      "claim": "He was expelled from school after throwing a chair at a teacher.",
+      "source_url": "https://en.wikipedia.org/wiki/Cristiano_Ronaldo",
+      "confidence": "medium"
+    },
+    {
+      "claim": "2006 World Cup incident with Rooney, booed the next season, asked for a transfer; clashed with van Nistelrooy; red card in first Champions League match for Juventus; after the Piers Morgan interview United ended his contract on 22 Nov 2022.",
+      "source_url": "https://en.wikipedia.org/wiki/Cristiano_Ronaldo",
+      "confidence": "high"
+    },
+    {
+      "claim": "Al Nassr won the Saudi Pro League on 21 May 2026 (4-1 v Damac; Ronaldo scored twice, a free kick just after the hour and the fourth goal); Al Nassr's first league title since 2018-19 and his first Saudi title; 28 goals in 30 league games. The National's wording 'no club trophy since the 2021 Coppa Italia' is wrong: he won the 2023 Arab Club Champions Cup (both goals in the 2-1 a.e.t. final v Al-Hilal).",
+      "source_url": "https://en.wikipedia.org/wiki/Cristiano_Ronaldo",
+      "confidence": "high"
+    },
+    {
+      "claim": "Ronaldo met Trump at the White House on 18 Nov 2025 (then dined there with Mohammed bin Salman); Trump joked his son Barron respects him a little more after meeting Ronaldo. The 'ceremonial key' detail is not supported by the SI article or Wikipedia and was removed.",
+      "source_url": "https://www.si.com/soccer/president-trump-cristiano-ronaldo-credit-white-house-visit",
+      "confidence": "high"
+    },
+    {
+      "claim": "Portugal lost 1-0 to Spain in the round of 16 on 6 July 2026 (Merino, first minute of second-half stoppage time); Ronaldo did not score in that match but scored three goals at the tournament (two v Uzbekistan, a penalty v Croatia) and became the first player to score at six World Cups (Wikipedia).",
+      "source_url": "https://pbs.org/newshour/world/cristiano-ronaldos-world-cup-career-ends-after-mikel-merinos-late-goal-sends-spain-to-quarterfinals",
+      "confidence": "high"
+    },
+    {
+      "claim": "On 25 Aug 2026 (Al Ettifaq 2-3 Al Nassr; The National story 26 Aug) he was subbed off at half-time (46th minute) with Al Nassr 2-0 down and 10 men, snubbed the bench; Al Nassr won 3-2.",
+      "source_url": "https://www.thenationalnews.com/sport/football/2026/08/29/its-a-great-achievement-cristiano-ronaldo-now-al-nassrs-all-time-leading-scorer-in-saudi-pro-league/",
+      "confidence": "high"
+    },
+    {
+      "claim": "On 28 Aug 2026 he scored the 50th-minute winner vs Al Taawoun (978th career goal), becoming Al Nassr's top league scorer with 104, passing Al Sahlawi's 103.",
+      "source_url": "https://www.thenationalnews.com/sport/football/2026/08/29/its-a-great-achievement-cristiano-ronaldo-now-al-nassrs-all-time-leading-scorer-in-saudi-pro-league/",
+      "confidence": "high"
+    },
+    {
+      "claim": "Mane reportedly reminded him to do Siu; replays suggested Simakan's shot was going in.",
+      "source_url": "https://gulfnews.com/sport/football/ronaldo-answers-substitution-drama-with-goal-no-978-but-was-it-already-going-in-1.500655993",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Norway 2-1 Portugal match: Ronaldo stayed on the bench on 27 Sep 2026; he left camp in Copenhagen on 30 Sep; Instagram post; Jesus denied a rift.",
+      "source_url": "https://www.aljazeera.com/sports/2026/9/30/cristiano-ronaldo-misses-portugal-training-as-coach-jorge-jesus-denies-rift",
+      "confidence": "high"
+    },
+    {
+      "claim": "Ronaldo said the media tried to 'kill' him for years and he could leave 'today' (a week before 30 Sep).",
+      "source_url": "https://www.aljazeera.com/sports/2026/9/30/cristiano-ronaldo-misses-portugal-training-as-coach-jorge-jesus-denies-rift",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Portugal beat Denmark 4-2 on 1 Oct 2026 (Copenhagen), without Ronaldo.",
+      "source_url": "https://en.wikipedia.org/wiki/2026–27_UEFA_Nations_League_A",
+      "confidence": "high"
+    },
+    {
+      "claim": "FPF opened an urgent disciplinary case and provisionally suspended Ronaldo on 9-10 Oct; he apologised and asked to be punished; 980th goal vs Diriyah.",
+      "source_url": "https://www.espn.com/soccer/story/_/id/50146841/cristiano-ronaldo-suspended-portugal-national-team-walkout-jorge-jesus-disciplinary",
+      "confidence": "high"
+    },
+    {
+      "claim": "Later coverage: 30-day suspension and a token fine.",
+      "source_url": "https://www.aljazeera.com/sports/2026/11/17/cristiano-ronaldo-mother-portugal-coach-jorge-jesus",
+      "confidence": "high"
+    },
+    {
+      "claim": "Al Nassr 3-1 Neftchi on 12 Oct delayed one hour by a Saudi Civil Defence warning; Ronaldo scored (~42').",
+      "source_url": "https://www.khaleejtimes.com/sports/football/cristianto-ronaldo-al-nassr-win-neftchi-saudi-arabia-security-delay",
+      "confidence": "high"
+    },
+    {
+      "claim": "Houthi missile attacks on Riyadh referenced as the background.",
+      "source_url": "https://www.khaleejtimes.com/sports/football/cristianto-ronaldo-al-nassr-win-neftchi-saudi-arabia-security-delay",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Al Nassr 3-1 Al Faisaly: Ronaldo's 982nd; Opta/SofaScore/FotMob/Flashscore: own goal; league and referee credited Ronaldo; VAR ruled out another.",
+      "source_url": "https://worldsoccertalk.com/news/cristiano-ronaldo-offers-cheeky-response-amid-confusion-over-his-latest-982nd-career-goal/",
+      "confidence": "high"
+    },
+    {
+      "claim": "'Only one counted' quote attributed to Ronaldo.",
+      "source_url": "https://worldsoccertalk.com/news/cristiano-ronaldo-offers-cheeky-response-amid-confusion-over-his-latest-982nd-career-goal/",
+      "confidence": "medium"
+    },
+    {
+      "claim": "League and referee report credit; 982 goals, 18 short of 1,000.",
+      "source_url": "https://www.beinsports.com/en-us/soccer/articles-video/was-cristiano-ronaldo-s-goal-taken-away-the-controversy-surrounding-his-road-to-1-000-2026-10-23",
+      "confidence": "high"
+    },
+    {
+      "claim": "29 Oct 2026 hat-trick vs Al Kholood, Al Nassr won 5-3 (one outlet says 5-2; most say 5-3), 66', 72', 81'; 67th hat-trick; 985 goals.",
+      "source_url": "https://greekcitytimes.com/2026/11/01/ronaldo-postecoglou-hat-trick/",
+      "confidence": "high"
+    },
+    {
+      "claim": "beIN: eight-goal thriller 5-3, 985 official goals.",
+      "source_url": "https://www.beinsports.com/en-us/soccer/articles/cristiano-ronaldo-scores-hat-trick-in-15-minutes-to-reach-985-career-goals-2026-10-29",
+      "confidence": "high"
+    },
+    {
+      "claim": "Postecoglou praised him 'despite his advanced age'.",
+      "source_url": "https://greekcitytimes.com/2026/11/01/ronaldo-postecoglou-hat-trick/",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Ronaldo not in the Pakhtakor squad for the 2 Nov ACL match (Al Nassr won 6-2 in Tashkent); Postecoglou cited 'the pressure of matches and the amount of travel involved'.",
+      "source_url": "https://www.espn.com/soccer/story/_/id/50353917/ronaldo-al-nassr-acl-squad-saudi-security-concerns",
+      "confidence": "high"
+    },
+    {
+      "claim": "AFC moved the Asian Cup to 23 Dec 2027 - 21 Jan 2028 citing the regional conflict.",
+      "source_url": "https://www.aljazeera.com/sports/2026/11/3/afc-reschedules-asian-cup-2027-in-saudi-arabia-amid-regional-conflict",
+      "confidence": "high"
+    },
+    {
+      "claim": "Retired from Portugal on 5 Nov 2026 with a five-minute video; 234 caps, 146 goals; no mention of Jesus in the statement.",
+      "source_url": "https://www.fourfourtwo.com/person/player/cristiano-ronaldos-retirement-statement-in-full-portugal-star-bids-farewell-to-international-football",
+      "confidence": "high"
+    },
+    {
+      "claim": "Retirement announced 5 Nov; contract with Al Nassr to June 2027; 985 goals, next game vs Al Qadsiah (later reports say Al Ahli on 20 Nov).",
+      "source_url": "https://worldsoccertalk.com/news/cristiano-ronaldos-next-game-with-al-nassr-revealed-after-unexpected-portugal-retirement-announcement/",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He has not confirmed retiring from club football; expected to continue at Al Nassr.",
+      "source_url": "https://sports.yahoo.com/articles/cristiano-ronaldo-continue-play-al-134606976.html",
+      "confidence": "high"
+    },
+    {
+      "claim": "EUR 20m water plant in Gostei, 500-600m litres a year; Ursu brand; Pestana CR7 hotels; Insparya hair clinics.",
+      "source_url": "https://www.beinsports.com/en-us/soccer/articles/cristiano-ronaldo-moves-on-from-portugal-and-bets-on-a-multimillion-dollar-business-2026-11-11",
+      "confidence": "high"
+    },
+    {
+      "claim": "Portugal 1-4 Denmark on 14 Nov in Braga; tribute and 'Thank you, captain' banner; Hojlund two goals.",
+      "source_url": "https://aljazeera.com/sports/2026/11/14/ronaldo-less-portugal-thrashed-4-1-by-denmark-in-the-nations-league",
+      "confidence": "high"
+    },
+    {
+      "claim": "Ronaldo's mother said Jesus had 'deceived' her son and was glad to see Jesus suffer his first defeat; Jesus: 'Now I have to respond to Cristiano Ronaldo's mother?'; first defeat since taking charge after the World Cup.",
+      "source_url": "https://www.aljazeera.com/sports/2026/11/17/cristiano-ronaldo-mother-portugal-coach-jorge-jesus",
+      "confidence": "high"
+    },
+    {
+      "claim": "Globe Soccer 2026 nomination: Best Middle East Player; ceremony 28 Dec Dubai; voting until 30 Nov.",
+      "source_url": "https://www.thenationalnews.com/sport/football/2026/11/18/ronaldo-messi-and-mbappe-among-nominees-for-globe-soccer-awards-in-dubai/",
+      "confidence": "high"
+    },
+    {
+      "claim": "The National's Best Men's Player nominee list names Messi, Mbappe, Kane, Dembele and Haaland; Ronaldo is not named.",
+      "source_url": "https://www.thenationalnews.com/sport/football/2026/11/18/ronaldo-messi-and-mbappe-among-nominees-for-globe-soccer-awards-in-dubai/",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Testimonial match talk (A Bola via Goal); Jesus said he intended to keep calling him up.",
+      "source_url": "https://www.goal.com/en/news/one-last-dance-in-portugal-cristiano-ronaldo-emotional-testimonial-retirement/bltb2ebe04b728395c9",
+      "confidence": "medium"
+    },
+    {
+      "claim": "As of 20 Nov: 8 goals in 10 league games (league count); Al Nassr third, level with Al Qadsiah and two points behind Al Hilal; next vs Al Hazem 28 Nov (per The National); reigning champions; Postecoglou coach.",
+      "source_url": "https://www.thenationalnews.com/sport/football/2026/11/20/cristiano-ronaldo-rested-and-ready-as-al-nassr-resume-title-defence-against-al-ahli/",
+      "confidence": "high"
+    },
+    {
+      "claim": "Postecoglou (announced 3 July 2026) replaced Jesus and began with a perfect record (5 matches in 13 days as of 28 Aug); Al Nassr then lost 2-1 at Al-Ittihad on 5 Sep and 4-0 at Al Ain in the ACL on 15 Sep (Wikipedia fixture list).",
+      "source_url": "https://www.thenationalnews.com/sport/football/2026/08/29/its-a-great-achievement-cristiano-ronaldo-now-al-nassrs-all-time-leading-scorer-in-saudi-pro-league/",
+      "confidence": "high"
+    },
+    {
+      "claim": "Al Nassr kit colours are yellow and blue (Wikipedia: logo yellow = desert sands, blue = seas; nickname 'the big Yellow').",
+      "source_url": "https://en.wikipedia.org/wiki/Al-Nassr_FC",
+      "confidence": "medium"
+    }
+  ],
+  "notes": [
+    "Web search budget ran out before extra YouTube searches; viral_moments urls are YouTube search links, not verified direct videos.",
+    "Kholood score is 5-3 in most sources; The National says 5-2.",
+    "White House visit was November 2025 (not recent); used only as past context.",
+    "Fact check 2026-11-20: web search budget ran out mid-check; remaining checks used the cited URLs and Wikipedia pages by direct fetch. Eastern Herald, Athlon and the Goal player page were unreachable or showed nothing relevant (403 or no match), so the three claims that rested only on them were removed, as was the unverified Rooney 'wink'.",
+    "Portugal beat Wales 3-2 away on 17 Nov and won Nations League Group 4 (Wikipedia group table); the 17 Nov mother story was written before that game.",
+    "Al Nassr league-goal count: the league and The National count 8 in 10 league games; Wikipedia's season page shows 7 (own-goal treatment of the 23 Oct Faisaly goal is the likely, not proven, cause).",
+    "Al Hazem on 28 Nov comes from The National (20 Nov); a World Soccer Talk report from about 5 Nov said Matchweek 13 fixtures had no new dates and Wikipedia's older fixture list shows other opponents, so the schedule moved. Re-check before use.",
+    "Not independently confirmed (single source or no source retrieved): 67th career hat-trick; 'Only one counted' setting; Mane reminding Ronaldo about Siu (video on X cited by Gulf News); A Bola testimonial talk; Houthi link to the Neftchi delay (Khaleej Times says missiles in recent days)."
+  ],
+  "verification": {
+    "checked": 96,
+    "corrected": 28,
+    "removed": 4,
+    "notes": "Checked on 2026-11-20 against the cited URLs plus Wikipedia (player, Al Nassr, Nations League Group 4, season pages). Main corrections: Ettifaq match date (25 Aug); title clinched 21 May; false 'no club trophy since 2021' (2023 Arab Club Champions Cup); unsupported White House 'ceremonial key'; 'number 7' not in the retirement statement; Jesus/mother quotes and Ronaldo 'promise' wording; Pakhtakor date (2 Nov); Globe Soccer list attribution; current season goals caveat (8 league vs 7 Wikipedia). Removed four unverifiable claims. Denmark 4-2 (1 Oct), 4-1 (14 Nov), 35 trophies, 5 Ballons d'Or, 234 caps/146 goals, 985 goals, hat-trick, retirement date, Asian Cup dates, water plant, Globe Soccer dates confirmed."
+  }
+}

@@ -1,0 +1,97 @@
+{
+ "no": 28,
+ "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/028_ronaldo_nazario_r9.mp4",
+ "total": 55.766666666666666,
+ "outro_start": 49.76,
+ "cover": true,
+ "seq": [
+  {
+   "id": "s01",
+   "kind": "HOOK",
+   "start": 0.1,
+   "end": 1.8666666666666667,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/028/s01.mp4",
+   "clip_dur": 1.767,
+   "frames": 42
+  },
+  {
+   "id": "s02",
+   "kind": "NEWS",
+   "start": 3.8666666666666667,
+   "end": 6.133333333333334,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/028/s02.mp4",
+   "clip_dur": 2.267,
+   "frames": 54
+  },
+  {
+   "id": "s03",
+   "kind": "COMIC1",
+   "start": 8.0,
+   "end": 10.266666666666667,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/028/s03.mp4",
+   "clip_dur": 2.267,
+   "frames": 54
+  },
+  {
+   "id": "s04",
+   "kind": "COMIC2",
+   "start": 15.7,
+   "end": 17.966666666666665,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/028/s04.mp4",
+   "clip_dur": 2.266,
+   "frames": 54
+  },
+  {
+   "id": "s05",
+   "kind": "INTERVIEW",
+   "start": 24.1,
+   "end": 26.366666666666667,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/028/s05.mp4",
+   "clip_dur": 2.266,
+   "frames": 54
+  },
+  {
+   "id": "s06",
+   "kind": "PROVOC",
+   "start": 29.6,
+   "end": 31.366666666666667,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/028/s06.mp4",
+   "clip_dur": 1.767,
+   "frames": 42
+  },
+  {
+   "id": "s07",
+   "kind": "COMIC3",
+   "start": 34.46666666666667,
+   "end": 36.733333333333334,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/028/s07.mp4",
+   "clip_dur": 2.267,
+   "frames": 54
+  },
+  {
+   "id": "s08",
+   "kind": "STATS",
+   "start": 43.6,
+   "end": 45.36666666666667,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/028/s08.mp4",
+   "clip_dur": 1.767,
+   "frames": 42
+  }
+ ],
+ "missing": [],
+ "dropped": [],
+ "cards": [],
+ "caption_sprites": 143,
+ "whoosh": [
+  0.0,
+  3.7666666666666666,
+  7.9,
+  15.6,
+  24.0,
+  29.5,
+  34.36666666666667,
+  43.5,
+  49.66
+ ],
+ "shots": 18
+}

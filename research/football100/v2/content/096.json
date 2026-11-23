@@ -1,0 +1,485 @@
+{
+ "no": 96,
+ "style": "STRIP-MINIMAL",
+ "prop": "bag",
+ "cast": {
+  "bushby": {
+   "role": "fan",
+   "shirt": "#2b2b3a",
+   "hair": "#2b2b3a"
+  },
+  "guard": {
+   "role": "staff",
+   "shirt": "#6b7280",
+   "hair": "#2b2b3a"
+  }
+ },
+ "sequences": {
+  "s01": {
+   "type": "HOOK",
+   "q": "Could you walk 28 years without lifts?",
+   "prop": "boots",
+   "emote": "sweat",
+   "board": "typed"
+  },
+  "s02": {
+   "type": "NEWS",
+   "name": "Karl Bushby",
+   "fact": "Karl Bushby set off from Chile",
+   "ticker": "Chile, 1998",
+   "icons": [
+    "flag",
+    "boots",
+    "globe"
+   ],
+   "role": "fan",
+   "actor": "bushby"
+  },
+  "s03": {
+   "type": "STATS",
+   "items": [
+    {
+     "icon": "calendar",
+     "value": "1998",
+     "label": "from Chile"
+    },
+    {
+     "icon": "hourglass",
+     "value": "28",
+     "label": "years of walking"
+    },
+    {
+     "icon": "globe",
+     "value": "31",
+     "label": "miles",
+     "suffix": "k"
+    }
+   ]
+  },
+  "s04": {
+   "type": "COMIC",
+   "bg": "street",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "bushby",
+       "x": 220,
+       "y": 1440,
+       "pose": "run",
+       "emote": "happy",
+       "scale": 1.4,
+       "label": "Karl Bushby"
+      }
+     ],
+     "props": [
+      {
+       "kind": "bench",
+       "x": 440,
+       "y": 1335,
+       "scale": 1.5,
+       "layer": "back"
+      },
+      {
+       "kind": "car",
+       "x": 735,
+       "y": 1265,
+       "scale": 2.1,
+       "face": "neutral",
+       "layer": "front"
+      },
+      {
+       "kind": "bag",
+       "x": 160,
+       "y": 1180,
+       "scale": 0.9
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.52,
+     "actors": [
+      {
+       "id": "bushby",
+       "x": 270,
+       "y": 1440,
+       "pose": "run",
+       "emote": "neutral",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "bench",
+       "x": 440,
+       "y": 1335,
+       "scale": 1.5,
+       "layer": "back"
+      },
+      {
+       "kind": "car",
+       "x": 735,
+       "y": 1265,
+       "scale": 2.1,
+       "face": "happy",
+       "anim": "wobble",
+       "layer": "front"
+      },
+      {
+       "kind": "bag",
+       "x": 210,
+       "y": 1180,
+       "scale": 0.9
+      }
+     ],
+     "cam": "push",
+     "sfx": {
+      "text": "DING",
+      "x": 740,
+      "y": 560,
+      "r": 110
+     }
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.52,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "bushby",
+       "x": 330,
+       "y": 1440,
+       "pose": "wave",
+       "emote": "wink",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "bench",
+       "x": 440,
+       "y": 1335,
+       "scale": 1.5,
+       "layer": "back"
+      },
+      {
+       "kind": "car",
+       "x": 735,
+       "y": 1265,
+       "scale": 2.1,
+       "face": "sad",
+       "layer": "front"
+      },
+      {
+       "kind": "bag",
+       "x": 270,
+       "y": 1180,
+       "scale": 0.9
+      }
+     ]
+    }
+   ]
+  },
+  "s05": {
+   "type": "COMIC",
+   "bg": "plain-colour",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "bushby",
+       "x": 280,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "neutral",
+       "scale": 1.4,
+       "label": "The Channel swim"
+      }
+     ],
+     "props": [
+      {
+       "kind": "ticket",
+       "x": 770,
+       "y": 1000,
+       "scale": 2.2,
+       "face": "neutral",
+       "anim": "float",
+       "label": "A ferry"
+      },
+      {
+       "kind": "bag",
+       "x": 220,
+       "y": 1180,
+       "scale": 0.9
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.52,
+     "actors": [
+      {
+       "id": "bushby",
+       "x": 280,
+       "y": 1440,
+       "pose": "think",
+       "emote": "neutral",
+       "scale": 1.4,
+       "label": "The Channel swim"
+      }
+     ],
+     "props": [
+      {
+       "kind": "ticket",
+       "x": 770,
+       "y": 1000,
+       "scale": 2.2,
+       "face": "happy",
+       "anim": "bounce",
+       "label": "A ferry"
+      },
+      {
+       "kind": "bag",
+       "x": 220,
+       "y": 1180,
+       "scale": 0.9
+      }
+     ],
+     "cam": "push",
+     "sfx": {
+      "text": "DING",
+      "x": 640,
+      "y": 410,
+      "r": 110
+     }
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.52,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "bushby",
+       "x": 280,
+       "y": 1440,
+       "pose": "jump",
+       "emote": "wink",
+       "scale": 1.4,
+       "lift": 120,
+       "rot": 20
+      }
+     ],
+     "props": [
+      {
+       "kind": "ticket",
+       "x": 770,
+       "y": 1000,
+       "scale": 2.2,
+       "face": "sad"
+      },
+      {
+       "kind": "bag",
+       "x": 300,
+       "y": 1000,
+       "scale": 0.9
+      },
+      {
+       "kind": "cross",
+       "x": 930,
+       "y": 800,
+       "scale": 0.9,
+       "anim": "pop"
+      }
+     ]
+    }
+   ],
+   "accent": "#3d8fd1"
+  },
+  "s06": {
+   "type": "COMIC",
+   "bg": "stadium",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "bushby",
+       "x": 290,
+       "y": 1440,
+       "pose": "present",
+       "emote": "neutral",
+       "scale": 1.4
+      },
+      {
+       "id": "guard",
+       "x": 800,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "neutral",
+       "scale": 1.3,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "bench",
+       "x": 560,
+       "y": 1240,
+       "scale": 2.4
+      },
+      {
+       "kind": "bag",
+       "x": 230,
+       "y": 1180,
+       "scale": 0.9
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.52,
+     "actors": [
+      {
+       "id": "bushby",
+       "x": 290,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "sweat",
+       "scale": 1.4
+      },
+      {
+       "id": "guard",
+       "x": 800,
+       "y": 1440,
+       "pose": "point",
+       "emote": "shock",
+       "scale": 1.3,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "bench",
+       "x": 560,
+       "y": 1240,
+       "scale": 2.4
+      },
+      {
+       "kind": "bag",
+       "x": 230,
+       "y": 1180,
+       "scale": 0.9
+      }
+     ],
+     "cam": "push",
+     "bubble": {
+      "who": "guard",
+      "icon": "boots"
+     }
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.52,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "bushby",
+       "x": 290,
+       "y": 1440,
+       "pose": "cheer",
+       "emote": "happy",
+       "scale": 1.4
+      },
+      {
+       "id": "guard",
+       "x": 800,
+       "y": 1440,
+       "pose": "present",
+       "emote": "happy",
+       "scale": 1.3,
+       "flip": true,
+       "hold": {
+        "kind": "armchair",
+        "hand": "both",
+        "scale": 0.6
+       }
+      }
+     ],
+     "props": [
+      {
+       "kind": "bench",
+       "x": 560,
+       "y": 1240,
+       "scale": 2.4
+      },
+      {
+       "kind": "bag",
+       "x": 230,
+       "y": 1180,
+       "scale": 0.9
+      }
+     ],
+     "bubble": {
+      "who": "bushby",
+      "icon": "flag"
+     },
+     "sfx": {
+      "text": "DING",
+      "x": 560,
+      "y": 540,
+      "r": 110
+     }
+    }
+   ]
+  },
+  "s07": {
+   "type": "PROVOC",
+   "q": "Welcome him at City Hall: good call?",
+   "a": "Brilliant",
+   "b": "Fair enough",
+   "split": [
+    72,
+    28
+   ],
+   "mood": "fun"
+  },
+  "s08": {
+   "type": "INTERVIEW",
+   "label": "REPORTER ASKS",
+   "bubble": "Sitting down at the MKM Stadium?",
+   "answer": {
+    "icon": "ticket",
+    "gesture": "thumbsup"
+   },
+   "subject": "Karl Bushby",
+   "subject_cast": "bushby"
+  }
+ }
+}

@@ -1,0 +1,280 @@
+{
+ "video_id": "0ZbcFD1w2bk",
+ "topic": "Sky Sports News item: Cameron Bancroft accuses Pat Cummins of knowing about the sandpaper plan (2018 ball-tampering), presented via studio shot and quote graphics",
+ "hero": "Cameron Bancroft (shown as photo in graphic)",
+ "hero_role": "protagonist of the news item (the one speaking out)",
+ "media_type_overall": "mixed",
+ "hook": "Wide studio shot: presenter standing before large video wall with Bancroft/team photos and quote 'It was not just the three of us. It was the whole team.'",
+ "subtitle_style": "Quote cards: white sans text on blue gradient panel, bold headline 'Bancroft speaks out', attribution bottom-left; photo of Bancroft in whites on right",
+ "reaction_overlays": "none",
+ "transition_summary": "Studio hold ~20 s then cut to full-screen quote graphics; wipe-swipe between quote cards; very slow rhythm (~1 cut per 20 s)",
+ "audio_note": "Presenter voice-over reading quotes (transcript: 'Now to some bombshell quotes from Cameron Bancroft as sandpaper gate...')",
+ "reuse_segments": [
+  {
+   "t0": 0,
+   "t1": 20,
+   "what": "Studio presenter in front of video wall",
+   "origin_guess": "press conference/interview clip",
+   "rights_risk": "high",
+   "how_to_reuse": "Sky Sports brand; recreate in own studio set"
+  },
+  {
+   "t0": 20,
+   "t1": 62,
+   "what": "Quote cards with Bancroft photo",
+   "origin_guess": "broadcast match",
+   "rights_risk": "medium",
+   "how_to_reuse": "recreate card template with licensed photo or generated illustration"
+  }
+ ],
+ "frames": [
+  {
+   "idx": 1,
+   "t": 0,
+   "desc": "Studio wide: presenter before video wall with quote",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 2,
+   "t": 2,
+   "desc": "Studio wide: presenter before video wall with quote",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 3,
+   "t": 4,
+   "desc": "Studio wide: presenter before video wall with quote",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 4,
+   "t": 6,
+   "desc": "Studio wide: presenter before video wall with quote",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 5,
+   "t": 8,
+   "desc": "Studio wide: presenter before video wall with quote",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 6,
+   "t": 10,
+   "desc": "Studio wide: presenter before video wall with quote",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 7,
+   "t": 12,
+   "desc": "Studio wide: presenter before video wall with quote",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 8,
+   "t": 14,
+   "desc": "Studio wide: presenter before video wall with quote",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 9,
+   "t": 16,
+   "desc": "Studio wide: presenter before video wall with quote",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 10,
+   "t": 18,
+   "desc": "Studio wide: presenter before video wall with quote",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 11,
+   "t": 20,
+   "desc": "Quote card 1: angry, betrayed and alone",
+   "type": "graphic_card",
+   "text_on_screen": "Bancroft speaks out",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 12,
+   "t": 22,
+   "desc": "Quote card 1: angry, betrayed and alone",
+   "type": "graphic_card",
+   "text_on_screen": "Bancroft speaks out",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 13,
+   "t": 24,
+   "desc": "Quote card 1: angry, betrayed and alone",
+   "type": "graphic_card",
+   "text_on_screen": "Bancroft speaks out",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 14,
+   "t": 26,
+   "desc": "Quote card 1: angry, betrayed and alone",
+   "type": "graphic_card",
+   "text_on_screen": "Bancroft speaks out",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 15,
+   "t": 28,
+   "desc": "Quote card 1: angry, betrayed and alone",
+   "type": "graphic_card",
+   "text_on_screen": "Bancroft speaks out",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 16,
+   "t": 30,
+   "desc": "Quote card 1: angry, betrayed and alone",
+   "type": "graphic_card",
+   "text_on_screen": "Bancroft speaks out",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 17,
+   "t": 32,
+   "desc": "Quote card 1: angry, betrayed and alone",
+   "type": "graphic_card",
+   "text_on_screen": "Bancroft speaks out",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 18,
+   "t": 34,
+   "desc": "Quote card 1: angry, betrayed and alone",
+   "type": "graphic_card",
+   "text_on_screen": "Bancroft speaks out",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 19,
+   "t": 36,
+   "desc": "Quote card 1: angry, betrayed and alone",
+   "type": "graphic_card",
+   "text_on_screen": "Bancroft speaks out",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 20,
+   "t": 38,
+   "desc": "Quote card 1: angry, betrayed and alone",
+   "type": "graphic_card",
+   "text_on_screen": "Bancroft speaks out",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 21,
+   "t": 40,
+   "desc": "Blank blue wipe between cards",
+   "type": "graphic_card",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 22,
+   "t": 42,
+   "desc": "Quote card 2: withheld important details",
+   "type": "graphic_card",
+   "text_on_screen": "Bancroft speaks out",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 23,
+   "t": 44,
+   "desc": "Quote card 2: withheld important details",
+   "type": "graphic_card",
+   "text_on_screen": "Bancroft speaks out",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 24,
+   "t": 46,
+   "desc": "Quote card 2: withheld important details",
+   "type": "graphic_card",
+   "text_on_screen": "Bancroft speaks out",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 25,
+   "t": 48,
+   "desc": "Quote card 2: withheld important details",
+   "type": "graphic_card",
+   "text_on_screen": "Bancroft speaks out",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 26,
+   "t": 50,
+   "desc": "Quote card 2: withheld important details",
+   "type": "graphic_card",
+   "text_on_screen": "Bancroft speaks out",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 27,
+   "t": 52,
+   "desc": "Quote card 2: withheld important details",
+   "type": "graphic_card",
+   "text_on_screen": "Bancroft speaks out",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 28,
+   "t": 54,
+   "desc": "Wipe transition into card 3",
+   "type": "graphic_card",
+   "text_on_screen": "Bancroft speaks out",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 29,
+   "t": 56,
+   "desc": "Quote card 3: final straw, Cummins press conference",
+   "type": "graphic_card",
+   "text_on_screen": "Bancroft speaks out",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 30,
+   "t": 58,
+   "desc": "Quote card 3: final straw, Cummins press conference",
+   "type": "graphic_card",
+   "text_on_screen": "Bancroft speaks out",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 31,
+   "t": 60,
+   "desc": "Quote card 3: final straw, Cummins press conference",
+   "type": "graphic_card",
+   "text_on_screen": "Bancroft speaks out",
+   "transition_to_next": "none"
+  }
+ ]
+}

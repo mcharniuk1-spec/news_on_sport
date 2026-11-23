@@ -1,0 +1,546 @@
+[
+  {
+    "headline": "PSG beat Lyon 2-0 with two late substitute goals to go top of Ligue 1",
+    "date": "2026-10-26",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/report/_/gameId/401876422",
+    "entities": ["Paris Saint-Germain", "Olympique Lyonnais", "Senny Mayulu", "Mika Godts", "Luis Enrique"],
+    "facts": [
+      "PSG won the rescheduled match 2-0 at the Parc des Princes; the first half was goalless.",
+      "Substitute Senny Mayulu scored in the 72nd minute and substitute Mika Godts curled in a second in the 84th.",
+      "PSG fans showed a banner supporting the injured Khvicha Kvaratskhelia before kickoff, and the win put PSG top of the table."
+    ],
+    "background": "PSG are the reigning French and European champions under Luis Enrique, while Lyon were mid-table after the loss; Enrique had cited a 2-1 home loss to Lyon in April as extra motivation.",
+    "angle": "win",
+    "sensitive": false,
+    "footage_terms": ["PSG 2-0 Lyon highlights Ligue 1 October 2026", "Mayulu goal PSG Lyon", "Godts goal PSG Lyon"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Police order forces PSG-Lyon to Monday because of protests and Paris's first NFL game",
+    "date": "2026-10-23",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50258584/psg-lyon-match-moved-monday-paris-protests-nfl-game",
+    "entities": ["Paris Saint-Germain", "Olympique Lyonnais", "LFP", "Pittsburgh Steelers", "New Orleans Saints"],
+    "facts": [
+      "The LFP moved PSG-Lyon from Sunday 8:45 pm to Monday after a Paris police prefecture order banned staging the match on Sunday.",
+      "Police resources were stretched by mass protests that weekend, which followed France's worst rioting in years.",
+      "The same Sunday, Steelers vs Saints was played at Stade de France as France's first NFL game, with about 80,000 fans expected."
+    ],
+    "background": "Parc des Princes is PSG's home ground; PSG have won the Ligue 1 title repeatedly since the Qatari takeover in 2011.",
+    "angle": "viral",
+    "sensitive": true,
+    "footage_terms": ["PSG Lyon postponed police protests", "NFL Stade de France Steelers Saints Paris", "Parc des Princes match day"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Ligue 1 shifts Lyon, Nice and Lorient home games at authorities' request amid nationwide protests",
+    "date": "2026-10-27",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50297412/ligue-1-reschedules-matches-public-protests-france",
+    "entities": ["Ligue 1", "LFP", "Olympique Lyonnais", "Angers", "OGC Nice", "FC Lorient"],
+    "facts": [
+      "Lyon's home game against Angers moved from Saturday 8:45 pm to Sunday afternoon.",
+      "Nice's Saturday home match moved to Friday evening and Lorient's Saturday home match moved to Monday evening.",
+      "The changes came at the request of public authorities after hundreds of thousands marched over living costs and school conditions."
+    ],
+    "background": "The Professional Football League (LFP) runs Ligue 1 and said it made the changes at the request of public authorities; the unrest was described as France's worst in years.",
+    "angle": "business",
+    "sensitive": true,
+    "footage_terms": ["Ligue 1 matches postponed protests France", "Lyon Angers Groupama Stadium", "Nice home match Allianz Riviera"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Hakimi scores first career hat trick with two assists as Luis Enrique becomes PSG's winningest coach",
+    "date": "2026-10-30",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50330654/psg-achraf-hakimi-hat-trick-luis-enrique-wins-record-le-havre",
+    "entities": ["Achraf Hakimi", "Luis Enrique", "Paris Saint-Germain", "Le Havre", "Senny Mayulu", "Laurent Blanc"],
+    "facts": [
+      "PSG beat Le Havre 5-1 after trailing to an early Josh Maja goal; Hakimi was involved in all five PSG goals.",
+      "It was Luis Enrique's 127th win as PSG coach, passing Laurent Blanc for the most in club history.",
+      "A follow-up ESPN analysis says Hakimi is the only defender among seven players to record five goal contributions in a Ligue 1 game, and that Enrique called him the best right-back in the world and questioned whether he is still a defender."
+    ],
+    "background": "Hakimi won the CAF African Player of the Year award in 2025, the first defender to do so since 1973 according to ESPN, and he is again billed as the favourite for the CAF awards on 7 December.",
+    "angle": "record",
+    "sensitive": false,
+    "footage_terms": ["Hakimi hat trick PSG Le Havre", "Le Havre 1-5 PSG highlights", "Luis Enrique record PSG wins press conference"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Kvaratskhelia has successful knee surgery in Doha after tearing his ACL against Barcelona",
+    "date": "2026-10-27",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50297566/psg-khvicha-kvaratskhelia-successful-knee-surgery",
+    "entities": ["Khvicha Kvaratskhelia", "Paris Saint-Germain", "Luis Enrique", "Aspetar", "Xavi Espart"],
+    "facts": [
+      "Kvaratskhelia tore the ACL in his right knee in PSG's 4-2 Champions League win over Barcelona on 20 October after a challenge by Xavi Espart.",
+      "PSG said the operation at Aspetar Hospital in Doha was successful and rehabilitation now begins.",
+      "Luis Enrique said he will come back even stronger, but also that PSG must sign a new player; Sky Sports says his season is over."
+    ],
+    "background": "The Georgian winger joined PSG from Napoli in January 2025 and finished sixth in the 2026 Ballon d'Or voting, as PSG's highest-ranked player.",
+    "angle": "coach",
+    "sensitive": true,
+    "footage_terms": ["Kvaratskhelia injury PSG Barcelona", "Luis Enrique Kvaratskhelia press conference", "PSG fans banner Kvaratskhelia"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Ballon d'Or night: PSG named best club, but Vitinha falls from 3rd to 14th and Enrique says he deserved more",
+    "date": "2026-10-29",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50320065/psg-luis-enrique-vitinha-ballon-dor",
+    "entities": ["Vitinha", "Luis Enrique", "Paris Saint-Germain", "Ousmane Dembele", "Harry Kane", "Luis de la Fuente", "Khvicha Kvaratskhelia"],
+    "facts": [
+      "Vitinha finished 14th in the Ballon d'Or rankings a year after finishing third, and Luis Enrique said he deserved a higher place.",
+      "PSG were named Men's Club of the Year, and Kvaratskhelia was PSG's highest-ranked player in sixth.",
+      "Enrique was a nominee for coach of the year, but the prize went to Spain's Luis de la Fuente; a later ESPN ranking piece calls Harry Kane the reigning Ballon d'Or winner."
+    ],
+    "background": "Ousmane Dembele, a PSG player, was the reigning Ballon d'Or holder going into the ceremony according to Sky Sports, but he has been out with a thigh injury and was dropped from ESPN's November top-10 list under its injury rule.",
+    "angle": "history",
+    "sensitive": false,
+    "footage_terms": ["Ballon d'Or 2026 ceremony PSG club of the year", "Vitinha Ballon d'Or ranking reaction", "Luis Enrique Vitinha interview"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Strasbourg 1-3 PSG: Dembele misses a penalty then scores, Reyna opens the scoring for Strasbourg",
+    "date": "2026-10-17",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50203117/usmnt-reyna-continues-fine-form-goal-strasbourg-loss-psg",
+    "entities": ["Strasbourg", "Paris Saint-Germain", "Ousmane Dembele", "Gio Reyna", "Illya Zabarnyi", "Desire Doue", "Luis Enrique"],
+    "facts": [
+      "Gio Reyna put Strasbourg ahead in the 17th minute, and PSG scored three times in the second half.",
+      "Illya Zabarnyi equalised around the 77th minute, Dembele scored in the 85th, and Desire Doue added a stoppage-time goal.",
+      "Dembele had missed a penalty in the 72nd minute after a handball by Pape Demba Diop; Luis Enrique had rested Doue, Vitinha, Nuno Mendes and Hakimi to start ahead of the Barcelona game."
+    ],
+    "background": "Dembele is the 2025 Ballon d'Or winner as described by Sky Sports, and Reyna joined Strasbourg from Borussia Monchengladbach this season.",
+    "angle": "win",
+    "sensitive": false,
+    "footage_terms": ["Strasbourg 1-3 PSG highlights", "Dembele penalty miss Strasbourg PSG", "Reyna goal Strasbourg PSG"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Barcelona complain to UEFA about chainsaw-themed PSG tifo after 4-2 loss in Paris",
+    "date": "2026-10-21",
+    "source_domain": "skysports.com",
+    "url": "https://www.skysports.com/football/news/13601843/khvicha-kvaratskhelia-psg-forward-set-for-surgery-after-rupturing-acl-in-champions-league-win-over-barcelona",
+    "entities": ["Barcelona", "Paris Saint-Germain", "UEFA", "Khvicha Kvaratskhelia"],
+    "facts": [
+      "Barcelona complained to UEFA about a chainsaw-themed tifo displayed at the Champions League match in Paris, calling it deeply disturbing.",
+      "UEFA said it was waiting for the match report before deciding on any action.",
+      "PSG won the match 4-2 on 20 October and topped the 36-team league table after three wins from three."
+    ],
+    "background": "PSG are chasing a third straight Champions League title; the Sky article is mainly about Kvaratskhelia's ACL injury sustained in this match.",
+    "angle": "viral",
+    "sensitive": false,
+    "footage_terms": ["PSG Barcelona chainsaw tifo", "PSG 4-2 Barcelona highlights Champions League", "Parc des Princes tifo Barcelona UEFA"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "PSG thrash Villarreal 6-0 and set Champions League scoring records without their injured stars",
+    "date": "2026-11-03",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50371706/psg-villarreal-champions-league-record-goals",
+    "entities": ["Paris Saint-Germain", "Villarreal", "Fabian Ruiz", "Joao Neves", "Desire Doue", "Senny Mayulu", "David Boly", "Luis Enrique"],
+    "facts": [
+      "PSG won 6-0 with goals from Joao Neves, Desire Doue, Senny Mayulu, Fabian Ruiz (two) and David Boly on his Champions League debut.",
+      "They became the fastest team to reach four goals in a Champions League match, in 17 minutes, beating Real Madrid's 20 minutes in 2011.",
+      "PSG were without Dembele, Marquinhos, Nuno Mendes and Kvaratskhelia, and Luis Enrique said it is too early to get carried away."
+    ],
+    "background": "PSG are the defending European champions and, per ESPN, also became the first team in Champions League history to score four or more goals in four straight games.",
+    "angle": "record",
+    "sensitive": false,
+    "footage_terms": ["PSG 6-0 Villarreal highlights", "Fabian Ruiz double PSG Villarreal", "Luis Enrique press conference Villarreal"],
+    "confidence": "high"
+  },
+  {
+    "headline": "PSG edge Troyes 1-0 for an 11th straight win as Zabarnyi heads the winner",
+    "date": "2026-11-07",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/report/_/gameId/401876407",
+    "entities": ["Paris Saint-Germain", "Troyes", "Illia Zabarnyi", "Senny Mayulu", "Hillel Konate"],
+    "facts": [
+      "Illia Zabarnyi scored a 39th-minute header from a Senny Mayulu cross at the Parc des Princes.",
+      "Mayulu hit the woodwork twice in the opening six minutes and Troyes had a late equaliser ruled out for offside.",
+      "The win was PSG's 11th in a row in all competitions and left them top on 23 points, ahead of Lille on 21 and Paris FC on 20."
+    ],
+    "background": "PSG failed to win any of their first three league games this season, so the winning run came after a slow Ligue 1 start.",
+    "angle": "win",
+    "sensitive": false,
+    "footage_terms": ["PSG 1-0 Troyes highlights", "Zabarnyi header PSG Troyes", "PSG 11 wins in a row"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Paris FC's Lassine Sinayoko leads Ligue 1 scoring with nine goals in ten games",
+    "date": "2026-11-10",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/espn/story/_/id/50440279/lassine-sinayoko-yassir-zabiri-good-seem",
+    "entities": ["Lassine Sinayoko", "Paris FC", "Auxerre", "Marseille", "Rennes"],
+    "facts": [
+      "The 26-year-old Mali international has nine goals and five assists in 10 Ligue 1 games after a reported 8 million euro move from Auxerre.",
+      "He scored a hat-trick in a 3-2 loss at Marseille and had two goals and two assists in a 4-3 win over Rennes.",
+      "ESPN says he is the first African player since George Weah in 1991 to score eight goals in a Ligue 1 side's first nine matchdays."
+    ],
+    "background": "Paris FC are the capital's second club and sat third in Ligue 1, three points behind PSG, at the time of the article; Sinayoko scored 12 goals in 32 games for Auxerre last season.",
+    "angle": "record",
+    "sensitive": false,
+    "footage_terms": ["Sinayoko Paris FC goals", "Marseille 3-2 Paris FC Sinayoko hat-trick", "Paris FC 4-3 Rennes highlights"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Balogun says he will push for a January exit from Monaco as Milan and Juventus circle",
+    "date": "2026-11-12",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50463171/usmnt-folarin-balogun-leave-monaco-january-transfer",
+    "entities": ["Folarin Balogun", "AS Monaco", "Juventus", "AC Milan", "Filipe Luis", "Jorge Mendes"],
+    "facts": [
+      "Balogun said he will seek a transfer from Monaco in January and expects to look for a way out again in future windows.",
+      "He has played 152 league minutes in six appearances and scored his first Monaco goal in a 3-1 loss at Paris FC.",
+      "On 17 November ESPN, citing Calciomercato, said his agent Jorge Mendes has offered him to Milan and Juventus; his Monaco contract runs to June 2028."
+    ],
+    "background": "Balogun led the USMNT with three goals at the 2026 World Cup, and Monaco had counted on selling him in the summer to ease their finances.",
+    "angle": "transfer",
+    "sensitive": false,
+    "footage_terms": ["Folarin Balogun Monaco goal Paris FC", "Balogun USMNT interview transfer", "Balogun Monaco Filipe Luis"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "How Balogun's 40 million pound Everton move collapsed on deadline day and left Monaco frustrated",
+    "date": "2026-09-03",
+    "source_domain": "skysports.com",
+    "url": "https://www.skysports.com/football/news/13580477/why-folarin-baloguns-everton-move-collapsed-on-deadline-day-leaving-toffees-chelsea-and-monaco-frustrated",
+    "entities": ["Folarin Balogun", "AS Monaco", "Everton", "Chelsea", "Lamine Camara", "Thiago Scuro", "Joshua Zirkzee"],
+    "facts": [
+      "Monaco and Everton had agreed a deal of about 40 million pounds, but Everton then cited evidence of an injury in the medical, which Monaco and the player disputed.",
+      "Everton renegotiated the club fee into performance-related terms, and Balogun walked away after feeling Everton were also pursuing Manchester United's Joshua Zirkzee.",
+      "Monaco had already pulled the sale of Lamine Camara to Chelsea, expecting Balogun's fee, and so ended up with neither deal."
+    ],
+    "background": "Monaco's chief Thiago Scuro said Balogun had complained about his treatment, and Sky Sports considered a January revival unlikely.",
+    "angle": "scandal",
+    "sensitive": true,
+    "footage_terms": ["Balogun Everton transfer collapse deadline day", "Thiago Scuro Monaco Balogun", "Everton transfer deadline day 2026"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Liverpool contact Monaco's Lamine Camara over his future after the Chelsea deal collapsed",
+    "date": "2026-10-29",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50315695/transfer-rumors-news-everton-eye-loan-man-uniteds-rashford",
+    "entities": ["Lamine Camara", "AS Monaco", "Liverpool", "Chelsea"],
+    "facts": [
+      "The Sun reports Liverpool have contacted Camara's representatives and asked to be kept updated on his future.",
+      "A January move is ruled out after a reported 55 million euro deal with Chelsea collapsed over the summer.",
+      "Liverpool and Chelsea are both expected to explore a transfer for the 22-year-old Senegal international next year."
+    ],
+    "background": "Monaco have no Champions League income this season, which Sky Sports says makes player sales and qualifying for the competition important.",
+    "angle": "transfer",
+    "sensitive": false,
+    "footage_terms": ["Lamine Camara Monaco highlights", "Lamine Camara Senegal goals", "Camara Liverpool transfer"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "PSG see Leverkusen's Ibrahim Maza as a possible Kvaratskhelia replacement, Leverkusen plan to resist",
+    "date": "2026-10-29",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50315695/transfer-rumors-news-everton-eye-loan-man-uniteds-rashford",
+    "entities": ["Ibrahim Maza", "Bayer Leverkusen", "Paris Saint-Germain", "Khvicha Kvaratskhelia", "Fermin Lopez"],
+    "facts": [
+      "PSG are reported to see Algeria winger Ibrahim Maza as a possible mid-season replacement for Kvaratskhelia.",
+      "Leverkusen reportedly plan to resist the interest.",
+      "ESPN's same roundup says Chelsea and PSG are reportedly competing for Barcelona midfielder Fermin Lopez."
+    ],
+    "background": "Kvaratskhelia's ACL injury ends his season; Luis Enrique said on 25 October that PSG must sign a new player, although ESPN reported two days later that he had indicated no replacement would come.",
+    "angle": "transfer",
+    "sensitive": false,
+    "footage_terms": ["Ibrahim Maza Leverkusen highlights", "Maza Algeria goals", "PSG transfer Kvaratskhelia replacement"],
+    "confidence": "low"
+  },
+  {
+    "headline": "PSG progress in contract talks with Desire Doue as Arsenal, Chelsea and City watch",
+    "date": "2026-10-28",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50305774/transfer-rumors-news-arsenal-chelsea-manchester-city-tracking-psg-star-desire-doue",
+    "entities": ["Desire Doue", "Paris Saint-Germain", "Arsenal", "Chelsea", "Manchester City", "Bayern Munich"],
+    "facts": [
+      "Arsenal, Chelsea, Manchester City and Bayern Munich are monitoring the 21-year-old France international.",
+      "PSG are reportedly progressing in talks on an extension that would keep him beyond 2029.",
+      "Luis Enrique has earlier questioned why Doue is not seen as a Ballon d'Or contender."
+    ],
+    "background": "Doue scored in PSG's wins over Strasbourg and Villarreal this autumn and is one of the club's young forwards covering for injured stars.",
+    "angle": "transfer",
+    "sensitive": false,
+    "footage_terms": ["Desire Doue PSG goals", "Doue Villarreal goal Champions League", "Doue France highlights"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Manchester United scout Rennes left-back Mahamadou Nagida for January",
+    "date": "2026-11-08",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50418356/transfer-rumors-news-man-united-rennes-defender-mahamadou-nagida",
+    "entities": ["Mahamadou Nagida", "Stade Rennais", "Manchester United", "Alejandro Balde"],
+    "facts": [
+      "Per TEAMtalk, Manchester United have been scouting the 21-year-old Cameroon international as a possible January left-back signing.",
+      "Nagida has played 13 times in all competitions this season, scoring once and providing two assists.",
+      "Other left-backs on United's reported shortlist include Alejandro Balde, David Raum and Adrien Truffert."
+    ],
+    "background": "Rennes were 8th in Ligue 1 on 16 points in the latest table; striker Esteban Lepaul has nine league goals for them.",
+    "angle": "transfer",
+    "sensitive": false,
+    "footage_terms": ["Mahamadou Nagida Rennes highlights", "Nagida Cameroon", "Rennes Ligue 1 highlights November 2026"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Newcastle set to rival Liverpool for Lens defender Ganiou while Bayern ask about keeper Risser",
+    "date": "2026-11-17",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50508862/transfer-rumors-news-manchester-united-newcastle-malick-thiaw",
+    "entities": ["Ismaelo Ganiou", "Robin Risser", "RC Lens", "Newcastle United", "Liverpool", "Bayern Munich"],
+    "facts": [
+      "Newcastle United are reported to be set to rival Liverpool for Lens defender Ismaelo Ganiou.",
+      "Bayern Munich have reportedly approached Lens about goalkeeper Robin Risser, with several Premier League clubs possibly competing.",
+      "Lens sat 11th in Ligue 1 on 13 points after 10 games."
+    ],
+    "background": "Lens won their first French Cup last season and beat PSG in the French Super Cup in August, but have had a poor start to this Ligue 1 campaign.",
+    "angle": "transfer",
+    "sensitive": false,
+    "footage_terms": ["Robin Risser Lens saves", "Ismaelo Ganiou Lens highlights", "Lens Ligue 1 highlights November 2026"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Sporting agree about 5 million euro buyout with Lyon for Paulo Fonseca after sacking Borges",
+    "date": "2026-11-02",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50359218/sporting-lisbon-sack-borges-ucl-match-shakhtar-donetsk",
+    "entities": ["Paulo Fonseca", "Olympique Lyonnais", "Sporting CP", "Rui Borges", "Tiago Fernandes"],
+    "facts": [
+      "Sporting began talks to end Rui Borges's contract and put Tiago Fernandes in temporary charge before their Champions League match against Shakhtar.",
+      "Sporting and Lyon agreed compensation of about 5 million euro for Paulo Fonseca, 53; personal terms were the next step and he was reportedly open to the move.",
+      "Lyon sat third in Ligue 1 when this was reported."
+    ],
+    "background": "Fonseca joined Lyon in January 2025 on a contract running to July 2027, while Borges had won the Portuguese league title with Sporting.",
+    "angle": "coach",
+    "sensitive": false,
+    "footage_terms": ["Paulo Fonseca Lyon press conference", "Paulo Fonseca Sporting appointed", "Lyon Ligue 1 highlights Fonseca"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Lyon beat Crystal Palace 3-2 in Europa League as ex-Lyon coach Pierre Sage returns as visitor",
+    "date": "2026-10-15",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50189569/lyon-crystal-palace-europa-league-updates-analysis-commentary-score-result",
+    "entities": ["Olympique Lyonnais", "Crystal Palace", "Pierre Sage", "Corentin Tolisso", "Ernest Nuamah", "Pavel Sulc"],
+    "facts": [
+      "Lyon won 3-2 through Corentin Tolisso, Ernest Nuamah just before the break and Pavel Sulc.",
+      "Yeremy Pino and Daichi Kamada scored for Palace.",
+      "It was Lyon's second Europa League win in two games, after beating Anderlecht 2-1."
+    ],
+    "background": "Pierre Sage managed Lyon from November 2023 to January 2025 and now coaches Palace; Lyon had dropped into the Europa League after losing a Champions League playoff to Fenerbahce.",
+    "angle": "win",
+    "sensitive": false,
+    "footage_terms": ["Lyon 3-2 Crystal Palace highlights", "Pierre Sage return Lyon Palace", "Tolisso goal Lyon Palace"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Lille weigh legal action after Tiago Santos ruptures ACL in uncarded Le Havre tackle",
+    "date": "2026-10-12",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50167074/lille-consider-legal-action-tiago-santos-ruptures-acl-tackle",
+    "entities": ["Lille", "Tiago Santos", "Le Havre", "Amir Richardson", "LFP"],
+    "facts": [
+      "Defender Tiago Santos, 24, ruptured the ACL in his right knee and will miss the rest of the season.",
+      "Lille called the tackle by Le Havre's Amir Richardson uncontrolled and dangerous; he was not shown a card.",
+      "Lille said they were considering legal action and asked the league to send the incident to its disciplinary panel."
+    ],
+    "background": "It is Santos's second ACL injury, after a left-knee rupture in October 2024; Lille won the Le Havre game 1-0 and sat second in Ligue 1.",
+    "angle": "scandal",
+    "sensitive": true,
+    "footage_terms": ["Lille Le Havre Tiago Santos injury", "Lille 1-0 Le Havre highlights", "Lille legal action tackle LFP"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Gio Reyna scores for Strasbourg then limps off with thigh injury and misses USMNT Nations League games",
+    "date": "2026-11-06",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50403196/gio-reyna-usa-strasbourg-injury-goal-concacaf-nations-league",
+    "entities": ["Gio Reyna", "Strasbourg", "Toulouse", "Mark McKenzie", "USMNT", "Jack McGlynn"],
+    "facts": [
+      "Reyna scored in the 67th minute, his third of the season, then came off three minutes later with a left-thigh problem as Strasbourg lost 3-1 at Toulouse.",
+      "U.S. Soccer later withdrew him from the Concacaf Nations League quarterfinals against Haiti, citing an unspecified injury.",
+      "Stoke City's Jack McGlynn was called up in his place."
+    ],
+    "background": "Reyna has had injury setbacks at Dortmund and Gladbach, and Strasbourg were 13th in Ligue 1 on 10 points.",
+    "angle": "scandal",
+    "sensitive": true,
+    "footage_terms": ["Reyna goal Strasbourg Toulouse", "Gio Reyna injury Strasbourg", "Toulouse 3-1 Strasbourg highlights"],
+    "confidence": "high"
+  },
+  {
+    "headline": "UEFA bans Lens fans from two away Champions League games over flares at Club Brugge match",
+    "date": "2026-10-27",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50299296/uefa-bans-lens-fans-liverpool-flares-club-brugge",
+    "entities": ["RC Lens", "UEFA", "Club Brugge", "Liverpool", "RB Leipzig"],
+    "facts": [
+      "UEFA appeals judges banned Lens from selling tickets to their fans for the trip to Leipzig on 24 November and for Liverpool at Anfield on 27 January.",
+      "The sanction followed flares thrown toward rival fans and the pitch in a 3-0 home loss to Club Brugge that was briefly stopped.",
+      "Lens were already on UEFA probation after pyrotechnics at Slavia Prague in September and were fined 80,000 euro."
+    ],
+    "background": "Lens won their first French Cup last season and beat PSG in the French Super Cup this August; their fans were also sanctioned after pyrotechnics at Slavia Prague in September.",
+    "angle": "scandal",
+    "sensitive": false,
+    "footage_terms": ["Lens fans flares Club Brugge Champions League", "Lens 0-3 Club Brugge highlights", "Stade Bollaert Lens ultras"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Arsenal score three in seven minutes to beat Lille 3-0 in the Champions League",
+    "date": "2026-10-13",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50175051/arsenal-lille-live-champions-league-latest-updates-commentary-score-result",
+    "entities": ["Lille", "Arsenal", "Jurrien Timber", "Eberechi Eze", "Bukayo Saka"],
+    "facts": [
+      "Arsenal were held until the 64th minute, when Jurrien Timber broke the deadlock.",
+      "Eberechi Eze and Bukayo Saka scored soon after, giving Arsenal three goals in just over seven minutes.",
+      "The win gave Arsenal six points from two Champions League games."
+    ],
+    "background": "Lille went into the game second in Ligue 1 after beating Le Havre 1-0 and also lost 2-4 at home to Galatasaray in the league phase.",
+    "angle": "scandal",
+    "sensitive": false,
+    "footage_terms": ["Arsenal 3-0 Lille highlights", "Timber goal Arsenal Lille", "Lille Champions League Arsenal"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Monaco top Ligue 1 under new coach Filipe Luis while leaning on a teenage academy",
+    "date": "2026-09-29",
+    "source_domain": "skysports.com",
+    "url": "https://www.skysports.com/football/news/13569266/inside-monaco-s-academy-with-eric-dier-how-this-unique-football-club-is-back-at-the-top-of-the-ligue-1-table-in-france",
+    "entities": ["AS Monaco", "Filipe Luis", "Eric Dier", "Thiago Scuro", "Denis Zakaria"],
+    "facts": [
+      "Monaco led Ligue 1 under new head coach Filipe Luis, with four wins and a draw from their first five league games.",
+      "Eric Dier is a senior defender and also coaches the club's under-17s at the La Diagonale academy.",
+      "Monaco have no Champions League income this season and are recruiting players aged 15 to 17 to compete with rivals."
+    ],
+    "background": "Filipe Luis is a former Chelsea and Atletico Madrid left-back who won the Copa Libertadores as Flamengo coach; Monaco later slipped to 7th in the table with 16 points after 10 games.",
+    "angle": "coach",
+    "sensitive": false,
+    "footage_terms": ["Filipe Luis Monaco press conference", "Eric Dier Monaco academy", "Monaco Ligue 1 highlights October 2026"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Marseille fans unveil 'Ligue 2 Project' banner against owner McCourt before 2-1 Classique defeat",
+    "date": "2026-09-20",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/49992210/marseille-fans-bash-us-owner-mccourt",
+    "entities": ["Olympique de Marseille", "Frank McCourt", "Paris Saint-Germain", "Timothy Weah", "Bruno Genesio"],
+    "facts": [
+      "Fans displayed banners reading '2016: Champions Project. 2026: Ligue 2 Project? McCourt Out.' before and during the loss to PSG.",
+      "PSG won 2-1 at the Velodrome through Ferran Torres and Marquinhos after Angel Gomes had equalised; Marseille captain Timothy Weah was sent off for a second yellow card.",
+      "It was Marseille's fifth straight loss in all competitions, and the club signed no new players in the summer window."
+    ],
+    "background": "McCourt bought Marseille in 2016 and pledged 200 million euro over four years; the club has not won the league since 2010 or any trophy since 2012, though they climbed to 4th with 18 points by November.",
+    "angle": "scandal",
+    "sensitive": false,
+    "footage_terms": ["Marseille fans McCourt out banner", "Marseille 1-2 PSG Le Classique highlights", "Timothy Weah red card PSG"],
+    "confidence": "high"
+  },
+  {
+    "headline": "PSG ultras take legal action against ministerial ban on travelling to Marseille",
+    "date": "2026-09-17",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/49965677/psg-marseille-fans-travel-ban-ultras-ligue-1-france",
+    "entities": ["Paris Saint-Germain", "Olympique de Marseille", "Council of State", "Interior Ministry"],
+    "facts": [
+      "PSG ultra groups started an emergency challenge before France's Council of State against a ban on PSG supporters travelling to Marseille.",
+      "The Interior Ministry cited long-running hostility between the fan groups, including February 2018 incidents in Paris that injured eight officers.",
+      "ESPN notes that travel bans for high-risk matches are common in France and that the challenge was considered unlikely to succeed."
+    ],
+    "background": "PSG-Marseille, known as Le Classique, is France's biggest rivalry; PSG won this edition 2-1 on 20 September.",
+    "angle": "scandal",
+    "sensitive": false,
+    "footage_terms": ["PSG ultras Marseille travel ban", "Le Classique PSG Marseille ultras", "Velodrome PSG Marseille 2026"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Paris FC coach Liam Rosenior taunts former club Strasbourg's fans and sparks a mass melee",
+    "date": "2026-09-19",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/49981457/liam-rosenior-taunts-strasbourg-fans-causes-melee-disrespected-my-family",
+    "entities": ["Liam Rosenior", "Paris FC", "Strasbourg", "Ilan Kebbal", "Pablo Pagis"],
+    "facts": [
+      "Paris FC beat Strasbourg 2-1 with goals from Ilan Kebbal and Pablo Pagis plus a late Moustapha Mbow own goal.",
+      "After the final whistle Rosenior ran to the away fans and gestured at them, and about 30 people from both sides rushed in for a mass shoving match.",
+      "Rosenior said a small section of Strasbourg's support had disrespected his family and that the chants were a step too far."
+    ],
+    "background": "Rosenior spent 18 months as Strasbourg head coach before joining Chelsea, and Paris FC were second in Ligue 1 at the time.",
+    "angle": "viral",
+    "sensitive": false,
+    "footage_terms": ["Rosenior Strasbourg fans melee Paris FC", "Paris FC 2-1 Strasbourg highlights", "Liam Rosenior celebration Strasbourg"],
+    "confidence": "high"
+  },
+  {
+    "headline": "10-man Lens beat PSG 1-0 to win the French Super Cup",
+    "date": "2026-08-16",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/report/_/gameId/401873661",
+    "entities": ["RC Lens", "Paris Saint-Germain", "Florian Thauvin", "Kyllian Antonio", "Nuno Mendes", "Fabian Ruiz"],
+    "facts": [
+      "Florian Thauvin scored in the 32nd minute against the run of play at Stade Bollaert-Delelis.",
+      "Lens were reduced to ten when Kyllian Antonio was sent off in the 39th minute, and PSG substitute Nuno Mendes was sent off around the 86th for lashing out at Michal Skoras.",
+      "A late Fabian Ruiz equaliser for PSG was ruled out for offside."
+    ],
+    "background": "Lens had just won their first French Cup, and PSG went into the season as French and European champions.",
+    "angle": "win",
+    "sensitive": false,
+    "footage_terms": ["Lens 1-0 PSG Trophee des Champions highlights", "Thauvin goal Lens PSG Super Cup", "Nuno Mendes red card Lens"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Lille 2-2 PSG: Vitinha and Marquinhos score in stoppage time to rescue a draw",
+    "date": "2026-08-28",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/report/_/gameId/401876476",
+    "entities": ["Lille", "Paris Saint-Germain", "Vitinha", "Marquinhos", "Dilane Bakwa", "Hakon Haraldsson"],
+    "facts": [
+      "Hakon Haraldsson put Lille ahead in the 21st minute and Dilane Bakwa, on loan from Nottingham Forest, scored on his debut in the 84th.",
+      "Vitinha scored in the first minute of stoppage time and Marquinhos headed in his corner about four minutes later.",
+      "It was PSG's second straight league draw and they were still winless in Ligue 1."
+    ],
+    "background": "Lille were denied their first league win over the champions since 2021, and PSG then won 11 straight matches in all competitions after this start.",
+    "angle": "win",
+    "sensitive": false,
+    "footage_terms": ["Lille 2-2 PSG highlights", "Vitinha goal Lille PSG stoppage time", "Marquinhos header Lille PSG"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Monaco's Ansu Fati reported out for two months after injury in draw with Lille",
+    "date": "2026-11-03",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50370942/monaco-usmnt-balogun-conference-league-squad",
+    "entities": ["Ansu Fati", "AS Monaco", "Lille", "Folarin Balogun"],
+    "facts": [
+      "ESPN reports Ansu Fati is out for about two months after an injury on 25 October against Lille.",
+      "He was removed from Monaco's Conference League squad list and replaced by Folarin Balogun.",
+      "ESPN's team schedule lists the Lille match as a 1-1 draw."
+    ],
+    "background": "Monaco have no Champions League income this season and play in the Conference League, and were 7th in Ligue 1 with 16 points after 10 games.",
+    "angle": "scandal",
+    "sensitive": true,
+    "footage_terms": ["Ansu Fati Monaco", "Monaco 1-1 Lille highlights", "Monaco Conference League squad Balogun"],
+    "confidence": "low"
+  },
+  {
+    "headline": "PSG join the chase for 16-year-old Manchester United forward JJ Gabriel, Real Madrid still favourites",
+    "date": "2026-10-26",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50285660/transfer-rumors-news-man-united-eye-jarrad-branthwaite-amid-defensive-rebuild",
+    "entities": ["JJ Gabriel", "Paris Saint-Germain", "Manchester United", "Real Madrid"],
+    "facts": [
+      "Diario AS reports that PSG have joined the chase for the 16-year-old Manchester United forward.",
+      "Real Madrid are reported to still be the favourites to sign him.",
+      "No decision on his future has been made."
+    ],
+    "background": "PSG have been leaning on youth while Dembele, Marquinhos, Nuno Mendes and Kvaratskhelia are injured; a 17-year-old defender, David Boly, scored on his Champions League debut against Villarreal.",
+    "angle": "transfer",
+    "sensitive": false,
+    "footage_terms": ["JJ Gabriel Manchester United youth highlights", "PSG transfer targets young forward", "Gabriel Manchester United academy goals"],
+    "confidence": "low"
+  }
+]

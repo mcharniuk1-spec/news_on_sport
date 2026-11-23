@@ -1,0 +1,76 @@
+{
+  "no": 75,
+  "subject": "Haaland tells Man City to 'step up' even after his late winner at Leipzig",
+  "title": "Haaland's winner, then the step-up",
+  "voice": "kokoro",
+  "comic": false,
+  "style": null,
+  "lines": [
+    {
+      "vo": "Haaland scored the winner, then told his own team to step up.",
+      "card": "Late winner",
+      "sfx": null,
+      "footage": "Haaland winner RB Leipzig Manchester City highlights"
+    },
+    {
+      "vo": "Seventy-eighth minute, at Leipzig. His fourteenth goal of the season. City won three-two.",
+      "card": "14th goal",
+      "sfx": null,
+      "footage": "Haaland goal celebration, Leipzig"
+    },
+    {
+      "vo": "City had lost two league games in a row, the last one to Brighton.",
+      "card": "Two straight defeats",
+      "sfx": null,
+      "footage": "Brighton Man City report clip"
+    },
+    {
+      "vo": "Leipzig should put him on their season-ticket list. Thirteen goals against them, in nine appearances. More than against any other opponent.",
+      "card": "13 goals in 9",
+      "sfx": null,
+      "footage": "Haaland Leipzig goals montage"
+    },
+    {
+      "vo": "Thirteen goals against Leipzig. Thirteen touches on the night. Erling loves that number.",
+      "card": "Thirteen touches",
+      "sfx": "rimshot",
+      "footage": "Haaland touches stats graphic, match footage"
+    },
+    {
+      "vo": "Afterwards he said City should have been more aggressive after going ahead.",
+      "card": "Be more aggressive",
+      "sfx": null,
+      "footage": "Haaland interview after Leipzig win"
+    },
+    {
+      "vo": "A winner, thirteen touches and a team talk. Fair enough, Erling.",
+      "card": "Step up",
+      "sfx": null,
+      "footage": "Haaland press conference Leipzig"
+    },
+    {
+      "vo": "Think you can call the next one? Free tips, results and predictions at aboutfootball dot UK.",
+      "card": "Free tips and predictions",
+      "sfx": null,
+      "footage": "Leipzig Manchester City 2-3 highlights"
+    }
+  ],
+  "chars": 674,
+  "est_seconds": 46,
+  "footage_terms": [
+    "Haaland winner RB Leipzig Manchester City highlights",
+    "Haaland interview after Leipzig win",
+    "Maresca press conference Leipzig",
+    "Leipzig Manchester City 2-3 highlights",
+    "Haaland press conference Leipzig"
+  ],
+  "inserts": [],
+  "facts_used": [
+    "78th-minute winner in City's 3-2 Champions League win at Leipzig; his 14th goal of the season and 13th against Leipzig (news 101; espn.com/soccer/story/_/id/50382966)",
+    "13 goals in nine appearances vs Leipzig, more than against any other opponent (news 101)",
+    "Win followed a Premier League loss to Brighton, City's second straight league defeat (news 101)",
+    "Only 13 touches; said City should have been more aggressive after going ahead (news 101)"
+  ],
+  "comic_score": 5,
+  "notes": "Punched up: thirteen-callback (13 goals vs Leipzig, 13 touches), rule of three in the closer, season-ticket gag. Joke rests on the stated touch count and his own quote. Non-comic, no inserts."
+}

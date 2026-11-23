@@ -1,0 +1,93 @@
+{
+  "no": 14,
+  "subject": "Luis Figo",
+  "title": "Figo's 2-2 Clasico prediction",
+  "voice": "EL_B",
+  "comic": true,
+  "style": "simpsons",
+  "lines": [
+    {
+      "vo": "Luis Figo called a two-two Clasico. Reality disagreed.",
+      "card": "Called it 2-2",
+      "sfx": null,
+      "footage": "Figo studio clip, then Clasico scoreboard graphic"
+    },
+    {
+      "vo": "He named four scorers: Raphinha, Yamal, Bellingham and Mbappe.",
+      "card": "Four scorers picked",
+      "sfx": null,
+      "footage": "Camp Nou pre-match wide shot"
+    },
+    {
+      "vo": "Real Madrid won two-one. Mbappe scored twice, Raphinha once.",
+      "card": "Two-one Madrid",
+      "sfx": null,
+      "footage": "Mbappe goal highlights, Camp Nou"
+    },
+    {
+      "vo": "Only two of his four scorers found the net. Half right.",
+      "card": "Two out of four",
+      "sfx": null,
+      "footage": "Raphinha goal highlight"
+    },
+    {
+      "vo": "Back then, he says, he could have started for either team. That was twenty-six years ago.",
+      "card": "Could have started",
+      "sfx": "small cartoon boing",
+      "footage": "Figo studio interview, neutral shot"
+    },
+    {
+      "vo": "To be fair, he won the 2000 Ballon d'Or. Football he gets. Forecasts, less so.",
+      "card": "Ballon d'Or 2000",
+      "sfx": null,
+      "footage": "Figo Ballon d'Or 2000 archive"
+    },
+    {
+      "vo": "He also said Mourinho could have been a good Barcelona coach. Bold, Luis. Very bold.",
+      "card": "Bold, Luis",
+      "sfx": null,
+      "footage": "Figo studio clip, slow push-in"
+    },
+    {
+      "vo": "Want the next story before it breaks? Betting tips, news and predictions at aboutfootball dot UK.",
+      "card": "aboutfootball dot UK",
+      "sfx": null,
+      "footage": "End card, no footage"
+    }
+  ],
+  "chars": 579,
+  "est_seconds": 32,
+  "footage_terms": [
+    "Real Madrid 2-1 Barcelona Clasico highlights October 2026",
+    "Mbappe Clasico Camp Nou 2026 goals",
+    "Raphinha goal Clasico 2026 highlights"
+  ],
+  "inserts": [
+    {
+      "after_line": 2,
+      "story": "A caricature Figo writes four names on a cartoon chalkboard. A cartoon referee wipes two of them out with one swipe. The referee turns round and is Figo's own reflection, who whispers, stick to the wing.",
+      "characters": "caricature Figo; generic cartoon referee; no real people",
+      "seconds": 3
+    },
+    {
+      "after_line": 5,
+      "story": "A cartoon changing room has two shirts on hangers, one for each side. A caricature Figo pulls on both at once and gets stuck halfway. A generic kit man says, pick a side, Luis, then gives up and hands him a bigger shirt.",
+      "characters": "caricature Figo; generic cartoon kit man; no real people",
+      "seconds": 3
+    },
+    {
+      "after_line": 7,
+      "story": "A generic cartoon coach in a Barcelona scarf shakes hands with a caricature Figo. The scarf is three sizes too big and covers the coach's eyes. He says, thanks for the vote, then walks into a door.",
+      "characters": "caricature Figo; generic cartoon coach in a scarf; no real people",
+      "seconds": 3
+    }
+  ],
+  "facts_used": [
+    "Figo predicted a 2-2 Clasico at Camp Nou with goals from Raphinha, Lamine Yamal, Bellingham and Mbappe; he said that at his level 26 years ago he could have started for either team (https://www.libertaddigital.com/deportes/liga/2026-10-22/figo-analiza-el-clasico-el-real-madrid-seguramente-tendra-opciones-a-la-contra-7480547/)",
+    "Real Madrid won 2-1 at Camp Nou on 25 Oct 2026; Mbappe scored twice, Raphinha equalised; Yamal and Bellingham did not score (https://www.101greatgoals.com/?p=219286)",
+    "Figo said Mourinho could have been a good Barcelona coach (libertaddigital source above)",
+    "Figo won the 2000 Ballon d'Or (https://en.wikipedia.org/wiki/Lu%C3%ADs_Figo)"
+  ],
+  "comic_score": 7,
+  "notes": "Clasico facts checked against two sources. The 'could have started' quote is attributed to Figo's own words and is not presented as a current claim. The Mourinho line is a documented remark, not a personal attack. Figo's age, politics and Betfair role are not used. after_line counts from 1. Punch-up pass: 'half right' and 'forecasts, less so' tease the prediction only. Line order changed so the 'could have started' remark lands as the excuse. 'Twenty-six years ago' comes from the same Figo interview."
+}

@@ -1,0 +1,798 @@
+{
+ "no": 52,
+ "style": "FLAT-POP",
+ "prop": "scoreboard",
+ "cast": {
+  "wirtz": {
+   "role": "player",
+   "shirt": "#f6f1e3",
+   "hair": "#8a5a34"
+  },
+  "ger2": {
+   "role": "player",
+   "shirt": "#f6f1e3",
+   "hair": "#2a2a3a"
+  },
+  "ger3": {
+   "role": "player",
+   "shirt": "#f6f1e3",
+   "hair": "#d9a05a"
+  },
+  "dutch1": {
+   "role": "player",
+   "shirt": "#ff8a3b",
+   "hair": "#2a2a3a"
+  },
+  "dutch2": {
+   "role": "player",
+   "shirt": "#ff8a3b",
+   "hair": "#a84a2a"
+  },
+  "klopp": {
+   "role": "coach",
+   "shirt": "#f4a259",
+   "hair": "#d8d0c0"
+  },
+  "fanA": {
+   "role": "fan",
+   "shirt": "#7a5fb0"
+  },
+  "fanB": {
+   "role": "fan",
+   "shirt": "#4c80b5",
+   "hair": "#2a2a3a"
+  },
+  "fanC": {
+   "role": "fan",
+   "shirt": "#e87575",
+   "hair": "#a84a2a"
+  }
+ },
+ "sequences": {
+  "s01": {
+   "type": "HOOK",
+   "q": "Can Germany win by five goals?",
+   "prop": "goal",
+   "emote": "sweat",
+   "board": "scoreboard",
+   "role": "player"
+  },
+  "s02": {
+   "type": "COMIC",
+   "bg": "stadium",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "wirtz",
+       "x": 450,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "neutral",
+       "scale": 1.2
+      }
+     ],
+     "props": [
+      {
+       "kind": "scoreboard",
+       "x": 450,
+       "y": 640,
+       "scale": 2.4,
+       "text": "0:0",
+       "face": "neutral"
+      },
+      {
+       "kind": "flag",
+       "x": 975,
+       "y": 1160,
+       "scale": 0.8
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.42,
+     "actors": [
+      {
+       "id": "wirtz",
+       "x": 450,
+       "y": 1440,
+       "pose": "cheer",
+       "emote": "happy",
+       "scale": 1.2
+      },
+      {
+       "id": "ger2",
+       "x": 225,
+       "y": 1440,
+       "pose": "cheer",
+       "emote": "happy",
+       "scale": 1.15
+      }
+     ],
+     "props": [
+      {
+       "kind": "scoreboard",
+       "x": 450,
+       "y": 640,
+       "scale": 2.4,
+       "text": "5:0",
+       "face": "shock"
+      },
+      {
+       "kind": "flag",
+       "x": 975,
+       "y": 1160,
+       "scale": 0.8
+      }
+     ],
+     "cam": "push",
+     "sfx": {
+      "text": "BANG",
+      "x": 900,
+      "y": 480,
+      "r": 100
+     }
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.42,
+     "t1": 0.52,
+     "actors": [
+      {
+       "id": "wirtz",
+       "x": 450,
+       "y": 1440,
+       "pose": "cheer",
+       "emote": "happy",
+       "scale": 1.2
+      },
+      {
+       "id": "ger2",
+       "x": 225,
+       "y": 1440,
+       "pose": "cheer",
+       "emote": "happy",
+       "scale": 1.15
+      },
+      {
+       "id": "ger3",
+       "x": 680,
+       "y": 1440,
+       "pose": "cheer",
+       "emote": "happy",
+       "scale": 1.15
+      }
+     ],
+     "props": [
+      {
+       "kind": "scoreboard",
+       "x": 450,
+       "y": 640,
+       "scale": 2.4,
+       "text": "5:0",
+       "face": "happy"
+      },
+      {
+       "kind": "flag",
+       "x": 975,
+       "y": 1160,
+       "scale": 0.8
+      }
+     ],
+     "fx": [
+      {
+       "kind": "confetti",
+       "x": 450,
+       "y": 640
+      }
+     ]
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.52,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "wirtz",
+       "x": 450,
+       "y": 1440,
+       "pose": "celebrate",
+       "emote": "happy",
+       "scale": 1.2
+      },
+      {
+       "id": "ger2",
+       "x": 225,
+       "y": 1440,
+       "pose": "cheer",
+       "emote": "smug",
+       "scale": 1.15
+      },
+      {
+       "id": "ger3",
+       "x": 680,
+       "y": 1440,
+       "pose": "cheer",
+       "emote": "smug",
+       "scale": 1.15
+      },
+      {
+       "id": "dutch1",
+       "x": 850,
+       "y": 1440,
+       "pose": "cheer",
+       "emote": "sweat",
+       "scale": 1.1,
+       "flip": false,
+       "hold": {
+        "kind": "flag",
+        "hand": "R",
+        "scale": 0.85,
+        "dx": -8,
+        "dy": -30
+       }
+      }
+     ],
+     "props": [
+      {
+       "kind": "scoreboard",
+       "x": 450,
+       "y": 640,
+       "scale": 2.4,
+       "text": "5:0",
+       "face": "smug"
+      }
+     ],
+     "sfx": {
+      "text": "DING",
+      "x": 870,
+      "y": 520,
+      "r": 100
+     }
+    }
+   ]
+  },
+  "s03": {
+   "type": "COMIC",
+   "bg": "pitch",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "dutch1",
+       "x": 330,
+       "y": 1440,
+       "pose": "shock",
+       "emote": "sweat",
+       "scale": 1.3,
+       "flip": true
+      },
+      {
+       "id": "dutch2",
+       "x": 590,
+       "y": 1440,
+       "pose": "shock",
+       "emote": "sweat",
+       "scale": 1.3,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "stopwatch",
+       "x": 400,
+       "y": 500,
+       "scale": 1.7,
+       "face": "sweat"
+      },
+      {
+       "kind": "scoreboard",
+       "x": 900,
+       "y": 430,
+       "scale": 1.1,
+       "text": "0:0"
+      },
+      {
+       "kind": "goal",
+       "x": 260,
+       "y": 1110,
+       "scale": 2.4
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.42,
+     "actors": [
+      {
+       "id": "dutch1",
+       "x": 330,
+       "y": 1440,
+       "pose": "shock",
+       "emote": "sweat",
+       "scale": 1.3,
+       "flip": true
+      },
+      {
+       "id": "dutch2",
+       "x": 590,
+       "y": 1440,
+       "pose": "shock",
+       "emote": "sweat",
+       "scale": 1.3,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "stopwatch",
+       "x": 400,
+       "y": 500,
+       "scale": 1.7,
+       "face": "sweat"
+      },
+      {
+       "kind": "scoreboard",
+       "x": 900,
+       "y": 430,
+       "scale": 1.1,
+       "text": "1:0"
+      },
+      {
+       "kind": "goal",
+       "x": 260,
+       "y": 1110,
+       "scale": 2.4
+      },
+      {
+       "kind": "ball",
+       "x": 260,
+       "y": 1180,
+       "scale": 1.2,
+       "anim": "drop"
+      }
+     ],
+     "cam": "push",
+     "sfx": {
+      "text": "BANG",
+      "x": 860,
+      "y": 640,
+      "r": 100
+     }
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.42,
+     "t1": 0.52,
+     "actors": [
+      {
+       "id": "dutch1",
+       "x": 330,
+       "y": 1440,
+       "pose": "shock",
+       "emote": "sweat",
+       "scale": 1.3,
+       "flip": true
+      },
+      {
+       "id": "dutch2",
+       "x": 590,
+       "y": 1440,
+       "pose": "shock",
+       "emote": "sweat",
+       "scale": 1.3,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "stopwatch",
+       "x": 400,
+       "y": 500,
+       "scale": 1.7,
+       "face": "shock"
+      },
+      {
+       "kind": "scoreboard",
+       "x": 900,
+       "y": 430,
+       "scale": 1.1,
+       "text": "3:0"
+      },
+      {
+       "kind": "goal",
+       "x": 260,
+       "y": 1110,
+       "scale": 2.4
+      },
+      {
+       "kind": "ball",
+       "x": 260,
+       "y": 1180,
+       "scale": 1.2
+      },
+      {
+       "kind": "ball",
+       "x": 330,
+       "y": 1240,
+       "scale": 1.2,
+       "anim": "drop"
+      },
+      {
+       "kind": "ball",
+       "x": 190,
+       "y": 1250,
+       "scale": 1.2,
+       "anim": "drop"
+      }
+     ]
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.52,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "dutch1",
+       "x": 440,
+       "y": 1440,
+       "pose": "run",
+       "emote": "happy",
+       "scale": 1.3
+      },
+      {
+       "id": "dutch2",
+       "x": 670,
+       "y": 1440,
+       "pose": "run",
+       "emote": "happy",
+       "scale": 1.3
+      }
+     ],
+     "props": [
+      {
+       "kind": "stopwatch",
+       "x": 400,
+       "y": 500,
+       "scale": 1.7,
+       "face": "happy",
+       "label": "gone for coffee"
+      },
+      {
+       "kind": "scoreboard",
+       "x": 900,
+       "y": 430,
+       "scale": 1.1,
+       "text": "3:0"
+      },
+      {
+       "kind": "goal",
+       "x": 260,
+       "y": 1110,
+       "scale": 2.4
+      },
+      {
+       "kind": "ball",
+       "x": 260,
+       "y": 1180,
+       "scale": 1.2
+      },
+      {
+       "kind": "ball",
+       "x": 330,
+       "y": 1240,
+       "scale": 1.2
+      },
+      {
+       "kind": "ball",
+       "x": 190,
+       "y": 1250,
+       "scale": 1.2
+      },
+      {
+       "kind": "car",
+       "x": 925,
+       "y": 1340,
+       "scale": 0.85,
+       "layer": "back"
+      }
+     ],
+     "sfx": {
+      "text": "WHOOSH",
+      "x": 900,
+      "y": 690,
+      "r": 90
+     }
+    }
+   ]
+  },
+  "s04": {
+   "type": "NEWS",
+   "name": "Florian Wirtz",
+   "fact": "Florian Wirtz scored twice",
+   "ticker": "Three in eleven minutes",
+   "icons": [
+    "ball",
+    "stopwatch",
+    "goal"
+   ],
+   "role": "player",
+   "actor": "wirtz"
+  },
+  "s05": {
+   "type": "COMIC",
+   "bg": "press-room",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "klopp",
+       "x": 300,
+       "y": 1440,
+       "pose": "cheer",
+       "emote": "happy",
+       "scale": 1.4,
+       "label": "Klopp takes over"
+      }
+     ],
+     "props": [
+      {
+       "kind": "scoreboard",
+       "x": 650,
+       "y": 540,
+       "scale": 1.7,
+       "text": "5:0",
+       "face": "happy"
+      },
+      {
+       "kind": "glasses",
+       "x": 300,
+       "y": 830,
+       "scale": 1.0
+      },
+      {
+       "kind": "flag",
+       "x": 105,
+       "y": 1200,
+       "scale": 0.8
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.52,
+     "actors": [
+      {
+       "id": "klopp",
+       "x": 300,
+       "y": 1440,
+       "pose": "shush",
+       "emote": "smug",
+       "scale": 1.4
+      },
+      {
+       "id": "fanA",
+       "x": 650,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "sad",
+       "scale": 1.0
+      },
+      {
+       "id": "fanB",
+       "x": 850,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "sad",
+       "scale": 1.0
+      },
+      {
+       "id": "fanC",
+       "x": 750,
+       "y": 1190,
+       "pose": "idle",
+       "emote": "sad",
+       "scale": 0.8
+      }
+     ],
+     "props": [
+      {
+       "kind": "scoreboard",
+       "x": 650,
+       "y": 540,
+       "scale": 1.7,
+       "text": "5:0",
+       "face": "happy"
+      },
+      {
+       "kind": "glasses",
+       "x": 300,
+       "y": 830,
+       "scale": 1.0
+      },
+      {
+       "kind": "question",
+       "x": 650,
+       "y": 800,
+       "scale": 0.8,
+       "anim": "pop"
+      },
+      {
+       "kind": "question",
+       "x": 850,
+       "y": 800,
+       "scale": 0.8,
+       "anim": "pop"
+      },
+      {
+       "kind": "question",
+       "x": 750,
+       "y": 640,
+       "scale": 0.7,
+       "anim": "pop"
+      },
+      {
+       "kind": "flag",
+       "x": 105,
+       "y": 1200,
+       "scale": 0.8
+      }
+     ],
+     "cam": "push"
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.52,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "klopp",
+       "x": 300,
+       "y": 1440,
+       "pose": "shush",
+       "emote": "happy",
+       "scale": 1.4
+      },
+      {
+       "id": "fanA",
+       "x": 650,
+       "y": 1440,
+       "pose": "wave",
+       "emote": "happy",
+       "scale": 1.0,
+       "flip": true,
+       "hold": {
+        "kind": "flag",
+        "hand": "R",
+        "scale": 0.7,
+        "dx": -32
+       }
+      },
+      {
+       "id": "fanB",
+       "x": 850,
+       "y": 1440,
+       "pose": "wave",
+       "emote": "happy",
+       "scale": 1.0,
+       "hold": {
+        "kind": "flag",
+        "hand": "R",
+        "scale": 0.7
+       }
+      },
+      {
+       "id": "fanC",
+       "x": 750,
+       "y": 1190,
+       "pose": "wave",
+       "emote": "happy",
+       "scale": 0.8
+      }
+     ],
+     "props": [
+      {
+       "kind": "scoreboard",
+       "x": 650,
+       "y": 540,
+       "scale": 1.7,
+       "text": "5:0",
+       "face": "happy"
+      },
+      {
+       "kind": "glasses",
+       "x": 300,
+       "y": 830,
+       "scale": 1.0
+      }
+     ],
+     "sfx": {
+      "text": "DING",
+      "x": 260,
+      "y": 430,
+      "r": 90
+     },
+     "fx": [
+      {
+       "kind": "sparkle",
+       "x": 750,
+       "y": 900
+      }
+     ]
+    }
+   ]
+  },
+  "s06": {
+   "type": "PROVOC",
+   "q": "Will five-nil quiet the doubters?",
+   "a": "Yes",
+   "b": "Not for long",
+   "split": [
+    62,
+    38
+   ],
+   "mood": "fun"
+  },
+  "s07": {
+   "type": "INTERVIEW",
+   "label": "REPORTER ASKS",
+   "bubble": "quiet the doubters for three or four months",
+   "answer": {
+    "icon": "calendar",
+    "gesture": "shush",
+    "emote": "smug"
+   },
+   "subject": "Jurgen Klopp",
+   "subject_cast": "klopp",
+   "reporter_role": "reporter"
+  },
+  "s08": {
+   "type": "STATS",
+   "items": [
+    {
+     "icon": "shirt",
+     "value": "1",
+     "label": "last game"
+    },
+    {
+     "icon": "ball",
+     "value": "5-0",
+     "label": "Five-nil"
+    },
+    {
+     "icon": "stopwatch",
+     "value": "11",
+     "label": "eleven minutes"
+    }
+   ]
+  }
+ }
+}

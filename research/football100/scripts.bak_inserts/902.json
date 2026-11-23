@@ -1,0 +1,87 @@
+{
+ "no": 902,
+ "subject": "Ronaldinho legend",
+ "title": "Ronaldinho scored all 23 goals at 13",
+ "voice": "kokoro",
+ "comic": false,
+ "style": null,
+ "lines": [
+  {
+   "vo": "At thirteen, he scored all twenty-three goals in a twenty-three-nil win.",
+   "card": "23 goals, one boy",
+   "sfx": null,
+   "footage": "Ronaldinho youth Gremio young"
+  },
+  {
+   "vo": "His team-mates came for the oranges.",
+   "card": "Oranges",
+   "sfx": null,
+   "footage": "Ronaldinho childhood clip"
+  },
+  {
+   "vo": "At eight, he was the smallest boy on the pitch. They called him Ronaldinho: little Ronaldo.",
+   "card": "Little Ronaldo",
+   "sfx": null,
+   "footage": "Ronaldinho Brazil young skills"
+  },
+  {
+   "vo": "Two thousand and two, World Cup, Brazil against England. A forty-yard free-kick curls past David Seaman.",
+   "card": "Seaman, 40 yards",
+   "sfx": null,
+   "footage": "Ronaldinho free kick England 2002"
+  },
+  {
+   "vo": "Seven minutes later: sent off. Genius, then a red card. Relatable.",
+   "card": "Genius, then red",
+   "sfx": null,
+   "footage": "Ronaldinho red card England 2002"
+  },
+  {
+   "vo": "Two thousand and five: Ballon d'Or. Real Madrid's own fans stood and applauded him at the Bernabéu. Voluntarily.",
+   "card": "Ballon d'Or 2005",
+   "sfx": null,
+   "footage": "Ronaldinho Bernabeu standing ovation"
+  },
+  {
+   "vo": "The first Barcelona player to get that since Maradona. Smallest boy on the pitch. Biggest name in the stadium.",
+   "card": "Since Maradona",
+   "sfx": null,
+   "footage": "Ronaldinho Barcelona Clasico goals"
+  },
+  {
+   "vo": "Your mates will never guess this. Match news and betting tips at aboutfootball dot UK.",
+   "card": "aboutfootball.UK",
+   "sfx": null,
+   "footage": "end card, no footage"
+  }
+ ],
+ "chars": 677,
+ "est_seconds": 39,
+ "footage_terms": [
+  "Ronaldinho free kick England 2002",
+  "Ronaldinho Bernabeu standing ovation",
+  "Ronaldinho Barcelona best skills",
+  "Ronaldinho Ballon d'Or 2005"
+ ],
+ "inserts": [
+  {
+   "after_line": 2,
+   "story": "A tiny cartoon boy in a yellow shirt scores again and again while a cartoon goalkeeper checks his watch. Gag: team-mates queue at an orange stall. Twist: the boy waves and tips the orange seller.",
+   "characters": "generic cartoon boy; cartoon team-mates; no real photo",
+   "seconds": 2
+  },
+  {
+   "after_line": 5,
+   "story": "A cartoon referee holds up a red card, then slowly turns it into a tiny fan. Gag: the card applauds the free-kick replay. Twist: the referee shrugs, genius first.",
+   "characters": "generic cartoon referee; caricature of Ronaldinho",
+   "seconds": 2
+  }
+ ],
+ "facts_used": [
+  "At 13 scored all 23 goals in a 23-0 win; nickname little Ronaldo, smallest boy at 8 (pilot script ron; SCRIPT_DRAFTS fact pack)",
+  "2002 World Cup v England: free-kick from ~40 yards past David Seaman; sent off about 7 min later (pilot script ron/ron2; fact pack)",
+  "2005 Ballon d'Or; Bernabéu standing ovation, first Barca player since Maradona (pilot script ron; fact pack)"
+ ],
+ "comic_score": 7,
+ "notes": "Split from pilot 1 (legend half). Oranges joke is from the pilot. Red-card line is the pilot joke on sport, not health. Ovation and Ballon d'Or both placed in 2005 as in the pilot."
+}

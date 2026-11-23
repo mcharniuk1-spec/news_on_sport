@@ -1,0 +1,657 @@
+{
+ "no": 77,
+ "style": "FLAT-POP",
+ "prop": "camera",
+ "cast": {
+  "owner1": {
+   "role": "boss",
+   "shirt": "#2f6f9f",
+   "hair": "#3b2a1a"
+  },
+  "owner2": {
+   "role": "boss",
+   "shirt": "#d94f4f",
+   "hair": "#d9b46a"
+  },
+  "p1": {
+   "role": "striker",
+   "shirt": "#d94f4f",
+   "hair": "#3b2a1a",
+   "number": "9"
+  },
+  "rival": {
+   "role": "player",
+   "shirt": "#f2b134",
+   "hair": "#2b2b3a",
+   "number": "10"
+  },
+  "crew": {
+   "role": "staff",
+   "shirt": "#4f8fd6"
+  },
+  "parkinson": {
+   "role": "coach",
+   "hair": "#9a9a9a",
+   "shirt": "#2f6f9f"
+  }
+ },
+ "sequences": {
+  "s01": {
+   "type": "HOOK",
+   "q": "Did Hollywood help Wrexham take a point?",
+   "prop": "camera",
+   "emote": "smug",
+   "board": "neon"
+  },
+  "s02": {
+   "type": "COMIC",
+   "bg": "pitch",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "owner1",
+       "x": 290,
+       "y": 1440,
+       "pose": "sit",
+       "emote": "smug",
+       "scale": 1.35,
+       "label": "Hollywood owners"
+      },
+      {
+       "id": "owner2",
+       "x": 800,
+       "y": 1440,
+       "pose": "sit",
+       "emote": "smug",
+       "scale": 1.35,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "chair",
+       "x": 290,
+       "y": 1300,
+       "scale": 2.0
+      },
+      {
+       "kind": "chair",
+       "x": 800,
+       "y": 1300,
+       "scale": 2.0,
+       "flip": true
+      },
+      {
+       "kind": "camera",
+       "x": 545,
+       "y": 640,
+       "scale": 1.2,
+       "anim": "float",
+       "face": "neutral"
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.52,
+     "actors": [
+      {
+       "id": "owner1",
+       "x": 290,
+       "y": 1440,
+       "pose": "shock",
+       "emote": "shock",
+       "scale": 1.35
+      },
+      {
+       "id": "owner2",
+       "x": 800,
+       "y": 1440,
+       "pose": "shock",
+       "emote": "shock",
+       "scale": 1.35,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "chair",
+       "x": 290,
+       "y": 1300,
+       "scale": 2.0
+      },
+      {
+       "kind": "chair",
+       "x": 800,
+       "y": 1300,
+       "scale": 2.0,
+       "flip": true
+      },
+      {
+       "kind": "camera",
+       "x": 545,
+       "y": 700,
+       "scale": 2.0,
+       "face": "shock"
+      }
+     ],
+     "sfx": {
+      "text": "BANG",
+      "x": 545,
+      "y": 380,
+      "r": 90
+     },
+     "cam": "push"
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.52,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "owner1",
+       "x": 340,
+       "y": 1440,
+       "pose": "fall",
+       "emote": "dizzy",
+       "scale": 1.2
+      },
+      {
+       "id": "owner2",
+       "x": 780,
+       "y": 1060,
+       "pose": "fall",
+       "emote": "dizzy",
+       "scale": 0.95,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "chair",
+       "x": 250,
+       "y": 1380,
+       "scale": 1.8,
+       "rot": -75
+      },
+      {
+       "kind": "chair",
+       "x": 870,
+       "y": 1030,
+       "scale": 1.5,
+       "rot": 75,
+       "flip": true
+      },
+      {
+       "kind": "camera",
+       "x": 545,
+       "y": 640,
+       "scale": 2.0,
+       "face": "happy"
+      }
+     ],
+     "sfx": {
+      "text": "THUD",
+      "x": 545,
+      "y": 380,
+      "r": 90
+     }
+    }
+   ]
+  },
+  "s03": {
+   "type": "COMIC",
+   "bg": "stadium",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "p1",
+       "x": 280,
+       "y": 1440,
+       "pose": "crouch",
+       "emote": "sweat",
+       "scale": 1.4
+      },
+      {
+       "id": "rival",
+       "x": 800,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "sweat",
+       "scale": 1.3,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "goal",
+       "x": 790,
+       "y": 820,
+       "scale": 2.8
+      },
+      {
+       "kind": "ball",
+       "x": 540,
+       "y": 600,
+       "scale": 1.2,
+       "anim": "arc"
+      },
+      {
+       "kind": "scoreboard",
+       "x": 600,
+       "y": 430,
+       "scale": 1.3,
+       "text": "1",
+       "face": "sad"
+      },
+      {
+       "kind": "camera",
+       "x": 900,
+       "y": 470,
+       "scale": 1.0,
+       "anim": "float",
+       "face": "neutral"
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.52,
+     "actors": [
+      {
+       "id": "p1",
+       "x": 280,
+       "y": 1440,
+       "pose": "jump",
+       "emote": "happy",
+       "scale": 1.4,
+       "lift": 140
+      },
+      {
+       "id": "rival",
+       "x": 800,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "shock",
+       "scale": 1.3,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "goal",
+       "x": 790,
+       "y": 820,
+       "scale": 2.8
+      },
+      {
+       "kind": "ball",
+       "x": 500,
+       "y": 700,
+       "scale": 1.2,
+       "anim": "spin"
+      },
+      {
+       "kind": "scoreboard",
+       "x": 600,
+       "y": 430,
+       "scale": 1.3,
+       "text": "1",
+       "face": "sad"
+      },
+      {
+       "kind": "camera",
+       "x": 900,
+       "y": 470,
+       "scale": 1.0,
+       "anim": "float",
+       "face": "neutral"
+      }
+     ],
+     "sfx": {
+      "text": "WHOOSH",
+      "x": 800,
+      "y": 640,
+      "r": 100
+     },
+     "cam": "push"
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.52,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "p1",
+       "x": 280,
+       "y": 1440,
+       "pose": "cheer",
+       "emote": "happy",
+       "scale": 1.4
+      },
+      {
+       "id": "rival",
+       "x": 800,
+       "y": 1440,
+       "pose": "facepalm",
+       "emote": "sweat",
+       "scale": 1.3,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "goal",
+       "x": 790,
+       "y": 820,
+       "scale": 2.8
+      },
+      {
+       "kind": "ball",
+       "x": 760,
+       "y": 1330,
+       "scale": 1.2
+      },
+      {
+       "kind": "scoreboard",
+       "x": 600,
+       "y": 430,
+       "scale": 1.3,
+       "text": "1:1",
+       "face": "happy"
+      },
+      {
+       "kind": "camera",
+       "x": 900,
+       "y": 470,
+       "scale": 1.0,
+       "face": "happy"
+      }
+     ],
+     "sfx": {
+      "text": "DING",
+      "x": 820,
+      "y": 620,
+      "r": 100
+     },
+     "fx": [
+      {
+       "kind": "confetti",
+       "x": 540,
+       "y": 900
+      }
+     ]
+    }
+   ]
+  },
+  "s04": {
+   "type": "PROVOC",
+   "q": "One-all at home: fair result?",
+   "a": "Fair",
+   "b": "Wolves deserved more",
+   "split": [
+    58,
+    42
+   ],
+   "mood": "fun"
+  },
+  "s05": {
+   "type": "INTERVIEW",
+   "label": "REPORTER ASKS",
+   "bubble": "Do the visits lift the club?",
+   "answer": {
+    "icon": "heart",
+    "gesture": "thumbsup",
+    "emote": "happy"
+   },
+   "subject": "Phil Parkinson",
+   "subject_cast": "parkinson"
+  },
+  "s06": {
+   "type": "NEWS",
+   "name": "Phil Parkinson",
+   "fact": "Visits lift players, staff and fans",
+   "ticker": "Visits lift the club",
+   "icons": [
+    "shirt",
+    "clipboard",
+    "heart"
+   ],
+   "role": "coach",
+   "actor": "parkinson"
+  },
+  "s07": {
+   "type": "COMIC",
+   "bg": "tunnel",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "p1",
+       "x": 430,
+       "y": 1290,
+       "pose": "run",
+       "emote": "neutral",
+       "scale": 1.3
+      },
+      {
+       "id": "crew",
+       "x": 220,
+       "y": 1440,
+       "pose": "present",
+       "emote": "neutral",
+       "scale": 1.2
+      }
+     ],
+     "props": [
+      {
+       "kind": "crate",
+       "x": 430,
+       "y": 1400,
+       "scale": 1.7
+      },
+      {
+       "kind": "crate",
+       "x": 640,
+       "y": 1300,
+       "scale": 1.7
+      },
+      {
+       "kind": "crate",
+       "x": 850,
+       "y": 1200,
+       "scale": 1.7
+      },
+      {
+       "kind": "door",
+       "x": 880,
+       "y": 640,
+       "scale": 2.6
+      },
+      {
+       "kind": "camera",
+       "x": 300,
+       "y": 640,
+       "scale": 1.2,
+       "anim": "float"
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.52,
+     "actors": [
+      {
+       "id": "p1",
+       "x": 640,
+       "y": 1190,
+       "pose": "run",
+       "emote": "happy",
+       "scale": 1.3
+      },
+      {
+       "id": "crew",
+       "x": 220,
+       "y": 1440,
+       "pose": "present",
+       "emote": "neutral",
+       "scale": 1.2
+      }
+     ],
+     "props": [
+      {
+       "kind": "crate",
+       "x": 430,
+       "y": 1400,
+       "scale": 1.7
+      },
+      {
+       "kind": "crate",
+       "x": 640,
+       "y": 1300,
+       "scale": 1.7
+      },
+      {
+       "kind": "crate",
+       "x": 850,
+       "y": 1200,
+       "scale": 1.7
+      },
+      {
+       "kind": "door",
+       "x": 880,
+       "y": 640,
+       "scale": 2.6
+      },
+      {
+       "kind": "camera",
+       "x": 430,
+       "y": 600,
+       "scale": 1.4
+      }
+     ],
+     "cam": "pan"
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.52,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "p1",
+       "x": 850,
+       "y": 1090,
+       "pose": "cheer",
+       "emote": "happy",
+       "scale": 1.3
+      },
+      {
+       "id": "crew",
+       "x": 220,
+       "y": 1440,
+       "pose": "thumbsup",
+       "emote": "happy",
+       "scale": 1.2
+      }
+     ],
+     "props": [
+      {
+       "kind": "crate",
+       "x": 430,
+       "y": 1400,
+       "scale": 1.7
+      },
+      {
+       "kind": "crate",
+       "x": 640,
+       "y": 1300,
+       "scale": 1.7
+      },
+      {
+       "kind": "crate",
+       "x": 850,
+       "y": 1200,
+       "scale": 1.7
+      },
+      {
+       "kind": "door",
+       "x": 880,
+       "y": 640,
+       "scale": 2.6
+      },
+      {
+       "kind": "camera",
+       "x": 500,
+       "y": 560,
+       "scale": 1.5,
+       "face": "happy"
+      },
+      {
+       "kind": "chair",
+       "x": 990,
+       "y": 1330,
+       "scale": 1.5
+      }
+     ],
+     "bg": "sky",
+     "fx": [
+      {
+       "kind": "sparkle",
+       "x": 880,
+       "y": 640
+      }
+     ]
+    }
+   ]
+  },
+  "s08": {
+   "type": "STATS",
+   "items": [
+    {
+     "icon": "ball",
+     "value": "1-1",
+     "label": "One-all at home"
+    },
+    {
+     "icon": "medal",
+     "value": "1",
+     "label": "took a point"
+    },
+    {
+     "icon": "boot",
+     "value": "1",
+     "label": "first goal"
+    }
+   ]
+  }
+ }
+}

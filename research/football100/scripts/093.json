@@ -1,0 +1,95 @@
+{
+ "no": 93,
+ "subject": "Bruno Guimaraes faces his old club Newcastle as Arteta still wants more",
+ "title": "Bruno's return, Arteta wants more",
+ "voice": "kokoro",
+ "comic": true,
+ "style": "ligne_claire",
+ "lines": [
+  {
+   "vo": "A reported seventy-five million pounds, and Arteta says: not there yet.",
+   "card": "£75m, not there yet",
+   "sfx": "cash register ding",
+   "footage": "Guimaraes press clip or match action, clean wide shot"
+  },
+  {
+   "vo": "Saturday at five-thirty, Bruno Guimaraes visits his old house: St James' Park.",
+   "card": "St James' Park",
+   "sfx": null,
+   "footage": "St James' Park exterior, stadium wide shot"
+  },
+  {
+   "vo": "He scored thirty-one league goals for Newcastle, nine of them last season. They remember.",
+   "card": "31 for Newcastle",
+   "sfx": null,
+   "footage": "Guimaraes goal clips for Newcastle"
+  },
+  {
+   "vo": "Now he is first choice at Arsenal, after a slow start.",
+   "card": "First choice now",
+   "sfx": null,
+   "footage": "Arsenal midfield match clips"
+  },
+  {
+   "vo": "Arteta wants more close-range goals. Apparently seventy-five million does not cover tap-ins.",
+   "card": "More close-range goals",
+   "sfx": null,
+   "footage": "Arteta press conference clip"
+  },
+  {
+   "vo": "He ranks near the top for ground duels, behind only Romeo Lavia.",
+   "card": "Ground duels",
+   "sfx": null,
+   "footage": "duel and tackle clips, stat graphic"
+  },
+  {
+   "vo": "The twist? He has scored against Sunderland and Leeds. Arteta still wants more. Of course he does.",
+   "card": "Still wants more",
+   "sfx": "record scratch",
+   "footage": "Guimaraes goal vs Sunderland and vs Leeds"
+  },
+  {
+   "vo": "Your mates will never guess this. News, betting tips and predictions at aboutfootball dot UK.",
+   "card": "aboutfootball dot UK",
+   "sfx": null,
+   "footage": "end card"
+  }
+ ],
+ "chars": 639,
+ "est_seconds": 36,
+ "footage_terms": [
+  "Bruno Guimaraes Arsenal goals",
+  "Bruno Guimaraes Newcastle farewell",
+  "Newcastle vs Arsenal preview Arteta",
+  "Arteta Guimaraes press conference"
+ ],
+ "inserts": [
+  {
+   "after_line": 1,
+   "story": "Setup: a clean-line midfielder in a red coat knocks on his old front door. Gag: a black-and-white fan opens it, holding his old shirt like a family photo. Twist: the fan asks him to wipe his feet.",
+   "characters": "Guimaraes caricature, generic Newcastle fan caricature, door prop",
+   "seconds": 2
+  },
+  {
+   "after_line": 4,
+   "story": "Setup: a clean-line coach holds a tiny ruler against a goal and says closer. Gag: the midfielder steps a centimetre nearer, ball on the line. Twist: the coach asks for a smaller ruler.",
+   "characters": "Arteta caricature, Guimaraes caricature, ruler prop",
+   "seconds": 2
+  },
+  {
+   "after_line": 5,
+   "story": "Setup: a price tag marked seventy-five floats beside the midfielder like a balloon. Gag: each goal ties on another balloon. Twist: the coach counts them and asks for one more.",
+   "characters": "Arteta caricature, Guimaraes caricature, balloon and price tag props",
+   "seconds": 2
+  }
+ ],
+ "facts_used": [
+  "Arsenal signed Guimaraes for a reported 75 million pounds; Arteta says he is still not there (news 167, 170)",
+  "He faces Newcastle at St James' Park on Saturday 21 November, 5:30pm UK time (news 170)",
+  "Scored nine Premier League goals for Newcastle last season and 31 league goals in total for the club (news 170, background)",
+  "Now a first-choice midfielder after a slow start at Arsenal (news 167)",
+  "Arteta wants more close-range goals; Guimaraes ranks near the top for ground duels, behind only Romeo Lavia; he has scored against Sunderland and Leeds (news 167)"
+ ],
+ "comic_score": 8,
+ "notes": "Source: news 167 and 170 (same Sky Sports article). Script 95 covers the same article in a non-comic script; the angles are kept apart (93: Arteta and the price, 95: the homecoming). The early-season injury is left out per the forbidden-topics rule. Price is a reported figure. Inserts use generic caricatures only. after_line is the 0-based index into lines[]."
+}

@@ -1,0 +1,104 @@
+{
+ "video_id": "Aq7MZDmGNhE",
+ "topic": "Haaland keeps a promise to a fan/streamer: he agreed to do a specific goal celebration when he scored next for Norway, then does it",
+ "hero": "Erling Haaland (Norway; identified from caption HAALAND)",
+ "hero_role": "protagonist keeping his promise",
+ "media_type_overall": "mixed",
+ "hook": "Man in red 'Beast' #10 shirt asks Haaland on training pitch; yellow caption 'SCORE' pops (transcript: 'next time you score, can you do the celly?')",
+ "subtitle_style": "yellow bold comic-style sans-serif, black outline, centred mid-frame, word-by-word pop captions (SCORE, BUT, PLEASE); name tags HAALAND/NEXT in small boxes",
+ "reaction_overlays": "word-by-word yellow captions; small 'NEXT' and 'HAALAND' labels; creator watermark 'adnanejd7' bottom-centre",
+ "transition_summary": "Fast: two-person clip then hard cuts to stadium footage (about 6 cuts per 10 s); vertical short",
+ "audio_note": "Original voices from interview/training clip then crowd/match audio",
+ "reuse_segments": [
+  {
+   "t0": 0,
+   "t1": 8,
+   "what": "Fan/streamer chatting with Haaland on training pitch",
+   "origin_guess": "fan edit",
+   "rights_risk": "medium",
+   "how_to_reuse": "permission required from creators; recreate with generic actors"
+  },
+  {
+   "t0": 8,
+   "t1": 18,
+   "what": "Norway match penalty/goal and celebration",
+   "origin_guess": "broadcast match",
+   "rights_risk": "high",
+   "how_to_reuse": "licensed footage only"
+  }
+ ],
+ "frames": [
+  {
+   "idx": 1,
+   "t": 0,
+   "desc": "man in red 10 'Beast' shirt and cap beside Haaland in white tee on stadium training pitch",
+   "type": "video",
+   "text_on_screen": "SCORE",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 2,
+   "t": 2,
+   "desc": "Haaland close in white Nike tee looking down, blurred background",
+   "type": "video",
+   "text_on_screen": "BUT",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 3,
+   "t": 4,
+   "desc": "man in red #10 'Beast' shirt gesturing with hands, close",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 4,
+   "t": 6,
+   "desc": "man in red shirt shakes hand with Haaland on pitch",
+   "type": "video",
+   "text_on_screen": "PLEASE",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 5,
+   "t": 8,
+   "desc": "Norway penalty: Haaland over ball, yellow-kit Hungary-like opponents, bama boards, label NEXT",
+   "type": "video",
+   "text_on_screen": "NEXT",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 6,
+   "t": 10,
+   "desc": "wide stadium pitch with Haaland label near penalty area, crowd right",
+   "type": "video",
+   "text_on_screen": "HAALAND",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 7,
+   "t": 12,
+   "desc": "wide pitch, Norway players running after goal",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 8,
+   "t": 14,
+   "desc": "close on goalmouth with fans and goal net, red Norway player runs",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 9,
+   "t": 16,
+   "desc": "crowd and red-white player celebrating in front of boards",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "none"
+  }
+ ]
+}

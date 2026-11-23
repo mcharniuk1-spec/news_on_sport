@@ -1,0 +1,634 @@
+{
+ "no": 36,
+ "style": "FLAT-POP",
+ "prop": "ball",
+ "cast": {
+  "varela": {
+   "role": "striker",
+   "shirt": "#e8505b",
+   "hair": "#2b2b3a",
+   "number": "9"
+  },
+  "mate1": {
+   "role": "rookie",
+   "shirt": "#e8505b"
+  },
+  "mate2": {
+   "role": "rookie",
+   "shirt": "#4f8fd6",
+   "hair": "#a03a2a"
+  },
+  "scout1": {
+   "role": "pundit",
+   "shirt": "#6b8e5a"
+  },
+  "scout2": {
+   "role": "pundit",
+   "shirt": "#c9a227",
+   "hair": "#2b2b3a"
+  },
+  "scout3": {
+   "role": "pundit",
+   "shirt": "#8a6fd6",
+   "hair": "#a03a2a"
+  }
+ },
+ "sequences": {
+  "s01": {
+   "type": "HOOK",
+   "q": "Cheap signing, now topping Serie A?",
+   "prop": "boot",
+   "emote": "wink",
+   "board": "ticket",
+   "role": "striker"
+  },
+  "s02": {
+   "type": "COMIC",
+   "bg": "stadium",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.25,
+     "actors": [
+      {
+       "id": "varela",
+       "x": 560,
+       "y": 1300,
+       "pose": "run",
+       "emote": "happy",
+       "scale": 1.3
+      }
+     ],
+     "props": [
+      {
+       "kind": "ladder",
+       "x": 560,
+       "y": 860,
+       "scale": 3.4,
+       "layer": "back"
+      },
+      {
+       "kind": "ball",
+       "x": 560,
+       "y": 602,
+       "scale": 0.7,
+       "layer": "back"
+      },
+      {
+       "kind": "ball",
+       "x": 560,
+       "y": 731,
+       "scale": 0.7,
+       "layer": "back"
+      },
+      {
+       "kind": "ball",
+       "x": 560,
+       "y": 989,
+       "scale": 0.7,
+       "layer": "back"
+      },
+      {
+       "kind": "ball",
+       "x": 560,
+       "y": 1118,
+       "scale": 0.7,
+       "layer": "back"
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.25,
+     "t1": 0.42,
+     "actors": [
+      {
+       "id": "varela",
+       "x": 560,
+       "y": 1130,
+       "pose": "run",
+       "emote": "happy",
+       "scale": 1.3
+      }
+     ],
+     "props": [
+      {
+       "kind": "ladder",
+       "x": 560,
+       "y": 860,
+       "scale": 3.4,
+       "layer": "back"
+      },
+      {
+       "kind": "ball",
+       "x": 560,
+       "y": 602,
+       "scale": 0.7,
+       "layer": "back"
+      },
+      {
+       "kind": "ball",
+       "x": 560,
+       "y": 731,
+       "scale": 0.7,
+       "layer": "back"
+      },
+      {
+       "kind": "ball",
+       "x": 560,
+       "y": 989,
+       "scale": 0.7,
+       "layer": "back"
+      },
+      {
+       "kind": "ball",
+       "x": 560,
+       "y": 1118,
+       "scale": 0.7,
+       "layer": "back"
+      }
+     ],
+     "bg": "tunnel",
+     "cam": "push"
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.42,
+     "t1": 0.56,
+     "actors": [
+      {
+       "id": "varela",
+       "x": 560,
+       "y": 1040,
+       "pose": "idle",
+       "emote": "smug",
+       "scale": 1.3
+      },
+      {
+       "id": "mate1",
+       "x": 240,
+       "y": 1440,
+       "pose": "tired",
+       "emote": "sad",
+       "scale": 1.25
+      },
+      {
+       "id": "mate2",
+       "x": 840,
+       "y": 1440,
+       "pose": "tired",
+       "emote": "sweat",
+       "scale": 1.25,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "ladder",
+       "x": 560,
+       "y": 860,
+       "scale": 3.4,
+       "layer": "back"
+      },
+      {
+       "kind": "ball",
+       "x": 560,
+       "y": 602,
+       "scale": 0.7,
+       "layer": "back"
+      },
+      {
+       "kind": "ball",
+       "x": 560,
+       "y": 731,
+       "scale": 0.7,
+       "layer": "back"
+      },
+      {
+       "kind": "ball",
+       "x": 560,
+       "y": 989,
+       "scale": 0.7,
+       "layer": "back"
+      },
+      {
+       "kind": "ball",
+       "x": 560,
+       "y": 1118,
+       "scale": 0.7,
+       "layer": "back"
+      },
+      {
+       "kind": "scarf",
+       "x": 380,
+       "y": 1290,
+       "scale": 0.9
+      }
+     ]
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.56,
+     "t1": 0.66
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.66,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "varela",
+       "x": 560,
+       "y": 1040,
+       "pose": "point",
+       "emote": "happy",
+       "scale": 1.3
+      },
+      {
+       "id": "mate1",
+       "x": 240,
+       "y": 1440,
+       "pose": "cheer",
+       "emote": "happy",
+       "scale": 1.25
+      },
+      {
+       "id": "mate2",
+       "x": 840,
+       "y": 1440,
+       "pose": "cheer",
+       "emote": "love",
+       "scale": 1.25,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "ladder",
+       "x": 560,
+       "y": 860,
+       "scale": 3.4,
+       "layer": "back"
+      },
+      {
+       "kind": "ball",
+       "x": 560,
+       "y": 602,
+       "scale": 0.7,
+       "layer": "back"
+      },
+      {
+       "kind": "ball",
+       "x": 560,
+       "y": 731,
+       "scale": 0.7,
+       "layer": "back"
+      },
+      {
+       "kind": "ball",
+       "x": 560,
+       "y": 989,
+       "scale": 0.7,
+       "layer": "back"
+      },
+      {
+       "kind": "ball",
+       "x": 560,
+       "y": 1118,
+       "scale": 0.7,
+       "layer": "back"
+      },
+      {
+       "kind": "scarf",
+       "x": 560,
+       "y": 1240,
+       "scale": 1.3,
+       "rot": -85
+      }
+     ],
+     "sfx": {
+      "text": "DING",
+      "x": 880,
+      "y": 500,
+      "r": 100
+     }
+    }
+   ]
+  },
+  "s03": {
+   "type": "STATS",
+   "items": [
+    {
+     "icon": "ball",
+     "value": "9",
+     "label": "Nine league goals"
+    },
+    {
+     "icon": "trophy",
+     "value": "11",
+     "label": "all competitions"
+    },
+    {
+     "icon": "whistle",
+     "value": "11",
+     "label": "eleven games"
+    }
+   ]
+  },
+  "s04": {
+   "type": "COMIC",
+   "bg": "office",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.24,
+     "actors": [
+      {
+       "id": "scout1",
+       "x": 200,
+       "y": 1440,
+       "pose": "lean",
+       "emote": "neutral",
+       "scale": 1.2,
+       "hold": {
+        "kind": "magnifier",
+        "hand": "both",
+        "scale": 0.9
+       }
+      },
+      {
+       "id": "scout2",
+       "x": 540,
+       "y": 1320,
+       "pose": "lean",
+       "emote": "neutral",
+       "scale": 1.2,
+       "hold": {
+        "kind": "magnifier",
+        "hand": "both",
+        "scale": 0.9
+       }
+      },
+      {
+       "id": "scout3",
+       "x": 880,
+       "y": 1440,
+       "pose": "lean",
+       "emote": "neutral",
+       "scale": 1.2,
+       "flip": true,
+       "hold": {
+        "kind": "magnifier",
+        "hand": "both",
+        "scale": 0.9
+       }
+      }
+     ],
+     "props": [
+      {
+       "kind": "ladder",
+       "x": 540,
+       "y": 900,
+       "scale": 3.5,
+       "layer": "back"
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.24,
+     "t1": 0.44,
+     "actors": [
+      {
+       "id": "scout1",
+       "x": 380,
+       "y": 1440,
+       "pose": "shock",
+       "emote": "dizzy",
+       "scale": 1.2
+      },
+      {
+       "id": "scout2",
+       "x": 540,
+       "y": 1320,
+       "pose": "shock",
+       "emote": "shock",
+       "scale": 1.2
+      },
+      {
+       "id": "scout3",
+       "x": 700,
+       "y": 1440,
+       "pose": "shock",
+       "emote": "dizzy",
+       "scale": 1.2,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "ladder",
+       "x": 540,
+       "y": 900,
+       "scale": 3.5,
+       "layer": "back"
+      },
+      {
+       "kind": "magnifier",
+       "x": 450,
+       "y": 1000,
+       "scale": 1.0,
+       "anim": "shake"
+      },
+      {
+       "kind": "magnifier",
+       "x": 630,
+       "y": 1000,
+       "scale": 1.0,
+       "anim": "shake"
+      }
+     ],
+     "sfx": {
+      "text": "CLANG",
+      "x": 540,
+      "y": 560,
+      "r": 100
+     },
+     "cam": "shake"
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.44,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "scout1",
+       "x": 380,
+       "y": 1440,
+       "pose": "tired",
+       "emote": "dizzy",
+       "scale": 1.2
+      },
+      {
+       "id": "scout2",
+       "x": 540,
+       "y": 1320,
+       "pose": "tired",
+       "emote": "dizzy",
+       "scale": 1.2
+      },
+      {
+       "id": "scout3",
+       "x": 700,
+       "y": 1440,
+       "pose": "tired",
+       "emote": "dizzy",
+       "scale": 1.2,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "ladder",
+       "x": 540,
+       "y": 900,
+       "scale": 3.5,
+       "layer": "back"
+      },
+      {
+       "kind": "magnifier",
+       "x": 450,
+       "y": 1000,
+       "scale": 1.0
+      },
+      {
+       "kind": "magnifier",
+       "x": 630,
+       "y": 1000,
+       "scale": 1.0
+      },
+      {
+       "kind": "magnifier",
+       "x": 540,
+       "y": 1020,
+       "scale": 1.0,
+       "anim": "wobble"
+      }
+     ]
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "scout1",
+       "x": 380,
+       "y": 1440,
+       "pose": "shock",
+       "emote": "sweat",
+       "scale": 1.2
+      },
+      {
+       "id": "scout2",
+       "x": 540,
+       "y": 1320,
+       "pose": "shock",
+       "emote": "sweat",
+       "scale": 1.2
+      },
+      {
+       "id": "scout3",
+       "x": 700,
+       "y": 1440,
+       "pose": "shock",
+       "emote": "sweat",
+       "scale": 1.2,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "ladder",
+       "x": 540,
+       "y": 900,
+       "scale": 3.5,
+       "layer": "back"
+      },
+      {
+       "kind": "magnifier",
+       "x": 450,
+       "y": 1000,
+       "scale": 1.0
+      },
+      {
+       "kind": "magnifier",
+       "x": 630,
+       "y": 1000,
+       "scale": 1.0
+      },
+      {
+       "kind": "sticker",
+       "x": 540,
+       "y": 620,
+       "scale": 3.0,
+       "text": "35",
+       "anim": "drop"
+      },
+      {
+       "kind": "ball",
+       "x": 540,
+       "y": 780,
+       "scale": 1.1,
+       "anim": "wobble"
+      }
+     ]
+    }
+   ]
+  },
+  "s05": {
+   "type": "NEWS",
+   "name": "Gustavo Varela",
+   "fact": "Tottenham have made an enquiry",
+   "ticker": "Spurs, Reds, Juve",
+   "icons": [
+    "envelope",
+    "magnifier",
+    "calendar"
+   ],
+   "role": "striker",
+   "actor": "varela"
+  },
+  "s06": {
+   "type": "INTERVIEW",
+   "label": "REPORTER ASKS",
+   "bubble": "Thirty-five million: fair price?",
+   "answer": {
+    "icon": "tag",
+    "gesture": "shrug",
+    "emote": "sweat"
+   },
+   "subject": "Gustavo Varela",
+   "subject_cast": "varela",
+   "reporter_role": "reporter"
+  },
+  "s07": {
+   "type": "PROVOC",
+   "q": "Where next: Spurs or Juve?",
+   "a": "Spurs",
+   "b": "Juve",
+   "split": [
+    46,
+    54
+   ],
+   "mood": "smug"
+  }
+ }
+}

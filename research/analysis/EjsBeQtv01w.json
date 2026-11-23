@@ -1,0 +1,80 @@
+{
+ "video_id": "EjsBeQtv01w",
+ "topic": "Football meme: 'Ferran Torres prime is back' joke followed by a stat card of his poor match vs Lille",
+ "hero": "Ferran Torres (named in caption and stat card)",
+ "hero_role": "butt of the joke (poor stats shown ironically)",
+ "media_type_overall": "mixed",
+ "hook": "Dark broadcast clip of a goal attempt with caption 'Ferran Torres prime is back 😭'",
+ "subtitle_style": "small white caption with emoji, upper-left over letterboxed clip",
+ "reaction_overlays": "stat card graphic (FERRAN TORRES vs LILLE with zero stats), reaction clip of two men looking at laptop",
+ "transition_summary": "3 hard cuts in 11s (about 3 cuts/10s); letterboxed black bars",
+ "audio_note": "unknown; meme/trending sound",
+ "reuse_segments": [
+  {
+   "t0": 0,
+   "t1": 6,
+   "what": "Dark broadcast attack clip",
+   "origin_guess": "broadcast match",
+   "rights_risk": "high",
+   "how_to_reuse": "Licensed footage needed"
+  },
+  {
+   "t0": 6,
+   "t1": 8,
+   "what": "Match stat card",
+   "origin_guess": "unknown",
+   "rights_risk": "medium",
+   "how_to_reuse": "Recreate card with own graphics/data"
+  },
+  {
+   "t0": 8,
+   "t1": 11,
+   "what": "Reaction clip of two men at laptop",
+   "origin_guess": "unknown",
+   "rights_risk": "high",
+   "how_to_reuse": "Replace with generic reaction stock/AI clip"
+  }
+ ],
+ "frames": [
+  {
+   "idx": 1,
+   "t": 0,
+   "desc": "Letterboxed wide broadcast clip, Toyota boards, caption 'Ferran Torres prime is back'",
+   "type": "video",
+   "text_on_screen": "Ferran Torres prime is back 😭",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 2,
+   "t": 2,
+   "desc": "Same clip, goal attempt, Toyota boards, caption",
+   "type": "video",
+   "text_on_screen": "Ferran Torres prime is back 😭",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 3,
+   "t": 4,
+   "desc": "Same clip darker, ball near goal, caption",
+   "type": "video",
+   "text_on_screen": "Ferran Torres prime is back 😭",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 4,
+   "t": 6,
+   "desc": "Stat card: FERRAN TORRES vs LILLE, 6.0 rating, 0 goals 0 assists 0 shots, player sitting on grass",
+   "type": "graphic_card",
+   "text_on_screen": "FERRAN TORRES VS LILLE 0 goals 0 assists 0 shots on target 1 big chance missed 0/0 dribbles 4x possession lost",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 5,
+   "t": 8,
+   "desc": "Two men in light blue shirts leaning over a laptop, reacting",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "none"
+  }
+ ]
+}

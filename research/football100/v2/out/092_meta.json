@@ -1,0 +1,87 @@
+{
+ "no": 92,
+ "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/092_six_clubs_chase_feyenoord_winger_ani.mp4",
+ "total": 39.46666666666667,
+ "outro_start": 33.38,
+ "cover": true,
+ "seq": [
+  {
+   "id": "s01",
+   "kind": "HOOK",
+   "start": 0.1,
+   "end": 1.6,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/092/s01.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s02",
+   "kind": "NEWS",
+   "start": 3.1,
+   "end": 4.866666666666666,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/092/s02.mp4",
+   "clip_dur": 1.766,
+   "frames": 42
+  },
+  {
+   "id": "s03",
+   "kind": "COMIC1",
+   "start": 5.8,
+   "end": 7.8,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/092/s03.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s04",
+   "kind": "STATS",
+   "start": 12.466666666666667,
+   "end": 13.966666666666667,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/092/s04.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s05",
+   "kind": "COMIC2",
+   "start": 19.0,
+   "end": 21.0,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/092/s05.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s06",
+   "kind": "PROVOC",
+   "start": 23.3,
+   "end": 24.8,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/092/s06.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s07",
+   "kind": "INTERVIEW",
+   "start": 26.033333333333335,
+   "end": 27.8,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/092/s07.mp4",
+   "clip_dur": 1.767,
+   "frames": 42
+  }
+ ],
+ "missing": [],
+ "dropped": [],
+ "cards": [],
+ "caption_sprites": 80,
+ "whoosh": [
+  0.0,
+  3.0,
+  5.7,
+  12.366666666666667,
+  18.9,
+  23.2,
+  25.933333333333334,
+  33.28
+ ],
+ "shots": 12
+}

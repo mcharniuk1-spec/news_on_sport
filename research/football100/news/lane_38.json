@@ -1,0 +1,478 @@
+[
+  {
+    "headline": "Mudryk's podcast line that Arsenal was his dream club irritates Tottenham fans; De Zerbi responds",
+    "date": "2026-11-20",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50541230/tottenham-roberto-de-zerbi-mykhailo-mudryk-arsenal",
+    "entities": ["Mykhailo Mudryk", "Roberto De Zerbi", "Tottenham Hotspur", "Arsenal", "Chelsea"],
+    "facts": [
+      "On the Guest of Gordon podcast, Mudryk called Arsenal the club he wanted to play for and said a move to the Emirates was his dream.",
+      "He is a 25-year-old Ukrainian winger on a season-long loan at Tottenham from Chelsea, and has played only 16 minutes since his deadline-day arrival because of an ankle injury.",
+      "De Zerbi said he understands fan frustration but called Mudryk a good person and told him to focus on showing his quality; he sidestepped a question about cancelling the loan in January."
+    ],
+    "background": "Mudryk moved from Shakhtar Donetsk to Chelsea in January 2023 after Arsenal had also pursued him, and the same ESPN report notes he has served a drugs ban.",
+    "angle": "viral",
+    "sensitive": true,
+    "footage_terms": ["Mudryk Tottenham De Zerbi press conference", "Mudryk Guest of Gordon podcast Arsenal", "Mudryk Chelsea highlights"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Man Utd CEO Berrada defends Carrick sacking, club leadership and a Pochettino appointment in Sky interview",
+    "date": "2026-11-20",
+    "source_domain": "skysports.com",
+    "url": "https://www.skysports.com/football/news/13614312/omar-berrada-interview-manchester-united-chief-executive-on-michael-carrick-mauricio-pochettino-recent-transfer-activity-and-the-club-hierarchy",
+    "entities": ["Omar Berrada", "Manchester United", "Michael Carrick", "Mauricio Pochettino", "Bruno Fernandes"],
+    "facts": [
+      "Berrada said sacking Carrick after a 3-0 home loss to Bournemouth on 25 October was a very difficult decision, and admitted that some criticism of club leadership is fair.",
+      "He noted United have had three permanent managers in under three seasons and spent 163m pounds this summer, mostly on midfielders.",
+      "He said contract talks with Bruno Fernandes continue privately and that United were unhappy 16-year-old JJ Gabriel announced his exit for Real Madrid without telling them."
+    ],
+    "background": "Berrada joined United as chief executive in 2024 after working at Manchester City, so he was part of the City side that is now facing the Premier League charges.",
+    "angle": "business",
+    "sensitive": false,
+    "footage_terms": ["Omar Berrada interview Manchester United", "Manchester United Carrick sacked reaction", "Man Utd Pochettino first day Carrington"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Drone video of Pochettino's first Man Utd training session gets millions of views, operator apologises",
+    "date": "2026-11-20",
+    "source_domain": "skysports.com",
+    "url": "https://www.skysports.com/football/news/13614271/manchester-united-drone-operator-removes-training-footage-of-mauricio-pochettinos-first-training-session-and-apologises",
+    "entities": ["Mauricio Pochettino", "Manchester United", "Carrington", "Liverpool", "CC Overview"],
+    "facts": [
+      "A drone filmed about 12 minutes of Pochettino's first Carrington session on Thursday and the YouTube channel CC Overview posted it; reposts passed eight million views, according to Sky Sports.",
+      "The operator apologised on Friday, called the filming unethical though legal, and removed the video.",
+      "ESPN reports sources saying United would take legal action if a similar drone incident happens again."
+    ],
+    "background": "Pochettino managed Tottenham, PSG and Chelsea before the US national team job, and his first match back in club football is at Liverpool.",
+    "angle": "viral",
+    "sensitive": false,
+    "footage_terms": ["Man Utd Carrington drone footage Pochettino training", "Pochettino Manchester United first training session", "Manchester United training ground drone"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Iraola says Pochettino's United have a 'small advantage' and calls drone filming of training illegal-worthy",
+    "date": "2026-11-20",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50540745/liverpool-manchester-united-mauricio-pochettino",
+    "entities": ["Andoni Iraola", "Liverpool", "Manchester United", "Mauricio Pochettino"],
+    "facts": [
+      "Iraola said United have a small advantage because Liverpool lack reference points for how Pochettino's side will play.",
+      "United sit 18th and are eight league games without a win, while Liverpool are fourth and have struggled at Anfield.",
+      "Liverpool have not beaten United at Anfield since March 2023; Sky Sports also reports Iraola said drone flights over private training should not be legal."
+    ],
+    "background": "Iraola arrived at Liverpool from Bournemouth, where he built a reputation for intense pressing football, and this is his first Liverpool meeting with United.",
+    "angle": "coach",
+    "sensitive": false,
+    "footage_terms": ["Iraola press conference Liverpool Manchester United Pochettino", "Liverpool vs Manchester United Anfield highlights", "Iraola drone footage reaction"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Arteta bans Arsenal players from picking themselves in FPL after team news leaked via a squad member's team",
+    "date": "2026-11-20",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50539955/arsenal-arteta-fantasy-premier-league-injuries-team-news",
+    "entities": ["Mikel Arteta", "Arsenal", "Christos Tzolis", "Fantasy Premier League", "Chelsea"],
+    "facts": [
+      "ESPN reports Arsenal's Christos Tzolis picked and captained himself in FPL before the Liverpool game, hinting he was fit, then transferred out three team-mates a week later.",
+      "Arteta said Arsenal will take steps to stop such leaks and confirmed players will be barred from selecting themselves.",
+      "ESPN adds that Chelsea reminded staff about FPL after people linked to the club transferred out Joao Pedro shortly before a thigh injury became public."
+    ],
+    "background": "Arteta has managed Arsenal since December 2019 and is known for tight control over team news before matches.",
+    "angle": "viral",
+    "sensitive": false,
+    "footage_terms": ["Arteta press conference Fantasy Premier League", "Arsenal Tzolis FPL captain", "Arteta team news leak FPL"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Bruce Arena says US Soccer 'don't have a clue' how to replace Pochettino",
+    "date": "2026-11-18",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50525211/us-coach-arena-federation-clue-next-coach",
+    "entities": ["Bruce Arena", "US Soccer", "Mauricio Pochettino", "Steve Cherundolo", "San Jose Earthquakes"],
+    "facts": [
+      "Arena said the federation is handling the search for Pochettino's successor poorly, saying it does not have a clue what it is doing.",
+      "Pochettino left the USMNT for Manchester United after a 2-0 win over Haiti that sent the US through to the CONCACAF Nations League finals.",
+      "U23 coach Steve Cherundolo will lead a December camp and a friendly against Jamaica."
+    ],
+    "background": "Arena coached the US men's team in 1998-2006 and 2016-2017, and said in 2025 that he opposed hiring Pochettino because a non-American would not grasp US culture.",
+    "angle": "coach",
+    "sensitive": false,
+    "footage_terms": ["Bruce Arena US Soccer coach search press conference", "Pochettino USMNT Haiti highlights", "USMNT Pochettino leaves Manchester United"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Pochettino's first Man Utd interview: players must relearn the feeling of winning",
+    "date": "2026-11-19",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50529858/mauricio-pochettino-man-united-liverpool",
+    "entities": ["Mauricio Pochettino", "Manchester United", "Liverpool"],
+    "facts": [
+      "Pochettino said his first job is to help players regain the winning feeling, and that it needs concrete changes across the club, not just talk.",
+      "He wants players to express their talent and said pressure should create energy rather than weigh them down.",
+      "United are 18th with one league win all season, their worst start in 40 years, and he signed a contract until 2029."
+    ],
+    "background": "Pochettino, 54, led Tottenham to the 2019 Champions League final and replaces Michael Carrick, who was sacked after the Bournemouth defeat.",
+    "angle": "coach",
+    "sensitive": false,
+    "footage_terms": ["Pochettino first interview Manchester United", "Pochettino Manchester United unveiled", "Pochettino press conference winners"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Thomas Frank jokes about the Arsenal coffee cup at his first Crystal Palace press conference",
+    "date": "2026-11-19",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50534780/thomas-frank-crystal-palace-arsenal-tottenham-coffee-cup",
+    "entities": ["Thomas Frank", "Crystal Palace", "Tottenham Hotspur", "Arsenal", "Steve Parish"],
+    "facts": [
+      "Frank joked that he hopes not to be caught with similar drinkware again and said he still finds the January Arsenal cup episode amusing.",
+      "In January he was photographed with an Arsenal-branded cup before Spurs lost to Bournemouth, and said at the time drinking from a rival's cup deliberately would be absolutely stupid.",
+      "Palace are bottom of the Premier League with the worst goals-against record, and his first game is at Coventry on Saturday."
+    ],
+    "background": "Frank was sacked by Tottenham in February after under eight months in charge, having previously coached Brentford.",
+    "angle": "viral",
+    "sensitive": false,
+    "footage_terms": ["Thomas Frank Arsenal coffee cup Tottenham", "Thomas Frank Crystal Palace press conference", "Crystal Palace Coventry highlights"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Vinicius admits poor preparation after the World Cup; Mourinho says he shouldn't have said it but values honesty",
+    "date": "2026-11-20",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50539637/jose-mourinho-vinicius-junior-real-madrid",
+    "entities": ["Vinicius Junior", "Jose Mourinho", "Real Madrid", "Arsenal", "Yan Diomande"],
+    "facts": [
+      "At a press conference in Singapore on 16 November, Vinicius said he felt overwhelmed by summer transfer talk including Arsenal's interest, and that he trained less after the World Cup; he has one LaLiga goal in eight games.",
+      "Mourinho said Vinicius shouldn't have said it, but that he does not criticise honesty, and told him to win back his place.",
+      "Vinicius lost his starting spot to new signing Yan Diomande and is available again for Celta Vigo after a four-game ban."
+    ],
+    "background": "Vinicius was a Ballon d'Or favourite in 2024 but Rodri won it, and he signed a Real Madrid extension to 2032 in August after Arsenal circled.",
+    "angle": "scandal",
+    "sensitive": false,
+    "footage_terms": ["Vinicius Junior press conference Singapore Brazil", "Mourinho Vinicius press conference Real Madrid", "Real Madrid Celta Vigo highlights"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Amorim says 'no excuses' and questions himself after Milan lose 2-0 at home to Ferencvaros",
+    "date": "2026-11-05",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50393432/ruben-amorim-ac-milan-ferencvaros-uefa-europa-league",
+    "entities": ["Ruben Amorim", "AC Milan", "Ferencvaros", "Christian Pulisic"],
+    "facts": [
+      "Amorim said he was not mentally prepared, the team lacked the right attitude when trailing, and Ferencvaros were better technically, tactically and mentally.",
+      "Lenny Joseph scored both goals; Ferencvaros had a player sent off late but Milan could not use the extra man.",
+      "Milan had three points from four Europa League games, 28th in the league phase, and Amorim made six changes after the Inter win."
+    ],
+    "background": "Amorim is the former Manchester United manager, whose spell there ended in a sacking.",
+    "angle": "coach",
+    "sensitive": false,
+    "footage_terms": ["Amorim press conference Milan Ferencvaros", "AC Milan Ferencvaros 0-2 highlights", "Amorim no excuses Milan"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Cristiano Ronaldo quits Portugal duty in a statement accusing coach Jorge Jesus of broken promises",
+    "date": "2026-11-05",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50075485/cristiano-ronaldo-long-history-rows-portugal-manchester-united-real-madrid-juventus-coaches",
+    "entities": ["Cristiano Ronaldo", "Jorge Jesus", "Portugal", "Portuguese Football Federation"],
+    "facts": [
+      "Ronaldo, 41, announced his international retirement with a men's record 146 goals in 243 caps.",
+      "He accused Jesus of breaking two promises, including having him ready for 30 minutes against Norway, and apologised to team-mates for leaving camp in September.",
+      "Farewell matches he had hoped for will not happen, and Portugal play Denmark and Wales without him."
+    ],
+    "background": "Ronaldo is a five-time Ballon d'Or winner and won Euro 2016 with Portugal; ESPN lists a long history of rows with coaches from Ferguson-era Manchester United to Juventus and Mourinho's Real Madrid.",
+    "angle": "history",
+    "sensitive": false,
+    "footage_terms": ["Ronaldo retires international Portugal statement", "Ronaldo Jorge Jesus row Portugal Norway", "Ronaldo Portugal 146 goals record"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Allegri banned two games for insulting officials after Napoli's 3-3 draw with Roma, drops appeal",
+    "date": "2026-10-26",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50288088/napoli-appeal-allegri-2-match-ban-insulting-ref",
+    "entities": ["Massimiliano Allegri", "Napoli", "AS Roma", "Leonardo Balerdi", "Serie A"],
+    "facts": [
+      "Allegri was sent off after Balerdi's late equaliser, which he believed followed a foul on Sam Beukema.",
+      "Serie A gave him a two-match touchline ban and a 10,000 euro fine for insulting match officials and aggression toward a Roma staff member.",
+      "Napoli first said they would appeal, but a later ESPN report says Allegri decided against appealing and would watch Monza from the stands."
+    ],
+    "background": "Allegri won five straight Serie A titles with Juventus from 2015 to 2019 and is known for animated touchline behaviour.",
+    "angle": "scandal",
+    "sensitive": false,
+    "footage_terms": ["Allegri red card Napoli Roma 3-3", "Napoli Roma 3-3 highlights", "Allegri sent off fourth official"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Milan owner Cardinale backs Amorim with a 'Top Gun' vow: 'I'm not leaving my wingman'",
+    "date": "2026-10-30",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50326721/ruben-amorim-gerry-cardinale-ac-milan-chief-makes-top-gun-vow",
+    "entities": ["Gerry Cardinale", "Ruben Amorim", "AC Milan", "Gazzetta dello Sport"],
+    "facts": [
+      "Speaking to Gazzetta dello Sport, Cardinale cited the Top Gun line about not leaving a wingman and said Amorim faces no threat of dismissal.",
+      "He said Amorim learned from his time at Manchester United and that the atmosphere at Milanello has improved.",
+      "Milan were fifth, seven points behind the leaders, and faced Inter in the derby that weekend."
+    ],
+    "background": "RedBird's Cardinale bought Milan in 2022 and the club has changed coaches frequently in recent years, which he now says he will not repeat.",
+    "angle": "business",
+    "sensitive": false,
+    "footage_terms": ["Cardinale Amorim Top Gun Milan", "Amorim Milan press conference Inter derby", "AC Milan Cardinale interview"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Southgate: Kane isn't a better player than two years ago, just more confident, after Ballon d'Or win",
+    "date": "2026-11-11",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50451808/harry-kane-england-gareth-southgate",
+    "entities": ["Gareth Southgate", "Harry Kane", "Bayern Munich", "England", "ITV"],
+    "facts": [
+      "Southgate told ITV that Kane has not become a better player in two years, but his biggest change is self-belief.",
+      "Kane won the Ballon d'Or last month, beating Kylian Mbappe and Lamine Yamal and becoming the first English winner in 25 years.",
+      "Southgate recalled telling Kane after the 2024 final defeat that he would win the league with Bayern, which then happened."
+    ],
+    "background": "Kane lost the 2021 and 2024 European Championship finals with England under Southgate and left Tottenham for Bayern in 2023 without a major trophy.",
+    "angle": "history",
+    "sensitive": false,
+    "footage_terms": ["Southgate Kane Ballon d'Or ITV interview", "Harry Kane Ballon d'Or ceremony", "Harry Kane Bayern goals 2026"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Kompany returns to the Bayern bench after collapse at training, says he is in good health",
+    "date": "2026-11-19",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50530204/vincent-kompany-good-health-bayern-munich-collapse",
+    "entities": ["Vincent Kompany", "Bayern Munich", "Aaron Danks", "Harry Kane"],
+    "facts": [
+      "Kompany collapsed at a reserve-team training session on 23 October and was treated for meningeal irritation; he returns for the Cologne game on 20 November.",
+      "He missed five games, in which assistant Aaron Danks led Bayern to five unbeaten, including a 2-0 win over Atletico Madrid.",
+      "He said all test results are clear and that he rethought how he listens to his body after returning for the Arsenal game while fighting a viral infection."
+    ],
+    "background": "Kompany, a former Manchester City captain, took charge of Bayern in 2024 after managing Burnley, and Bayern now lead the Bundesliga level with Dortmund.",
+    "angle": "coach",
+    "sensitive": true,
+    "footage_terms": ["Kompany returns Bayern press conference", "Bayern Cologne highlights", "Kompany collapse training update"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Luis Enrique says Vitinha deserved a higher Ballon d'Or rank than 14th",
+    "date": "2026-10-29",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50320065/psg-luis-enrique-vitinha-ballon-dor",
+    "entities": ["Luis Enrique", "Vitinha", "PSG", "Ousmane Dembele", "Khvicha Kvaratskhelia", "Ballon d'Or"],
+    "facts": [
+      "Luis Enrique said Vitinha was not ranked as high as he deserves, praising his technical and physical ability.",
+      "Vitinha finished 14th, a year after placing third when team-mate Dembele won.",
+      "PSG were named Men's Club of the Year at the 70th Ballon d'Or ceremony, with Kvaratskhelia sixth and Dembele seventh among PSG players."
+    ],
+    "background": "PSG won the 2025 Champions League under Luis Enrique and Dembele took the 2025 Ballon d'Or, making Vitinha's drop from third to 14th notable.",
+    "angle": "history",
+    "sensitive": false,
+    "footage_terms": ["Ballon d'Or 2026 ceremony Kane wins", "Luis Enrique Vitinha Ballon d'Or press conference", "Vitinha PSG highlights 2026"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Haaland tells Man City to 'step up' even after his late winner at Leipzig",
+    "date": "2026-11-04",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50382966/erling-haaland-man-city-rb-leipzig-uefa-champions-league",
+    "entities": ["Erling Haaland", "Manchester City", "RB Leipzig", "Enzo Maresca"],
+    "facts": [
+      "Haaland scored the 78th-minute winner in City's 3-2 Champions League win at Leipzig, his 14th goal of the season and 13th against Leipzig.",
+      "He said City should have been more aggressive after going ahead and made better decisions about when to keep the ball.",
+      "The win followed a Premier League loss to Brighton, City's second straight league defeat."
+    ],
+    "background": "Haaland joined City from Dortmund in 2022 and has scored heavily in the Champions League against German clubs.",
+    "angle": "win",
+    "sensitive": false,
+    "footage_terms": ["Haaland winner RB Leipzig Manchester City highlights", "Haaland interview after Leipzig win", "Maresca press conference Leipzig"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Fabregas warns Como not to believe the hype after a record 9-1 Champions League win at Lens",
+    "date": "2026-11-04",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50382528/fabregas-como-4th-record-setting-9-goal-night",
+    "entities": ["Cesc Fabregas", "Como", "Lens", "UEFA Champions League"],
+    "facts": [
+      "Como won 9-1 away at Lens, tying Bayern's record for goals in a Champions League game.",
+      "The eight-goal margin tied the competition record and nine is the most goals scored on the road in the competition's history.",
+      "Fabregas told his players not to believe their own hype and to enjoy the day, then keep performing; Como moved up to fourth."
+    ],
+    "background": "Fabregas won the 2010 World Cup with Spain and played for Arsenal, Barcelona and Chelsea before moving into coaching at Como.",
+    "angle": "record",
+    "sensitive": false,
+    "footage_terms": ["Lens Como 1-9 highlights Champions League", "Fabregas press conference Como Lens", "Como record win Champions League"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Pulisic calls new Milan contract 'the most important chapter' of his career",
+    "date": "2026-10-30",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50308383/usmnt-star-christian-pulisic-signs-new-ac-milan-contract",
+    "entities": ["Christian Pulisic", "AC Milan", "Ruben Amorim"],
+    "facts": [
+      "Pulisic, 28, re-signed with Milan through 2031 and said he is in love with the club and that his family is happy there.",
+      "His previous deal ran to June 2027, and the new one extends beyond the next World Cup.",
+      "The renewal came a day after Milan announced a new stadium due to open in 2031."
+    ],
+    "background": "Pulisic joined Milan from Chelsea in 2023 for a reported 22m euros and has 44 goals and 28 assists in 141 appearances for the club.",
+    "angle": "business",
+    "sensitive": false,
+    "footage_terms": ["Pulisic new contract Milan interview", "Pulisic Milan goals highlights", "Pulisic Amorim Milan"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Hoeness says Musiala may never return to his old level; Bayern board backs him",
+    "date": "2026-11-20",
+    "source_domain": "goal.com",
+    "url": "https://www.goal.com/en/news/uli-hoeness-caused-a-stir-now-bayern-munich-s-supervisory-board-weigh-in-on-the-jamal-musiala-case/blt0f10287e7dd63d73",
+    "entities": ["Uli Hoeness", "Jamal Musiala", "Bayern Munich", "Jan-Christian Dreesen", "Vincent Kompany"],
+    "facts": [
+      "Hoeness called the situation a dilemma on BR, said Musiala's illness can be managed with medication but not easily cured, and doubted he would return to his former level.",
+      "Sport Bild reports the supervisory board backed Hoeness at its Monday meeting; CEO Dreesen said he hopes Musiala returns.",
+      "Kompany said he believes Musiala will return and succeed, and Musiala is expected back against Cologne on Friday."
+    ],
+    "background": "Musiala has had repeated setbacks since a serious injury at the 2025 Club World Cup, and Goal reports a neurological condition causing treatable brief absence seizures.",
+    "angle": "scandal",
+    "sensitive": true,
+    "footage_terms": ["Hoeness Musiala comments BR", "Musiala return Bayern Cologne", "Kompany Musiala press conference"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Zidane says France are not seeking revenge on Spain in Nations League quarter-final",
+    "date": "2026-11-20",
+    "source_domain": "goal.com",
+    "url": "https://www.goal.com/en/news/zidane-we-expected-a-tough-draw-and-we-are-not-thinking-about-revenge-against-spain/bltb9527a6ba7e32e34",
+    "entities": ["Zinedine Zidane", "France", "Spain", "UEFA Nations League"],
+    "facts": [
+      "France coach Zidane said the Nations League quarter-final against Spain is not a chance for revenge for the 2026 World Cup semi-final loss.",
+      "He called it a different competition and a new group, aiming for the semi-finals and the title.",
+      "The first leg is on 25 March 2027, the return in France on 28 March, and the final on 13 June."
+    ],
+    "background": "Zidane won the 1998 World Cup and Ballon d'Or as a player and three Champions Leagues in a row as Real Madrid coach.",
+    "angle": "coach",
+    "sensitive": false,
+    "footage_terms": ["Zidane press conference France Spain draw", "France Spain World Cup semi-final highlights 2026", "Zidane France coach interview"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Thomas Muller says MLS play is 'careless' because there is no relegation",
+    "date": "2026-11-20",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50541122/no-relegation-means-mls-style-careless-whitecaps-muller",
+    "entities": ["Thomas Muller", "Vancouver Whitecaps", "MLS", "Global News"],
+    "facts": [
+      "Muller told Global News that without promotion and relegation players feel less pressure, so MLS teams can be careless defensively.",
+      "He described a laissez-faire approach that produces attacking highlights but less consistency, with players struggling to stay focused for 90 minutes.",
+      "He contrasted this with Europe, where relegation threatens budgets, staff and fans."
+    ],
+    "background": "Muller left Bayern Munich after a long career there and joined the Vancouver Whitecaps in 2025.",
+    "angle": "viral",
+    "sensitive": false,
+    "footage_terms": ["Thomas Muller Vancouver Whitecaps interview MLS", "Muller Whitecaps goals highlights", "Muller MLS relegation comments"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Gerrard backs Iraola at Liverpool and says keeping Gakpo was essential",
+    "date": "2026-10-14",
+    "source_domain": "goal.com",
+    "url": "https://www.goal.com/en/news/video-steven-gerrard-exclusive-liverpool-cody-gakpo-decision-andoni-iraola-beast-mode-on-podcast/blt39d6eccb9d80d369",
+    "entities": ["Steven Gerrard", "Andoni Iraola", "Cody Gakpo", "Liverpool", "Alexander Isak"],
+    "facts": [
+      "On Goal's Beast Mode On Podcast, Gerrard said Iraola earned the Liverpool job and needs patience to shape a title challenger.",
+      "He said keeping Gakpo was essential and praised the forward's World Cup, pre-season and start to the season.",
+      "Manchester City and Tottenham had both been interested in Gakpo in the summer."
+    ],
+    "background": "Gerrard is a Liverpool legend who later managed Rangers and Aston Villa.",
+    "angle": "coach",
+    "sensitive": false,
+    "footage_terms": ["Steven Gerrard Beast Mode On podcast Liverpool", "Gakpo Liverpool goals highlights", "Gerrard Iraola Liverpool interview"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Haaland 'incredibly happy' at City and avoids talk of sanctions after scoring for Norway",
+    "date": "2026-11-15",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50490251/erling-haaland-man-city-premier-league-sanctions",
+    "entities": ["Erling Haaland", "Manchester City", "Norway", "Premier League"],
+    "facts": [
+      "After Norway beat Wales 3-1, Haaland scored his 66th international goal in 60 caps and said he is incredibly happy at City.",
+      "He declined to discuss the legal dispute in detail, said his contract stands, and noted the period under investigation, 2009 to 2018, was before he joined.",
+      "City were found guilty of more than 100 breaches of Premier League financial rules, have appealed and deny wrongdoing."
+    ],
+    "background": "Haaland signed for City in 2022 and extended his deal in late 2024.",
+    "angle": "business",
+    "sensitive": true,
+    "footage_terms": ["Haaland Norway Wales highlights", "Haaland interview City future sanctions", "Haaland 66th international goal"],
+    "confidence": "high"
+  },
+  {
+    "headline": "De la Fuente slams 'lying' over claims Yamal gets special privileges from Spain",
+    "date": "2026-11-11",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50455459/spain-lamine-yamal-injury-luis-de-la-fuente-nations-league",
+    "entities": ["Luis de la Fuente", "Lamine Yamal", "Spain", "Barcelona"],
+    "facts": [
+      "De la Fuente defended Yamal, who had right-knee inflammation and joined camp late after Barcelona's 2-1 win at Atletico Madrid.",
+      "He said medical staff recommended rest at home, denied special treatment, and said he was upset by what he called lying and fabrication in reports.",
+      "He expected Yamal to be available by Friday; Spain lead their Nations League group and are already in the quarter-finals."
+    ],
+    "background": "Yamal was one of the two players, with Mbappe, who Kane beat to this year's Ballon d'Or, according to ESPN's Southgate report.",
+    "angle": "scandal",
+    "sensitive": true,
+    "footage_terms": ["De la Fuente press conference Yamal privileges", "Lamine Yamal knee injury Spain", "Spain Czechia Nations League highlights"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Iraola goes viral after posing with kids at a grassroots match near Liverpool",
+    "date": "2026-11-17",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50509743/andoni-iraola-liverpool-grassroots-premier-league",
+    "entities": ["Andoni Iraola", "Liverpool", "Maghull FC", "Joe Burns"],
+    "facts": [
+      "Iraola watched a junior Maghull FC game during the international break, reportedly to see a relative, and posed for photos with children.",
+      "A photo with two young players posted by Maghull FC passed a million views.",
+      "Maghull manager Joe Burns said Iraola spent a long time with the kids, and fans called him down-to-earth."
+    ],
+    "background": "Earlier this year, while still Bournemouth manager, Iraola was seen working as an assistant referee at a local match.",
+    "angle": "viral",
+    "sensitive": false,
+    "footage_terms": ["Iraola Maghull grassroots kids photo", "Iraola Liverpool press conference", "Iraola assistant referee local match"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Mourinho says he'd be 'grateful' if Ancelotti gives Endrick minutes for Brazil",
+    "date": "2026-11-10",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50441089/endrick-jose-mourinho-real-madrid-ancelotti-brazil",
+    "entities": ["Jose Mourinho", "Endrick", "Carlo Ancelotti", "Real Madrid", "Brazil"],
+    "facts": [
+      "After a 3-0 win at Valencia, Mourinho said he would be grateful if Brazil coach Ancelotti gives Endrick plenty of minutes.",
+      "Endrick has played 141 minutes for Madrid this season with one start and one goal, and said he is unsure about his future beyond January.",
+      "Mourinho has said Endrick's future is at the Bernabeu."
+    ],
+    "background": "Mourinho returned to Real Madrid as coach, a club he previously managed from 2010 to 2013, where he clashed with Ronaldo; Ancelotti, whom he now quotes, coached Madrid before taking Brazil.",
+    "angle": "coach",
+    "sensitive": false,
+    "footage_terms": ["Mourinho press conference Endrick Brazil Ancelotti", "Valencia Real Madrid 0-3 highlights", "Endrick Real Madrid minutes"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Kane thanks acupuncture doctor who revived his career before breaking England's caps record",
+    "date": "2026-11-11",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50453418/harry-kane-england-126th-cap-peter-shilton-record-break",
+    "entities": ["Harry Kane", "Alejandro Elorriaga Claraco", "Peter Shilton", "England", "Croatia"],
+    "facts": [
+      "Kane credited acupuncture specialist Dr Alejandro Elorriaga Claraco, whom he began working with in 2020 after a run of injuries, for reviving his career.",
+      "At 33 he shared England's all-time caps record with Peter Shilton and was due to take sole ownership with his 126th cap against Croatia at Wembley.",
+      "ESPN reports he broke the record in that match and was inspired by Luka Modric as he chases his biggest dream."
+    ],
+    "background": "Kane is the reigning Ballon d'Or winner, and England's all-time top scorer, having moved to Bayern from Tottenham in 2023.",
+    "angle": "record",
+    "sensitive": true,
+    "footage_terms": ["Kane 126th cap England record Croatia Wembley", "Kane Shilton caps record interview", "England Croatia Nations League highlights"],
+    "confidence": "medium"
+  }
+]

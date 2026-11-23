@@ -1,0 +1,736 @@
+{
+ "no": 45,
+ "style": "FLAT-POP",
+ "prop": "coin",
+ "cast": {
+  "araujo": {
+   "role": "player",
+   "number": "4",
+   "shirt": "#5aa9e6",
+   "hair": "#2b2b3a"
+  },
+  "club": {
+   "role": "fan",
+   "shirt": "#d62839",
+   "hair": "#6b4a2a"
+  },
+  "rival": {
+   "role": "fan",
+   "shirt": "#f2b134",
+   "hair": "#2b2b3a"
+  },
+  "spider": {
+   "role": "mascot",
+   "shirt": "#3b2f4f"
+  }
+ },
+ "sequences": {
+  "s01": {
+   "type": "HOOK",
+   "q": "Would you pay 55m euros for Araujo?",
+   "prop": "coin",
+   "emote": "shock",
+   "board": "ticket"
+  },
+  "s02": {
+   "type": "COMIC",
+   "bg": "office",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "club",
+       "x": 250,
+       "y": 1440,
+       "pose": "present",
+       "emote": "happy",
+       "scale": 1.25
+      },
+      {
+       "id": "araujo",
+       "x": 800,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "neutral",
+       "scale": 1.3,
+       "flip": true,
+       "label": "Uruguay defender"
+      }
+     ],
+     "props": [
+      {
+       "kind": "coin",
+       "x": 540,
+       "y": 560,
+       "scale": 2.0,
+       "anim": "drop",
+       "label": "Option, not obligation"
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.42,
+     "actors": [
+      {
+       "id": "club",
+       "x": 250,
+       "y": 1440,
+       "pose": "shock",
+       "emote": "sweat",
+       "scale": 1.25
+      },
+      {
+       "id": "araujo",
+       "x": 800,
+       "y": 1440,
+       "pose": "lean",
+       "emote": "angry-cheeky",
+       "scale": 1.3,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "coin",
+       "x": 660,
+       "y": 560,
+       "scale": 2.0
+      }
+     ],
+     "cam": "push",
+     "fx": [
+      {
+       "kind": "speed",
+       "x": 660,
+       "y": 560
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.42,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "club",
+       "x": 250,
+       "y": 1440,
+       "pose": "lean",
+       "emote": "angry-cheeky",
+       "scale": 1.25
+      },
+      {
+       "id": "araujo",
+       "x": 800,
+       "y": 1440,
+       "pose": "shock",
+       "emote": "sweat",
+       "scale": 1.3,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "coin",
+       "x": 420,
+       "y": 560,
+       "scale": 2.0
+      }
+     ],
+     "sfx": {
+      "text": "WHOOSH",
+      "x": 540,
+      "y": 400,
+      "r": 100
+     }
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "club",
+       "x": 250,
+       "y": 1440,
+       "pose": "cheer",
+       "emote": "happy",
+       "scale": 1.25
+      },
+      {
+       "id": "araujo",
+       "x": 800,
+       "y": 1440,
+       "pose": "shrug",
+       "emote": "smug",
+       "scale": 1.3,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "coin",
+       "x": 540,
+       "y": 1150,
+       "scale": 1.1
+      },
+      {
+       "kind": "bucket",
+       "x": 540,
+       "y": 1320,
+       "scale": 1.9,
+       "anim": "pop"
+      }
+     ],
+     "sfx": {
+      "text": "DING",
+      "x": 540,
+      "y": 520,
+      "r": 110
+     },
+     "fx": [
+      {
+       "kind": "sparkle",
+       "x": 540,
+       "y": 1150
+      }
+     ]
+    }
+   ]
+  },
+  "s03": {
+   "type": "NEWS",
+   "name": "Ronald Araujo",
+   "fact": "on loan at Liverpool",
+   "ticker": "Option, not obligation",
+   "icons": [
+    "flag",
+    "medal",
+    "coin"
+   ],
+   "role": "player"
+  },
+  "s04": {
+   "type": "COMIC",
+   "bg": "bench-area",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "araujo",
+       "x": 400,
+       "y": 1440,
+       "pose": "sit",
+       "emote": "sad",
+       "scale": 1.4,
+       "label": "Struggled for minutes"
+      }
+     ],
+     "props": [
+      {
+       "kind": "bench",
+       "x": 400,
+       "y": 1330,
+       "scale": 3.0,
+       "layer": "back"
+      },
+      {
+       "kind": "net",
+       "x": 230,
+       "y": 520,
+       "scale": 1.7,
+       "rot": -18,
+       "layer": "back"
+      },
+      {
+       "kind": "net",
+       "x": 880,
+       "y": 540,
+       "scale": 1.5,
+       "rot": 14,
+       "layer": "back"
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.42,
+     "actors": [
+      {
+       "id": "araujo",
+       "x": 400,
+       "y": 1440,
+       "pose": "sit",
+       "emote": "shock",
+       "scale": 1.4
+      },
+      {
+       "id": "spider",
+       "x": 820,
+       "y": 1440,
+       "pose": "present",
+       "emote": "happy",
+       "scale": 0.6
+      }
+     ],
+     "props": [
+      {
+       "kind": "bench",
+       "x": 400,
+       "y": 1330,
+       "scale": 3.0,
+       "layer": "back"
+      },
+      {
+       "kind": "net",
+       "x": 230,
+       "y": 520,
+       "scale": 1.7,
+       "rot": -18,
+       "layer": "back"
+      },
+      {
+       "kind": "net",
+       "x": 880,
+       "y": 540,
+       "scale": 1.5,
+       "rot": 14,
+       "layer": "back"
+      },
+      {
+       "kind": "coin",
+       "x": 420,
+       "y": 470,
+       "scale": 2.0,
+       "anim": "drop",
+       "label": "55m euro option"
+      }
+     ],
+     "cam": "push"
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.42,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "araujo",
+       "x": 400,
+       "y": 1440,
+       "pose": "sit",
+       "emote": "neutral",
+       "scale": 1.4,
+       "look": "spider"
+      },
+      {
+       "id": "spider",
+       "x": 660,
+       "y": 1440,
+       "pose": "point",
+       "emote": "happy",
+       "scale": 0.6
+      }
+     ],
+     "props": [
+      {
+       "kind": "bench",
+       "x": 400,
+       "y": 1330,
+       "scale": 3.0,
+       "layer": "back"
+      },
+      {
+       "kind": "net",
+       "x": 230,
+       "y": 520,
+       "scale": 1.7,
+       "rot": -18,
+       "layer": "back"
+      },
+      {
+       "kind": "net",
+       "x": 880,
+       "y": 540,
+       "scale": 1.5,
+       "rot": 14,
+       "layer": "back"
+      },
+      {
+       "kind": "coin",
+       "x": 420,
+       "y": 470,
+       "scale": 2.0,
+       "label": "55m euro option"
+      }
+     ]
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "araujo",
+       "x": 400,
+       "y": 1440,
+       "pose": "sit",
+       "emote": "love",
+       "scale": 1.4,
+       "hold": {
+        "kind": "pizza",
+        "hand": "R",
+        "scale": 0.6
+       }
+      },
+      {
+       "id": "spider",
+       "x": 700,
+       "y": 1440,
+       "pose": "wave",
+       "emote": "happy",
+       "scale": 0.6
+      }
+     ],
+     "props": [
+      {
+       "kind": "bench",
+       "x": 400,
+       "y": 1330,
+       "scale": 3.0,
+       "layer": "back"
+      },
+      {
+       "kind": "net",
+       "x": 230,
+       "y": 520,
+       "scale": 1.7,
+       "rot": -18,
+       "layer": "back"
+      },
+      {
+       "kind": "net",
+       "x": 880,
+       "y": 540,
+       "scale": 1.5,
+       "rot": 14,
+       "layer": "back"
+      },
+      {
+       "kind": "coin",
+       "x": 420,
+       "y": 470,
+       "scale": 2.0
+      }
+     ],
+     "sfx": {
+      "text": "POP",
+      "x": 820,
+      "y": 560,
+      "r": 100
+     },
+     "fx": [
+      {
+       "kind": "sparkle",
+       "x": 420,
+       "y": 470
+      }
+     ]
+    }
+   ]
+  },
+  "s05": {
+   "type": "STATS",
+   "items": [
+    {
+     "icon": "coin",
+     "value": "55",
+     "suffix": "m",
+     "label": "euro option"
+    },
+    {
+     "icon": "ball",
+     "value": "2",
+     "label": "Two goals"
+    },
+    {
+     "icon": "stopwatch",
+     "value": "15",
+     "label": "fifteen games"
+    }
+   ]
+  },
+  "s06": {
+   "type": "COMIC",
+   "bg": "street",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "araujo",
+       "x": 265,
+       "y": 1440,
+       "pose": "hold",
+       "emote": "neutral",
+       "scale": 1.35,
+       "hold": {
+        "kind": "envelope",
+        "hand": "R",
+        "scale": 0.9
+       }
+      }
+     ],
+     "props": [
+      {
+       "kind": "bucket",
+       "x": 520,
+       "y": 1300,
+       "scale": 1.6
+      },
+      {
+       "kind": "coin",
+       "x": 520,
+       "y": 480,
+       "scale": 1.7,
+       "anim": "drop",
+       "label": "A conversation"
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.42,
+     "actors": [
+      {
+       "id": "araujo",
+       "x": 265,
+       "y": 1440,
+       "pose": "hold",
+       "emote": "neutral",
+       "scale": 1.35,
+       "hold": {
+        "kind": "envelope",
+        "hand": "R",
+        "scale": 0.9
+       }
+      },
+      {
+       "id": "club",
+       "x": 770,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "smug",
+       "scale": 1.15,
+       "flip": true,
+       "hold": {
+        "kind": "tag",
+        "hand": "L",
+        "scale": 0.8
+       }
+      }
+     ],
+     "props": [
+      {
+       "kind": "bucket",
+       "x": 520,
+       "y": 1300,
+       "scale": 1.6
+      },
+      {
+       "kind": "coin",
+       "x": 520,
+       "y": 480,
+       "scale": 1.7,
+       "label": "A conversation"
+      }
+     ],
+     "cam": "push"
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.42,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "araujo",
+       "x": 265,
+       "y": 1440,
+       "pose": "hold",
+       "emote": "shock",
+       "scale": 1.35,
+       "hold": {
+        "kind": "envelope",
+        "hand": "R",
+        "scale": 0.9
+       }
+      },
+      {
+       "id": "club",
+       "x": 770,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "smug",
+       "scale": 1.15,
+       "flip": true,
+       "hold": {
+        "kind": "tag",
+        "hand": "L",
+        "scale": 0.8
+       }
+      },
+      {
+       "id": "rival",
+       "x": 900,
+       "y": 1370,
+       "pose": "idle",
+       "emote": "smug",
+       "scale": 0.95,
+       "flip": true,
+       "hold": {
+        "kind": "tag",
+        "hand": "L",
+        "scale": 0.7
+       }
+      }
+     ],
+     "props": [
+      {
+       "kind": "bucket",
+       "x": 520,
+       "y": 1300,
+       "scale": 1.6
+      },
+      {
+       "kind": "coin",
+       "x": 520,
+       "y": 480,
+       "scale": 1.7,
+       "label": "A conversation"
+      }
+     ],
+     "sfx": {
+      "text": "CLANG",
+      "x": 540,
+      "y": 440,
+      "r": 100
+     }
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "araujo",
+       "x": 265,
+       "y": 1440,
+       "pose": "thumbsup",
+       "emote": "wink",
+       "scale": 1.35
+      },
+      {
+       "id": "club",
+       "x": 770,
+       "y": 1440,
+       "pose": "lean",
+       "emote": "shock",
+       "scale": 1.15,
+       "flip": true
+      },
+      {
+       "id": "rival",
+       "x": 900,
+       "y": 1370,
+       "pose": "lean",
+       "emote": "shock",
+       "scale": 0.95,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "bucket",
+       "x": 520,
+       "y": 1300,
+       "scale": 1.6
+      },
+      {
+       "kind": "coin",
+       "x": 520,
+       "y": 480,
+       "scale": 1.7
+      },
+      {
+       "kind": "envelope",
+       "x": 520,
+       "y": 1110,
+       "scale": 0.8,
+       "anim": "drop"
+      }
+     ],
+     "sfx": {
+      "text": "DING",
+      "x": 540,
+      "y": 440,
+      "r": 100
+     },
+     "fx": [
+      {
+       "kind": "sparkle",
+       "x": 520,
+       "y": 1110
+      }
+     ]
+    }
+   ]
+  },
+  "s07": {
+   "type": "INTERVIEW",
+   "label": "REPORTER ASKS",
+   "bubble": "Does the player get a vote?",
+   "answer": {
+    "icon": "check",
+    "gesture": "thumbsup"
+   },
+   "subject": "Ronald Araujo"
+  },
+  "s08": {
+   "type": "PROVOC",
+   "q": "Loyalty, or a shortage of left-backs?",
+   "a": "Loyalty",
+   "b": "Shortage",
+   "split": [
+    38,
+    62
+   ],
+   "mood": "cheeky"
+  }
+ }
+}

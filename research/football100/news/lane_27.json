@@ -1,0 +1,546 @@
+[
+  {
+    "headline": "Ronaldo confirms he has played his last match for Portugal after row with Jorge Jesus",
+    "date": "2026-11-05",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50075485/cristiano-ronaldo-long-history-rows-portugal-manchester-united-real-madrid-juventus-coaches",
+    "entities": ["Cristiano Ronaldo", "Jorge Jesus", "Portugal"],
+    "facts": [
+      "Ronaldo, 41, left Portugal's camp in late September after being an unused substitute in a 2-1 win over Norway.",
+      "On 5 November he confirmed his final Portugal match had been played, and said the federation should decide his punishment.",
+      "He said coach Jorge Jesus broke two promises, and he apologised to his teammates for leaving camp. ESPN's companion piece lists a record 146 international goals and 234 caps."
+    ],
+    "background": "Ronaldo led Portugal to the Euro 2016 title, and ESPN lists earlier coach rows with Ferguson, Mourinho, Benitez, Allegri, Rangnick, ten Hag and Fernando Santos.",
+    "angle": "coach",
+    "sensitive": false,
+    "footage_terms": ["Ronaldo Portugal retirement reaction", "Ronaldo Portugal best goals career", "Ronaldo Euro 2016 final Portugal"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Ronaldo hat trick against Al Kholood leaves him 15 goals short of 1,000",
+    "date": "2026-10-29",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/46751020/cristiano-ronaldo-goal-tracker-road-1000-career-goals",
+    "entities": ["Cristiano Ronaldo", "Al Nassr", "Al Kholood"],
+    "facts": [
+      "Ronaldo scored goals 983 to 985 in a 5-3 Saudi Pro League win over Al Kholood.",
+      "ESPN says it was his seventh hat trick for Al Nassr and his 67th overall, leaving him 15 short of 1,000 career goals.",
+      "His goal 982 on 23 October against Al Faisaly was credited to him by the league even though Opta ruled it an own goal."
+    ],
+    "background": "Ronaldo plays for Al Nassr in the Saudi Pro League. ESPN's tracker also says he scored at the 2026 World Cup and became the first player to score at six World Cups.",
+    "angle": "record",
+    "sensitive": false,
+    "footage_terms": ["Ronaldo hat trick Al Kholood Al Nassr", "Ronaldo 985 goals highlights", "Ronaldo road to 1000 goals"],
+    "confidence": "high"
+  },
+  {
+    "headline": "AC Milan owner RedBird explores buying Ronaldo's Al Nassr",
+    "date": "2026-10-30",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50326867/ac-milan-gerry-cardinale-buying-cristiano-ronaldo-al-nassr",
+    "entities": ["Gerry Cardinale", "RedBird Capital", "Al Nassr", "Cristiano Ronaldo", "AC Milan"],
+    "facts": [
+      "RedBird owner Gerry Cardinale told Gazzetta dello Sport the firm is looking at a possible purchase of Al Nassr, calling talks preliminary.",
+      "Al Nassr is currently owned by Saudi Arabia's Public Investment Fund.",
+      "Reports suggest Ronaldo could become a part-owner. His Al Nassr contract runs to June 2027."
+    ],
+    "background": "RedBird also owns AC Milan and Toulouse, and Ronaldo is the biggest name in the Saudi Pro League.",
+    "angle": "business",
+    "sensitive": false,
+    "footage_terms": ["Al Nassr Ronaldo takeover news", "Gerry Cardinale AC Milan interview", "Ronaldo Al Nassr contract future"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Ronaldo misses a penalty in his first game after his Portugal suspension",
+    "date": "2026-10-20",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50232004/cristiano-ronaldo-al-nassr-penalty-miss-portugal-suspension",
+    "entities": ["Cristiano Ronaldo", "Al Nassr", "Neom SC", "Joao Felix"],
+    "facts": [
+      "Ronaldo fired a first-half stoppage-time penalty wide for Al Nassr.",
+      "Al Nassr still beat Neom 1-0, with Joao Felix scoring just after the hour.",
+      "The Portugal federation had suspended Ronaldo for 30 days and fined him 255 euros after he left the national team camp."
+    ],
+    "background": "The suspension followed his dispute with Portugal coach Jorge Jesus, which later ended with Ronaldo retiring from the national team.",
+    "angle": "viral",
+    "sensitive": false,
+    "footage_terms": ["Ronaldo penalty miss Al Nassr Neom", "Al Nassr Neom highlights Joao Felix goal", "Ronaldo Al Nassr reaction penalty"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Ronaldo left out of Al Nassr's Champions League trip as Saudi security worries grow",
+    "date": "2026-11-01",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50353917/ronaldo-al-nassr-acl-squad-saudi-security-concerns",
+    "entities": ["Cristiano Ronaldo", "Ange Postecoglou", "Al Nassr", "Pakhtakor"],
+    "facts": [
+      "Ronaldo did not travel for Al Nassr's AFC Champions League game, a 6-2 win at Pakhtakor in Tashkent.",
+      "Coach Ange Postecoglou said he rested Ronaldo, Kingsley Coman and Mohamed Simakan because of match load and travel.",
+      "ESPN links the story to wider security worries in Saudi Arabia and doubts about the Asian Cup due to start there on 7 January."
+    ],
+    "background": "Ange Postecoglou is the Al Nassr coach, and the Asian Cup is due to be hosted in Saudi Arabia.",
+    "angle": "coach",
+    "sensitive": true,
+    "footage_terms": ["Al Nassr Pakhtakor highlights", "Postecoglou press conference Ronaldo rested", "Al Nassr AFC Champions League Elite"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Mourinho walks out of press conference when asked about Ronaldo's Portugal exit",
+    "date": "2026-11-20",
+    "source_domain": "si.com",
+    "url": "https://www.si.com/soccer/jose-mourinho-walks-out-press-conference-cristiano-ronaldo-question",
+    "entities": ["Jose Mourinho", "Cristiano Ronaldo", "Real Madrid", "Portugal"],
+    "facts": [
+      "Before Real Madrid's match against Celta Vigo, a reporter asked the Portuguese coach about Ronaldo's retirement from Portugal.",
+      "Mourinho cut in with a repeated 'No, no, no', said he hoped Portugal would keep winning, and ended the press conference.",
+      "It was Portugal's first international window without Ronaldo, their all-time top scorer."
+    ],
+    "background": "Mourinho coached Ronaldo at Real Madrid, and ESPN notes their relationship broke down publicly in 2013. He is now back in charge at Real Madrid.",
+    "angle": "viral",
+    "sensitive": false,
+    "footage_terms": ["Mourinho walks out press conference Ronaldo", "Mourinho Ronaldo Real Madrid relationship", "Mourinho no no no press conference"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Messi plays his 208th and last match for Argentina in a 3-0 win over Benin",
+    "date": "2026-10-06",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/47978642/lionel-messi-2026-tracker-inter-miami-argentina-games-goals-assists-stats",
+    "entities": ["Lionel Messi", "Argentina", "Benin", "Spain"],
+    "facts": [
+      "Argentina beat Benin 3-0 on 6 October in Messi's farewell match, his 208th and final senior cap.",
+      "He captained Argentina to the World Cup final, lost 1-0 after extra time to Spain on 19 July, scoring 8 goals at the tournament.",
+      "Sports Illustrated says Messi announced his Argentina retirement in August after the final."
+    ],
+    "background": "Messi won the 2022 World Cup with Argentina and finished with 126 international goals, second to Ronaldo's record according to ESPN.",
+    "angle": "history",
+    "sensitive": false,
+    "footage_terms": ["Messi farewell Argentina Benin", "Messi Argentina last match tribute", "Argentina Spain World Cup final 2026 highlights"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Messi becomes the first player to win back-to-back MLS Golden Boots",
+    "date": "2026-11-07",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50411686/lionel-messi-mls-golden-boot-2026-winner-inter-miami",
+    "entities": ["Lionel Messi", "Inter Miami", "Petar Musa", "Charlotte FC"],
+    "facts": [
+      "Messi scored 26 regular-season goals, the league high, and finished four clear of FC Dallas's Petar Musa.",
+      "ESPN credits him with 17 assists, for a league-best 43 goal contributions.",
+      "Inter Miami ended the season with a 3-3 draw with Charlotte after leading 3-0 at halftime."
+    ],
+    "background": "Inter Miami finished second in the East with 60 points, while Nashville set a new MLS points record with 77.",
+    "angle": "record",
+    "sensitive": false,
+    "footage_terms": ["Messi MLS Golden Boot 2026", "Messi Inter Miami Charlotte 3-3 highlights", "Messi best goals MLS 2026"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Messi is a finalist for a record third straight MLS MVP award",
+    "date": "2026-11-12",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50463634/mls-mvp-award-2026-lionel-messi-cavan-sullivan-griezmann",
+    "entities": ["Lionel Messi", "Cavan Sullivan", "Evander", "Hany Mukhtar", "Guilherme"],
+    "facts": [
+      "Messi would be the first player to win MLS MVP three years in a row.",
+      "Other finalists are Evander, Guilherme, Hany Mukhtar and 17-year-old Cavan Sullivan, the youngest MVP finalist ever.",
+      "Winners are announced during the playoffs, which began on 19 November."
+    ],
+    "background": "Messi won MVP in 2024 and 2025, tying Preki for the most wins at two.",
+    "angle": "record",
+    "sensitive": false,
+    "footage_terms": ["Messi MLS MVP 2026 finalist", "Cavan Sullivan Philadelphia Union goal", "Messi Inter Miami season highlights"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Messi owns a fifth-tier Spanish club, and the Wrexham dream looks complicated",
+    "date": "2026-11-10",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50441349/why-messi-takeover-non-league-cornella-wrexham-repeat",
+    "entities": ["Lionel Messi", "UE Cornella", "Eldense", "Wrexham"],
+    "facts": [
+      "Messi bought UE Cornella in April 2026, and the club's social following rose from about 35,000 to over a million.",
+      "Cornella now sit in Spain's fifth tier after two straight relegations and had won two of their first ten league games.",
+      "Messi also bought second-division Eldense, and federation rules could stop the two clubs from competing in the same competition."
+    ],
+    "background": "Cornella were in Spain's third tier as recently as 2024. The Wrexham comparison refers to the Reynolds and McElhenney takeover.",
+    "angle": "business",
+    "sensitive": false,
+    "footage_terms": ["Messi Cornella takeover", "UE Cornella match highlights", "Messi Eldense owner"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Messi to play in Buenos Aires on 19 January for Inter Miami against River Plate",
+    "date": "2026-11-13",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50472990/messi-play-argentina-jan-19-inter-miami-river-friendly",
+    "entities": ["Lionel Messi", "Inter Miami", "River Plate", "Luis Suarez", "Casemiro"],
+    "facts": [
+      "Inter Miami will play a friendly against River Plate at Estadio Monumental on 19 January 2027.",
+      "It will be Messi's first club match in Argentina.",
+      "Miami expect Casemiro, Rodrigo De Paul, Luis Suarez, Nicolas Otamendi and Thiago Almada to travel."
+    ],
+    "background": "Messi left Argentina as a teenager for Barcelona and has never played a club match at home, which ESPN says this will change.",
+    "angle": "history",
+    "sensitive": false,
+    "footage_terms": ["Messi River Plate Monumental", "Inter Miami River Plate friendly", "Messi Argentina fans Monumental"],
+    "confidence": "high"
+  },
+  {
+    "headline": "MLS salary list: Messi earns $28.3 million, Lewandowski $19.5 million, Son $11.3 million",
+    "date": "2026-11-19",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50526796/messi-leads-mls-salaries-rise-sullivan-614k",
+    "entities": ["Lionel Messi", "Robert Lewandowski", "Antoine Griezmann", "Son Heung-min", "Cavan Sullivan"],
+    "facts": [
+      "Messi's guaranteed pay is $28.33 million, ahead of Lewandowski ($19.51m), Griezmann ($13.94m), Son ($11.25m) and Breel Embolo ($10.81m).",
+      "Inter Miami's payroll is a record $59.37 million, and Philadelphia's is the lowest at $12.64 million.",
+      "Philadelphia's 17-year-old Cavan Sullivan earns $614,000."
+    ],
+    "background": "Son, Lewandowski and Griezmann all arrived in MLS in 2025 or 2026 after long European careers, following Messi's 2023 move.",
+    "angle": "business",
+    "sensitive": false,
+    "footage_terms": ["MLS highest paid players 2026", "Lewandowski Chicago Fire goals", "Son Heung-min LAFC highlights"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Suarez says he expects to retire before Messi",
+    "date": "2026-11-18",
+    "source_domain": "si.com",
+    "url": "https://www.si.com/soccer/luis-suarez-provides-insight-lionel-messi-retirement",
+    "entities": ["Luis Suarez", "Lionel Messi", "Inter Miami"],
+    "facts": [
+      "Suarez, 39, says he and Messi will play as long as they enjoy it and stay competitive.",
+      "He says Messi still has plenty of energy, so he expects to be the one who steps away first.",
+      "Suarez has 17 goals and 12 assists this regular season and is a free agent after 2026, per Sports Illustrated."
+    ],
+    "background": "Suarez and Messi were Barcelona team-mates and are together again at Inter Miami. Suarez quit Uruguay duty in 2024.",
+    "angle": "viral",
+    "sensitive": false,
+    "footage_terms": ["Suarez Messi Inter Miami interview", "Luis Suarez Inter Miami goals 2026", "Messi Suarez Barcelona best moments"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Thomas Muller, 37, says MLS without relegation is more careless defensively",
+    "date": "2026-11-20",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50541122/no-relegation-means-mls-style-careless-whitecaps-muller",
+    "entities": ["Thomas Muller", "Vancouver Whitecaps", "MLS"],
+    "facts": [
+      "Muller says the lack of relegation makes MLS play more careless defensively, and that players are less focused for the full 90 minutes.",
+      "He calls the league more open and attacking, with good individual moments but less consistency.",
+      "He joined Vancouver in August 2025 and renewed through next year."
+    ],
+    "background": "Muller won the 2014 World Cup and a long list of Bayern honours, and Vancouver lost the 2025 MLS Cup to Messi's Inter Miami.",
+    "angle": "viral",
+    "sensitive": false,
+    "footage_terms": ["Thomas Muller Vancouver Whitecaps interview", "Muller Whitecaps goal MLS playoffs", "Whitecaps Real Salt Lake playoffs"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Ronaldinho, 46, comes out of retirement for 45 minutes at Serie C Ravenna",
+    "date": "2026-11-15",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50489043/ronaldinho-ravenna-brazil-barcelona-serie-c",
+    "entities": ["Ronaldinho", "Ravenna", "Forli", "Giulio Donati"],
+    "facts": [
+      "Ronaldinho played the first half of Ravenna's 2-0 Serie C win over Forli and did not score.",
+      "ESPN says he retired on 299 career goals and chose Ravenna to try to reach 300. Football Italia reports he said he would come back if the club president asked.",
+      "He took the corners and helped set up the opening goal from Giulio Donati. Football Italia reports ticket sales of about 199,000 euros."
+    ],
+    "background": "Ronaldinho's last match before this was for Fluminense in September 2015, and he is a brand ambassador and minority shareholder at Ravenna.",
+    "angle": "viral",
+    "sensitive": false,
+    "footage_terms": ["Ronaldinho Ravenna Forli highlights", "Ronaldinho comeback Serie C", "Ronaldinho Barcelona best skills"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Mahrez, 35, joins Qatari side Al-Shamal on a free transfer",
+    "date": "2026-10-15",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50188999/ex-man-city-winger-riyad-mahrez-joins-qatari-side-al-shamal-free-agent",
+    "entities": ["Riyad Mahrez", "Al-Shamal", "Al Ahli", "Algeria"],
+    "facts": [
+      "Mahrez left Saudi club Al Ahli in July after three years and joined Al-Shamal as a free agent.",
+      "Al-Shamal are fifth in the Qatar Stars League.",
+      "He played at the 2026 World Cup for Algeria, who reached the round of 32."
+    ],
+    "background": "Mahrez won five Premier League titles, four with Man City including the 2023 Treble and one with Leicester, plus two Asian Champions League titles with Al Ahli.",
+    "angle": "transfer",
+    "sensitive": false,
+    "footage_terms": ["Mahrez Al-Shamal signing", "Mahrez Manchester City best goals", "Mahrez Algeria World Cup 2026"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Harry Kane passes Peter Shilton to become England's most-capped player",
+    "date": "2026-11-11",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50442704/harry-kane-ballon-dor-england-tottenham-hotspur-bayern-munich",
+    "entities": ["Harry Kane", "Peter Shilton", "England", "Bayern Munich", "Michael Owen"],
+    "facts": [
+      "ESPN said Kane was set to pass Shilton's 125 caps in the match against Croatia. FourFourTwo says he reached 126 and then 127.",
+      "ESPN says he won the men's Ballon d'Or for the first time about a fortnight earlier.",
+      "He has not yet won a major trophy with England and signed a new Bayern deal through 2029."
+    ],
+    "background": "Kane joined Bayern from Tottenham in August 2023 for 120 million euros and is England's record goalscorer.",
+    "angle": "record",
+    "sensitive": false,
+    "footage_terms": ["Kane England record caps Shilton", "Kane England Croatia highlights", "Harry Kane Ballon d'Or 2026"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Griezmann wins MLS Newcomer of the Year in half a season",
+    "date": "2026-11-17",
+    "source_domain": "si.com",
+    "url": "https://www.si.com/soccer/antoine-griezmann-history-mls-honor-lionel-messi-didnt-win",
+    "entities": ["Antoine Griezmann", "Orlando City", "Atletico Madrid", "Lionel Messi"],
+    "facts": [
+      "Griezmann became the first Orlando City player and the first French player to win MLS Newcomer of the Year.",
+      "He scored 14 goals with 8 assists in 18 appearances, and scored on his 22 July debut in a 4-0 win over San Jose.",
+      "Sports Illustrated notes it is an MLS honour Messi never won."
+    ],
+    "background": "Griezmann arrived from Atletico Madrid in July 2026 after finishing his two-part stint at the club.",
+    "angle": "win",
+    "sensitive": false,
+    "footage_terms": ["Griezmann Orlando City debut goal", "Griezmann MLS Newcomer of the Year", "Orlando City Griezmann highlights"],
+    "confidence": "high"
+  },
+  {
+    "headline": "David Beckham, Rapinoe, Altidore and Ertz named to the US Soccer Hall of Fame",
+    "date": "2026-11-12",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50465897/rapinoe-altidore-ertz-national-soccer-hall-fame",
+    "entities": ["David Beckham", "Megan Rapinoe", "Jozy Altidore", "Julie Ertz", "Tatu"],
+    "facts": [
+      "Rapinoe, Altidore and Ertz were elected on the player ballot, and Beckham and indoor forward Tatu on the veteran ballot.",
+      "The induction ceremony is on 16 April in Plano, Texas.",
+      "Altidore scored 42 international goals, and Rapinoe won two Women's World Cups and the 2019 Ballon d'Or."
+    ],
+    "background": "Beckham won six Premier League titles at Man United and two MLS titles with the LA Galaxy, then co-founded Inter Miami.",
+    "angle": "history",
+    "sensitive": false,
+    "footage_terms": ["Beckham LA Galaxy best moments", "Rapinoe Hall of Fame", "Altidore Toronto MLS Cup 2017 goal"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Pochettino's Man United squad audit: Maguire stays, Shaw and Fernandes tipped to go",
+    "date": "2026-11-20",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50519892/manchester-united-pochettino-fernandes-rashford-transfers",
+    "entities": ["Mauricio Pochettino", "Harry Maguire", "Luke Shaw", "Bruno Fernandes", "Karl Darlow", "Manchester United"],
+    "facts": [
+      "ESPN's Mark Ogden says Harry Maguire, 33, should stay for his leadership, despite his lack of pace.",
+      "Luke Shaw, 31, is out of contract this season and the audit says he should go. Bruno Fernandes, 32, could be sold next summer to help a rebuild.",
+      "Goalkeeper Karl Darlow, 36, joined as a free agent from Leeds and is judged to be a No. 2 who should go."
+    ],
+    "background": "Mauricio Pochettino has just been appointed United manager, which ESPN describes as the end of a decade of near misses.",
+    "angle": "coach",
+    "sensitive": false,
+    "footage_terms": ["Pochettino Manchester United appointed", "Bruno Fernandes Manchester United highlights", "Maguire Manchester United goal"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Kevin De Bruyne scores his 200th and 201st career goals for Belgium",
+    "date": "2026-10-02",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50086546/kevin-de-bruyne-200-career-goals-belgium-turkiye",
+    "entities": ["Kevin De Bruyne", "Belgium", "Napoli", "Romelu Lukaku", "Mark van Bommel"],
+    "facts": [
+      "De Bruyne scored twice in Belgium's 3-0 Nations League win over Turkiye in Liege.",
+      "Substitute Romelu Lukaku sealed the win.",
+      "De Bruyne is 35 and plays for Napoli. Belgium, now under Mark van Bommel, trail France by a point in their group."
+    ],
+    "background": "De Bruyne spent a decade at Manchester City before moving to Napoli.",
+    "angle": "record",
+    "sensitive": false,
+    "footage_terms": ["De Bruyne 200th career goal Belgium", "Belgium Turkiye Nations League highlights", "De Bruyne Napoli goals"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Napoli reportedly ready to let De Bruyne go in January, PSV interested",
+    "date": "2026-11-20",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50539252/transfer-rumors-news-arsenal-world-cup-nico-williams-spain",
+    "entities": ["Kevin De Bruyne", "Napoli", "PSV Eindhoven"],
+    "facts": [
+      "ESPN's rumour roundup, citing Gazzetta dello Sport, says Napoli would let De Bruyne leave in January for an offer of about 7 million euros.",
+      "PSV Eindhoven are reported to be interested. An earlier roundup citing De Telegraaf gave a different offer figure, so the numbers are unconfirmed.",
+      "De Bruyne is 35."
+    ],
+    "background": "De Bruyne joined Napoli after leaving Manchester City, and he is one of Belgium's all-time greats.",
+    "angle": "transfer",
+    "sensitive": false,
+    "footage_terms": ["De Bruyne Napoli best passes", "De Bruyne PSV transfer", "PSV Eindhoven highlights"],
+    "confidence": "low"
+  },
+  {
+    "headline": "Lewandowski's Chicago Fire shirt outsells Messi's since his arrival",
+    "date": "2026-11-03",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50370651/mls-jersey-sales-lionel-messi-robert-lewandowski-chicago",
+    "entities": ["Robert Lewandowski", "Lionel Messi", "Chicago Fire"],
+    "facts": [
+      "ESPN says Lewandowski's jersey has been MLS's most popular since he arrived, though Messi still tops the 2026 full-year sales and Lewandowski is fourth.",
+      "He signed on 29 June and debuted on 22 July against Inter Miami.",
+      "In 18 games for Chicago he has 7 goals and 5 assists, and the Fire reached the playoffs."
+    ],
+    "background": "Lewandowski is a former Barcelona and Bayern Munich striker who plays for Poland.",
+    "angle": "business",
+    "sensitive": false,
+    "footage_terms": ["Lewandowski Chicago Fire debut", "Lewandowski Chicago Fire goals", "Lewandowski Messi MLS"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Manuel Neuer, 40, suffers a partial ligament tear in his foot",
+    "date": "2026-11-08",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50419800/bayern-munich-manuel-neuer-bundesliga",
+    "entities": ["Manuel Neuer", "Bayern Munich", "Jonas Urbig", "Mainz"],
+    "facts": [
+      "Neuer was substituted just before halftime in Bayern's 2-1 win at Mainz and has a partial ligament tear in his right foot.",
+      "Bayern gave no return date and said he is out for the time being.",
+      "At 40 years and 225 days he had become Bayern's oldest Bundesliga player in that game; 23-year-old Jonas Urbig replaced him."
+    ],
+    "background": "Urbig is seen as Neuer's long-term successor at Bayern.",
+    "angle": "coach",
+    "sensitive": true,
+    "footage_terms": ["Neuer Bayern Mainz injury", "Jonas Urbig Bayern debut", "Neuer Bayern best saves"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Jamie Vardy, 39, scores in a 20th consecutive season for Burnley",
+    "date": "2026-10-16",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50198285/jamie-vardy-scores-20th-consecutive-season-burnley-beaten-wolves",
+    "entities": ["Jamie Vardy", "Burnley", "Wolves", "Leicester City"],
+    "facts": [
+      "Vardy scored in the 20th minute at Turf Moor, though Burnley lost 2-1 to Wolves in the Championship.",
+      "It extended his scoring run to a 20th straight senior season.",
+      "Burnley sit fourth from bottom."
+    ],
+    "background": "Vardy was released by Sheffield Wednesday at 16, rose from non-league football, won the 2015-16 title with Leicester and the 2019-20 Premier League Golden Boot. He left Leicester in 2025, spent a season at Cremonese, and signed a one-year Burnley deal this summer.",
+    "angle": "record",
+    "sensitive": false,
+    "footage_terms": ["Vardy Burnley Wolves goal", "Vardy Leicester title best goals", "Jamie Vardy Cremonese Serie A"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Mohamed Salah scores his first Trabzonspor hat trick in a 4-0 win over Galatasaray",
+    "date": "2026-09-19",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/49981851/mohamed-salah-scores-first-trabzonspor-hat-trick-galatasaray-thrashing",
+    "entities": ["Mohamed Salah", "Trabzonspor", "Galatasaray", "Noah Saviolo"],
+    "facts": [
+      "Salah scored a hat trick as Trabzonspor beat league leaders Galatasaray 4-0.",
+      "It was his first hat trick for the club, and he also set up Noah Saviolo's goal.",
+      "He had seven league goals at that point. A street in Yomra, Turkiye is also set to be named after him, per ESPN on 31 August."
+    ],
+    "background": "ESPN reports Salah, 34, joined Trabzonspor in summer 2026 after leaving Liverpool, on about 17 million euros a season.",
+    "angle": "transfer",
+    "sensitive": false,
+    "footage_terms": ["Salah Trabzonspor Galatasaray hat trick", "Salah Trabzonspor goals", "Mohamed Salah Street Turkiye"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Neymar wins $24,000 at a high-roller poker tournament in Brazil",
+    "date": "2026-11-16",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50500778/neymar-wins-24000-poker-santos-brazil",
+    "entities": ["Neymar", "Santos", "BSOP Millions", "Pedro Neves"],
+    "facts": [
+      "Neymar finished 10th in an invitation-only Super High Roller event at BSOP Millions and won $24,000 from a $15,000 entry.",
+      "The event had 152 entries and a $1.2 million prize pool, and he was knocked out by 2024 world champion Pedro Neves.",
+      "Two nights earlier he finished 12th in a $4,000 event."
+    ],
+    "background": "Neymar plays for Santos, his boyhood club, and ESPN says he finished 29th in the Brazilian Series of Poker last year.",
+    "angle": "viral",
+    "sensitive": false,
+    "footage_terms": ["Neymar poker BSOP", "Neymar Santos highlights 2026", "Neymar poker tournament Brazil"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Neymar banned after red card for covering his mouth against Bahia",
+    "date": "2026-10-28",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50309333/neymar-suspension-red-card-cover-mouth-santos-bahia",
+    "entities": ["Neymar", "Santos", "Bahia", "Vinicius Junior"],
+    "facts": [
+      "Neymar was sent off in Santos's 1-0 win over Bahia after covering his mouth while arguing with Rodrigo Nestor.",
+      "A Brazilian tribunal added two matches for the gesture, on top of one for yellow cards, three games in total.",
+      "The tribunal cited a protocol named after Vinicius Junior. Neymar and Santos can appeal."
+    ],
+    "background": "The protocol follows Vinicius Junior's racist-abuse complaint against a Champions League opponent who covered his mouth.",
+    "angle": "scandal",
+    "sensitive": true,
+    "footage_terms": ["Neymar red card Bahia Santos", "Neymar covers mouth red card", "Neymar Santos suspension"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Philippe Coutinho, 34, signs for Neymar's Santos after months without a club",
+    "date": "2026-09-14",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/49938354/former-liverpool-barcelona-midfielder-philippe-coutinho-set-join-santos-rest-year",
+    "entities": ["Philippe Coutinho", "Neymar", "Santos", "Vasco da Gama", "Cuca"],
+    "facts": [
+      "Coutinho was set to join Santos for the rest of the year, though the club had not formally announced it.",
+      "He left Vasco da Gama in February and had no club since, citing mental exhaustion.",
+      "Neymar welcomed him in a video after Santos beat Cruzeiro 2-1, and coach Cuca said he is in good shape."
+    ],
+    "background": "Coutinho is a former Liverpool and Barcelona midfielder and played with Neymar for Brazil.",
+    "angle": "transfer",
+    "sensitive": true,
+    "footage_terms": ["Coutinho Santos signing", "Coutinho Liverpool best goals", "Neymar welcome Coutinho Santos"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Alan Ruschel, Chapecoense crash survivor, retires after helping Juventude win promotion",
+    "date": "2026-11-16",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50500378/chapecoense-plane-crash-alan-ruschel-survivor-juventude-brazil-serie-a",
+    "entities": ["Alan Ruschel", "Juventude", "Chapecoense", "Botafogo"],
+    "facts": [
+      "Ruschel, 37, came on in the 74th minute of Juventude's 2-0 win over Botafogo, which sent them up to Brazil's Serie A.",
+      "He retired after the match and thanked the game, his club and its supporters in an Instagram post.",
+      "He is one of six survivors of the 2016 plane crash in Colombia that killed 71 people, including 19 Chapecoense players."
+    ],
+    "background": "Ruschel needed back surgery after the crash, returned to play for Chapecoense a year later and rejoined boyhood club Juventude in 2023.",
+    "angle": "history",
+    "sensitive": true,
+    "footage_terms": ["Alan Ruschel retirement Juventude", "Juventude promotion Serie A 2026", "Alan Ruschel Chapecoense story"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Brazilian winger Sergio Barboza becomes first outfield player to play on all six continents",
+    "date": "2026-11-18",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50461455/soccer-star-played-clubs-six-continents",
+    "entities": ["Sergio Barboza", "AS Tohie'a"],
+    "facts": [
+      "Barboza, 33, has played for clubs in all six confederations, including Laos, Cambodia, Nepal, Angola, Malta and Tahiti.",
+      "ESPN says he is the first outfield player to do so in FIFA-affiliated leagues.",
+      "His latest club was AS Tohie'a in Tahiti, and he was expected to return to Brazil because of cost and family reasons."
+    ],
+    "background": "His route includes spells in India, Costa Rica, Guatemala, Honduras and the USA, per ESPN.",
+    "angle": "viral",
+    "sensitive": false,
+    "footage_terms": ["Sergio Barboza six continents", "Barboza AS Tohie'a Tahiti", "journeyman footballer six continents"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Zaha reportedly training with Crystal Palace as a free agent",
+    "date": "2026-11-18",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50518634/transfer-rumors-news-liverpool-bayern-gladbach-wael-mohya",
+    "entities": ["Wilfried Zaha", "Crystal Palace"],
+    "facts": [
+      "ESPN's rumour roundup, citing TalkSPORT, says Zaha could return to Crystal Palace as a free agent.",
+      "The report says he has been training with the club since the summer.",
+      "This is an unconfirmed rumour with no club statement in the roundup."
+    ],
+    "background": "Zaha is a former Crystal Palace winger.",
+    "angle": "transfer",
+    "sensitive": false,
+    "footage_terms": ["Zaha Crystal Palace best goals", "Wilfried Zaha return Palace", "Zaha dribbling highlights"],
+    "confidence": "low"
+  }
+]

@@ -1,0 +1,546 @@
+[
+  {
+    "headline": "Hertha Berlin start the 2. Bundesliga season with a record unbeaten run",
+    "date": "2026-11-08",
+    "source_domain": "bundesliga.com",
+    "url": "https://www.bundesliga.com/de/bundesliga/news/hertha-bsc-rekord-start-olympiastion-zuschauer-gansehaut-39941",
+    "entities": ["Hertha BSC", "Stefan Leitl", "Josip Brekalo", "VfL Wolfsburg", "2. Bundesliga"],
+    "facts": [
+      "Hertha beat Wolfsburg 2-1 at home on matchday 11 and have 31 points from 11 games, with 10 wins and one draw.",
+      "More than 70,000 fans came to the Olympiastadion; the only dropped points so far were a 0-0 draw at bottom club Holstein Kiel.",
+      "They have scored 25 goals and conceded 9, and the lead over second place is seven points; last season they needed 20 games to reach 31 points."
+    ],
+    "background": "Hertha were relegated from the Bundesliga in 2023, and their last promotion to the top flight was 14 years ago, so a seventh promotion in club history is now within reach.",
+    "angle": "record",
+    "sensitive": false,
+    "footage_terms": ["Hertha BSC Wolfsburg 2-1 highlights 2. Bundesliga", "Hertha BSC Olympiastadion 70000 Fans", "Stefan Leitl Hertha Pressekonferenz"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Holstein Kiel sack Tim Walter after eight points from 11 games",
+    "date": "2026-11-09",
+    "source_domain": "bundesliga.com",
+    "url": "https://www.bundesliga.com/en/2bundesliga/news/holstein-kiel-dismiss-head-coach-tim-walter-39957",
+    "entities": ["Holstein Kiel", "Tim Walter", "Olaf Rebbe", "Arminia Bielefeld"],
+    "facts": [
+      "Kiel dismissed head coach Tim Walter and his assistants Julian Hubner and Michael Wimmer after a 2-1 home loss to Arminia Bielefeld.",
+      "The club is last in the 2. Bundesliga with eight points from 11 games: one win, five draws, five defeats.",
+      "Sporting director Olaf Rebbe called the start alarming and unsatisfactory for everyone involved."
+    ],
+    "background": "Walter, 51, returned to Kiel in February 2026 to replace Marcel Rapp; he had coached the club before, from May 2018 to 2019, and finished 12th last season.",
+    "angle": "coach",
+    "sensitive": false,
+    "footage_terms": ["Holstein Kiel Arminia Bielefeld 1-2 Highlights", "Tim Walter Holstein Kiel Pressekonferenz", "Holstein Kiel Tim Walter Entlassung"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Kiel hire Mitch Kniat, the man who took Bielefeld to a cup final, as new coach",
+    "date": "2026-11-10",
+    "source_domain": "bundesliga.com",
+    "url": "https://www.bundesliga.com/en/2bundesliga/news/mitch-kniat-named-new-holstein-kiel-head-coach-39965",
+    "entities": ["Holstein Kiel", "Mitch Kniat", "Arminia Bielefeld", "Dani Jara", "Janik Steringer"],
+    "facts": [
+      "Mitch Kniat, 40, is the new Kiel head coach one day after Tim Walter was sacked; the loss to his former club Bielefeld was Walter's last game.",
+      "His first match is away at Wolfsburg on 21 November, and his first home game is against Kaiserslautern the week after.",
+      "Assistants Dani Jara and Janik Steringer join him; Kiel are last with eight points."
+    ],
+    "background": "Kniat won promotion from the 3. Liga with Bielefeld in 2025 and led them to the 2025 DFB Cup final after knocking out holders Leverkusen, losing 4-2 to Stuttgart.",
+    "angle": "coach",
+    "sensitive": false,
+    "footage_terms": ["Mitch Kniat Arminia Bielefeld DFB-Pokal Halbfinale Leverkusen", "Mitch Kniat Holstein Kiel Vorstellung", "Bielefeld Stuttgart DFB-Pokal Finale 2025 Highlights"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Greuther Fuerth members vote to drop the Greuther and go back to SpVgg Fuerth",
+    "date": "2026-11-08",
+    "source_domain": "bundesliga.com",
+    "url": "https://www.bundesliga.com/en/2bundesliga/news/greuther-furth-to-change-club-name-39943",
+    "entities": ["SpVgg Greuther Furth", "TSV Vestenbergsgreuth"],
+    "facts": [
+      "Members voted on 8 November 2026 to return to the name SpVgg Furth, with 1,867 votes in favour, 88.3 percent of those present.",
+      "The club needed 75 percent; the new name takes effect from the 2027/28 season.",
+      "A long-running fan initiative pushed for the change; some supporters see a special moment, others feel they lose a name that mattered to them."
+    ],
+    "background": "The current name dates from a 1996 merger with TSV Vestenbergsgreuth.",
+    "angle": "history",
+    "sensitive": false,
+    "footage_terms": ["Greuther Furth Namensaenderung SpVgg Furth Mitgliederversammlung", "Greuther Furth Dynamo Dresden 0-3 Highlights", "SpVgg Greuther Furth Fans"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Wolfsburg's Sael Kumbedi plays for France while in the second division",
+    "date": "2026-11-12",
+    "source_domain": "bundesliga.com",
+    "url": "https://www.bundesliga.com/de/2bundesliga/news/sael-kumbedi-frankreich-debuet-erbe-von-david-trezeguet-39990",
+    "entities": ["Sael Kumbedi", "VfL Wolfsburg", "Zinedine Zidane", "France", "David Trezeguet"],
+    "facts": [
+      "Right-back Sael Kumbedi, 21, made his France debut as a 76th-minute substitute in a 3-1 Nations League loss in Italy after a surprise call-up from Zinedine Zidane.",
+      "He is the first active second-division player in almost 20 years to play a competitive match for France.",
+      "Wolfsburg are fifth in the 2. Bundesliga with 19 points."
+    ],
+    "background": "The last comparable case was David Trezeguet, who played for Juventus in 2006/07, the season they started in Serie B after a relegation penalty.",
+    "angle": "viral",
+    "sensitive": false,
+    "footage_terms": ["Sael Kumbedi France debut Italy Nations League", "Kumbedi Wolfsburg highlights", "Italie France 3-1 Ligue des Nations resume"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Nuernberg sporting director Joti Chatzialexiou leaves for Eintracht Frankfurt",
+    "date": "2026-11-16",
+    "source_domain": "bundesliga.com",
+    "url": "https://www.bundesliga.com/de/2bundesliga/news/1-fc-nurnberg-vorstand-sport-joti-chatzialexious-40011",
+    "entities": ["Joti Chatzialexiou", "1. FC Nurnberg", "Eintracht Frankfurt", "Dieter Frey", "Peter Meier"],
+    "facts": [
+      "Chatzialexiou's time at Nuernberg ends on 30 November 2026; his contract originally ran to 31 January 2027, so both clubs agreed an early release.",
+      "He is moving to Eintracht Frankfurt, and the supervisory board already removed him from the sporting role, so he skipped the 17 November members' meeting.",
+      "Dieter Frey has handled sporting matters for about two weeks while Nuernberg sit second in the table."
+    ],
+    "background": "Chatzialexiou spent roughly two and a half years at Nuernberg, who are promotion contenders under Miroslav Klose.",
+    "angle": "business",
+    "sensitive": false,
+    "footage_terms": ["Joti Chatzialexiou Nurnberg Interview", "1. FC Nurnberg Darmstadt 2-0 Highlights", "Eintracht Frankfurt Sportvorstand Wechsel"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Miroslav Klose has Nuernberg second in the 2. Bundesliga and praises Fuellkrug and Kane",
+    "date": "2026-11-19",
+    "source_domain": "bundesliga.com",
+    "url": "https://www.bundesliga.com/de/2bundesliga/news/miroslav-klose-interview-1-fc-nurnberg-sturmer-legende-kane-39987",
+    "entities": ["Miroslav Klose", "1. FC Nurnberg", "Harry Kane", "Niclas Fullkrug"],
+    "facts": [
+      "Nuernberg are second with 24 goals scored in ten games, and Klose credits team spirit, tough competition for places and trust in young players.",
+      "He says a team still needs a striker who scores and calls Harry Kane a role model for young players.",
+      "He also praises Niclas Fullkrug's current form."
+    ],
+    "background": "Klose has coached Nuernberg since June 2024; as a player he won the 2014 World Cup with Germany at 36 and played for Kaiserslautern, Werder Bremen, Bayern Munich and five years at Lazio.",
+    "angle": "coach",
+    "sensitive": false,
+    "footage_terms": ["Miroslav Klose Nurnberg Trainer Interview", "Miroslav Klose all goals World Cup", "1. FC Nurnberg 2. Bundesliga Highlights November 2026"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Karlsruhe's Marvin Wanitzek wins October Goal of the Month again with a free kick",
+    "date": "2026-11-09",
+    "source_domain": "bundesliga.com",
+    "url": "https://www.bundesliga.com/de/2bundesliga/news/voting-top-tor-des-monats-2-bundesliga-38963",
+    "entities": ["Marvin Wanitzek", "Karlsruher SC", "1. FC Heidenheim", "Fabian Reese", "Felix Klaus"],
+    "facts": [
+      "Wanitzek won the 2. Bundesliga October Goal of the Month with a free kick into the corner against Heidenheim.",
+      "He took more than 30 percent of the fan vote, ahead of Fabian Reese and Felix Klaus.",
+      "It is his second monthly award of the season after his August win."
+    ],
+    "background": "Karlsruhe are 16th in the 2. Bundesliga, in the relegation play-off place, after 11 matchdays.",
+    "angle": "viral",
+    "sensitive": false,
+    "footage_terms": ["Marvin Wanitzek Freistoss Tor Heidenheim Karlsruhe", "Tor des Monats 2. Bundesliga Oktober 2026", "Karlsruher SC Wanitzek free kick goal"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Bochum win 3-2 at home after Philipp Hofmann's stoppage-time winner",
+    "date": "2026-11-09",
+    "source_domain": "bundesliga.com",
+    "url": "https://www.bundesliga.com/en/2bundesliga/news/second-division-matchday-11-highlights-hertha-wolfsburg-heidenheim-hannover-bochum-39854",
+    "entities": ["VfL Bochum", "Karlsruher SC", "Philipp Hofmann"],
+    "facts": [
+      "Bochum came back from 2-1 down to beat Karlsruhe 3-2 on matchday 11.",
+      "Striker Philipp Hofmann scored twice, the second a stoppage-time winner.",
+      "It was Bochum's first home win of the season; they are eighth with 14 points."
+    ],
+    "background": "Bochum are a former Bundesliga club now trying to climb back up the second tier; the table has them eighth.",
+    "angle": "win",
+    "sensitive": false,
+    "footage_terms": ["VfL Bochum Karlsruher SC 3-2 Highlights", "Philipp Hofmann Tor Bochum Nachspielzeit", "Bochum Karlsruhe Spielbericht November 2026"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Magdeburg crush St. Pauli 4-1 as the Bundesliga's relegated club slide down",
+    "date": "2026-11-09",
+    "source_domain": "bundesliga.com",
+    "url": "https://www.bundesliga.com/en/2bundesliga/news/second-division-matchday-11-highlights-hertha-wolfsburg-heidenheim-hannover-bochum-39854",
+    "entities": ["1. FC Magdeburg", "FC St. Pauli", "Louis Oppie"],
+    "facts": [
+      "Magdeburg scored three goals after the break to beat St. Pauli 4-1 and moved up to fourth place.",
+      "St. Pauli's Louis Oppie was sent off late in the game.",
+      "St. Pauli are ninth with 12 points from 11 games."
+    ],
+    "background": "St. Pauli were relegated from the Bundesliga in the spring and are now fighting in the second tier, while Magdeburg sit on 20 points.",
+    "angle": "win",
+    "sensitive": false,
+    "footage_terms": ["1. FC Magdeburg St. Pauli 4-1 Highlights", "Magdeburg St. Pauli Zusammenfassung 2. Bundesliga", "St. Pauli Oppie Rote Karte"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Bremen and Hamburg prepare for the 111th Nordderby with Fuellkrug on nine goals",
+    "date": "2026-11-20",
+    "source_domain": "bundesliga.com",
+    "url": "https://www.bundesliga.com/en/bundesliga/news/werder-bremen-hamburg-prepare-111th-nordderby-battle-39999",
+    "entities": ["Werder Bremen", "Hamburger SV", "Niclas Fullkrug", "Marco Grull", "Miro Muheim", "Daniel Thioune", "Merlin Polzin"],
+    "facts": [
+      "The 111th Nordderby is at the Weserstadion on Sunday 22 November; Bremen are sixth, HSV are 11th, three points apart.",
+      "Fuellkrug leads the league with nine goals in nine games, six of them from set pieces, and Bremen have seven dead-ball goals, already more than last season.",
+      "Bremen are unbeaten at home this season and have won eight of their last nine home meetings with HSV; only three of HSV's 12 points came away from home."
+    ],
+    "background": "HSV are back in the top flight after a seven-year absence, and coaches Daniel Thioune and Merlin Polzin worked together at Osnabrueck, winning promotion to the 2. Bundesliga in 2018/19.",
+    "angle": "history",
+    "sensitive": false,
+    "footage_terms": ["Werder Bremen Hamburger SV Nordderby Highlights", "Nordderby Bremen HSV Tore Rueckblick", "Niclas Fullkrug Werder Bremen Tore 2026"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Nordderby security tightened after pyro fines and toilet vandalism at the last derby",
+    "date": "2026-11-20",
+    "source_domain": "sportschau.de",
+    "url": "https://www.sportschau.de/regional/rb/rb-sicherheit-beim-nordderby-das-sind-die-ansaetze-von-werder-und-polizei-100.html",
+    "entities": ["Werder Bremen", "Hamburger SV", "Bremen police", "DFL"],
+    "facts": [
+      "After pyrotechnics and toilet vandalism at the April derby, Werder expanded video surveillance, added fences and nets and plans about 2,000 staff on match day, with dogs searching for pyro.",
+      "Police are reinforced from other states; extra police costs at past derbies were between 230,000 and 450,000 euros and this one is expected to cost more.",
+      "Bremen's Interior Senator plans to pass part of the bill to the DFL, and Werder was fined 280,000 euros for the pyro at the previous derby."
+    ],
+    "background": "The Bremen city state has been in a long dispute with the DFL about passing high-risk match police costs on to the league.",
+    "angle": "business",
+    "sensitive": false,
+    "footage_terms": ["Nordderby Pyrotechnik Weserstadion Werder HSV", "Werder Bremen Hamburger SV April 2026 Nordderby Highlights", "Nordderby Polizei Einsatz Bremen"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Fuellkrug's scoring run ends as Stuttgart edge Bremen 1-0",
+    "date": "2026-11-07",
+    "source_domain": "sportschau.de",
+    "url": "https://www.sportschau.de/fussball/bundesliga/mittelstaedt-tor-reicht-stuttgart-gegen-starke-bremer,spielbericht-vfb-stuttgart-werder-bremen-106.html",
+    "entities": ["VfB Stuttgart", "Werder Bremen", "Niclas Fullkrug", "Maximilian Mittelstadt", "Sebastian Hoeness", "Daniel Thioune"],
+    "facts": [
+      "Maximilian Mittelstaedt scored in the 7th minute from a Grischa Promel pass to give Stuttgart a 1-0 win.",
+      "Fuellkrug's run of seven straight games with a goal ended; Bremen had 21 shots but failed to score.",
+      "Stuttgart coach Sebastian Hoeness called it a needed win but admitted it was partly lucky, while Bremen coach Thioune felt his side deserved a point."
+    ],
+    "background": "Bremen had been unbeaten in seven league games before this loss, and Fuellkrug has returned to the Germany squad.",
+    "angle": "win",
+    "sensitive": false,
+    "footage_terms": ["VfB Stuttgart Werder Bremen 1-0 Highlights", "Mittelstadt Tor Stuttgart Bremen", "Fullkrug Torserie Werder Bremen"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Leipzig destroy Augsburg 5-2 after Orban's blunder in his 400th Leipzig game",
+    "date": "2026-11-07",
+    "source_domain": "sportschau.de",
+    "url": "https://www.sportschau.de/fussball/bundesliga/leipzig-nimmt-augsburg-auseinander,spielbericht-rb-leipzig-fc-augsburg-104.html",
+    "entities": ["RB Leipzig", "FC Augsburg", "Willi Orban", "Anton Kade", "Christopher Nkunku", "Martin Demichelis"],
+    "facts": [
+      "Anton Kade scored for Augsburg in the first minute after a mistake by Willi Orban in his 400th Leipzig appearance.",
+      "Leipzig replied with five goals from Banzuzi, Nkunku, Raum, Romulo and Baumgartner; Brajan Gruda had two assists.",
+      "Leipzig reached 18 points; Augsburg have nine and have lost six leads this season and are seven league games without a win."
+    ],
+    "background": "Leipzig are coached by Martin Demichelis and want to qualify for the Champions League every season.",
+    "angle": "win",
+    "sensitive": false,
+    "footage_terms": ["RB Leipzig FC Augsburg 5-2 Highlights", "Orban Fehler Kade Tor Leipzig Augsburg", "Nkunku Tor Leipzig Augsburg"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Brajan Gruda becomes Leipzig's dribbling machine on loan from Brighton",
+    "date": "2026-11-20",
+    "source_domain": "bundesliga.com",
+    "url": "https://www.bundesliga.com/en/bundesliga/news/flourishing-brajan-gruda-shining-for-both-rb-leipzig-and-germany-40023",
+    "entities": ["Brajan Gruda", "RB Leipzig", "Brighton", "Germany"],
+    "facts": [
+      "Gruda has four assists in seven Bundesliga games this season, two of them in the 5-2 win over Augsburg, and the most successful dribbles in the league.",
+      "He has no league goal yet this season, but scored in the Champions League and DFB Cup; after returning in February he had three goals and three assists in 13 league games.",
+      "His loan from Brighton was extended through the 2026/27 season."
+    ],
+    "background": "Gruda debuted in the Bundesliga at 18 for Mainz against Dortmund in 2023, then moved to Brighton, where he scored four goals in 45 appearances; he is 22.",
+    "angle": "transfer",
+    "sensitive": false,
+    "footage_terms": ["Brajan Gruda dribbling RB Leipzig", "Brajan Gruda assists Augsburg Leipzig", "Brajan Gruda Germany Nationalmannschaft Tor"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Maxime Esteve, Leipzig's new defender, jokes about two own goals against Man City",
+    "date": "2026-11-03",
+    "source_domain": "skysports.com",
+    "url": "https://www.skysports.com/football/news/13605575/maxime-esteve-interview-rb-leipzig-defender-on-his-erling-haaland-reunion-after-two-own-goals-against-man-city",
+    "entities": ["Maxime Esteve", "RB Leipzig", "Erling Haaland", "Manchester City", "Burnley"],
+    "facts": [
+      "French centre-back Esteve, 24, joined Leipzig from Burnley this summer and hopes to make his Champions League debut against Man City.",
+      "He scored two own goals for Burnley at the Etihad last year and calls the second one very unlucky.",
+      "He calls Haaland the best striker he has faced; Leipzig have won one of their first three Champions League games and are fourth in the Bundesliga."
+    ],
+    "background": "Leipzig are coached by Martin Demichelis; Esteve's former Burnley manager Scott Parker praised his other work in the Man City match.",
+    "angle": "viral",
+    "sensitive": false,
+    "footage_terms": ["Maxime Esteve own goals Manchester City Burnley", "Esteve Haaland Burnley Man City highlights", "RB Leipzig Manchester City Champions League 2026 highlights"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Grischa Promel returns to hometown Stuttgart and scores on his home debut",
+    "date": "2026-11-20",
+    "source_domain": "bundesliga.com",
+    "url": "https://www.bundesliga.com/en/bundesliga/news/grischa-promel-interview-my-heart-belongs-to-stuttgart-40036",
+    "entities": ["Grischa Promel", "VfB Stuttgart", "Hoffenheim", "Union Berlin"],
+    "facts": [
+      "Promel, 31, born in Bad Cannstatt, joined Stuttgart from Hoffenheim this summer and scored in his first home game against Cologne.",
+      "He has played all nine league games, starting six, and says he is adapting to a less attacking role than at Hoffenheim.",
+      "Stuttgart have 12 points after nine games, with goals scored and conceded level at 15 each; next up are Schalke away, Frankfurt at home and Elversberg away."
+    ],
+    "background": "Promel earlier played in the Bundesliga for Union Berlin and Hoffenheim; the interview says he is also a keen surfer and traveller.",
+    "angle": "transfer",
+    "sensitive": false,
+    "footage_terms": ["Grischa Promel Tor Stuttgart Koeln", "Promel VfB Stuttgart Interview", "VfB Stuttgart 1. FC Koeln Highlights 2026"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Stuttgart's Demirovic scores a Champions League hat-trick in 12 minutes against Viking",
+    "date": "2026-09-09",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/49882238/stuttgart-ermedin-demirovic-champions-league-hat-trick-viking",
+    "entities": ["Ermedin Demirovic", "VfB Stuttgart", "Viking", "Edin Dzeko", "Mohamed Salah"],
+    "facts": [
+      "Demirovic scored in the 20th, 26th and 32nd minutes for a 12-minute hat-trick in Stuttgart's Champions League game against Viking.",
+      "It was the first Champions League hat-trick of 2026-27, the first by a Stuttgart player and the fifth-earliest in competition history at 31 minutes 21 seconds.",
+      "Salah's treble for Liverpool against Rangers in October 2022 remains the fastest."
+    ],
+    "background": "It was the first Bosnian hat-trick in the competition since Edin Dzeko for Roma in 2018, and Viking were making their first main-phase Champions League appearance. Older story, kept for background.",
+    "angle": "record",
+    "sensitive": false,
+    "footage_terms": ["Demirovic hat-trick Stuttgart Viking Champions League", "Demirovic 12 minutes hat trick", "Stuttgart Viking 2026 Highlights"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Freiburg and Elversberg, the two overachievers, meet on matchday 10",
+    "date": "2026-11-20",
+    "source_domain": "bundesliga.com",
+    "url": "https://www.bundesliga.com/en/bundesliga/news/freiburg-elversberg-underdogs-face-off-vincent-wagner-julian-schuster-40026",
+    "entities": ["SC Freiburg", "SV Elversberg", "Julian Schuster", "Vincent Wagner"],
+    "facts": [
+      "Freiburg are third with 19 points, their best start in the Bundesliga with a club-record 20 goals scored; only Bayern and Leverkusen have beaten them.",
+      "Elversberg are seventh with 13 points after wins over Leverkusen (3-2), at Gladbach (4-3), over Augsburg (4-3) and Mainz (4-1); coach Vincent Wagner still says the aim is 40 points.",
+      "The hosts play at a ground set to hold 15,000 after renovation, still the lowest capacity in the division."
+    ],
+    "background": "Elversberg come from Spiesen-Elversberg, about 13,000 residents and the smallest town ever to host a Bundesliga club, and had spent only three seasons above the third tier. Freiburg's best finish is third, in 1994/95.",
+    "angle": "record",
+    "sensitive": false,
+    "footage_terms": ["SV Elversberg Bayer Leverkusen 3-2 Highlights", "SV Elversberg Gladbach 4-3 Highlights", "SC Freiburg Schuster Pressekonferenz"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Freiburg beat Union 2-0 as Union flirt with the relegation zone",
+    "date": "2026-11-08",
+    "source_domain": "sportschau.de",
+    "url": "https://www.sportschau.de/fussball/bundesliga/null-torgefahr-union-bewirbt-sich-fuer-abstiegskampf,spielbericht-sc-freiburg-union-berlin-106.html",
+    "entities": ["SC Freiburg", "1. FC Union Berlin", "Rani Khedira", "Yuito Suzuki", "Frederik Ronnow", "Vincenzo Grifo", "Mauro Lustrinelli"],
+    "facts": [
+      "Rani Khedira scored an own goal for Union in the 55th minute and Yuito Suzuki added a second for Freiburg in the 68th.",
+      "Union goalkeeper Frederik Ronnow saved a late Vincenzo Grifo penalty and was the team's best player in a very weak performance.",
+      "Union coach Mauro Lustrinelli said courage was punished; the table puts Union 16th with seven points."
+    ],
+    "background": "Union have already faced Leverkusen, Bayern and Dortmund this season; Freiburg moved up to third with this win.",
+    "angle": "scandal",
+    "sensitive": false,
+    "footage_terms": ["SC Freiburg Union Berlin 2-0 Highlights", "Ronnow Elfmeter Grifo Freiburg Union", "Union Berlin Lustrinelli Pressekonferenz"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Union striker Latte Lath talks Messi, Carrick and his mental coach",
+    "date": "2026-10-28",
+    "source_domain": "skysports.com",
+    "url": "https://www.skysports.com/football/news/13602307/emmanuel-latte-lath-interview-union-berlin-striker-on-memories-of-michael-carrick-lionel-messi-and-his-mental-coach",
+    "entities": ["Emmanuel Latte Lath", "Union Berlin", "Michael Carrick", "Lionel Messi", "Atlanta United"],
+    "facts": [
+      "Latte Lath scored within three minutes of his Bundesliga debut for Union against Eintracht Frankfurt, then Union had a tough run.",
+      "He says his 22.5 million pound move from Middlesbrough to Atlanta in MLS brought heavy expectation and he felt he never showed his real level there.",
+      "He works with a mental coach and finds the Bundesliga a clear step up in intensity."
+    ],
+    "background": "At Middlesbrough his coach was Michael Carrick, whom he describes as a calm coach who listened; in MLS he played against and met his idol Lionel Messi.",
+    "angle": "transfer",
+    "sensitive": false,
+    "footage_terms": ["Emmanuel Latte Lath Union Berlin Tor Frankfurt Debuet", "Latte Lath Middlesbrough goals", "Latte Lath Atlanta United Messi"],
+    "confidence": "high"
+  },
+  {
+    "headline": "The El Mala brothers share a flat and are Cologne's best double act",
+    "date": "2026-11-20",
+    "source_domain": "bundesliga.com",
+    "url": "https://www.bundesliga.com/en/bundesliga/news/lennart-karl-said-el-mala-two-of-germanys-brightest-talents-bayern-cologne-40007",
+    "entities": ["Said El Mala", "Malek El Mala", "1. FC Koln", "Rene Wagner", "Lennart Karl"],
+    "facts": [
+      "Said El Mala has three Bundesliga goals this season, including the winner against Gladbach in the Rhine derby, and seven goals in his first 16 top-flight games.",
+      "Malek El Mala is a year older and about 10 cm taller; the brothers share a flat and have set up each other's goals, the first brother goal combination in the Bundesliga in 20 years.",
+      "Said wears Cologne's iconic number 10 shirt and earned his first senior Germany call-up in November 2025."
+    ],
+    "background": "Gladbach released Said as a youngster in 2021; he considered quitting before his brother Malek encouraged him, then rebuilt at TSV Meerbusch and Viktoria Cologne, winning Newcomer of the Season in the 3. Liga in 2024/25.",
+    "angle": "viral",
+    "sensitive": false,
+    "footage_terms": ["Said El Mala Tor Koeln Leverkusen Malek Vorlage", "El Mala Brueder Koeln Interview", "Said El Mala Gladbach Derby Siegtor"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Spurs loanee Mikey Moore has no goals at Cologne and the club has gone 17 away games without a win",
+    "date": "2026-11-20",
+    "source_domain": "bundesliga.com",
+    "url": "https://www.bundesliga.com/en/bundesliga/news/mikey-moore-interview-cologne-el-mala-kane-tottenham-premier-league-40044",
+    "entities": ["Mikey Moore", "1. FC Koln", "Tottenham Hotspur", "Harry Kane", "Said El Mala"],
+    "facts": [
+      "Moore, 19, joined Cologne on a season-long loan from Tottenham and has five starts and 16 shots but no goals; only El Mala has more shots for the club.",
+      "He says the Bundesliga is as intense as the Premier League and wants to borrow El Mala's goalscoring touch while seeing Harry Kane as a role model.",
+      "Cologne are near the bottom and have gone 17 away games without a win, and Moore expects the visit to Bayern on matchday 10 to be the toughest game of his career so far."
+    ],
+    "background": "Moore is a London-born striker who says the Cologne fans were part of the reason he chose the club.",
+    "angle": "transfer",
+    "sensitive": false,
+    "footage_terms": ["Mikey Moore Koeln Tottenham Leihe", "Mikey Moore Cologne highlights", "1. FC Koeln Bayern Muenchen Vorschau Moore"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Leverkusen beat Cologne 1-2 in a derby that ended in a brawl",
+    "date": "2026-11-08",
+    "source_domain": "sportschau.de",
+    "url": "https://www.sportschau.de/regional/wdr/wdr-1-fc-koeln-bittere-pleite-gegen-ungeliebten-nachbarn-100.html",
+    "entities": ["Bayer Leverkusen", "1. FC Koln", "Aleix Garcia", "Patrik Schick", "Ibrahim Maza", "Said El Mala", "Rene Wagner", "Carles Martinez"],
+    "facts": [
+      "Aleix Garcia opened with a free kick from about 23 metres in the 7th minute; Patrik Schick sealed it in the 85th after an earlier goal was ruled out for handball.",
+      "Said El Mala pulled one back in the 90+2 minute from a cross by his brother Malek, and there was a brawl between the teams after the break.",
+      "Cologne stay on nine points and slide towards the relegation zone, while Leverkusen moved to 16 points after a run of defeats."
+    ],
+    "background": "Cologne coach Rene Wagner is under fan pressure; Leverkusen coach Carles Martinez was credited with a controlled win, and defenders Quansah and Tapsoba largely shut down El Mala.",
+    "angle": "scandal",
+    "sensitive": false,
+    "footage_terms": ["1. FC Koeln Bayer Leverkusen 1-2 Highlights", "Aleix Garcia Freistoss Tor Koeln Leverkusen", "Koeln Leverkusen Rudelbildung Derby"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Patrik Schick has scored in six straight games for Leverkusen, a club record",
+    "date": "2026-11-20",
+    "source_domain": "bundesliga.com",
+    "url": "https://www.bundesliga.com/de/bundesliga/news/bayer-04-leverkusen-patrik-schick-star-ohne-alluren-magazin-40025",
+    "entities": ["Patrik Schick", "Bayer Leverkusen", "Xabi Alonso", "Florian Wirtz"],
+    "facts": [
+      "Schick scored in each of Leverkusen's first six league games this season, a club record.",
+      "He has 87 Bundesliga goals for Leverkusen, the most by any foreign player in club history, and could reach 100 soon.",
+      "He says he does not chase records and that scoring in a full stadium is what drives him."
+    ],
+    "background": "Schick was once a more creative forward and chose to become a pure goalscorer around 23 or 24; Xabi Alonso and Florian Wirtz have left, making him the main attacking focus after the 2024 title and cup double.",
+    "angle": "record",
+    "sensitive": false,
+    "footage_terms": ["Patrik Schick Tor Leverkusen Serie Rekord", "Patrik Schick all goals 2026 Leverkusen", "Schick Koeln Leverkusen Tor 85 Minute"],
+    "confidence": "high"
+  },
+  {
+    "headline": "HSV beat Gladbach 3-1 with two long-range goals as Gladbach lose a man",
+    "date": "2026-11-06",
+    "source_domain": "sportschau.de",
+    "url": "https://www.sportschau.de/fussball/bundesliga/hsv-schickt-gladbach-zurueck-in-die-krise,spielbericht-hamburger-sv-borussia-moenchengladbach-102.html",
+    "entities": ["Hamburger SV", "Borussia Monchengladbach", "Miro Muheim", "Albert Gronbaek", "Joe Scally", "Ko Itakura"],
+    "facts": [
+      "Miro Muheim scored from about 30 metres in the 11th minute and Albert Gronbaek added a long-range goal in the 70th, with Shafiq Nandja also scoring.",
+      "Joe Scally equalised for Gladbach in the 44th minute, but Ko Itakura was sent off with a second yellow in the 49th.",
+      "Gladbach stay bottom after another defeat, and HSV climbed into the top half."
+    ],
+    "background": "HSV are back in the Bundesliga after a seven-year absence, and Muheim has three goals this season, all from outside the box.",
+    "angle": "win",
+    "sensitive": false,
+    "footage_terms": ["Hamburger SV Gladbach 3-1 Highlights", "Muheim Weitschuss Tor HSV Gladbach", "Gronbaek Tor HSV Moenchengladbach"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Gladbach coach Blessin to bench Moritz Nicolas for 35-year-old Daniel Batz before Dortmund",
+    "date": "2026-11-20",
+    "source_domain": "sportschau.de",
+    "url": "https://www.sportschau.de/regional/wdr/wdr-blessin-wechselt-im-abstiegskampf-den-torwart-100.html",
+    "entities": ["Alexander Blessin", "Daniel Batz", "Moritz Nicolas", "Borussia Monchengladbach", "Borussia Dortmund"],
+    "facts": [
+      "Blessin has reportedly chosen Batz, 35, over Nicolas, 29, for the home game against Dortmund on Saturday at 15:30.",
+      "Batz covered for the injured Nicolas in three competitive games and kept a clean sheet in two of them, while Nicolas made mistakes early in the season.",
+      "Gladbach are last, and if Nicolas stays on the bench a transfer becomes more likely; Hull City showed interest in him in the summer."
+    ],
+    "background": "Nicolas is a Gladbach academy product with 87 appearances in three seasons; Blessin said only that people should let themselves be surprised.",
+    "angle": "coach",
+    "sensitive": false,
+    "footage_terms": ["Daniel Batz Gladbach Torwart Paraden", "Moritz Nicolas Gladbach Fehler", "Alexander Blessin Pressekonferenz Gladbach Dortmund"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Gladbach avoid a record seventh straight loss thanks to a Scally backheel",
+    "date": "2026-10-23",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50261060/borussia-monchengladbach-joe-scally-bundesliga-usa",
+    "entities": ["Borussia Monchengladbach", "Joe Scally", "VfB Stuttgart", "Wael Mohya", "Alexander Blessin"],
+    "facts": [
+      "Gladbach won 3-2 at Stuttgart on 23 October, ending a run of six straight defeats to open the season and avoiding a first-ever seven-loss start in the Bundesliga.",
+      "American defender Joe Scally equalised with a backheel before half-time and set up Wael Mohya's winning header; it was his fourth goal of the season.",
+      "Their goal difference had been a club-record minus 20 before the game and they remain at the bottom of the table."
+    ],
+    "background": "Gladbach hired Alexander Blessin on 22 September on a deal to 2028 after sacking Eugen Polanski, and Blessin had been fired by St. Pauli in June after their relegation.",
+    "angle": "record",
+    "sensitive": false,
+    "footage_terms": ["Joe Scally Hackentor Stuttgart Gladbach", "VfB Stuttgart Gladbach 2-3 Highlights", "Wael Mohya Kopfball Tor Gladbach"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "A Frankfurt fan falls from the stands before Paderborn 2-2 Frankfurt",
+    "date": "2026-11-07",
+    "source_domain": "sportschau.de",
+    "url": "https://www.sportschau.de/fussball/bundesliga/medizinischer-notfall-ueberschattet-remis-zwischen-paderborn-und-frankfurt,spielbericht-sc-paderborn-eintracht-frankfurt-100.html",
+    "entities": ["SC Paderborn", "Eintracht Frankfurt", "Burkardt", "Marvin Pieringer", "Elias Baum"],
+    "facts": [
+      "Shortly before kick-off a Frankfurt fan fell from the stands in the away block and was taken to hospital in critical condition; a later report said he was responsive again.",
+      "Both sets of fans stayed silent for the full 90 minutes and furled their flags and banners.",
+      "The game ended 2-2: Burkardt scored twice, the second a heel flick from a corner in the third minute of stoppage time, with Frankfurt down to ten men after Elias Baum's second yellow."
+    ],
+    "background": "Paderborn are 11th with 10 points and Frankfurt eighth with 12 after the draw; Frankfurt are coached by Adi Hutter.",
+    "angle": "scandal",
+    "sensitive": true,
+    "footage_terms": ["Paderborn Eintracht Frankfurt 2-2 Highlights", "Burkardt Tor Absatz Paderborn Frankfurt", "Paderborn Frankfurt Fans Schweigen Choreo"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Karius hands Hoffenheim a goal as Schalke lose 2-1 at the bottom of the table",
+    "date": "2026-11-08",
+    "source_domain": "sportschau.de",
+    "url": "https://www.sportschau.de/fussball/bundesliga/ein-tor-aber-keine-punkte-fuer-fc-schalke-04,spielbericht-tsg-hoffenheim-schalke-04-100.html",
+    "entities": ["Schalke 04", "TSG Hoffenheim", "Loris Karius", "Fisnik Asllani", "Tim Lemperle", "Junior Adamu", "Edin Dzeko"],
+    "facts": [
+      "Fisnik Asllani scored in the 10th minute after Schalke goalkeeper Loris Karius's pass hit him and deflected into the net; Tim Lemperle made it 2-0 in the 26th.",
+      "Junior Adamu pulled one back late after a parried Edin Dzeko header, the first goal by a Schalke striker this season.",
+      "Schalke created plenty of chances but wasted them and went into the international break in 17th place; Hoffenheim rose to eighth with 12 points."
+    ],
+    "background": "Karius signed for second-division Schalke from Liverpool in 2024, and 40-year-old Edin Dzeko helped Schalke win promotion with a 1-0 over Fortuna Duesseldorf.",
+    "angle": "scandal",
+    "sensitive": false,
+    "footage_terms": ["Hoffenheim Schalke 2-1 Highlights", "Karius Fehler Asllani Tor Hoffenheim", "Edin Dzeko Kopfball Schalke Adamu"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Schalke's crisis: 17th place, six points, five goals and Bayern interest in Karius",
+    "date": "2026-11-19",
+    "source_domain": "sportschau.de",
+    "url": "https://www.sportschau.de/schlotterbeck-tah-thiaw-wer-soll-verteidigen,bundesliga-update-ausblick-laenderspiele-november-102.html",
+    "entities": ["Schalke 04", "Miron Muslic", "Loris Karius", "Matthias Tillmann", "Tim Oermann", "Robin Gosens"],
+    "facts": [
+      "Schalke are 17th with six points from nine games and only five goals scored; only nine of 23 shots in the latest game hit the target.",
+      "Coach Miron Muslic's more attacking approach is seen as the right move, but the team needs a centre-forward and a creative midfielder, and Leverkusen defender Tim Oermann is reportedly a loan option.",
+      "Karius reportedly attracted Bayern interest, but chief executive Matthias Tillmann said being number one at Schalke beats being a backup elsewhere."
+    ],
+    "background": "Schalke are back in the Bundesliga after promotion last season under Muslic, and host Stuttgart on Saturday.",
+    "angle": "scandal",
+    "sensitive": false,
+    "footage_terms": ["Schalke Muslic Pressekonferenz Krise", "Schalke 04 Tore Saison 2026 27 Highlights", "Loris Karius Schalke Interview"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Goalkeeper Noah Atubolu saves a sixth straight Bundesliga penalty for Frankfurt",
+    "date": "2026-09-16",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/espn/story/_/id/49947189/meet-noah-atubolu-bundesliga-penalty-killer-saved-six-row",
+    "entities": ["Noah Atubolu", "Eintracht Frankfurt", "SC Freiburg", "Julian Nagelsmann"],
+    "facts": [
+      "Atubolu saved a penalty in the Rhine-Main derby in gameweek three, his sixth in a row, a Bundesliga goalkeeper record.",
+      "He has not been beaten from the spot since May 2024 and is on loan at Frankfurt from Freiburg after spending pre-season away from the first team.",
+      "Reports say Germany coach Julian Nagelsmann is considering him for a senior call-up."
+    ],
+    "background": "Atubolu, 24, from Freiburg with German and Nigerian heritage, was Freiburg's number one from 2023-24 and reached the U-21 Euro final in 2025, lost to England. Older story, kept for background.",
+    "angle": "record",
+    "sensitive": false,
+    "footage_terms": ["Noah Atubolu Elfmeter gehalten Frankfurt", "Atubolu Penalty Killer Bundesliga", "Eintracht Frankfurt Atubolu Paraden"],
+    "confidence": "medium"
+  }
+]

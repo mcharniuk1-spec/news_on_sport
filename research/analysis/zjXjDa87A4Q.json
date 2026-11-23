@@ -1,0 +1,104 @@
+{
+ "video_id": "zjXjDa87A4Q",
+ "topic": "Short: Neymar at PSG, skill and passing compilation",
+ "hero": "Neymar (PSG no.10)",
+ "hero_role": "protagonist",
+ "media_type_overall": "real broadcast footage",
+ "hook": "Neymar in PSG kit dribbling past Lille player close-up vertical crop",
+ "subtitle_style": "none; green NEYMAR name tag with arrow in one shot; small watermark bottom-left",
+ "reaction_overlays": "Name tag NEYMAR with green arrow; no emoji",
+ "transition_summary": "Hard cuts every 2-3 s (cuts at 7.2, 9.4, 12.9, 16.6, 19.2 s)",
+ "audio_note": "Music-only (inferred), no transcript",
+ "reuse_segments": [
+  {
+   "t0": 0,
+   "t1": 19,
+   "what": "Neymar PSG Ligue 1 dribbles and passes",
+   "origin_guess": "broadcast match",
+   "rights_risk": "high",
+   "how_to_reuse": "licensed footage or recreate"
+  }
+ ],
+ "frames": [
+  {
+   "idx": 1,
+   "t": 0,
+   "desc": "Neymar no.10 PSG dribbling past Lille player, close",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 2,
+   "t": 2,
+   "desc": "Wide shot of Neymar with green NEYMAR tag and arrow",
+   "type": "video",
+   "text_on_screen": "NEYMAR",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 3,
+   "t": 4,
+   "desc": "Wide pitch view red vs dark players",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 4,
+   "t": 6,
+   "desc": "Neymar dribbling past white-kit defender, close",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 5,
+   "t": 8,
+   "desc": "Wide Ligue 1 view of Neymar dribbling at touchline",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 6,
+   "t": 10,
+   "desc": "Neymar with referee in blue, ball at foot",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 7,
+   "t": 12,
+   "desc": "Wide pitch shots with Emirates boards, play develops",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 8,
+   "t": 14,
+   "desc": "Wide pitch shots with Emirates boards, play develops",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 9,
+   "t": 16,
+   "desc": "Neymar dribbling with yellow ball past two white players",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 10,
+   "t": 18,
+   "desc": "Neymar no.10 beating white no.25 and another defender",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "none"
+  }
+ ]
+}

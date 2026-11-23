@@ -1,0 +1,546 @@
+[
+  {
+    "headline": "Drone footage of Pochettino's first Man Utd training leaks online",
+    "date": "2026-11-20",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50540789/manchester-united-drone-mauricio-pochettino",
+    "entities": ["Mauricio Pochettino", "Manchester United", "Liverpool", "Andoni Iraola"],
+    "facts": [
+      "About 12 minutes of drone footage of Pochettino's first United training session at Carrington was posted to YouTube before the Anfield trip.",
+      "The drone operator apologised, called it a total error of judgement, and removed the video.",
+      "ESPN sources say United will not act against the operator now, but will consider legal action if it happens again."
+    ],
+    "background": "Pochettino replaced the sacked Michael Carrick at United, and he previously managed Tottenham and the USMNT.",
+    "angle": "viral",
+    "sensitive": false,
+    "footage_terms": ["Pochettino Man Utd first training session", "Pochettino Manchester United press conference", "Liverpool vs Manchester United Anfield highlights"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Leicester drop crypto-casino shirt sponsor after adult-star ambassador row",
+    "date": "2026-11-19",
+    "source_domain": "sportbible.com",
+    "url": "https://www.sportbible.com/football/football-news/leicester-city-sponsor-terminated-846823-20261119",
+    "entities": ["Leicester City", "BC.GAME", "Foxes Trust"],
+    "facts": [
+      "Leicester and BC.GAME ended the shirt deal with immediate effect, citing differing commercial priorities.",
+      "Fans had objected after BC.GAME named an adult film star as a brand ambassador; the Foxes Trust said 73% of fans felt negative.",
+      "Leicester play Huddersfield with no sponsor on the shirt, and replica shirt buyers since 21 October can get a refund."
+    ],
+    "background": "BC.GAME had been on Leicester shirts for about two and a half years, and Leicester are now playing in League One, where they sit 11th.",
+    "angle": "business",
+    "sensitive": false,
+    "footage_terms": ["Leicester City highlights League One", "Leicester City fans protest sponsor", "Leicester City Huddersfield highlights"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Mbeumo's GTA VI loading-screen post triggers Goldbridge rant",
+    "date": "2026-11-19",
+    "source_domain": "sportbible.com",
+    "url": "https://www.sportbible.com/football/football-news/man-utd/gta-vi-mark-goldbridge-bryan-mbeumo-rant-grand-theft-auto-002858-20261119",
+    "entities": ["Bryan Mbeumo", "Mark Goldbridge", "Manchester United", "GTA VI"],
+    "facts": [
+      "Mbeumo posted a photo of the GTA VI loading screen with the caption 'Historique' in the early hours of 19 November.",
+      "On The United Stand, Goldbridge said players with training next morning should not be gaming late and called for United to sell Mbeumo.",
+      "Goldbridge admitted the post might have been scheduled earlier or posted by someone else."
+    ],
+    "background": "Mbeumo is a United forward, and Goldbridge is a well-known United fan-channel presenter.",
+    "angle": "viral",
+    "sensitive": false,
+    "footage_terms": ["Mark Goldbridge Mbeumo GTA rant", "Bryan Mbeumo Manchester United goals", "The United Stand reaction"],
+    "confidence": "high"
+  },
+  {
+    "headline": "GTA VI lands: what Premier League clubs spent since GTA V",
+    "date": "2026-11-20",
+    "source_domain": "givemesport.com",
+    "url": "https://www.givemesport.com/premier-league-clubs-transfer-spend-between-gta-5-gta-6/",
+    "entities": ["Chelsea", "Manchester City", "Manchester United", "Tottenham Hotspur", "Arsenal", "Liverpool"],
+    "facts": [
+      "Between GTA V (17 September 2013) and GTA VI (19 November 2026) Chelsea spent the most of the six big clubs, about 2.9bn pounds.",
+      "Tottenham spent about 1.7bn pounds for one major trophy; the article puts that at roughly 1.7bn per trophy.",
+      "Man City spent 2.5bn and won 20 major trophies, the lowest cost per trophy of the six."
+    ],
+    "background": "Top-flight clubs have spent over 2bn pounds in each of the last five summer windows, and summer 2026 set a record of 3.56bn.",
+    "angle": "business",
+    "sensitive": false,
+    "footage_terms": ["GTA 6 release football players", "Chelsea transfer spending highlights", "Tottenham trophy drought"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Mourinho storms out of Real Madrid press conference over Ronaldo question",
+    "date": "2026-11-20",
+    "source_domain": "sportbible.com",
+    "url": "https://www.sportbible.com/football/la-liga/real-madrid/jose-mourinho-press-conference-jj-garbiel-ronaldo-462572-20261120",
+    "entities": ["Jose Mourinho", "Real Madrid", "Cristiano Ronaldo", "JJ Gabriel", "Celta Vigo"],
+    "facts": [
+      "Before the Celta Vigo game, Mourinho ended his press conference early after questions about JJ Gabriel and Cristiano Ronaldo's Portugal retirement.",
+      "On Gabriel he said he has no connection with players who do not work with him.",
+      "Real Madrid have won eight straight and sit three points behind leaders Barcelona."
+    ],
+    "background": "Mourinho returned to manage Real Madrid, where he previously coached from 2010 to 2013.",
+    "angle": "coach",
+    "sensitive": false,
+    "footage_terms": ["Mourinho press conference walks out", "Mourinho Real Madrid funny moments", "Real Madrid Celta Vigo highlights"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Neuer photographed on a Vespa in Brazil while injured",
+    "date": "2026-11-20",
+    "source_domain": "goal.com",
+    "url": "https://www.goal.com/en/news/vespa-and-a-mystery-woman-in-brazil-what-is-behind-neuer-s-eye-catching-appearance/bltf94c2c33f58fc3a1",
+    "entities": ["Manuel Neuer", "Bayern Munich", "Max Eberl"],
+    "facts": [
+      "Images show Neuer riding a Vespa with an unidentified woman behind him, outside a medical centre in Brazil.",
+      "He partly tore a tendon in his right foot on 7 November in Bayern's 2-1 win over Mainz.",
+      "Bayern allowed rehab abroad, and sporting director Max Eberl approved the trip."
+    ],
+    "background": "Neuer is Bayern's long-serving captain goalkeeper and a World Cup winner with Germany.",
+    "angle": "viral",
+    "sensitive": true,
+    "footage_terms": ["Manuel Neuer Bayern highlights", "Neuer sweeper keeper best moments", "Bayern Munich Mainz highlights"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Amad snaps at fan who mocked his 336-day goal drought",
+    "date": "2026-11-18",
+    "source_domain": "sportbible.com",
+    "url": "https://www.sportbible.com/football/football-news/man-utd/amad-man-utd-fan-social-media-669482-20261118",
+    "entities": ["Amad Diallo", "Manchester United", "Ivory Coast"],
+    "facts": [
+      "A United fan posted a video on Instagram about Amad's 336 days without a goal.",
+      "Amad replied angrily in the comments and offered to swap places with the fan.",
+      "It followed a 2-2 draw between Ivory Coast and Gambia in which Amad hit the crossbar."
+    ],
+    "background": "Amad's last United goal came in a 4-4 draw with Bournemouth at Old Trafford on 15 December 2025.",
+    "angle": "viral",
+    "sensitive": false,
+    "footage_terms": ["Amad Diallo Manchester United goals", "Amad Diallo Ivory Coast highlights", "Amad Diallo skills compilation"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Pochettino demands a bowl of lemons in his Man Utd office",
+    "date": "2026-11-15",
+    "source_domain": "sportbible.com",
+    "url": "https://www.sportbible.com/football/football-news/man-utd/manchester-united-mauricio-pochettino-superstitions-lemon-bowl-824477-20261115",
+    "entities": ["Mauricio Pochettino", "Manchester United"],
+    "facts": [
+      "United must fill Pochettino's new office with a bowl of lemons.",
+      "He believes the fruit absorbs negative energy.",
+      "At Tottenham he swapped the lemons every ten days, and he reportedly kept the habit with the USMNT."
+    ],
+    "background": "Pochettino managed Tottenham, then returned to the Premier League at United after a spell in charge of the USMNT.",
+    "angle": "coach",
+    "sensitive": false,
+    "footage_terms": ["Pochettino Man Utd press conference", "Pochettino Tottenham best moments", "Pochettino interview Manchester United"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Pochettino told 'Manchester is blue' and has a reply ready",
+    "date": "2026-11-18",
+    "source_domain": "sportbible.com",
+    "url": "https://www.sportbible.com/football/football-news/man-utd/mauricio-pochettino-response-man-utd-551813-20261118",
+    "entities": ["Mauricio Pochettino", "DeMarcus Beasley", "Manchester United"],
+    "facts": [
+      "Ex-USMNT defender DeMarcus Beasley told Pochettino on TNT Sports US that Manchester is a blue city.",
+      "Pochettino disagreed and said fans would see otherwise, but that he needed time.",
+      "His United tenure officially began that Wednesday."
+    ],
+    "background": "Pochettino coached the USMNT before United, which is why a former US international was interviewing him.",
+    "angle": "coach",
+    "sensitive": false,
+    "footage_terms": ["Pochettino Manchester is blue response", "Beasley Pochettino TNT", "Pochettino Manchester United first interview"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Neil Warnock named 'Chief of Socks' and mocks holes-in-socks trend",
+    "date": "2026-11-18",
+    "source_domain": "sportbible.com",
+    "url": "https://www.sportbible.com/football/football-news/neil-warnock-interview-new-role-444515-20261118",
+    "entities": ["Neil Warnock", "Kyle Walker", "The Famous Grouse"],
+    "facts": [
+      "Warnock became 'Chief of Socks' for The Famous Grouse and modelled a limited Christmas sock range.",
+      "He criticised top players cutting holes in their socks, saying he does not believe it gives an advantage.",
+      "He draws on his chiropody qualifications for the role."
+    ],
+    "background": "Kyle Walker said in 2021 he cut holes in his socks to release tension in his calves.",
+    "angle": "viral",
+    "sensitive": false,
+    "footage_terms": ["Neil Warnock funny moments", "Neil Warnock interview", "Kyle Walker socks holes"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Sneijder admits he 'released anger' at half-time of a legends charity game",
+    "date": "2026-11-18",
+    "source_domain": "sportbible.com",
+    "url": "https://www.sportbible.com/football/football-news/wesley-sneijder-ajax-charity-game-legends-852438-20261118",
+    "entities": ["Wesley Sneijder", "Ajax", "Barcelona", "Rafael van der Vaart", "Danny Blind"],
+    "facts": [
+      "Sneijder played for Ajax legends against Barcelona legends at the Johan Cruyff Arena; Barcelona won 7-4.",
+      "He said he was only allowed about 30 minutes and criticised teammates and Danny Blind's selection.",
+      "The day before, he won his first game as manager of ninth-tier Eminent Boys 3-1."
+    ],
+    "background": "Sneijder retired in 2019, and his last club was Al Gharafa.",
+    "angle": "viral",
+    "sensitive": false,
+    "footage_terms": ["Ajax legends Barcelona legends Johan Cruyff Arena", "Wesley Sneijder best goals", "Sneijder Eminent Boys manager"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Mudryk's loan podcast comments about Chelsea return go viral",
+    "date": "2026-11-20",
+    "source_domain": "footballtransfers.com",
+    "url": "https://www.footballtransfers.com/en/transfer-news/uk-premier-league/2026/11/jamie-ohara-tottenham-mykhailo-mudryk-comments",
+    "entities": ["Mykhailo Mudryk", "Tottenham Hotspur", "Chelsea", "Xabi Alonso", "Jamie O'Hara", "Roberto De Zerbi"],
+    "facts": [
+      "On a podcast Mudryk described Xabi Alonso telling him to get match time and come back to Chelsea.",
+      "Jamie O'Hara reacted angrily, saying Mudryk was using Tottenham as a stepping stone and should be sent back.",
+      "Sky Sports reports De Zerbi says he understands fan frustration and that Mudryk must show his qualities."
+    ],
+    "background": "Chelsea loaned Mudryk to Tottenham in the summer, and he has played only once for Spurs after an ankle injury.",
+    "angle": "transfer",
+    "sensitive": true,
+    "footage_terms": ["Mudryk Tottenham", "De Zerbi press conference Mudryk", "Mykhailo Mudryk skills"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Bebe, 'United's biggest ever flop', finds a club in Spain's third tier",
+    "date": "2026-11-07",
+    "source_domain": "sportbible.com",
+    "url": "https://www.sportbible.com/football/transfer-news/manchester-united-man-utd-bebe-spain-cd-teruel-512022-20261107",
+    "entities": ["Bebe", "CD Teruel", "Manchester United", "Sir Alex Ferguson"],
+    "facts": [
+      "Bebe joined CD Teruel, bottom of Spain's third division, after months as a free agent.",
+      "He left UD Ibiza at the end of last season.",
+      "An ESPN fan survey once named him United's biggest ever flop."
+    ],
+    "background": "Ferguson signed Bebe from Vitoria de Guimaraes in August 2010 for a reported 7.4 million pounds, and he made only seven United appearances in four years.",
+    "angle": "history",
+    "sensitive": false,
+    "footage_terms": ["Bebe Manchester United funny", "Bebe Ferguson signing", "Bebe Benfica goals"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Gareth Bale reportedly part of a bid group for Sevilla",
+    "date": "2026-11-16",
+    "source_domain": "sportbible.com",
+    "url": "https://www.sportbible.com/football/football-news/gareth-bale-investment-buy-european-club-la-liga-573031-20261116",
+    "entities": ["Gareth Bale", "Sevilla", "Juggernaut Capital Partners", "Cardiff City"],
+    "facts": [
+      "El Confidencial reported Bale advises US fund Juggernaut Capital Partners, one of three groups interested in Sevilla.",
+      "A rival group, HD Ventures, led by the Sayed brothers, is also reported to be interested.",
+      "This is a report, not a confirmed deal; Bale earlier failed in an attempt to buy Cardiff."
+    ],
+    "background": "Bale retired in 2023 aged 33 after three seasons at Los Angeles FC, and has spent far more time on the golf course than the pitch.",
+    "angle": "business",
+    "sensitive": false,
+    "footage_terms": ["Gareth Bale golf celebration", "Gareth Bale best goals Real Madrid", "Sevilla takeover news"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Kane wants his Ballon d'Or displayed in the Bayern museum",
+    "date": "2026-11-04",
+    "source_domain": "sportbible.com",
+    "url": "https://www.sportbible.com/football/football-news/harry-kane-surprising-plan-ballon-dor-trophy-877891-20261104",
+    "entities": ["Harry Kane", "Bayern Munich", "Ballon d'Or", "Kylian Mbappe"],
+    "facts": [
+      "Kane told SportBILD he would ask Bayern about putting the Ballon d'Or in the club museum.",
+      "He collected the award on 26 October at the London Palladium, ahead of Mbappe by 28 points.",
+      "He also plans gifts for teammates at Bayern and England."
+    ],
+    "background": "Kane is the first Englishman to win the Ballon d'Or since Michael Owen in 2001.",
+    "angle": "record",
+    "sensitive": false,
+    "footage_terms": ["Harry Kane Ballon d'Or ceremony", "Harry Kane Bayern goals", "Kane Ballon d'Or speech"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Yamal's uncle slams Kane's Ballon d'Or win on Spanish radio",
+    "date": "2026-10-27",
+    "source_domain": "sportbible.com",
+    "url": "https://www.sportbible.com/football/football-news/lamine-yamal-ballon-dor-harry-kane-uncle-rant-359761-20261027",
+    "entities": ["Lamine Yamal", "Harry Kane", "Abdul Abdellaoui", "El Larguero"],
+    "facts": [
+      "Yamal's uncle Abdul Abdellaoui called the result sad on El Larguero and said Yamal is the best player in the world.",
+      "He argued fans come to watch Yamal rather than Kane and said voters held Yamal's age against him.",
+      "Final top three was Kane, Mbappe, Yamal."
+    ],
+    "background": "Yamal also won the Kopa Trophy for best young player for a third straight year.",
+    "angle": "viral",
+    "sensitive": false,
+    "footage_terms": ["Lamine Yamal Ballon d'Or reaction", "Lamine Yamal best goals", "Harry Kane Ballon d'Or win reaction"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Yamal's father says 'Lamine Yamal' is not his real full name",
+    "date": "2026-11-02",
+    "source_domain": "sportbible.com",
+    "url": "https://www.sportbible.com/football/la-liga/fc-barcelona/lamine-yamal-father-real-name-fc-barcelona-427315-20261102",
+    "entities": ["Lamine Yamal", "Mounir Nasraoui", "Barcelona"],
+    "facts": [
+      "On a live broadcast, Mounir Nasraoui said Lamine Yamal is his son's first name, not a first name plus surname.",
+      "He gave the surname as Nasraoui Ebana.",
+      "He asked everyone to understand that."
+    ],
+    "background": "Yamal is Barcelona's teenage winger, who finished third in the 2026 Ballon d'Or voting.",
+    "angle": "viral",
+    "sensitive": false,
+    "footage_terms": ["Lamine Yamal interview", "Lamine Yamal Barcelona highlights", "Mounir Nasraoui Yamal father"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Mbappe's Mao-meme joke angers China; CCTV pulls Real Madrid games",
+    "date": "2026-10-28",
+    "source_domain": "sportbible.com",
+    "url": "https://www.sportbible.com/football/la-liga/real-madrid/kylian-mbappe-china-mao-dictator-controversy-757467-20261028",
+    "entities": ["Kylian Mbappe", "Real Madrid", "La Liga", "CCTV-5", "China Media Group"],
+    "facts": [
+      "On the French show The Bridge, Mbappe said his favourite meme of himself showed him as a Chinese dictator with his face on Mao.",
+      "Mbappe apologised, calling the comment ill-judged, and Chinese sponsors Dongpeng, Mengniu and Milkground ended partnerships with him.",
+      "China Media Group suspended Real Madrid broadcasts on CCTV-5 until the club formally apologises, and Real Madrid issued an apology."
+    ],
+    "background": "China reportedly accounts for 10 to 15 percent of Real Madrid's international merchandise sales.",
+    "angle": "scandal",
+    "sensitive": true,
+    "footage_terms": ["Mbappe The Bridge interview", "Mbappe Real Madrid highlights", "Real Madrid China apology"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Barcelona wear 'GOLF' on the shirt for El Clasico, Tyler, The Creator collab",
+    "date": "2026-10-15",
+    "source_domain": "sportbible.com",
+    "url": "https://www.sportbible.com/football/la-liga/fc-barcelona/barcelona-golf-shirt-real-madrid-el-clasico-062754-20261015",
+    "entities": ["Barcelona", "Tyler, The Creator", "Spotify", "Real Madrid"],
+    "facts": [
+      "The word GOLF on the front promotes Tyler, The Creator's GOLF WANG brand in a Spotify campaign.",
+      "The shirt was for the El Clasico on 25 October, and only 1,899 matchday shirts were sold to the public.",
+      "Spotify gave an artist full creative control over a campaign for the first time."
+    ],
+    "background": "Spotify has sponsored Barcelona since 2022, and past Clasico shirts have featured artists starting with Drake in 2022.",
+    "angle": "business",
+    "sensitive": false,
+    "footage_terms": ["Barcelona Real Madrid El Clasico October 2026 highlights", "Barcelona Tyler the Creator shirt", "Barcelona GOLF kit"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Harvey Elliott sent off for two yellows in seconds after arguing with the referee",
+    "date": "2026-10-24",
+    "source_domain": "sportbible.com",
+    "url": "https://www.sportbible.com/football/la-liga/harvey-elliott-valencia-liverpool-reaction-la-liga-339547-20261025",
+    "entities": ["Harvey Elliott", "Valencia", "Villarreal", "Javier Aguirre"],
+    "facts": [
+      "Elliott came on in the 70th minute and got two yellows within seconds after a row with the referee as Valencia lost 2-1 to Villarreal.",
+      "Valencia boss Javier Aguirre called it absurd and noted Elliott barely speaks Spanish.",
+      "Marca gave him 3.9 out of 10, and Valencia are 19th on six points from 10 games."
+    ],
+    "background": "Elliott is a Liverpool player on loan at Valencia.",
+    "angle": "scandal",
+    "sensitive": false,
+    "footage_terms": ["Harvey Elliott red card Valencia Villarreal", "Valencia vs Villarreal highlights", "Aguirre press conference Elliott"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Sancho offered about 10,000 pounds a week by Getafe",
+    "date": "2026-10-24",
+    "source_domain": "sportbible.com",
+    "url": "https://www.sportbible.com/football/football-news/man-utd/jadon-sancho-considering-contract-offer-96-cut-on-man-utd-wage-124960-20261024",
+    "entities": ["Jadon Sancho", "Getafe", "Angel Torres", "Jose Bordalas"],
+    "facts": [
+      "Getafe president Angel Torres said the club made Sancho a final offer.",
+      "Reports put the wage near 10,000 pounds a week; the Telegraph figure was 400,000 euros until June.",
+      "Sancho has not ruled it out and wants to meet coach Jose Bordalas."
+    ],
+    "background": "Sancho reportedly earned 250,000 pounds a week at Manchester United, and he is a free agent after his United contract ended in June.",
+    "angle": "transfer",
+    "sensitive": false,
+    "footage_terms": ["Jadon Sancho best moments", "Getafe Bordalas press conference", "Sancho Dortmund highlights"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Strasbourg's Godo goes viral for odd pre-match eye routine, then scores",
+    "date": "2026-11-02",
+    "source_domain": "sportbible.com",
+    "url": "https://www.sportbible.com/football/football-news/strasbourgs-martial-godo-pre-match-eye-routine-auxerre-ligue-1-843058-20261102",
+    "entities": ["Martial Godo", "Strasbourg", "Auxerre"],
+    "facts": [
+      "Before kick-off Godo moved his fingers before his face, shifted his gaze and closed one eye repeatedly.",
+      "Strasbourg beat Auxerre 5-1, and it was Godo's first goal of the season.",
+      "He said the routine puts him in the conditions of reality."
+    ],
+    "background": "Godo plays for Strasbourg in Ligue 1.",
+    "angle": "viral",
+    "sensitive": false,
+    "footage_terms": ["Martial Godo eye routine", "Strasbourg Auxerre 5-1 highlights", "Godo goal Strasbourg"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Dortmund want Nmecha to drop his crown-removing goal celebration",
+    "date": "2026-11-10",
+    "source_domain": "sportbible.com",
+    "url": "https://www.sportbible.com/football/football-news/borussia-dortmund-felix-nmecha-celebration-germany-902704-20261110",
+    "entities": ["Felix Nmecha", "Borussia Dortmund", "Ballers in God", "Elversberg"],
+    "facts": [
+      "After a brace in a 2-1 win over Elversberg, Nmecha pointed up and placed an imaginary crown on the turf; four teammates joined in.",
+      "Fans objected to the Christian network Ballers in God over its reported views on homosexuality and abortion.",
+      "WDR reports Dortmund will ask the group not to use Nmecha and will urge him to stop; Nmecha says it honours Jesus and is not about hate."
+    ],
+    "background": "Nmecha is a Germany international midfielder who plays for Dortmund.",
+    "angle": "scandal",
+    "sensitive": true,
+    "footage_terms": ["Nmecha celebration Dortmund Elversberg", "Dortmund Elversberg highlights", "Nmecha goals Dortmund"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Teenager Dowman sent off vs Fleetwood; lip-reader claims Arteta's reaction",
+    "date": "2026-10-28",
+    "source_domain": "sportbible.com",
+    "url": "https://www.sportbible.com/football/football-news/arsenal/arsenal-max-dowman-mikel-arteta-fleetwood-carabao-cup-063510-20261028",
+    "entities": ["Max Dowman", "Mikel Arteta", "Arsenal", "Fleetwood Town", "Paul Merson"],
+    "facts": [
+      "Max Dowman, 16, was sent off in the 85th minute after reacting to a heavy challenge from Harrison Neal.",
+      "Arsenal drew 1-1 with 26 shots and 78% possession, then lost 5-3 on penalties to Fleetwood.",
+      "A lip-reader said Arteta told Dowman to go straight to the changing room; Arsenal fans criticised Arteta on social media."
+    ],
+    "background": "Fleetwood are a lower-league side, and Arsenal were Carabao Cup round-of-16 favourites.",
+    "angle": "scandal",
+    "sensitive": false,
+    "footage_terms": ["Arsenal Fleetwood Carabao Cup penalties", "Max Dowman red card", "Arteta Dowman reaction"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Hincapie answers Van Dijk's sarcasm with 'I don't forget' Instagram post",
+    "date": "2026-11-02",
+    "source_domain": "sportbible.com",
+    "url": "https://www.sportbible.com/football/football-news/arsenal/piero-hincapie-hits-back-at-virgil-van-dijk-with-i-dont-forget-post-325707-20261102",
+    "entities": ["Piero Hincapie", "Virgil van Dijk", "Arsenal", "Liverpool", "Kai Havertz"],
+    "facts": [
+      "Arsenal won 1-0 at Anfield through a first-half Kai Havertz goal, their first win there since 2014.",
+      "Van Dijk said a penalty was clear on Isak after a Timber shirt pull, and sarcastically congratulated Arsenal.",
+      "Hincapie posted images captioned 'I don't forget', including a zoomed-in Premier League sleeve badge."
+    ],
+    "background": "Van Dijk posted a similar sleeve-badge image after Liverpool's 0-0 draw at the Emirates in January.",
+    "angle": "viral",
+    "sensitive": false,
+    "footage_terms": ["Liverpool Arsenal 1-0 Havertz highlights", "Van Dijk interview Arsenal penalty", "Timber Isak penalty appeal"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Henderson taps the Chelsea badge after scoring and Liverpool fans fume",
+    "date": "2026-10-10",
+    "source_domain": "sportbible.com",
+    "url": "https://www.sportbible.com/football/premier-league/chelsea-bournemouth-jordan-henderson-goal-brace-celebration-liverpool-183935-20261010",
+    "entities": ["Jordan Henderson", "Chelsea", "Bournemouth", "Liverpool"],
+    "facts": [
+      "Chelsea beat Bournemouth 5-1; Henderson scored in the second minute and added a free kick in the 70th.",
+      "After the second goal he tapped the Chelsea badge, and some Liverpool fans called it disrespectful.",
+      "It was only his second Chelsea appearance."
+    ],
+    "background": "Henderson, 36, joined Chelsea in the summer after his Brentford contract was mutually terminated, and some Liverpool fans saw the move as betrayal.",
+    "angle": "viral",
+    "sensitive": false,
+    "footage_terms": ["Jordan Henderson Chelsea goal Bournemouth", "Chelsea Bournemouth 5-1 highlights", "Henderson Chelsea celebration"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Man City fans carry inflatable bananas in defiance after 115-charges verdict",
+    "date": "2026-10-18",
+    "source_domain": "sportbible.com",
+    "url": "https://www.sportbible.com/football/football-news/man-city/man-city-bananas-premier-league-115-charges-742301-20261018",
+    "entities": ["Manchester City", "Imre Varadi", "Frank Newton"],
+    "facts": [
+      "City fans are taking inflatable bananas to games after the club was found guilty of 115 charges by an independent commission.",
+      "Former striker Imre Varadi sells branded bananas for 10 pounds and says demand has gone through the roof.",
+      "The tradition dates to 1987, when Frank Newton brought one to a game against Plymouth."
+    ],
+    "background": "The inflatable craze started in the 1987 season, long before the City ownership era.",
+    "angle": "viral",
+    "sensitive": true,
+    "footage_terms": ["Man City fans inflatable bananas", "Imre Varadi Banana", "Manchester City 1987 banana craze"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Liam Rosenior says Chelsea memes went too far: 'I'm not a joke'",
+    "date": "2026-11-05",
+    "source_domain": "sportbible.com",
+    "url": "https://www.sportbible.com/football/football-news/chelsea-liam-rosenior-memes-joke-interview-384837-20261105",
+    "entities": ["Liam Rosenior", "Chelsea", "Paris FC", "Alejandro Garnacho"],
+    "facts": [
+      "In So Foot, Rosenior said the media made his Chelsea tenure a joke, citing mockery of the note he gave Garnacho against PSG.",
+      "Chelsea sacked him on 22 April after 107 days, with 11 wins in 23 games.",
+      "He now manages Paris FC, with five wins and two draws from his first nine matches."
+    ],
+    "background": "Rosenior had a short spell at Chelsea before returning to France.",
+    "angle": "coach",
+    "sensitive": false,
+    "footage_terms": ["Rosenior Garnacho note PSG meme", "Rosenior Chelsea press conference", "Paris FC Rosenior"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Iraola: Liverpool are 'too honest' as the referee praised their conduct after a loss",
+    "date": "2026-11-07",
+    "source_domain": "sportbible.com",
+    "url": "https://www.sportbible.com/football/football-news/liverpool/andoni-iraola-liverpool-premier-league-arsenal-penalty-claim-honest-605238-20261107",
+    "entities": ["Andoni Iraola", "Liverpool", "Arsenal", "Alexander Isak"],
+    "facts": [
+      "Iraola said the referee complimented Liverpool players and staff after the 1-0 loss to Arsenal, and he was unsure how to feel.",
+      "He said Liverpool can be too honest about refereeing decisions.",
+      "Opta: Liverpool have been awarded only 88 fouls this season while conceding 128, the most in the league."
+    ],
+    "background": "Iraola took over at Liverpool this season, following Arne Slot's sacking.",
+    "angle": "coach",
+    "sensitive": false,
+    "footage_terms": ["Iraola press conference referee honest", "Liverpool Arsenal Isak penalty appeal", "Iraola Liverpool press conference"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Adidas launches knitted long-sleeve club shirts for Arsenal, Liverpool and Man Utd",
+    "date": "2026-11-10",
+    "source_domain": "sportbible.com",
+    "url": "https://www.sportbible.com/football/football-news/adidas-kit-launch-arsenal-liverpool-man-utd-410889-20261110",
+    "entities": ["Adidas", "Arsenal", "Liverpool", "Manchester United", "Real Madrid", "Juventus"],
+    "facts": [
+      "The knitted long-sleeve home shirts are a first for Adidas; Arsenal's version landed first in the UK.",
+      "The shirts replace the sponsor with the club name and have ribbed cuffs and waistband.",
+      "Liverpool and United versions are due before Christmas, with Real Madrid and Juventus expected too."
+    ],
+    "background": "Knitwear shirts are limited to Adidas Elite clubs.",
+    "angle": "business",
+    "sensitive": false,
+    "footage_terms": ["Adidas knitted kit Arsenal", "Arsenal knitted shirt", "Adidas Elite club kits"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Haaland bumps into childhood friend Andrea Norheim after winning goal at Leipzig",
+    "date": "2026-11-05",
+    "source_domain": "sportbible.com",
+    "url": "https://www.sportbible.com/football/football-news/man-city/erling-haaland-reunites-with-surprise-guest-at-leipzig-game-man-city-444237-20261105",
+    "entities": ["Erling Haaland", "Andrea Norheim", "RB Leipzig", "Manchester City"],
+    "facts": [
+      "Haaland met Norheim, now a Leipzig player, near the dressing room after City won 3-2 and he scored the winner.",
+      "They had not seen each other for about eight years.",
+      "Norheim said he recognised her immediately."
+    ],
+    "background": "Both were youth teammates at Bryne FK in Norway.",
+    "angle": "win",
+    "sensitive": false,
+    "footage_terms": ["RB Leipzig Manchester City 2-3 highlights", "Haaland winning goal Leipzig", "Haaland Bryne youth"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Southampton give Eckert a new deal despite the 'Spygate' scandal",
+    "date": "2026-11-20",
+    "source_domain": "skysports.com",
+    "url": "https://www.skysports.com/football/news/13614334",
+    "entities": ["Tonda Eckert", "Southampton", "Middlesbrough", "Dragan Solak", "Johannes Spors"],
+    "facts": [
+      "Eckert signed a new contract to 2029, 20 November, after Southampton admitted unauthorised filming of opponents' training before a play-off semi-final.",
+      "Southampton were expelled from the play-off final and docked four points; the FA gave Eckert a suspended six-week ban and a fine on 25 September.",
+      "Owner Dragan Solak said the suspended sentence let Eckert continue."
+    ],
+    "background": "Middlesbrough complained on 7 May, and Hull City beat them in the play-off final.",
+    "angle": "scandal",
+    "sensitive": false,
+    "footage_terms": ["Southampton Spygate", "Tonda Eckert Southampton press conference", "Southampton Middlesbrough play-off"],
+    "confidence": "high"
+  }
+]

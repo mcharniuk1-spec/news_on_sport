@@ -1,0 +1,89 @@
+{
+  "no": 22,
+  "subject": "Pavel Nedvěd (Pavel Nedved)",
+  "title": "Ballon d'Or, a golden goal and the little bear",
+  "voice": "kokoro",
+  "comic": true,
+  "style": "us_comic_book",
+  "lines": [
+    {
+      "vo": "Long blond mane, two nicknames, and no major trophy with Czechia?",
+      "card": "No major trophy",
+      "sfx": null,
+      "footage": "Nedved long hair close-up in a 2003 Juventus match, slow motion"
+    },
+    {
+      "vo": "Pavel Nedvěd: a golden career, with one very unlucky golden goal.",
+      "card": "Golden career",
+      "sfx": null,
+      "footage": "Nedved celebrating a goal with fist clenched, Juventus era"
+    },
+    {
+      "vo": "Italian fans called him Furia Ceca. Czech fans called him Méďa, the little bear. A little bear with a lion's mane? Respect.",
+      "card": "Furia Ceca",
+      "sfx": "crowd cheer",
+      "footage": "Nedved running at full speed with hair flying, Lazio or Juventus archive"
+    },
+    {
+      "vo": "The 1996 Euro final: lost to Germany on a golden goal. Big hair, bigger heartbreak.",
+      "card": "Euro 1996 golden goal",
+      "sfx": "stadium hush",
+      "footage": "Euro 1996 final highlights, golden goal moment, broadcaster logo removed"
+    },
+    {
+      "vo": "In 2003 he won the Ballon d'Or. The same year, a suspension kept him out of the Champions League final. Best player in Europe, missing the biggest game.",
+      "card": "Ballon d'Or 2003",
+      "sfx": null,
+      "footage": "Nedved Ballon d'Or 2003 ceremony, clean award shot"
+    },
+    {
+      "vo": "He came out of international retirement for the 2006 World Cup. Czechia finished third in their group. Golden goal, golden career, bronze group stage. Pick your metal.",
+      "card": "2006 World Cup",
+      "sfx": "sad trombone",
+      "footage": "Czech squad at the 2006 World Cup group match, team photo"
+    },
+    {
+      "vo": "Want the next story before it breaks? Betting tips, news and predictions at aboutfootball dot UK.",
+      "card": "aboutfootball.UK",
+      "sfx": null,
+      "footage": "Closing card with site name, no footage"
+    }
+  ],
+  "chars": 752,
+  "est_seconds": 44,
+  "footage_terms": [
+    "Nedved Juventus goals compilation 2003",
+    "Nedved Ballon d'Or 2003 ceremony",
+    "Euro 1996 final Germany Czech Republic golden goal highlights",
+    "Nedved Euro 2004 Czech Republic highlights"
+  ],
+  "inserts": [
+    {
+      "after_line": 2,
+      "story": "Setup: a stadium full of cartoon fans holding little bear plushies. Gag: a caricature Nedvěd's long blond mane whips across the pitch and blows a cartoon hat off a fan. Twist: the hat lands on a bear plushie, which tips it like a gentleman.",
+      "characters": "Caricature of Pavel Nedvěd with long blond mane (no photo); generic cartoon fans",
+      "seconds": 2
+    },
+    {
+      "after_line": 3,
+      "story": "Setup: a 1996 scoreboard flashes 'GOLDEN GOAL'. Gag: a glowing golden ball rolls slowly past a caricature Nedvěd, who sighs and fixes his mane. Twist: the ball rolls into an empty trophy cabinet and stops right at the front, like it paid for the space.",
+      "characters": "Caricature of Pavel Nedvěd (no photo); generic cartoon fans; generic cabinet",
+      "seconds": 2
+    },
+    {
+      "after_line": 5,
+      "story": "Setup: a cartoon group-table board for the 2006 World Cup. Gag: a caricature Nedvěd pulls his old boots out of a dusty box and they squeak. Twist: the board flips to show Czechia third, and a tiny bronze-coloured sticker peels off and sticks to his mane.",
+      "characters": "Caricature of Pavel Nedvěd (no photo); generic cartoon board and boots",
+      "seconds": 2
+    }
+  ],
+  "facts_used": [
+    "Nicknames 'Furia Ceca' (Italian fans) and 'Méďa' (Czech fans), long blond hair - https://en.wikipedia.org/wiki/Pavel_Nedv%C4%9Bd",
+    "Euro 1996 final lost 2-1 to Germany on a golden goal - https://en.wikipedia.org/wiki/Pavel_Nedv%C4%9Bd",
+    "Ballon d'Or 2003; missed the Champions League final through suspension - https://en.wikipedia.org/wiki/Pavel_Nedv%C4%9Bd",
+    "Came out of international retirement for the 2006 World Cup; Czechia finished third in their group - https://en.wikipedia.org/wiki/Pavel_Nedv%C4%9Bd",
+    "91 caps, 18 goals for Czechia; 2002-03 Juventus season 43 apps, 14 goals - https://en.wikipedia.org/wiki/Pavel_Nedv%C4%9Bd"
+  ],
+  "comic_score": 8,
+  "notes": "Hair and nicknames are his public image, not health or family. The suspension line is the Champions League ban, not the Italian legal case (never mentioned); 'the same year' avoids claiming an order. Golden goal and 2006 group finish are from Wikipedia (high confidence). 'Bronze' and 'pick your metal' are jokes on a third-place group finish, not a medal claim. 'Italian fans / Czech fans' now matches the nickname source. The Prague marathon detail was left out (medium confidence only). Insert after_line values are 0-based."
+}

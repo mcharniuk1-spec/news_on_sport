@@ -1,0 +1,99 @@
+{
+ "no": 90,
+ "subject": "Nigeria could miss AFCON 2027 as striker woes continue",
+ "title": "Nigeria's striker problem",
+ "voice": "kokoro",
+ "comic": true,
+ "style": "shonen_anime",
+ "lines": [
+  {
+   "vo": "Three-time African champions could miss the next Africa Cup of Nations.",
+   "card": "Could miss AFCON 2027",
+   "sfx": null,
+   "footage": "Nigeria Super Eagles Chelle press conference"
+  },
+  {
+   "vo": "Nigeria drew nil-nil away in Tanzania. They have scored nothing in either away game this campaign. A lot of air miles for a zero.",
+   "card": "Nil-nil in Zanzibar",
+   "sfx": null,
+   "footage": "Tanzania Nigeria 0-0 highlights"
+  },
+  {
+   "vo": "Tanzania qualified as co-hosts, so one place is left for Nigeria, Guinea-Bissau and Madagascar. Musical chairs, with fewer chairs.",
+   "card": "One ticket, three teams",
+   "sfx": "short whistle",
+   "footage": "Nigeria Guinea-Bissau 3-0 highlights"
+  },
+  {
+   "vo": "Guinea-Bissau beat Nigeria three-nil and lead the group. Nigeria have seven points from four games.",
+   "card": "Guinea-Bissau on top",
+   "sfx": null,
+   "footage": "Nigeria Guinea-Bissau 0-3 AFCON qualifier"
+  },
+  {
+   "vo": "Coach Eric Chelle made seven changes. He played Arokodare and Awoniyi up front, without Lookman. Same problem. Maybe it is the ball.",
+   "card": "Seven changes",
+   "sfx": null,
+   "footage": "Eric Chelle Nigeria press conference"
+  },
+  {
+   "vo": "They must win both March games, one by at least four goals. For a team with no away goals, that is bold.",
+   "card": "March, four goals",
+   "sfx": null,
+   "footage": "Nigeria qualifier highlights"
+  },
+  {
+   "vo": "The strikers have been asked to score. So far, no reply.",
+   "card": "No reply yet",
+   "sfx": null,
+   "footage": "Arokodare Awoniyi highlights"
+  },
+  {
+   "vo": "Predict the next big story with us. Betting tips and match news at aboutfootball dot UK.",
+   "card": "aboutfootball.UK",
+   "sfx": null,
+   "footage": "end card"
+  }
+ ],
+ "chars": 809,
+ "est_seconds": 45,
+ "footage_terms": [
+  "Tanzania Nigeria 0-0 highlights",
+  "Nigeria Guinea-Bissau 3-0 highlights",
+  "Eric Chelle Nigeria press conference",
+  "Nigeria Super Eagles AFCON qualifier highlights"
+ ],
+ "inserts": [
+  {
+   "after_line": 2,
+   "story": "Setup: a generic anime striker stands before an empty goal, eyes blazing with power. Gag: the net shrinks to the size of a sock. Twist: his thunder shot bounces off the sock and the whole stadium gasps.",
+   "characters": "generic anime striker; sock-sized net",
+   "seconds": 3
+  },
+  {
+   "after_line": 4,
+   "story": "Setup: a generic anime coach faces a whiteboard of striker names. Gag: seven names are swapped for seven new names and the board looks exactly the same. Twist: the last word left says STRIKER, and he adds a question mark.",
+   "characters": "generic anime coach; floating names",
+   "seconds": 3
+  },
+  {
+   "after_line": 6,
+   "story": "Setup: a cartoon scoreboard shows 0-0 with a four-goal target glowing in the corner. Gag: a tiny goalpost pops up, waves and says NOT YET. Twist: the board flips to 4-0, then a striker wakes up on the bench and it flips back to 0-0.",
+   "characters": "cartoon scoreboard; generic anime striker",
+   "seconds": 3
+  }
+ ],
+ "facts_used": [
+  "Nigeria drew 0-0 away to Tanzania in Zanzibar; 7 points from 4 games in Group L (ev0155)",
+  "Only one qualifying place open because Tanzania qualified as co-hosts; Guinea-Bissau beat Nigeria 3-0 and lead the group (ev0155)",
+  "Nigeria must win both March games, the second by at least four goals; scored nothing away this campaign (ev0155)",
+  "Chelle made seven changes and played Arokodare and Awoniyi up front without Lookman (ev0155)",
+  "Three-time AFCON winner; missed the 2026 World Cup (ev0155 background)",
+  "One qualifying place left among Nigeria, Guinea-Bissau and Madagascar (ev0155)",
+  "One qualifying place left among Nigeria, Guinea-Bissau and Madagascar (ev0155)",
+  "One qualifying place left among Nigeria, Guinea-Bissau and Madagascar (ev0155)",
+  "One qualifying place left among Nigeria, Guinea-Bissau and Madagascar (ev0155)"
+ ],
+ "comic_score": 6,
+ "notes": "Comic, 3 inserts (after_line counts from 1). Sports-only jokes about goals and striker form, no nationality jokes, no personal insults to named players. Names Arokodare, Awoniyi and Lookman appear only as stated facts. Verify the exact qualifying rules and March fixture details before publishing."
+}

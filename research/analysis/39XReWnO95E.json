@@ -1,0 +1,272 @@
+{
+ "video_id": "39XReWnO95E",
+ "topic": "All 22 Kylian Mbappé World Cup goals 2018 to 2026, goal by goal with opponent captions",
+ "hero": "Kylian Mbappé (per title; France #10)",
+ "hero_role": "protagonist of goal compilation",
+ "media_type_overall": "real broadcast footage",
+ "hook": "Black screen with animated white 'M FOOTBALL' logo stinger for ~8 s before first match clip",
+ "subtitle_style": "small white caption bottom-left with goal number and opponent (e.g. '1.PERU', '2.ARGENTINA'); 'World Cup 2018' bottom-right; small M logo top-right",
+ "reaction_overlays": "none",
+ "transition_summary": "Hard cuts within goals, ~16s logo intro; counter caption changes per goal; roughly 2-3 cuts/10s with detected cuts about every 2-6s after intro",
+ "audio_note": "Original English broadcast commentary of each goal ('Antoine Griezmann and Mbappé gives France the lead') with crowd, possible music bed",
+ "reuse_segments": [
+  {
+   "t0": 8,
+   "t1": 62,
+   "what": "Mbappé World Cup goal clips (2018 onward) with commentary",
+   "origin_guess": "broadcast match",
+   "rights_risk": "high",
+   "how_to_reuse": "Needs FIFA/broadcaster-licensed footage; reuse caption layout (goal #. opponent) only"
+  }
+ ],
+ "frames": [
+  {
+   "idx": 1,
+   "t": 0,
+   "desc": "Black screen with animated white M FOOTBALL logo",
+   "type": "graphic_card",
+   "text_on_screen": "M FOOTBALL",
+   "transition_to_next": "crossfade"
+  },
+  {
+   "idx": 2,
+   "t": 2,
+   "desc": "Black screen M FOOTBALL logo",
+   "type": "graphic_card",
+   "text_on_screen": "M FOOTBALL",
+   "transition_to_next": "crossfade"
+  },
+  {
+   "idx": 3,
+   "t": 4,
+   "desc": "Black screen with large M FOOTBALL logo, scaled up",
+   "type": "graphic_card",
+   "text_on_screen": "M FOOTBALL",
+   "transition_to_next": "crossfade"
+  },
+  {
+   "idx": 4,
+   "t": 6,
+   "desc": "Black screen M FOOTBALL logo, smaller",
+   "type": "graphic_card",
+   "text_on_screen": "M FOOTBALL",
+   "transition_to_next": "crossfade"
+  },
+  {
+   "idx": 5,
+   "t": 8,
+   "desc": "Black frame, logo gone",
+   "type": "graphic_card",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 6,
+   "t": 10,
+   "desc": "Wide shot of pitch from stands, play beginning (World Cup 2018)",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 7,
+   "t": 12,
+   "desc": "Wide broadcast of Peru v France, Gazprom boards, caption 1.PERU",
+   "type": "video",
+   "text_on_screen": "1.PERU",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 8,
+   "t": 14,
+   "desc": "Coach in dark suit shouting on blue background",
+   "type": "video",
+   "text_on_screen": "1.PERU",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 9,
+   "t": 16,
+   "desc": "France players in blue near goal, Peru fans behind",
+   "type": "video",
+   "text_on_screen": "1.PERU",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 10,
+   "t": 18,
+   "desc": "Wide shot of France attack vs Peru, ball at left",
+   "type": "video",
+   "text_on_screen": "1.PERU",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 11,
+   "t": 20,
+   "desc": "Wide shot of play, Peru white kit",
+   "type": "video",
+   "text_on_screen": "1.PERU",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 12,
+   "t": 22,
+   "desc": "Wide shot of goal and keeper, Peru attack",
+   "type": "video",
+   "text_on_screen": "1.PERU",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 13,
+   "t": 24,
+   "desc": "Close of Mbappé from behind, pointing, French fans behind",
+   "type": "video",
+   "text_on_screen": "1.PERU",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 14,
+   "t": 26,
+   "desc": "Wide shot Hyundai boards, Argentina light-blue kit",
+   "type": "video",
+   "text_on_screen": "2.ARGENTINA",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 15,
+   "t": 28,
+   "desc": "Wide shot goal, Argentina defenders",
+   "type": "video",
+   "text_on_screen": "2.ARGENTINA",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 16,
+   "t": 30,
+   "desc": "Medium action: Argentina players chasing French #? dribbler",
+   "type": "video",
+   "text_on_screen": "2.ARGENTINA",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 17,
+   "t": 32,
+   "desc": "Argentina and France players running toward goal, close",
+   "type": "video",
+   "text_on_screen": "2.ARGENTINA",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 18,
+   "t": 34,
+   "desc": "Wide shot goal area, Hyundai boards",
+   "type": "video",
+   "text_on_screen": "2.ARGENTINA",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 19,
+   "t": 36,
+   "desc": "Wide shot France vs Argentina, keeper at top",
+   "type": "video",
+   "text_on_screen": "2.ARGENTINA",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 20,
+   "t": 38,
+   "desc": "Medium shot France player in dark kit running",
+   "type": "video",
+   "text_on_screen": "2.ARGENTINA",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 21,
+   "t": 40,
+   "desc": "Wide shot of midfield, players spread",
+   "type": "video",
+   "text_on_screen": "2.ARGENTINA",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 22,
+   "t": 42,
+   "desc": "Wide shot near touchline, play developing",
+   "type": "video",
+   "text_on_screen": "2.ARGENTINA",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 23,
+   "t": 44,
+   "desc": "Wide shot ball in net, keeper on ground",
+   "type": "video",
+   "text_on_screen": "2.ARGENTINA",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 24,
+   "t": 46,
+   "desc": "Close of ecstatic fans celebrating in stands",
+   "type": "video",
+   "text_on_screen": "2.ARGENTINA",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 25,
+   "t": 48,
+   "desc": "French players hugging celebrating, medium",
+   "type": "video",
+   "text_on_screen": "3.ARGENTINA",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 26,
+   "t": 50,
+   "desc": "Wide shot goal from behind, French fans",
+   "type": "video",
+   "text_on_screen": "3.ARGENTINA",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 27,
+   "t": 52,
+   "desc": "Wide shot goal, keeper diving, goal net",
+   "type": "video",
+   "text_on_screen": "3.ARGENTINA",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 28,
+   "t": 54,
+   "desc": "Wide shot of match vs Croatia in red-white",
+   "type": "video",
+   "text_on_screen": "5.CROATIA",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 29,
+   "t": 56,
+   "desc": "Close of coach reacting, suit, close to camera",
+   "type": "video",
+   "text_on_screen": "5.CROATIA",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 30,
+   "t": 58,
+   "desc": "France #10 dribbling past referee, Moscow ad boards",
+   "type": "video",
+   "text_on_screen": "5.CROATIA",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 31,
+   "t": 60,
+   "desc": "Wide shot of goal from stands, ball approaching",
+   "type": "video",
+   "text_on_screen": "4.CROATIA",
+   "transition_to_next": "none"
+  }
+ ]
+}

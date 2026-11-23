@@ -1,0 +1,16 @@
+{
+  "palette": [
+    "#eabac5",
+    "#403c65",
+    "#ffcc67",
+    "#ec775e",
+    "#92c8e0"
+  ],
+  "style": "SITCOM-YELLOW",
+  "font": "Arial Bold",
+  "characters": [
+    "Karim Benzema",
+    "generic reporter"
+  ],
+  "recurring_prop": "track"
+}

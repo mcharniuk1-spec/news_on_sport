@@ -1,0 +1,583 @@
+{
+ "no": 44,
+ "style": "RUBBER-SLAPSTICK",
+ "prop": "mug",
+ "cast": {
+  "frank": {
+   "role": "coach",
+   "shirt": "#1f3a5f",
+   "hair": "#9a9a9a"
+  },
+  "photog": {
+   "role": "reporter",
+   "shirt": "#6a3d8f",
+   "hair": "#2b2b3a"
+  },
+  "reporter1": {
+   "role": "reporter",
+   "shirt": "#2f8f6a",
+   "hair": "#a03a2a"
+  },
+  "reporter2": {
+   "role": "reporter",
+   "shirt": "#c9702b",
+   "hair": "#e0c070"
+  },
+  "director": {
+   "role": "boss",
+   "shirt": "#7a1f2b",
+   "hair": "#c8c8d0"
+  }
+ },
+ "sequences": {
+  "s01": {
+   "type": "HOOK",
+   "q": "What is Palace's new boss's coffee problem?",
+   "prop": "mug",
+   "emote": "sweat",
+   "board": "ticket"
+  },
+  "s02": {
+   "type": "NEWS",
+   "name": "Thomas Frank",
+   "fact": "contract runs to June twenty twenty-nine",
+   "ticker": "Coffee problem",
+   "icons": [
+    "calendar",
+    "mug",
+    "flag"
+   ],
+   "role": "coach",
+   "actor": "frank"
+  },
+  "s03": {
+   "type": "STATS",
+   "items": [
+    {
+     "icon": "calendar",
+     "value": "3",
+     "label": "Three-year deal"
+    },
+    {
+     "icon": "hourglass",
+     "value": "8",
+     "label": "Under eight months"
+    }
+   ]
+  },
+  "s04": {
+   "type": "COMIC",
+   "bg": "press-room",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "frank",
+       "x": 290,
+       "y": 1440,
+       "scale": 1.4,
+       "pose": "present",
+       "emote": "smug",
+       "label": "Thomas Frank"
+      },
+      {
+       "id": "photog",
+       "x": 830,
+       "y": 1440,
+       "scale": 1.25,
+       "pose": "hold",
+       "emote": "happy",
+       "flip": true,
+       "hold": {
+        "kind": "camera",
+        "hand": "both",
+        "scale": 0.7
+       }
+      }
+     ],
+     "props": [
+      {
+       "kind": "mug",
+       "x": 560,
+       "y": 1010,
+       "scale": 1.7,
+       "face": "happy"
+      },
+      {
+       "kind": "flag",
+       "x": 560,
+       "y": 840,
+       "scale": 0.7
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.52,
+     "actors": [
+      {
+       "id": "frank",
+       "x": 290,
+       "y": 1440,
+       "scale": 1.4,
+       "pose": "present",
+       "emote": "sweat"
+      },
+      {
+       "id": "photog",
+       "x": 830,
+       "y": 1440,
+       "scale": 1.25,
+       "pose": "shock",
+       "emote": "shock",
+       "flip": true,
+       "hold": {
+        "kind": "camera",
+        "hand": "both",
+        "scale": 0.7
+       }
+      }
+     ],
+     "props": [
+      {
+       "kind": "mug",
+       "x": 560,
+       "y": 1010,
+       "scale": 1.9,
+       "face": "shock",
+       "anim": "shake"
+      },
+      {
+       "kind": "flag",
+       "x": 560,
+       "y": 780,
+       "scale": 1.0,
+       "anim": "pop"
+      }
+     ],
+     "sfx": {
+      "text": "BANG",
+      "x": 560,
+      "y": 470,
+      "r": 95
+     },
+     "cam": "push"
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.52,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "frank",
+       "x": 290,
+       "y": 1440,
+       "scale": 1.4,
+       "pose": "shrug",
+       "emote": "sweat"
+      },
+      {
+       "id": "photog",
+       "x": 830,
+       "y": 1440,
+       "scale": 1.25,
+       "pose": "facepalm",
+       "emote": "sweat",
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "mug",
+       "x": 470,
+       "y": 1300,
+       "scale": 1.0,
+       "face": "happy"
+      },
+      {
+       "kind": "mug",
+       "x": 590,
+       "y": 1300,
+       "scale": 1.0,
+       "anim": "slide-l"
+      },
+      {
+       "kind": "mug",
+       "x": 710,
+       "y": 1300,
+       "scale": 1.0,
+       "anim": "slide-l"
+      },
+      {
+       "kind": "mug",
+       "x": 830,
+       "y": 1300,
+       "scale": 1.0,
+       "anim": "slide-l"
+      },
+      {
+       "kind": "mug",
+       "x": 950,
+       "y": 1300,
+       "scale": 1.0,
+       "anim": "slide-l"
+      }
+     ],
+     "sfx": {
+      "text": "POP",
+      "x": 540,
+      "y": 560,
+      "r": 95
+     },
+     "fx": [
+      {
+       "kind": "confetti",
+       "x": 640,
+       "y": 1000
+      }
+     ]
+    }
+   ]
+  },
+  "s05": {
+   "type": "COMIC",
+   "bg": "press-room",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "frank",
+       "x": 270,
+       "y": 1440,
+       "scale": 1.4,
+       "pose": "present",
+       "emote": "smug",
+       "hold": {
+        "kind": "bucket",
+        "hand": "R",
+        "scale": 1.0
+       },
+       "label": "Plain bottle only"
+      },
+      {
+       "id": "reporter1",
+       "x": 715,
+       "y": 1440,
+       "scale": 1.0,
+       "pose": "idle",
+       "emote": "neutral",
+       "flip": true
+      },
+      {
+       "id": "reporter2",
+       "x": 890,
+       "y": 1440,
+       "scale": 1.0,
+       "pose": "idle",
+       "emote": "neutral",
+       "flip": true
+      }
+     ],
+     "props": []
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.52,
+     "actors": [
+      {
+       "id": "frank",
+       "x": 270,
+       "y": 1440,
+       "scale": 1.4,
+       "pose": "present",
+       "emote": "smug",
+       "hold": {
+        "kind": "bucket",
+        "hand": "R",
+        "scale": 1.0
+       },
+       "label": "Plain bottle only"
+      },
+      {
+       "id": "reporter1",
+       "x": 715,
+       "y": 1440,
+       "scale": 1.0,
+       "pose": "lean",
+       "emote": "neutral",
+       "flip": true
+      },
+      {
+       "id": "reporter2",
+       "x": 890,
+       "y": 1440,
+       "scale": 1.0,
+       "pose": "lean",
+       "emote": "sweat",
+       "flip": true
+      }
+     ],
+     "props": [],
+     "cam": "push"
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.52,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "frank",
+       "x": 270,
+       "y": 1440,
+       "scale": 1.4,
+       "pose": "present",
+       "emote": "wink"
+      },
+      {
+       "id": "reporter1",
+       "x": 715,
+       "y": 1440,
+       "scale": 1.0,
+       "pose": "facepalm",
+       "emote": "sweat",
+       "flip": true
+      },
+      {
+       "id": "reporter2",
+       "x": 890,
+       "y": 1440,
+       "scale": 1.0,
+       "pose": "shrug",
+       "emote": "neutral",
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "mug",
+       "x": 470,
+       "y": 900,
+       "scale": 1.2,
+       "anim": "drop"
+      },
+      {
+       "kind": "check",
+       "x": 900,
+       "y": 620,
+       "scale": 0.8,
+       "anim": "pop"
+      }
+     ],
+     "sfx": {
+      "text": "DING",
+      "x": 560,
+      "y": 420,
+      "r": 90
+     }
+    }
+   ]
+  },
+  "s06": {
+   "type": "COMIC",
+   "bg": "office",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "frank",
+       "x": 290,
+       "y": 1440,
+       "scale": 1.4,
+       "pose": "present",
+       "emote": "smug"
+      },
+      {
+       "id": "director",
+       "x": 790,
+       "y": 1440,
+       "scale": 1.3,
+       "pose": "present",
+       "emote": "neutral",
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "stopwatch",
+       "x": 540,
+       "y": 1000,
+       "scale": 1.3,
+       "label": "Under eight months"
+      },
+      {
+       "kind": "mug",
+       "x": 540,
+       "y": 620,
+       "scale": 1.2,
+       "face": "sleepy",
+       "anim": "float"
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.52,
+     "actors": [
+      {
+       "id": "frank",
+       "x": 290,
+       "y": 1440,
+       "scale": 1.4,
+       "pose": "shock",
+       "emote": "shock"
+      },
+      {
+       "id": "director",
+       "x": 790,
+       "y": 1440,
+       "scale": 1.3,
+       "pose": "point",
+       "emote": "smug",
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "stopwatch",
+       "x": 540,
+       "y": 1000,
+       "scale": 1.3,
+       "label": "Under eight months"
+      },
+      {
+       "kind": "mug",
+       "x": 540,
+       "y": 640,
+       "scale": 2.2,
+       "face": "angry-cheeky",
+       "anim": "shake"
+      }
+     ],
+     "sfx": {
+      "text": "BANG",
+      "x": 540,
+      "y": 400,
+      "r": 100
+     },
+     "fx": [
+      {
+       "kind": "smoke",
+       "x": 540,
+       "y": 760,
+       "size": 0.8
+      }
+     ],
+     "cam": "shake"
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.52,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "frank",
+       "x": 290,
+       "y": 1440,
+       "scale": 1.4,
+       "pose": "shrug",
+       "emote": "smug"
+      },
+      {
+       "id": "director",
+       "x": 790,
+       "y": 1440,
+       "scale": 1.3,
+       "pose": "facepalm",
+       "emote": "sweat",
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "crown",
+       "x": 290,
+       "y": 690,
+       "scale": 0.9,
+       "anim": "drop"
+      },
+      {
+       "kind": "mug",
+       "x": 540,
+       "y": 860,
+       "scale": 1.5,
+       "face": "happy"
+      },
+      {
+       "kind": "flag",
+       "x": 540,
+       "y": 690,
+       "scale": 0.7,
+       "anim": "pop"
+      }
+     ],
+     "fx": [
+      {
+       "kind": "sparkle",
+       "x": 290,
+       "y": 680
+      }
+     ]
+    }
+   ]
+  },
+  "s07": {
+   "type": "PROVOC",
+   "q": "Plain bottle at Coventry: wise or silly?",
+   "a": "Wise",
+   "b": "Silly",
+   "split": [
+    61,
+    39
+   ],
+   "mood": "fun"
+  },
+  "s08": {
+   "type": "INTERVIEW",
+   "label": "REPORTER ASKS",
+   "bubble": "Plain bottle at Coventry, then?",
+   "answer": {
+    "icon": "mug",
+    "gesture": "shush"
+   },
+   "subject": "Thomas Frank",
+   "subject_cast": "frank"
+  }
+ }
+}

@@ -1,0 +1,118 @@
+{
+ "no": 1,
+ "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/001_andriy_shevchenko.mp4",
+ "total": 45.4,
+ "outro_start": 39.39,
+ "cover": true,
+ "seq": [
+  {
+   "id": "s01",
+   "kind": "HOOK",
+   "start": 0.1,
+   "end": 1.6,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/001/s01.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s02",
+   "kind": "INTERVIEW",
+   "start": 4.6,
+   "end": 6.366666666666666,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/001/s02.mp4",
+   "clip_dur": 1.766,
+   "frames": 42
+  },
+  {
+   "id": "s03",
+   "kind": "COMIC1",
+   "start": 9.433333333333334,
+   "end": 11.433333333333334,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/001/s03.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s04",
+   "kind": "NEWS",
+   "start": 14.866666666666667,
+   "end": 16.633333333333333,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/001/s04.mp4",
+   "clip_dur": 1.766,
+   "frames": 42
+  },
+  {
+   "id": "s05",
+   "kind": "COMIC2",
+   "start": 19.833333333333332,
+   "end": 21.833333333333332,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/001/s05.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s06",
+   "kind": "STATS",
+   "start": 25.866666666666667,
+   "end": 27.366666666666667,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/001/s06.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s07",
+   "kind": "COMIC3",
+   "start": 31.633333333333333,
+   "end": 33.63333333333333,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/001/s07.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s08",
+   "kind": "PROVOC",
+   "start": 37.6,
+   "end": 39.1,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/001/s08.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  }
+ ],
+ "missing": [],
+ "dropped": [],
+ "cards": [
+  {
+   "text": "Third of four",
+   "a": 6.533333333333333,
+   "b": 7.766666666666667
+  },
+  {
+   "text": "73% ball, lost 0-3",
+   "a": 13.533333333333333,
+   "b": 14.733333333333333
+  },
+  {
+   "text": "Ballon d'Or 2004",
+   "a": 23.866666666666667,
+   "b": 25.733333333333334
+  },
+  {
+   "text": "Three Kopa trophies",
+   "a": 35.93333333333333,
+   "b": 37.46666666666667
+  }
+ ],
+ "caption_sprites": 117,
+ "whoosh": [
+  0.0,
+  4.5,
+  9.333333333333334,
+  14.766666666666667,
+  19.73333333333333,
+  25.766666666666666,
+  31.53333333333333,
+  37.5,
+  39.29
+ ],
+ "shots": 13
+}

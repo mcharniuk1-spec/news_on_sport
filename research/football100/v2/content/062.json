@@ -1,0 +1,484 @@
+{
+ "no": 62,
+ "style": "FLAT-POP",
+ "prop": "whistle",
+ "cast": {
+  "vinicius": {
+   "role": "striker",
+   "shirt": "#f4f4f8",
+   "hair": "#2b2b3a",
+   "number": "20"
+  },
+  "mourinho": {
+   "role": "coach",
+   "shirt": "#2b2b3a",
+   "hair": "#c9c9d0"
+  }
+ },
+ "sequences": {
+  "s01": {
+   "type": "HOOK",
+   "q": "Is the World Cup to blame?",
+   "prop": "globe",
+   "emote": "shock",
+   "board": "neon",
+   "role": "striker"
+  },
+  "s02": {
+   "type": "COMIC",
+   "bg": "sky",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "vinicius",
+       "x": 330,
+       "y": 1440,
+       "scale": 1.4,
+       "pose": "sleep",
+       "emote": "sleepy"
+      }
+     ],
+     "props": [
+      {
+       "kind": "sofa",
+       "x": 330,
+       "y": 1290,
+       "scale": 2.8,
+       "layer": "back"
+      },
+      {
+       "kind": "trophy",
+       "x": 650,
+       "y": 1385,
+       "scale": 0.7
+      },
+      {
+       "kind": "stopwatch",
+       "x": 790,
+       "y": 640,
+       "scale": 2.0,
+       "anim": "pulse"
+      },
+      {
+       "kind": "calendar",
+       "x": 800,
+       "y": 1040,
+       "scale": 1.6
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.42,
+     "actors": [
+      {
+       "id": "vinicius",
+       "x": 330,
+       "y": 1440,
+       "scale": 1.4,
+       "pose": "sleep",
+       "emote": "sleepy"
+      }
+     ],
+     "props": [
+      {
+       "kind": "sofa",
+       "x": 330,
+       "y": 1290,
+       "scale": 2.8,
+       "layer": "back"
+      },
+      {
+       "kind": "trophy",
+       "x": 650,
+       "y": 1385,
+       "scale": 0.7
+      },
+      {
+       "kind": "stopwatch",
+       "x": 790,
+       "y": 640,
+       "scale": 2.3,
+       "anim": "pulse"
+      },
+      {
+       "kind": "calendar",
+       "x": 800,
+       "y": 1040,
+       "scale": 1.6,
+       "anim": "spin"
+      }
+     ],
+     "cam": "push"
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.42,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "vinicius",
+       "x": 330,
+       "y": 1440,
+       "scale": 1.4,
+       "pose": "idle",
+       "emote": "sweat",
+       "look": "stopwatch"
+      }
+     ],
+     "props": [
+      {
+       "kind": "sofa",
+       "x": 330,
+       "y": 1290,
+       "scale": 2.8,
+       "layer": "back"
+      },
+      {
+       "kind": "trophy",
+       "x": 650,
+       "y": 1385,
+       "scale": 0.7
+      },
+      {
+       "kind": "stopwatch",
+       "x": 790,
+       "y": 640,
+       "scale": 2.6,
+       "anim": "pulse"
+      },
+      {
+       "kind": "calendar",
+       "x": 800,
+       "y": 1040,
+       "scale": 1.9,
+       "anim": "wobble"
+      }
+     ]
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "vinicius",
+       "x": 330,
+       "y": 1440,
+       "scale": 1.4,
+       "pose": "hold",
+       "emote": "happy",
+       "lift": 150,
+       "hold": {
+        "kind": "suitcase",
+        "hand": "L",
+        "scale": 0.7
+       }
+      }
+     ],
+     "props": [
+      {
+       "kind": "sofa",
+       "x": 330,
+       "y": 1290,
+       "scale": 2.8,
+       "layer": "back"
+      },
+      {
+       "kind": "trophy",
+       "x": 650,
+       "y": 1385,
+       "scale": 0.7
+      },
+      {
+       "kind": "stopwatch",
+       "x": 790,
+       "y": 640,
+       "scale": 2.0,
+       "anim": "pulse"
+      },
+      {
+       "kind": "calendar",
+       "x": 800,
+       "y": 1040,
+       "scale": 1.6
+      },
+      {
+       "kind": "whistle",
+       "x": 540,
+       "y": 520,
+       "scale": 1.6,
+       "anim": "drop"
+      }
+     ],
+     "sfx": {
+      "text": "WHOOSH",
+      "x": 230,
+      "y": 420,
+      "r": 110
+     }
+    }
+   ]
+  },
+  "s03": {
+   "type": "INTERVIEW",
+   "label": "REPORTER ASKS",
+   "bubble": "trained less after the tournament",
+   "answer": {
+    "icon": "suitcase",
+    "gesture": "shrug",
+    "emote": "sweat"
+   },
+   "subject": "Vinicius",
+   "subject_cast": "vinicius",
+   "subject_role": "striker",
+   "reporter_role": "reporter"
+  },
+  "s04": {
+   "type": "NEWS",
+   "name": "Vinicius",
+   "fact": "He trained less after the tournament",
+   "ticker": "Trained less",
+   "icons": [
+    "globe",
+    "stopwatch",
+    "trophy"
+   ],
+   "role": "striker",
+   "actor": "vinicius"
+  },
+  "s05": {
+   "type": "COMIC",
+   "bg": "bench-area",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "mourinho",
+       "x": 540,
+       "y": 1440,
+       "scale": 1.5,
+       "pose": "cheer",
+       "emote": "neutral"
+      }
+     ],
+     "props": [
+      {
+       "kind": "thumbs-up",
+       "x": 190,
+       "y": 1000,
+       "scale": 1.7,
+       "anim": "slide-l"
+      },
+      {
+       "kind": "thumbs-down",
+       "x": 890,
+       "y": 1000,
+       "scale": 1.7,
+       "anim": "slide-r"
+      },
+      {
+       "kind": "whistle",
+       "x": 540,
+       "y": 590,
+       "scale": 1.0,
+       "anim": "float"
+      },
+      {
+       "kind": "trophy",
+       "x": 880,
+       "y": 1330,
+       "scale": 0.8
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.4,
+     "actors": [
+      {
+       "id": "mourinho",
+       "x": 540,
+       "y": 1440,
+       "scale": 1.5,
+       "pose": "cheer",
+       "emote": "smug"
+      }
+     ],
+     "props": [
+      {
+       "kind": "thumbs-up",
+       "x": 890,
+       "y": 1000,
+       "scale": 1.7
+      },
+      {
+       "kind": "thumbs-down",
+       "x": 190,
+       "y": 1000,
+       "scale": 1.7
+      },
+      {
+       "kind": "whistle",
+       "x": 540,
+       "y": 590,
+       "scale": 1.0,
+       "anim": "float"
+      },
+      {
+       "kind": "trophy",
+       "x": 880,
+       "y": 1330,
+       "scale": 0.8
+      }
+     ],
+     "cam": "push"
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.4,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "mourinho",
+       "x": 540,
+       "y": 1440,
+       "scale": 1.5,
+       "pose": "cheer",
+       "emote": "wink"
+      }
+     ],
+     "props": [
+      {
+       "kind": "thumbs-up",
+       "x": 190,
+       "y": 1000,
+       "scale": 1.7,
+       "rot": -10
+      },
+      {
+       "kind": "thumbs-down",
+       "x": 890,
+       "y": 1000,
+       "scale": 1.7,
+       "rot": 10
+      },
+      {
+       "kind": "whistle",
+       "x": 540,
+       "y": 590,
+       "scale": 1.0,
+       "anim": "float"
+      },
+      {
+       "kind": "trophy",
+       "x": 880,
+       "y": 1330,
+       "scale": 0.8
+      }
+     ]
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "mourinho",
+       "x": 540,
+       "y": 1440,
+       "scale": 1.5,
+       "pose": "thumbsup",
+       "emote": "smug"
+      }
+     ],
+     "props": [
+      {
+       "kind": "thumbs-up",
+       "x": 190,
+       "y": 1000,
+       "scale": 1.7,
+       "face": "happy"
+      },
+      {
+       "kind": "thumbs-down",
+       "x": 890,
+       "y": 1000,
+       "scale": 1.7,
+       "face": "sad"
+      },
+      {
+       "kind": "whistle",
+       "x": 540,
+       "y": 590,
+       "scale": 1.0,
+       "anim": "float"
+      },
+      {
+       "kind": "trophy",
+       "x": 880,
+       "y": 1330,
+       "scale": 0.8
+      }
+     ],
+     "sfx": {
+      "text": "DING",
+      "x": 540,
+      "y": 390,
+      "r": 100
+     }
+    }
+   ]
+  },
+  "s06": {
+   "type": "PROVOC",
+   "q": "Speak up or stay quiet?",
+   "a": "Speak up",
+   "b": "Stay quiet",
+   "split": [
+    66,
+    34
+   ],
+   "mood": "cheeky"
+  },
+  "s07": {
+   "type": "STATS",
+   "items": [
+    {
+     "icon": "ball",
+     "value": "1",
+     "label": "One goal"
+    },
+    {
+     "icon": "calendar",
+     "value": "8",
+     "label": "Eight games"
+    },
+    {
+     "icon": "thumbs-up",
+     "value": "1",
+     "label": "A thumbs up"
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,272 @@
+{
+ "video_id": "otxqEv8lXi4",
+ "topic": "Sky Sports full-time scenes after Nottingham Forest beat Manchester City 3-1, plus Liam Delap post-match interview",
+ "hero": "Liam Delap (Forest #19, identified from shirt and title)",
+ "hero_role": "match winner / interviewee",
+ "media_type_overall": "real broadcast footage",
+ "hook": "Forest players celebrating at full time with scoreboard 3-1 and City player falling, commentary 'Huge night for Nottingham Forest'",
+ "subtitle_style": "none; scoreboard chip top-left (3-1)",
+ "reaction_overlays": "none",
+ "transition_summary": "Observational TV coverage; hard cuts, handheld with dissolve-free cuts; about 2-3 cuts per 10 s sample",
+ "audio_note": "Commentary from the match plus interview audio; ambient crowd",
+ "reuse_segments": [
+  {
+   "t0": 0,
+   "t1": 62,
+   "what": "Full-time celebrations, handshakes and Delap after win",
+   "origin_guess": "broadcast match",
+   "rights_risk": "high",
+   "how_to_reuse": "licensed Sky footage required; or use generated recreation of celebrations"
+  }
+ ],
+ "frames": [
+  {
+   "idx": 1,
+   "t": 0,
+   "desc": "Forest players in red celebrate near touchline, City player in white falling, scoreboard 3-1 top-left",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 2,
+   "t": 2,
+   "desc": "Forest red players walking, City #33 in white-blue beside, scoreboard 3-1",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 3,
+   "t": 4,
+   "desc": "Forest player in red close, walking on pitch, wide-medium",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 4,
+   "t": 6,
+   "desc": "Forest player in red jogging towards camera, medium",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 5,
+   "t": 8,
+   "desc": "Man City manager in dark coat standing at touchline, stadium behind, mist",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 6,
+   "t": 10,
+   "desc": "City manager in dark coat standing beside staff, stadium crowd",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 7,
+   "t": 12,
+   "desc": "Man City manager arms crossed in front of crowd, scoreboard chip 3-1",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 8,
+   "t": 14,
+   "desc": "City manager shakes hands with man in blue, floodlights, smoky air",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 9,
+   "t": 16,
+   "desc": "City manager smiles walking along touchline, floodlights",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 10,
+   "t": 18,
+   "desc": "staff in blue coat and Forest player in red by fans' rail, crowd behind",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 11,
+   "t": 20,
+   "desc": "man in orange vest blurs frame; handshake moment",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 12,
+   "t": 22,
+   "desc": "Forest red-kit player waves to crowd, steward and staff in blue",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 13,
+   "t": 24,
+   "desc": "Forest staff member and red-kit player hug, fans behind",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 14,
+   "t": 26,
+   "desc": "Forest players embrace on touchline, crowd above",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 15,
+   "t": 28,
+   "desc": "Forest staff hugging a player on pitch, floodlights, mist",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 16,
+   "t": 30,
+   "desc": "Forest players #2 and #19 and officials on pitch, floodlights",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 17,
+   "t": 32,
+   "desc": "City manager shaking hands with Forest staff on pitch",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 18,
+   "t": 34,
+   "desc": "City manager in dark coat leaves, staff alongside",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 19,
+   "t": 36,
+   "desc": "Forest staff and City in blue embracing near tunnel, floodlights",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 20,
+   "t": 38,
+   "desc": "Forest player kisses badge, red kit, stadium behind",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 21,
+   "t": 40,
+   "desc": "Forest player with poppy kit in red walking on pitch",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 22,
+   "t": 42,
+   "desc": "Forest player on pitch, player blurred bending",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 23,
+   "t": 44,
+   "desc": "two Forest players close, one smiling, green pitch",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 24,
+   "t": 46,
+   "desc": "two Forest players in embrace close on pitch",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 25,
+   "t": 48,
+   "desc": "City manager in dark coat walking at touchline, red boards behind",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 26,
+   "t": 50,
+   "desc": "City manager walks, white-blue player beside",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 27,
+   "t": 52,
+   "desc": "Forest player smiling, floodlights and fog behind",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 28,
+   "t": 54,
+   "desc": "Forest player smiling, close, poppy kit",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 29,
+   "t": 56,
+   "desc": "Forest player close, speaking to camera or fans, poppy kit",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 30,
+   "t": 58,
+   "desc": "City #5 Anderson in white back, Forest player hugging",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 31,
+   "t": 60,
+   "desc": "City players in white-blue embrace: two players, Anderson 5",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "none"
+  }
+ ]
+}

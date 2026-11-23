@@ -1,0 +1,81 @@
+{
+ "no": 70,
+ "subject": "Thomas Muller says MLS has no relegation fear and plays 'careless' style",
+ "title": "Muller says no relegation makes MLS careless",
+ "voice": "kokoro",
+ "comic": true,
+ "style": "rickmorty_like",
+ "lines": [
+  {
+   "vo": "Thomas Muller just called MLS careless. He plays there. Brave.",
+   "card": "Careless problem?",
+   "sfx": "cartoon warp whoosh",
+   "footage": "Muller Vancouver Whitecaps interview, close-up, then match clip"
+  },
+  {
+   "vo": "The Whitecaps forward told Global News that no relegation changes how players defend.",
+   "card": "No relegation",
+   "footage": "Whitecaps match clip, Muller on the ball, Global News interview still"
+  },
+  {
+   "vo": "In Europe, bottom clubs fight to survive. Relegation hits budgets, staff and fans. In MLS, nobody checks the bottom of the table.",
+   "card": "Survive or fall",
+   "footage": "Relegation battle highlights, Premier League bottom-table graphic"
+  },
+  {
+   "vo": "Muller says players feel less pressure, so their focus fades over ninety minutes. Like most of us in a long meeting.",
+   "card": "Focus fades",
+   "footage": "Muller defending clip, MLS match, players jogging back"
+  },
+  {
+   "vo": "He praised the attacking football and the individual moments. Quality, he says, is less consistent. Praise first, then the but.",
+   "card": "Attack, but inconsistent",
+   "footage": "MLS goal highlights, attacking counter-attack sequences"
+  },
+  {
+   "vo": "He joined Vancouver in August and has renewed his deal. Honest, and still staying.",
+   "card": "Honest and staying",
+   "footage": "Muller signing or renewal graphic, Vancouver stadium"
+  },
+  {
+   "vo": "Your mates will never guess this. Betting tips, news and predictions at aboutfootball dot UK.",
+   "card": "aboutfootball.UK",
+   "footage": "Channel end card, neutral background"
+  }
+ ],
+ "chars": 694,
+ "est_seconds": 41,
+ "footage_terms": [
+  "Thomas Muller Vancouver Whitecaps interview",
+  "Muller Vancouver highlights",
+  "Muller MLS relegation comments"
+ ],
+ "inserts": [
+  {
+   "after_line": 1,
+   "story": "A stylised scientist in a lab coat hands a caricature Muller a jetpack labelled Pressure. The fuel gauge reads empty. Twist: he floats off sideways anyway, smiling, while the scientist writes down Interesting.",
+   "characters": "generic stylised scientist; caricature Muller",
+   "seconds": 2
+  },
+  {
+   "after_line": 3,
+   "story": "Two cartoon players race through a portal toward a glowing sign reading Relegation. Halfway there the sign flips to Not today. Twist: both stop mid-race and unfold a picnic blanket on the track.",
+   "characters": "two generic cartoon players; stylised pod; sign",
+   "seconds": 2
+  },
+  {
+   "after_line": 4,
+   "story": "A caricature Muller lounges on a space-station goal sipping a drink while a robot defends. The robot waves the strikers through. Twist: it then scores an own goal in the top corner and takes a bow.",
+   "characters": "caricature Muller; generic robot defender; stylised space station",
+   "seconds": 2
+  }
+ ],
+ "facts_used": [
+  "Muller, 37, told Global News that no promotion or relegation makes MLS defending less disciplined (news id 65, espn.com/soccer/story/_/id/50541122)",
+  "He said players face less pressure than in Europe, where bottom teams fight to survive; this hurts focus over 90 minutes (news id 65)",
+  "He credited MLS with attractive attacking play and strong individual moments but said quality is less consistent (news id 65)",
+  "Muller joined the Whitecaps in August 2025 and renewed his contract through next year (news id 65, background)"
+ ],
+ "comic_score": 7,
+ "notes": "Comic (rickmorty_like, generic sci-fi cartoon style, no named franchise characters). Muller's opinion is reported, not endorsed. Jokes rest on his criticising the league he plays in and the renewal fact. No age or appearance material. Background line about World Cup and Champions League wins is not used because its wording is ambiguous in the source."
+}

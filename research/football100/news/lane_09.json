@@ -1,0 +1,560 @@
+[
+  {
+    "headline": "Atletico Madrid lose 1-2 to Barcelona as Fermin Lopez scores twice and Alvarez misses chances",
+    "date": "2026-11-08",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50426411/barca-pass-their-biggest-test-yet-fermin-lopez-sinks-atletico-madrid",
+    "entities": ["Atletico Madrid", "Barcelona", "Julian Alvarez", "Giuliano Simeone", "Fermin Lopez", "Diego Simeone", "Joan Garcia"],
+    "facts": [
+      "Giuliano Simeone put Atletico ahead in the 10th minute after a Julian Alvarez cross; Fermin Lopez equalised at 45' and scored the winner at 66'.",
+      "Alvarez missed several chances, including a one-on-one against Joan Garcia and an early lob over the keeper that frustrated some home fans.",
+      "The home crowd showed a tifo that referred to Alvarez's reluctant stay at the club after his summer transfer attempt.",
+      "The loss ended Atletico's seven-game league winning run and left them third, five points behind Barcelona."
+    ],
+    "background": "Diego Simeone has coached Atletico since 2011, and last season Atletico knocked Barcelona out of both the Copa del Rey and the Champions League.",
+    "angle": "viral",
+    "sensitive": false,
+    "footage_terms": ["Atletico Madrid 1-2 Barcelona highlights", "Fermin Lopez goals Atletico Barcelona", "Simeone press conference Barcelona Alvarez", "Alvarez missed chances Atletico Barcelona"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Alvarez says sorry to Atletico fans after the failed Barcelona move that Atletico blocked with a EUR 100m refusal",
+    "date": "2026-11-07",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50407601/diego-simeone-julian-alvarez-barcelona-atletico-madrid",
+    "entities": ["Julian Alvarez", "Atletico Madrid", "Barcelona", "Diego Simeone"],
+    "facts": [
+      "In June Alvarez told ESPN he wanted to leave Atletico, and sources said he preferred Barcelona.",
+      "Atletico refused to sell to a title rival and turned down a EUR 100m offer, so he stayed.",
+      "Fans jeered him earlier in the season over the attempt to force a move, and he has since apologised.",
+      "He had started Atletico's last four matches and scored twice; Simeone said he was in good form ahead of the Barcelona game."
+    ],
+    "background": "Alvarez joined Atletico from Manchester City in 2024 and won the World Cup with Argentina in 2022.",
+    "angle": "scandal",
+    "sensitive": false,
+    "footage_terms": ["Julian Alvarez Atletico fans boo", "Alvarez Atletico Barcelona transfer saga", "Simeone press conference Julian Alvarez", "Julian Alvarez goals Atletico Madrid 2026"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Atletico forward Ademola Lookman suffers knee ligament sprain on Nigeria duty",
+    "date": "2026-11-17",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/espn/story/_/id/50500129/atleti-lookman-nigeria-afcon-qualifier-knee-sprain",
+    "entities": ["Ademola Lookman", "Atletico Madrid", "Nigeria", "Tanzania", "Moses Simon"],
+    "facts": [
+      "Lookman was replaced late in the first half of Nigeria's 3-1 win over Tanzania in Uyo, and a scan showed a knee ligament sprain, per Nigeria's team statement.",
+      "He is out of the return AFCON qualifier in Zanzibar; no recovery timeline was given for Atletico.",
+      "Atletico's next games are Getafe on 22 November, Viking in the Champions League, Elche on 28 November and Barcelona on 2 December.",
+      "He scored in Atletico's 2-0 Champions League win over Manchester United on 13 October."
+    ],
+    "background": "Lookman joined Atletico from Atalanta in 2025 and was named African Footballer of the Year in 2024.",
+    "angle": "business",
+    "sensitive": true,
+    "footage_terms": ["Ademola Lookman Atletico goals", "Lookman Nigeria Tanzania highlights", "Lookman Atletico Manchester United goal", "Nigeria 3-1 Tanzania highlights"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Zubimendi denies he wants to leave Arsenal amid Atletico interest, admits he is short of minutes",
+    "date": "2026-11-11",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50451966/arsenal-martin-zubimendi-atletico-madrid",
+    "entities": ["Martin Zubimendi", "Arsenal", "Atletico Madrid", "Mikel Arteta", "Bruno Guimaraes"],
+    "facts": [
+      "Zubimendi told Marca that talk of a January exit is far from reality and that he has not contacted anyone about a move.",
+      "He has played only about 100 minutes in seven league games this season, after playing all 38 league games last season.",
+      "He said he has considered psychological help but has not taken that step, and that he is happy in London.",
+      "Arteta told him before the season that competition for minutes would rise after the arrival of Bruno Guimaraes; he is under contract until 2030."
+    ],
+    "background": "Arsenal signed Zubimendi from Real Sociedad in 2025 for a reported 51 million pounds, and he was part of Spain's 2026 World Cup winning squad.",
+    "angle": "transfer",
+    "sensitive": true,
+    "footage_terms": ["Zubimendi Arsenal interview", "Zubimendi Spain World Cup goals", "Zubimendi Atletico Madrid transfer", "Arteta Zubimendi minutes"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Atletico beat 10-man Manchester United 2-0 as Barrios scores after 47 seconds",
+    "date": "2026-10-13",
+    "source_domain": "football-espana.net",
+    "url": "https://www.football-espana.net/2026/10/14/atletico-madrid-manchester-united",
+    "entities": ["Atletico Madrid", "Manchester United", "Pablo Barrios", "Ademola Lookman", "Leny Yoro", "Koke", "Diego Simeone"],
+    "facts": [
+      "Pablo Barrios scored after 47 seconds at the Metropolitano, and Lookman added a second at 79' from a rebound.",
+      "Leny Yoro was sent off at 74' for denying Jonathan David a clear scoring chance.",
+      "The win gave Atletico their first points of this Champions League league phase.",
+      "Captain Koke's mother died that morning, a minute's silence was held, and the win was dedicated to him."
+    ],
+    "background": "Atletico lost their league-phase opener 1-2 to Liverpool, who scored a late winner through Mac Allister.",
+    "angle": "win",
+    "sensitive": true,
+    "footage_terms": ["Atletico Madrid 2-0 Manchester United highlights", "Barrios 47 seconds goal Atletico", "Yoro red card Atletico Manchester United", "Lookman goal Manchester United Atletico"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Baena's 89th-minute goal at Espanyol gives Atletico a fifth straight league win",
+    "date": "2026-10-17",
+    "source_domain": "football-espana.net",
+    "url": "https://www.football-espana.net/2026/10/18/atletico-madrid-espanyol-win",
+    "entities": ["Atletico Madrid", "Espanyol", "Alex Baena", "Julian Alvarez", "Cristian Romero", "Diego Simeone"],
+    "facts": [
+      "Alex Baena scored in the 89th minute into the top corner after a pass from Julian Alvarez, which was Alvarez's first league assist of the season.",
+      "It was Atletico's fifth straight league win and their second successive late away win.",
+      "Baena came on at 62' for Lee Kang-in; Simeone praised his decisiveness and strength after last season's injuries.",
+      "Cristian Romero asked to come off with an adductor strain and missed the next Champions League trip."
+    ],
+    "background": "Baena joined Atletico from Villarreal in 2025, and this was Atletico's longest league winning run since October to November 2025.",
+    "angle": "win",
+    "sensitive": false,
+    "footage_terms": ["Espanyol 0-1 Atletico highlights", "Baena goal Espanyol Atletico", "Alex Baena Alvarez assist", "Simeone Baena press conference"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Cristian Romero scores first Atletico goal, an 87th-minute header that wins at Alaves",
+    "date": "2026-10-11",
+    "source_domain": "football-espana.net",
+    "url": "https://www.football-espana.net/2026/10/11/atletico-madrid-alaves-win",
+    "entities": ["Cristian Romero", "Atletico Madrid", "Alaves", "Alex Baena", "Alejandro Grimaldo", "Lucas Boye"],
+    "facts": [
+      "Alejandro Grimaldo opened the scoring, Lucas Boye equalised from a penalty before half-time, and Romero headed in Baena's cross in the 87th minute.",
+      "It was Romero's first goal for Atletico, and he played in a striker-like position for the finish.",
+      "The win ended a four-match winless run for Atletico.",
+      "It was Atletico's first win in four visits to Mendizorrotza."
+    ],
+    "background": "Atletico signed Romero from Tottenham, where he was captain, in a reported 34 million pound deal this summer, ending a long pursuit.",
+    "angle": "transfer",
+    "sensitive": false,
+    "footage_terms": ["Alaves 1-2 Atletico highlights", "Cristian Romero first goal Atletico", "Romero header Alaves Atletico", "Cuti Romero Atletico debut"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Bayern beat Atletico 2-0 at the Metropolitano as 18-year-old Lennart Karl breaks a record",
+    "date": "2026-11-03",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/report/_/gameId/401915386",
+    "entities": ["Atletico Madrid", "Bayern Munich", "Lennart Karl", "Konrad Laimer", "Harry Kane", "Aaron Danks"],
+    "facts": [
+      "Lennart Karl scored at 54' and Konrad Laimer added a second at 74' after a pass from Harry Kane.",
+      "Karl became the fourth player to reach five Champions League goals before turning 19, after Lamine Yamal, Kylian Mbappe and Raul.",
+      "Bayern were led by assistant Aaron Danks because Vincent Kompany was absent on medical grounds.",
+      "Atletico were left with 4 points from four games and 23rd of 36 in the league phase table."
+    ],
+    "background": "Atletico have reached the Champions League knockout rounds in most recent seasons under Simeone but have never won the trophy; they lost two finals to Real Madrid, in 2014 and 2016.",
+    "angle": "record",
+    "sensitive": false,
+    "footage_terms": ["Atletico Madrid 0-2 Bayern Munich highlights", "Lennart Karl goal Atletico", "Laimer goal Atletico Bayern", "Champions League Atletico Bayern Kane assist"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Atletico Madrid buy 50 percent of Ecuador's Atletico FC Guayaquil, their third overseas affiliate",
+    "date": "2026-11-13",
+    "source_domain": "football-espana.net",
+    "url": "https://www.football-espana.net/2026/11/15/atletico-madrid-buy-50-of-atletico-fc-guayaquils-newly-promoted-serie-b-champions",
+    "entities": ["Atletico Madrid", "Atletico FC Guayaquil", "Miguel Angel Gil Marin", "Carlos Santamarina", "Junta de Beneficencia de Guayaquil"],
+    "facts": [
+      "Atletico announced on 13 November that it bought a 50 percent stake in Atletico Futbol Club, the Ecuadorian Serie B champions; no fee was disclosed.",
+      "The Guayaquil club won promotion on 15 October and clinched the title on 22 October, and will play in Serie A in 2027.",
+      "Its network already includes Atletico de San Luis in Mexico and Atletico Ottawa in Canada.",
+      "Coach Carlos Santamarina comes from Atletico's academy, which says it now works with over 14,000 young players in Guayaquil."
+    ],
+    "background": "Atletico's chief executive Miguel Angel Gil Marin visited the Guayaquil academy in June 2026, and the two sides signed a strategic agreement in July 2023.",
+    "angle": "business",
+    "sensitive": false,
+    "footage_terms": ["Atletico Madrid Guayaquil acquisition", "Atletico FC Guayaquil Serie B champions", "Atletico Madrid academy Ecuador", "Atletico de San Luis Atletico Ottawa network"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Atletico mock Real Madrid on social media over Valverde's quick return from a 'grade three' ankle sprain",
+    "date": "2026-10-09",
+    "source_domain": "football-espana.net",
+    "url": "https://www.football-espana.net/2026/10/10/valverde-return-atletico-real-madrid",
+    "entities": ["Atletico Madrid", "Real Madrid", "Federico Valverde", "Kang-in Lee", "Jose Mourinho"],
+    "facts": [
+      "Valverde was hurt in the 20 September derby at the Metropolitano, which Real Madrid lost 2-1, after a challenge by Kang-in Lee.",
+      "Real Madrid announced a grade-three ankle sprain on 22 September and sought a red card for the tackle.",
+      "Valverde returned to the squad for the Villarreal game 17 days later, and Atletico's official account posted an ironic message congratulating Madrid on 'making history' by proving medicine wrong.",
+      "No formal complaint from either club was reported."
+    ],
+    "background": "The Madrid derby has been a feud this season, with Mourinho, now in charge at Real Madrid, criticising the referee after the derby defeat.",
+    "angle": "viral",
+    "sensitive": true,
+    "footage_terms": ["Valverde injury Atletico Real Madrid derby", "Kang-in Lee tackle Valverde", "Atletico Real Madrid derby 2-1 highlights", "Mourinho press conference derby referee"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Juventus reportedly consider January move for Atletico striker Alexander Sorloth",
+    "date": "2026-11-10",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50440438/transfer-rumors-news-gossip-arsenal-atletico-madrid",
+    "entities": ["Alexander Sorloth", "Juventus", "Atletico Madrid", "Martin Zubimendi"],
+    "facts": [
+      "ESPN's transfer roundup says Juventus are considering Sorloth, 30, for the January window, and he is described as the favourite for that club.",
+      "No fee was reported, and this is a rumour, not a confirmed deal.",
+      "Sorloth had one of Atletico's last real chances as a substitute in the 1-2 defeat to Barcelona on 8 November.",
+      "The same roundup links Atletico with Arsenal's Martin Zubimendi."
+    ],
+    "background": "Sorloth is a Norwegian striker who joined Atletico from Villarreal in 2025, after a 2024-25 season in which he scored heavily for Villarreal.",
+    "angle": "transfer",
+    "sensitive": false,
+    "footage_terms": ["Sorloth Atletico goals", "Sorloth Juventus transfer", "Alexander Sorloth Villarreal goals", "Sorloth Norway goals"],
+    "confidence": "low"
+  },
+  {
+    "headline": "Atletico's Baena and Pubill score as world champions Spain win 2-0 in Czechia",
+    "date": "2026-11-12",
+    "source_domain": "football-espana.net",
+    "url": "https://www.football-espana.net/2026/11/14/baena-and-pubill-keep-spain-perfect-as-ten-man-czechia-are-beaten-2-0-in-prague",
+    "entities": ["Alex Baena", "Marc Pubill", "Spain", "Czechia", "Atletico Madrid"],
+    "facts": [
+      "Alex Baena scored a penalty after a handball in the area, and Marc Pubill added a late second goal, listed at 90+6'.",
+      "Czechia were reduced to ten men when Krejci was sent off.",
+      "It was Spain's 12th straight win, and their last defeat came against Colombia in March 2024.",
+      "Spain lead Nations League Group A3, with England three points behind and due to play them at the Metropolitano."
+    ],
+    "background": "Spain are the reigning world champions after the 2026 World Cup, and both goalscorers play for Atletico.",
+    "angle": "win",
+    "sensitive": false,
+    "footage_terms": ["Czechia 0-2 Spain highlights", "Baena penalty Czechia Spain", "Pubill goal Spain Czechia", "Spain Nations League Prague highlights"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Real Sociedad defender Jon Martin says he is staying despite Real Madrid and Barcelona interest",
+    "date": "2026-10-31",
+    "source_domain": "skysports.com",
+    "url": "https://www.skysports.com/football/news/13606111/jon-martin-interview-real-sociedad-and-spain-defender-on-why-he-is-staying-at-his-home-amid-interest-from-biggest-clubs",
+    "entities": ["Jon Martin", "Real Sociedad", "Pellegrino Matarazzo", "Real Madrid", "Barcelona", "Pau Cubarsi"],
+    "facts": [
+      "Martin said Real Sociedad is his home, where he has been since he was 12, and that he is focused on the Basque derby rather than his future.",
+      "He has been linked with Real Madrid, Barcelona and big Premier League clubs, but no move is imminent.",
+      "He signed a long-term deal in July that ties him to the club until 2032.",
+      "He praised coach Pellegrino Matarazzo as close to the players and trustworthy."
+    ],
+    "background": "Martin helped Real Sociedad win the Copa del Rey under Matarazzo in April and made his Spain debut in June against Iraq.",
+    "angle": "transfer",
+    "sensitive": false,
+    "footage_terms": ["Jon Martin Real Sociedad", "Jon Martin Spain debut Iraq", "Real Sociedad Copa del Rey final winners", "Matarazzo Real Sociedad press conference"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Athletic Club win the Basque derby 2-1 over Real Sociedad despite having only 38 percent possession",
+    "date": "2026-11-01",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/match/_/gameId/401882826/real-sociedad-athletic-club",
+    "entities": ["Athletic Club", "Real Sociedad", "Inaki Williams", "Luka Sucic", "Alex Berenguer", "Nico Williams"],
+    "facts": [
+      "Inaki Williams scored at 14', Luka Sucic equalised at 30', and Alex Berenguer scored a penalty at 45+2'.",
+      "Real Sociedad had 62 percent of the ball, but the expected goals were 2.93 for Athletic and 1.40 for Real Sociedad.",
+      "Orri Oskarsson had a late header at 88' that was blocked.",
+      "Before the match Real Sociedad had 19 points and Athletic had 15."
+    ],
+    "background": "The derby came after Real Sociedad beat Athletic in the Copa del Rey semi-final earlier in 2026 on their way to the trophy.",
+    "angle": "history",
+    "sensitive": false,
+    "footage_terms": ["Athletic Club 2-1 Real Sociedad highlights", "Basque derby San Mames November 2026", "Berenguer penalty Athletic Real Sociedad", "Inaki Williams goal Real Sociedad"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Manchester United and Tottenham reportedly eye Real Sociedad striker Orri Oskarsson",
+    "date": "2026-11-10",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50440438/transfer-rumors-news-gossip-arsenal-atletico-madrid",
+    "entities": ["Orri Oskarsson", "Real Sociedad", "Manchester United", "Tottenham", "Everton", "Brentford", "Sunderland"],
+    "facts": [
+      "ESPN's roundup reports that Manchester United and Tottenham are interested in the 22-year-old, with Everton, Brentford and Sunderland also linked.",
+      "He has 14 goals and six assists across LaLiga and the Europa League this season.",
+      "Any deal reportedly has to exceed EUR 20m, and Atalanta were linked earlier.",
+      "He scored in the 67th minute of Real Sociedad's 1-0 win over Rayo Vallecano on 8 November."
+    ],
+    "background": "Oskarsson is an Iceland international who moved to Real Sociedad from FC Copenhagen in 2024.",
+    "angle": "transfer",
+    "sensitive": false,
+    "footage_terms": ["Orri Oskarsson Real Sociedad goals", "Real Sociedad 1-0 Rayo Vallecano highlights", "Orri Oskarsson Iceland goals", "Oskarsson Real Sociedad Europa League"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Arsenal reportedly revive interest in Athletic Club winger Nico Williams, with Atletico's Baena also on the list",
+    "date": "2026-11-20",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50539252/transfer-rumors-news-arsenal-world-cup-nico-williams-spain",
+    "entities": ["Nico Williams", "Athletic Club", "Arsenal", "Alex Baena", "Atletico Madrid", "Antonio Nusa", "Kevin Schade"],
+    "facts": [
+      "Per TEAMtalk, Arsenal have reignited their interest, and Williams is now reportedly open to a move.",
+      "He signed a new 10-year contract last summer that includes a EUR 100m exit clause.",
+      "Arsenal are also said to be considering Endrick, Antonio Nusa, Kevin Schade and Atletico's Alex Baena.",
+      "This is a transfer rumour from a single report."
+    ],
+    "background": "Williams helped Spain win Euro 2024 and a World Cup in 2026, and Athletic famously fields mostly players from the Basque Country.",
+    "angle": "transfer",
+    "sensitive": false,
+    "footage_terms": ["Nico Williams Athletic Club skills", "Nico Williams Arsenal transfer", "Nico Williams Spain goals", "Nico Williams solo goal Athletic"],
+    "confidence": "low"
+  },
+  {
+    "headline": "Sevilla file a formal complaint after Guler escapes an elbow card in 4-1 defeat at Real Madrid",
+    "date": "2026-10-21",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50236214/sevilla-lodge-complaint-real-madrid-defeat-laliga",
+    "entities": ["Sevilla", "Real Madrid", "Arda Guler", "Luis Garcia Plaza", "Peque Fernandez", "Jose Mourinho", "Kylian Mbappe"],
+    "facts": [
+      "Real Madrid won 4-1 on 18 October; Guler scored at 30', Mbappe scored twice including a Panenka penalty, and Yan Diomande scored the fourth.",
+      "Sevilla say Guler was not sent off for an elbow on Peque Fernandez at 0-0, and coach Luis Garcia Plaza said his team lost the chance to play 11 against 10.",
+      "Sevilla complained to LaLiga about unequal replay coverage, and the referees committee met the club, but Sevilla disagreed with its explanation.",
+      "Mourinho said nobody had shown him a clear image of the alleged elbow."
+    ],
+    "background": "Sevilla survived relegation only on the penultimate matchday of last season, and Mourinho took over at Real Madrid in the summer.",
+    "angle": "scandal",
+    "sensitive": false,
+    "footage_terms": ["Real Madrid 4-1 Sevilla highlights", "Guler elbow Peque Fernandez", "Mbappe Panenka penalty Sevilla", "Garcia Plaza press conference Guler elbow"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Seville derby on Saturday: sixth-placed Sevilla host fourth-placed Betis",
+    "date": "2026-11-21",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/match/_/gameId/401882797/real-betis-sevilla",
+    "entities": ["Sevilla", "Real Betis", "Manuel Pellegrini", "Luis Garcia Plaza"],
+    "facts": [
+      "The derby is on Saturday 21 November at 17:30 at the Ramon Sanchez-Pizjuan.",
+      "Sevilla have 18 points from 12 games and are sixth; Betis have 26 points and are fourth.",
+      "Sevilla's recent league results include a 3-1 loss at Getafe and a 4-1 loss at Real Madrid.",
+      "Betis have won 2-0 at Elche and lost 2-1 at Borussia Dortmund in the Champions League."
+    ],
+    "background": "Sevilla only secured survival in May after a late-season run, while Betis returned to the Champions League this season after 21 years.",
+    "angle": "history",
+    "sensitive": false,
+    "footage_terms": ["Sevilla Betis derby highlights", "Seville derby fans tifo", "Gran Derbi Sevillano goals", "Pellegrini Betis press conference derby"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Pellegrini blames 'inexplicable decisions' after Betis lose 2-5 to Barcelona",
+    "date": "2026-10-17",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50203152/manuel-pellegrini-inexplicable-decisions-real-betis-barcelona",
+    "entities": ["Manuel Pellegrini", "Real Betis", "Barcelona", "Facundo Bernal", "Lamine Yamal", "Giovani Lo Celso", "Fermin Lopez"],
+    "facts": [
+      "Betis lost 2-5 at La Cartuja on 17 October, and Facundo Bernal was sent off shortly after Abde Ezzalzouli made it 3-2.",
+      "Pellegrini said a Lo Celso goal was wrongly disallowed for handball and that Barcelona's third goal should have been ruled out for a high foot by Fermin Lopez.",
+      "He felt Bernal was provoked by Lamine Yamal and that both should have been punished.",
+      "He said the game was even until the red card, and the result equalled Barcelona's record league start."
+    ],
+    "background": "Pellegrini is a former Manchester City and Real Madrid coach who took over Betis in 2024 and reached the Conference League final in 2025.",
+    "angle": "scandal",
+    "sensitive": false,
+    "footage_terms": ["Real Betis 2-5 Barcelona highlights", "Pellegrini press conference Barcelona referee", "Bernal red card Betis Barcelona", "Lamine Yamal goal Betis"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Isco scores twice as Betis hit five against Osasuna and climb to third",
+    "date": "2026-10-11",
+    "source_domain": "football-espana.net",
+    "url": "https://www.football-espana.net/2026/10/12/real-betis-osasuna-isco",
+    "entities": ["Isco", "Real Betis", "Osasuna", "Abde Ezzalzouli", "Diego Llorente", "Jose Antonio Morante", "Ante Budimir"],
+    "facts": [
+      "Betis won 5-2 at home; Isco scored a 10th-minute penalty and a second goal after Osasuna had levelled with two goals at 56'.",
+      "Ezzalzouli, Diego Llorente and Jose Antonio Morante, who came on at 90', also scored.",
+      "Ante Budimir and Raul Garcia scored for Osasuna.",
+      "The win lifted Betis to third with 19 points from eight games, one point above Real Madrid."
+    ],
+    "background": "Isco is a former Real Madrid and Spain playmaker who joined Betis in 2024 after leaving Sevilla.",
+    "angle": "win",
+    "sensitive": false,
+    "footage_terms": ["Real Betis 5-2 Osasuna highlights", "Isco penalty Betis Osasuna", "Isco brace Betis", "Morante goal Betis Osasuna"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Chelsea reportedly approach Betis teenager Jose Antonio Morante",
+    "date": "2026-11-20",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50539252/transfer-rumors-news-arsenal-world-cup-nico-williams-spain",
+    "entities": ["Jose Antonio Morante", "Real Betis", "Chelsea", "Manchester City", "Manchester United"],
+    "facts": [
+      "Per TEAMtalk, Chelsea have made an approach for the 19-year-old after a strong start to the season.",
+      "Manchester City and Manchester United are also reportedly tracking him.",
+      "He scored a stoppage-time goal after coming on at 90' in Betis's 5-2 win over Osasuna in October.",
+      "This is a transfer rumour from one report, with no fee given."
+    ],
+    "background": "Betis lost the 2025 Conference League final to Chelsea, so a Chelsea move for one of their youngsters would carry some irony.",
+    "angle": "transfer",
+    "sensitive": false,
+    "footage_terms": ["Jose Antonio Morante Betis goal", "Morante Betis highlights", "Morante Chelsea transfer", "Real Betis young talent Morante"],
+    "confidence": "low"
+  },
+  {
+    "headline": "PSG thrash Villarreal 6-0 with the fastest four goals in Champions League history",
+    "date": "2026-11-03",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50371706/psg-villarreal-champions-league-record-goals",
+    "entities": ["Villarreal", "Paris Saint-Germain", "Fabian Ruiz", "Luis Enrique", "David Boly", "Joao Neves", "Desire Doue"],
+    "facts": [
+      "PSG led 4-0 after 17 minutes, faster than Real Madrid's 20 minutes against Dinamo Zagreb in 2011.",
+      "Fabian Ruiz scored twice, and 17-year-old David Boly scored on his Champions League debut at 78'.",
+      "PSG now have 18 goals in four games, the most by any team in the first four matches of a Champions League season.",
+      "Three of the first goals came from Villarreal errors playing out from the back; Luis Enrique said the early lead decided the game."
+    ],
+    "background": "Villarreal finished third in LaLiga last season to reach the Champions League, and PSG are the defending champions chasing a third straight title.",
+    "angle": "record",
+    "sensitive": false,
+    "footage_terms": ["Villarreal 0-6 PSG highlights", "PSG fastest four goals Champions League", "Fabian Ruiz goals Villarreal PSG", "David Boly debut goal PSG"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Valencia loanee Harvey Elliott sent off for two yellow cards in under a minute in loss to Villarreal",
+    "date": "2026-10-25",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50276655/liverpool-loanee-harvey-elliott-sent-two-yellows-minute",
+    "entities": ["Harvey Elliott", "Valencia", "Villarreal", "Georges Mikautadze", "Liverpool"],
+    "facts": [
+      "Elliott was shown two yellow cards less than a minute apart in the 89th minute at 1-1, apparently for dissent over a decision against a teammate.",
+      "Georges Mikautadze then scored in the sixth minute of stoppage time to give Villarreal a 2-1 win.",
+      "Elliott had made six substitute appearances for Valencia without starting, with no goals or assists.",
+      "He had joined on loan in the summer after not fitting into new Liverpool manager Andoni Iraola's plans."
+    ],
+    "background": "Elliott's previous loan at Aston Villa was poor, and Unai Emery left him out of the first-team squad.",
+    "angle": "viral",
+    "sensitive": false,
+    "footage_terms": ["Harvey Elliott red card Valencia Villarreal", "Valencia 1-2 Villarreal highlights", "Mikautadze goal Valencia Villarreal", "Elliott two yellow cards one minute"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Vinicius Junior sent off and has goal ruled out for pulling Villarreal's Saliba by the hair",
+    "date": "2026-10-10",
+    "source_domain": "skysports.com",
+    "url": "https://www.skysports.com/football/video/13597628/from-celebrations-to-despair-vinicius-junior-is-red-carded-after-his-goal-is-disallowed-for-hair-pull",
+    "entities": ["Vinicius Junior", "Nathan Saliba", "Real Madrid", "Villarreal", "Yan Diomande"],
+    "facts": [
+      "After a VAR review, Vinicius's goal was disallowed and he was shown a red card for pulling Villarreal midfielder Nathan Saliba's hair.",
+      "Real Madrid still won 1-0 against Villarreal, with Yan Diomande scoring the winner.",
+      "ESPN reported that Vinicius served the first game of a four-match ban against Sevilla on 18 October.",
+      "Real Madrid's Mourinho later said Vinicius should move on from his difficult summer."
+    ],
+    "background": "Vinicius is playing under Mourinho at Real Madrid this season, and Mourinho has said he should move on from his difficult summer.",
+    "angle": "scandal",
+    "sensitive": false,
+    "footage_terms": ["Vinicius red card hair pull Saliba", "Real Madrid 1-0 Villarreal highlights", "Diomande winner Villarreal", "Vinicius VAR disallowed goal Villarreal"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Valencia ask Aston Villa about a January loan for Tammy Abraham while sitting 19th",
+    "date": "2026-11-20",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50539252/transfer-rumors-news-arsenal-world-cup-nico-williams-spain",
+    "entities": ["Valencia", "Tammy Abraham", "Aston Villa", "Unai Emery", "Javier Aguirre"],
+    "facts": [
+      "Per Matteo Moretto, Valencia have contacted Aston Villa about a January loan for 29-year-old Tammy Abraham, with part of his salary covered.",
+      "Abraham has started only once under Unai Emery this season.",
+      "Valencia are 19th in LaLiga with 9 points from 12 games, with two wins, three draws and seven defeats.",
+      "This is a reported enquiry, not a confirmed deal."
+    ],
+    "background": "Valencia fired coach Carlos Corberan by video call from Singapore after a 1-0 loss to Sevilla in September, then hired Javier Aguirre on 28 September.",
+    "angle": "transfer",
+    "sensitive": false,
+    "footage_terms": ["Tammy Abraham goals", "Valencia Mestalla fans protest Lim", "Javier Aguirre Valencia press conference", "Valencia relegation battle"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Dani Carvajal close to joining Getafe after leaving Real Madrid, pending LaLiga salary-limit approval",
+    "date": "2026-10-07",
+    "source_domain": "football-espana.net",
+    "url": "https://www.football-espana.net/2026/10/07/carvajal-getafe-move",
+    "entities": ["Dani Carvajal", "Getafe", "Real Madrid", "Jose Bordalas", "Angel Torres", "LaLiga"],
+    "facts": [
+      "Reports said the 34-year-old defender completed a medical and agreed terms with Getafe, but the deal is not official until LaLiga approves his registration.",
+      "His Real Madrid contract expired on 30 June 2026, so no fee is due.",
+      "Getafe must free up room under LaLiga's salary limit before they can register him.",
+      "Coach Jose Bordalas reportedly phoned Carvajal himself to explain his role; this is the situation as of 7 October."
+    ],
+    "background": "Carvajal made his final Real Madrid appearance in May, setting up a goal in the win over Athletic Club, after winning multiple Champions League titles with the club.",
+    "angle": "transfer",
+    "sensitive": false,
+    "footage_terms": ["Dani Carvajal Getafe", "Carvajal Real Madrid farewell", "Carvajal Bernabeu goodbye", "Getafe Bordalas Carvajal"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Rayo's Sergio Camello has seven goals in seven games while Vallecas stadium stays closed",
+    "date": "2026-10-09",
+    "source_domain": "football-espana.net",
+    "url": "https://www.football-espana.net/2026/10/09/sergio-camello-freedom-rayo",
+    "entities": ["Sergio Camello", "Rayo Vallecano", "Benat San Jose", "Estadio de Vallecas"],
+    "facts": [
+      "Camello has seven goals in seven LaLiga games, and only Barcelona's Raphinha has scored more among Europe's top five leagues.",
+      "His previous league seasons brought five, three and three goals.",
+      "Madrid's council declared the Vallecas stadium unsafe, so Rayo played home games in Leganes while fans boycotted; they were due back on 10 October.",
+      "Camello credits more freedom, new coach Benat San Jose and therapy, and mentioned an anxiety episode after the Olympics."
+    ],
+    "background": "Rayo reached the Conference League final last season, losing to Crystal Palace, and then lost coach Inigo Perez in the summer.",
+    "angle": "viral",
+    "sensitive": true,
+    "footage_terms": ["Sergio Camello goals Rayo Vallecano", "Rayo Vallecano return to Vallecas", "Rayo Vallecano Leganes home games boycott", "Camello interview Rayo"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Tenerife striker Jesus de Miguel dies after on-field collision with Andorra goalkeeper",
+    "date": "2026-11-03",
+    "source_domain": "skysports.com",
+    "url": "https://www.skysports.com/football/news/13607401/tenerife-striker-jesus-de-miguel-dies-after-cardiac-arrest-following-collision-during-a-match",
+    "entities": ["Jesus de Miguel", "CD Tenerife", "FC Andorra", "Jesus Owono", "Javier Tebas", "LaLiga"],
+    "facts": [
+      "The 30-year-old Tenerife striker died on 3 November after a cardiac arrest the previous day, following a collision with Andorra goalkeeper Jesus Owono in a Segunda match.",
+      "The match was abandoned in stoppage time, and De Miguel was treated on the pitch for more than five minutes before going to hospital.",
+      "Spanish police opened a routine investigation into possible involuntary manslaughter because the death was non-natural.",
+      "LaLiga, UEFA, Barcelona and Real Madrid sent condolences; Atletico and Barcelona held a minute's applause for him before their 8 November game."
+    ],
+    "background": "De Miguel wore number nine and had earlier spent two and a half years at Castellon before joining Tenerife in 2025.",
+    "angle": "history",
+    "sensitive": true,
+    "footage_terms": ["Jesus de Miguel tribute Tenerife", "LaLiga minute silence Jesus de Miguel", "Tenerife fans tribute De Miguel", "Spanish football tribute De Miguel"],
+    "confidence": "high"
+  },
+  {
+    "headline": "LaLiga names 2025-26 award winners, with Levante's 20-year-old Carlos Espi best under-23 player",
+    "date": "2026-11-18",
+    "source_domain": "laliga.com",
+    "url": "https://www.laliga.com/en-GB/news/lamine-yamal-hansi-flick-joan-garcia-carlos-espi-and-arda-guler-named-winners-of-the-2025-26-laliga-awards",
+    "entities": ["Carlos Espi", "Levante", "Joan Garcia", "Lamine Yamal", "Hansi Flick", "Arda Guler", "Jan Oblak", "Unai Simon"],
+    "facts": [
+      "Carlos Espi, 20, won best under-23 player after scoring 11 goals in his first top-flight season, 10 of them in the last 13 matchdays, which helped Levante avoid relegation.",
+      "Joan Garcia won Best Save of the Season for a stop in the derby against Espanyol, beating Jan Oblak and Unai Simon in the final vote.",
+      "Yamal won Best Player with 16 goals and 12 assists, and Hansi Flick won Best Coach after Barcelona's second straight title with 94 points.",
+      "The awards will be presented on 28 December in the UAE at the Globe Soccer Awards."
+    ],
+    "background": "Levante were promoted to LaLiga for the 2025-26 season and finished the year safe thanks largely to the late goals of a Valencian striker still in his first top-flight campaign.",
+    "angle": "record",
+    "sensitive": false,
+    "footage_terms": ["Carlos Espi Levante goals", "Joan Garcia best save Espanyol derby", "LaLiga awards 2025-26", "Levante survival Espi goals"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "LaLiga and Tebas apologise to Chinese fans over Mbappe row as brands cut ties",
+    "date": "2026-10-27",
+    "source_domain": "laliga.com",
+    "url": "https://www.laliga.com/en-GB/news/laliga-and-its-president-javier-tebas-apologise-to-chinese-fans",
+    "entities": ["LaLiga", "Javier Tebas", "Kylian Mbappe", "Real Madrid", "Dongpeng", "Mengniu", "China Media Group"],
+    "facts": [
+      "LaLiga said comments by Mbappe offended Chinese fans, stressed he made them personally, and apologised on behalf of the league and its clubs.",
+      "Tebas apologised personally and the league promised an awareness and communication protocol for clubs and players.",
+      "Football Espana reported that Dongpeng, Mengniu and Milkground ended deals with Mbappe, and China Media Group reportedly suspended LaLiga broadcasts; the underlying clip is unverified.",
+      "Mbappe and the show involved had not responded at the time of the report."
+    ],
+    "background": "Mbappe joined Real Madrid in 2024 and has been LaLiga's biggest global star; LaLiga has a large Chinese audience.",
+    "angle": "scandal",
+    "sensitive": true,
+    "footage_terms": ["Mbappe China controversy LaLiga", "Tebas apology Chinese fans", "LaLiga China broadcast suspended", "Mbappe Real Madrid October 2026 highlights"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Spain's Supreme Court makes annulment of LaLiga's 2021 CVC vote final, but the deal stands",
+    "date": "2026-11-18",
+    "source_domain": "football-espana.net",
+    "url": "https://www.football-espana.net/2026/11/18/supreme-court-makes-cvc-vote-annulment-final-but-laligas-december-deal-approval-stands",
+    "entities": ["LaLiga", "CVC", "Real Madrid", "Athletic Club", "Barcelona", "Supreme Court of Spain"],
+    "facts": [
+      "The Supreme Court rejected LaLiga's cassation appeal, making the annulment of the 12 August 2021 General Assembly vote that approved the CVC deal final, and LaLiga must pay the costs.",
+      "Real Madrid and Athletic Club won the case, while the separate December 2021 approval of the LaLiga Impulso project stays in force.",
+      "Under that deal clubs received about EUR 2bn in exchange for a share of audiovisual rights income over 50 years.",
+      "Real Madrid has taken the December ruling to the Supreme Court, which has not yet decided whether to admit the appeal."
+    ],
+    "background": "Real Madrid, Barcelona and Athletic Club rejected the CVC deal in 2021, and the conflict between Real Madrid and LaLiga president Javier Tebas has run for years.",
+    "angle": "business",
+    "sensitive": false,
+    "footage_terms": ["LaLiga CVC deal explained", "Tebas CVC Real Madrid court", "LaLiga Supreme Court CVC ruling", "Florentino Perez Tebas dispute"],
+    "confidence": "high"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "label": "Христя",
+    "path": "~/Documents/Христя",
+    "projectKind": "local",
+    "isGitRepository": false
+  },
+  {
+    "label": "Maxito",
+    "path": "<DRIVE>",
+    "projectKind": "local",
+    "isGitRepository": false
+  },
+  {
+    "label": "Логістика",
+    "path": "~/Documents/Iam/логістика",
+    "projectKind": "local",
+    "isGitRepository": false
+  },
+  {
+    "label": "Qollabe",
+    "path": "<DRIVE>/Qollabe",
+    "projectKind": "local",
+    "isGitRepository": false
+  },
+  {
+    "label": "Addiction",
+    "path": "~/Documents/доки/Qollabe/addiction",
+    "projectKind": "local",
+    "isGitRepository": false
+  },
+  {
+    "label": "Anxiety",
+    "path": "~/Documents/доки/Qollabe/anxiety",
+    "projectKind": "local",
+    "isGitRepository": false
+  },
+  {
+    "label": "Cognitive health",
+    "path": "~/Documents/доки/Qollabe/cognitive health and dementia",
+    "projectKind": "local",
+    "isGitRepository": true
+  },
+  {
+    "label": "utilities",
+    "path": "~/Documents/доки/Qollabe/utilities",
+    "projectKind": "local",
+    "isGitRepository": true
+  },
+  {
+    "label": "Linkedin",
+    "path": "~/Documents/ArchFlow/content-engine/m2 linkedin",
+    "projectKind": "local",
+    "isGitRepository": true
+  },
+  {
+    "label": "Content Engine",
+    "path": "~/Documents/ArchFlow/content-engine",
+    "projectKind": "local",
+    "isGitRepository": true
+  },
+  {
+    "label": "Find job",
+    "path": "~/Documents/доки",
+    "projectKind": "local",
+    "isGitRepository": false
+  },
+  {
+    "label": "Hotel Optimization",
+    "path": "~/Documents/ArchFlow/Hotel Optimization",
+    "projectKind": "local",
+    "isGitRepository": false
+  },
+  {
+    "label": "ArchFlow",
+    "path": "~/Documents/ArchFlow",
+    "projectKind": "local",
+    "isGitRepository": false
+  },
+  {
+    "label": "Master Thesis",
+    "path": "~/Documents/KSE/Master Thesis",
+    "projectKind": "local",
+    "isGitRepository": false
+  },
+  {
+    "label": "Croatia",
+    "path": "~/Documents/Croatia",
+    "projectKind": "local",
+    "isGitRepository": false
+  },
+  {
+    "label": "public",
+    "path": "~/Documents/ArchFlow/public",
+    "projectKind": "local",
+    "isGitRepository": true
+  },
+  {
+    "label": "have",
+    "path": "<DRIVE>/have",
+    "projectKind": "local",
+    "isGitRepository": false
+  },
+  {
+    "label": "Documents",
+    "path": "~/Documents",
+    "projectKind": "local",
+    "isGitRepository": false
+  },
+  {
+    "label": "langgraph",
+    "path": "~/Documents/Iam/langgraph",
+    "projectKind": "local",
+    "isGitRepository": false
+  },
+  {
+    "label": "user",
+    "path": "~",
+    "projectKind": "local",
+    "isGitRepository": false
+  },
+  {
+    "label": "Polymarket",
+    "path": "~/Documents/Polymarket",
+    "projectKind": "local",
+    "isGitRepository": true
+  },
+  {
+    "label": "Real Estate Bulg",
+    "path": "~/Documents/Real Estate Bulg",
+    "projectKind": "local",
+    "isGitRepository": true
+  },
+  {
+    "label": "side-hustle",
+    "projectKind": "chatgpt"
+  },
+  {
+    "label": "For me",
+    "projectKind": "chatgpt"
+  },
+  {
+    "label": "Other",
+    "projectKind": "chatgpt"
+  },
+  {
+    "label": "ArchFlow",
+    "projectKind": "chatgpt"
+  },
+  {
+    "label": "Qollabe",
+    "projectKind": "chatgpt"
+  },
+  {
+    "label": "Find job",
+    "projectKind": "chatgpt"
+  },
+  {
+    "label": "Data-related",
+    "projectKind": "chatgpt"
+  },
+  {
+    "label": "MASTER THESIS",
+    "projectKind": "chatgpt"
+  },
+  {
+    "label": "Guitar",
+    "projectKind": "chatgpt"
+  },
+  {
+    "label": "UNI",
+    "projectKind": "chatgpt"
+  },
+  {
+    "label": "Storyverse",
+    "projectKind": "chatgpt"
+  },
+  {
+    "label": "news",
+    "projectKind": "chatgpt"
+  }
+]

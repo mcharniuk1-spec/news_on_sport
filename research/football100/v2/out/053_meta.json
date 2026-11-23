@@ -1,0 +1,87 @@
+{
+ "no": 53,
+ "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/053_nashville_sc_set_mls_record_with_77.mp4",
+ "total": 35.0,
+ "outro_start": 29.4,
+ "cover": true,
+ "seq": [
+  {
+   "id": "s01",
+   "kind": "HOOK",
+   "start": 0.1,
+   "end": 1.6,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/053/s01.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s02",
+   "kind": "COMIC1",
+   "start": 4.533333333333333,
+   "end": 6.533333333333333,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/053/s02.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s03",
+   "kind": "COMIC2",
+   "start": 10.666666666666666,
+   "end": 12.666666666666666,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/053/s03.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s04",
+   "kind": "PROVOC",
+   "start": 16.0,
+   "end": 17.5,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/053/s04.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s05",
+   "kind": "INTERVIEW",
+   "start": 20.733333333333334,
+   "end": 22.5,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/053/s05.mp4",
+   "clip_dur": 1.767,
+   "frames": 42
+  },
+  {
+   "id": "s06",
+   "kind": "NEWS",
+   "start": 24.666666666666668,
+   "end": 26.433333333333334,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/053/s06.mp4",
+   "clip_dur": 1.767,
+   "frames": 42
+  },
+  {
+   "id": "s07",
+   "kind": "STATS",
+   "start": 27.4,
+   "end": 28.9,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/053/s07.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  }
+ ],
+ "missing": [],
+ "dropped": [],
+ "cards": [],
+ "caption_sprites": 94,
+ "whoosh": [
+  0.0,
+  4.433333333333334,
+  10.566666666666666,
+  15.9,
+  20.633333333333333,
+  24.566666666666666,
+  27.299999999999997,
+  29.3
+ ],
+ "shots": 11
+}

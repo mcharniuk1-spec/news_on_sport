@@ -1,0 +1,12 @@
+{
+"41": {"hook_basis": "scoreline_result", "story_structure": "question_answer", "dominant_emotion": "amusement", "cta_opener_type": "question", "risk_flags": ["over_length"]},
+"42": {"hook_type": "contrast_twist", "twist_position": "late", "payoff_type": "callback_to_hook", "dominant_emotion": "amusement", "hook_type_alt": "question"},
+"43": {"subject_type": "player", "payoff_type": "callback_to_hook", "humour_type": "sarcasm", "dominant_emotion": "schadenfreude", "hook_type_alt": "news_flash"},
+"44": {"story_structure": "irony_then_vs_now", "payoff_type": "punchline", "dominant_emotion": "amusement", "hook_type_alt": "news_flash", "risk_flags": ["betting_under18_appeal", "single_source"]},
+"45": {"twist_position": "none", "humour_type": "wordplay", "cta_opener_type": "question", "hook_type_alt": "stat_shock", "risk_flags": ["single_source"]},
+"46": {"humour_type": "callback", "risk_flags": ["betting_under18_appeal", "single_source"]},
+"47": {"story_structure": "stat_stack", "dominant_emotion": "amusement"},
+"48": {"hook_type": "news_flash", "dominant_emotion": "amusement", "cta_opener_type": "question", "hook_type_alt": "stat_shock", "risk_flags": ["single_source"]},
+"49": {"topic_primary": "manager_news", "hook_type_alt": "curiosity_gap", "risk_flags": ["betting_under18_appeal", "negative_real_person", "single_source"]},
+"50": {"payoff_type": "punchline"}
+}

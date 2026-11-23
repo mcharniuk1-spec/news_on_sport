@@ -1,0 +1,693 @@
+{
+ "no": 69,
+ "style": "RUBBER-SLAPSTICK",
+ "prop": "ribbon",
+ "cast": {
+  "tzolis": {
+   "role": "player",
+   "number": "11",
+   "shirt": "#d94f4f",
+   "hair": "#2b2b3a"
+  },
+  "arteta": {
+   "role": "coach",
+   "shirt": "#274472",
+   "hair": "#3a2f2a"
+  },
+  "p2": {
+   "role": "player",
+   "shirt": "#4f8fd6",
+   "hair": "#a03a2a",
+   "number": "4"
+  },
+  "p3": {
+   "role": "player",
+   "shirt": "#3fb8af",
+   "hair": "#6b4a2a",
+   "number": "9"
+  }
+ },
+ "sequences": {
+  "s01": {
+   "type": "HOOK",
+   "q": "Can you pick yourself as captain?",
+   "prop": "crown",
+   "emote": "smug",
+   "board": "stamp"
+  },
+  "s02": {
+   "type": "COMIC",
+   "bg": "office",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "tzolis",
+       "x": 300,
+       "y": 1440,
+       "pose": "point",
+       "emote": "smug",
+       "scale": 1.4,
+       "label": "Picked himself"
+      }
+     ],
+     "props": [
+      {
+       "kind": "screen",
+       "x": 700,
+       "y": 770,
+       "scale": 2.4,
+       "face": "smug",
+       "layer": "back"
+      },
+      {
+       "kind": "ribbon",
+       "x": 780,
+       "y": 1230,
+       "scale": 1.0,
+       "anim": "float"
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.42,
+     "actors": [
+      {
+       "id": "tzolis",
+       "x": 300,
+       "y": 1440,
+       "pose": "shock",
+       "emote": "shock",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "screen",
+       "x": 700,
+       "y": 770,
+       "scale": 2.4,
+       "face": "shock",
+       "layer": "back"
+      },
+      {
+       "kind": "ribbon",
+       "x": 230,
+       "y": 1210,
+       "scale": 1.8,
+       "anim": "drop"
+      }
+     ],
+     "sfx": {
+      "text": "BANG",
+      "x": 720,
+      "y": 1330,
+      "r": 120
+     },
+     "cam": "push"
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.42,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "tzolis",
+       "x": 430,
+       "y": 1440,
+       "pose": "lean",
+       "emote": "sweat",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "screen",
+       "x": 700,
+       "y": 770,
+       "scale": 2.6,
+       "face": "smug",
+       "layer": "back"
+      },
+      {
+       "kind": "ribbon",
+       "x": 320,
+       "y": 1230,
+       "scale": 1.9
+      }
+     ],
+     "fx": [
+      {
+       "kind": "speed",
+       "x": 560,
+       "y": 1000,
+       "size": 1
+      }
+     ],
+     "cam": "shake"
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "tzolis",
+       "x": 280,
+       "y": 1440,
+       "pose": "cry",
+       "emote": "sad",
+       "scale": 1.4
+      },
+      {
+       "id": "arteta",
+       "x": 800,
+       "y": 1440,
+       "pose": "thumbsup",
+       "emote": "smug",
+       "scale": 1.4,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "screen",
+       "x": 690,
+       "y": 640,
+       "scale": 2.0,
+       "face": "neutral",
+       "layer": "back"
+      },
+      {
+       "kind": "ribbon",
+       "x": 560,
+       "y": 1090,
+       "scale": 1.6,
+       "label": "Banned",
+       "anim": "arc"
+      }
+     ],
+     "sfx": {
+      "text": "DING",
+      "x": 300,
+      "y": 520,
+      "r": 120
+     }
+    }
+   ]
+  },
+  "s03": {
+   "type": "STATS",
+   "items": [
+    {
+     "icon": "screen",
+     "value": "1",
+     "label": "Picked himself"
+    },
+    {
+     "icon": "bin",
+     "value": "3",
+     "label": "Three transfers out"
+    }
+   ]
+  },
+  "s04": {
+   "type": "NEWS",
+   "name": "Christos Tzolis",
+   "fact": "Tzolis picked and captained himself",
+   "ticker": "Captain hint",
+   "icons": [
+    "screen",
+    "ribbon",
+    "whistle"
+   ],
+   "role": "player",
+   "actor": "tzolis"
+  },
+  "s05": {
+   "type": "COMIC",
+   "bg": "dressing-room",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "tzolis",
+       "x": 260,
+       "y": 1440,
+       "pose": "wave",
+       "emote": "happy",
+       "scale": 1.15
+      },
+      {
+       "id": "p2",
+       "x": 540,
+       "y": 1440,
+       "pose": "wave",
+       "emote": "happy",
+       "scale": 1.15
+      },
+      {
+       "id": "p3",
+       "x": 820,
+       "y": 1440,
+       "pose": "wave",
+       "emote": "happy",
+       "scale": 1.15
+      }
+     ],
+     "props": [
+      {
+       "kind": "pitch-board",
+       "x": 540,
+       "y": 700,
+       "scale": 3.2,
+       "layer": "back"
+      },
+      {
+       "kind": "notepad",
+       "x": 540,
+       "y": 600,
+       "scale": 1.5
+      },
+      {
+       "kind": "ribbon",
+       "x": 730,
+       "y": 560,
+       "scale": 0.9,
+       "anim": "pop"
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.42,
+     "actors": [
+      {
+       "id": "tzolis",
+       "x": 260,
+       "y": 1440,
+       "pose": "shock",
+       "emote": "shock",
+       "scale": 1.15
+      },
+      {
+       "id": "p2",
+       "x": 540,
+       "y": 1440,
+       "pose": "shock",
+       "emote": "shock",
+       "scale": 1.15
+      },
+      {
+       "id": "p3",
+       "x": 820,
+       "y": 1440,
+       "pose": "shock",
+       "emote": "shock",
+       "scale": 1.15
+      }
+     ],
+     "props": [
+      {
+       "kind": "pitch-board",
+       "x": 540,
+       "y": 700,
+       "scale": 3.2,
+       "rot": 100,
+       "layer": "back"
+      },
+      {
+       "kind": "notepad",
+       "x": 540,
+       "y": 780,
+       "scale": 1.5,
+       "rot": 30
+      },
+      {
+       "kind": "ribbon",
+       "x": 730,
+       "y": 900,
+       "scale": 0.9
+      }
+     ],
+     "cam": "shake",
+     "sfx": {
+      "text": "WHOOSH",
+      "x": 540,
+      "y": 430,
+      "r": 110
+     }
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.42,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "tzolis",
+       "x": 260,
+       "y": 1440,
+       "pose": "shock",
+       "emote": "dizzy",
+       "scale": 1.15,
+       "rot": -40,
+       "lift": 40
+      },
+      {
+       "id": "p2",
+       "x": 540,
+       "y": 1440,
+       "pose": "shock",
+       "emote": "dizzy",
+       "scale": 1.15,
+       "rot": 35,
+       "lift": 40
+      },
+      {
+       "id": "p3",
+       "x": 820,
+       "y": 1440,
+       "pose": "shock",
+       "emote": "dizzy",
+       "scale": 1.15,
+       "rot": -35,
+       "lift": 40
+      }
+     ],
+     "props": [
+      {
+       "kind": "pitch-board",
+       "x": 540,
+       "y": 700,
+       "scale": 3.2,
+       "rot": 180,
+       "layer": "back"
+      },
+      {
+       "kind": "notepad",
+       "x": 620,
+       "y": 1050,
+       "scale": 1.5,
+       "rot": 70
+      },
+      {
+       "kind": "ribbon",
+       "x": 730,
+       "y": 1120,
+       "scale": 0.9
+      }
+     ],
+     "fx": [
+      {
+       "kind": "dust",
+       "x": 540,
+       "y": 1430
+      }
+     ]
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "tzolis",
+       "x": 200,
+       "y": 1440,
+       "pose": "sit",
+       "emote": "dizzy",
+       "scale": 1.1
+      },
+      {
+       "id": "arteta",
+       "x": 560,
+       "y": 1440,
+       "pose": "present",
+       "emote": "smug",
+       "scale": 1.5,
+       "hold": {
+        "kind": "notepad",
+        "hand": "R",
+        "scale": 0.6
+       }
+      },
+      {
+       "id": "p3",
+       "x": 900,
+       "y": 1440,
+       "pose": "sit",
+       "emote": "dizzy",
+       "scale": 1.1
+      }
+     ],
+     "props": [
+      {
+       "kind": "pitch-board",
+       "x": 540,
+       "y": 640,
+       "scale": 2.6,
+       "rot": 180,
+       "layer": "back"
+      },
+      {
+       "kind": "ribbon",
+       "x": 560,
+       "y": 1110,
+       "scale": 1.0
+      }
+     ],
+     "bubble": {
+      "who": "arteta",
+      "text": "Confidential"
+     }
+    }
+   ]
+  },
+  "s06": {
+   "type": "COMIC",
+   "bg": "boardroom",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "arteta",
+       "x": 280,
+       "y": 1440,
+       "pose": "present",
+       "emote": "smug",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "suitcase",
+       "x": 760,
+       "y": 1180,
+       "scale": 2.4,
+       "layer": "back"
+      },
+      {
+       "kind": "padlock",
+       "x": 760,
+       "y": 1090,
+       "scale": 1.0,
+       "label": "Trust matters"
+      },
+      {
+       "kind": "notepad",
+       "x": 480,
+       "y": 1000,
+       "scale": 1.0,
+       "anim": "arc"
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.42,
+     "actors": [
+      {
+       "id": "arteta",
+       "x": 280,
+       "y": 1440,
+       "pose": "think",
+       "emote": "neutral",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "suitcase",
+       "x": 760,
+       "y": 1180,
+       "scale": 2.4,
+       "layer": "back"
+      },
+      {
+       "kind": "padlock",
+       "x": 760,
+       "y": 1090,
+       "scale": 1.0,
+       "label": "Trust matters"
+      },
+      {
+       "kind": "screen",
+       "x": 770,
+       "y": 900,
+       "scale": 1.2,
+       "face": "smug",
+       "anim": "pop"
+      }
+     ],
+     "cam": "push",
+     "sfx": {
+      "text": "CREAK",
+      "x": 780,
+      "y": 520,
+      "r": 110
+     }
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.42,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "arteta",
+       "x": 280,
+       "y": 1440,
+       "pose": "shock",
+       "emote": "shock",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "suitcase",
+       "x": 760,
+       "y": 1180,
+       "scale": 2.4,
+       "layer": "back"
+      },
+      {
+       "kind": "screen",
+       "x": 770,
+       "y": 760,
+       "scale": 1.9,
+       "face": "happy",
+       "anim": "bounce"
+      }
+     ],
+     "fx": [
+      {
+       "kind": "dust",
+       "x": 770,
+       "y": 1330
+      }
+     ]
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "arteta",
+       "x": 280,
+       "y": 1440,
+       "pose": "facepalm",
+       "emote": "sweat",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "suitcase",
+       "x": 760,
+       "y": 1180,
+       "scale": 2.4,
+       "layer": "back"
+      },
+      {
+       "kind": "screen",
+       "x": 770,
+       "y": 700,
+       "scale": 2.3,
+       "face": "smug"
+      },
+      {
+       "kind": "ribbon",
+       "x": 770,
+       "y": 520,
+       "scale": 1.1,
+       "anim": "drop"
+      }
+     ],
+     "sfx": {
+      "text": "DING",
+      "x": 430,
+      "y": 460,
+      "r": 110
+     },
+     "fx": [
+      {
+       "kind": "confetti",
+       "x": 770,
+       "y": 560
+      }
+     ]
+    }
+   ]
+  },
+  "s07": {
+   "type": "PROVOC",
+   "q": "Should players pick themselves?",
+   "a": "Ban it",
+   "b": "Let them",
+   "split": [
+    71,
+    29
+   ],
+   "mood": "cheeky"
+  },
+  "s08": {
+   "type": "INTERVIEW",
+   "label": "REPORTER ASKS",
+   "bubble": "Chelsea warned staff too?",
+   "answer": {
+    "icon": "padlock",
+    "gesture": "shush"
+   },
+   "subject": "Arteta",
+   "subject_cast": "arteta"
+  }
+ }
+}

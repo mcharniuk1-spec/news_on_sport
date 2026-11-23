@@ -1,0 +1,70 @@
+{
+ "no": 50,
+ "subject": "Bayern beat Atletico 2-0 at the Metropolitano as 18-year-old Lennart Karl breaks a record",
+ "title": "A teenager joins Raul, Mbappe and Yamal",
+ "voice": "EL_B",
+ "comic": false,
+ "style": null,
+ "lines": [
+  {
+   "vo": "Five Champions League goals before nineteen. Only three players managed it first.",
+   "card": "Teenage record",
+   "sfx": null,
+   "footage": "Lennart Karl goal Atletico, Bayern Champions League"
+  },
+  {
+   "vo": "Lennart Karl chipped Jan Oblak in the fifty-fourth minute. Cheeky. No apology offered.",
+   "card": "Chip over Oblak",
+   "sfx": null,
+   "footage": "Lennart Karl goal Atletico, chip over Oblak"
+  },
+  {
+   "vo": "He joins Lamine Yamal, Kylian Mbappe and Raul. A very short list.",
+   "card": "Yamal, Mbappe, Raul, Karl",
+   "sfx": null,
+   "footage": "Karl celebrating, Bayern Champions League"
+  },
+  {
+   "vo": "Konrad Laimer added a second in the seventy-fourth minute, from a lofted Harry Kane pass.",
+   "card": "Laimer, Kane assist",
+   "sfx": null,
+   "footage": "Laimer goal Atletico Bayern, Kane assist"
+  },
+  {
+   "vo": "Assistant Aaron Danks was in charge. Bayern still won two-nil.",
+   "card": "Danks in charge",
+   "sfx": null,
+   "footage": "Atletico Madrid Bayern 0-2 highlights, Metropolitano"
+  },
+  {
+   "vo": "Atletico sat twenty-third of thirty-six, and have never won the Champions League. Bayern made the wait longer.",
+   "card": "Still waiting",
+   "sfx": null,
+   "footage": "Atletico Champions League history, Metropolitano; league phase table"
+  },
+  {
+   "vo": "Think you can call the next one? Free tips, results and predictions at aboutfootball dot UK.",
+   "card": "aboutfootball.UK",
+   "sfx": null,
+   "footage": "end card"
+  }
+ ],
+ "chars": 585,
+ "est_seconds": 33,
+ "footage_terms": [
+  "Atletico Madrid 0-2 Bayern Munich highlights",
+  "Lennart Karl goal Atletico",
+  "Laimer goal Atletico Bayern",
+  "Champions League Atletico Bayern Kane assist"
+ ],
+ "inserts": [],
+ "facts_used": [
+  "Lennart Karl became the fourth player to reach five Champions League goals before turning 19, after Lamine Yamal, Kylian Mbappe and Raul (ev0094)",
+  "Karl scored at 54 minutes, chipping Jan Oblak; Konrad Laimer added a second at 74 minutes from a lofted Harry Kane pass (ev0094)",
+  "Atletico left with 4 points from four games and 23rd of 36 in the league phase table (ev0094)",
+  "Assistant Aaron Danks was in charge that night (ev0094)",
+  "Atletico have never won the Champions League (ev0094 background)"
+ ],
+ "comic_score": 4,
+ "notes": "Non-comic, 0 inserts, EL 600-char limit. The absence of Vincent Kompany is not mentioned, since the record gives a medical reason for it. Atletico never-won claim comes from the background field of the record. Hook now names all three earlier players (Yamal, Mbappe, Raul) as in ev0094. Jokes target the chip, the short list and Atletico's trophy wait; nothing personal."
+}

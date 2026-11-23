@@ -1,0 +1,64 @@
+{
+ "no": 92,
+ "subject": "Six clubs chase Feyenoord winger Anis Hadj Moussa as price passes 35 million pounds",
+ "title": "Hadj Moussa: 35m and counting",
+ "voice": "EL_A",
+ "comic": false,
+ "style": null,
+ "lines": [
+  {
+   "vo": "Six clubs want one winger. Feyenoord reportedly rejected thirty-five million pounds.",
+   "card": "Six clubs, one winger",
+   "sfx": null,
+   "footage": "Hadj Moussa goal compilation, Feyenoord match clip"
+  },
+  {
+   "vo": "Anis Hadj Moussa, twenty-four, Algerian: eight goals in fifteen games this season.",
+   "card": "8 goals in 15",
+   "sfx": null,
+   "footage": "Hadj Moussa dribble clips, close-up"
+  },
+  {
+   "vo": "Last season: fourteen goals, seven assists. Feyenoord's price tag looks less like a bluff.",
+   "card": "14 goals, 7 assists",
+   "sfx": null,
+   "footage": "stat graphic over Feyenoord clips"
+  },
+  {
+   "vo": "Newcastle may have missed a chance at thirty-three million pounds this summer. Awkward.",
+   "card": "Missed chance?",
+   "sfx": null,
+   "footage": "Newcastle stadium exterior, match b-roll"
+  },
+  {
+   "vo": "Add Sunderland, Brighton, Dortmund, Porto and Sporting. Six clubs, one winger, one very busy phone.",
+   "card": "Six in the race",
+   "sfx": null,
+   "footage": "stadium b-roll, no club crests on screen"
+  },
+  {
+   "vo": "Want the next story before it breaks? News, betting tips and predictions at aboutfootball dot UK.",
+   "card": "aboutfootball dot UK",
+   "sfx": null,
+   "footage": "end card"
+  }
+ ],
+ "chars": 539,
+ "est_seconds": 30,
+ "footage_terms": [
+  "Anis Hadj Moussa Feyenoord goals",
+  "Anis Hadj Moussa Algeria highlights",
+  "Feyenoord highlights Hadj Moussa",
+  "Hadj Moussa highlights"
+ ],
+ "inserts": [],
+ "facts_used": [
+  "Six clubs are chasing Hadj Moussa; Feyenoord reportedly rejected bids around 35m pounds (news 163, goal.com)",
+  "The 24-year-old Algerian has 8 goals in his first 15 games this season (news 163)",
+  "He scored 14 goals and made 7 assists for Feyenoord last season (news 163, background)",
+  "Newcastle may have missed a chance at about 33 million pounds in the summer (news 163)",
+  "Wanted by Newcastle, Sunderland, Brighton, Dortmund, Porto and Sporting (news 163)"
+ ],
+ "comic_score": 3,
+ "notes": "Source: news 163 (goal.com, 2026-11-19). Price is a reported figure and is marked as reported. Newcastle is the sixth club, so the count of six holds. Non-comic per assign: only light dry wit on the price and the crowded race. The Toure signing (43m) is left out to keep the script short."
+}

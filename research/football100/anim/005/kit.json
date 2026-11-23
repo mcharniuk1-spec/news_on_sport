@@ -1,0 +1,16 @@
+{
+  "palette": [
+    "#f5bb8b",
+    "#3e4b7e",
+    "#ffd16a",
+    "#7272cd",
+    "#9bd7a8"
+  ],
+  "style": "FLAT-POP",
+  "font": "Arial Bold",
+  "characters": [
+    "Fabio Cannavaro",
+    "generic reporter"
+  ],
+  "recurring_prop": "scoreboard"
+}

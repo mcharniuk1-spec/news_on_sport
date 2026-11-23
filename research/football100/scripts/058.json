@@ -1,0 +1,86 @@
+{
+ "no": 58,
+ "subject": "Mbappe double beats Barcelona in El Clasico as Mourinho celebrates on his knees",
+ "title": "Mbappe, seven offsides, one Clasico",
+ "voice": "kokoro",
+ "comic": false,
+ "style": null,
+ "lines": [
+  {
+   "vo": "Mbappe was flagged offside seven times, and he still won El Clasico.",
+   "card": "Offside seven times",
+   "footage": "Mbappe winner Camp Nou Clasico 2026"
+  },
+  {
+   "vo": "Seven: the most by any player in a major European league in six years. The linesman and Mbappe are on first-name terms.",
+   "card": "Most in six years",
+   "footage": "Mbappe offside flag Camp Nou"
+  },
+  {
+   "vo": "He scored a deflected opener in the forty-first minute. Then the winner in the eighty-seventh.",
+   "card": "Mbappe double",
+   "footage": "Mbappe double Clasico Camp Nou"
+  },
+  {
+   "vo": "Real Madrid won two-one at Camp Nou, their first win there in three years. That ended Barcelona's nine-game La Liga winning run.",
+   "card": "Three-year wait ends",
+   "footage": "Barcelona 1-2 Real Madrid highlights"
+  },
+  {
+   "vo": "Camavinga's run set up the winner. Barcelona stay top, Atletico two points back.",
+   "card": "Barca still top",
+   "footage": "Camavinga run Clasico winner"
+  },
+  {
+   "vo": "Mourinho complained that VAR did not check a challenge. Then he celebrated by sliding on his knees.",
+   "card": "Mourinho knee slide",
+   "footage": "Mourinho knee slide Camp Nou celebration"
+  },
+  {
+   "vo": "Seven offsides, two goals, one knee slide. That is El Clasico in one line.",
+   "card": "Clasico in one line",
+   "footage": "Mbappe double Clasico Camp Nou"
+  },
+  {
+   "vo": "Keep your eyes on the next story. Betting tips and predictions at aboutfootball dot UK.",
+   "card": "aboutfootball.uk",
+   "footage": "football100 end card"
+  }
+ ],
+ "chars": 749,
+ "est_seconds": 42,
+ "footage_terms": [
+  "Barcelona vs Real Madrid El Clasico October 2026 highlights",
+  "Mourinho knee slide Camp Nou celebration",
+  "Mbappe winning goal Clasico Camp Nou",
+  "Barcelona 1-2 Real Madrid highlights"
+ ],
+ "inserts": [
+  {
+   "after_line": 0,
+   "story": "A cartoon linesman lifts a flag again and again until seven flags make a bouquet. Gag: a cartoon striker offside each time looks at the camera. Twist: the linesman hands the bouquet to the striker as a gift.",
+   "characters": "generic cartoon linesman and striker",
+   "seconds": 2
+  },
+  {
+   "after_line": 1,
+   "story": "A cartoon striker shoots and the ball hits a defender's knee. Gag: it loops over the keeper in slow motion. Twist: the ball drops into the net and the keeper sits down on the grass.",
+   "characters": "generic cartoon striker and defender",
+   "seconds": 2
+  },
+  {
+   "after_line": 4,
+   "story": "A cartoon coach in a dark suit runs to the touchline. Gag: he slides on his knees across wet grass for a long, long time. Twist: he finishes at the corner flag and takes a bow.",
+   "characters": "generic cartoon coach",
+   "seconds": 2
+  }
+ ],
+ "facts_used": [
+  "ev0032: Real Madrid won 2-1 at Camp Nou on 25 October 2026; Mbappe scored a deflected opener in the 41st minute and the winner in the 87th; Raphinha equalised for Barcelona (news/news_dedup.json)",
+  "ev0032: first Barcelona La Liga defeat after nine straight wins; Real's first win at Barcelona in three years (news/news_dedup.json)",
+  "ev0032: Mourinho complained VAR did not review Cancelo's challenge on Diomande, then celebrated by sliding on his knees (news/news_dedup.json)",
+  "ev0032: Mbappe flagged offside seven times, the most by any player in a major European league in six years; Camavinga's run set up the winner; Barcelona stayed top, Atletico two points behind (news/news_dedup.json)"
+ ],
+ "comic_score": 5,
+ "notes": "The 'two-one at Camp Nou' and 'first win there in three years' claims come from the source. The VAR line stays as Mourinho's complaint, not a fact about VAR. The knee slide is the documented celebration; no joke about health or the clashes between players and fans. Non-comic, 0 inserts. Punch-up pass: rule of three closer kept; 'first-name terms' is a joke on the seven flags. The VAR line stays as Mourinho's complaint."
+}

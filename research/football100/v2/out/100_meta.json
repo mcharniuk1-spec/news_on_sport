@@ -1,0 +1,113 @@
+{
+ "no": 100,
+ "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/100_manchester_city_lose_three_league_ga.mp4",
+ "total": 38.3,
+ "outro_start": 32.61,
+ "cover": true,
+ "seq": [
+  {
+   "id": "s01",
+   "kind": "HOOK",
+   "start": 0.1,
+   "end": 1.6,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/100/s01.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s02",
+   "kind": "COMIC1",
+   "start": 3.566666666666667,
+   "end": 5.566666666666666,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/100/s02.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s03",
+   "kind": "STATS",
+   "start": 8.866666666666667,
+   "end": 10.366666666666667,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/100/s03.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s04",
+   "kind": "NEWS",
+   "start": 13.1,
+   "end": 14.866666666666667,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/100/s04.mp4",
+   "clip_dur": 1.767,
+   "frames": 42
+  },
+  {
+   "id": "s05",
+   "kind": "COMIC2",
+   "start": 17.466666666666665,
+   "end": 19.466666666666665,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/100/s05.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s06",
+   "kind": "COMIC3",
+   "start": 22.866666666666667,
+   "end": 24.866666666666667,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/100/s06.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s07",
+   "kind": "PROVOC",
+   "start": 27.1,
+   "end": 28.6,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/100/s07.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s08",
+   "kind": "INTERVIEW",
+   "start": 30.6,
+   "end": 32.36666666666667,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/100/s08.mp4",
+   "clip_dur": 1.767,
+   "frames": 42
+  }
+ ],
+ "missing": [],
+ "dropped": [],
+ "cards": [
+  {
+   "text": "Delap twice",
+   "a": 10.533333333333333,
+   "b": 11.566666666666666
+  },
+  {
+   "text": "Cherki replies",
+   "a": 15.0,
+   "b": 16.4
+  },
+  {
+   "text": "National emergency",
+   "a": 28.733333333333334,
+   "b": 29.966666666666665
+  }
+ ],
+ "caption_sprites": 108,
+ "whoosh": [
+  0.0,
+  3.466666666666667,
+  8.766666666666667,
+  13.0,
+  17.366666666666664,
+  22.766666666666666,
+  27.0,
+  30.5,
+  32.51
+ ],
+ "shots": 13
+}

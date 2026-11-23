@@ -1,0 +1,56 @@
+{
+  "no": 63,
+  "subject": "Como hit nine at Lens in a record-equalling Champions League night in their first European season",
+  "title": "Como hit nine at Lens. Fabregas says calm down.",
+  "voice": "kokoro",
+  "comic": false,
+  "style": null,
+  "lines": [
+    {
+      "vo": "Como's first European season, and they scored nine away from home. Nine.",
+      "card": "Nine away goals",
+      "footage": "Lens versus Como highlights, goal sequence montage"
+    },
+    {
+      "vo": "They won 9-1 at Lens. No team has ever scored more away from home in Champions League history. Lens did get one. Credit where due.",
+      "card": "Record away win",
+      "footage": "Como celebrating on the pitch, away end shots"
+    },
+    {
+      "vo": "Tasos Douvikas scored a hat-trick. Nico Paz added a goal and two assists. That is three goals' worth of work for one man.",
+      "card": "Douvikas hat-trick",
+      "footage": "Douvikas goal clips, Lens match"
+    },
+    {
+      "vo": "Nine goals ties Bayern's record for one Champions League match. The eight-goal margin ties Liverpool's 8-0 win over Besiktas in 2007. Two records, one night. Greedy.",
+      "card": "Ties the records",
+      "footage": "Champions League record graphic, Como squad celebration"
+    },
+    {
+      "vo": "Cesc Fabregas told his players not to believe their own hype. Fourth in Serie A, though, is quite a hype.",
+      "card": "Don't believe the hype",
+      "footage": "Fabregas press conference clip, touchline shots"
+    },
+    {
+      "vo": "Think you can call the next one? Betting tips, news and predictions at aboutfootball dot UK.",
+      "card": "aboutfootball.UK",
+      "footage": "Channel end card, neutral background"
+    }
+  ],
+  "chars": 685,
+  "est_seconds": 40,
+  "footage_terms": [
+    "Lens Como 1-9 highlights",
+    "Douvikas hat-trick Como",
+    "Fabregas press conference Como"
+  ],
+  "inserts": [],
+  "facts_used": [
+    "Como won 9-1 at Lens, the most goals scored away from home by any team in Champions League history; Douvikas scored a hat-trick (news id 19, espn.com/soccer/story/_/id/50382528)",
+    "The nine goals tie Bayern's record for goals in one match; the eight-goal margin ties Liverpool's 8-0 over Besiktas in 2007 (news id 19)",
+    "Nico Paz added a goal and two assists (news id 19)",
+    "Como are fourth in Serie A on 23 points; Fabregas told players not to believe their own hype (news id 19)"
+  ],
+  "comic_score": 5,
+  "notes": "Non-comic, so no inserts. Date of the match is 4 Nov 2026 per data. Jokes rest on Lens scoring one, the two ties and the fourth-place fact. Tie with Bayern and Liverpool margin are from the source, not computed. Paz 'three goals' worth of work' is simple addition of goal plus two assists."
+}

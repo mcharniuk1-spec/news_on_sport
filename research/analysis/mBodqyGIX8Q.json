@@ -1,0 +1,280 @@
+{
+ "video_id": "mBodqyGIX8Q",
+ "topic": "Sky Sports News: Mauricio Pochettino set for first day in charge at Manchester United (studio discussion then press conference clip)",
+ "hero": "Mauricio Pochettino (per title) in a US Soccer press conference; studio presenters",
+ "hero_role": "subject of the news item",
+ "media_type_overall": "press conference/interview clip",
+ "hook": "Sky Sports FC animated blue ident",
+ "subtitle_style": "Blue studio-screen graphic text 'Pochettino's first day - what's the priority?' with Man United crest",
+ "reaction_overlays": "none",
+ "transition_summary": "Slow: ident, static studio wide (about 20 s), then long single press-conference camera, almost no cuts (2 detected cuts)",
+ "audio_note": "Studio presenter speech then press-conference speech; no transcript available",
+ "reuse_segments": [
+  {
+   "t0": 2,
+   "t1": 20,
+   "what": "Sky studio discussion",
+   "origin_guess": "studio broadcast",
+   "rights_risk": "medium",
+   "how_to_reuse": "strip audio and rebuild graphics; recreate with own commentary"
+  },
+  {
+   "t0": 20,
+   "t1": 60,
+   "what": "Press conference clip with US Soccer backdrop",
+   "origin_guess": "press conference",
+   "rights_risk": "high",
+   "how_to_reuse": "needs licensed footage; recreate with generated imagery or short clips"
+  }
+ ],
+ "frames": [
+  {
+   "idx": 1,
+   "t": 0,
+   "desc": "Sky Sports FC blue animated ident with logo",
+   "type": "graphic_card",
+   "text_on_screen": "sky sports FC",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 2,
+   "t": 2,
+   "desc": "Wide studio with two presenters at curved desks, big screen: 'Pochettino's first day - what's the priority?'",
+   "type": "video",
+   "text_on_screen": "Pochettino's first day - what's the priority?",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 3,
+   "t": 4,
+   "desc": "Wide studio with two presenters at curved desks, big screen: 'Pochettino's first day - what's the priority?'",
+   "type": "video",
+   "text_on_screen": "Pochettino's first day - what's the priority?",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 4,
+   "t": 6,
+   "desc": "Wide studio with two presenters at curved desks, big screen: 'Pochettino's first day - what's the priority?'",
+   "type": "video",
+   "text_on_screen": "Pochettino's first day - what's the priority?",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 5,
+   "t": 8,
+   "desc": "Wide studio with two presenters at curved desks, big screen: 'Pochettino's first day - what's the priority?'",
+   "type": "video",
+   "text_on_screen": "Pochettino's first day - what's the priority?",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 6,
+   "t": 10,
+   "desc": "Wide studio with two presenters at curved desks, big screen: 'Pochettino's first day - what's the priority?'",
+   "type": "video",
+   "text_on_screen": "Pochettino's first day - what's the priority?",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 7,
+   "t": 12,
+   "desc": "Wide studio with two presenters at curved desks, big screen: 'Pochettino's first day - what's the priority?'",
+   "type": "video",
+   "text_on_screen": "Pochettino's first day - what's the priority?",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 8,
+   "t": 14,
+   "desc": "Wide studio with two presenters at curved desks, big screen: 'Pochettino's first day - what's the priority?'",
+   "type": "video",
+   "text_on_screen": "Pochettino's first day - what's the priority?",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 9,
+   "t": 16,
+   "desc": "Wide studio with two presenters at curved desks, big screen: 'Pochettino's first day - what's the priority?'",
+   "type": "video",
+   "text_on_screen": "Pochettino's first day - what's the priority?",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 10,
+   "t": 18,
+   "desc": "Wide studio with two presenters at curved desks, big screen: 'Pochettino's first day - what's the priority?'",
+   "type": "video",
+   "text_on_screen": "Pochettino's first day - what's the priority?",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 11,
+   "t": 20,
+   "desc": "Press conference, man in black jacket at mic, US Soccer backdrop",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 12,
+   "t": 22,
+   "desc": "Press conference, man in black jacket at mic, US Soccer backdrop",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 13,
+   "t": 24,
+   "desc": "Press conference, man in black jacket at mic, US Soccer backdrop",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 14,
+   "t": 26,
+   "desc": "Press conference, man in black jacket at mic, US Soccer backdrop",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 15,
+   "t": 28,
+   "desc": "Press conference, man in black jacket at mic, US Soccer backdrop",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 16,
+   "t": 30,
+   "desc": "Press conference, man in black jacket at mic, US Soccer backdrop",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 17,
+   "t": 32,
+   "desc": "Press conference, man in black jacket at mic, US Soccer backdrop",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 18,
+   "t": 34,
+   "desc": "Press conference, man in black jacket at mic, US Soccer backdrop",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 19,
+   "t": 36,
+   "desc": "Press conference, man in black jacket at mic, US Soccer backdrop",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 20,
+   "t": 38,
+   "desc": "Press conference, man in black jacket at mic, US Soccer backdrop",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 21,
+   "t": 40,
+   "desc": "Press conference, man in black jacket at mic, US Soccer backdrop",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 22,
+   "t": 42,
+   "desc": "Press conference, man in black jacket at mic, US Soccer backdrop",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 23,
+   "t": 44,
+   "desc": "Press conference, man in black jacket at mic, US Soccer backdrop",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 24,
+   "t": 46,
+   "desc": "Press conference, man in black jacket at mic, US Soccer backdrop",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 25,
+   "t": 48,
+   "desc": "Press conference, man in black jacket at mic, US Soccer backdrop",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 26,
+   "t": 50,
+   "desc": "Press conference, man in black jacket at mic, US Soccer backdrop",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 27,
+   "t": 52,
+   "desc": "Press conference, man in black jacket at mic, US Soccer backdrop",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 28,
+   "t": 54,
+   "desc": "Press conference, man in black jacket at mic, US Soccer backdrop",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 29,
+   "t": 56,
+   "desc": "Press conference, man in black jacket at mic, US Soccer backdrop",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 30,
+   "t": 58,
+   "desc": "Press conference, man looking down, writing",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 31,
+   "t": 60,
+   "desc": "Man in black jacket raising hand to greet someone entering",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "none"
+  }
+ ]
+}

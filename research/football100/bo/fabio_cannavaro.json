@@ -1,0 +1,675 @@
+{
+  "name": "Fabio Cannavaro",
+  "years": "born 1973; Ballon d'Or 2006; Italy career to 2010, retired from playing 2011; coach since 2013; Uzbekistan coach since Oct 2025",
+  "research_date": "2026-11-20",
+  "recent_news_count_in_90_days": 13,
+  "recent_news_summary_note": "13 dated stories fall inside the last 90 days (22 Aug - 20 Nov 2026); 2 older stories are included only as context and flagged within_90_days:false. No new club job was found.",
+  "recent_news": [
+    {
+      "date": "2026-09-24",
+      "headline": "Uzbekistan beat Iran 3-1 in Fergana, Cannavaro's first match since the World Cup",
+      "facts": [
+        "Eldor Shomurodov scored twice (10' and a 58' penalty); Husayn Norchayev added a stoppage-time third (90+4' per Wikipedia).",
+        "Iran equalised at 49': kun.uz calls it a free kick; Wikipedia's results table lists it as an own goal (Urozov), so keep it vague ('Iran pulled one back').",
+        "It was the first match for Cannavaro's side since the World Cup (Fergana, Istiqlol Stadium)."
+      ],
+      "source_url": "https://kun.uz/en/news/2026/09/24/uzbekistan-beat-iran-3-1-in-fergana-friendly",
+      "source_domain": "kun.uz",
+      "tone": "praise",
+      "sensitive": false,
+      "within_90_days": true,
+      "note": "Opponent is Iran: football only, no geopolitical jokes. Removed unverified items from the first draft (Cannavaro blaming a foul near the box and 'only three days to prepare', and the goalkeeper-injury mention): none appear in the cited kun.uz match report."
+    },
+    {
+      "date": "2026-09-25",
+      "headline": "Cannavaro: past service will not guarantee a call-up to Uzbekistan",
+      "facts": [
+        "He said earlier service will no longer earn a place; the squad will be built from players who merit selection and are ready to play ('That will not happen anymore').",
+        "He told the team 'whether we win or lose, we have to do it together'.",
+        "He said the team has about a month of preparation and expects players to arrive at the next camp in good physical shape; next games were Syria (1 Oct, Tashkent) and South Korea (6 Oct, away)."
+      ],
+      "source_url": "https://kun.uz/en/news/2026/09/25/fabio-cannavaro-past-contributions-will-not-guarantee-uzbekistan-players-a-national-team-call-up",
+      "source_domain": "kun.uz",
+      "tone": "neutral",
+      "sensitive": false,
+      "within_90_days": true
+    },
+    {
+      "date": "2026-10-01",
+      "headline": "Uzbekistan thrash Syria 4-1 in Tashkent",
+      "facts": [
+        "Goals: Esanov 27', Mozgovoy 45', Norchayev 48' and 90' (Wikipedia results table, Pakhtakor Stadium).",
+        "Cannavaro rotated the squad ('I don't have a concept of starting players or substitutes') and said 'step by step we are building a good team'.",
+        "He told the group there is no such thing as a friendly match.",
+        "Syria's only goal was a late own goal by an Uzbek defender (Khakimov, 90+2')."
+      ],
+      "source_url": "https://kun.uz/en/news/2026/10/02/cannavaro-uzbekistan-is-building-a-good-team-and-heading-in-the-right-direction",
+      "source_domain": "kun.uz",
+      "tone": "praise",
+      "sensitive": false,
+      "within_90_days": true,
+      "note": "Corrected: own goal minute is 90+2' (not 90+3'); removed the unverified claim that Shomurodov started on the bench."
+    },
+    {
+      "date": "2026-10-06",
+      "headline": "South Korea 2-0 Uzbekistan: Cannavaro praises his team's performance despite the defeat",
+      "facts": [
+        "Son Heung-min scored an early free kick (his 59th international goal, a Korean record) and Oh Se-hoon added a header, at Yongin Mireu Stadium.",
+        "Cannavaro said his team played a very good game, created many chances and credited Korean goalkeeper Cho Hyeon-woo for the saves; he blamed small mistakes against a strong team.",
+        "FIFA ranking before the game: Korea 32nd, Uzbekistan 60th."
+      ],
+      "source_url": "https://www.starnewskorea.com/en/sports/2026/10/06/2026100617090393550",
+      "source_domain": "starnewskorea.com",
+      "tone": "roast",
+      "sensitive": false,
+      "within_90_days": true
+    },
+    {
+      "date": "2026-10-20",
+      "headline": "Reports: Cannavaro signs with a Latin American agency to look for Liga MX or MLS work",
+      "facts": [
+        "Fox Sports Mexico (20 Oct, TUDN report) said his representation agency in Latin America is exploring Liga MX or MLS work; a Liga MX job would depend on a club showing interest and presenting a project.",
+        "The same article says no agreement with any club has been confirmed.",
+        "Text read via the Plano Informativo republication of the Fox Sports article; the foxsports.com.mx URL did not resolve in this session."
+      ],
+      "source_url": "https://www.foxsports.com.mx/2026/10/20/fabio-cannavaro-liga-mx-mls-director-tecnico-campeon-mundial-2006-italia/",
+      "source_domain": "foxsports.com.mx",
+      "tone": "roast",
+      "sensitive": false,
+      "within_90_days": true,
+      "note": "Rumour/reported item. Phrase as 'reportedly'. The 'separate report' about no agreement in the first draft was the same Fox Sports article republished, not independent."
+    },
+    {
+      "date": "2026-11-03",
+      "headline": "AFC moves the 2027 Asian Cup to 23 Dec 2027 - 21 Jan 2028",
+      "facts": [
+        "The AFC cited 'exceptional circumstances' in the region, including travel disruption; dates still need FIFA approval.",
+        "Uzbekistan are in Group B with Jordan, Bahrain and North Korea; January 2027 group games had been planned.",
+        "The delay left Cannavaro's future with Uzbekistan under discussion in the press."
+      ],
+      "source_url": "https://kun.uz/en/news/2026/11/03/afc-postpones-asian-cup-in-saudi-arabia-to-december-2027-59075",
+      "source_domain": "kun.uz",
+      "tone": "neutral",
+      "sensitive": true,
+      "within_90_days": true,
+      "note": "Regional security/war context. Report as a schedule fact only; no jokes."
+    },
+    {
+      "date": "2026-11-06",
+      "headline": "UFA review meeting: Cannavaro tells youth coaches to 'drastically improve' individual skills",
+      "facts": [
+        "Meeting covered 2026 results and 2027 aims: U-17 Asian Cup in May 2027 and the U-20 World Cup in Uzbekistan in Sept-Oct 2027.",
+        "Cannavaro urged work on striker and goalkeeper skills, fitness, tactics and mental stability.",
+        "Coaches of all seven youth teams (U-14 to U-23) attended."
+      ],
+      "source_url": "https://zamin.uz/en/sport/226551-cannavaros-advice-to-the-youth-main-goals-for-uzbek-football-in-2027-defined.html",
+      "source_domain": "zamin.uz",
+      "tone": "neutral",
+      "sensitive": false,
+      "within_90_days": true
+    },
+    {
+      "date": "2026-11-06",
+      "headline": "Cannavaro on Sky Italia: 'My dream is to coach Italy'; compares the national job to a Neapolitan coffee",
+      "facts": [
+        "He called coaching in Italy and the national team his goal and said it is a normal ambition (Football Italia, quoting Sky Sport Italia 'Calcio Unplugged').",
+        "He described national-team work as short (about 10 days), demanding and stimulating, like a Neapolitan coffee.",
+        "He said he enjoys Uzbekistan, has already met 'the president', and wants to return to Italy rather than travel the world or move to Asia."
+      ],
+      "source_url": "https://sports.yahoo.com/articles/cannavaro-dream-coach-italy-national-182500536.html",
+      "source_domain": "sports.yahoo.com",
+      "tone": "roast",
+      "sensitive": false,
+      "within_90_days": true
+    },
+    {
+      "date": "2026-11-07",
+      "headline": "Cannavaro: would talk to UFA before any Serie A offer; says Juve lost its 'you just have to win' identity",
+      "facts": [
+        "Asked what he would do with an official Serie A offer, he said he would discuss it with the Uzbek federation and not decide alone.",
+        "UFA press service reportedly denied rumours that he would leave after the Asian Cup was moved.",
+        "Tuttosport reported he said Juventus's identity ('Devi solo vincere') has been lost."
+      ],
+      "source_url": "https://zamin.uz/en/sport/226624-if-an-offer-comes-from-serie-a-details-of-cannavaros-sensational-interview.html",
+      "source_domain": "zamin.uz",
+      "tone": "roast",
+      "sensitive": false,
+      "within_90_days": true
+    },
+    {
+      "date": "2026-11-11",
+      "headline": "Pre-Russia press conference: contract runs to autumn 2027, 'relations are good', South America links 'just rumours'",
+      "facts": [
+        "He said every Italian wants to coach Italy and called South American national-team reports rumours.",
+        "Masharipov, Urunov, Sergeyev and Yusupov were not in camp; he said there is no conflict with them.",
+        "Plan: January camp without foreign-based players, then camps in March, June and September."
+      ],
+      "source_url": "https://zamin.uz/en/sport/226931-is-cannavaro-leaving-uzbekistan-he-spoke-about-his-future-and-his-contract-until-2027.html",
+      "source_domain": "zamin.uz",
+      "tone": "neutral",
+      "sensitive": false,
+      "within_90_days": true
+    },
+    {
+      "date": "2026-11-12",
+      "headline": "Uzbekistan blow a 2-0 lead and lose 3-2 to Russia in Tashkent",
+      "facts": [
+        "Russia's own goal (Melyokhin, 5') and Behruz Karimov (46') made it 2-0.",
+        "Russia then scored three in nine minutes (Komlichenko 70' and 75', Aleksey Miranchuk 79').",
+        "Cannavaro said the defeat hurt morale (Zamin, 18 Nov)."
+      ],
+      "source_url": "https://daryo.uz/ru/2026/11/12/sbornaya-uzbekistana-upustila-pobedu-v-tovarisheskom-matche-protiv-rossii/",
+      "source_domain": "daryo.uz",
+      "tone": "roast",
+      "sensitive": false,
+      "within_90_days": true,
+      "note": "Roast the collapse only. No jokes about Russia as a country, war or sanctions. Daryo page returned 403, but the scorers and minutes are confirmed by Wikipedia's Uzbekistan results table and the 2-0 lead and 2-3 score by Zamin."
+    },
+    {
+      "date": "2026-11-17",
+      "headline": "Saudi Arabia 1-2 Uzbekistan in Doha: Esanov double ends the slump",
+      "facts": [
+        "Sherzod Esanov scored at 19' and 35'; Firas Al-Buraikan equalised at 23' (Jassim bin Hamad Stadium, Doha).",
+        "Saudi defender Ali Lajami was sent off at 50'; Uzbekistan slowed down afterwards.",
+        "Live FIFA ranking: 59th, +5.35 points (1418.10 points)."
+      ],
+      "source_url": "https://zamin.uz/en/sport/227468-uzbekistan-defeats-saudi-arabia-and-climbs-in-fifa-rankings.html",
+      "source_domain": "zamin.uz",
+      "tone": "praise",
+      "sensitive": false,
+      "within_90_days": true,
+      "note": "Second source (Vavel) agrees on score, Al-Buraikan 23' and the red card (its own timeline shows Esanov's second goal at both 33' and 35'; Wikipedia says 35'). Date: Zamin and Wikipedia's results list say 17 Nov; a Wikipedia table caption mentions 16 Nov."
+    },
+    {
+      "date": "2026-11-18",
+      "headline": "Cannavaro: sometimes he prefers equal or fewer men because players show more spirit; 'defenders must stop losing the ball in simple situations'",
+      "facts": [
+        "He said the team slowed after the red card and he has seen that before; he said he would sometimes rather play equal or even a man down because players then show more character and spirit, while an advantage can breed complacency.",
+        "He said national-team camps are short, so each session must be used well and individual errors are harder to fix than at a club.",
+        "He asked defenders to stop losing the ball in simple situations and wingers to dribble one-on-one without hesitation."
+      ],
+      "source_url": "https://zamin.uz/en/sport/227431-what-does-fabio-cannavaro-want-to-change-in-the-uzbekistan-national-team.html",
+      "source_domain": "zamin.uz",
+      "tone": "roast",
+      "sensitive": false,
+      "within_90_days": true
+    },
+    {
+      "date": "2026-08-05",
+      "headline": "First post-World Cup press conference: 'Probably I am the only foolish coach in the world'",
+      "facts": [
+        "He denied flying straight home after the tournament and called a EUR 4m salary report false; he said he pays his assistants himself under an agreement with the federation.",
+        "He said he would pick younger players, not reward past contributions, and that someone in the squad leaked false information to the press.",
+        "The 'foolish coach' line was said while defending his decision to take an unfit player to the World Cup."
+      ],
+      "source_url": "https://kun.uz/ru/news/2026/08/06/navernoye-ya-yedinstvennyy-glupyy-trener-v-mire-kannavaro-na-press-konferensii",
+      "source_domain": "kun.uz",
+      "tone": "roast",
+      "sensitive": true,
+      "within_90_days": false,
+      "note": "OLDER than 90 days (about 107 days). Included because it explains the current squad policy. The quote touches a player's health: use the quote as self-deprecation only."
+    },
+    {
+      "date": "2026-06-23",
+      "headline": "After 0-5 loss to Portugal, Cannavaro tells Ronaldo to keep playing a few more years",
+      "facts": [
+        "Ronaldo scored twice (6', 39'); Portugal won 5-0 in Houston and Ronaldo became the first man to score in six World Cups.",
+        "Cannavaro said he warned his players that giving Ronaldo a centimetre would be fatal, and told him not to retire.",
+        "He joked that Ronaldo is a goal magnet."
+      ],
+      "source_url": "https://www.abola.pt/noticias/cannavaro-rende-se-a-portugal-e-a-ronaldo-se-lhe-das-um-centimetro-estas-morto-2026062320205971704",
+      "source_domain": "abola.pt",
+      "tone": "roast",
+      "sensitive": false,
+      "within_90_days": false,
+      "note": "OLDER than 90 days. Classic story that frames the current job."
+    }
+  ],
+  "now": {
+    "as_of": "2026-11-20",
+    "role": "Head coach of the Uzbekistan national team (appointed 6 Oct 2025, replacing Timur Kapadze, who stayed as an assistant and resigned on 10 Nov 2025).",
+    "contract": "Runs to October 2027 (he says 'autumn 2027'); the Asian Cup postponement means the federation will discuss it.",
+    "world_cup_2026": "Led Uzbekistan at their first World Cup: lost 1-3 to Colombia, 0-5 to Portugal and 1-3 to DR Congo, finished last in Group K with 0 points, 2 goals scored and 11 conceded.",
+    "since_world_cup": "Five friendlies: W 3-1 Iran, W 4-1 Syria, L 0-2 South Korea, L 2-3 Russia (after leading 2-0), W 2-1 Saudi Arabia. That is 3 wins and 2 losses, 11 goals for and 8 against.",
+    "ranking": "Live FIFA ranking 59th after the Saudi win (60th before the Korea match).",
+    "next": "2027 Asian Cup now 23 Dec 2027 - 21 Jan 2028 in Saudi Arabia; Group B with Jordan, Bahrain, North Korea. Plans: January camp without foreign-based players, camps in March, June, September 2027.",
+    "what_people_say": "He says his dream is to coach Italy and the Italian national team, and that he would talk to the Uzbek federation before any Serie A offer. Rumours link him to Liga MX/MLS via an agency; the federation denied he would leave.",
+    "team_trend": "Youth refresh after the World Cup; 'no one gets a place for past service' (the World Cup 'bonus' is over).",
+    "gaps": "No November 2026 club appointment found. Wikipedia's managerial table currently lists his Uzbekistan record as 16 matches (6W 2D 8L); that is consistent with the nine 2026 matches counted here (3W 6L) plus seven earlier ones, but it was not independently confirmed."
+  },
+  "quick_context": [
+    "Fabio Cannavaro captained Italy to the 2006 World Cup, playing all 690 minutes without a card while Italy conceded only two goals in the tournament.",
+    "He won the 2006 Ballon d'Or and the FIFA World Player award, becoming only the third defender to win the Ballon d'Or after Franz Beckenbauer and Matthias Sammer.",
+    "He won 136 caps for Italy and two La Liga titles with Real Madrid (2006-07 and 2007-08)."
+  ],
+  "roast_past": [
+    {
+      "angle": "136 caps for Italy and only 2 goals, in 2004 against Tunisia and in 2008 against Portugal."
+    },
+    {
+      "angle": "The 2004-05 and 2005-06 Juventus titles were later revoked, and he left for Real Madrid as Juventus were sent down. Joke about the timing only, never about wrongdoing."
+    },
+    {
+      "angle": "Coaching CV: Benevento 17 games (3W 7D 7L) and sacked; Dinamo Zagreb 14 games and sacked; Udinese 6 games and not kept; China national team 2 games, 2 defeats."
+    },
+    {
+      "angle": "Gattuso teased him with a hair-gel jibe in late 2025 and Cannavaro said he took it as a joke."
+    },
+    {
+      "angle": "He told Ronaldo to keep playing a few more years, right after Ronaldo scored twice against him."
+    },
+    {
+      "angle": "Italy captain turned world traveller: Al Ahli, Guangzhou, Al Nassr, Tianjin, China national team, Benevento, Udinese, Zagreb, Uzbekistan."
+    },
+    {
+      "angle": "Great defender, famous for the 2006 wall of five clean sheets; his Uzbek World Cup team conceded 11 in three games."
+    }
+  ],
+  "roast_now": [
+    {
+      "angle": "Led 2-0 against Russia on 12 Nov and lost 3-2 after three goals in about ten minutes. Roast the collapse only."
+    },
+    {
+      "angle": "'There is no such thing as a friendly' (1 Oct) and then the next two friendlies are lost: South Korea 0-2 and Russia 2-3 (a 2-0 lead thrown away); only then a 2-1 win in Doha."
+    },
+    {
+      "angle": "Dream job: Italy national team, while his contract runs to October 2027 and he says he must discuss any Serie A offer with Uzbekistan first."
+    },
+    {
+      "angle": "On 6 Nov he said he is not chasing jobs abroad; on 20 Oct an agency report said he is shopping for Liga MX or MLS work. Say 'reportedly'."
+    },
+    {
+      "angle": "National-team coaching is 'like a Neapolitan coffee': ten quick days. His own team needed ten minutes to turn 2-0 into 2-3."
+    },
+    {
+      "angle": "After the Saudi red card his team slowed down, and he said he sometimes prefers equal numbers or even fewer men because players show more spirit."
+    },
+    {
+      "angle": "Said defenders must stop losing the ball in simple situations; he is a defender legend, so the squad hears that from the best."
+    },
+    {
+      "angle": "Called himself 'probably the only foolish coach in the world' (Aug). Self-roast only; do not mention the health detail."
+    }
+  ],
+  "praise": [
+    {
+      "angle": "2006 World Cup: all 690 minutes, no cards, 5 clean sheets and 2 goals conceded in the whole tournament."
+    },
+    {
+      "angle": "Only the third defender to win the Ballon d'Or, after Beckenbauer and Sammer."
+    },
+    {
+      "angle": "136 caps for Italy and captain from 2002 to 2010; Italy's most-capped defender."
+    },
+    {
+      "angle": "Won the Chinese Super League in 2019 with Guangzhou Evergrande and League One in 2016 with Tianjin Quanjian."
+    },
+    {
+      "angle": "Since the World Cup: 3 wins in 5 friendlies, 3-1 over Iran, 4-1 over Syria and a 2-1 win in Doha, and Uzbekistan climbed to 59th in the live FIFA ranking."
+    },
+    {
+      "angle": "Under him Uzbekistan scored their first-ever World Cup goal (Fayzullaev, 60') and he promised a youth refresh for the Asian Cup."
+    }
+  ],
+  "no_joke_topics": [
+    "Doping and medication: the 2009 failed test (charges dropped, a medical explanation was given).",
+    "Health and injuries: any injured player (Masharipov's hernia) and Cannavaro's own health.",
+    "War and regional conflict: the Asian Cup postponement (airport strike and travel disruption in the region), Iran/Russia opponents (no jokes about countries, war or sanctions).",
+    "Family: brother Paolo Cannavaro, his children and private life.",
+    "Legal and Calciopoli: do not imply any personal wrongdoing; only joke about the stripped trophies as a club fact, or skip it.",
+    "Alleged salary or leak disputes with the federation: report as his denial only."
+  ],
+  "viral_moments": [
+    {
+      "moment": "Post-match press conference after Portugal 5-0 (23 Jun 2026): tells Ronaldo to keep playing, 'give him a centimetre and you're dead'.",
+      "why_provocative": "A coach consoling the player who just scored twice against him; and a legendary defender admits he cannot stop Ronaldo now.",
+      "youtube_link": "https://www.youtube.com/results?search_query=Cannavaro+Ronaldo+press+conference+Portugal+Uzbekistan+5-0",
+      "timestamp": "unknown",
+      "link_status": "YouTube search link; specific video URL NOT verified."
+    },
+    {
+      "moment": "Sky Sport Italia 'Calcio Unplugged' interview (reported 6-7 Nov 2026): dream to coach Italy, Neapolitan coffee line, Serie A offer question.",
+      "why_provocative": "A national-team coach says out loud that he wants another job, while under contract to Oct 2027.",
+      "youtube_link": "https://www.youtube.com/results?search_query=Cannavaro+Sky+Calcio+Unplugged+intervista+Nazionale+Uzbekistan",
+      "timestamp": "unknown",
+      "link_status": "YouTube search link; specific video URL NOT verified."
+    },
+    {
+      "moment": "5 Aug 2026 press conference: 'probably the only foolish coach in the world', denies EUR 4m salary, blames leaks.",
+      "why_provocative": "Self-roast mixed with accusations of leaks inside the squad.",
+      "youtube_link": "https://www.youtube.com/results?search_query=Cannavaro+press+conference+Uzbekistan+August+2026",
+      "timestamp": "unknown",
+      "link_status": "YouTube search link; specific video URL NOT verified. Source was Russian-language kun.uz text; video language may be Italian or Uzbek."
+    },
+    {
+      "moment": "Interview (reported 15 Dec 2025 by Corriere dello Sport): reacts to Gattuso's hair-gel joke and says he was 'zero' close to the Italy job.",
+      "why_provocative": "Friendly dig between two 2006-era figures, plus the 'what if I coached Italy' angle.",
+      "youtube_link": "https://www.youtube.com/results?search_query=Cannavaro+Gattuso+gel+battuta+intervista+Napoli",
+      "timestamp": "unknown",
+      "link_status": "YouTube search link; specific video URL NOT verified. Older than 90 days."
+    },
+    {
+      "moment": "Pre-Russia press conference in Tashkent (11 Nov 2026): contract until 2027, 'South America is just rumours'.",
+      "why_provocative": "He denies leaving while saying every Italian wants the Italy job.",
+      "youtube_link": "https://www.youtube.com/results?search_query=Cannavaro+press+conference+Uzbekistan+Russia+friendly",
+      "timestamp": "unknown",
+      "link_status": "YouTube search link; specific video URL NOT verified."
+    }
+  ],
+  "footage_terms": [
+    {
+      "term": "Uzbekistan vs Russia 2-3 highlights 12 November 2026",
+      "watermark_risk": "high: broadcaster logos, possibly burned-in Uzbek/Russian subtitles"
+    },
+    {
+      "term": "Saudi Arabia vs Uzbekistan 1-2 highlights Esanov",
+      "watermark_risk": "high: channel logos on reuploads"
+    },
+    {
+      "term": "Cannavaro touchline reaction Uzbekistan bench friendly",
+      "watermark_risk": "medium"
+    },
+    {
+      "term": "Cannavaro press conference Uzbekistan 2026",
+      "watermark_risk": "medium: federation logo backdrop, auto captions on some uploads"
+    },
+    {
+      "term": "Cannavaro Sky Calcio Unplugged intervista",
+      "watermark_risk": "high: Sky logo, Italian burned subtitles likely"
+    },
+    {
+      "term": "Uzbekistan Colombia World Cup 2026 Fayzullaev goal",
+      "watermark_risk": "high: FIFA/broadcaster rights; frequent takedowns"
+    },
+    {
+      "term": "Portugal Uzbekistan Ronaldo Cannavaro handshake World Cup",
+      "watermark_risk": "high"
+    },
+    {
+      "term": "Cannavaro 2006 World Cup final captain lifts trophy",
+      "watermark_risk": "medium: archive clips often carry channel marks"
+    },
+    {
+      "term": "Cannavaro Ballon d'Or 2006 ceremony",
+      "watermark_risk": "medium"
+    },
+    {
+      "term": "Cannavaro Real Madrid best tackles",
+      "watermark_risk": "high: fan-made edits with text overlays"
+    }
+  ],
+  "flipbook_ideas": [
+    "Scoreboard flipbook: 2-0 turns into 2-3 digit by digit while a tiny Cannavaro caricature holds a stopwatch showing 10 minutes (no flags, no country symbols).",
+    "Neapolitan espresso cup with a tiny Italy coach hat; Cannavaro sips, the cup is empty after two seconds ('national team job').",
+    "Cannavaro with a suitcase covered in stickers (Uzbekistan, Italy, Mexico, MLS), a taxi meter ticking on the side (agency rumour).",
+    "Cannavaro as a cartoon defender wall with eleven balls flying through the gaps, he waves politely (World Cup, 11 goals conceded).",
+    "A snail-speed sign appears after a red card; Cannavaro points to the sign and looks proud ('fewer men, more spirit').",
+    "Hair-gel jar the size of the Ballon d'Or on the shelf; Cannavaro shrugs and says 'just a joke' (Gattuso jibe)."
+  ],
+  "image_reference_notes": {
+    "signature_look": "Italy captain, short or shaved head, serious face, pointing or arm-raised organizing pose; the 2006 World Cup trophy lift. From general knowledge, not read in this session: confirm with recent photos before drawing.",
+    "current_look": "NOT verified in this session. Check recent photos (6 Oct 2026 South Korea match, Nov 2026 press conferences) for hair, beard and glasses.",
+    "kit_colours": "Italy: Azzurri blue. Uzbekistan 'White Wolves': kit colours NOT verified in this check (nickname confirmed; check photos). Dinamo Zagreb: blue. Juventus: black-and-white stripes. Real Madrid: white.",
+    "expressions": "Stern touchline frown, hands on hips, short laugh when joking with journalists (Ronaldo 'goal magnet' laugh), thoughtful pause in interviews.",
+    "signature_pose": "Standing on the touchline with arms folded or one hand raised organising the line; also the captain's pose lifting a trophy over the head."
+  },
+  "claims": [
+    {
+      "claim": "Cannavaro was appointed Uzbekistan head coach on 6 Oct 2025, replacing Timur Kapadze (head coach 22 Jan - 5 Oct 2025), who then became his assistant and resigned on 10 Nov 2025.",
+      "source_url": "https://en.wikipedia.org/wiki/Timur_Kapadze",
+      "confidence": "high"
+    },
+    {
+      "claim": "His Uzbekistan contract runs to October 2027.",
+      "source_url": "https://zamin.uz/en/sport/226624-if-an-offer-comes-from-serie-a-details-of-cannavaros-sensational-interview.html",
+      "confidence": "high"
+    },
+    {
+      "claim": "He said (11 Nov) his contract runs until autumn 2027 and relations with the federation are good.",
+      "source_url": "https://zamin.uz/en/sport/226931-is-cannavaro-leaving-uzbekistan-he-spoke-about-his-future-and-his-contract-until-2027.html",
+      "confidence": "high"
+    },
+    {
+      "claim": "The AFC moved the 2027 Asian Cup to 23 Dec 2027 - 21 Jan 2028; dates need FIFA approval.",
+      "source_url": "https://kun.uz/en/news/2026/11/03/afc-postpones-asian-cup-in-saudi-arabia-to-december-2027-59075",
+      "confidence": "high"
+    },
+    {
+      "claim": "Uzbekistan are in Asian Cup Group B with Jordan, Bahrain and North Korea.",
+      "source_url": "https://kun.uz/en/news/2026/11/03/afc-postpones-asian-cup-in-saudi-arabia-to-december-2027-59075",
+      "confidence": "high"
+    },
+    {
+      "claim": "Uzbekistan beat Iran 3-1 in Fergana on 24 Sep 2026, first game since the World Cup; Shomurodov 10' and 58' (pen), Norchayev late.",
+      "source_url": "https://kun.uz/en/news/2026/09/24/uzbekistan-beat-iran-3-1-in-fergana-friendly",
+      "confidence": "high"
+    },
+    {
+      "claim": "Cannavaro said past contributions will not guarantee call-ups.",
+      "source_url": "https://kun.uz/en/news/2026/09/25/fabio-cannavaro-past-contributions-will-not-guarantee-uzbekistan-players-a-national-team-call-up",
+      "confidence": "high"
+    },
+    {
+      "claim": "Uzbekistan beat Syria 4-1 in Tashkent on 1 Oct 2026 and Cannavaro said there is no true friendly.",
+      "source_url": "https://kun.uz/en/news/2026/10/02/cannavaro-uzbekistan-is-building-a-good-team-and-heading-in-the-right-direction",
+      "confidence": "high"
+    },
+    {
+      "claim": "South Korea beat Uzbekistan 2-0 on 6 Oct 2026 at Yongin; Son Heung-min free kick and Oh Se-hoon header; Cannavaro was pleased with the performance.",
+      "source_url": "https://www.starnewskorea.com/en/sports/2026/10/06/2026100617090393550",
+      "confidence": "high"
+    },
+    {
+      "claim": "FIFA ranking before the Korea game: Korea 32nd, Uzbekistan 60th.",
+      "source_url": "https://www.starnewskorea.com/en/sports/2026/10/06/2026100617090393550",
+      "confidence": "high"
+    },
+    {
+      "claim": "Fox Sports Mexico (20 Oct 2026, TUDN report) said his Latin American representation agency is exploring Liga MX or MLS work (read via Plano Informativo republication).",
+      "source_url": "https://planoinformativo.com/planodeportivo/344929/fabio-cannavaro-ganador-del-balon-de-oro-podria-dirigir-en-el-futbol-mexicano",
+      "confidence": "medium"
+    },
+    {
+      "claim": "The same Fox Sports article says no agreement with any club has been confirmed.",
+      "source_url": "https://planoinformativo.com/planodeportivo/344929/fabio-cannavaro-ganador-del-balon-de-oro-podria-dirigir-en-el-futbol-mexicano",
+      "confidence": "high"
+    },
+    {
+      "claim": "UFA expanded meeting (reported 6 Nov 2026) set 2027 aims: U-17 Asian Cup in May, U-20 World Cup in Sept-Oct 2027 in Uzbekistan.",
+      "source_url": "https://zamin.uz/en/sport/226551-cannavaros-advice-to-the-youth-main-goals-for-uzbek-football-in-2027-defined.html",
+      "confidence": "high"
+    },
+    {
+      "claim": "On Sky 'Calcio Unplugged' (reported 6 Nov 2026) he said his dream is to coach in Italy and the national team.",
+      "source_url": "https://sports.yahoo.com/articles/cannavaro-dream-coach-italy-national-182500536.html",
+      "confidence": "high"
+    },
+    {
+      "claim": "He compared national-team coaching to a Neapolitan coffee.",
+      "source_url": "https://sports.yahoo.com/articles/cannavaro-dream-coach-italy-national-182500536.html",
+      "confidence": "high"
+    },
+    {
+      "claim": "He said he would consult UFA before deciding on any Serie A offer; UFA reportedly denied he would leave.",
+      "source_url": "https://zamin.uz/en/sport/226624-if-an-offer-comes-from-serie-a-details-of-cannavaros-sensational-interview.html",
+      "confidence": "high"
+    },
+    {
+      "claim": "Tuttosport (7 Nov 2026) reported he said Juventus's identity ('Devi solo vincere') seems lost.",
+      "source_url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/11/07-152434015/piazza_pulita_alla_prima_difficolt_cannavaro_e_i_problemi_juve_noi_tutti_capitani",
+      "confidence": "high"
+    },
+    {
+      "claim": "Press conference 11 Nov: he called South American national-team reports rumours; Masharipov, Urunov, Sergeyev and Yusupov not in camp, no conflict.",
+      "source_url": "https://zamin.uz/en/sport/226931-is-cannavaro-leaving-uzbekistan-he-spoke-about-his-future-and-his-contract-until-2027.html",
+      "confidence": "high"
+    },
+    {
+      "claim": "Uzbekistan led Russia 2-0 on 12 Nov 2026 in Tashkent and lost 3-2.",
+      "source_url": "https://zamin.uz/en/sport/227468-uzbekistan-defeats-saudi-arabia-and-climbs-in-fifa-rankings.html",
+      "confidence": "high"
+    },
+    {
+      "claim": "Russia scorers Komlichenko 70' and 75', Aleksey Miranchuk 79'; Russia's own goal (Melyokhin) at 5' and Karimov 46' for Uzbekistan.",
+      "source_url": "https://en.wikipedia.org/wiki/Uzbekistan_national_football_team_results_(2020%E2%80%93present)",
+      "confidence": "high"
+    },
+    {
+      "claim": "Saudi Arabia 1-2 Uzbekistan in Doha on 17 Nov 2026; Esanov scored twice, Al-Buraikan once.",
+      "source_url": "https://www.vavel.com/en-us/soccer/2026/11/17/1279571-saudi-arabia-vs-uzbekistan-live-score-friendly.html",
+      "confidence": "high"
+    },
+    {
+      "claim": "Saudi defender Ali Lajami was sent off at 50'; Uzbekistan slowed down afterwards.",
+      "source_url": "https://www.vavel.com/en-us/soccer/2026/11/17/1279571-saudi-arabia-vs-uzbekistan-live-score-friendly.html",
+      "confidence": "high"
+    },
+    {
+      "claim": "Live FIFA ranking 59th after the Saudi win (+5.35 points).",
+      "source_url": "https://zamin.uz/en/sport/227468-uzbekistan-defeats-saudi-arabia-and-climbs-in-fifa-rankings.html",
+      "confidence": "high"
+    },
+    {
+      "claim": "Cannavaro (18 Nov) said he sometimes prefers equal numbers or even fewer men because players show more character and spirit, and that defenders must stop losing the ball in simple situations.",
+      "source_url": "https://zamin.uz/en/sport/227431-what-does-fabio-cannavaro-want-to-change-in-the-uzbekistan-national-team.html",
+      "confidence": "high"
+    },
+    {
+      "claim": "Cannavaro said the Russia defeat hurt morale.",
+      "source_url": "https://zamin.uz/en/sport/227431-what-does-fabio-cannavaro-want-to-change-in-the-uzbekistan-national-team.html",
+      "confidence": "high"
+    },
+    {
+      "claim": "On 5 Aug 2026 he said 'probably I am the only foolish coach in the world', denied a EUR 4m salary and said he pays assistants from his own pocket.",
+      "source_url": "https://kun.uz/ru/news/2026/08/06/navernoye-ya-yedinstvennyy-glupyy-trener-v-mire-kannavaro-na-press-konferensii",
+      "confidence": "high"
+    },
+    {
+      "claim": "Aug 2026: he said he would give younger players more chances and that the World Cup 'bonus' is over.",
+      "source_url": "https://timesca.com/uzbekistan-national-team-cannavaro-youth-overhaul/",
+      "confidence": "high"
+    },
+    {
+      "claim": "World Cup Group K: Uzbekistan lost 1-3 to Colombia (Fayzullaev 60'), 0-5 to Portugal and 1-3 to DR Congo; 0 points, 2 goals for, 11 against.",
+      "source_url": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_K",
+      "confidence": "high"
+    },
+    {
+      "claim": "Fayzullaev's goal was Uzbekistan's first-ever World Cup goal.",
+      "source_url": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_K",
+      "confidence": "high"
+    },
+    {
+      "claim": "Ronaldo scored twice (6', 39') in Portugal 5-0 Uzbekistan on 23 Jun 2026.",
+      "source_url": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_K",
+      "confidence": "high"
+    },
+    {
+      "claim": "Cannavaro told Ronaldo to keep playing a few more years and warned his players that giving Ronaldo a centimetre would be fatal.",
+      "source_url": "https://www.abola.pt/noticias/cannavaro-rende-se-a-portugal-e-a-ronaldo-se-lhe-das-um-centimetro-estas-morto-2026062320205971704",
+      "confidence": "high"
+    },
+    {
+      "claim": "Cannavaro laughed and called Ronaldo a goal magnet.",
+      "source_url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/cannavaro-revela-que-le-dijo-a-cristiano-ronaldo-tras-golear-a-su-equi-rcna351460",
+      "confidence": "high"
+    },
+    {
+      "claim": "Since the World Cup Uzbekistan have scored 11 and conceded 8 in five friendlies (3W 2L), computed from the five verified scorelines.",
+      "source_url": "https://zamin.uz/en/sport/227468-uzbekistan-defeats-saudi-arabia-and-climbs-in-fifa-rankings.html",
+      "confidence": "high"
+    },
+    {
+      "claim": "In 2006 Cannavaro captained Italy to the World Cup, played all 690 minutes, got no cards and Italy conceded two goals.",
+      "source_url": "https://en.wikipedia.org/wiki/Fabio_Cannavaro",
+      "confidence": "high"
+    },
+    {
+      "claim": "He won the 2006 Ballon d'Or, the third defender after Beckenbauer and Sammer.",
+      "source_url": "https://en.wikipedia.org/wiki/Fabio_Cannavaro",
+      "confidence": "high"
+    },
+    {
+      "claim": "He won the 2006 FIFA World Player of the Year award.",
+      "source_url": "https://en.wikipedia.org/wiki/Fabio_Cannavaro",
+      "confidence": "high"
+    },
+    {
+      "claim": "He won 136 caps and scored 2 goals for Italy (30 May 2004 vs Tunisia, 6 Feb 2008 vs Portugal); captain 2002-2010.",
+      "source_url": "https://en.wikipedia.org/wiki/Fabio_Cannavaro",
+      "confidence": "high"
+    },
+    {
+      "claim": "He is Italy's most-capped defender.",
+      "source_url": "https://en.wikipedia.org/wiki/Fabio_Cannavaro",
+      "confidence": "high"
+    },
+    {
+      "claim": "La Liga titles with Real Madrid in 2006-07 and 2007-08.",
+      "source_url": "https://en.wikipedia.org/wiki/Fabio_Cannavaro",
+      "confidence": "high"
+    },
+    {
+      "claim": "Juventus Serie A titles 2004-05 and 2005-06 are listed as revoked over Calciopoli; Juventus were relegated and he left for Real Madrid in summer 2006.",
+      "source_url": "https://en.wikipedia.org/wiki/Fabio_Cannavaro",
+      "confidence": "high"
+    },
+    {
+      "claim": "He won the Chinese Super League in 2019 with Guangzhou Evergrande and China League One in 2016 with Tianjin Quanjian.",
+      "source_url": "https://en.wikipedia.org/wiki/Fabio_Cannavaro",
+      "confidence": "high"
+    },
+    {
+      "claim": "Managerial record from Wikipedia table: Benevento 17 matches (3W 7D 7L, sacked 4 Feb 2023), Dinamo Zagreb 14 (7W 2D 5L, sacked 9 Apr 2025), Udinese 6 (2W 3D 1L, left after the 2023-24 survival), China PR 2 (0W 2L).",
+      "source_url": "https://en.wikipedia.org/wiki/Fabio_Cannavaro",
+      "confidence": "high"
+    },
+    {
+      "claim": "Uzbekistan record per Wikipedia at fetch time: 16 matches (6W 2D 8L); page may lag the latest games.",
+      "source_url": "https://en.wikipedia.org/wiki/Fabio_Cannavaro",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Gattuso joked about Cannavaro with a hair-gel reference and Cannavaro said he took it as a joke (15 Dec 2025).",
+      "source_url": "https://www.corrieredellosport.it/news/calcio/italia/2025/12/15-145275346/cannavaro_dice_tutto_dalluzbekistan_alla_battuta_sullitalia_e_il_gel_di_gattuso_ho_capito",
+      "confidence": "medium"
+    },
+    {
+      "claim": "In Dec 2025 he said he was never close to the Italy job.",
+      "source_url": "https://www.corrieredellosport.it/news/calcio/italia/2025/12/15-145275346/cannavaro_dice_tutto_dalluzbekistan_alla_battuta_sullitalia_e_il_gel_di_gattuso_ho_capito",
+      "confidence": "high"
+    },
+    {
+      "claim": "On 8 Oct 2009 he failed a drug test; Juventus said the drugs treated a severe allergic reaction to a wasp sting and CONI later dropped the charges.",
+      "source_url": "https://en.wikipedia.org/wiki/Fabio_Cannavaro",
+      "confidence": "high"
+    },
+    {
+      "claim": "Born 13 September 1973 in Naples.",
+      "source_url": "https://en.wikipedia.org/wiki/Fabio_Cannavaro",
+      "confidence": "high"
+    },
+    {
+      "claim": "Uzbekistan's national team is nicknamed 'White Wolves' (home-kit colour not verified).",
+      "source_url": "https://en.wikipedia.org/wiki/Uzbekistan_national_football_team",
+      "confidence": "high"
+    },
+    {
+      "claim": "YouTube links for viral moments are search URLs only; no specific video URL was verified.",
+      "source_url": "https://www.youtube.com",
+      "confidence": "low"
+    },
+    {
+      "claim": "On 6 Nov Cannavaro said his aim is to return to Italy and coach there (and the national team) rather than travel the world or move to Asia, while on 20 Oct an agency report said he looks for Liga MX/MLS work.",
+      "source_url": "https://sports.yahoo.com/articles/cannavaro-dream-coach-italy-national-182500536.html",
+      "confidence": "medium"
+    }
+  ],
+  "research_limits": "Adversarial re-check on 2026-11-20 (WebSearch budget was exhausted, so only direct fetches of cited URLs and Wikipedia were used). Daryo pages returned HTTP 403 and foxsports.com.mx did not resolve; Fox Sports text was read via a republication. Uzbekistan match details were cross-checked against Wikipedia's Uzbekistan results table. YouTube links are search URLs, not verified videos; Italy's own World Cup 2026 status was not checked. The Saudi match date is 17 Nov per Zamin and Wikipedia's list (one caption says 16 Nov).",
+  "verification": {
+    "checked": 81,
+    "corrected": 31,
+    "removed": 3,
+    "notes": "Checked all claims, recent_news items, 'now' fields and quick_context against the cited pages and Wikipedia (Cannavaro, Timur Kapadze, Uzbekistan national team, 2026 World Cup Group K, Uzbekistan results 2020-present). Main fixes: Syria own goal minute (90+2'), unsupported statements removed (Iran-match Cannavaro comments, Shomurodov on bench, 4-3-3 plan, 'three friendlies in a row', Saudi red card named and timed 50' Lajami), 18 Nov quote reworded, Fox Sports 'separate report' was the same article, Paolo Cannavaro item and the look claim removed as unverifiable, Uzbekistan kit colour unverified, retirement year 2011. Confirmed: current job (Uzbekistan since 6 Oct 2025, contract to Oct 2027), no club job, World Cup Group K 0 pts 2 GF 11 GA, five post-WC friendlies (3W 2L, 11-8), FIFA 59th, 136 caps, 2 goals, 2006 Ballon d'Or and third defender claim, La Liga 2006-07 and 2007-08, CSL 2019 and League One 2016, coaching record table. Counts of 'checked' are items in claims + recent_news + now + quick_context; 'corrected' counts edited items (some edits touch several fields). Unverified residue: Uzbekistan 16-match record (Wikipedia, may lag), YouTube search links, current look, Saudi match date nuance."
+  }
+}

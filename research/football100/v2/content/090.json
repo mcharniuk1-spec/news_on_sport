@@ -1,0 +1,688 @@
+{
+ "no": 90,
+ "style": "ACTION-ANIME",
+ "prop": "goal",
+ "cast": {
+  "striker": {
+   "role": "striker",
+   "number": "9",
+   "shirt": "#1f9d55",
+   "hair": "#e63946"
+  },
+  "chelle": {
+   "role": "coach",
+   "hair": "#1d3557",
+   "shirt": "#ff7b00"
+  },
+  "sub": {
+   "role": "striker",
+   "number": "11",
+   "shirt": "#1f9d55",
+   "hair": "#2b2b3a"
+  },
+  "fan": {
+   "role": "fan",
+   "shirt": "#ffd23f",
+   "hair": "#6b4a2a"
+  }
+ },
+ "sequences": {
+  "s01": {
+   "type": "HOOK",
+   "q": "Will Nigeria miss the next AFCON?",
+   "prop": "trophy",
+   "emote": "sweat",
+   "board": "scoreboard"
+  },
+  "s02": {
+   "type": "PROVOC",
+   "q": "Nigeria's away zero: unlucky or worrying?",
+   "a": "Unlucky",
+   "b": "Worrying",
+   "split": [
+    38,
+    62
+   ],
+   "mood": "shock"
+  },
+  "s03": {
+   "type": "COMIC",
+   "bg": "stadium",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "striker",
+       "x": 300,
+       "y": 1440,
+       "pose": "crouch",
+       "emote": "angry-cheeky",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "goal",
+       "x": 780,
+       "y": 1130,
+       "scale": 3.0
+      },
+      {
+       "kind": "ball",
+       "x": 480,
+       "y": 1400,
+       "scale": 1.1
+      }
+     ],
+     "fx": [
+      {
+       "kind": "speed",
+       "x": 300,
+       "y": 1000
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.52,
+     "actors": [
+      {
+       "id": "striker",
+       "x": 300,
+       "y": 1440,
+       "pose": "shock",
+       "emote": "shock",
+       "scale": 1.4
+      },
+      {
+       "id": "fan",
+       "x": 850,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "happy",
+       "scale": 1.2,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "goal",
+       "x": 640,
+       "y": 1350,
+       "scale": 1.2,
+       "face": "smug"
+      },
+      {
+       "kind": "ball",
+       "x": 480,
+       "y": 1400,
+       "scale": 1.1
+      }
+     ],
+     "cam": "push",
+     "sfx": {
+      "text": "POP",
+      "x": 640,
+      "y": 700,
+      "r": 110
+     }
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.52,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "striker",
+       "x": 300,
+       "y": 1440,
+       "pose": "facepalm",
+       "emote": "sweat",
+       "scale": 1.4
+      },
+      {
+       "id": "fan",
+       "x": 850,
+       "y": 1440,
+       "pose": "shock",
+       "emote": "shock",
+       "scale": 1.2,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "goal",
+       "x": 640,
+       "y": 1350,
+       "scale": 1.2,
+       "face": "smug"
+      },
+      {
+       "kind": "ball",
+       "x": 590,
+       "y": 1030,
+       "scale": 1.1,
+       "anim": "bounce"
+      }
+     ],
+     "bubble": {
+      "who": "fan",
+      "text": "!"
+     },
+     "sfx": {
+      "text": "BANG",
+      "x": 540,
+      "y": 470,
+      "r": 100
+     },
+     "fx": [
+      {
+       "kind": "sparkle",
+       "x": 660,
+       "y": 1330
+      }
+     ]
+    }
+   ]
+  },
+  "s04": {
+   "type": "STATS",
+   "items": [
+    {
+     "icon": "ticket",
+     "value": "1",
+     "label": "One ticket"
+    },
+    {
+     "icon": "scoreboard",
+     "value": "3-0",
+     "label": "Guinea-Bissau beat Nigeria"
+    },
+    {
+     "icon": "star",
+     "value": "7",
+     "label": "seven points"
+    }
+   ]
+  },
+  "s05": {
+   "type": "COMIC",
+   "bg": "dressing-room",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "chelle",
+       "x": 300,
+       "y": 1440,
+       "pose": "think",
+       "emote": "neutral",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "pitch-board",
+       "x": 760,
+       "y": 820,
+       "scale": 3.0
+      },
+      {
+       "kind": "tag",
+       "x": 590,
+       "y": 720,
+       "scale": 0.8,
+       "label": "Arokodare"
+      },
+      {
+       "kind": "tag",
+       "x": 920,
+       "y": 720,
+       "scale": 0.8,
+       "label": "Awoniyi"
+      },
+      {
+       "kind": "scoreboard",
+       "x": 250,
+       "y": 560,
+       "scale": 1.3,
+       "text": "7",
+       "face": "sweat"
+      },
+      {
+       "kind": "goal",
+       "x": 860,
+       "y": 1390,
+       "scale": 0.9,
+       "face": "neutral"
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.42,
+     "actors": [
+      {
+       "id": "chelle",
+       "x": 300,
+       "y": 1440,
+       "pose": "present",
+       "emote": "happy",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "pitch-board",
+       "x": 760,
+       "y": 820,
+       "scale": 3.0
+      },
+      {
+       "kind": "tag",
+       "x": 920,
+       "y": 720,
+       "scale": 0.8,
+       "label": "Arokodare"
+      },
+      {
+       "kind": "tag",
+       "x": 590,
+       "y": 720,
+       "scale": 0.8,
+       "label": "Awoniyi"
+      },
+      {
+       "kind": "scoreboard",
+       "x": 250,
+       "y": 560,
+       "scale": 1.3,
+       "text": "7",
+       "face": "sweat"
+      },
+      {
+       "kind": "goal",
+       "x": 860,
+       "y": 1390,
+       "scale": 0.9,
+       "face": "neutral"
+      }
+     ],
+     "cam": "push"
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.42,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "chelle",
+       "x": 300,
+       "y": 1440,
+       "pose": "present",
+       "emote": "shock",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "pitch-board",
+       "x": 760,
+       "y": 820,
+       "scale": 3.0
+      },
+      {
+       "kind": "tag",
+       "x": 590,
+       "y": 720,
+       "scale": 0.8,
+       "label": "Arokodare"
+      },
+      {
+       "kind": "tag",
+       "x": 920,
+       "y": 720,
+       "scale": 0.8,
+       "label": "Awoniyi"
+      },
+      {
+       "kind": "scoreboard",
+       "x": 250,
+       "y": 560,
+       "scale": 1.3,
+       "text": "7",
+       "face": "shock"
+      },
+      {
+       "kind": "goal",
+       "x": 860,
+       "y": 1390,
+       "scale": 0.9,
+       "face": "neutral"
+      }
+     ],
+     "sfx": {
+      "text": "WHOOSH",
+      "x": 560,
+      "y": 430,
+      "r": 90
+     }
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "chelle",
+       "x": 300,
+       "y": 1440,
+       "pose": "headscratch",
+       "emote": "sweat",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "pitch-board",
+       "x": 760,
+       "y": 820,
+       "scale": 3.0
+      },
+      {
+       "kind": "tag",
+       "x": 590,
+       "y": 720,
+       "scale": 0.8,
+       "label": "Arokodare"
+      },
+      {
+       "kind": "tag",
+       "x": 920,
+       "y": 720,
+       "scale": 0.8,
+       "label": "Awoniyi"
+      },
+      {
+       "kind": "scoreboard",
+       "x": 250,
+       "y": 560,
+       "scale": 1.3,
+       "text": "7",
+       "face": "sleepy"
+      },
+      {
+       "kind": "goal",
+       "x": 860,
+       "y": 1390,
+       "scale": 0.9,
+       "face": "sleepy"
+      },
+      {
+       "kind": "question",
+       "x": 760,
+       "y": 600,
+       "scale": 1.6,
+       "anim": "pop"
+      }
+     ],
+     "sfx": {
+      "text": "DING",
+      "x": 540,
+      "y": 440,
+      "r": 90
+     }
+    }
+   ]
+  },
+  "s06": {
+   "type": "NEWS",
+   "name": "Eric Chelle",
+   "fact": "Coach Eric Chelle made seven changes",
+   "ticker": "Seven changes",
+   "icons": [
+    "clipboard",
+    "boots",
+    "ball"
+   ],
+   "role": "coach"
+  },
+  "s07": {
+   "type": "COMIC",
+   "bg": "bench-area",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "sub",
+       "x": 300,
+       "y": 1440,
+       "pose": "sleep",
+       "emote": "sleepy",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "scoreboard",
+       "x": 700,
+       "y": 760,
+       "scale": 2.4,
+       "text": "0:0",
+       "face": "neutral"
+      },
+      {
+       "kind": "scoreboard",
+       "x": 940,
+       "y": 470,
+       "scale": 1.0,
+       "text": "4",
+       "anim": "pulse"
+      },
+      {
+       "kind": "ball",
+       "x": 560,
+       "y": 1400,
+       "scale": 1.1
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.42,
+     "actors": [
+      {
+       "id": "sub",
+       "x": 300,
+       "y": 1440,
+       "pose": "sleep",
+       "emote": "sleepy",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "scoreboard",
+       "x": 700,
+       "y": 760,
+       "scale": 2.4,
+       "text": "0:0",
+       "face": "neutral"
+      },
+      {
+       "kind": "scoreboard",
+       "x": 940,
+       "y": 470,
+       "scale": 1.0,
+       "text": "4",
+       "anim": "pulse"
+      },
+      {
+       "kind": "ball",
+       "x": 560,
+       "y": 1400,
+       "scale": 1.1
+      },
+      {
+       "kind": "goal",
+       "x": 800,
+       "y": 1260,
+       "scale": 1.7,
+       "anim": "pop",
+       "face": "happy"
+      }
+     ],
+     "cam": "push",
+     "sfx": {
+      "text": "POP",
+      "x": 430,
+      "y": 470,
+      "r": 100
+     }
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.42,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "sub",
+       "x": 300,
+       "y": 1440,
+       "pose": "sleep",
+       "emote": "sleepy",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "scoreboard",
+       "x": 700,
+       "y": 760,
+       "scale": 2.4,
+       "text": "4:0",
+       "face": "happy"
+      },
+      {
+       "kind": "scoreboard",
+       "x": 940,
+       "y": 470,
+       "scale": 1.0,
+       "text": "4",
+       "anim": "pulse"
+      },
+      {
+       "kind": "ball",
+       "x": 560,
+       "y": 1400,
+       "scale": 1.1
+      },
+      {
+       "kind": "goal",
+       "x": 800,
+       "y": 1260,
+       "scale": 1.7,
+       "face": "happy"
+      }
+     ],
+     "sfx": {
+      "text": "DING",
+      "x": 430,
+      "y": 470,
+      "r": 100
+     }
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "sub",
+       "x": 300,
+       "y": 1440,
+       "pose": "shock",
+       "emote": "shock",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "scoreboard",
+       "x": 700,
+       "y": 760,
+       "scale": 2.4,
+       "text": "0:0",
+       "face": "sad"
+      },
+      {
+       "kind": "scoreboard",
+       "x": 940,
+       "y": 470,
+       "scale": 1.0,
+       "text": "4",
+       "anim": "pulse"
+      },
+      {
+       "kind": "ball",
+       "x": 560,
+       "y": 1400,
+       "scale": 1.1
+      },
+      {
+       "kind": "goal",
+       "x": 800,
+       "y": 1260,
+       "scale": 1.7,
+       "face": "smug"
+      }
+     ],
+     "sfx": {
+      "text": "BANG",
+      "x": 430,
+      "y": 470,
+      "r": 100
+     }
+    }
+   ]
+  },
+  "s08": {
+   "type": "INTERVIEW",
+   "label": "REPORTER ASKS",
+   "bubble": "Can the strikers score?",
+   "answer": {
+    "icon": "speech-dots",
+    "gesture": "shrug"
+   },
+   "subject": "Eric Chelle"
+  }
+ }
+}

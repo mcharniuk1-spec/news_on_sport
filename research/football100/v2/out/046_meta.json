@@ -1,0 +1,118 @@
+{
+ "no": 46,
+ "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/046_crystal_palace_sack_pierre_sage_afte.mp4",
+ "total": 49.56666666666667,
+ "outro_start": 43.53,
+ "cover": true,
+ "seq": [
+  {
+   "id": "s01",
+   "kind": "HOOK",
+   "start": 0.1,
+   "end": 1.6,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/046/s01.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s02",
+   "kind": "COMIC1",
+   "start": 7.2,
+   "end": 9.466666666666667,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/046/s02.mp4",
+   "clip_dur": 2.267,
+   "frames": 54
+  },
+  {
+   "id": "s03",
+   "kind": "COMIC2",
+   "start": 10.466666666666667,
+   "end": 12.466666666666667,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/046/s03.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s04",
+   "kind": "NEWS",
+   "start": 14.866666666666667,
+   "end": 16.866666666666667,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/046/s04.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s05",
+   "kind": "INTERVIEW",
+   "start": 19.1,
+   "end": 21.1,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/046/s05.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s06",
+   "kind": "PROVOC",
+   "start": 25.1,
+   "end": 26.6,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/046/s06.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s07",
+   "kind": "COMIC3",
+   "start": 30.533333333333335,
+   "end": 32.53333333333333,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/046/s07.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s08",
+   "kind": "STATS",
+   "start": 40.1,
+   "end": 41.6,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/046/s08.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  }
+ ],
+ "missing": [],
+ "dropped": [],
+ "cards": [
+  {
+   "text": "Bottom, seven points",
+   "a": 4.166666666666667,
+   "b": 6.366666666666666
+  },
+  {
+   "text": "One win in Europe",
+   "a": 17.0,
+   "b": 18.666666666666668
+  },
+  {
+   "text": "Same hour, two sackings",
+   "a": 26.733333333333334,
+   "b": 28.6
+  },
+  {
+   "text": "Lowest net spend",
+   "a": 36.8,
+   "b": 39.0
+  }
+ ],
+ "caption_sprites": 149,
+ "whoosh": [
+  0.0,
+  7.1000000000000005,
+  10.366666666666667,
+  14.766666666666667,
+  19.0,
+  25.0,
+  30.433333333333334,
+  40.0,
+  43.43
+ ],
+ "shots": 14
+}

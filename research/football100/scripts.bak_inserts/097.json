@@ -1,0 +1,92 @@
+{
+ "no": 97,
+ "subject": "Fenerbahce come back twice to beat Liverpool 3-2 in the Champions League",
+ "title": "Liverpool led twice, lost in Istanbul",
+ "voice": "kokoro",
+ "comic": true,
+ "style": "peanuts_minimal",
+ "lines": [
+  {
+   "vo": "Liverpool led twice in Istanbul. They still lost.",
+   "card": "Led twice, lost",
+   "sfx": "record scratch",
+   "footage": "Fenerbahce vs Liverpool highlights, goal sequence"
+  },
+  {
+   "vo": "They arrived with a perfect start, including four-three against Villarreal. Not a calm perfect.",
+   "card": "Perfect start",
+   "sfx": null,
+   "footage": "Liverpool Champions League highlights, Villarreal game"
+  },
+  {
+   "vo": "Nyoni and Isak scored for Liverpool, and Liverpool led twice.",
+   "card": "Nyoni and Isak",
+   "sfx": null,
+   "footage": "Liverpool goal clips, Isak and Nyoni celebrations"
+  },
+  {
+   "vo": "Fenerbahce came back both times. Greenwood, Archie Brown and Vedat Muriqi scored.",
+   "card": "Back both times",
+   "sfx": null,
+   "footage": "goal clips from the match, scoreboard"
+  },
+  {
+   "vo": "Muriqi came off the bench and scored. A very productive bench.",
+   "card": "From the bench",
+   "sfx": "anime whoosh",
+   "footage": "substitute warm-up and goal clip"
+  },
+  {
+   "vo": "Three-two. Fenerbahce's first points of the competition.",
+   "card": "First points",
+   "sfx": "crowd roar",
+   "footage": "Fenerbahce celebration, Istanbul stadium"
+  },
+  {
+   "vo": "So, Liverpool's perfect start? Perfect until Istanbul.",
+   "card": "Perfect until Istanbul",
+   "sfx": null,
+   "footage": "Liverpool match b-roll, slow motion"
+  },
+  {
+   "vo": "Tap for the next story. News, betting tips and predictions at aboutfootball dot UK.",
+   "card": "aboutfootball dot UK",
+   "sfx": null,
+   "footage": "end card"
+  }
+ ],
+ "chars": 541,
+ "est_seconds": 30,
+ "footage_terms": [
+  "Fenerbahce 3-2 Liverpool highlights",
+  "Mason Greenwood goal Fenerbahce Liverpool",
+  "Vedat Muriqi winner Liverpool"
+ ],
+ "inserts": [
+  {
+   "after_line": 1,
+   "story": "Setup: a stick figure paints PERFECT on a wall. Gag: a rival figure rubs out a letter, then another, smiling each time. Twist: the first figure adds ISH, and the rival signs it.",
+   "characters": "Generic stick figures, wall and paint props",
+   "seconds": 3
+  },
+  {
+   "after_line": 3,
+   "story": "Setup: a stick figure keeps score on a flip board. Gag: the board flips forward, then back, then forward again, and he gets dizzy. Twist: he sits down and asks the bench to keep score.",
+   "characters": "Generic stick figure, scoreboard prop",
+   "seconds": 3
+  },
+  {
+   "after_line": 4,
+   "story": "Setup: a stick figure sits on the bench, bored, kicking a pebble. Gag: the coach waves him on. Twist: he scores with the pebble, then sits down again, bored.",
+   "characters": "Generic bench player caricature, pebble prop",
+   "seconds": 3
+  }
+ ],
+ "facts_used": [
+  "Fenerbahce won 3-2 in Istanbul; Greenwood, Archie Brown and substitute Muriqi scored; Nyoni and Isak scored for Liverpool, who led twice (news 414, espn.com)",
+  "The result ended Liverpool's perfect start in the competition and gave Fenerbahce their first points (news 414)",
+  "Liverpool had won their first league-phase games, including 4-3 against Villarreal on 20 October (news 414, background)"
+ ],
+ "comic_score": 7,
+ "notes": "Source: news 414 (ESPN, 2026-11-04). Mason Greenwood is named only as a scorer; no jokes about him, to respect the legal-troubles rule. The shot map differs from the scoreboard on scorers; the script uses the scoreboard and commentary version, as the data states. 'Winner' is not claimed. Nyoni and Isak scored for Liverpool, who led twice: no order of goals is claimed. Inserts are generic stick figures and a bench-player caricature, and carry no score claims. after_line is the 0-based index into lines[]."
+}

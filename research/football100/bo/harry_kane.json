@@ -1,0 +1,364 @@
+{
+  "name": "Harry Kane",
+  "years": "2026",
+  "recent_news": [
+    {
+      "date": "2026-11-20",
+      "headline": "Ballon d'Or winner Kane still hunting a Champions League title after losing the 2019 final",
+      "facts": [
+        "Kane says the Champions League is a major goal for him and Bayern this season, and he also wants a trophy with England.",
+        "He lost the 2019 Champions League final 2-0 with Tottenham to Liverpool; PSG knocked Bayern out of the competition last season.",
+        "ESPN reports he scored 61 goals for Bayern last season."
+      ],
+      "source_url": "https://www.espn.com/soccer/story/_/id/50540283/harry-kane-champions-league-bayern-munich-england",
+      "source_domain": "espn.com",
+      "tone": "neutral",
+      "sensitive": false
+    },
+    {
+      "date": "2026-11-19",
+      "headline": "Miroslav Klose has Nuernberg second in the 2. Bundesliga and praises Fuellkrug and Kane",
+      "facts": [
+        "Klose calls Harry Kane a role model for young players and says a team still needs a striker who scores.",
+        "Nuernberg are second in the 2. Bundesliga with 24 goals in ten games."
+      ],
+      "source_url": "https://www.bundesliga.com/de/2bundesliga/news/miroslav-klose-interview-1-fc-nurnberg-sturmer-legende-kane-39987",
+      "source_domain": "bundesliga.com",
+      "tone": "praise",
+      "sensitive": false
+    },
+    {
+      "date": "2026-11-13",
+      "headline": "ESPN's 10 Best list puts Yamal first, with reigning Ballon d'Or winner Kane only fifth",
+      "facts": [
+        "ESPN's Ryan O'Hanlon ranks Kane fifth, behind Yamal, Bellingham, Olise and Raphinha.",
+        "O'Hanlon says Kane is in a finishing slump but contributes more in build-up play than before."
+      ],
+      "source_url": "https://www.espn.com/soccer/story/_/id/50454088/10-best-ranking-top-soccer-players-november",
+      "source_domain": "espn.com",
+      "tone": "neutral",
+      "sensitive": false
+    },
+    {
+      "date": "2026-11-12",
+      "headline": "Patriots QB Drake Maye says Kane could be an NFL kicker after football",
+      "facts": [
+        "Maye says Kane's dead-ball skill and calm under pressure suit an NFL kicking job.",
+        "Kane said in September he would need six months to a year of serious training, and says Bayern come first."
+      ],
+      "source_url": "https://www.bundesliga.com/en/bundesliga/news/harry-kane-backed-by-new-england-patriots-quarterback-drake-maye-kicker-nfl-bayern-39985",
+      "source_domain": "bundesliga.com",
+      "tone": "praise",
+      "sensitive": false
+    },
+    {
+      "date": "2026-11-12",
+      "headline": "Kane becomes England's most-capped men's player with his 126th cap",
+      "facts": [
+        "Kane passed Peter Shilton's 125 caps, a record that stood for 36 years, in the Nations League match against Croatia at Wembley.",
+        "Shilton presented him with a plaque, and Prince William gave him a commemorative shirt."
+      ],
+      "source_url": "https://www.espn.com/soccer/story/_/id/50451241/harry-kane-england-caps-record-126-croatia",
+      "source_domain": "espn.com",
+      "tone": "praise",
+      "sensitive": false
+    },
+    {
+      "date": "2026-11-11",
+      "headline": "Kane thanks acupuncture doctor who revived his career before breaking England's caps record",
+      "facts": [
+        "Kane credits an acupuncture specialist he began working with in 2020, after a run of injuries, for reviving his career.",
+        "He was due to take sole ownership of the England caps record with his 126th cap against Croatia."
+      ],
+      "source_url": "https://www.espn.com/soccer/story/_/id/50453418/harry-kane-england-126th-cap-peter-shilton-record-break",
+      "source_domain": "espn.com",
+      "tone": "neutral",
+      "sensitive": true
+    },
+    {
+      "date": "2026-11-11",
+      "headline": "Southgate: Kane isn't a better player than two years ago, just more confident, after Ballon d'Or win",
+      "facts": [
+        "Gareth Southgate told ITV that Kane has not become a better player in two years, but his self-belief has grown.",
+        "Southgate says he told Kane after the 2024 final defeat that he would win the league with Bayern, which then happened."
+      ],
+      "source_url": "https://www.espn.com/soccer/story/_/id/50451808/harry-kane-england-gareth-southgate",
+      "source_domain": "espn.com",
+      "tone": "praise",
+      "sensitive": false
+    },
+    {
+      "date": "2026-11-09",
+      "headline": "Kane leads the Bundesliga in assists and matches his best season total",
+      "facts": [
+        "Kane has eight Bundesliga assists, the most in the league, matching his best-ever Bundesliga season total.",
+        "He made two assists in Bayern's 2-1 win at Mainz on 7 November."
+      ],
+      "source_url": "https://www.skysports.com/football/news/13607213/harry-kane-is-bayern-munichs-assist-king-barcelona-win-at-atletico-madrid-and-inter-close-gap-on-lazio-all-in-the-euro-debrief",
+      "source_domain": "skysports.com",
+      "tone": "praise",
+      "sensitive": false
+    },
+    {
+      "date": "2026-11-07",
+      "headline": "Kane sets up both goals in 2-1 win at Mainz but is stuck in a four-game goal drought",
+      "facts": [
+        "Kimmich and Lennart Karl scored for Bayern from Kane assists; Tietz scored for Mainz in stoppage time.",
+        "Sky says Kane has gone four games without a goal, which has happened only once before in his Bayern career."
+      ],
+      "source_url": "https://www.espn.com/soccer/report/_/gameId/401884740",
+      "source_domain": "espn.com",
+      "tone": "neutral",
+      "sensitive": false
+    },
+    {
+      "date": "2026-11-05",
+      "headline": "Kane signs a new Bayern contract to 2029, reportedly above £400,000 a week",
+      "facts": [
+        "Bayern announced on 5 November 2026 that Kane's contract now runs to summer 2029, extending the deal he signed in 2023.",
+        "ESPN reports weekly pay above £400,000, while Sky in Germany reports at least about €25m gross per year; the figures are reports, not confirmed by the club."
+      ],
+      "source_url": "https://www.espn.com/soccer/story/_/id/50216815/harry-kane-signs-new-bayern-munich-contract",
+      "source_domain": "espn.com",
+      "tone": "neutral",
+      "sensitive": false
+    },
+    {
+      "date": "2026-11-04",
+      "headline": "Kane wants his Ballon d'Or displayed in the Bayern museum",
+      "facts": [
+        "Kane told SportBILD he will ask Bayern about putting the Ballon d'Or in the club museum.",
+        "He is the first Englishman to win the award since Michael Owen in 2001."
+      ],
+      "source_url": "https://www.sportbible.com/football/football-news/harry-kane-surprising-plan-ballon-dor-trophy-877891-20261104",
+      "source_domain": "sportbible.com",
+      "tone": "praise",
+      "sensitive": false
+    },
+    {
+      "date": "2026-10-31",
+      "headline": "Kane parades Ballon d'Or, then misses a penalty as Dortmund snatch a 2-2 draw in Der Klassiker",
+      "facts": [
+        "Kane showed the Ballon d'Or to fans before kick-off; players from both teams applauded him.",
+        "He hit the crossbar with a 57th-minute penalty, and Dortmund equalised in the 89th minute to draw 2-2."
+      ],
+      "source_url": "https://www.skysports.com/football/bayern-vs-dortmund/report/563377",
+      "source_domain": "skysports.com",
+      "tone": "roast",
+      "sensitive": false
+    },
+    {
+      "date": "2026-10-30",
+      "headline": "Kane edges Mbappe for the 2026 Ballon d'Or by 28 points",
+      "facts": [
+        "Kane won with 1,055 points to Mbappe's 1,027, and had 40 first-place votes to Mbappe's 23.",
+        "L'Equipe ranked it the fourth-closest vote in the award's 70-year history."
+      ],
+      "source_url": "https://www.espn.com/soccer/story/_/id/50330001/2026-ballon-dor-results-men-full-women-votes-kane-mbappe",
+      "source_domain": "espn.com",
+      "tone": "praise",
+      "sensitive": false
+    },
+    {
+      "date": "2026-10-29",
+      "headline": "Kovac says Dortmund must stop Kane together before Bayern clash",
+      "facts": [
+        "Dortmund coach Niko Kovac calls Kane sensational and says he cannot be stopped one on one.",
+        "Dortmund had not beaten Bayern in their last five meetings."
+      ],
+      "source_url": "https://www.espn.com/soccer/story/_/id/50317977/borussia-dortmund-stop-bayern-munich-harry-kane-kovac",
+      "source_domain": "espn.com",
+      "tone": "praise",
+      "sensitive": false
+    },
+    {
+      "date": "2026-10-29",
+      "headline": "Kane's Munich homecoming: guard of honour, a golden schnitzel joke and a knighthood question",
+      "facts": [
+        "Kane received a guard of honour and fan chants at the Allianz Arena, though he did not play in the 6-1 cup win over Magdeburg.",
+        "Asked about a knighthood, he said he would not turn one down, though being called 'Sir' would feel odd."
+      ],
+      "source_url": "https://www.skysports.com/football/news/13605214/harry-kane-s-ballon-d-or-homecoming-with-bayern-munich-shows-why-germany-has-fallen-in-love-with-england-s-captain",
+      "source_domain": "skysports.com",
+      "tone": "neutral",
+      "sensitive": false
+    },
+    {
+      "date": "2026-10-27",
+      "headline": "Yamal's uncle slams Kane's Ballon d'Or win on Spanish radio",
+      "facts": [
+        "Yamal's uncle Abdul Abdellaoui called the result sad on El Larguero and said Yamal is the best player in the world.",
+        "He argued that voters held Yamal's age against him."
+      ],
+      "source_url": "https://www.sportbible.com/football/football-news/lamine-yamal-ballon-dor-harry-kane-uncle-rant-359761-20261027",
+      "source_domain": "sportbible.com",
+      "tone": "neutral",
+      "sensitive": false
+    },
+    {
+      "date": "2026-10-27",
+      "headline": "Kane gets a guard of honour at Bayern training the day after winning the Ballon d'Or",
+      "facts": [
+        "Bayern staff formed a guard of honour as Kane arrived for training on 27 October, and fans chanted his name.",
+        "ESPN says he is the first player at a German club to win the award since 1996."
+      ],
+      "source_url": "https://www.espn.com/soccer/story/_/id/50301097/harry-kane-ballon-dor-award-bayern-munich-welcome",
+      "source_domain": "espn.com",
+      "tone": "praise",
+      "sensitive": false
+    },
+    {
+      "date": "2026-10-26",
+      "headline": "Harry Kane wins the 2026 Ballon d'Or at the London Palladium",
+      "facts": [
+        "The men's award was presented at the London Palladium on 26 October 2026; Alexia Putellas won the women's award.",
+        "Wikipedia's 2026 Ballon d'Or page lists Kane first, Kylian Mbappe second (1,027 points) and Lamine Yamal third (881 points)."
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/2026_Ballon_d%27Or",
+      "source_domain": "en.wikipedia.org",
+      "tone": "praise",
+      "sensitive": false
+    },
+    {
+      "date": "2026-10-06",
+      "headline": "Kane equals Shilton's England appearance record in a 3-0 win over Czechia",
+      "facts": [
+        "Kane reached 125 caps, level with Peter Shilton, scoring twice and adding an assist in the 3-0 home win over Czechia.",
+        "He has played in all but one of England's last 101 competitive matches."
+      ],
+      "source_url": "https://www.skysports.com/football/news/13595959/harry-kane-breaks-england-appearance-record-but-can-he-take-that-final-step-to-complete-his-career",
+      "source_domain": "skysports.com",
+      "tone": "praise",
+      "sensitive": false
+    }
+  ],
+  "now": "Kane, 33, is a striker and deep-lying playmaker for Bayern Munich and captains England. As of 20 November 2026 he is the reigning Ballon d'Or winner, leads the Bundesliga in assists, and is still chasing his first Champions League title with Bayern. Preview coverage lists him in Bayern's predicted lineup against FC Cologne; the match date and result were not verified in this run.",
+  "quick_context": "Harry Kane won the men's 2026 Ballon d'Or in London on 26 October 2026, ahead of Kylian Mbappe by 1,055 points to 1,027. He is England's most-capped men's player with 126 caps, having passed Peter Shilton on 12 November 2026. He has said the Champions League is his main goal with Bayern, and he has never won a major international trophy with England.",
+  "roast_past": [
+    "He lost the 2019 Champions League final 2-0 with Tottenham to Liverpool, and he is still hunting that trophy.",
+    "He lost the Euro 2020 final (played in 2021) and the Euro 2024 final with England under Gareth Southgate.",
+    "When Bayern signed him from Tottenham in 2023 for a reported 120 million euros, Uli Hoeness first called the fee crazy, and later said he would have paid 150 million.",
+    "Asked about a knighthood in Munich, he said he would not turn one down, though being called 'Sir' would feel odd."
+  ],
+  "roast_now": [
+    "He hit the crossbar with a second-half penalty in the 2-2 draw with Dortmund on 31 October, a week after winning the Ballon d'Or.",
+    "He went four games without a goal in October and November, a drought Sky says had happened only once before in his Bayern career.",
+    "ESPN's November top-10 list put him fifth, behind Yamal, Bellingham, Olise and Raphinha.",
+    "He has said he might switch to NFL kicking, but he would need six months to a year of training and says Bayern come first."
+  ],
+  "praise": [
+    "He won the 2026 Ballon d'Or with 1,055 points and 40 first-place votes, against Mbappe's 1,027 points and 23 first-place votes.",
+    "He has 156 goals in 161 games for Bayern since joining in 2023.",
+    "He is England's most-capped men's player with 126 caps, passing Peter Shilton's 125.",
+    "He has eight Bundesliga assists this season, the most in the league.",
+    "Southgate says Kane has more belief now, not more ability, than two years ago."
+  ],
+  "no_joke_topics": [
+    "doping",
+    "health and medical treatment, including the acupuncture story",
+    "injuries and the 2020 injury run",
+    "war",
+    "family and children",
+    "legal matters"
+  ],
+  "viral_moments": [
+    {
+      "moment": "Kane parades the Ballon d'Or before Der Klassiker, then hits the crossbar with a penalty",
+      "date": "2026-10-31",
+      "source_url": "https://www.skysports.com/football/bayern-vs-dortmund/report/563377"
+    },
+    {
+      "moment": "Patriots QB Drake Maye suggests Kane could be an NFL kicker",
+      "date": "2026-11-12",
+      "source_url": "https://www.bundesliga.com/en/bundesliga/news/harry-kane-backed-by-new-england-patriots-quarterback-drake-maye-kicker-nfl-bayern-39985"
+    },
+    {
+      "moment": "Bayern staff give Kane a guard of honour at training",
+      "date": "2026-10-27",
+      "source_url": "https://www.espn.com/soccer/story/_/id/50301097/harry-kane-ballon-dor-award-bayern-munich-welcome"
+    },
+    {
+      "moment": "Yamal's uncle criticises the result on Spanish radio",
+      "date": "2026-10-27",
+      "source_url": "https://www.sportbible.com/football/football-news/lamine-yamal-ballon-dor-harry-kane-uncle-rant-359761-20261027"
+    }
+  ],
+  "viral_moments_note": "Four items from the news database with viral angle. Not checked for view counts.",
+  "footage_terms": [
+    "Harry Kane Ballon d'Or ceremony London Palladium 2026",
+    "Bayern Dortmund 2-2 highlights Kane penalty miss",
+    "Kane 126th cap England record Croatia Wembley",
+    "Mainz Bayern 2-1 highlights Kane assists",
+    "Harry Kane Bayern goals compilation",
+    "Harry Kane guard of honour Bayern training",
+    "Harry Kane Tottenham best goals",
+    "Kane Ballon d'Or speech"
+  ],
+  "flipbook_ideas": [
+    "Kane lines up a penalty; the ball bounces off a cartoon crossbar with a boing, and the referee shrugs.",
+    "Kane sprints toward a Ballon d'Or trophy that is taller than he is, then lifts it over his head.",
+    "Kane takes a football from midfield and kicks it through the goalposts as a stadium announcer says 'NFL call-up'.",
+    "A golden schnitzel appears on the Allianz Arena pitch, and Kane looks at it as if it were a trophy."
+  ],
+  "image_reference_notes": "No image files were verified in this run. Use only original or licensed artwork, not photos. Cues from the sources: Bayern red and white kit, England white kit with the captain's armband, the Ballon d'Or trophy, and the Allianz Arena. Do not depict health or family details.",
+  "claims": [
+    {"claim": "Kane says the Champions League is a major goal for him and Bayern, and he also wants a trophy with England.", "source_url": "https://www.espn.com/soccer/story/_/id/50540283/harry-kane-champions-league-bayern-munich-england", "confidence": "high"},
+    {"claim": "Kane lost the 2019 Champions League final 2-0 with Tottenham to Liverpool.", "source_url": "https://www.espn.com/soccer/story/_/id/50540283/harry-kane-champions-league-bayern-munich-england", "confidence": "high"},
+    {"claim": "Kane scored 61 goals for Bayern last season, and PSG knocked Bayern out of the Champions League.", "source_url": "https://www.espn.com/soccer/story/_/id/50540283/harry-kane-champions-league-bayern-munich-england", "confidence": "medium"},
+    {"claim": "Klose calls Kane a role model for young players and says a team still needs a scoring striker.", "source_url": "https://www.bundesliga.com/de/2bundesliga/news/miroslav-klose-interview-1-fc-nurnberg-sturmer-legende-kane-39987", "confidence": "medium"},
+    {"claim": "Nuernberg are second in the 2. Bundesliga with 24 goals in ten games.", "source_url": "https://www.bundesliga.com/de/2bundesliga/news/miroslav-klose-interview-1-fc-nurnberg-sturmer-legende-kane-39987", "confidence": "medium"},
+    {"claim": "ESPN ranks Kane fifth on its November top-10 list, behind Yamal, Bellingham, Olise and Raphinha.", "source_url": "https://www.espn.com/soccer/story/_/id/50454088/10-best-ranking-top-soccer-players-november", "confidence": "high"},
+    {"claim": "O'Hanlon says Kane is in a finishing slump but contributes more in build-up play.", "source_url": "https://www.espn.com/soccer/story/_/id/50454088/10-best-ranking-top-soccer-players-november", "confidence": "medium"},
+    {"claim": "Drake Maye says Kane's dead-ball skill and calm under pressure suit an NFL kicking job.", "source_url": "https://www.bundesliga.com/en/bundesliga/news/harry-kane-backed-by-new-england-patriots-quarterback-drake-maye-kicker-nfl-bayern-39985", "confidence": "high"},
+    {"claim": "Kane said in September he would need six months to a year of serious training for NFL kicking, and says Bayern come first.", "source_url": "https://www.bundesliga.com/en/bundesliga/news/harry-kane-backed-by-new-england-patriots-quarterback-drake-maye-kicker-nfl-bayern-39985", "confidence": "medium"},
+    {"claim": "Kane passed Peter Shilton's 125 England caps on 12 November 2026 against Croatia at Wembley, in the Nations League.", "source_url": "https://www.espn.com/soccer/story/_/id/50451241/harry-kane-england-caps-record-126-croatia", "confidence": "high"},
+    {"claim": "Shilton presented Kane with a plaque, and Prince William gave him a commemorative shirt.", "source_url": "https://www.espn.com/soccer/story/_/id/50451241/harry-kane-england-caps-record-126-croatia", "confidence": "high"},
+    {"claim": "Kane credits an acupuncture specialist, whom he began working with in 2020 after a run of injuries, for reviving his career.", "source_url": "https://www.espn.com/soccer/story/_/id/50453418/harry-kane-england-126th-cap-peter-shilton-record-break", "confidence": "high"},
+    {"claim": "Kane was due to take sole ownership of the England caps record with his 126th cap against Croatia.", "source_url": "https://www.espn.com/soccer/story/_/id/50453418/harry-kane-england-126th-cap-peter-shilton-record-break", "confidence": "medium"},
+    {"claim": "Southgate told ITV that Kane has not become a better player in two years, but his self-belief has grown.", "source_url": "https://www.espn.com/soccer/story/_/id/50451808/harry-kane-england-gareth-southgate", "confidence": "high"},
+    {"claim": "Southgate says he told Kane after the 2024 final defeat that he would win the league with Bayern, which then happened.", "source_url": "https://www.espn.com/soccer/story/_/id/50451808/harry-kane-england-gareth-southgate", "confidence": "medium"},
+    {"claim": "Kane has eight Bundesliga assists, the most in the league, matching his best-ever Bundesliga season total.", "source_url": "https://www.skysports.com/football/news/13607213/harry-kane-is-bayern-munichs-assist-king-barcelona-win-at-atletico-madrid-and-inter-close-gap-on-lazio-all-in-the-euro-debrief", "confidence": "high"},
+    {"claim": "Kane made two assists in Bayern's 2-1 win at Mainz on 7 November 2026.", "source_url": "https://www.espn.com/soccer/report/_/gameId/401884740", "confidence": "high"},
+    {"claim": "Kimmich and Lennart Karl scored for Bayern from Kane assists; Tietz scored for Mainz in stoppage time.", "source_url": "https://www.espn.com/soccer/report/_/gameId/401884740", "confidence": "high"},
+    {"claim": "Sky says Kane has gone four games without a goal, which has happened only once before in his Bayern career.", "source_url": "https://www.espn.com/soccer/report/_/gameId/401884740", "confidence": "medium"},
+    {"claim": "Bayern announced on 5 November 2026 that Kane's contract runs to summer 2029.", "source_url": "https://www.espn.com/soccer/story/_/id/50216815/harry-kane-signs-new-bayern-munich-contract", "confidence": "high"},
+    {"claim": "Bayern's official site reports Kane's contract runs until 30 June 2029, as seen in a search summary; the page itself could not be fetched in this run.", "source_url": "https://fcbayern.com/en/news/2026/11/harry-kane-extends-with-fc-bayern-until-2029", "confidence": "medium"},
+    {"claim": "ESPN reports Kane's weekly pay above £400,000; Sky in Germany reports at least about €25m gross per year. These are reported figures, not confirmed by the club.", "source_url": "https://www.espn.com/soccer/story/_/id/50216815/harry-kane-signs-new-bayern-munich-contract", "confidence": "low"},
+    {"claim": "Kane told SportBILD he will ask Bayern about putting the Ballon d'Or in the club museum.", "source_url": "https://www.sportbible.com/football/football-news/harry-kane-surprising-plan-ballon-dor-trophy-877891-20261104", "confidence": "high"},
+    {"claim": "Kane is the first Englishman to win the Ballon d'Or since Michael Owen in 2001.", "source_url": "https://www.sportbible.com/football/football-news/harry-kane-surprising-plan-ballon-dor-trophy-877891-20261104", "confidence": "high"},
+    {"claim": "Kane showed the Ballon d'Or to fans before the Bayern vs Dortmund match, and players from both teams applauded him.", "source_url": "https://www.skysports.com/football/bayern-vs-dortmund/report/563377", "confidence": "high"},
+    {"claim": "Kane hit the crossbar with a 57th-minute penalty, and Dortmund drew 2-2 after an 89th-minute equaliser by Fabio Silva.", "source_url": "https://www.skysports.com/football/bayern-vs-dortmund/report/563377", "confidence": "high"},
+    {"claim": "Kane won the 2026 Ballon d'Or with 1,055 points to Mbappe's 1,027, and had 40 first-place votes to Mbappe's 23.", "source_url": "https://www.espn.com/soccer/story/_/id/50330001/2026-ballon-dor-results-men-full-women-votes-kane-mbappe", "confidence": "high"},
+    {"claim": "L'Equipe ranked the Kane vote as the fourth-closest in the award's 70-year history.", "source_url": "https://www.espn.com/soccer/story/_/id/50330001/2026-ballon-dor-results-men-full-women-votes-kane-mbappe", "confidence": "medium"},
+    {"claim": "Dortmund coach Niko Kovac calls Kane sensational and says he cannot be stopped one on one.", "source_url": "https://www.espn.com/soccer/story/_/id/50317977/borussia-dortmund-stop-bayern-munich-harry-kane-kovac", "confidence": "high"},
+    {"claim": "Dortmund had not beaten Bayern in their last five meetings before the Klassiker.", "source_url": "https://www.espn.com/soccer/story/_/id/50317977/borussia-dortmund-stop-bayern-munich-harry-kane-kovac", "confidence": "medium"},
+    {"claim": "Kane received a guard of honour and fan chants at the Allianz Arena, though he did not play in the 6-1 cup win over Magdeburg.", "source_url": "https://www.skysports.com/football/news/13605214/harry-kane-s-ballon-d-or-homecoming-with-bayern-munich-shows-why-germany-has-fallen-in-love-with-england-s-captain", "confidence": "high"},
+    {"claim": "Asked about a knighthood, Kane said he would not turn one down, though being called 'Sir' would feel odd.", "source_url": "https://www.skysports.com/football/news/13605214/harry-kane-s-ballon-d-or-homecoming-with-bayern-munich-shows-why-germany-has-fallen-in-love-with-england-s-captain", "confidence": "high"},
+    {"claim": "Yamal's uncle Abdul Abdellaoui called the result sad on El Larguero and argued voters held Yamal's age against him.", "source_url": "https://www.sportbible.com/football/football-news/lamine-yamal-ballon-dor-harry-kane-uncle-rant-359761-20261027", "confidence": "high"},
+    {"claim": "Bayern staff formed a guard of honour as Kane arrived for training on 27 October 2026, and fans chanted his name.", "source_url": "https://www.espn.com/soccer/story/_/id/50301097/harry-kane-ballon-dor-award-bayern-munich-welcome", "confidence": "high"},
+    {"claim": "ESPN says Kane is the first player at a German club to win the Ballon d'Or since 1996.", "source_url": "https://www.espn.com/soccer/story/_/id/50301097/harry-kane-ballon-dor-award-bayern-munich-welcome", "confidence": "medium"},
+    {"claim": "The men's 2026 Ballon d'Or was presented on 26 October 2026 at the London Palladium, with Kane winning, Mbappe second and Yamal third.", "source_url": "https://en.wikipedia.org/wiki/2026_Ballon_d%27Or", "confidence": "high"},
+    {"claim": "Alexia Putellas won the women's 2026 Ballon d'Or on the same night.", "source_url": "https://www.espn.com/soccer/story/_/id/50298520/arsenal-alessia-russo-harry-kane-alexia-putellas-ballon-dor", "confidence": "high"},
+    {"claim": "Kane reached 125 England caps, level with Shilton, in the 3-0 home win over Czechia on 6 October 2026, scoring twice.", "source_url": "https://www.skysports.com/football/news/13595959/harry-kane-breaks-england-appearance-record-but-can-he-take-that-final-step-to-complete-his-career", "confidence": "high"},
+    {"claim": "Kane has played in all but one of England's last 101 competitive matches.", "source_url": "https://www.skysports.com/football/news/13595959/harry-kane-breaks-england-appearance-record-but-can-he-take-that-final-step-to-complete-his-career", "confidence": "medium"},
+    {"claim": "Kane has 91 England goals and is England's all-time top scorer.", "source_url": "https://www.espn.com/soccer/story/_/id/50442704/harry-kane-ballon-dor-england-tottenham-hotspur-bayern-munich", "confidence": "medium"},
+    {"claim": "Kane has 156 goals in 161 games for Bayern since a reported 120 million euro move in August 2023.", "source_url": "https://www.espn.com/soccer/story/_/id/50442704/harry-kane-ballon-dor-england-tottenham-hotspur-bayern-munich", "confidence": "high"},
+    {"claim": "Kane captained England to third place at the 2026 World Cup, their best finish since 1966, with six goals in seven games.", "source_url": "https://www.espn.com/soccer/story/_/id/50540283/harry-kane-champions-league-bayern-munich-england", "confidence": "medium"},
+    {"claim": "Kane's Bayern contract was extended in the context of his Ballon d'Or win; he has said he wants more titles.", "source_url": "https://www.espn.com/soccer/story/_/id/50216815/harry-kane-signs-new-bayern-munich-contract", "confidence": "medium"},
+    {"claim": "Kane is England's captain, per Sky Sports coverage of his 2029 contract extension.", "source_url": "https://www.skysports.com/football/news/13608255/harry-kane-england-captain-signs-new-contract-at-bayern-munich-running-until-2029", "confidence": "high"},
+    {"claim": "A Bayern vs FC Cologne match is in preview coverage with Kane in the predicted lineup; the date and result were not verified.", "source_url": "https://espn.com/soccer/story/_/id/50518869/bayern-munich-vs-fc-cologne-tv-channel-how-watch-uk-kickoff-live-stream-team-news-referee-predicted-lineups", "confidence": "low"}
+  ],
+  "research_notes": "Built from the football100 news DB (ids 321, 128, 535, 373, 349, 351, 542, 347, 469, 370, 421, 553, 102, 366, 17, 674, 508, 799, 311, 532, 242, 247, 751, 536, 529, 81, 15) and four extra queries (Bayern, Ballon, Kopa, England). fdb.py get news fails on most rows (JSON decode of facts), so records were read directly from the SQLite file with the project's own zstd helpers. Web: Wikipedia 2026 Ballon d'Or page (fetched, first 100000 characters). Bayern and BBC/Guardian searches: the BBC and Guardian domains are not reachable from this agent, and FC Bayern page fetches timed out, so the Bayern contract and digital-records details come from a search summary only.",
+  "verification": {
+    "json_checked": true,
+    "recent_news_count": 19,
+    "gaps": [
+      "Bayern vs FC Cologne match date and result not verified.",
+      "Contract length is reported differently by Sky (two-and-a-half or three years) and by Bayern's site summary (30 June 2029).",
+      "Salary figures are reports, not confirmed by the club.",
+      "FC Bayern official pages could not be fetched (timeouts).",
+      "BBC and Guardian are not accessible from this agent.",
+      "Image references are text descriptions only; no image files were verified."
+    ]
+  }
+}

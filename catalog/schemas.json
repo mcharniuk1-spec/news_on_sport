@@ -1,0 +1,2633 @@
+{
+  "models": [
+    {
+      "endpoint_id": "minimax/h3-max/recast",
+      "display_name": "H3 Max Recast",
+      "category": "video-to-video",
+      "description": "Recast the people in a video using reference photos with H3 Max, while preserving the source motion, camera, cuts, and audio.",
+      "input_params": [
+        {
+          "name": "enable_safety_checker",
+          "type": "boolean",
+          "description": "Authorized callers may set false to request relaxed screening.",
+          "required": false,
+          "default": true
+        },
+        {
+          "name": "reference_image_urls",
+          "type": "array<string>",
+          "description": "One photo per new person. By default they replace the main people in the video from left to right, each in every shot they appear in.",
+          "required": true
+        },
+        {
+          "name": "enhance_realism",
+          "type": "boolean",
+          "description": "More natural skin textures and better blending of the new people into the scene. Off unless set.",
+          "required": false,
+          "default": false
+        },
+        {
+          "name": "seed",
+          "type": "integer | null",
+          "description": "Random seed. Leave empty for a random one.",
+          "required": false
+        },
+        {
+          "name": "resolution",
+          "type": "string",
+          "required": false,
+          "default": "1080P",
+          "enum": [
+            "768P",
+            "1080P"
+          ]
+        },
+        {
+          "name": "video_url",
+          "type": "string",
+          "description": "The source video, 5 to 30 seconds long, with no single shot longer than 15 seconds.",
+          "required": true
+        },
+        {
+          "name": "prompt",
+          "type": "string | null",
+          "description": "Optional: who becomes whom, or what else to keep or change.",
+          "required": false
+        }
+      ],
+      "output_fields": [
+        {
+          "name": "video",
+          "type": "object",
+          "description": "The recast video, with the source sound.",
+          "required": true
+        },
+        {
+          "name": "seed",
+          "type": "integer",
+          "description": "The seed used.",
+          "required": true
+        }
+      ],
+      "input_schema": {
+        "type": "object",
+        "title": "RecastInput",
+        "x-fal-order-properties": [
+          "video_url",
+          "reference_image_urls",
+          "prompt",
+          "resolution",
+          "seed",
+          "enhance_realism",
+          "enable_safety_checker"
+        ],
+        "required": [
+          "video_url",
+          "reference_image_urls"
+        ],
+        "properties": {
+          "enable_safety_checker": {
+            "type": "boolean",
+            "title": "Enable Safety Checker",
+            "default": true,
+            "description": "Authorized callers may set false to request relaxed screening."
+          },
+          "reference_image_urls": {
+            "examples": [
+              [
+                "https://v3b.fal.media/files/b/0aac8d26/HVno2j68vj7tkAwGo3Qii_Nolan%203.jpg"
+              ]
+            ],
+            "description": "One photo per new person. By default they replace the main people in the video from left to right, each in every shot they appear in.",
+            "type": "array",
+            "title": "Reference Image URLs",
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "maxItems": 4
+          },
+          "enhance_realism": {
+            "type": "boolean",
+            "title": "Enhance Realism",
+            "default": false,
+            "examples": [
+              true
+            ],
+            "description": "More natural skin textures and better blending of the new people into the scene. Off unless set."
+          },
+          "seed": {
+            "title": "Seed",
+            "anyOf": [
+              {
+                "type": "integer",
+                "minimum": 0
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "description": "Random seed. Leave empty for a random one."
+          },
+          "resolution": {
+            "enum": [
+              "768P",
+              "1080P"
+            ],
+            "title": "Resolution",
+            "type": "string",
+            "default": "1080P"
+          },
+          "video_url": {
+            "type": "string",
+            "title": "Video URL",
+            "examples": [
+              "https://v3b.fal.media/files/b/0aac8cc6/lOHY4Mitfg5x1UDerR3RB_dw9Hs7ChHU-Fqwzz0W9cq_video.mp4"
+            ],
+            "description": "The source video, 5 to 30 seconds long, with no single shot longer than 15 seconds."
+          },
+          "prompt": {
+            "title": "Prompt",
+            "anyOf": [
+              {
+                "type": "string",
+                "maxLength": 2000
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "description": "Optional: who becomes whom, or what else to keep or change."
+          }
+        }
+      },
+      "openapi_version": "3.1.0"
+    },
+    {
+      "endpoint_id": "minimax/h3-max/image-to-video",
+      "display_name": "H3 Max Image to Video",
+      "category": "image-to-video",
+      "description": "fal's H3 Max is a post-trained variant of MiniMax H3, tuned for stronger prompt adherence and better aesthetics while co-optimized with our custom inference stack for higher throughput with no compromises on output quality",
+      "input_params": [
+        {
+          "name": "resolution",
+          "type": "string",
+          "description": "The native generation resolution, or 1080P latent refinement from a native 768P source.",
+          "required": false,
+          "default": "768P",
+          "enum": [
+            "480P",
+            "768P",
+            "1080P"
+          ]
+        },
+        {
+          "name": "end_image_url",
+          "type": "string | null",
+          "description": "Optional URL of the image to use as the last frame. It may be provided alone for end-only keyframe generation; in that case the output canvas follows this image.",
+          "required": false
+        },
+        {
+          "name": "prompt_expansion_mode",
+          "type": "string",
+          "description": "How much effort to spend rewriting the prompt before generation. 'disabled' skips prompt expansion. 'balanced' returns in about a second. 'quality' spends up to ~30s on a richer prompt.",
+          "required": true,
+          "default": "balanced"
+        },
+        {
+          "name": "image_url",
+          "type": "string | null",
+          "description": "Optional URL of the image to use as the first frame. When provided, the output canvas follows this image. If only end_image_url is provided, the canvas follows that last frame instead. If both images are omitted, the request is handled as text-to-video (16:9 by default).",
+          "required": false
+        },
+        {
+          "name": "enable_safety_checker",
+          "type": "boolean",
+          "description": "If set to true, the safety checker will be enabled.",
+          "required": false,
+          "default": true
+        },
+        {
+          "name": "prompt",
+          "type": "string",
+          "description": "Text prompt for video generation",
+          "required": true
+        },
+        {
+          "name": "sync_mode",
+          "type": "boolean",
+          "description": "Return the generated video as base64 instead of a CDN URL.",
+          "required": false,
+          "default": false
+        },
+        {
+          "name": "duration",
+          "type": "number",
+          "description": "Video length in seconds. The output can run up to about 0.7 s longer than requested. Use at least 2 s with target_audio_url.",
+          "required": false,
+          "default": 5
+        },
+        {
+          "name": "target_audio_url",
+          "type": "string | null",
+          "description": "Optional URL of an audio clip at least 2 seconds long (maximum 15 MB) to pin to the generated soundtrack. Longer clips are trimmed to the generated video's length, keeping the beginning. The original audio replaces the output soundtrack, padded with silence if shorter than the video, without changing playback speed. Exceptionally high sample rates may be resampled to 96 kHz. Accepts an HTTP(S) URL or a base64 data URI.",
+          "required": false
+        },
+        {
+          "name": "seed",
+          "type": "integer | null",
+          "description": "Random seed. A random seed is selected when omitted.",
+          "required": false
+        }
+      ],
+      "output_fields": [
+        {
+          "name": "timings",
+          "type": "object | null",
+          "description": "Timing breakdown in seconds. 'inference' is the DiT denoising time on the GPU backend. Null on routes that do not report backend timings.",
+          "required": false
+        },
+        {
+          "name": "expanded_prompt",
+          "type": "string | null",
+          "description": "The prompt after expansion, as sent to the model. Null when prompt expansion was disabled, left the prompt unchanged, or was performed internally by MiniMax's hosted API.",
+          "required": false
+        },
+        {
+          "name": "video",
+          "type": "object",
+          "description": "The generated video",
+          "required": true
+        }
+      ],
+      "input_schema": {
+        "properties": {
+          "resolution": {
+            "title": "Resolution",
+            "default": "768P",
+            "description": "The native generation resolution, or 1080P latent refinement from a native 768P source.",
+            "type": "string",
+            "enum": [
+              "480P",
+              "768P",
+              "1080P"
+            ]
+          },
+          "end_image_url": {
+            "title": "End Image URL",
+            "description": "Optional URL of the image to use as the last frame. It may be provided alone for end-only keyframe generation; in that case the output canvas follows this image.",
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "prompt_expansion_mode": {
+            "title": "Prompt Expansion Mode",
+            "examples": [
+              "disabled",
+              "balanced",
+              "quality"
+            ],
+            "description": "How much effort to spend rewriting the prompt before generation. 'disabled' skips prompt expansion. 'balanced' returns in about a second. 'quality' spends up to ~30s on a richer prompt.",
+            "type": "string",
+            "default": "balanced"
+          },
+          "image_url": {
+            "title": "Image URL",
+            "examples": [
+              "https://storage.googleapis.com/falserverless/example_inputs/hailuo23/pro_i2v_in.jpg"
+            ],
+            "description": "Optional URL of the image to use as the first frame. When provided, the output canvas follows this image. If only end_image_url is provided, the canvas follows that last frame instead. If both images are omitted, the request is handled as text-to-video (16:9 by default).",
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "enable_safety_checker": {
+            "title": "Enable Safety Checker",
+            "default": true,
+            "description": "If set to true, the safety checker will be enabled.",
+            "type": "boolean"
+          },
+          "prompt": {
+            "title": "Prompt",
+            "examples": [
+              "The camera slowly pulls back from the scene, revealing the full landscape as clouds drift overhead and light shifts across the terrain."
+            ],
+            "minLength": 1,
+            "type": "string",
+            "maxLength": 50000,
+            "description": "Text prompt for video generation"
+          },
+          "sync_mode": {
+            "title": "Sync Mode",
+            "default": false,
+            "description": "Return the generated video as base64 instead of a CDN URL.",
+            "type": "boolean"
+          },
+          "duration": {
+            "maximum": 15,
+            "title": "Duration",
+            "minimum": 0.92,
+            "description": "Video length in seconds. The output can run up to about 0.7 s longer than requested. Use at least 2 s with target_audio_url.",
+            "type": "number",
+            "default": 5
+          },
+          "target_audio_url": {
+            "title": "Target Audio URL",
+            "description": "Optional URL of an audio clip at least 2 seconds long (maximum 15 MB) to pin to the generated soundtrack. Longer clips are trimmed to the generated video's length, keeping the beginning. The original audio replaces the output soundtrack, padded with silence if shorter than the video, without changing playback speed. Exceptionally high sample rates may be resampled to 96 kHz. Accepts an HTTP(S) URL or a base64 data URI.",
+            "anyOf": [
+              {
+                "minLength": 1,
+                "type": "string",
+                "pattern": "\\S"
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "seed": {
+            "title": "Seed",
+            "description": "Random seed. A random seed is selected when omitted.",
+            "anyOf": [
+              {
+                "type": "integer"
+              },
+              {
+                "type": "null"
+              }
+            ]
+          }
+        },
+        "title": "TurboImageToVideoHailuo03Input",
+        "required": [
+          "prompt",
+          "prompt_expansion_mode"
+        ],
+        "x-fal-order-properties": [
+          "prompt",
+          "duration",
+          "resolution",
+          "seed",
+          "enable_safety_checker",
+          "sync_mode",
+          "prompt_expansion_mode",
+          "target_audio_url",
+          "image_url",
+          "end_image_url"
+        ],
+        "type": "object"
+      },
+      "openapi_version": "3.1.0"
+    },
+    {
+      "endpoint_id": "google/gemini-omni-flash/v1.2/edit",
+      "display_name": "Gemini Omni Flash 1.2 Edit Video",
+      "category": "video-to-video",
+      "description": "Gemini Omni Flash 1.2 is Google's multimodal video model. This endpoint edits an existing video of up to 15 seconds from a natural-language instruction, applying the requested change while keeping the rest of the scene unchanged. Output resolution is selectable from 360p, 720p, 1080p, or 4K.",
+      "input_params": [
+        {
+          "name": "prompt",
+          "type": "string",
+          "description": "A simple instruction describing the edit.",
+          "required": true
+        },
+        {
+          "name": "resolution",
+          "type": "string",
+          "description": "The resolution of the edited video.",
+          "required": false,
+          "default": "720p",
+          "enum": [
+            "360p",
+            "720p",
+            "1080p",
+            "4k"
+          ]
+        },
+        {
+          "name": "video_url",
+          "type": "string",
+          "description": "URL of the video to edit. Must be at most 15 seconds long.",
+          "required": true
+        }
+      ],
+      "output_fields": [
+        {
+          "name": "video",
+          "type": "object",
+          "description": "The generated video.",
+          "required": true
+        }
+      ],
+      "input_schema": {
+        "title": "Omni12FlashVideoEditInput",
+        "properties": {
+          "prompt": {
+            "title": "Prompt",
+            "examples": [
+              "Make this video anime. Keep everything else the same."
+            ],
+            "maxLength": 20000,
+            "type": "string",
+            "description": "A simple instruction describing the edit."
+          },
+          "resolution": {
+            "title": "Resolution",
+            "default": "720p",
+            "enum": [
+              "360p",
+              "720p",
+              "1080p",
+              "4k"
+            ],
+            "type": "string",
+            "description": "The resolution of the edited video."
+          },
+          "video_url": {
+            "title": "Video URL",
+            "examples": [
+              "https://storage.googleapis.com/falserverless/model_tests/video_models/mmaudio_input.mp4"
+            ],
+            "description": "URL of the video to edit. Must be at most 15 seconds long.",
+            "type": "string"
+          }
+        },
+        "required": [
+          "prompt",
+          "video_url"
+        ],
+        "type": "object",
+        "x-fal-order-properties": [
+          "prompt",
+          "video_url",
+          "resolution"
+        ]
+      },
+      "openapi_version": "3.1.0"
+    },
+    {
+      "endpoint_id": "bytedance/seedance-2.5/flash/text-to-video",
+      "display_name": "Seedance 2.5 Flash Text to Video",
+      "category": "text-to-video",
+      "description": "Dreamina Seedance 2.5 Flash is the fast tier of Seedance 2.5. It generates 4 to 30 second video with native audio from a text prompt at 480p or 720p.",
+      "input_params": [
+        {
+          "name": "generate_audio",
+          "type": "boolean",
+          "description": "Whether to generate synchronized audio for the video, including sound effects, ambient sounds, and lip-synced speech. The cost of video generation is the same regardless of whether audio is generated or not.",
+          "required": false,
+          "default": true
+        },
+        {
+          "name": "resolution",
+          "type": "string",
+          "description": "Video resolution - 480p for faster generation, 720p for quality.",
+          "required": false,
+          "default": "720p",
+          "enum": [
+            "480p",
+            "720p"
+          ]
+        },
+        {
+          "name": "aspect_ratio",
+          "type": "string",
+          "description": "The aspect ratio of the generated video. Use 16:9 for landscape, 9:16 for portrait/vertical, 1:1 for square, 21:9 for ultrawide cinematic, or auto to let the model decide.",
+          "required": false,
+          "default": "auto",
+          "enum": [
+            "auto",
+            "21:9",
+            "16:9",
+            "4:3",
+            "1:1",
+            "3:4",
+            "9:16"
+          ]
+        },
+        {
+          "name": "prompt",
+          "type": "string",
+          "description": "The text prompt used to generate the video",
+          "required": true
+        },
+        {
+          "name": "codec",
+          "type": "string",
+          "description": "'auto' retains default video codec behaviour; 'H264' uses H.264; 'H265' uses H.265.",
+          "required": false,
+          "default": "auto",
+          "enum": [
+            "auto",
+            "H264",
+            "H265"
+          ]
+        },
+        {
+          "name": "bitrate_mode",
+          "type": "string",
+          "description": "Output bitrate mode. 'high' requests a higher-quality, larger-file encode from the model; 'standard' uses the default bitrate.",
+          "required": false,
+          "default": "standard",
+          "enum": [
+            "standard",
+            "high"
+          ]
+        },
+        {
+          "name": "duration",
+          "type": "string",
+          "description": "Duration of the video in seconds. Supports 4 to 30 seconds, or auto to let the model decide based on the prompt.",
+          "required": false,
+          "default": "auto",
+          "enum": [
+            "auto",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10",
+            "11",
+            "12",
+            "13",
+            "14",
+            "15",
+            "16",
+            "17",
+            "18",
+            "19",
+            "20",
+            "21",
+            "22",
+            "23",
+            "24",
+            "25",
+            "26",
+            "27",
+            "28",
+            "29",
+            "30"
+          ]
+        },
+        {
+          "name": "end_user_id",
+          "type": "string | null",
+          "description": "The unique user ID of the end user.",
+          "required": false
+        }
+      ],
+      "output_fields": [
+        {
+          "name": "draft_id",
+          "type": "string | null",
+          "description": "The draft ID, or null when draft mode is disabled. Complete this draft within 14 days (7 days for US drafts) using the same account.",
+          "required": false
+        },
+        {
+          "name": "seed",
+          "type": "integer",
+          "description": "The seed used for generation.",
+          "required": true
+        },
+        {
+          "name": "video",
+          "type": "object",
+          "description": "The generated video file.",
+          "required": true
+        }
+      ],
+      "input_schema": {
+        "properties": {
+          "generate_audio": {
+            "title": "Generate Audio",
+            "default": true,
+            "description": "Whether to generate synchronized audio for the video, including sound effects, ambient sounds, and lip-synced speech. The cost of video generation is the same regardless of whether audio is generated or not.",
+            "type": "boolean"
+          },
+          "resolution": {
+            "title": "Resolution",
+            "default": "720p",
+            "description": "Video resolution - 480p for faster generation, 720p for quality.",
+            "type": "string",
+            "enum": [
+              "480p",
+              "720p"
+            ]
+          },
+          "aspect_ratio": {
+            "title": "Aspect Ratio",
+            "default": "auto",
+            "description": "The aspect ratio of the generated video. Use 16:9 for landscape, 9:16 for portrait/vertical, 1:1 for square, 21:9 for ultrawide cinematic, or auto to let the model decide.",
+            "type": "string",
+            "enum": [
+              "auto",
+              "21:9",
+              "16:9",
+              "4:3",
+              "1:1",
+              "3:4",
+              "9:16"
+            ]
+          },
+          "prompt": {
+            "title": "Prompt",
+            "examples": [
+              "An octopus finds a football in the ocean and excitedly calls its octopus friends to come and play. Cut scene to an octopus football game under the sea."
+            ],
+            "description": "The text prompt used to generate the video",
+            "type": "string"
+          },
+          "codec": {
+            "title": "Codec",
+            "examples": [
+              "auto",
+              "H264",
+              "H265"
+            ],
+            "default": "auto",
+            "description": "'auto' retains default video codec behaviour; 'H264' uses H.264; 'H265' uses H.265.",
+            "type": "string",
+            "enum": [
+              "auto",
+              "H264",
+              "H265"
+            ]
+          },
+          "bitrate_mode": {
+            "title": "Bitrate Mode",
+            "examples": [
+              "standard"
+            ],
+            "default": "standard",
+            "description": "Output bitrate mode. 'high' requests a higher-quality, larger-file encode from the model; 'standard' uses the default bitrate.",
+            "type": "string",
+            "enum": [
+              "standard",
+              "high"
+            ]
+          },
+          "duration": {
+            "title": "Duration",
+            "default": "auto",
+            "description": "Duration of the video in seconds. Supports 4 to 30 seconds, or auto to let the model decide based on the prompt.",
+            "type": "string",
+            "enum": [
+              "auto",
+              "4",
+              "5",
+              "6",
+              "7",
+              "8",
+              "9",
+              "10",
+              "11",
+              "12",
+              "13",
+              "14",
+              "15",
+              "16",
+              "17",
+              "18",
+              "19",
+              "20",
+              "21",
+              "22",
+              "23",
+              "24",
+              "25",
+              "26",
+              "27",
+              "28",
+              "29",
+              "30"
+            ]
+          },
+          "end_user_id": {
+            "title": "End User Id",
+            "description": "The unique user ID of the end user.",
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ]
+          }
+        },
+        "title": "Seedance2T2VFastInput",
+        "required": [
+          "prompt"
+        ],
+        "x-fal-order-properties": [
+          "prompt",
+          "resolution",
+          "duration",
+          "aspect_ratio",
+          "generate_audio",
+          "bitrate_mode",
+          "codec",
+          "end_user_id"
+        ],
+        "type": "object"
+      },
+      "openapi_version": "3.1.0"
+    },
+    {
+      "endpoint_id": "fal-ai/sync-lipsync/v3",
+      "display_name": "sync-3 Lipsync",
+      "category": "video-to-video",
+      "description": "sync-3 most powerful lipsync model yet, featuring native visual intelligence for professional-quality video.",
+      "input_params": [
+        {
+          "name": "video_url",
+          "type": "string",
+          "description": "URL of the input video",
+          "required": true
+        },
+        {
+          "name": "sync_mode",
+          "type": "string",
+          "description": "Lipsync mode when audio and video durations are out of sync.",
+          "required": false,
+          "default": "cut_off",
+          "enum": [
+            "cut_off",
+            "loop",
+            "bounce",
+            "silence",
+            "remap"
+          ]
+        },
+        {
+          "name": "audio_url",
+          "type": "string",
+          "description": "URL of the input audio",
+          "required": true
+        },
+        {
+          "name": "options",
+          "type": "object | null",
+          "description": "Additional Sync.so generation options. If options.sync_mode is set, it overrides the top-level sync_mode field.",
+          "required": false
+        },
+        {
+          "name": "enable_safety_checker",
+          "type": "boolean",
+          "required": false,
+          "default": true
+        }
+      ],
+      "output_fields": [
+        {
+          "name": "video",
+          "type": "object",
+          "description": "The generated video",
+          "required": true
+        }
+      ],
+      "input_schema": {
+        "x-fal-order-properties": [
+          "enable_safety_checker",
+          "video_url",
+          "audio_url",
+          "sync_mode",
+          "options"
+        ],
+        "properties": {
+          "video_url": {
+            "examples": [
+              "https://v3.fal.media/files/tiger/IugLCDJRIoGqvqTa-EJTr_3wg74vCqyNuQ-IiBd77MM_output.mp4"
+            ],
+            "description": "URL of the input video",
+            "type": "string",
+            "title": "Video Url"
+          },
+          "sync_mode": {
+            "description": "Lipsync mode when audio and video durations are out of sync.",
+            "default": "cut_off",
+            "type": "string",
+            "enum": [
+              "cut_off",
+              "loop",
+              "bounce",
+              "silence",
+              "remap"
+            ],
+            "title": "Sync Mode"
+          },
+          "audio_url": {
+            "examples": [
+              "https://fal.media/files/lion/vyFWygmZsIZlUO4s0nr2n.wav"
+            ],
+            "description": "URL of the input audio",
+            "type": "string",
+            "title": "Audio Url"
+          },
+          "options": {
+            "description": "Additional Sync.so generation options. If options.sync_mode is set, it overrides the top-level sync_mode field.",
+            "anyOf": [
+              {
+                "x-fal-order-properties": [
+                  "sync_mode",
+                  "model_mode",
+                  "prompt",
+                  "temperature",
+                  "active_speaker_detection",
+                  "occlusion_detection_enabled"
+                ],
+                "properties": {
+                  "temperature": {
+                    "description": "Controls how expressive lipsync can be; 0 is least expressive, 1 is most expressive. Sync.so handles this natively for sync-3, so this option is ignored by sync-3.",
+                    "title": "Temperature",
+                    "anyOf": [
+                      {
+                        "maximum": 1,
+                        "type": "number",
+                        "minimum": 0
+                      },
+                      {
+                        "type": "null"
+                      }
+                    ]
+                  },
+                  "occlusion_detection_enabled": {
+                    "description": "Whether to detect occlusion during generation. Sync.so handles this automatically for sync-3, so this option is ignored by sync-3.",
+                    "title": "Occlusion Detection Enabled",
+                    "anyOf": [
+                      {
+                        "type": "boolean"
+                      },
+                      {
+                        "type": "null"
+                      }
+                    ]
+                  },
+                  "active_speaker_detection": {
+                    "description": "Active speaker detection configuration for videos with multiple people.",
+                    "anyOf": [
+                      {
+                        "x-fal-order-properties": [
+                          "auto_detect",
+                          "v3",
+                          "use_v2",
+                          "frame_number",
+                          "coordinates",
+                          "bounding_boxes",
+                          "bounding_boxes_url",
+                          "face_image"
+                        ],
+                        "properties": {
+                          "bounding_boxes": {
+                            "description": "Per-frame bounding boxes [x1, y1, x2, y2] for the detected face.",
+                            "title": "Bounding Boxes",
+                            "anyOf": [
+                              {
+                                "items": {
+                                  "anyOf": [
+                                    {
+                                      "items": {
+                                        "type": "integer"
+                                      },
+                                      "type": "array"
+                                    },
+                                    {
+                                      "type": "null"
+                                    }
+                                  ]
+                                },
+                                "type": "array"
+                              },
+                              {
+                                "type": "null"
+                              }
+                            ]
+                          },
+                          "auto_detect": {
+                            "description": "Whether to automatically detect and apply generation to the active speaker.",
+                            "title": "Auto Detect",
+                            "anyOf": [
+                              {
+                                "type": "boolean"
+                              },
+                              {
+                                "type": "null"
+                              }
+                            ]
+                          },
+                          "coordinates": {
+                            "description": "Reference point [x, y] on the speaker's face in frame_number.",
+                            "title": "Coordinates",
+                            "anyOf": [
+                              {
+                                "items": {
+                                  "type": "integer"
+                                },
+                                "minItems": 2,
+                                "type": "array",
+                                "maxItems": 2
+                              },
+                              {
+                                "type": "null"
+                              }
+                            ]
+                          },
+                          "face_image": {
+                            "description": "Base64 encoded face image for manual speaker selection.",
+                            "title": "Face Image",
+                            "anyOf": [
+                              {
+                                "type": "string"
+                              },
+                              {
+                                "type": "null"
+                              }
+                            ]
+                          },
+                          "frame_number": {
+                            "description": "Frame index for manual speaker selection coordinates.",
+                            "title": "Frame Number",
+                            "anyOf": [
+                              {
+                                "type": "integer",
+                                "minimum": 0
+                              },
+                              {
+                                "type": "null"
+                              }
+                            ]
+                          },
+                          "v3": {
+                            "description": "Whether to use Sync.so's active speaker detection v3.",
+                            "title": "V3",
+                            "anyOf": [
+                              {
+                                "type": "boolean"
+                              },
+                              {
+                                "type": "null"
+                              }
+                            ]
+                          },
+                          "use_v2": {
+                            "description": "Deprecated Sync.so option for active speaker detection v2.",
+                            "title": "Use V2",
+                            "anyOf": [
+                              {
+                                "type": "boolean"
+                              },
+                              {
+                                "type": "null"
+                              }
+                            ]
+                          },
+                          "bounding_boxes_url": {
+                            "description": "URL to a JSON file containing per-frame bounding boxes.",
+                            "title": "Bounding Boxes Url",
+                            "anyOf": [
+                              {
+                                "type": "string"
+                              },
+                              {
+                                "type": "null"
+                              }
+                            ]
+                          }
+                        },
+                        "type": "object",
+                        "title": "Sync3ActiveSpeakerDetection"
+                      },
+                      {
+                        "type": "null"
+                      }
+                    ]
+                  },
+                  "prompt": {
+                    "description": "Emotion prompt for generation. This is a Sync.so option primarily used by react-1.",
+                    "title": "Prompt",
+                    "anyOf": [
+                      {
+                        "type": "string",
+                        "enum": [
+                          "happy",
+                          "sad",
+                          "angry",
+                          "disgusted",
+                          "surprised",
+                          "neutral"
+                        ]
+                      },
+                      {
+                        "type": "null"
+                      }
+                    ]
+                  },
+                  "model_mode": {
+                    "description": "Edit region for the model. This is a Sync.so option primarily used by react-1.",
+                    "title": "Model Mode",
+                    "anyOf": [
+                      {
+                        "type": "string",
+                        "enum": [
+                          "lips",
+                          "face",
+                          "head",
+                          "lipsync",
+                          "emotion",
+                          "talking_head"
+                        ]
+                      },
+                      {
+                        "type": "null"
+                      }
+                    ]
+                  },
+                  "sync_mode": {
+                    "description": "Defines how to handle duration mismatches between video and audio inputs. Overrides the top-level sync_mode when provided.",
+                    "title": "Sync Mode",
+                    "anyOf": [
+                      {
+                        "type": "string",
+                        "enum": [
+                          "cut_off",
+                          "loop",
+                          "bounce",
+                          "silence",
+                          "remap"
+                        ]
+                      },
+                      {
+                        "type": "null"
+                      }
+                    ]
+                  }
+                },
+                "type": "object",
+                "title": "Sync3GenerationOptions"
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "enable_safety_checker": {
+            "default": true,
+            "type": "boolean",
+            "title": "Enable Safety Checker"
+          }
+        },
+        "required": [
+          "video_url",
+          "audio_url"
+        ],
+        "type": "object",
+        "title": "Sync3Input"
+      },
+      "openapi_version": "3.1.0"
+    },
+    {
+      "endpoint_id": "heygen/avatar-6/image-to-video",
+      "display_name": "HeyGen Avatar 6 Image to Video",
+      "category": "image-to-video",
+      "description": "HeyGen Avatar 6 animates a photo of a person into a talking video lip-synced to a supplied speech track, with the audio setting the video length. Output is 1080p or 2K, and an optional motion prompt directs expression and movement.",
+      "input_params": [
+        {
+          "name": "resolution",
+          "type": "string",
+          "description": "Output resolution.",
+          "required": false,
+          "default": "1080p",
+          "enum": [
+            "1080p",
+            "2k"
+          ]
+        },
+        {
+          "name": "image_url",
+          "type": "string",
+          "description": "URL of a photo of the person to animate.",
+          "required": true
+        },
+        {
+          "name": "motion_prompt",
+          "type": "string | null",
+          "description": "Optional direction for the avatar's motion and expression.",
+          "required": false
+        },
+        {
+          "name": "enable_safety_checker",
+          "type": "boolean",
+          "description": "Authorized callers may set false to request relaxed screening.",
+          "required": false,
+          "default": true
+        },
+        {
+          "name": "audio_url",
+          "type": "string",
+          "description": "URL of the speech audio. It sets the video length.",
+          "required": true
+        }
+      ],
+      "output_fields": [
+        {
+          "name": "video",
+          "type": "object",
+          "description": "The generated Avatar 6 video file.",
+          "required": true
+        }
+      ],
+      "input_schema": {
+        "type": "object",
+        "properties": {
+          "resolution": {
+            "type": "string",
+            "title": "Resolution",
+            "default": "1080p",
+            "description": "Output resolution.",
+            "enum": [
+              "1080p",
+              "2k"
+            ]
+          },
+          "image_url": {
+            "examples": [
+              "https://storage.googleapis.com/falserverless/example_inputs/omnihuman.png"
+            ],
+            "type": "string",
+            "title": "Image Url",
+            "description": "URL of a photo of the person to animate."
+          },
+          "motion_prompt": {
+            "title": "Motion Prompt",
+            "description": "Optional direction for the avatar's motion and expression.",
+            "anyOf": [
+              {
+                "type": "string",
+                "maxLength": 1200
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "enable_safety_checker": {
+            "type": "boolean",
+            "title": "Enable Safety Checker",
+            "default": true,
+            "description": "Authorized callers may set false to request relaxed screening."
+          },
+          "audio_url": {
+            "examples": [
+              "https://v3b.fal.media/files/b/0ab0e602/eeEMX2kTC9XI8yzGCEi1w_a.mp3"
+            ],
+            "type": "string",
+            "title": "Audio Url",
+            "description": "URL of the speech audio. It sets the video length."
+          }
+        },
+        "title": "Avatar6ImageToVideoRequest",
+        "required": [
+          "image_url",
+          "audio_url"
+        ],
+        "x-fal-order-properties": [
+          "resolution",
+          "motion_prompt",
+          "enable_safety_checker",
+          "image_url",
+          "audio_url"
+        ]
+      },
+      "openapi_version": "3.1.0"
+    },
+    {
+      "endpoint_id": "nvidia/nemotron-3-5-super/video",
+      "display_name": "NVIDIA Nemotron 3.5 Super Video",
+      "category": "video-to-text",
+      "description": "Ask NVIDIA Nemotron 3.5 Super about a video clip: summarize what happens, find moments and reason across frames.",
+      "input_params": [
+        {
+          "name": "reasoning_mode",
+          "type": "string",
+          "description": "`think` emits an explicit reasoning trace before the final answer; `no_think` returns a direct answer.",
+          "required": false,
+          "default": "no_think",
+          "enum": [
+            "think",
+            "no_think"
+          ]
+        },
+        {
+          "name": "prompt",
+          "type": "string",
+          "description": "Text prompt to send to the model.",
+          "required": true
+        },
+        {
+          "name": "top_p",
+          "type": "number",
+          "description": "Nucleus sampling probability mass.",
+          "required": false,
+          "default": 0.95
+        },
+        {
+          "name": "max_tokens",
+          "type": "integer",
+          "description": "Maximum number of tokens to generate.",
+          "required": false,
+          "default": 1024
+        },
+        {
+          "name": "system_prompt",
+          "type": "string | null",
+          "description": "Optional system prompt to steer the model.",
+          "required": false
+        },
+        {
+          "name": "temperature",
+          "type": "number",
+          "description": "Sampling temperature. NVIDIA recommends 1.0 for all tasks.",
+          "required": false,
+          "default": 1
+        },
+        {
+          "name": "enable_safety_checker",
+          "type": "boolean",
+          "description": "Whether to enable the safety checker.",
+          "required": false,
+          "default": true
+        },
+        {
+          "name": "video_url",
+          "type": "string",
+          "description": "URL of the video to reason about. mp4, max 2 minutes, max 3840 pixels per side and 3840x2160 total pixels.",
+          "required": true
+        }
+      ],
+      "output_fields": [
+        {
+          "name": "finish_reason",
+          "type": "string",
+          "description": "Reason generation stopped.",
+          "required": false,
+          "default": "stop"
+        },
+        {
+          "name": "reasoning",
+          "type": "string | null",
+          "description": "Reasoning trace, returned only in `think` mode.",
+          "required": false
+        },
+        {
+          "name": "usage",
+          "type": "object",
+          "description": "Token usage for the request.",
+          "required": true
+        },
+        {
+          "name": "output",
+          "type": "string",
+          "description": "Generated text response.",
+          "required": true
+        }
+      ],
+      "input_schema": {
+        "title": "VideoInput",
+        "properties": {
+          "reasoning_mode": {
+            "title": "Reasoning Mode",
+            "description": "`think` emits an explicit reasoning trace before the final answer; `no_think` returns a direct answer.",
+            "enum": [
+              "think",
+              "no_think"
+            ],
+            "type": "string",
+            "default": "no_think"
+          },
+          "prompt": {
+            "title": "Prompt",
+            "description": "Text prompt to send to the model.",
+            "examples": [
+              "Summarize the key ideas of hybrid Mamba-Transformer models."
+            ],
+            "minLength": 1,
+            "type": "string"
+          },
+          "top_p": {
+            "maximum": 1,
+            "description": "Nucleus sampling probability mass.",
+            "title": "Top P",
+            "exclusiveMinimum": 0,
+            "type": "number",
+            "default": 0.95
+          },
+          "max_tokens": {
+            "maximum": 32000,
+            "description": "Maximum number of tokens to generate.",
+            "title": "Max Tokens",
+            "minimum": 1,
+            "type": "integer",
+            "default": 1024
+          },
+          "system_prompt": {
+            "title": "System Prompt",
+            "description": "Optional system prompt to steer the model.",
+            "examples": [
+              "You are a concise assistant."
+            ],
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "temperature": {
+            "maximum": 2,
+            "description": "Sampling temperature. NVIDIA recommends 1.0 for all tasks.",
+            "title": "Temperature",
+            "minimum": 0,
+            "type": "number",
+            "default": 1
+          },
+          "enable_safety_checker": {
+            "title": "Enable Safety Checker",
+            "description": "Whether to enable the safety checker.",
+            "type": "boolean",
+            "default": true
+          },
+          "video_url": {
+            "title": "Video URL",
+            "description": "URL of the video to reason about. mp4, max 2 minutes, max 3840 pixels per side and 3840x2160 total pixels.",
+            "examples": [
+              "https://storage.googleapis.com/falserverless/example_inputs/birefnet-video-input.mp4"
+            ],
+            "type": "string"
+          }
+        },
+        "required": [
+          "prompt",
+          "video_url"
+        ],
+        "x-fal-order-properties": [
+          "prompt",
+          "system_prompt",
+          "reasoning_mode",
+          "max_tokens",
+          "temperature",
+          "top_p",
+          "enable_safety_checker",
+          "video_url"
+        ],
+        "type": "object"
+      },
+      "openapi_version": "3.1.0"
+    },
+    {
+      "endpoint_id": "fal-ai/elevenlabs/speech-to-text/scribe-v2",
+      "display_name": "ElevenLabs Speech to Text - Scribe V2",
+      "category": "speech-to-text",
+      "description": "Use Scribe-V2 from ElevenLabs to do blazingly fast speech to text inferences!",
+      "input_params": [
+        {
+          "name": "keyterms",
+          "type": "array<string>",
+          "description": "Words or sentences to bias the model towards transcribing. Up to 100 keyterms, max 50 characters each. Adds 30% premium over base transcription price.",
+          "required": false,
+          "default": []
+        },
+        {
+          "name": "tag_audio_events",
+          "type": "boolean",
+          "description": "Tag audio events like laughter, applause, etc.",
+          "required": false,
+          "default": true
+        },
+        {
+          "name": "language_code",
+          "type": "string | null",
+          "description": "Language code of the audio",
+          "required": false
+        },
+        {
+          "name": "diarize",
+          "type": "boolean",
+          "description": "Whether to annotate who is speaking",
+          "required": false,
+          "default": true
+        },
+        {
+          "name": "audio_url",
+          "type": "string",
+          "description": "URL of the audio file to transcribe",
+          "required": true
+        }
+      ],
+      "output_fields": [
+        {
+          "name": "words",
+          "type": "array<object>",
+          "description": "Word-level transcription details",
+          "required": true
+        },
+        {
+          "name": "text",
+          "type": "string",
+          "description": "The full transcribed text",
+          "required": true
+        },
+        {
+          "name": "language_probability",
+          "type": "number",
+          "description": "Confidence in language detection",
+          "required": true
+        },
+        {
+          "name": "language_code",
+          "type": "string",
+          "description": "Detected or specified language code",
+          "required": true
+        }
+      ],
+      "input_schema": {
+        "properties": {
+          "keyterms": {
+            "items": {
+              "type": "string"
+            },
+            "default": [],
+            "description": "Words or sentences to bias the model towards transcribing. Up to 100 keyterms, max 50 characters each. Adds 30% premium over base transcription price.",
+            "type": "array",
+            "maxItems": 100,
+            "title": "Keyterms"
+          },
+          "tag_audio_events": {
+            "description": "Tag audio events like laughter, applause, etc.",
+            "default": true,
+            "type": "boolean",
+            "title": "Tag Audio Events"
+          },
+          "language_code": {
+            "examples": [
+              "eng",
+              "spa",
+              "fra",
+              "deu",
+              "jpn"
+            ],
+            "description": "Language code of the audio",
+            "title": "Language Code",
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "diarize": {
+            "description": "Whether to annotate who is speaking",
+            "default": true,
+            "type": "boolean",
+            "title": "Diarize"
+          },
+          "audio_url": {
+            "examples": [
+              "https://storage.googleapis.com/falserverless/example_inputs/elevenlabs/scribe_v2_in.mp3"
+            ],
+            "description": "URL of the audio file to transcribe",
+            "type": "string",
+            "title": "Audio Url"
+          }
+        },
+        "x-fal-order-properties": [
+          "audio_url",
+          "language_code",
+          "tag_audio_events",
+          "diarize",
+          "keyterms"
+        ],
+        "title": "SpeechToTextRequestScribeV2",
+        "type": "object",
+        "required": [
+          "audio_url"
+        ]
+      },
+      "openapi_version": "3.1.0"
+    },
+    {
+      "endpoint_id": "veed/dubbing/pro",
+      "display_name": "VEED Dubbing Pro",
+      "category": "video-to-video",
+      "description": "Dubs videos up to 10 minutes into 94 languages and 14 regional accents with cloned voices and lip-sync. Supports target accent and voice cloning strength controls, multiple speakers, and background audio preservation.",
+      "input_params": [
+        {
+          "name": "target_language",
+          "type": "string",
+          "description": "Language to dub into, optionally with a regional dialect (e.g. 'es-MX', 'pt-BR'). Case-insensitive; for a language without dialects the region is ignored ('de-DE' = 'de'), and an unsupported dialect is rejected.",
+          "required": true,
+          "enum": [
+            "af",
+            "ak",
+            "am",
+            "ar",
+            "ar-EG",
+            "as",
+            "az",
+            "be",
+            "bg",
+            "bo",
+            "bs",
+            "ca",
+            "ceb",
+            "cmn",
+            "cs",
+            "cy",
+            "da",
+            "de",
+            "dgo",
+            "el",
+            "en",
+            "en-AU",
+            "en-CA",
+            "en-GB",
+            "en-US",
+            "es",
+            "es-AR",
+            "es-CL",
+            "es-ES",
+            "es-MX",
+            "et",
+            "eu",
+            "fa",
+            "fi",
+            "fil",
+            "fr",
+            "fr-CA",
+            "fr-FR",
+            "gl",
+            "gu",
+            "ha",
+            "he",
+            "hi",
+            "hr",
+            "hu",
+            "hy",
+            "id",
+            "is",
+            "it",
+            "ja",
+            "jv",
+            "ka",
+            "ki",
+            "kk",
+            "kn",
+            "ko",
+            "ky",
+            "lg",
+            "lt",
+            "lv",
+            "mk",
+            "ml",
+            "mn",
+            "mr",
+            "ms",
+            "my",
+            "ne",
+            "nl",
+            "no",
+            "nso",
+            "pa",
+            "pl",
+            "pt",
+            "pt-BR",
+            "pt-PT",
+            "rn",
+            "ro",
+            "ru",
+            "rw",
+            "sd",
+            "sk",
+            "sl",
+            "sq",
+            "ss",
+            "st",
+            "su",
+            "sv",
+            "sw",
+            "ta",
+            "te",
+            "tg",
+            "th",
+            "tn",
+            "tr",
+            "ts",
+            "ug",
+            "uk",
+            "ur",
+            "uz",
+            "ve",
+            "vi",
+            "war",
+            "wo",
+            "yo",
+            "yue",
+            "zh",
+            "zh-TW",
+            "zu"
+          ]
+        },
+        {
+          "name": "keyterms",
+          "type": "array<string>",
+          "description": "Names and terms to get right in the dub, such as brand, product or people's names: they help the speech recognition catch these words and the translation keep them as written. Up to 1,000 terms, each at most 50 characters and 5 words, without the characters < > { } [ ] \\.",
+          "required": false,
+          "default": []
+        },
+        {
+          "name": "video_url",
+          "type": "string",
+          "description": "Video to dub, 8 seconds to 10 minutes long and with speech in its audio track. The speech is translated into the target language, and the speakers' lips are synced to the dubbed voices.",
+          "required": true
+        },
+        {
+          "name": "voice_cloning_strength",
+          "type": "integer",
+          "description": "How closely the dubbed voices match the original speakers, from 0 to 10. Higher keeps more of each speaker's voice and accent; lower sounds more natural in the target language.",
+          "required": false,
+          "default": 7
+        },
+        {
+          "name": "source_language",
+          "type": "string",
+          "description": "Language spoken in the video. 'auto' (the default) detects it; set it explicitly if detection picks the wrong language.",
+          "required": false,
+          "default": "auto",
+          "enum": [
+            "auto",
+            "af",
+            "ak",
+            "am",
+            "ar",
+            "as",
+            "az",
+            "be",
+            "bg",
+            "bo",
+            "bs",
+            "ca",
+            "ceb",
+            "cmn",
+            "cs",
+            "cy",
+            "da",
+            "de",
+            "dgo",
+            "el",
+            "en",
+            "es",
+            "et",
+            "eu",
+            "fa",
+            "fi",
+            "fil",
+            "fr",
+            "gl",
+            "gu",
+            "ha",
+            "he",
+            "hi",
+            "hr",
+            "hu",
+            "hy",
+            "id",
+            "is",
+            "it",
+            "ja",
+            "jv",
+            "ka",
+            "ki",
+            "kk",
+            "kn",
+            "ko",
+            "ky",
+            "lg",
+            "lt",
+            "lv",
+            "mk",
+            "ml",
+            "mn",
+            "mr",
+            "ms",
+            "my",
+            "ne",
+            "nl",
+            "no",
+            "nso",
+            "pa",
+            "pl",
+            "pt",
+            "rn",
+            "ro",
+            "ru",
+            "rw",
+            "sd",
+            "sk",
+            "sl",
+            "sq",
+            "ss",
+            "st",
+            "su",
+            "sv",
+            "sw",
+            "ta",
+            "te",
+            "tg",
+            "th",
+            "tn",
+            "tr",
+            "ts",
+            "ug",
+            "uk",
+            "ur",
+            "uz",
+            "ve",
+            "vi",
+            "war",
+            "wo",
+            "yo",
+            "yue",
+            "zh",
+            "zu"
+          ]
+        }
+      ],
+      "output_fields": [
+        {
+          "name": "video",
+          "type": "object",
+          "description": "The dubbed video, with the speakers' lips synced to the translated speech",
+          "required": true
+        }
+      ],
+      "input_schema": {
+        "title": "DubbingV2ProxyInput",
+        "properties": {
+          "target_language": {
+            "description": "Language to dub into, optionally with a regional dialect (e.g. 'es-MX', 'pt-BR'). Case-insensitive; for a language without dialects the region is ignored ('de-DE' = 'de'), and an unsupported dialect is rejected.",
+            "examples": [
+              "es"
+            ],
+            "title": "Target Language",
+            "enum": [
+              "af",
+              "ak",
+              "am",
+              "ar",
+              "ar-EG",
+              "as",
+              "az",
+              "be",
+              "bg",
+              "bo",
+              "bs",
+              "ca",
+              "ceb",
+              "cmn",
+              "cs",
+              "cy",
+              "da",
+              "de",
+              "dgo",
+              "el",
+              "en",
+              "en-AU",
+              "en-CA",
+              "en-GB",
+              "en-US",
+              "es",
+              "es-AR",
+              "es-CL",
+              "es-ES",
+              "es-MX",
+              "et",
+              "eu",
+              "fa",
+              "fi",
+              "fil",
+              "fr",
+              "fr-CA",
+              "fr-FR",
+              "gl",
+              "gu",
+              "ha",
+              "he",
+              "hi",
+              "hr",
+              "hu",
+              "hy",
+              "id",
+              "is",
+              "it",
+              "ja",
+              "jv",
+              "ka",
+              "ki",
+              "kk",
+              "kn",
+              "ko",
+              "ky",
+              "lg",
+              "lt",
+              "lv",
+              "mk",
+              "ml",
+              "mn",
+              "mr",
+              "ms",
+              "my",
+              "ne",
+              "nl",
+              "no",
+              "nso",
+              "pa",
+              "pl",
+              "pt",
+              "pt-BR",
+              "pt-PT",
+              "rn",
+              "ro",
+              "ru",
+              "rw",
+              "sd",
+              "sk",
+              "sl",
+              "sq",
+              "ss",
+              "st",
+              "su",
+              "sv",
+              "sw",
+              "ta",
+              "te",
+              "tg",
+              "th",
+              "tn",
+              "tr",
+              "ts",
+              "ug",
+              "uk",
+              "ur",
+              "uz",
+              "ve",
+              "vi",
+              "war",
+              "wo",
+              "yo",
+              "yue",
+              "zh",
+              "zh-TW",
+              "zu"
+            ],
+            "type": "string"
+          },
+          "keyterms": {
+            "description": "Names and terms to get right in the dub, such as brand, product or people's names: they help the speech recognition catch these words and the translation keep them as written. Up to 1,000 terms, each at most 50 characters and 5 words, without the characters < > { } [ ] \\.",
+            "title": "Keyterms",
+            "default": [],
+            "items": {
+              "type": "string"
+            },
+            "maxItems": 1000,
+            "type": "array"
+          },
+          "video_url": {
+            "description": "Video to dub, 8 seconds to 10 minutes long and with speech in its audio track. The speech is translated into the target language, and the speakers' lips are synced to the dubbed voices.",
+            "maxLength": 2083,
+            "examples": [
+              "https://v3.fal.media/files/monkey/q1fDPhrpfjfsaRmbhTed4_influencer.mp4"
+            ],
+            "minLength": 1,
+            "title": "Video Url",
+            "format": "uri",
+            "type": "string"
+          },
+          "voice_cloning_strength": {
+            "description": "How closely the dubbed voices match the original speakers, from 0 to 10. Higher keeps more of each speaker's voice and accent; lower sounds more natural in the target language.",
+            "title": "Voice Cloning Strength",
+            "maximum": 10,
+            "minimum": 0,
+            "default": 7,
+            "type": "integer"
+          },
+          "source_language": {
+            "description": "Language spoken in the video. 'auto' (the default) detects it; set it explicitly if detection picks the wrong language.",
+            "title": "Source Language",
+            "default": "auto",
+            "enum": [
+              "auto",
+              "af",
+              "ak",
+              "am",
+              "ar",
+              "as",
+              "az",
+              "be",
+              "bg",
+              "bo",
+              "bs",
+              "ca",
+              "ceb",
+              "cmn",
+              "cs",
+              "cy",
+              "da",
+              "de",
+              "dgo",
+              "el",
+              "en",
+              "es",
+              "et",
+              "eu",
+              "fa",
+              "fi",
+              "fil",
+              "fr",
+              "gl",
+              "gu",
+              "ha",
+              "he",
+              "hi",
+              "hr",
+              "hu",
+              "hy",
+              "id",
+              "is",
+              "it",
+              "ja",
+              "jv",
+              "ka",
+              "ki",
+              "kk",
+              "kn",
+              "ko",
+              "ky",
+              "lg",
+              "lt",
+              "lv",
+              "mk",
+              "ml",
+              "mn",
+              "mr",
+              "ms",
+              "my",
+              "ne",
+              "nl",
+              "no",
+              "nso",
+              "pa",
+              "pl",
+              "pt",
+              "rn",
+              "ro",
+              "ru",
+              "rw",
+              "sd",
+              "sk",
+              "sl",
+              "sq",
+              "ss",
+              "st",
+              "su",
+              "sv",
+              "sw",
+              "ta",
+              "te",
+              "tg",
+              "th",
+              "tn",
+              "tr",
+              "ts",
+              "ug",
+              "uk",
+              "ur",
+              "uz",
+              "ve",
+              "vi",
+              "war",
+              "wo",
+              "yo",
+              "yue",
+              "zh",
+              "zu"
+            ],
+            "type": "string"
+          }
+        },
+        "required": [
+          "video_url",
+          "target_language"
+        ],
+        "x-fal-order-properties": [
+          "video_url",
+          "target_language",
+          "source_language",
+          "voice_cloning_strength",
+          "keyterms"
+        ],
+        "type": "object"
+      },
+      "openapi_version": "3.1.0"
+    },
+    {
+      "endpoint_id": "topaz/upscale/video/precision",
+      "display_name": "Topaz Upscale Video Precision",
+      "category": "video-to-video",
+      "description": "Professional video upscaling powered by Topaz Labs. Precision models (Proteus, Artemis, Iris, Dione, Theia, Gaia, Rhea) enhance footage up to 4x while staying faithful to the source. Best for clean, natural upscales of real-world footage.",
+      "input_params": [
+        {
+          "name": "recover_detail",
+          "type": "number | null",
+          "description": "Recover original detail level (0.0-1.0). Higher values preserve more original detail.",
+          "required": false
+        },
+        {
+          "name": "enable_safety_checker",
+          "type": "boolean",
+          "required": false,
+          "default": true
+        },
+        {
+          "name": "video_url",
+          "type": "string",
+          "description": "URL of the video to upscale",
+          "required": true
+        },
+        {
+          "name": "compression",
+          "type": "number | null",
+          "description": "Compression artifact removal level (0.0-1.0). Default varies by model.",
+          "required": false
+        },
+        {
+          "name": "model",
+          "type": "string",
+          "description": "Precision (non-generative) enhancement model. Proteus fits most real-world footage; Proteus Natural is a softer variant; Iris recovers faces; Dione deinterlaces legacy/interlaced sources; Artemis denoises and sharpens degraded footage; Gaia refines high-quality footage and CG (Gaia 2 upscales animation at 2x); Rhea maximizes fine detail via an internal 4x pass; Theia gives manual detail/fidelity control.",
+          "required": false,
+          "default": "Proteus",
+          "enum": [
+            "Proteus",
+            "Proteus Natural",
+            "Iris",
+            "Iris Low Quality",
+            "Dione DV",
+            "Dione TV",
+            "Dione Robust",
+            "Dione Dehalo",
+            "Dione Robust Dehalo",
+            "Artemis High Quality",
+            "Artemis Medium Quality",
+            "Artemis Low Quality",
+            "Artemis Strong Halo",
+            "Artemis Medium Halo",
+            "Artemis Aliasing & Moire",
+            "Gaia HQ",
+            "Gaia CG",
+            "Gaia 2",
+            "Rhea",
+            "Theia Fine Tune Detail",
+            "Theia Fine Tune Fidelity"
+          ]
+        },
+        {
+          "name": "halo",
+          "type": "number | null",
+          "description": "Halo reduction level (0.0-1.0). Default varies by model.",
+          "required": false
+        },
+        {
+          "name": "noise",
+          "type": "number | null",
+          "description": "Noise reduction level (0.0-1.0). Default varies by model.",
+          "required": false
+        },
+        {
+          "name": "H264_output",
+          "type": "boolean",
+          "description": "Whether to use H264 codec for output video. Default is H265.",
+          "required": false,
+          "default": false
+        },
+        {
+          "name": "grain",
+          "type": "number | null",
+          "description": "Film grain amount (0.0-0.1). Default varies by model.",
+          "required": false
+        },
+        {
+          "name": "upscale_factor",
+          "type": "number",
+          "description": "Factor to upscale the video by (e.g. 2.0 doubles width and height)",
+          "required": false,
+          "default": 2
+        },
+        {
+          "name": "target_fps",
+          "type": "integer | null",
+          "description": "Target FPS for the output. Frame interpolation is enabled only when this differs from the source FPS.",
+          "required": false
+        }
+      ],
+      "output_fields": [
+        {
+          "name": "video",
+          "type": "object",
+          "description": "The upscaled video file",
+          "required": true
+        }
+      ],
+      "input_schema": {
+        "properties": {
+          "recover_detail": {
+            "anyOf": [
+              {
+                "maximum": 1,
+                "type": "number",
+                "minimum": 0
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "description": "Recover original detail level (0.0-1.0). Higher values preserve more original detail.",
+            "title": "Recover Detail"
+          },
+          "enable_safety_checker": {
+            "default": true,
+            "type": "boolean",
+            "title": "Enable Safety Checker"
+          },
+          "video_url": {
+            "description": "URL of the video to upscale",
+            "type": "string",
+            "title": "Video Url",
+            "examples": [
+              "https://v3.fal.media/files/kangaroo/y5-1YTGpun17eSeggZMzX_video-1733468228.mp4"
+            ]
+          },
+          "compression": {
+            "anyOf": [
+              {
+                "maximum": 1,
+                "type": "number",
+                "minimum": 0
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "description": "Compression artifact removal level (0.0-1.0). Default varies by model.",
+            "title": "Compression"
+          },
+          "model": {
+            "default": "Proteus",
+            "type": "string",
+            "enum": [
+              "Proteus",
+              "Proteus Natural",
+              "Iris",
+              "Iris Low Quality",
+              "Dione DV",
+              "Dione TV",
+              "Dione Robust",
+              "Dione Dehalo",
+              "Dione Robust Dehalo",
+              "Artemis High Quality",
+              "Artemis Medium Quality",
+              "Artemis Low Quality",
+              "Artemis Strong Halo",
+              "Artemis Medium Halo",
+              "Artemis Aliasing & Moire",
+              "Gaia HQ",
+              "Gaia CG",
+              "Gaia 2",
+              "Rhea",
+              "Theia Fine Tune Detail",
+              "Theia Fine Tune Fidelity"
+            ],
+            "title": "Model",
+            "description": "Precision (non-generative) enhancement model. Proteus fits most real-world footage; Proteus Natural is a softer variant; Iris recovers faces; Dione deinterlaces legacy/interlaced sources; Artemis denoises and sharpens degraded footage; Gaia refines high-quality footage and CG (Gaia 2 upscales animation at 2x); Rhea maximizes fine detail via an internal 4x pass; Theia gives manual detail/fidelity control."
+          },
+          "halo": {
+            "anyOf": [
+              {
+                "maximum": 1,
+                "type": "number",
+                "minimum": 0
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "description": "Halo reduction level (0.0-1.0). Default varies by model.",
+            "title": "Halo"
+          },
+          "noise": {
+            "anyOf": [
+              {
+                "maximum": 1,
+                "type": "number",
+                "minimum": 0
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "description": "Noise reduction level (0.0-1.0). Default varies by model.",
+            "title": "Noise"
+          },
+          "H264_output": {
+            "default": false,
+            "description": "Whether to use H264 codec for output video. Default is H265.",
+            "type": "boolean",
+            "title": "H264 Output"
+          },
+          "grain": {
+            "anyOf": [
+              {
+                "maximum": 0.1,
+                "multipleOf": 0.01,
+                "type": "number",
+                "minimum": 0
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "description": "Film grain amount (0.0-0.1). Default varies by model.",
+            "title": "Grain"
+          },
+          "upscale_factor": {
+            "maximum": 4,
+            "default": 2,
+            "type": "number",
+            "minimum": 1,
+            "title": "Upscale Factor",
+            "description": "Factor to upscale the video by (e.g. 2.0 doubles width and height)"
+          },
+          "target_fps": {
+            "anyOf": [
+              {
+                "maximum": 60,
+                "type": "integer",
+                "minimum": 16
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "description": "Target FPS for the output. Frame interpolation is enabled only when this differs from the source FPS.",
+            "title": "Target Fps"
+          }
+        },
+        "x-fal-order-properties": [
+          "enable_safety_checker",
+          "video_url",
+          "model",
+          "upscale_factor",
+          "target_fps",
+          "compression",
+          "noise",
+          "halo",
+          "grain",
+          "recover_detail",
+          "H264_output"
+        ],
+        "type": "object",
+        "title": "VideoPrecisionUpscaleRequest",
+        "required": [
+          "video_url"
+        ]
+      },
+      "openapi_version": "3.1.0"
+    }
+  ],
+  "schema_detail": "compact: read one endpoint_id without endpoint_ids for exact_input_schema, output_schema and OpenAPI components",
+  "selection_guidance": "To choose a model for a task, call recommend_model: it applies current published guidance, checks fit and returns next_call with an input contract. Catalog order is not a quality ranking. Copy endpoint_id exactly; never add or change a provider prefix such as fal-ai/.",
+  "knowledge_status": "complete",
+  "model_knowledge": {
+    "models": [
+      {
+        "endpoint_id": "minimax/h3-max/recast",
+        "display_name": "H3 Max Recast",
+        "category": "video-to-video",
+        "relevance": null,
+        "insights": [
+          {
+            "kind": "usage_tip",
+            "body": "Do not prompt-expand. Leave the prompt empty and let the video and reference photos drive it; if mapping needs words, send only a plain line like 'Replace the person on the left with reference 1'. Simple instructions beat enhanced prompts here.",
+            "source": "curated",
+            "task": null,
+            "rank": null
+          }
+        ]
+      },
+      {
+        "endpoint_id": "minimax/h3-max/image-to-video",
+        "display_name": "H3 Max Image to Video",
+        "category": "image-to-video",
+        "relevance": null,
+        "insights": [
+          {
+            "kind": "default_pick",
+            "body": "Default for one starting still or a first-and-last-frame pair (image_url plus optional end_image_url) at 480P/768P, up to 15s.",
+            "source": "curated",
+            "task": {
+              "name": "Image to video",
+              "category": "image-to-video"
+            },
+            "rank": 1
+          }
+        ]
+      },
+      {
+        "endpoint_id": "google/gemini-omni-flash/v1.2/edit",
+        "display_name": "Gemini Omni Flash 1.2 Edit Video",
+        "category": "video-to-video",
+        "relevance": null,
+        "insights": []
+      },
+      {
+        "endpoint_id": "bytedance/seedance-2.5/flash/text-to-video",
+        "display_name": "Seedance 2.5 Flash Text to Video",
+        "category": "text-to-video",
+        "relevance": null,
+        "insights": []
+      },
+      {
+        "endpoint_id": "fal-ai/sync-lipsync/v3",
+        "display_name": "sync-3 Lipsync",
+        "category": "video-to-video",
+        "relevance": null,
+        "insights": []
+      },
+      {
+        "endpoint_id": "heygen/avatar-6/image-to-video",
+        "display_name": "HeyGen Avatar 6 Image to Video",
+        "category": "image-to-video",
+        "relevance": null,
+        "insights": []
+      },
+      {
+        "endpoint_id": "nvidia/nemotron-3-5-super/video",
+        "display_name": "NVIDIA Nemotron 3.5 Super Video",
+        "category": "video-to-text",
+        "relevance": null,
+        "insights": []
+      },
+      {
+        "endpoint_id": "fal-ai/elevenlabs/speech-to-text/scribe-v2",
+        "display_name": "ElevenLabs Speech to Text - Scribe V2",
+        "category": "speech-to-text",
+        "relevance": null,
+        "insights": []
+      },
+      {
+        "endpoint_id": "veed/dubbing/pro",
+        "display_name": "VEED Dubbing Pro",
+        "category": "video-to-video",
+        "relevance": null,
+        "insights": []
+      },
+      {
+        "endpoint_id": "topaz/upscale/video/precision",
+        "display_name": "Topaz Upscale Video Precision",
+        "category": "video-to-video",
+        "relevance": null,
+        "insights": []
+      }
+    ],
+    "evidence": {
+      "version": 3,
+      "compiled_at": "2026-11-16T02:00:07.226Z",
+      "window_start": "2026-11-09T00:00:00.000Z",
+      "window_end": "2026-11-16T00:00:00.000Z",
+      "evaluated_at": "2026-11-19T10:52:46.482Z",
+      "latency_definition": "Successful execution observations in milliseconds; mixed workloads; excludes queue/startup; not runtime guarantees.",
+      "instructions": "Successful execution observations in milliseconds; mixed workloads; excludes queue/startup; not runtime guarantees. Report p50/p90 with their measurement window. Null means unknown, never zero. Trending is the analytics category rank at its source timestamp, not adoption or quality. New means registry publication within 30 days of the response evaluation time, not first usage. Lab recommendations are authored guidance, not measured latency, trending or newness. Use the existing pricing tool for current prices, preserving billing units and required configuration; these observations contain no prices.",
+      "models": [
+        {
+          "endpoint_id": "minimax/h3-max/recast",
+          "evidence": {
+            "endpoint_id": "minimax/h3-max/recast",
+            "title": "H3 Max Recast",
+            "category": "video-to-video",
+            "usage_tier": null,
+            "latency": {
+              "p50_ms": null,
+              "p90_ms": null,
+              "sufficient_evidence": false,
+              "latest_request_at": null
+            },
+            "trending": {
+              "category_rank": 13,
+              "computed_at": "2026-11-15T10:50:33.453Z"
+            },
+            "published_at": "2026-10-01T21:04:11.079Z",
+            "is_new": false
+          }
+        },
+        {
+          "endpoint_id": "minimax/h3-max/image-to-video",
+          "evidence": {
+            "endpoint_id": "minimax/h3-max/image-to-video",
+            "title": "H3 Max Image to Video",
+            "category": "image-to-video",
+            "usage_tier": null,
+            "latency": {
+              "p50_ms": null,
+              "p90_ms": null,
+              "sufficient_evidence": false,
+              "latest_request_at": null
+            },
+            "trending": {
+              "category_rank": 2,
+              "computed_at": "2026-11-15T10:50:33.453Z"
+            },
+            "published_at": "2026-08-26T20:25:10.052Z",
+            "is_new": false
+          }
+        },
+        {
+          "endpoint_id": "google/gemini-omni-flash/v1.2/edit",
+          "evidence": {
+            "endpoint_id": "google/gemini-omni-flash/v1.2/edit",
+            "title": "Gemini Omni Flash 1.2 Edit Video",
+            "category": "video-to-video",
+            "usage_tier": null,
+            "latency": {
+              "p50_ms": null,
+              "p90_ms": null,
+              "sufficient_evidence": false,
+              "latest_request_at": null
+            },
+            "trending": {
+              "category_rank": 24,
+              "computed_at": "2026-11-15T10:50:33.453Z"
+            },
+            "published_at": "2026-11-05T19:44:28.846Z",
+            "is_new": true
+          }
+        },
+        {
+          "endpoint_id": "bytedance/seedance-2.5/flash/text-to-video",
+          "evidence": {
+            "endpoint_id": "bytedance/seedance-2.5/flash/text-to-video",
+            "title": "Seedance 2.5 Flash Text to Video",
+            "category": "text-to-video",
+            "usage_tier": null,
+            "latency": {
+              "p50_ms": null,
+              "p90_ms": null,
+              "sufficient_evidence": false,
+              "latest_request_at": null
+            },
+            "trending": {
+              "category_rank": 108,
+              "computed_at": "2026-11-15T10:50:33.453Z"
+            },
+            "published_at": "2026-11-15T06:05:02.683Z",
+            "is_new": true
+          }
+        },
+        {
+          "endpoint_id": "fal-ai/sync-lipsync/v3",
+          "evidence": {
+            "endpoint_id": "fal-ai/sync-lipsync/v3",
+            "title": "sync-3 Lipsync",
+            "category": "video-to-video",
+            "usage_tier": "high",
+            "latency": {
+              "p50_ms": 110979,
+              "p90_ms": 198542,
+              "sufficient_evidence": true,
+              "latest_request_at": "2026-11-15T23:59:44.868Z"
+            },
+            "trending": {
+              "category_rank": 3,
+              "computed_at": "2026-11-15T10:50:33.453Z"
+            },
+            "published_at": "2026-04-06T11:59:40.659Z",
+            "is_new": false
+          }
+        },
+        {
+          "endpoint_id": "heygen/avatar-6/image-to-video",
+          "evidence": null
+        },
+        {
+          "endpoint_id": "nvidia/nemotron-3-5-super/video",
+          "evidence": {
+            "endpoint_id": "nvidia/nemotron-3-5-super/video",
+            "title": "NVIDIA Nemotron 3.5 Super Video",
+            "category": "video-to-text",
+            "usage_tier": null,
+            "latency": {
+              "p50_ms": null,
+              "p90_ms": null,
+              "sufficient_evidence": false,
+              "latest_request_at": null
+            },
+            "trending": {
+              "category_rank": 4,
+              "computed_at": "2026-11-15T10:50:33.453Z"
+            },
+            "published_at": "2026-10-15T15:29:11.444Z",
+            "is_new": false
+          }
+        },
+        {
+          "endpoint_id": "fal-ai/elevenlabs/speech-to-text/scribe-v2",
+          "evidence": {
+            "endpoint_id": "fal-ai/elevenlabs/speech-to-text/scribe-v2",
+            "title": "ElevenLabs Speech to Text - Scribe V2",
+            "category": "speech-to-text",
+            "usage_tier": "high",
+            "latency": {
+              "p50_ms": 1753,
+              "p90_ms": 4123,
+              "sufficient_evidence": true,
+              "latest_request_at": "2026-11-15T23:59:59.152Z"
+            },
+            "trending": {
+              "category_rank": 1,
+              "computed_at": "2026-11-15T10:50:33.453Z"
+            },
+            "published_at": "2026-01-14T14:30:10.342Z",
+            "is_new": false
+          }
+        },
+        {
+          "endpoint_id": "veed/dubbing/pro",
+          "evidence": {
+            "endpoint_id": "veed/dubbing/pro",
+            "title": "VEED Dubbing Pro",
+            "category": "video-to-video",
+            "usage_tier": "low",
+            "latency": {
+              "p50_ms": 108039,
+              "p90_ms": 298253,
+              "sufficient_evidence": true,
+              "latest_request_at": "2026-11-13T22:59:54.939Z"
+            },
+            "trending": {
+              "category_rank": 120,
+              "computed_at": "2026-11-15T10:50:33.453Z"
+            },
+            "published_at": "2026-10-28T14:11:25.194Z",
+            "is_new": true
+          }
+        },
+        {
+          "endpoint_id": "topaz/upscale/video/precision",
+          "evidence": {
+            "endpoint_id": "topaz/upscale/video/precision",
+            "title": "Topaz Upscale Video Precision",
+            "category": "video-to-video",
+            "usage_tier": null,
+            "latency": {
+              "p50_ms": null,
+              "p90_ms": null,
+              "sufficient_evidence": false,
+              "latest_request_at": null
+            },
+            "trending": {
+              "category_rank": 9,
+              "computed_at": "2026-11-15T10:50:33.453Z"
+            },
+            "published_at": "2026-08-17T19:50:44.098Z",
+            "is_new": false
+          }
+        }
+      ]
+    },
+    "unavailable_endpoint_ids": [],
+    "stats_available": true,
+    "note": "Successful execution observations in milliseconds; mixed workloads; excludes queue/startup; not runtime guarantees. Report p50/p90 with their measurement window. Null means unknown, never zero. Trending is the analytics category rank at its source timestamp, not adoption or quality. New means registry publication within 30 days of the response evaluation time, not first usage. Lab recommendations are authored guidance, not measured latency, trending or newness. Use the existing pricing tool for current prices, preserving billing units and required configuration; these observations contain no prices."
+  }
+}

@@ -1,0 +1,272 @@
+{
+ "video_id": "-qVt0kNh0HE",
+ "topic": "Raphinha: all 18 goals and assists for Brazil, with commentary (qualifiers and friendlies)",
+ "hero": "Raphinha (Brazil, yellow shirt)",
+ "hero_role": "protagonist of highlight compilation",
+ "media_type_overall": "real broadcast footage",
+ "hook": "Black screen with animated 'M FOOTBALL' logo intro",
+ "subtitle_style": "Small teal lower-left caption per clip naming opponent and competition (e.g. Venezuela, World Cup qualification 2021); M watermark top-right",
+ "reaction_overlays": "small red YouTube-subscribe button overlay on a few clips; M watermark",
+ "transition_summary": "Logo intro then hard cuts clip by clip, each goal about 6-15 s; roughly 3-6 cuts per 10 s",
+ "audio_note": "Original match commentary (title says with commentary) plus music; transcript shows [music] and a commentator shouting 'Rafa'",
+ "reuse_segments": [
+  {
+   "t0": 5,
+   "t1": 60,
+   "what": "Raphinha goals and assists, Venezuela, Uruguay, Paraguay clips",
+   "origin_guess": "broadcast match",
+   "rights_risk": "high",
+   "how_to_reuse": "needs licensed broadcast; recreate with generated imagery or licensed clips; remove M watermark and captions"
+  }
+ ],
+ "frames": [
+  {
+   "idx": 1,
+   "t": 0,
+   "desc": "Black frame with white 'M FOOTBALL' logo",
+   "type": "graphic_card",
+   "text_on_screen": "M FOOTBALL",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 2,
+   "t": 2,
+   "desc": "Black frame with white 'M FOOTBALL' logo",
+   "type": "graphic_card",
+   "text_on_screen": "M FOOTBALL",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 3,
+   "t": 4,
+   "desc": "Black frame with white 'M FOOTBALL' logo",
+   "type": "graphic_card",
+   "text_on_screen": "M FOOTBALL",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 4,
+   "t": 6,
+   "desc": "Black frame with white 'M FOOTBALL' logo",
+   "type": "graphic_card",
+   "text_on_screen": "M FOOTBALL",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 5,
+   "t": 8,
+   "desc": "Black frame after logo",
+   "type": "graphic_card",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 6,
+   "t": 10,
+   "desc": "Brazil #10 and teammate close, Gran Tecnico ad board",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 7,
+   "t": 12,
+   "desc": "Two Brazil players hugging in celebration",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 8,
+   "t": 14,
+   "desc": "Neymar #10 hugging Raphinha in celebration, subscribe icon",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 9,
+   "t": 16,
+   "desc": "Player in yellow-green close, red subscribe button overlay",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 10,
+   "t": 18,
+   "desc": "Yellow #11 player close shot, subscribe overlay",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 11,
+   "t": 20,
+   "desc": "Wide stadium, Venezuela clip, Brazil attack",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 12,
+   "t": 22,
+   "desc": "Wide shot of pitch, Brazil attacking",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 13,
+   "t": 24,
+   "desc": "Goal-mouth, Brazil players in Venezuela box",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 14,
+   "t": 26,
+   "desc": "Wide shot, Brazil in yellow on attack",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 15,
+   "t": 28,
+   "desc": "Wide shot, ad boards, Brazil on attack",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 16,
+   "t": 30,
+   "desc": "Wide shot, ad board, Brazil build-up",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 17,
+   "t": 32,
+   "desc": "Close shot Brazil player vs Venezuela defenders, Betsson board",
+   "type": "video",
+   "text_on_screen": "betsson",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 18,
+   "t": 34,
+   "desc": "Goalkeeper diving, shot goes in, Brazil players near",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 19,
+   "t": 36,
+   "desc": "Wide pitch, Brazil attack vs Uruguay",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 20,
+   "t": 38,
+   "desc": "Wide shot of penalty area, Brazil shot",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 21,
+   "t": 40,
+   "desc": "Brazil dribble vs Uruguay defenders, medium",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 22,
+   "t": 42,
+   "desc": "Brazil player runs, opponent on ground, medium",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 23,
+   "t": 44,
+   "desc": "Wide pitch, Uruguay match, small players",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 24,
+   "t": 46,
+   "desc": "Wide pitch, Uruguay match, small players",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 25,
+   "t": 48,
+   "desc": "Wide pitch, Uruguay match, small players",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 26,
+   "t": 50,
+   "desc": "Wide pitch Uruguay match, goal area",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 27,
+   "t": 52,
+   "desc": "Goal-mouth view, Brazil shot, Colombia ad boards",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 28,
+   "t": 54,
+   "desc": "Brazil player beats keeper, ball in net",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 29,
+   "t": 56,
+   "desc": "Wide stadium shot, Paraguay in white vs Brazil",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 30,
+   "t": 58,
+   "desc": "Wide shot, Brazil possession vs Paraguay",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 31,
+   "t": 60,
+   "desc": "Wide shot, Brazil possession vs Paraguay",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "none"
+  }
+ ]
+}

@@ -1,0 +1,103 @@
+{
+ "no": 67,
+ "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/067_espn_ranks_lamine_yamal_the_best_pla.mp4",
+ "total": 37.766666666666666,
+ "outro_start": 31.96,
+ "cover": true,
+ "seq": [
+  {
+   "id": "s01",
+   "kind": "HOOK",
+   "start": 0.1,
+   "end": 1.6,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/067/s01.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s02",
+   "kind": "COMIC1",
+   "start": 3.6333333333333333,
+   "end": 5.633333333333334,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/067/s02.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s03",
+   "kind": "NEWS",
+   "start": 7.866666666666666,
+   "end": 9.633333333333333,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/067/s03.mp4",
+   "clip_dur": 1.767,
+   "frames": 42
+  },
+  {
+   "id": "s04",
+   "kind": "STATS",
+   "start": 11.6,
+   "end": 13.1,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/067/s04.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s05",
+   "kind": "COMIC2",
+   "start": 18.833333333333332,
+   "end": 20.833333333333332,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/067/s05.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s06",
+   "kind": "COMIC3",
+   "start": 23.6,
+   "end": 25.6,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/067/s06.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s07",
+   "kind": "PROVOC",
+   "start": 26.866666666666667,
+   "end": 28.366666666666667,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/067/s07.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s08",
+   "kind": "INTERVIEW",
+   "start": 30.1,
+   "end": 31.866666666666667,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/067/s08.mp4",
+   "clip_dur": 1.766,
+   "frames": 42
+  }
+ ],
+ "missing": [],
+ "dropped": [],
+ "cards": [
+  {
+   "text": "Olise third, Pedri ninth",
+   "a": 10.366666666666667,
+   "b": 11.466666666666667
+  }
+ ],
+ "caption_sprites": 107,
+ "whoosh": [
+  0.0,
+  3.533333333333333,
+  7.766666666666667,
+  11.5,
+  18.73333333333333,
+  23.5,
+  26.766666666666666,
+  30.0,
+  31.86
+ ],
+ "shots": 12
+}

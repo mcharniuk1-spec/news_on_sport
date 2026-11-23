@@ -1,0 +1,101 @@
+{
+  "no": 12,
+  "subject": "Lionel Messi",
+  "title": "Messi's penalty slump and Miami's HR problem",
+  "voice": "kokoro",
+  "comic": true,
+  "style": "simpsons",
+  "lines": [
+    {
+      "vo": "Lionel Messi has missed three penalties in a row.",
+      "card": "Three misses running",
+      "sfx": null,
+      "footage": "Messi penalty run-up, Nashville match (check for burned-in captions)"
+    },
+    {
+      "vo": "Two at the World Cup. One at Nashville in August. The first run like that since 2014.",
+      "card": "Since 2014",
+      "sfx": null,
+      "footage": "World Cup penalty clip, then Nashville penalty clip"
+    },
+    {
+      "vo": "Inter Miami have had three head coaches this year. Messi is the only constant.",
+      "card": "Three coaches, one Messi",
+      "sfx": null,
+      "footage": "Inter Miami sideline, Messi watching from the bench"
+    },
+    {
+      "vo": "Coaches arrive. Coaches leave. Messi gives the induction. He is the club's HR department.",
+      "card": "The HR department",
+      "sfx": "small cartoon boing",
+      "footage": "Messi shrugging, arms out"
+    },
+    {
+      "vo": "He finished fifth in the Ballon d'Or and skipped the gala. Fifth. Most players would frame it.",
+      "card": "Fifth, no gala",
+      "sfx": null,
+      "footage": "Ballon d'Or stage, empty seat or Messi archive photo"
+    },
+    {
+      "vo": "Instead he stayed in Miami for the Messi Cup, a youth tournament. Named after himself. Subtle.",
+      "card": "The Messi Cup",
+      "sfx": null,
+      "footage": "Messi Cup U-16 tournament, any public footage"
+    },
+    {
+      "vo": "Eight Ballon d'Or wins is still the all-time record. Bad run, great career.",
+      "card": "Eight Ballon d'Or",
+      "sfx": null,
+      "footage": "Messi Ballon d'Or trophy lift archive"
+    },
+    {
+      "vo": "Then Miami led Charlotte three-nil, and drew three-all. Messi did not score. Another one for HR.",
+      "card": "3-0 up, 3-3 final",
+      "sfx": null,
+      "footage": "Inter Miami vs Charlotte, final regular-season day, highlights"
+    },
+    {
+      "vo": "Your mates will never guess this. Match news and betting tips at aboutfootball dot UK.",
+      "card": "aboutfootball dot UK",
+      "sfx": null,
+      "footage": "End card, no footage"
+    }
+  ],
+  "chars": 746,
+  "est_seconds": 41,
+  "footage_terms": [
+    "Messi penalty miss Nashville 2026",
+    "Inter Miami Messi Charlotte 3-3 highlights",
+    "Messi Ballon d'Or 2026 ranking fifth",
+    "Messi Cup U-16 Inter Miami"
+  ],
+  "inserts": [
+    {
+      "after_line": 2,
+      "story": "A cartoon referee points to the penalty spot. A caricature Messi shoots, and the ball sails over the bar into a donut shop next door. The owner hands the ball back with a free donut and a loyalty card, already stamped three times.",
+      "characters": "caricature Messi (short hair, low centre of gravity); generic cartoon referee; generic cartoon shop owner",
+      "seconds": 3
+    },
+    {
+      "after_line": 4,
+      "story": "A cartoon office has a revolving door that spins three coaches out in three different tracksuits. A caricature Messi sits at the HR desk and hands the next coach a name badge, saying, try not to get comfy. The badge is a sticker that peels off by itself.",
+      "characters": "caricature Messi; generic cartoon coaches (no real people); generic cartoon receptionist",
+      "seconds": 3
+    },
+    {
+      "after_line": 7,
+      "story": "A cartoon trophy cabinet groans under eight golden balls. A caricature Messi squeezes in a tiny Messi Cup and the shelf snaps. He catches everything with one foot, and the cabinet whispers, show-off.",
+      "characters": "caricature Messi; generic cartoon trophy cabinet with a face; no real people",
+      "seconds": 3
+    }
+  ],
+  "facts_used": [
+    "Three penalty misses in a row: two at the World Cup (Austria, Egypt), then Nashville on 15 Aug; first such run since 2014 (research pack roast_now; the Nashville clip is an unverified viral_moments search link)",
+    "Inter Miami have had three head coaches in 2026: Mascherano, Hoyos (interim), Kily Gonzalez from 15 Sep; Messi the constant (https://en.wikipedia.org/wiki/2026_Inter_Miami_CF_season)",
+    "Messi finished fifth in the 2026 Ballon d'Or, skipped the gala and stayed in Miami for the Messi Cup, a U-16 tournament (https://www.si.com/soccer/lionel-messi-2026-ballon-dor-ranking-revealed)",
+    "Eight Ballon d'Or awards, a record (https://en.wikipedia.org/wiki/Lionel_Messi)",
+    "Miami led Charlotte 3-0 after 42 minutes, drew 3-3; Messi not among the scorers (https://www.espn.com/soccer/team/results/_/id/20232/inter-miami-cf)"
+  ],
+  "comic_score": 8,
+  "notes": "The penalty miss streak is a stat tease only and is not linked to his father's death (no-joke rule). The Nashville penalty clip is unverified, so confirm the footage before airing. Insert gags are fiction with generic characters and a caricature of Messi, with no factual claims. after_line counts from 1. Current hair and beard look unverified. Punch-up pass: HR-department running gag is called back at the end (line 8). 'Bad run, great career' is a mild roast and praise pair; no joke links the penalty misses to anything personal."
+}

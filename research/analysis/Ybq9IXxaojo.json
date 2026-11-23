@@ -1,0 +1,280 @@
+{
+ "video_id": "Ybq9IXxaojo",
+ "topic": "Kylian Mbappé's red-hot goal-scoring form at Real Madrid and for France, with commentary about 11 consecutive games scoring",
+ "hero": "Kylian Mbappé (Real Madrid / France)",
+ "hero_role": "protagonist praised by commentary",
+ "media_type_overall": "real broadcast footage",
+ "hook": "Close shot of Mbappé in France tracksuit beside goal with commentary starting ('But the way Kylian Mbappé's finishing')",
+ "subtitle_style": "small white all-caps sans-serif captions, bottom centre, thin dark shadow, static phrase-by-phrase",
+ "reaction_overlays": "none; small logo watermark top-right",
+ "transition_summary": "Hard cuts with a few flash/pop moments; fast rhythm (about 5-6 cuts per 10 s in first 30 s, then clip-per-2s goal montage)",
+ "audio_note": "Voice-over commentary (pundit-style) over background music",
+ "reuse_segments": [
+  {
+   "t0": 0,
+   "t1": 34,
+   "what": "Close-ups and match clips of Mbappé with captions about scoring streak",
+   "origin_guess": "broadcast match",
+   "rights_risk": "high",
+   "how_to_reuse": "needs licensed source; keep caption idea, recreate visuals"
+  },
+  {
+   "t0": 36,
+   "t1": 62,
+   "what": "Goal montage of Mbappé finishes in wide broadcast angles",
+   "origin_guess": "broadcast match",
+   "rights_risk": "high",
+   "how_to_reuse": "strip audio; licensed footage required"
+  }
+ ],
+ "frames": [
+  {
+   "idx": 1,
+   "t": 0,
+   "desc": "Mbappé in France tracksuit beside goal, blue-clad staffer in foreground, close",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 2,
+   "t": 2,
+   "desc": "Mbappé close-up in blue Real Madrid training top looking up",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "flash"
+  },
+  {
+   "idx": 3,
+   "t": 4,
+   "desc": "Mbappé claps hands with fireworks spark behind",
+   "type": "video",
+   "text_on_screen": "THE WAY KYLIAN MBAPPE",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 4,
+   "t": 6,
+   "desc": "Mbappé in Real white kit, hands to mouth, crowd behind",
+   "type": "video",
+   "text_on_screen": "IS FINISHING RIGHT NOW",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 5,
+   "t": 8,
+   "desc": "Mbappé in France kit with captain armband walking",
+   "type": "video",
+   "text_on_screen": "ELEVEN CONSECUTIVE STRAIGHT GAMES",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 6,
+   "t": 10,
+   "desc": "Mbappé in Real kit standing on pitch, wide-medium",
+   "type": "video",
+   "text_on_screen": "ELEVEN CONSECUTIVE STRAIGHT GAMES",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 7,
+   "t": 12,
+   "desc": "Mbappé raising arm to crowd in Real kit",
+   "type": "video",
+   "text_on_screen": "WITH A GOAL FOR CLUB AND COUNTRY",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 8,
+   "t": 14,
+   "desc": "Mbappé close-up in UCL stadium, glance sideways",
+   "type": "video",
+   "text_on_screen": "THIS TYPE OF FORM RIGHT NOW",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 9,
+   "t": 16,
+   "desc": "Mbappé close-up smiling, teammate arm beside him",
+   "type": "video",
+   "text_on_screen": "IS UNREAL TO BE SEEN",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 10,
+   "t": 18,
+   "desc": "Real player dribbles near Qatar Airways boards vs yellow kit",
+   "type": "video",
+   "text_on_screen": "HE'S GETTING BETTER AND BETTER",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 11,
+   "t": 20,
+   "desc": "Real #10 sprints with ball, blue-kit chaser",
+   "type": "video",
+   "text_on_screen": "AND I THINK THE LAST TIME YOU SAW",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 12,
+   "t": 22,
+   "desc": "Real player vs blue defender at World Cup qualifiers board",
+   "type": "video",
+   "text_on_screen": "A PLAYER GETTING DOUBLE FIGURES",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 13,
+   "t": 24,
+   "desc": "dark-kit #5 and white-kit player chase ball",
+   "type": "video",
+   "text_on_screen": "OF A LA LIGA SEASON",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 14,
+   "t": 26,
+   "desc": "France vs Croatia style duel, red-white and blue kits",
+   "type": "video",
+   "text_on_screen": "WAS CRISTIANO ABOUT TEN YEARS AGO",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 15,
+   "t": 28,
+   "desc": "white-kit attacker evades sliding defender",
+   "type": "video",
+   "text_on_screen": "AND HE HAD SEVENTEEN IN THAT PERIOD OF TIME",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 16,
+   "t": 30,
+   "desc": "white vs maroon kit race for ball",
+   "type": "video",
+   "text_on_screen": "SO HE'S IN A VERY GOOD COMPANY RIGHT NOW",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 17,
+   "t": 32,
+   "desc": "Real player with ball vs blue-kit defender",
+   "type": "video",
+   "text_on_screen": "REAL MADRID NEED HIM!",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 18,
+   "t": 34,
+   "desc": "Mbappé fist pump to crowd, fans behind",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 19,
+   "t": 36,
+   "desc": "wide broadcast view, Real white vs green kit",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 20,
+   "t": 38,
+   "desc": "wide broadcast view, attack building",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 21,
+   "t": 40,
+   "desc": "Real white-kit attacker vs yellow keeper close to goal",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 22,
+   "t": 42,
+   "desc": "shot at goal seen from behind net, white-kit player",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 23,
+   "t": 44,
+   "desc": "wide, blue vs white, ball in midfield",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 24,
+   "t": 46,
+   "desc": "blue-kit player runs with ball, white defender chasing",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 25,
+   "t": 48,
+   "desc": "wide of Real goal chance, player near box",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 26,
+   "t": 50,
+   "desc": "goal-end wide, white-kit attack vs blue",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 27,
+   "t": 52,
+   "desc": "wide goal chance, yellow keeper in box",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 28,
+   "t": 54,
+   "desc": "keeper beaten at PS5 goal, shot net-side",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 29,
+   "t": 56,
+   "desc": "orange keeper on floor, sky-blue City player near goal",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 30,
+   "t": 58,
+   "desc": "orange keeper 7 diving, sky-blue City player behind goal",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 31,
+   "t": 60,
+   "desc": "dark-blue vs white kits (Atalanta vs Real), midfield duel",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "none"
+  }
+ ]
+}

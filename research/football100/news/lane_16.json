@@ -1,0 +1,478 @@
+[
+  {
+    "headline": "Milan lose 0-2 at home to Ferencvaros; Amorim says his team was not mentally ready",
+    "date": "2026-11-05",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50393432/ruben-amorim-ac-milan-ferencvaros-uefa-europa-league",
+    "entities": ["AC Milan", "Ferencvaros", "Ruben Amorim", "Christian Pulisic", "Lenny Joseph"],
+    "facts": [
+      "Lenny Joseph scored both goals for Ferencvaros early in the second half at San Siro; the first followed a mistake by Milan backup keeper Lorenzo Torriani.",
+      "Milan have 3 points from 4 Europa League games and sit 28th in the 36-team league phase, outside the top 24.",
+      "Amorim said Milan lacked the mentality to fight back, admitted he may have erred, and said Ferencvaros deserved to win; the loss came days after Milan beat Inter in Serie A."
+    ],
+    "background": "Ruben Amorim is the former Manchester United manager who now coaches Milan; the side has lost only once in 10 Serie A games but three of four European games this season.",
+    "angle": "coach",
+    "sensitive": false,
+    "footage_terms": ["Milan Ferencvaros Europa League highlights", "Amorim press conference Milan Ferencvaros", "Lenny Joseph goals Ferencvaros San Siro"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Sunderland booed off after 0-2 home loss to Dinamo Zagreb as pressure grows on Le Bris",
+    "date": "2026-11-05",
+    "source_domain": "skysports.com",
+    "url": "https://www.skysports.com/football/sunderland-vs-din-zagreb/report/577811",
+    "entities": ["Sunderland", "Dinamo Zagreb", "Regis Le Bris", "Luka Stojkovic", "Dion Beljo"],
+    "facts": [
+      "Luka Stojkovic scored from a corner in the 22nd minute and Dion Beljo added a second before half-time at the Stadium of Light.",
+      "Sky reports fans jeered at half-time and full-time and many left early; Le Bris made six changes with the Chelsea game in mind and answered 'Probably' when asked if players lack confidence.",
+      "Sunderland are bottom of the Premier League and have won one of their last six games in all competitions; they are 11th in the Europa League table on 7 points."
+    ],
+    "background": "Le Bris led Sunderland to promotion via the play-offs, then a seventh-place finish in their first top-flight season in eight years, which earned their first European football in 53 years.",
+    "angle": "coach",
+    "sensitive": false,
+    "footage_terms": ["Sunderland Dinamo Zagreb highlights", "Le Bris press conference Sunderland Zagreb", "Stojkovic goal Sunderland Dinamo Zagreb"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Celtic turn it round from a goal down to beat Besiktas 3-2, avoiding a record fifth straight European loss",
+    "date": "2026-11-05",
+    "source_domain": "skysports.com",
+    "url": "https://www.skysports.com/football/celtic-vs-besiktas/report/577800",
+    "entities": ["Celtic", "Besiktas", "Martin O'Neill", "Callum Osmand", "Camilo Duran", "Sam Johnstone"],
+    "facts": [
+      "Sam Johnstone saved a Besiktas penalty but Junior Olaitan scored the rebound in the 54th minute; Callum Osmand then equalised with his first touch after coming on.",
+      "Camilo Duran scored twice, in the 79th and 87th minutes, after Orkun Kokcu's long-range strike had put Besiktas back in front.",
+      "It was Celtic's first Europa League win of the campaign; a defeat would have been their fifth straight European loss, a first for the club."
+    ],
+    "background": "Celtic are reigning Scottish Premiership champions under Martin O'Neill, with Osmand scoring a last-minute winner against Hearts to seal that title.",
+    "angle": "win",
+    "sensitive": false,
+    "footage_terms": ["Celtic Besiktas 3-2 highlights", "Duran goal Celtic Besiktas Europa League", "Martin O'Neill Celtic press conference Besiktas"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Palace snatch 1-1 with Hoffenheim after Wharton red card; Sage leaves Disasi out and dodges questions",
+    "date": "2026-11-05",
+    "source_domain": "skysports.com",
+    "url": "https://www.skysports.com/football/c-palace-vs-hoffenheim/report/577801",
+    "entities": ["Crystal Palace", "TSG Hoffenheim", "Pierre Sage", "Adam Wharton", "Daichi Kamada", "Axel Disasi"],
+    "facts": [
+      "Alexander Prass put Hoffenheim ahead in the 7th minute; Daichi Kamada equalised in the first minute of stoppage time after a Tyrick Mitchell header.",
+      "Adam Wharton was sent off in the 77th minute for a second yellow card, so Palace finished with ten men.",
+      "Sage would not explain why Axel Disasi, who had played every Europa League minute, was left out of the squad and called it an internal decision."
+    ],
+    "background": "Palace won the Conference League last season under Oliver Glasner, who left in the summer; Sage replaced him.",
+    "angle": "coach",
+    "sensitive": false,
+    "footage_terms": ["Crystal Palace Hoffenheim 1-1 highlights", "Kamada equaliser Palace Hoffenheim", "Wharton red card Palace Hoffenheim"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Crystal Palace sack Pierre Sage after five months; club bottom of the Premier League",
+    "date": "2026-11-12",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50211714/pierre-sage-sacked-crystal-palace-manager",
+    "entities": ["Crystal Palace", "Pierre Sage", "Oliver Glasner", "Michael Carrick", "Manchester United"],
+    "facts": [
+      "Palace dismissed Sage after about five months, around an hour after Manchester United sacked Michael Carrick; they are the first two Premier League managers sacked this season.",
+      "Palace were bottom with 7 points after a fourth straight league defeat, at home to Liverpool, and won 2 of 10 league games under Sage plus 1 of 4 in the Europa League.",
+      "Three coaches also left: Jamal Alioui, Damien Della Santa and Sandy Guichard."
+    ],
+    "background": "Sage replaced Oliver Glasner, who led Palace to three trophies in two years, and had earlier coached Lyon, where Palace lost 3-2 to his former club in the Europa League.",
+    "angle": "scandal",
+    "sensitive": false,
+    "footage_terms": ["Pierre Sage sacked Crystal Palace", "Crystal Palace Liverpool Selhurst Park highlights", "Sage press conference Crystal Palace"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Thomas Frank named Palace manager on a three-year deal, with Spurs coffee-cup saga in tow",
+    "date": "2026-11-16",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50462553/thomas-frank-appointed-new-crystal-palace-manager",
+    "entities": ["Thomas Frank", "Crystal Palace", "Steve Parish", "Tottenham", "Arsenal"],
+    "facts": [
+      "Palace appointed Thomas Frank on a three-year contract after sacking Pierre Sage; chairman Steve Parish said his Premier League experience will help the club.",
+      "A separate ESPN piece (19 Nov) recalls that Frank was photographed in January drinking from an Arsenal-branded cup before Spurs lost to Bournemouth, and that Spurs sacked him in February after under eight months.",
+      "His first game in charge is away at Coventry on Saturday 21 November."
+    ],
+    "background": "Frank previously managed Brentford and Tottenham; Palace are the Europa League side who sacked Sage with the club bottom of the table.",
+    "angle": "coach",
+    "sensitive": false,
+    "footage_terms": ["Thomas Frank Crystal Palace appointed", "Thomas Frank press conference Palace", "Thomas Frank Arsenal cup Tottenham"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Ten-man Sparta fall to Bournemouth 1-3 as subs deliver a seventh straight win",
+    "date": "2026-11-05",
+    "source_domain": "skysports.com",
+    "url": "https://www.skysports.com/football/sp-prague-vs-bmouth/report/577809",
+    "entities": ["Bournemouth", "Sparta Prague", "Tyler Adams", "Evanilson", "Marco Rose", "Rayan"],
+    "facts": [
+      "Ebrima Singhateh scored a solo goal from his own half to put Sparta ahead before Tobias Guddal was sent off for a second yellow around the 37th minute.",
+      "Tyler Adams equalised at 57 minutes with a first-time shot, then Evanilson (81') and Rayan (90+) won it; Lewis Cook had earlier hit the post with a penalty.",
+      "Bournemouth made eight changes from the Leeds win, extended their winning run to seven games in all competitions and lead the Europa League table with four wins from four."
+    ],
+    "background": "Adams's goal was his first since November 2025 and his first European goal since August 2020 with RB Leipzig.",
+    "angle": "win",
+    "sensitive": false,
+    "footage_terms": ["Sparta Prague Bournemouth highlights", "Tyler Adams goal Sparta Bournemouth", "Marco Rose press conference Bournemouth Sparta"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Bournemouth beat Milan 3-0 after Maignan is sent off for shoving Tyler Adams in the face",
+    "date": "2026-10-22",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50252812/bournemouth-ac-milan-europa-league-ruben-amorim-marco-rose",
+    "entities": ["Bournemouth", "AC Milan", "Mike Maignan", "Tyler Adams", "Marco Rose", "Ruben Amorim"],
+    "facts": [
+      "Justin Kluivert scored a penalty in the 8th minute after Koni De Winter handled; Mike Maignan was sent off in the 27th minute for shoving Tyler Adams in the face, and Marcus Tavernier added a penalty.",
+      "Amine Adli completed the scoring with an 84th-minute free kick; it was Milan's first defeat of the season in all competitions.",
+      "Bournemouth became the first English club since 1973 to win their first three matches in a major continental competition."
+    ],
+    "background": "Milan were unbeaten in all competitions before this game under Ruben Amorim, who said the match was effectively over once Maignan was dismissed.",
+    "angle": "record",
+    "sensitive": false,
+    "footage_terms": ["Bournemouth Milan 3-0 highlights", "Maignan red card Bournemouth", "Marco Rose Bournemouth Milan press conference"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Milan condemn racist abuse aimed at Maignan after his red card in Bournemouth",
+    "date": "2026-10-23",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50259678/ac-milan-mike-maignan-red-card-racist-abuse-bournemouth",
+    "entities": ["AC Milan", "Mike Maignan", "Bournemouth"],
+    "facts": [
+      "After his 27th-minute red card in the 3-0 loss at Bournemouth, Maignan was targeted with racist abuse on social media.",
+      "Milan called it serious and unacceptable abuse, condemned all forms of racism and expressed solidarity with the goalkeeper.",
+      "The club called on supporters and the Italian league to unite against racism."
+    ],
+    "background": "Maignan walked off the pitch during a January 2024 Serie A match at Udinese after racist chants from opposing fans.",
+    "angle": "scandal",
+    "sensitive": true,
+    "footage_terms": ["Maignan racism Milan statement", "Maignan Udinese walks off racist chants", "Mike Maignan interview"],
+    "confidence": "high"
+  },
+  {
+    "headline": "UEFA moves Rennes v Olympiacos a day earlier because of French general strike; match ends 0-0",
+    "date": "2026-10-28",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50307450/uefa-moves-europa-league-game-date-rennes-protests",
+    "entities": ["Stade Rennais", "Olympiacos", "UEFA", "Brice Samba", "Stefan Ortega"],
+    "facts": [
+      "UEFA moved Rennes-Olympiacos from Thursday 5 November to the Wednesday before, with a 4:30 p.m. local kick-off, after French authorities said routine security could not be assured during a planned national strike.",
+      "The strike was called by French unions amid protests over cost of living; Ligue 1 also moved games that weekend.",
+      "ESPN's match page shows the game, played 4 November at Roazhon Park, finished 0-0 (Olympiacos 58% possession, Rennes 4 shots on target to 3)."
+    ],
+    "background": "Olympiacos are 3-1-0 with 10 points in the league phase while Rennes are unbeaten with 1 win and 3 draws.",
+    "angle": "business",
+    "sensitive": false,
+    "footage_terms": ["Rennes Olympiacos 0-0 highlights", "France general strike protests November 2026", "Roazhon Park Rennes Olympiacos"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Hearts boss uses a makeshift left-back to mark Salah; Trabzonspor win 2-0 in Conference League",
+    "date": "2026-10-22",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50255952/if-salah-scores-three-hearts-boss-key-conundrum",
+    "entities": ["Heart of Midlothian", "Trabzonspor", "Mohamed Salah", "Wouter Vrancken", "Rogers Mato"],
+    "facts": [
+      "Hearts coach Wouter Vrancken picked winger Rogers Mato at left-back to mark Mohamed Salah, saying critics would call it wrong if Salah scored two or three.",
+      "Trabzonspor won 2-0 in Turkey; Salah scored a penalty and set up Franculino's goal.",
+      "Hearts travelled with a long injury list a few days after a 7-1 defeat at Celtic Park."
+    ],
+    "background": "Salah left Liverpool this summer and is now playing in the Turkish club's Conference League campaign.",
+    "angle": "viral",
+    "sensitive": false,
+    "footage_terms": ["Trabzonspor Hearts Conference League highlights", "Salah penalty Trabzonspor Hearts", "Vrancken Hearts press conference Salah"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Onana concedes a direct corner, saves a penalty and Salah scores as Trabzonspor beat KuPS 4-2",
+    "date": "2026-10-15",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50194613/andre-onana-concedes-direct-corner-saves-penalty-mo-salah-scores-again",
+    "entities": ["Trabzonspor", "KuPS Kuopio", "Andre Onana", "Mohamed Salah", "Paul Onuachu", "Franculino Dju", "Manchester United"],
+    "facts": [
+      "Onana let in a corner from Petteri Pennanen directly, then dived to his right to save a penalty; the rebound went over the bar.",
+      "Paul Onuachu scored after three minutes, Salah made it 2-0 before half-time and now has eight goals in eight games; Franculino Dju scored his second in stoppage time.",
+      "Onana is on a second season-long loan from Manchester United, was told in the summer he was not in Michael Carrick's plans, and has two years left on his United deal."
+    ],
+    "background": "Manchester United sacked Michael Carrick on 12 November, a month after this story, according to ESPN's report on Crystal Palace's own sacking.",
+    "angle": "viral",
+    "sensitive": false,
+    "footage_terms": ["Onana corner goal Trabzonspor KuPS", "Onana penalty save Trabzonspor", "Salah goal Trabzonspor KuPS"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Salah and Trabzonspor lose 0-1 at home to Freiburg in Conference League",
+    "date": "2026-11-05",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/match/_/gameId/401915825/sc-freiburg-trabzonspor",
+    "entities": ["Trabzonspor", "SC Freiburg", "Mohamed Salah", "Andre Onana"],
+    "facts": [
+      "Freiburg won 1-0 at Papara Park with a 14th-minute goal from a corner (ESPN's scorer credit conflicts with its shot map).",
+      "Match stats show Salah with four shots, none a goal, and no assist; Trabzonspor had 63% possession but 2 shots on goal to Freiburg's 5.",
+      "Andre Onana made four saves; both teams entered the game 2-0-1 with 6 points."
+    ],
+    "background": "Salah scored a penalty and set up a goal in the 2-0 win over Hearts and has eight goals in eight games since leaving Liverpool, per ESPN.",
+    "angle": "viral",
+    "sensitive": false,
+    "footage_terms": ["Trabzonspor Freiburg highlights Conference League", "Salah Trabzonspor Freiburg", "Onana saves Trabzonspor Freiburg"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Balogun added to Monaco's Conference League squad after the failed Everton move",
+    "date": "2026-11-03",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50370942/monaco-usmnt-balogun-conference-league-squad",
+    "entities": ["Folarin Balogun", "AS Monaco", "Everton", "Ansu Fati", "USMNT"],
+    "facts": [
+      "UEFA's squad list shows Balogun among Monaco's forwards; Ansu Fati was removed after an injury on 25 October.",
+      "Balogun scored his first Monaco goal in a 3-1 loss at Paris FC, having come off the bench in all five of his appearances.",
+      "He had been close to joining Everton for a reported 40 million pounds on 1 September but pulled out after the club raised doubts about his health in a medical, and Monaco then left him out of the first Conference League squad."
+    ],
+    "background": "Balogun starred for the USA at the World Cup, where a red card in the round-of-32 win over Bosnia led to controversy before FIFA deferred his suspension.",
+    "angle": "transfer",
+    "sensitive": true,
+    "footage_terms": ["Folarin Balogun Monaco goal", "Balogun Everton transfer collapse", "Balogun USMNT World Cup red card"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Brighton win 1-0 at Getafe in their first Spanish visit; only 570 away fans allowed",
+    "date": "2026-11-05",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/report/_/gameId/401915821",
+    "entities": ["Brighton & Hove Albion", "Getafe", "Fabian Hurzeler", "Malick Yalcouye", "Pascal Gross"],
+    "facts": [
+      "Malick Yalcouye headed the winner in the 64th minute off the crossbar after a Pascal Gross cross cushioned back by Costinha.",
+      "Only 570 Brighton fans attended in front of 8,007 because of renovation work, and the ground was nicknamed 'Getamford Bridge'.",
+      "Brighton are fifth with 7 points and are the only team yet to concede in the Conference League; Hurzeler made five changes after beating Manchester City."
+    ],
+    "background": "Getafe were hosting their first competitive match against an English side in Spain and have 1 point from 3 league-phase games before this loss.",
+    "angle": "win",
+    "sensitive": false,
+    "footage_terms": ["Getafe Brighton highlights Conference League", "Yalcouye header Getafe Brighton", "Hurzeler press conference Getafe"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Brighton held 0-0 at Jablonec in Hurzeler's 100th game as their winning run ends",
+    "date": "2026-10-22",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/report/_/gameId/401915842",
+    "entities": ["Brighton & Hove Albion", "Jablonec", "Fabian Hurzeler", "Georginio Rutter", "Bart Verbruggen", "Lubos Kozel"],
+    "facts": [
+      "Malick Yalcouye had a second-half goal ruled out for offside and Georginio Rutter's stoppage-time shot was saved by Jan Hanus.",
+      "Hurzeler made eight changes from the 5-0 Premier League win over Crystal Palace in his 100th match in charge.",
+      "Jablonec coach Lubos Kozel had said his side would need a miracle to get a result; Bart Verbruggen tipped a Jiri Slama drive onto the bar late on."
+    ],
+    "background": "Jablonec knocked Rangers out of the Conference League play-off on penalties in August, a result that left Derek McInnes mortified.",
+    "angle": "record",
+    "sensitive": false,
+    "footage_terms": ["Jablonec Brighton 0-0 highlights", "Hurzeler 100th game Brighton", "Rutter chance Jablonec Brighton"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Hurzeler says he is fully committed to Brighton after Manchester United rumours",
+    "date": "2026-11-20",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50540734/fabin-hurzeler-brighton-man-united-mauricio-pochettino",
+    "entities": ["Fabian Hurzeler", "Brighton & Hove Albion", "Tony Bloom", "Manchester United", "Mauricio Pochettino", "Michael Carrick"],
+    "facts": [
+      "Hurzeler said he is fully committed to Brighton and dismissed the interest from other clubs as rumours.",
+      "Reports said Manchester United had considered him as a replacement for the sacked Michael Carrick before appointing Mauricio Pochettino the previous week.",
+      "Chairman Tony Bloom said he would fight very hard to keep Hurzeler; Brighton are second in the Premier League and play Hull on Sunday."
+    ],
+    "background": "Brighton are in the Conference League league phase, unbeaten with a 4-0 win over Kauno Zalgiris and a 1-0 win at Getafe.",
+    "angle": "coach",
+    "sensitive": false,
+    "footage_terms": ["Hurzeler Brighton press conference Manchester United", "Hurzeler Brighton second Premier League", "Tony Bloom Brighton Hurzeler"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Rutter bags a brace as Brighton thrash Kauno Zalgiris 4-0 on their Conference League debut",
+    "date": "2026-10-15",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/report/_/gameId/401915853",
+    "entities": ["Brighton & Hove Albion", "Kauno Zalgiris", "Georginio Rutter", "Jack Hinshelwood", "Matt O'Riley"],
+    "facts": [
+      "Georginio Rutter scored in the 41st and 53rd minutes on his first start since the opening day, after losing his place to teenager Charalampos Kostoulas.",
+      "Jack Hinshelwood (45+2) and Matt O'Riley (67') also scored; Hinshelwood returned from an ankle injury that kept him out since August.",
+      "Brighton arrived on a four-match winning streak in all competitions that included wins over Arsenal and Manchester United."
+    ],
+    "background": "Kauno Zalgiris are the Lithuanian champions who dropped down into the Conference League after losing in the Champions League and Europa League play-offs.",
+    "angle": "win",
+    "sensitive": false,
+    "footage_terms": ["Brighton Kauno Zalgiris 4-0 highlights", "Rutter brace Brighton Conference League", "Hurzeler press conference Kauno Zalgiris"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Ajax hit Midtjylland for six in Conference League, Arokodare scores twice",
+    "date": "2026-11-05",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/match/_/gameId/401915829/ajax-amsterdam-fc-midtjylland",
+    "entities": ["Ajax", "FC Midtjylland", "Tolu Arokodare", "Owen Wijndal", "Davy Klaassen", "Oscar Gloukh", "Marcos Leonardo"],
+    "facts": [
+      "Ajax won 6-1 in Herning, with Tolu Arokodare scoring in the 9th and 52nd minutes per the match header.",
+      "Owen Wijndal, Davy Klaassen, Oscar Gloukh and Marcos Leonardo scored the other goals; ESPN's shot map disagrees on some scorers, so only the 6-1 score is firm.",
+      "Midtjylland, who started the night with 1 point from three games, are heading toward the bottom of the table."
+    ],
+    "background": "Ajax sold winger Mika Godts to PSG for 55 million euros this summer, according to ESPN's transfer report.",
+    "angle": "win",
+    "sensitive": false,
+    "footage_terms": ["Midtjylland Ajax 1-6 highlights", "Arokodare goals Ajax Midtjylland", "Ajax Conference League highlights"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Hearts lose 1-3 at Thun, slipping towards the foot of the Conference League table",
+    "date": "2026-11-05",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/match/_/gameId/401915828/heart-of-midlothian-fc-thun",
+    "entities": ["Heart of Midlothian", "FC Thun", "Jamie McCart", "Stuart Findlay", "Wouter Vrancken"],
+    "facts": [
+      "Thun won 3-1 at the Stockhorn Arena; the match header lists a Jamie McCart own goal (22'), Labeau (34'), Dursun (56') and a Stuart Findlay goal for Hearts (82').",
+      "ESPN's shot map credits some goals differently, so only the 3-1 score is firm.",
+      "Hearts had 1 point from three games before the match and sat 32nd in the 36-team table."
+    ],
+    "background": "Hearts arrived after a 7-1 league defeat at Celtic Park on 18 October and a 2-0 loss at Salah's Trabzonspor.",
+    "angle": "scandal",
+    "sensitive": false,
+    "footage_terms": ["Thun Hearts 3-1 highlights", "Hearts Conference League Thun", "Vrancken press conference Hearts Thun"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Benfica beat Lech Poznan 3-1 and sit top of the Europa League table on 12 points",
+    "date": "2026-11-05",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/match/_/gameId/401915525/lech-poznan-benfica",
+    "entities": ["Benfica", "Lech Poznan", "Rafa Silva", "Gianluca Prestianni", "Anatoliy Trubin"],
+    "facts": [
+      "Benfica won 3-1 at the Estadio da Luz, with Rafa Silva scoring in the 6th minute and Gianluca Prestianni in the 67th; ESPN's page is inconsistent on the other scorers.",
+      "Benfica now have four wins from four and 12 points, top of the 36-team table on goal difference ahead of Bournemouth and Ferencvaros.",
+      "Lech Poznan have 1 point from four games and a goal difference of minus 10 on ESPN's table."
+    ],
+    "background": "Benfica signed midfielder Joao Palhinha from Bayern Munich this summer, and beat Celtic and Milan earlier in the campaign.",
+    "angle": "record",
+    "sensitive": false,
+    "footage_terms": ["Benfica Lech Poznan 3-1 highlights", "Benfica Europa League highlights", "Prestianni goal Benfica Lech"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Juventus beat AZ Alkmaar 2-1 away in the Europa League",
+    "date": "2026-11-05",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/match/_/gameId/401915529/juventus-az-alkmaar",
+    "entities": ["Juventus", "AZ Alkmaar", "Teun Koopmeiners", "Randal Kolo Muani", "Mexx Meerdink"],
+    "facts": [
+      "Juventus won 2-1 at the AFAS Stadion, with Teun Koopmeiners scoring in the 19th minute and Randal Kolo Muani in the 37th; Mexx Meerdink replied in the 88th.",
+      "ESPN's page contains conflicting shot-map data, so only the 2-1 score and header scorers are used here.",
+      "Juventus have 3 wins and 1 draw (10 points) and sit fifth in the league phase."
+    ],
+    "background": "Days earlier Juventus beat ten-man Napoli in Serie A through long-range goals from Kerim Alajbegovic and Jeremie Boga, and they have been linked with USMNT forward Folarin Balogun.",
+    "angle": "win",
+    "sensitive": false,
+    "footage_terms": ["AZ Alkmaar Juventus 1-2 highlights", "Koopmeiners goal Juventus AZ", "Kolo Muani goal Juventus AZ"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Pulisic signs new Milan contract through 2031 as the club unveils a new stadium plan",
+    "date": "2026-10-30",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50308383/usmnt-star-christian-pulisic-signs-new-ac-milan-contract",
+    "entities": ["Christian Pulisic", "AC Milan", "Ruben Amorim", "Chelsea"],
+    "facts": [
+      "Pulisic, 28, signed a new deal through 2031; his previous contract was due to expire in June 2027.",
+      "He said Milan is the most important chapter of his career and the club's social media called it Captain America's Rossonero mission.",
+      "The deal came a day after Milan announced a new stadium due to open in 2031, with a naming-rights deal the clubs called one of the largest in global sport."
+    ],
+    "background": "Pulisic joined Milan from Chelsea in 2023 for about 22 million euros and has 44 goals and 28 assists in 141 appearances, but started Milan's Europa League defeat to Ferencvaros on the bench.",
+    "angle": "business",
+    "sensitive": false,
+    "footage_terms": ["Pulisic new contract Milan 2031", "Pulisic goals Milan", "Pulisic interview Milan contract"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Milan owner Cardinale confirms RedBird is exploring a bid for Ronaldo's Al Nassr",
+    "date": "2026-10-30",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50326867/ac-milan-gerry-cardinale-buying-cristiano-ronaldo-al-nassr",
+    "entities": ["Gerry Cardinale", "RedBird Capital Partners", "AC Milan", "Al Nassr", "Cristiano Ronaldo", "Gazzetta dello Sport"],
+    "facts": [
+      "In an interview with Gazzetta dello Sport, Cardinale confirmed discussions to assess the Al Nassr opportunity, which he called preliminary.",
+      "Al Nassr is owned by Saudi Arabia's Public Investment Fund, and reports say Ronaldo, 41, could become a part-owner in a RedBird-led takeover.",
+      "Ronaldo's Al Nassr contract expires in June 2027; Cardinale said he would like to meet Ronaldo to learn what he might want to do after retiring."
+    ],
+    "background": "RedBird bought 85% of Toulouse in 2020 and completed its acquisition of Milan two years later; Cardinale says he will keep assessing ownership of multiple clubs.",
+    "angle": "business",
+    "sensitive": false,
+    "footage_terms": ["Cardinale Al Nassr RedBird Ronaldo", "Cristiano Ronaldo Al Nassr goals", "Gerry Cardinale Milan interview"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Sunderland beat Chelsea 1-0 for first Premier League win since August, days after Europa League loss",
+    "date": "2026-11-08",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50433897/chelsea-sunderland-premier-league-bullied",
+    "entities": ["Sunderland", "Chelsea", "Enzo Le Fee", "Brian Brobbey", "Regis Le Bris", "Alonso"],
+    "facts": [
+      "Enzo Le Fee scored from a 36th-minute penalty at the Stadium of Light after Brian Brobbey was brought down following a tussle with Levi Colwill.",
+      "It was Sunderland's first Premier League win since August and lifted them off the bottom; Chelsea's fourth league defeat dropped them out of the top four.",
+      "Chelsea's boss Alonso rejected the idea his team were bullied, saying they could have defended better."
+    ],
+    "background": "Sunderland had lost 0-2 at home to Dinamo Zagreb in the Europa League on 5 November, with Le Bris under pressure after one win from nine league games.",
+    "angle": "win",
+    "sensitive": false,
+    "footage_terms": ["Sunderland Chelsea 1-0 highlights", "Le Fee penalty Sunderland Chelsea", "Le Bris press conference Sunderland Chelsea"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Atalanta held 1-1 at home by Kairat Almaty in the Conference League",
+    "date": "2026-11-05",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/match/_/gameId/401915830/kairat-almaty-atalanta",
+    "entities": ["Atalanta", "Kairat Almaty", "Marc Gual", "Nikola Krstovic", "Maurizio Sarri"],
+    "facts": [
+      "The match at the New Balance Arena in Bergamo finished 1-1 according to ESPN's score box.",
+      "Match stats show Atalanta with 70% possession and 1.89 expected goals against Kairat's 0.67, and Kairat's keeper Anarbekov making six saves.",
+      "ESPN's header and shot map disagree on the scorers, so only the 1-1 result is firm."
+    ],
+    "background": "Atalanta hired Maurizio Sarri in the summer, their third coaching change in a year, according to ESPN.",
+    "angle": "scandal",
+    "sensitive": false,
+    "footage_terms": ["Atalanta Kairat 1-1 highlights", "Sarri Atalanta press conference Kairat", "Atalanta Conference League highlights"],
+    "confidence": "low"
+  },
+  {
+    "headline": "Celje win 3-2 at Sturm Graz in a seven-goal Europa League thriller",
+    "date": "2026-11-05",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/match/_/gameId/401915524/nk-celje-sk-sturm-graz",
+    "entities": ["NK Celje", "SK Sturm Graz", "Svit Seslar", "Oumar Diakite", "Benjamin Verbic"],
+    "facts": [
+      "Celje won 3-2 at the Merkur Arena in Graz, with Svit Seslar scoring twice per the match header and Benjamin Verbic once.",
+      "Oumar Diakite scored twice for Sturm, including a 93rd-minute consolation.",
+      "Both sides entered on 4 points; ESPN's shot map conflicts with the header on goal timings, so only the 3-2 score is firm."
+    ],
+    "background": "Celje, from Slovenia, sit 25th in the 36-team league phase, with Sturm Graz one place above them on goal difference.",
+    "angle": "win",
+    "sensitive": false,
+    "footage_terms": ["Sturm Graz Celje 2-3 highlights", "Celje Europa League highlights", "Sturm Graz Europa League goals"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Marseille win 1-0 at Bayer Leverkusen in the Europa League",
+    "date": "2026-11-05",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/match/_/gameId/401915533/marseille-bayer-leverkusen",
+    "entities": ["Marseille", "Bayer Leverkusen", "Amine Gouiri", "Jarell Quansah"],
+    "facts": [
+      "Marseille won 1-0 at the BayArena in front of 28,758; ESPN's header credits Amine Gouiri in the 77th minute but its shot map shows a different scorer, so the scorer is uncertain.",
+      "Leverkusen had 58% possession and 10 shots to Marseille's 8, but missed late chances including Schick in stoppage time.",
+      "ESPN's standings page lists Leverkusen on 9 points from 4 games, but it may not yet reflect this result."
+    ],
+    "background": "Marseille fans criticised the US owner's so-called 'Ligue 2 project' in October, according to an ESPN headline.",
+    "angle": "win",
+    "sensitive": false,
+    "footage_terms": ["Leverkusen Marseille 0-1 highlights", "Marseille Europa League highlights", "Gouiri goal Marseille Leverkusen"],
+    "confidence": "low"
+  }
+]

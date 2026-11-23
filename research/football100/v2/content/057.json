@@ -1,0 +1,584 @@
+{
+ "no": 57,
+ "style": "FLAT-POP",
+ "prop": "ball",
+ "cast": {
+  "hakimi": {
+   "role": "player",
+   "number": "2",
+   "shirt": "#1d3f8f",
+   "hair": "#2b2b3a"
+  },
+  "enrique": {
+   "role": "coach",
+   "hair": "#9aa0a6",
+   "shirt": "#2b2b3a"
+  }
+ },
+ "sequences": {
+  "s01": {
+   "type": "HOOK",
+   "q": "A defender in all five goals?",
+   "prop": "boots",
+   "emote": "shock",
+   "board": "neon",
+   "role": "player"
+  },
+  "s02": {
+   "type": "COMIC",
+   "bg": "pitch",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.24,
+     "actors": [
+      {
+       "id": "hakimi",
+       "x": 290,
+       "y": 1440,
+       "pose": "present",
+       "emote": "smug",
+       "scale": 1.4,
+       "label": "Hakimi"
+      }
+     ],
+     "props": [
+      {
+       "kind": "table",
+       "x": 760,
+       "y": 1285,
+       "scale": 2.4
+      },
+      {
+       "kind": "bucket",
+       "x": 760,
+       "y": 1090,
+       "scale": 1.8
+      }
+     ],
+     "fx": [
+      {
+       "kind": "sparkle",
+       "x": 760,
+       "y": 900
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.24,
+     "t1": 0.4,
+     "actors": [
+      {
+       "id": "hakimi",
+       "x": 290,
+       "y": 1440,
+       "pose": "point",
+       "emote": "happy",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "table",
+       "x": 760,
+       "y": 1285,
+       "scale": 2.4
+      },
+      {
+       "kind": "bucket",
+       "x": 760,
+       "y": 1090,
+       "scale": 1.8
+      },
+      {
+       "kind": "ball",
+       "x": 760,
+       "y": 900,
+       "scale": 1.0,
+       "anim": "arc"
+      }
+     ],
+     "cam": "push"
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.4,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "hakimi",
+       "x": 290,
+       "y": 1440,
+       "pose": "present",
+       "emote": "smug",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "table",
+       "x": 760,
+       "y": 1285,
+       "scale": 2.4
+      },
+      {
+       "kind": "bucket",
+       "x": 760,
+       "y": 1090,
+       "scale": 1.8
+      },
+      {
+       "kind": "ball",
+       "x": 760,
+       "y": 900,
+       "scale": 1.0
+      },
+      {
+       "kind": "ball",
+       "x": 760,
+       "y": 740,
+       "scale": 1.0,
+       "anim": "pop"
+      },
+      {
+       "kind": "ball",
+       "x": 760,
+       "y": 580,
+       "scale": 1.0,
+       "anim": "pop"
+      }
+     ],
+     "sfx": {
+      "text": "POP",
+      "x": 560,
+      "y": 930,
+      "r": 100
+     }
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "hakimi",
+       "x": 290,
+       "y": 1440,
+       "pose": "cheer",
+       "emote": "wink",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "table",
+       "x": 760,
+       "y": 1285,
+       "scale": 2.4
+      },
+      {
+       "kind": "bucket",
+       "x": 760,
+       "y": 1090,
+       "scale": 1.8
+      },
+      {
+       "kind": "ball",
+       "x": 760,
+       "y": 900,
+       "scale": 1.0
+      },
+      {
+       "kind": "ball",
+       "x": 760,
+       "y": 740,
+       "scale": 1.0
+      },
+      {
+       "kind": "ball",
+       "x": 760,
+       "y": 580,
+       "scale": 1.0
+      },
+      {
+       "kind": "paper-plane",
+       "x": 610,
+       "y": 700,
+       "scale": 1.1,
+       "rot": -15,
+       "anim": "arc"
+      },
+      {
+       "kind": "paper-plane",
+       "x": 920,
+       "y": 740,
+       "scale": 1.1,
+       "rot": 15,
+       "flip": true,
+       "anim": "arc"
+      }
+     ],
+     "bubble": {
+      "who": "hakimi",
+      "text": "two assists"
+     },
+     "fx": [
+      {
+       "kind": "confetti",
+       "x": 760,
+       "y": 600,
+       "size": 1.0
+      }
+     ]
+    }
+   ]
+  },
+  "s03": {
+   "type": "COMIC",
+   "bg": "dressing-room",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.24,
+     "actors": [
+      {
+       "id": "hakimi",
+       "x": 290,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "neutral",
+       "scale": 1.4
+      },
+      {
+       "id": "enrique",
+       "x": 830,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "neutral",
+       "scale": 1.2,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "shelf",
+       "x": 620,
+       "y": 690,
+       "scale": 1.6
+      },
+      {
+       "kind": "bucket",
+       "x": 620,
+       "y": 640,
+       "scale": 1.5,
+       "face": "sleepy"
+      },
+      {
+       "kind": "sticker",
+       "x": 620,
+       "y": 690,
+       "scale": 0.5,
+       "text": "2"
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.24,
+     "t1": 0.42,
+     "actors": [
+      {
+       "id": "hakimi",
+       "x": 290,
+       "y": 1440,
+       "pose": "tired",
+       "emote": "sleepy",
+       "scale": 1.4
+      },
+      {
+       "id": "enrique",
+       "x": 830,
+       "y": 1440,
+       "pose": "think",
+       "emote": "neutral",
+       "scale": 1.2,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "shelf",
+       "x": 620,
+       "y": 690,
+       "scale": 1.6
+      },
+      {
+       "kind": "bucket",
+       "x": 620,
+       "y": 640,
+       "scale": 1.5,
+       "face": "sleepy"
+      },
+      {
+       "kind": "sticker",
+       "x": 620,
+       "y": 690,
+       "scale": 0.5,
+       "text": "2"
+      },
+      {
+       "kind": "clock",
+       "x": 870,
+       "y": 560,
+       "scale": 1.6,
+       "anim": "drop"
+      },
+      {
+       "kind": "sticker",
+       "x": 870,
+       "y": 690,
+       "scale": 0.6,
+       "text": "135",
+       "anim": "pop"
+      }
+     ],
+     "fx": [
+      {
+       "kind": "dust",
+       "x": 620,
+       "y": 640,
+       "size": 1.0
+      }
+     ],
+     "cam": "push"
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.42,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "hakimi",
+       "x": 290,
+       "y": 1440,
+       "pose": "think",
+       "emote": "sweat",
+       "scale": 1.4
+      },
+      {
+       "id": "enrique",
+       "x": 830,
+       "y": 1440,
+       "pose": "shrug",
+       "emote": "neutral",
+       "scale": 1.2,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "shelf",
+       "x": 620,
+       "y": 690,
+       "scale": 1.6
+      },
+      {
+       "kind": "bucket",
+       "x": 620,
+       "y": 640,
+       "scale": 1.5,
+       "face": "shock",
+       "anim": "shake"
+      },
+      {
+       "kind": "sticker",
+       "x": 620,
+       "y": 690,
+       "scale": 0.5,
+       "text": "2"
+      },
+      {
+       "kind": "clock",
+       "x": 870,
+       "y": 560,
+       "scale": 1.6
+      },
+      {
+       "kind": "sticker",
+       "x": 870,
+       "y": 690,
+       "scale": 0.6,
+       "text": "135"
+      }
+     ],
+     "fx": [
+      {
+       "kind": "dust",
+       "x": 620,
+       "y": 640,
+       "size": 1.3
+      }
+     ]
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "hakimi",
+       "x": 290,
+       "y": 1440,
+       "pose": "cheer",
+       "emote": "happy",
+       "scale": 1.4
+      },
+      {
+       "id": "enrique",
+       "x": 830,
+       "y": 1440,
+       "pose": "shock",
+       "emote": "shock",
+       "scale": 1.2,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "shelf",
+       "x": 620,
+       "y": 690,
+       "scale": 1.6
+      },
+      {
+       "kind": "bucket",
+       "x": 620,
+       "y": 640,
+       "scale": 1.5,
+       "face": "happy",
+       "rot": -8
+      },
+      {
+       "kind": "ball",
+       "x": 450,
+       "y": 500,
+       "scale": 0.75,
+       "anim": "pop"
+      },
+      {
+       "kind": "ball",
+       "x": 530,
+       "y": 400,
+       "scale": 0.75,
+       "anim": "pop"
+      },
+      {
+       "kind": "ball",
+       "x": 710,
+       "y": 400,
+       "scale": 0.75,
+       "anim": "pop"
+      },
+      {
+       "kind": "ball",
+       "x": 790,
+       "y": 500,
+       "scale": 0.75,
+       "anim": "pop"
+      },
+      {
+       "kind": "ball",
+       "x": 620,
+       "y": 360,
+       "scale": 0.75,
+       "anim": "pop"
+      }
+     ],
+     "sfx": {
+      "text": "BANG",
+      "x": 560,
+      "y": 1250,
+      "r": 100
+     },
+     "fx": [
+      {
+       "kind": "confetti",
+       "x": 620,
+       "y": 480,
+       "size": 1.2
+      }
+     ]
+    }
+   ]
+  },
+  "s04": {
+   "type": "NEWS",
+   "name": "Hakimi",
+   "fact": "His previous best was two",
+   "ticker": "135 league games",
+   "icons": [
+    "medal",
+    "calendar",
+    "coin"
+   ],
+   "role": "player",
+   "actor": "hakimi"
+  },
+  "s05": {
+   "type": "INTERVIEW",
+   "label": "REPORTER ASKS",
+   "bubble": "Coach, is 127 wins a club record?",
+   "answer": {
+    "icon": "trophy",
+    "gesture": "thumbsup",
+    "emote": "smug"
+   },
+   "subject": "Luis Enrique",
+   "subject_cast": "enrique"
+  },
+  "s06": {
+   "type": "STATS",
+   "items": [
+    {
+     "icon": "trophy",
+     "value": "127",
+     "label": "127th win"
+    },
+    {
+     "icon": "medal",
+     "value": "13",
+     "label": "finished thirteenth"
+    },
+    {
+     "icon": "chart-up",
+     "value": "16",
+     "label": "places above"
+    }
+   ]
+  },
+  "s07": {
+   "type": "PROVOC",
+   "q": "Who wins the CAF award?",
+   "a": "Hakimi",
+   "b": "A striker",
+   "split": [
+    68,
+    32
+   ],
+   "mood": "cheeky"
+  }
+ }
+}

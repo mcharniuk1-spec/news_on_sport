@@ -1,0 +1,112 @@
+{
+ "video_id": "iCaxYCuwAys",
+ "topic": "Short edit comparing Gabriel Jesus's 2026 finish (with Yamal) to a Luis Suarez Barcelona-era goal; tagged tactical cam and Alba celebration",
+ "hero": "Gabriel Jesus (tag G.JESUS) and Lamine Yamal (tag L.YAMAL); Luis Suarez (tag L.SUAREZ)",
+ "hero_role": "protagonist and the past reference",
+ "media_type_overall": "real broadcast footage",
+ "hook": "Wide pitch with year '2026' and floating tags L.YAMAL and G.JESUS",
+ "subtitle_style": "Small green year labels '2026'/'2018' top-left; white floating name tags L.YAMAL, G.JESUS, L.SUAREZ; no captions",
+ "reaction_overlays": "Floating player name tags, green colour-grade on replay, red arrow marker",
+ "transition_summary": "Match clips with hard cuts about every 2 s, 'now vs then' split by year label; 5 cuts in 22 s",
+ "audio_note": "Song/music with sung vocals; transcript: 'Say what is the trap?'",
+ "reuse_segments": [
+  {
+   "t0": 0,
+   "t1": 22,
+   "what": "2026 and 2018 match clips with tracking tags",
+   "origin_guess": "broadcast match",
+   "rights_risk": "high",
+   "how_to_reuse": "needs licensed footage; recreate with generated tactical animation"
+  }
+ ],
+ "frames": [
+  {
+   "idx": 1,
+   "t": 0,
+   "desc": "Wide pitch, year 2026, tags L.YAMAL G.JESUS",
+   "type": "video",
+   "text_on_screen": "2026 L.YAMAL G.JESUS",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 2,
+   "t": 2,
+   "desc": "Close shot, white-kit defender and blue-red player, ball near",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 3,
+   "t": 4,
+   "desc": "Wide empty pitch, ball rolling, white-kit area",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 4,
+   "t": 6,
+   "desc": "Goal area green-tinted, tag G.JESUS, La Teva Passio board",
+   "type": "video",
+   "text_on_screen": "G.JESUS",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 5,
+   "t": 8,
+   "desc": "Gabriel Jesus close, red stuff on chin, arms up in celebration",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 6,
+   "t": 10,
+   "desc": "Wide pitch, tag MESSI, green year label",
+   "type": "video",
+   "text_on_screen": "MESSI",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 7,
+   "t": 12,
+   "desc": "Wide pitch, year 2018, tag L.SUAREZ, Barca players",
+   "type": "video",
+   "text_on_screen": "2018 L.SUAREZ",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 8,
+   "t": 14,
+   "desc": "Barcelona #21-style player closing on number 19 defender, close",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 9,
+   "t": 16,
+   "desc": "Wide pitch box, tag L.SUAREZ",
+   "type": "video",
+   "text_on_screen": "L.SUAREZ",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 10,
+   "t": 18,
+   "desc": "Goal and players in box, Suarez finish, goal net visible",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 11,
+   "t": 20,
+   "desc": "Jordi Alba #18 hugging teammate in celebration, Unicef shirt",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "none"
+  }
+ ]
+}

@@ -1,0 +1,832 @@
+{
+ "no": 28,
+ "style": "ACTION-ANIME",
+ "prop": "boot",
+ "cast": {
+  "r9": {
+   "role": "player",
+   "number": "9",
+   "shirt": "#f5c518",
+   "hair": "#2b2b3a"
+  },
+  "def1": {
+   "role": "striker",
+   "shirt": "#3f6fb5",
+   "number": "4"
+  },
+  "def2": {
+   "role": "striker",
+   "shirt": "#d94f4f",
+   "number": "5",
+   "hair": "#a03a2a"
+  },
+  "def3": {
+   "role": "striker",
+   "shirt": "#7a4fd6",
+   "number": "3",
+   "hair": "#6b4a2a"
+  }
+ },
+ "sequences": {
+  "s01": {
+   "type": "HOOK",
+   "q": "Golden Boot or horrible haircut?",
+   "prop": "boot",
+   "emote": "wink",
+   "board": "neon"
+  },
+  "s02": {
+   "type": "NEWS",
+   "name": "Ronaldo Nazario (R9)",
+   "fact": "R9 has two Ballon d'Or wins",
+   "ticker": "Two Ballon d'Or",
+   "icons": [
+    "crown",
+    "medal",
+    "trophy"
+   ],
+   "role": "player",
+   "actor": "r9"
+  },
+  "s03": {
+   "type": "COMIC",
+   "bg": "plain-colour",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "r9",
+       "x": 540,
+       "y": 1440,
+       "pose": "crouch",
+       "emote": "angry-cheeky",
+       "scale": 1.5
+      }
+     ],
+     "props": [
+      {
+       "kind": "boot",
+       "x": 850,
+       "y": 560,
+       "scale": 1.4,
+       "anim": "float"
+      },
+      {
+       "kind": "star",
+       "x": 190,
+       "y": 560,
+       "scale": 1.0
+      }
+     ],
+     "fx": [
+      {
+       "kind": "speed",
+       "x": 540,
+       "y": 1000,
+       "size": 1.5
+      },
+      {
+       "kind": "sparkle",
+       "x": 540,
+       "y": 1000
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.42,
+     "actors": [
+      {
+       "id": "r9",
+       "x": 540,
+       "y": 1440,
+       "pose": "cheer",
+       "emote": "smug",
+       "scale": 1.5
+      }
+     ],
+     "props": [
+      {
+       "kind": "boot",
+       "x": 850,
+       "y": 560,
+       "scale": 1.4,
+       "anim": "float"
+      },
+      {
+       "kind": "star",
+       "x": 190,
+       "y": 560,
+       "scale": 1.0
+      },
+      {
+       "kind": "bolt",
+       "x": 540,
+       "y": 610,
+       "scale": 0.9,
+       "anim": "grow"
+      }
+     ],
+     "fx": [
+      {
+       "kind": "speed",
+       "x": 540,
+       "y": 1000,
+       "size": 1.5
+      }
+     ],
+     "cam": "push"
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.42,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "r9",
+       "x": 540,
+       "y": 1440,
+       "pose": "cheer",
+       "emote": "shock",
+       "scale": 1.5
+      }
+     ],
+     "props": [
+      {
+       "kind": "boot",
+       "x": 850,
+       "y": 560,
+       "scale": 1.4,
+       "anim": "float"
+      },
+      {
+       "kind": "star",
+       "x": 190,
+       "y": 560,
+       "scale": 1.0
+      },
+      {
+       "kind": "bolt",
+       "x": 540,
+       "y": 560,
+       "scale": 1.5
+      }
+     ],
+     "sfx": {
+      "text": "BANG",
+      "x": 200,
+      "y": 1000,
+      "r": 110
+     },
+     "fx": [
+      {
+       "kind": "sparkle",
+       "x": 540,
+       "y": 900
+      }
+     ]
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "r9",
+       "x": 540,
+       "y": 1440,
+       "pose": "bow",
+       "emote": "sweat",
+       "scale": 1.5
+      }
+     ],
+     "props": [
+      {
+       "kind": "boot",
+       "x": 880,
+       "y": 1400,
+       "scale": 1.0
+      },
+      {
+       "kind": "bolt",
+       "x": 700,
+       "y": 680,
+       "scale": 0.9,
+       "rot": 15
+      }
+     ],
+     "bubble": {
+      "who": "r9",
+      "text": "He apologised"
+     },
+     "fx": [
+      {
+       "kind": "sparkle",
+       "x": 540,
+       "y": 1000
+      }
+     ]
+    }
+   ]
+  },
+  "s04": {
+   "type": "COMIC",
+   "bg": "night-city",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "r9",
+       "x": 260,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "angry-cheeky",
+       "scale": 1.45
+      },
+      {
+       "id": "def1",
+       "x": 520,
+       "y": 1390,
+       "pose": "crouch",
+       "emote": "neutral",
+       "scale": 1.0,
+       "flip": true
+      },
+      {
+       "id": "def2",
+       "x": 680,
+       "y": 1390,
+       "pose": "crouch",
+       "emote": "neutral",
+       "scale": 1.0,
+       "flip": true
+      },
+      {
+       "id": "def3",
+       "x": 840,
+       "y": 1390,
+       "pose": "crouch",
+       "emote": "neutral",
+       "scale": 1.0,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "boot",
+       "x": 540,
+       "y": 560,
+       "scale": 2.2,
+       "anim": "float"
+      },
+      {
+       "kind": "ball",
+       "x": 400,
+       "y": 1410,
+       "scale": 1.0
+      },
+      {
+       "kind": "ball",
+       "x": 450,
+       "y": 1425,
+       "scale": 0.9
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.4,
+     "actors": [
+      {
+       "id": "r9",
+       "x": 260,
+       "y": 1440,
+       "pose": "kick",
+       "emote": "angry-cheeky",
+       "scale": 1.45
+      },
+      {
+       "id": "def1",
+       "x": 520,
+       "y": 1390,
+       "pose": "shock",
+       "emote": "shock",
+       "scale": 1.0,
+       "flip": true,
+       "lift": 60,
+       "rot": -12
+      },
+      {
+       "id": "def2",
+       "x": 680,
+       "y": 1390,
+       "pose": "shock",
+       "emote": "shock",
+       "scale": 1.0,
+       "flip": true,
+       "lift": 60,
+       "rot": 12
+      },
+      {
+       "id": "def3",
+       "x": 840,
+       "y": 1390,
+       "pose": "shock",
+       "emote": "shock",
+       "scale": 1.0,
+       "flip": true,
+       "lift": 60,
+       "rot": -12
+      }
+     ],
+     "props": [
+      {
+       "kind": "boot",
+       "x": 540,
+       "y": 560,
+       "scale": 2.2,
+       "anim": "float"
+      },
+      {
+       "kind": "ball",
+       "x": 960,
+       "y": 1200,
+       "scale": 1.0,
+       "rot": 300
+      },
+      {
+       "kind": "ball",
+       "x": 450,
+       "y": 1425,
+       "scale": 0.9
+      }
+     ],
+     "sfx": {
+      "text": "BANG",
+      "x": 600,
+      "y": 900,
+      "r": 110
+     },
+     "fx": [
+      {
+       "kind": "speed",
+       "x": 700,
+       "y": 1250,
+       "size": 1.2
+      }
+     ],
+     "cam": "shake"
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.4,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "r9",
+       "x": 260,
+       "y": 1440,
+       "pose": "kick",
+       "emote": "smug",
+       "scale": 1.45
+      },
+      {
+       "id": "def1",
+       "x": 520,
+       "y": 1390,
+       "pose": "shock",
+       "emote": "shock",
+       "scale": 1.0,
+       "flip": true,
+       "lift": 130,
+       "rot": -22
+      },
+      {
+       "id": "def2",
+       "x": 680,
+       "y": 1390,
+       "pose": "shock",
+       "emote": "shock",
+       "scale": 1.0,
+       "flip": true,
+       "lift": 130,
+       "rot": 22
+      },
+      {
+       "id": "def3",
+       "x": 840,
+       "y": 1390,
+       "pose": "shock",
+       "emote": "shock",
+       "scale": 1.0,
+       "flip": true,
+       "lift": 130,
+       "rot": -22
+      }
+     ],
+     "props": [
+      {
+       "kind": "boot",
+       "x": 540,
+       "y": 560,
+       "scale": 2.2,
+       "anim": "float"
+      },
+      {
+       "kind": "ball",
+       "x": 960,
+       "y": 1200,
+       "scale": 1.0,
+       "rot": 300
+      },
+      {
+       "kind": "ball",
+       "x": 960,
+       "y": 1050,
+       "scale": 0.9,
+       "rot": 200
+      }
+     ],
+     "fx": [
+      {
+       "kind": "dust",
+       "x": 730,
+       "y": 1420
+      }
+     ],
+     "cam": "push"
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "r9",
+       "x": 260,
+       "y": 1440,
+       "pose": "cheer",
+       "emote": "smug",
+       "scale": 1.45
+      },
+      {
+       "id": "def1",
+       "x": 520,
+       "y": 1390,
+       "pose": "idle",
+       "emote": "sweat",
+       "scale": 1.0,
+       "flip": true
+      },
+      {
+       "id": "def2",
+       "x": 680,
+       "y": 1390,
+       "pose": "idle",
+       "emote": "sweat",
+       "scale": 1.0,
+       "flip": true
+      },
+      {
+       "id": "def3",
+       "x": 840,
+       "y": 1390,
+       "pose": "idle",
+       "emote": "sweat",
+       "scale": 1.0,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "boot",
+       "x": 520,
+       "y": 620,
+       "scale": 2.2,
+       "rot": -35
+      },
+      {
+       "kind": "ball",
+       "x": 960,
+       "y": 1200,
+       "scale": 1.0,
+       "rot": 300
+      },
+      {
+       "kind": "ball",
+       "x": 960,
+       "y": 1050,
+       "scale": 0.9,
+       "rot": 200
+      },
+      {
+       "kind": "trophy",
+       "x": 870,
+       "y": 650,
+       "scale": 0.9,
+       "anim": "arc"
+      }
+     ],
+     "sfx": {
+      "text": "DING",
+      "x": 220,
+      "y": 520,
+      "r": 100
+     },
+     "fx": [
+      {
+       "kind": "sparkle",
+       "x": 870,
+       "y": 660
+      }
+     ]
+    }
+   ]
+  },
+  "s05": {
+   "type": "INTERVIEW",
+   "label": "REPORTER ASKS",
+   "bubble": "Forty-seven goals in forty-nine games: how?",
+   "answer": {
+    "icon": "boots",
+    "gesture": "shrug",
+    "emote": "smug"
+   },
+   "subject": "Ronaldo Nazario (R9)",
+   "subject_cast": "r9"
+  },
+  "s06": {
+   "type": "PROVOC",
+   "q": "47 goals in 49 games: legendary?",
+   "a": "All-time great",
+   "b": "Just good",
+   "split": [
+    82,
+    18
+   ],
+   "mood": "love"
+  },
+  "s07": {
+   "type": "COMIC",
+   "bg": "sky",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "r9",
+       "x": 290,
+       "y": 1440,
+       "pose": "hold",
+       "emote": "sweat",
+       "scale": 1.45,
+       "hold": {
+        "kind": "notepad",
+        "hand": "both",
+        "scale": 0.8
+       }
+      }
+     ],
+     "props": [
+      {
+       "kind": "arrow",
+       "x": 700,
+       "y": 560,
+       "scale": 1.4,
+       "label": "Valladolid"
+      },
+      {
+       "kind": "car",
+       "x": 700,
+       "y": 1180,
+       "scale": 1.8,
+       "anim": "wobble"
+      },
+      {
+       "kind": "star",
+       "x": 190,
+       "y": 560,
+       "scale": 1.0
+      },
+      {
+       "kind": "boot",
+       "x": 880,
+       "y": 1350,
+       "scale": 1.0
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.42,
+     "actors": [
+      {
+       "id": "r9",
+       "x": 290,
+       "y": 1440,
+       "pose": "hold",
+       "emote": "shock",
+       "scale": 1.45,
+       "hold": {
+        "kind": "notepad",
+        "hand": "both",
+        "scale": 0.8
+       }
+      }
+     ],
+     "props": [
+      {
+       "kind": "arrow",
+       "x": 700,
+       "y": 560,
+       "scale": 1.4,
+       "label": "Valladolid"
+      },
+      {
+       "kind": "car",
+       "x": 560,
+       "y": 780,
+       "scale": 1.8,
+       "rot": -35
+      },
+      {
+       "kind": "star",
+       "x": 190,
+       "y": 560,
+       "scale": 1.0
+      },
+      {
+       "kind": "boot",
+       "x": 880,
+       "y": 1350,
+       "scale": 1.0
+      }
+     ],
+     "sfx": {
+      "text": "WHOOSH",
+      "x": 800,
+      "y": 900,
+      "r": 100
+     },
+     "cam": "shake"
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.42,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "r9",
+       "x": 290,
+       "y": 1440,
+       "pose": "hold",
+       "emote": "dizzy",
+       "scale": 1.45,
+       "hold": {
+        "kind": "notepad",
+        "hand": "both",
+        "scale": 0.8
+       }
+      }
+     ],
+     "props": [
+      {
+       "kind": "arrow",
+       "x": 700,
+       "y": 560,
+       "scale": 1.4,
+       "label": "Valladolid"
+      },
+      {
+       "kind": "car",
+       "x": 720,
+       "y": 900,
+       "scale": 1.8,
+       "rot": 340
+      },
+      {
+       "kind": "star",
+       "x": 190,
+       "y": 560,
+       "scale": 1.0
+      },
+      {
+       "kind": "boot",
+       "x": 880,
+       "y": 1350,
+       "scale": 1.0
+      }
+     ],
+     "fx": [
+      {
+       "kind": "speed",
+       "x": 720,
+       "y": 900,
+       "size": 1.2
+      }
+     ]
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "r9",
+       "x": 290,
+       "y": 1440,
+       "pose": "hold",
+       "emote": "smug",
+       "scale": 1.45,
+       "hold": {
+        "kind": "ticket",
+        "hand": "both",
+        "scale": 0.8
+       }
+      }
+     ],
+     "props": [
+      {
+       "kind": "arrow",
+       "x": 700,
+       "y": 560,
+       "scale": 1.4,
+       "label": "Cruzeiro"
+      },
+      {
+       "kind": "car",
+       "x": 700,
+       "y": 1180,
+       "scale": 1.8
+      },
+      {
+       "kind": "star",
+       "x": 190,
+       "y": 560,
+       "scale": 1.0
+      },
+      {
+       "kind": "boot",
+       "x": 880,
+       "y": 1350,
+       "scale": 1.0
+      }
+     ],
+     "sfx": {
+      "text": "DING",
+      "x": 820,
+      "y": 880,
+      "r": 100
+     }
+    }
+   ]
+  },
+  "s08": {
+   "type": "STATS",
+   "items": [
+    {
+     "icon": "coin",
+     "value": "51",
+     "suffix": "%",
+     "label": "Real Valladolid"
+    },
+    {
+     "icon": "chart-down",
+     "value": "3",
+     "label": "Three relegations"
+    },
+    {
+     "icon": "chart-up",
+     "value": "2",
+     "label": "two promotions"
+    }
+   ]
+  }
+ }
+}

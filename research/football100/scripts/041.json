@@ -1,0 +1,81 @@
+{
+ "no": 41,
+ "subject": "Crystal Palace's Adam Wharton sent off for second yellow in 1-1 Europa League draw with Hoffenheim",
+ "title": "Ten men, one point, one mystery",
+ "voice": "EL_B",
+ "comic": false,
+ "style": null,
+ "lines": [
+  {
+   "vo": "Down to ten men, Palace still got a point. How?",
+   "card": "Ten men, one point",
+   "sfx": null,
+   "footage": "Wharton red card Palace Hoffenheim, sending-off clip"
+  },
+  {
+   "vo": "Adam Wharton, England midfielder, was central to Palace until minute seventy-seven.",
+   "card": "Until minute 77",
+   "sfx": null,
+   "footage": "Wharton Palace highlights, midfield touches"
+  },
+  {
+   "vo": "Booked, then sent off for a second yellow, after a clash with Wouter Burger. Efficient.",
+   "card": "Second yellow",
+   "sfx": null,
+   "footage": "Wharton booking and red card, slow motion; Wharton and Burger challenge"
+  },
+  {
+   "vo": "Alexander Prass put Hoffenheim ahead in the seventh minute. Daichi Kamada equalised in stoppage time.",
+   "card": "Kamada, stoppage time",
+   "sfx": "short crowd cheer",
+   "footage": "Kamada equaliser Palace Hoffenheim, goal celebration"
+  },
+  {
+   "vo": "Axel Disasi had played every Europa League minute. Pierre Sage left him out. An internal decision. Very internal.",
+   "card": "Disasi left out",
+   "sfx": null,
+   "footage": "Pierre Sage press conference, Palace; bench shots"
+  },
+  {
+   "vo": "Red card, late equaliser, mystery team sheet. Palace never do quiet.",
+   "card": "Palace never do quiet",
+   "sfx": null,
+   "footage": "Palace Europa League highlights, bench shots"
+  },
+  {
+   "vo": "Want the next story before it breaks? Betting tips, news and predictions at aboutfootball dot UK.",
+   "card": "aboutfootball.UK",
+   "sfx": null,
+   "footage": "end card"
+  }
+ ],
+ "chars": 596,
+ "est_seconds": 34,
+ "footage_terms": [
+  "Wharton red card Palace Hoffenheim",
+  "Crystal Palace Hoffenheim 1-1 highlights",
+  "Kamada equaliser Palace Hoffenheim"
+ ],
+ "inserts": [
+  {
+   "after_line": 1,
+   "story": "A giant balance scale has eleven cartoon players on one side and ten on the other. Gag: the ten side sinks lower and the scale creaks. Twist: the eleven side flies up and lands on top of the scale's pole.",
+   "characters": "generic cartoon players on a balance scale",
+   "seconds": 2
+  },
+  {
+   "after_line": 3,
+   "story": "A cartoon coach holds up a team sheet with a question mark in the defender's spot. Gag: a cartoon detective with a magnifying glass studies the sheet. Twist: a hidden defender pops out of the sheet's folded corner and waves.",
+   "characters": "generic cartoon coach with a team sheet",
+   "seconds": 2
+  }
+ ],
+ "facts_used": [
+  "Wharton booked, then sent off in 77th minute for second yellow after coming-together with Wouter Burger; Palace played the rest with ten men (ev0103)",
+  "Alexander Prass put Hoffenheim ahead in 7th minute; Daichi Kamada equalised in stoppage time, 1-1 (ev0103)",
+  "Axel Disasi, who had played every Europa League minute, left out; Sage called it an internal decision (ev0103)",
+  "Wharton is an England midfielder central to Palace's midfield (ev0103 background)"
+ ],
+ "comic_score": 4,
+ "notes": "Non-comic, 0 inserts. Within EL 600-char limit. Jokes: Wharton lasting until minute 77, 'internal decision', stoppage-time equaliser. No jokes on injuries or appearance. Prass opener (7th minute) added from ev0103. after_line convention: zero-based index into lines. Data gap: fdb.py get news needs integer id, not ev ref, and fails on empty background; read via q lookup and read-only query."
+}

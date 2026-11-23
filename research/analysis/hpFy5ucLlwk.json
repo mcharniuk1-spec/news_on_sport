@@ -1,0 +1,80 @@
+{
+ "video_id": "hpFy5ucLlwk",
+ "topic": "Mbappé scores in a big win and teammates/coach laugh at him (France v Gibraltar 11-0 per scoreboard), humour short",
+ "hero": "Kylian Mbappé (France #10, labelled MBAPPE on screen)",
+ "hero_role": "butt of a joke / protagonist of a meme moment",
+ "media_type_overall": "real broadcast footage",
+ "hook": "Wide tactical broadcast view of France v Gibraltar with scoreboard 81:19 FRA 11-0 GIB and arrow label MBAPPE",
+ "subtitle_style": "yellow bold all-caps with black outline, centred in lower third, asterisk-wrapped caption (*EVERYONE WAS LAUGHING AT HIM*); small yellow channel tag 'adnanejr7' bottom-centre",
+ "reaction_overlays": "floating label arrow MBAPPE above player, yellow channel watermark, B&W desaturated final clip",
+ "transition_summary": "Fast hard cuts (about 6-8 cuts/10s in a 14s short); final clip in black and white",
+ "audio_note": "Trending sped-up song lyric ('I was so heavy... when I'm low' per transcript)",
+ "reuse_segments": [
+  {
+   "t0": 0,
+   "t1": 14,
+   "what": "France v Gibraltar match broadcast clips and bench reaction",
+   "origin_guess": "broadcast match",
+   "rights_risk": "high",
+   "how_to_reuse": "Needs licensed broadcast footage; keep structure (scoreboard label, caption on reaction) with generated/licensed clips"
+  }
+ ],
+ "frames": [
+  {
+   "idx": 1,
+   "t": 0,
+   "desc": "Wide tactical broadcast view, scoreboard 81:19 FRA 11-0 GIB, label MBAPPE above player",
+   "type": "video",
+   "text_on_screen": "81:19 FRA 11-0 GIB  MBAPPE",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 2,
+   "t": 2,
+   "desc": "Mbappé (France #10) kicking ball, tackle with Gibraltar player, close",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 3,
+   "t": 4,
+   "desc": "Wide pitch view with label MBA(PPE) above lone player",
+   "type": "video",
+   "text_on_screen": "MBAPPE",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 4,
+   "t": 6,
+   "desc": "Wide view of goal with Orange ad board, empty pitch",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 5,
+   "t": 8,
+   "desc": "Coach in blue Nike jacket and man with earpiece laughing, caption",
+   "type": "video",
+   "text_on_screen": "*EVERYONE WAS LAUGHING A",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 6,
+   "t": 10,
+   "desc": "Player in blue jacket leaning, laughing, caption *EVERYONE WAS LAUGHING AT HIM*",
+   "type": "video",
+   "text_on_screen": "*EVERYONE WAS LAUGHING AT HIM*",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 7,
+   "t": 12,
+   "desc": "B&W shot of goalkeeper #23 on ground at goal mouth after save",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "none"
+  }
+ ]
+}

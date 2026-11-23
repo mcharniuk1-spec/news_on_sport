@@ -1,0 +1,495 @@
+[
+  {
+    "headline": "Ecuadorian player banned eight years for hitting an assistant referee with a stone",
+    "date": "2026-11-18",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50539565/jhon-michel-perlaza-stone-referee-eight-year-ban",
+    "entities": ["Jhon Michel Perlaza", "Lenin Giovanni Ojeda Nunez", "Club Ciudad de Yantzaza", "Ecuadorian Football Federation", "FIFA"],
+    "facts": [
+      "On 17 October, in stoppage time of a third-tier Ecuador match against Rio Aguarico, midfielder Perlaza threw a stone from the bench and hit assistant referee Ojeda in the face.",
+      "The assistant referee suffered a fractured cheekbone, needed surgery and was unable to work for 60 days; the match was stopped.",
+      "The Ecuadorian federation banned Perlaza for eight years (to 19 October 2034) and will ask FIFA to extend the ban worldwide; the club was fined USD 2,000, must repay medical costs and play three home games at a neutral venue."
+    ],
+    "background": "Assaults on referees are among the most severely punished offences in football; this one came in Ecuador's third tier, far from the big leagues.",
+    "angle": "scandal",
+    "sensitive": true,
+    "footage_terms": ["Ecuador referee attacked stone Yantzaza", "Ciudad de Yantzaza Rio Aguarico partido suspendido", "football referee assault ban explained"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Napoli coach Allegri sent off in 3-3 draw with Roma and banned for two matches",
+    "date": "2026-10-26",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50288088/napoli-appeal-allegri-2-match-ban-insulting-ref",
+    "entities": ["Massimiliano Allegri", "Napoli", "AS Roma", "Leonardo Balerdi", "Lega Serie A"],
+    "facts": [
+      "After Roma's late equaliser by Balerdi in a 3-3 draw, Allegri was shown a straight red card; he argued the goal should have been disallowed for a foul on Sam Beukema in the build-up.",
+      "Lega Serie A banned him for two matches (Monza away and Juventus away) and fined him 10,000 euros for remarks to officials and an aggressive attitude toward a Roma staff member.",
+      "Napoli first said they would appeal, but Allegri then chose not to, joked the ban could grow to four matches, and said he wanted to focus on Napoli's poor Serie A run."
+    ],
+    "background": "Allegri is a veteran Italian coach with two spells at Juventus, so the ban also keeps him off the bench at his former club.",
+    "angle": "coach",
+    "sensitive": false,
+    "footage_terms": ["Allegri red card Napoli Roma", "Napoli Roma 3-3 highlights Balerdi", "Allegri sent off reaction press conference"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Maignan sent off for shoving Tyler Adams as Bournemouth rout Milan 3-0 in Europa League",
+    "date": "2026-10-22",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50252812/bournemouth-ac-milan-europa-league-ruben-amorim-marco-rose",
+    "entities": ["Mike Maignan", "Tyler Adams", "AFC Bournemouth", "AC Milan", "Ruben Amorim", "Marco Rose"],
+    "facts": [
+      "Milan keeper Maignan got a straight red in the 27th minute for pushing Tyler Adams in the face during a corner; Tavernier scored the resulting penalty (Kluivert had scored an earlier penalty for handball).",
+      "Bournemouth won 3-0 and are three wins from three in the Europa League, the first English club since 1973 to win their first three games in a major European competition.",
+      "It was Ruben Amorim's first competitive game back in England since Manchester United sacked him in January; Milan later condemned racist abuse of Maignan on social media after the match."
+    ],
+    "background": "Maignan has spoken out against racism before: in January 2024 he walked off at Udinese after racist chants from fans.",
+    "angle": "scandal",
+    "sensitive": true,
+    "footage_terms": ["Maignan red card Bournemouth Milan", "Bournemouth 3-0 Milan Europa League highlights", "Amorim press conference after Bournemouth Milan"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Crystal Palace's Adam Wharton sent off for second yellow in 1-1 Europa League draw with Hoffenheim",
+    "date": "2026-11-05",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/report/_/gameId/401915526",
+    "entities": ["Adam Wharton", "Crystal Palace", "TSG Hoffenheim", "Wouter Burger", "Daichi Kamada"],
+    "facts": [
+      "Wharton was booked for an aerial challenge before the hour and sent off in the 77th minute for a second yellow after a coming-together with Wouter Burger.",
+      "Several Palace players protested, but the referee did not change the decision and Palace played the rest of the game with ten men.",
+      "Hoffenheim led through Alexander Prass in the 7th minute; Daichi Kamada equalised for Palace in the 91st minute."
+    ],
+    "background": "Wharton is an England midfielder who has been central to Palace's midfield; Palace lifted the FA Cup in 2025.",
+    "angle": "scandal",
+    "sensitive": false,
+    "footage_terms": ["Wharton red card Palace Hoffenheim", "Crystal Palace Hoffenheim 1-1 highlights", "Kamada equaliser Palace Hoffenheim"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Oldham manager Micky Mellon sent off for pushing his head at Sheffield Wednesday player, then Oldham win FA Cup tie",
+    "date": "2026-11-09",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50431417/micky-mellon-headbutt-oldham-sheffield-wednesday",
+    "entities": ["Micky Mellon", "Oldham Athletic", "Sheffield Wednesday", "Callum Slattery", "Dave Challinor"],
+    "facts": [
+      "Mellon was sent off in the 84th minute after he pushed his head toward Wednesday midfielder Callum Slattery during a touchline scuffle; the ESPN headline calls it a headbutt, the report body describes a push.",
+      "Slattery was booked; Oldham, from League Two, beat League One Sheffield Wednesday 2-1 after extra time with a 110th-minute winner from Will Sutton.",
+      "It was Dave Challinor's first match in charge of Sheffield Wednesday. The report mentions no FA charge. Date is the article date; match date not stated."
+    ],
+    "background": "Oldham were founder members of the Premier League in 1992 and now play in League Two.",
+    "angle": "coach",
+    "sensitive": false,
+    "footage_terms": ["Mellon red card Oldham Sheffield Wednesday", "Oldham 2-1 Sheffield Wednesday FA Cup highlights", "Micky Mellon headbutt Slattery"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "FA Cup qualifier replayed after referee error with a penalty, and the same team wins again",
+    "date": "2026-09-30",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50065662/controversial-fa-cup-replay-due-ref-error-won-same-team",
+    "entities": ["Mulbarton Wanderers", "Woodford Town", "The FA", "Ashley Jarvis"],
+    "facts": [
+      "In an FA Cup second qualifying round tie, Woodford were awarded a penalty but players entered the box early; the referee gave Mulbarton an indirect free kick instead of ordering a retake.",
+      "An FA subcommittee under the Professional Game Board ordered a replay after Woodford appealed the original 2-1 Mulbarton win.",
+      "Mulbarton won the replay 2-0, both goals from Ashley Jarvis, and moved on to face Gloucester Town in the third qualifying round."
+    ],
+    "background": "Both clubs play at the deep non-league level, where an FA Cup qualifying run is the biggest stage of the season.",
+    "angle": "viral",
+    "sensitive": false,
+    "footage_terms": ["Mulbarton Wanderers Woodford Town FA Cup replay", "FA Cup qualifying penalty retake referee error", "Mulbarton Wanderers FA Cup run"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Aaron Ramsey's Oxford play with nine, briefly eight men at Mansfield and argue over disputed red and dive card",
+    "date": "2026-10-16",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50194536/aaron-ramsey-oxford-briefly-eight-players-salvage-draw",
+    "entities": ["Aaron Ramsey", "Oxford United", "Mansfield Town", "Gatlin O'Donkor", "Peter Kioso", "Brodie Spencer"],
+    "facts": [
+      "Oxford drew 1-1 at Mansfield after Luka Lynch scored on his first start; Michael Smith equalised in the 82nd minute.",
+      "Gatlin O'Donkor got a second booking with six minutes left, and Oxford were briefly down to eight when Brodie Spencer went off after an injury stoppage.",
+      "Ramsey disagreed with the first red card, arguing there was contact in the area that should have been a penalty, and disputed Peter Kioso's 75th-minute booking for diving; Kioso was later sent off for a second yellow."
+    ],
+    "background": "Ramsey is a former Arsenal, Juventus and Wales midfielder who is now managing Oxford United.",
+    "angle": "coach",
+    "sensitive": false,
+    "footage_terms": ["Mansfield Oxford 1-1 highlights", "Aaron Ramsey press conference Oxford eight men", "Oxford United red cards Mansfield"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Premier League adopts World Cup time-wasting limits and some VAR checks, rejects the mouth-covering red card",
+    "date": "2026-08-14",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/49600669/limits-var-mistaken-identity-2026-world-cup-rules-premier-league",
+    "entities": ["Premier League", "IFAB", "VAR", "Andy Davies"],
+    "facts": [
+      "For 2026-27 players treated on the pitch must leave for at least one minute, throw-ins and goal kicks get a five-second countdown, and substituted players have 10 seconds to leave.",
+      "VAR can now review a second yellow card given in error and card mistaken identity within the same incident, factual errors only.",
+      "The Premier League did not adopt VAR checks on wrongly awarded corners, red cards for covering the mouth, or mandatory hydration breaks."
+    ],
+    "background": "Many of these measures were approved by IFAB after trials, and several were first used at the 2026 World Cup.",
+    "angle": "business",
+    "sensitive": false,
+    "footage_terms": ["Premier League new rules 2026-27 explained", "five second countdown throw-in goal kick", "substitution 10 seconds rule explained"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Neymar sent off under the Vinicius Junior rule for covering his mouth, then banned",
+    "date": "2026-10-24",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50276168/neymar-fury-sent-vinicius-junior-rule",
+    "entities": ["Neymar", "Santos", "Bahia", "Rodrigo Nestor", "Vinicius Junior", "Gianluca Prestianni"],
+    "facts": [
+      "In Santos' 1-0 win over Bahia in the Brazilian Serie A, Neymar covered his mouth while arguing with Rodrigo Nestor, who alerted the referee, and Neymar was sent off.",
+      "Neymar admitted covering his mouth was wrong but denied saying anything offensive, called Nestor's move a dirty trick and said he would get back at him; Bahia condemned his alleged verbal abuse.",
+      "Brazil's sports tribunal banned him for three matches in total (one for yellow cards and two for the mouth-covering), and he is not expected back until late November."
+    ],
+    "background": "The red card for covering the mouth followed Vinicius Junior's claim of racist abuse by Benfica's Gianluca Prestianni, who received a six-game ban; Neymar is Brazil's all-time leading scorer.",
+    "angle": "scandal",
+    "sensitive": true,
+    "footage_terms": ["Neymar red card Santos Bahia", "Neymar cobrir a boca expulsao", "Neymar reaction red card covering mouth"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Panel rules Arsenal were wrongly denied a penalty against Hull after VAR review",
+    "date": "2026-11-18",
+    "source_domain": "espn.in",
+    "url": "https://www.espn.in/football/story/_/id/50519627/kai-havertz-arsenal-hull-penalty-kmi",
+    "entities": ["Kai Havertz", "Nobel Mendy", "Farai Hallam", "Michael Oliver", "Arsenal", "Hull City", "Key Match Incidents panel"],
+    "facts": [
+      "In Arsenal's 1-0 win over Hull on 7 November, Nobel Mendy held Kai Havertz, who was in an offside position; referee Farai Hallam gave no penalty and VAR Michael Oliver sent him to the monitor but the decision stood.",
+      "The five-member Key Match Incidents panel ruled unanimously that a penalty should have been awarded, because the holding came before any offside offence.",
+      "The panel reviewed 223 incidents in the first 10 rounds and found 85 percent of on-field decisions correct, rising to 97 percent after VAR."
+    ],
+    "background": "Arsenal also lead the Premier League in offsides this season, with Havertz himself flagged 15 times, more than any other top-flight player.",
+    "angle": "scandal",
+    "sensitive": false,
+    "footage_terms": ["Havertz penalty claim Arsenal Hull", "Arsenal 1-0 Hull highlights Odegaard", "Key Match Incidents Arsenal Hull penalty"],
+    "confidence": "high"
+  },
+  {
+    "headline": "River Plate's Montiel sent off in the Superclasico; ban cut from three to two matches on appeal",
+    "date": "2026-11-19",
+    "source_domain": "espn.com.ar",
+    "url": "https://www.espn.com.ar/futbol/argentina/nota/_/id/17479504/montiel-sancion-river-boca-expulsion-fechas-suspension",
+    "entities": ["Gonzalo Montiel", "River Plate", "Boca Juniors", "Lautaro Blanco", "Nicolas Ramirez", "AFA Disciplinary Tribunal"],
+    "facts": [
+      "Montiel was sent off in the second half of the Superclasico, which River lost; referee Nicolas Ramirez reported a foul on Lautaro Blanco as serious foul play.",
+      "The AFA disciplinary tribunal first gave three matches, then cut it to two after appeal; he missed the win over Aldosivi and will miss the Clausura round-of-16 tie against Lanus.",
+      "River felt the punishment was excessive and pointed out that Blanco was not sent off for a similar foul on Tobias Andrada."
+    ],
+    "background": "The River-Boca Superclasico is Argentina's biggest fixture, and Montiel is a World Cup winner with Argentina in 2022.",
+    "angle": "scandal",
+    "sensitive": false,
+    "footage_terms": ["Montiel expulsion River Boca Superclasico", "Montiel roja Blanco Superclasico", "River Boca Clausura 2026 resumen"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Head of Turkish football refereeing detained in probe over how referees are appointed and scored",
+    "date": "2026-09-29",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50059418/turkish-authorities-arrest-head-refereeing-body-amid-investigation",
+    "entities": ["Turkish Football Federation", "Akin Gurlek", "Turkish referees", "Super Lig"],
+    "facts": [
+      "On 29 September Turkish authorities detained the head of the national refereeing body, his deputy and five others, seven people in total.",
+      "Justice Minister Akin Gurlek said the probe concerns alleged irregularities in how referees are classified, assigned, scored and appointed, and in rule exams.",
+      "It is not yet clear whether the arrests link to earlier cases: the federation suspended 149 referees over a betting scandal last year and 17 club officials were detained in July."
+    ],
+    "background": "Turkish football has been rocked by betting and match-fixing investigations in recent years, and Super Lig refereeing is a regular flashpoint for clubs like Besiktas.",
+    "angle": "scandal",
+    "sensitive": true,
+    "footage_terms": ["Turkish referee scandal arrested", "Turkiye hakem tutuklama MHK", "Super Lig referees betting scandal explained"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Arsenal appeal 16-year-old Max Dowman's red card in Carabao Cup shootout loss to Fleetwood",
+    "date": "2026-10-27",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50307173/arsenal-appeal-max-dowman-red-card-fleetwood",
+    "entities": ["Max Dowman", "Arsenal", "Fleetwood Town", "Harrison Neal", "Mikel Arteta", "Viktor Gyokeres"],
+    "facts": [
+      "Fourth-tier Fleetwood beat Arsenal on penalties after a 1-1 draw; Loupalo-Bi scored in the 21st minute and Viktor Gyokeres equalised.",
+      "Dowman, 16, was shown a red card in the 85th minute for kicking out at Harrison Neal after a rough tackle.",
+      "Arsenal planned to appeal, with paperwork due to the FA by Thursday, hoping for a ruling before the Premier League game at Liverpool on Sunday; Arteta was tight-lipped about his reaction."
+    ],
+    "background": "Dowman is a teenage Arsenal academy talent, and the Carabao Cup exit to a fourth-tier side was a major upset.",
+    "angle": "scandal",
+    "sensitive": false,
+    "footage_terms": ["Dowman red card Arsenal Fleetwood", "Fleetwood beat Arsenal penalties highlights", "Arteta Dowman red card press conference"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Ronaldo's 'goal' for Al Nassr: league credits him, Opta says own goal",
+    "date": "2026-10-23",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50327446/cristiano-ronaldo-al-nassr-982nd-career-goal-own-goal",
+    "entities": ["Cristiano Ronaldo", "Al Nassr", "Al Faisaly", "Andrei Girotto", "Joao Felix", "Opta", "Andy Davies"],
+    "facts": [
+      "In Al Nassr's 3-1 win over Al Faisaly, Ronaldo headed Joao Felix's free kick and the ball was deflected in by defender Andrei Girotto.",
+      "The Saudi Pro League credited Ronaldo, while stats provider Opta ruled it an own goal.",
+      "With the goal, Ronaldo's official career total is 985; without it, 984. He also scored a hat trick in a 5-3 win over Al Kholood later that week."
+    ],
+    "background": "Ronaldo has played in Saudi Arabia for Al Nassr since leaving Manchester United and joining the club in early 2023.",
+    "angle": "viral",
+    "sensitive": false,
+    "footage_terms": ["Ronaldo goal Al Faisaly own goal debate", "Al Nassr Al Faisaly 3-1 highlights", "Ronaldo 985th goal"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Luton boss Wilshere sent off for reaction to referee after no foul before Stevenage's opener",
+    "date": "2026-09-10",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/49896262/jack-wilshere-sent-luton-stevenage-defeat",
+    "entities": ["Jack Wilshere", "Luton Town", "Stevenage", "Andrew Humphries", "Josh Magennis", "Chris Powell"],
+    "facts": [
+      "Stevenage beat Luton 2-1; Luton's bench was angry that Dan Phillips was not penalised for a foul on Liam Walsh in the build-up to Dan Kemp's 23rd-minute opener.",
+      "Wilshere's reaction to referee Andrew Humphries was judged unacceptable and he watched the rest from the dressing room.",
+      "Assistant boss Chris Powell said officials should have handled the incidents better and that he believed Josh Magennis's winner came from an offside position."
+    ],
+    "background": "Wilshere, a former Arsenal and England midfielder, is in his early days as a manager; he was also later involved in a post-match scuffle with Barnsley's boss in October.",
+    "angle": "coach",
+    "sensitive": false,
+    "footage_terms": ["Wilshere sent off Stevenage Luton", "Stevenage 2-1 Luton highlights", "Jack Wilshere red card reaction"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "IFAB panels reject five-second countdown for corners and free kicks, back single coin toss for shootouts, announce full VAR review",
+    "date": "2026-10-27",
+    "source_domain": "theifab.com",
+    "url": "https://www.theifab.com/news/ifab-advisory-panels-continue-their-focus-on-tempo-disruption/",
+    "entities": ["IFAB", "FIFA", "Mattias Grafstrom", "VAR", "Football Video Support"],
+    "facts": [
+      "The football and technical advisory panels did not back extending the five-second countdown to corner kicks and free kicks, citing tactical complexity.",
+      "They supported a single coin toss for penalty shootouts, where the winning captain picks the goal or shooting first or second, and heard that the goalkeeper injury-delay trial has shown very positive initial results.",
+      "IFAB announced a comprehensive VAR review using stakeholder feedback and independent data; input feeds the Annual Business Meeting in Zurich on 14 January 2027."
+    ],
+    "background": "IFAB, the body that writes the Laws of the Game, has been pushing a faster tempo after the time-wasting measures introduced for 2026/27.",
+    "angle": "business",
+    "sensitive": false,
+    "footage_terms": ["IFAB shootout coin toss proposal", "IFAB VAR review 2027", "IFAB new rules 2027/28 explained"],
+    "confidence": "high"
+  },
+  {
+    "headline": "UEFA referee chief Rosetti explains faster restarts, new VAR areas and the Clear Line video library",
+    "date": "2026-09-02",
+    "source_domain": "uefa.com",
+    "url": "https://www.uefa.com/news-media/news/02a9-217e6735fa16-f3022d1021e7-1000--how-are-matches-refereed-in-uefa-competitions-this-season/",
+    "entities": ["UEFA", "Roberto Rosetti", "VAR", "Clear Line"],
+    "facts": [
+      "Referees will be strict on time-wasting: substituted players have 10 seconds to leave, treated players leave for a minute, and delayed throw-ins or goal kicks can cost a corner after a five-second countdown.",
+      "VAR can now correct a sanction given to the wrong player and cancel a clearly wrong second yellow; UEFA chose not to adopt the mouth-covering red card and leaving the field in protest as red-card offences.",
+      "UEFA's Clear Line library has over 100 videos showing when VAR should and should not intervene, and referee numbers across Europe have grown by 90,000 since the Be a Referee campaign began in 2023."
+    ],
+    "background": "Rosetti, a former top referee, has run UEFA refereeing since 2010 and has pushed the idea of minimal VAR interference.",
+    "angle": "business",
+    "sensitive": false,
+    "footage_terms": ["UEFA Clear Line VAR video", "Rosetti UEFA referees briefing Champions League", "UEFA new refereeing rules 2026/27"],
+    "confidence": "high"
+  },
+  {
+    "headline": "UEFA tells referee chiefs VAR is for clear and obvious errors only, not to re-referee matches",
+    "date": "2026-07-28",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/49468547/uefa-var-rules-clear-obvious-error",
+    "entities": ["UEFA", "Roberto Rosetti", "IFAB", "Breel Embolo", "Leandro Paredes"],
+    "facts": [
+      "UEFA's refereeing chief chaired a meeting of referee heads from all 55 member associations and stated that VAR should step in only for clear and obvious errors.",
+      "Delegates unanimously backed faster restarts; UEFA does not plan to adopt other optional World Cup measures such as red cards for covering the mouth or VAR checks on corners.",
+      "UEFA cited the World Cup incident where Switzerland's Breel Embolo was sent off for a second yellow against Argentina after a caution for Leandro Paredes was overturned on review."
+    ],
+    "background": "This is the background statement before the 2026/27 season; the mistaken-identity check was one of the newly approved VAR areas.",
+    "angle": "business",
+    "sensitive": false,
+    "footage_terms": ["Embolo second yellow Argentina Switzerland World Cup", "UEFA VAR clear and obvious error", "World Cup 2026 VAR controversy Paredes yellow"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "IFAB approves time-wasting countdowns, substitution limits and new VAR areas in February package",
+    "date": "2026-02-28",
+    "source_domain": "theifab.com",
+    "url": "https://www.theifab.com/news/the-ifab-introduces-further-measures-to-improve-match-flow-and-player-behaviour/",
+    "entities": ["IFAB", "VAR", "Laws of the Game 2026/27"],
+    "facts": [
+      "After its AGM in Wales, IFAB introduced a five-second visual countdown for delayed throw-ins and goal kicks, a 10-second exit for substituted players and a one-minute wait off the pitch after treatment.",
+      "VAR may intervene on a clearly wrong second yellow, mistaken identity and, as an option, a clearly wrongly awarded corner.",
+      "The 2026/27 Laws take effect on 1 July 2026 and include referee body cameras as a competition option and a new dropped-ball rule."
+    ],
+    "background": "This package set up the rules that leagues, including the Premier League and UEFA, have now been applying this season.",
+    "angle": "history",
+    "sensitive": false,
+    "footage_terms": ["IFAB AGM 2026 new laws", "five second countdown goal kick explained", "referee body camera football trial"],
+    "confidence": "high"
+  },
+  {
+    "headline": "IFAB unanimously approves red card for covering the mouth in confrontations and for walking off in protest",
+    "date": "2026-04-28",
+    "source_domain": "theifab.com",
+    "url": "https://www.theifab.com/news/the-ifab-unanimously-approves-red-card-for-players-covering-their-mouths-to-conce/",
+    "entities": ["IFAB", "FIFA", "Vancouver", "2026 FIFA World Cup"],
+    "facts": [
+      "After a special meeting in Vancouver, IFAB unanimously approved two FIFA-proposed amendments, both at the competition organiser's discretion.",
+      "A player who covers his mouth during a confrontation may be shown a red card, and a player who leaves the field in protest of a referee decision may be sent off; a team that causes abandonment will in principle forfeit.",
+      "The measures were to be implemented at the 2026 World Cup, with the 48 teams informed in the following weeks."
+    ],
+    "background": "The mouth-covering rule followed the Vinicius Junior and Prestianni controversy at a Champions League tie and is the rule Neymar fell foul of this autumn.",
+    "angle": "history",
+    "sensitive": true,
+    "footage_terms": ["IFAB mouth covering red card rule", "Vinicius Prestianni Benfica Real Madrid", "football rule change covering mouth explained"],
+    "confidence": "high"
+  },
+  {
+    "headline": "IFAB clarifies VAR protocol for attacking-team offences before the ball is in play",
+    "date": "2026-05-31",
+    "source_domain": "theifab.com",
+    "url": "https://www.theifab.com/news/the-ifab-clarifies-var-protocol-for-attacking-team-offences-before-the-ball-is-in/",
+    "entities": ["IFAB", "VAR", "2026 FIFA World Cup"],
+    "facts": [
+      "VAR may recommend an on-field review for clear attacking-team offences before a corner or free kick is taken if the offence directly affects a goal, penalty or disciplinary sanction.",
+      "If the referee confirms the offence, the right sanction is applied and the corner or free kick is retaken.",
+      "It was approved for the 2026 World Cup and will be reviewed after the tournament before any wider use."
+    ],
+    "background": "The clarification is related to disputes over players pushing or blocking at set pieces, a recurring complaint about VAR.",
+    "angle": "history",
+    "sensitive": false,
+    "footage_terms": ["VAR corner kick foul retaken", "IFAB VAR protocol set piece offence", "goal disallowed foul before corner VAR"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Besiktas blast referee and VAR after Trossard slapped in the face with no punishment",
+    "date": "2026-08-24",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/49711105/besiktas-lament-turkish-referee-var-scathing-statement-leandro-trossard-slapped-face",
+    "entities": ["Leandro Trossard", "Besiktas", "Alanyaspor", "Fidan Aliti", "Adnan Deniz Kayatepe", "Bulent Birincioglu"],
+    "facts": [
+      "In Besiktas' 1-0 loss to Alanyaspor, Fidan Aliti slapped Leandro Trossard in the face off the ball; the referee and VAR took no action.",
+      "Trossard, playing only his second Super Lig game after leaving Arsenal, said it should have been a straight red.",
+      "Besiktas called the refereeing a disgrace, said they do not want referee Kayatepe and VAR Birincioglu in their matches again and vowed to pursue the matter."
+    ],
+    "background": "The incident came weeks before Turkey's refereeing chief was detained in a separate government probe into referee appointments.",
+    "angle": "scandal",
+    "sensitive": false,
+    "footage_terms": ["Trossard slapped Aliti Besiktas Alanyaspor", "Besiktas Alanyaspor VAR kirmizi kart", "Trossard Besiktas statement referee"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Australian top referees strike ends as Football Australia reaches deal after a month",
+    "date": "2026-10-02",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50083345/referees-strike-football-australia-reaches-deal",
+    "entities": ["Professional Football Referees Australia", "Football Australia", "Australian Professional Leagues", "A-League", "Australia Cup"],
+    "facts": [
+      "Nearly 100 top referees, represented by the PFRA, had been on strike since 4 September over a Football Australia plan to contract them to the APL rather than to FA.",
+      "The strike threatened the Australia Cup final and the start of the A-League seasons, including the opening Sydney derby on 16 October.",
+      "The 2 October deal keeps referees employed by Football Australia for 2026-27, with the APL covering the costs of A-League matches while longer-term talks continue."
+    ],
+    "background": "Referees rarely strike in top-level football, which is why the threat of bringing in overseas officials made headlines.",
+    "angle": "business",
+    "sensitive": false,
+    "footage_terms": ["A-League referees strike Football Australia", "A-League season opener Sydney derby 2026", "Australia Cup final 2026 South Melbourne Victory"],
+    "confidence": "high"
+  },
+  {
+    "headline": "VAR lets Man United's injury-time equaliser stand in 4-4 draw with Aston Villa as pundits argue over a foul on the keeper",
+    "date": "2026-11-08",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/49703019/premier-league-var-review-red-card-penalty-handball-goal-line-technology",
+    "entities": ["Patrick Dorgu", "Senne Lammens", "Zion Suzuki", "Chris Kavanagh", "Craig Pawson", "Mark Goldbridge", "Manchester United", "Aston Villa"],
+    "facts": [
+      "Patrick Dorgu scored Manchester United's injury-time equaliser from a corner in a 4-4 draw with Aston Villa, while Villa keeper Zion Suzuki felt Senne Lammens had fouled him.",
+      "Referee Chris Kavanagh and VAR Craig Pawson left the goal standing; ESPN's Andy Davies called it correct but borderline, while United fan Mark Goldbridge argued VAR should have intervened.",
+      "The article dates the match 8 November; ESPN's coverage the same week shows Mauricio Pochettino has just taken over as United head coach."
+    ],
+    "background": "Manchester United have been through several managers since Sir Alex Ferguson left in 2013, and Mauricio Pochettino is the latest to take the job.",
+    "angle": "scandal",
+    "sensitive": false,
+    "footage_terms": ["Manchester United Aston Villa 4-4 highlights", "Dorgu equaliser Lammens foul VAR", "Goldbridge VAR Dorgu goal"],
+    "confidence": "low"
+  },
+  {
+    "headline": "VAR review sends Lisandro Martinez off as Chelsea beat Man United 2-0",
+    "date": "2026-10-31",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/49703019/premier-league-var-review-red-card-penalty-handball-goal-line-technology",
+    "entities": ["Lisandro Martinez", "Wesley Fofana", "Peter Bankes", "James Bell", "Chelsea", "Manchester United"],
+    "facts": [
+      "Chelsea beat Manchester United 2-0 on 31 October; referee Peter Bankes initially gave no penalty or card for Martinez's aerial challenge on Wesley Fofana.",
+      "After a VAR review by James Bell, Bankes awarded Chelsea a penalty and sent Martinez off for a second yellow, in the 61st minute.",
+      "ESPN's Andy Davies judged the VAR intervention correct, saying Martinez led with his arm and caught Fofana's head."
+    ],
+    "background": "Martinez, who won the 2022 World Cup with Argentina, has a reputation for aggressive aerial and defensive challenges.",
+    "angle": "scandal",
+    "sensitive": false,
+    "footage_terms": ["Lisandro Martinez red card Chelsea Man United", "Chelsea 2-0 Manchester United highlights", "Martinez Fofana VAR penalty"],
+    "confidence": "low"
+  },
+  {
+    "headline": "No red for Bogle after studs-up Achilles challenge on Tel in Leeds' win over Spurs; Tottenham write to Pro Ref",
+    "date": "2026-11-07",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50422908/leeds-jayden-bogle-racist-abuse",
+    "entities": ["Jayden Bogle", "Mathys Tel", "John Brooks", "Leeds United", "Tottenham Hotspur", "Professional Referees (Pro Ref)"],
+    "facts": [
+      "Leeds won 1-0 at Elland Road; Jayden Bogle caught Mathys Tel on the Achilles with his studs, and Tel was replaced after treatment.",
+      "Referee John Brooks gave no card, and after a lengthy VAR review no serious foul play was found; Tottenham plan to write to Pro Ref to ask why no red card was shown.",
+      "Bogle was then reportedly subjected to racist abuse on social media; Leeds and Tottenham both condemned it and the Premier League warned of bans and prosecution."
+    ],
+    "background": "Leeds and Tottenham met in the Premier League this season, and Tottenham said they would take the VAR decision up with the referees' body.",
+    "angle": "scandal",
+    "sensitive": true,
+    "footage_terms": ["Bogle Tel challenge VAR Leeds Tottenham", "Leeds 1-0 Tottenham highlights", "Tottenham Pro Ref letter Bogle red card"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Arteta calls Sunderland penalty for Konsa foul 'unacceptable' as Arsenal still win 2-0",
+    "date": "2026-09-12",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/49919381/arsenal-mikel-arteta-fumes-sunderland-penalty-decision-unacceptable",
+    "entities": ["Mikel Arteta", "Ezri Konsa", "Dan Ballard", "Stuart Attwell", "David Raya", "Enzo Le Fee", "Arsenal", "Sunderland"],
+    "facts": [
+      "Early in the second half Sunderland were given a penalty when Ezri Konsa was judged to have fouled Dan Ballard at a corner; referee Stuart Attwell gave it and VAR upheld it.",
+      "Arteta called it unacceptable at this level, compared the contact to a judo throw and warned it could affect Arsenal's title chances.",
+      "David Raya saved Enzo Le Fee's penalty, Bruno Guimaraes scored from outside the box and Bukayo Saka added an injury-time penalty in a 2-0 Arsenal win."
+    ],
+    "background": "Arteta has a history of public complaints about officials, and Arsenal were Premier League champions last season.",
+    "angle": "coach",
+    "sensitive": false,
+    "footage_terms": ["Arsenal Sunderland penalty Konsa Ballard", "Arteta press conference penalty unacceptable", "Raya saves penalty Le Fee Arsenal Sunderland"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "VAR error in Liverpool v Arsenal? No penalty for Timber pulling Isak's shirt",
+    "date": "2026-11-01",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/49703019/premier-league-var-review-red-card-penalty-handball-goal-line-technology",
+    "entities": ["Alexander Isak", "Jurrien Timber", "Andy Madley", "Stuart Attwell", "Liverpool", "Arsenal"],
+    "facts": [
+      "In the 34th minute of Liverpool v Arsenal, Alexander Isak appeared to have his shirt pulled by Jurrien Timber as he went to head a cross.",
+      "Referee Andy Madley played on and VAR Stuart Attwell cleared the no-penalty decision.",
+      "ESPN's Andy Davies called the non-intervention an error by VAR, arguing Timber made no attempt to play the ball. The article gives no date; 1 November is inferred from a report that Arsenal were due at Liverpool that Sunday."
+    ],
+    "background": "Isak joined Liverpool from Newcastle in 2025 in a record British transfer.",
+    "angle": "scandal",
+    "sensitive": false,
+    "footage_terms": ["Isak Timber shirt pull Liverpool Arsenal", "Liverpool Arsenal VAR penalty claim Isak", "Liverpool v Arsenal highlights"],
+    "confidence": "low"
+  },
+  {
+    "headline": "Haaland's stoppage-time VAR-awarded penalty sends Norway past Denmark into Nations League quarter-finals",
+    "date": "2026-11-17",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50513761/erling-haaland-sends-norway-nations-league-quarterfinals",
+    "entities": ["Erling Haaland", "Joachim Andersen", "Norway", "Denmark", "Martin Odegaard", "Stale Solbakken"],
+    "facts": [
+      "Norway beat Denmark 3-2 after Denmark led 2-0 inside 15 minutes; Odegaard equalised in the 87th minute.",
+      "VAR reviewed a handball by Denmark's Joachim Andersen in stoppage time and Norway were awarded a penalty, which Haaland scored at 95:45.",
+      "Haaland was booked for excessive celebration after tearing off his shirt; he now has 68 international goals in 61 appearances and 25 Nations League goals, a record."
+    ],
+    "background": "Haaland is Norway's all-time leading scorer, and the win secured a Nations League quarter-final place for Norway, to be played in March.",
+    "angle": "record",
+    "sensitive": false,
+    "footage_terms": ["Haaland penalty Norway Denmark Nations League", "Norway 3-2 Denmark highlights", "Haaland shirt celebration yellow card"],
+    "confidence": "high"
+  }
+]

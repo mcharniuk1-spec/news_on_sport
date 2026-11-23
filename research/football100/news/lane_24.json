@@ -1,0 +1,495 @@
+[
+  {
+    "headline": "Man United fans protest Glazers and Ratcliffe with balloons and tennis balls before Roma comeback",
+    "date": "2026-11-03",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50372373/did-man-united-champions-league-comeback-save-carrick-job",
+    "entities": ["Manchester United", "Glazer family", "Jim Ratcliffe", "Jason Wilcox", "Michael Carrick", "AS Roma"],
+    "facts": [
+      "Fans aimed chants at the Glazers, Ratcliffe and sporting director Jason Wilcox, during and after a 3-0 home loss to Bournemouth and again against Roma.",
+      "Before the Champions League game with Roma, fans in the Stretford End released hundreds of green and gold balloons, the club's original colours.",
+      "Supporters threw tennis balls onto the pitch around the 20th minute, a nod to the Glazers' 2005 leveraged buyout; United still won 3-2 after trailing 2-0."
+    ],
+    "background": "The Glazer family bought Manchester United in 2005 through a leveraged buyout, and Jim Ratcliffe later bought about 29% and took over football operations.",
+    "angle": "scandal",
+    "sensitive": false,
+    "footage_terms": ["Man United Roma 3-2 highlights Old Trafford", "Man United fans protest Glazers Old Trafford", "Stretford End green and gold balloons"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Berrada admits some United fan criticism is fair, says Glazer-INEOS split is 'working'",
+    "date": "2026-11-20",
+    "source_domain": "skysports.com",
+    "url": "https://www.skysports.com/football/news/13614312/omar-berrada-interview-manchester-united-chief-executive-on-michael-carrick-mauricio-pochettino-recent-transfer-activity-and-the-club-hierarchy",
+    "entities": ["Omar Berrada", "Manchester United", "INEOS", "Glazer family", "Mauricio Pochettino", "Michael Carrick"],
+    "facts": [
+      "United CEO Omar Berrada says some criticism of club leadership is fair and some crosses a line, and admits three permanent managers in under three seasons is not the stability the club wants.",
+      "He says the dual ownership of the Glazers and INEOS works well, with regular dialogue and aligned goals.",
+      "United sacked Michael Carrick in the November break with the team 18th, and the club spent about 163 million pounds this summer, mostly on midfielders."
+    ],
+    "background": "Berrada is a former Manchester City executive who joined United as chief executive under the Ratcliffe-led football restructure.",
+    "angle": "business",
+    "sensitive": false,
+    "footage_terms": ["Omar Berrada interview Manchester United", "Pochettino first press conference Manchester United", "Man United fan protest Old Trafford"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Column: Pochettino cannot fix United alone, the owners have to do their jobs",
+    "date": "2026-11-17",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50504141/manchester-united-mauricio-pochettino-jim-ratcliffe-glazers-transfers",
+    "entities": ["Jim Ratcliffe", "Glazer family", "Avram Glazer", "Mauricio Pochettino", "Omar Berrada", "Dan Ashworth"],
+    "facts": [
+      "ESPN's Gabriele Marcotti notes Ratcliffe paid about 1.65 billion dollars for 28.9% and took over football operations; United have won 35 of 99 league games since and used four managers.",
+      "Ratcliffe has reportedly spent over 35 million dollars on payouts to dismissed coaches and sporting directors, including Dan Ashworth, who lasted about five months.",
+      "Avram Glazer told investors the club does not rely on sporting success for commercial strength; the column calls that tone-deaf, noting seven straight seasons of losses."
+    ],
+    "background": "Ratcliffe's INEOS group took charge of United's football side after buying a minority stake, while the Glazers kept majority ownership.",
+    "angle": "business",
+    "sensitive": false,
+    "footage_terms": ["Jim Ratcliffe Manchester United owners criticism", "Glazers Manchester United fans protest", "Pochettino Manchester United unveiled"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Liverpool's Anfield crowd under scrutiny as home form slumps before United game",
+    "date": "2026-11-20",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50520411/liverpool-manchester-united-anfield-premier-league",
+    "entities": ["Liverpool", "Anfield", "Andoni Iraola", "Ryan Gravenberch", "Diogo Jota", "Manchester United"],
+    "facts": [
+      "Liverpool have won just one of five Premier League home games this season and 5 of 15 at Anfield in 2026.",
+      "The fans' emotional tribute to Diogo Jota at the 20-minute mark of home matches has been debated, and the crowd turned on the team at times last season.",
+      "Gravenberch asked supporters to stay behind the team for 90 minutes, while Iraola has praised the atmosphere and the crowd was cited in wins over Atletico Madrid, Villarreal and Brighton."
+    ],
+    "background": "Liverpool have not beaten United at Anfield since a 7-0 win in March 2023.",
+    "angle": "viral",
+    "sensitive": true,
+    "footage_terms": ["Anfield atmosphere Liverpool fans", "Liverpool Manchester United Anfield highlights", "Iraola press conference Liverpool Anfield crowd"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Celtic condemn tennis-ball protest aimed at owner Dermot Desmond at St Andrews",
+    "date": "2026-10-04",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50099475/celtic-dermot-desmond-protest-tennis-balls-st-andrews-alfred-dunhill-links-golf",
+    "entities": ["Celtic", "Dermot Desmond", "Celtic Fans Collective", "Police Scotland"],
+    "facts": [
+      "Tennis balls bearing Desmond's crossed-out face were thrown onto the 15th green at the Alfred Dunhill Links pro-am, and security escorted him off the course.",
+      "The Celtic Fans Collective posted the protest and called for change and accountability at the top of the club.",
+      "Celtic called it premeditated, said it no longer accepts the Fans Collective speaks for the wider support, and Police Scotland said enquiries were ongoing with no injuries."
+    ],
+    "background": "Dermot Desmond is Celtic's principal shareholder.",
+    "angle": "scandal",
+    "sensitive": false,
+    "footage_terms": ["Celtic fans protest Dermot Desmond", "Celtic Park fans protest board", "Celtic Fans Collective statement"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Dortmund to end Rheinmetall arms sponsorship after fan opposition",
+    "date": "2026-11-13",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50473322/borussia-dortmund-rheinmetall-sponsorship-arms-manufacturer",
+    "entities": ["Borussia Dortmund", "Rheinmetall", "Carsten Cramer"],
+    "facts": [
+      "Dortmund will not renew the Rheinmetall deal, which runs until 30 June 2027, and the partnership started in 2024 and was reportedly worth up to 9 million euros a year.",
+      "Fans opposed it from the start, a 2024 general meeting vote backed ending it after 2027, and some supporters stopped backing the club.",
+      "Chairman Carsten Cramer says the club loses income and must rethink planned investments and find other financial solutions."
+    ],
+    "background": "Dortmund's Westfalenstadion crowd, with its famous Yellow Wall, is one of the most organised fan bases in Europe, and club members hold real voting power at general meetings.",
+    "angle": "business",
+    "sensitive": false,
+    "footage_terms": ["Borussia Dortmund Rheinmetall sponsorship fans", "Dortmund Yellow Wall Signal Iduna Park", "Carsten Cramer press conference"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Dortmund pays fans prizes for locking their phones at the stadium",
+    "date": "2026-10-23",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50257787/borussia-dortmund-app-rewards-fans-lock-phones-stadium",
+    "entities": ["Borussia Dortmund", "Carsten Cramer", "Eintracht Frankfurt", "Hertha Berlin", "Dynamo Dresden"],
+    "facts": [
+      "A voluntary fan mode in the club app starts with the home game against Eintracht Frankfurt and deducts points each time a fan unlocks their phone, excluding halftime.",
+      "Top scorers can win signed jerseys and merchandise gift cards; phones are not banned.",
+      "CEO Carsten Cramer wants to protect the shared atmosphere of more than 81,000 fans, and clubs such as Hertha Berlin and Dynamo Dresden also restrict commercial filming."
+    ],
+    "background": "Dortmund's home ground holds more than 81,000 fans and is known for its Yellow Wall terrace.",
+    "angle": "viral",
+    "sensitive": false,
+    "footage_terms": ["Dortmund Yellow Wall atmosphere", "Dortmund fans stadium Signal Iduna Park", "Dortmund Eintracht Frankfurt highlights"],
+    "confidence": "high"
+  },
+  {
+    "headline": "San Jose Earthquakes sold for 625 million dollars to Alden Global co-founder Heath Freeman",
+    "date": "2026-11-13",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50474340/san-jose-earthquakes-sold-625-million-heath-freeman",
+    "entities": ["San Jose Earthquakes", "Heath Freeman", "Alden Global Capital", "John Fisher", "PayPal Park", "MLS"],
+    "facts": [
+      "Freeman is buying the club and its stadium, PayPal Park, at an enterprise value of 625 million dollars, per sources confirming a Sportico report.",
+      "Seller John Fisher has owned the club since 2007; MLS's board unanimously approved the transfer and closing is expected in coming weeks.",
+      "The sale process began in June 2025, and the Quakes have made the playoffs only four times in the past 11 seasons."
+    ],
+    "background": "Fisher and Lew Wolff bought the expansion Earthquakes franchise in 2007.",
+    "angle": "business",
+    "sensitive": false,
+    "footage_terms": ["San Jose Earthquakes PayPal Park highlights", "Earthquakes sale Heath Freeman", "MLS ownership sale news"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Joey Saputo puts CF Montreal up for sale after 34 years of family ownership",
+    "date": "2026-11-09",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50436119/cf-montreal-owner-joey-saputo-announces-club-sale",
+    "entities": ["CF Montreal", "Joey Saputo", "Saputo family", "Marco Donadel", "BMO Capital Markets"],
+    "facts": [
+      "Saputo says it is time to find new ownership, citing the family's long investment of time, money and effort.",
+      "Montreal finished last in the East in 2026 with 26 points and six wins in 34 games, and fired coach Marco Donadel in April, its 11th manager in 14 seasons.",
+      "Saputo prefers a local buyer but may accept a relocation offer if none emerges; BMO Capital Markets and National Bank Financial are advising."
+    ],
+    "background": "The Saputo family founded the Montreal Impact in 1992, and the club became CF Montreal in 2012.",
+    "angle": "business",
+    "sensitive": false,
+    "footage_terms": ["CF Montreal Saputo sale", "CF Montreal highlights 2026", "Joey Saputo press conference"],
+    "confidence": "high"
+  },
+  {
+    "headline": "FC Cincinnati near deal to buy NWSL's Racing Louisville and move it to Cincinnati in 2028",
+    "date": "2026-11-17",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50513113/mls-fc-cincy-advanced-talks-acquire-nwsl-racing-louisville",
+    "entities": ["FC Cincinnati", "Racing Louisville", "NWSL", "Jessica Berman", "John Neace", "TQL Stadium"],
+    "facts": [
+      "Sources say the clubs' owners are close to a deal that moves Racing to Cincinnati for 2028; no deal is final.",
+      "Racing would play 2027 at Lynn Family Stadium in Louisville, then move about 100 miles to the 26,000-seat TQL Stadium.",
+      "NWSL commissioner Jessica Berman has called relocation a last resort, and the league is wary of the sale price given the short distance between the cities."
+    ],
+    "background": "Racing Louisville joined the NWSL in 2021 for about 2 million dollars and is now valued at roughly 127 to 140 million dollars.",
+    "angle": "business",
+    "sensitive": false,
+    "footage_terms": ["Racing Louisville highlights", "FC Cincinnati TQL Stadium atmosphere", "NWSL relocation news"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Messi's non-league Cornella struggles on pitch while he also buys Eldense",
+    "date": "2026-11-10",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50441349/why-messi-takeover-non-league-cornella-wrexham-repeat",
+    "entities": ["Lionel Messi", "UE Cornella", "Eldense", "Wrexham", "Messi Cup"],
+    "facts": [
+      "Messi took over UE Cornella in April; the club plays in Spain's regionalised fifth tier after two straight relegations and has won two of its first 10 league games.",
+      "He backed a new reserve team and a women's side, and the club gained sponsors and online following; its Under-16s reached the Messi Cup final in Miami after beating Manchester City, Inter and Arsenal.",
+      "Messi has also bought second-division Eldense, and federation rules would stop both clubs sharing a competition if Spain's sports council approves, though sources downplay the conflict."
+    ],
+    "background": "Messi owns the Cornella project while still playing for Inter Miami in MLS, and the Wrexham model of celebrity ownership is the benchmark ESPN compares it to.",
+    "angle": "business",
+    "sensitive": false,
+    "footage_terms": ["Messi Cornella owner", "UE Cornella match highlights", "Messi Cup 2026 final Miami"],
+    "confidence": "high"
+  },
+  {
+    "headline": "New Milan-Inter stadium lands 725 million dollar Generali naming-rights deal",
+    "date": "2026-10-29",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50317859/milan-inter-new-stadium-generali-naming-rights-new-san-siro",
+    "entities": ["AC Milan", "Inter Milan", "Generali", "RedBird Capital Partners", "Oaktree", "San Siro"],
+    "facts": [
+      "Sources say the deal is worth 650 million euros over 20 years and the ground will be called Generali Stadium.",
+      "The 71,500-seat venue is expected to start construction in 2028, with the first match targeted for 2031-32, pending approvals.",
+      "RedBird (Milan) and Oaktree (Inter) are driving the project, and the clubs bought the site last November for 197 million euros."
+    ],
+    "background": "Milan and Inter have shared the San Siro for decades and now plan to replace it with a new stadium owned by the two clubs.",
+    "angle": "business",
+    "sensitive": false,
+    "footage_terms": ["San Siro Milan Inter derby atmosphere", "new San Siro stadium project", "Milan Inter stadium Generali"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Milan owner Cardinale mulls buying Ronaldo's Al Nassr",
+    "date": "2026-10-30",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50326867/ac-milan-gerry-cardinale-buying-cristiano-ronaldo-al-nassr",
+    "entities": ["Gerry Cardinale", "RedBird Capital Partners", "Al Nassr", "Cristiano Ronaldo", "AC Milan", "Toulouse"],
+    "facts": [
+      "Cardinale told Gazzetta dello Sport that RedBird is looking into acquiring Al Nassr in what he calls preliminary talks.",
+      "Al Nassr is owned by Saudi Arabia's Public Investment Fund, and reports say 41-year-old Ronaldo could become a part-owner; his contract runs to June 2027.",
+      "No price, stake size or valuation was disclosed."
+    ],
+    "background": "RedBird bought 85% of Toulouse in 2020 and completed its purchase of AC Milan two years later.",
+    "angle": "transfer",
+    "sensitive": false,
+    "footage_terms": ["Cristiano Ronaldo Al Nassr highlights", "Gerry Cardinale AC Milan interview", "Ronaldo Al Nassr goals 2026"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Barcelona will let fans pay to place their ashes at Camp Nou from 2027",
+    "date": "2026-11-12",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50460503/barcelona-camp-nou-ashes-fans",
+    "entities": ["FC Barcelona", "Camp Nou", "Quique Montoya"],
+    "facts": [
+      "From 2027 fans worldwide, not only members, can use a columbarium or a plaque; a 10-year niche costs 2,490 euros and a 50-year niche 5,990 euros, plus 70 euros a year in maintenance.",
+      "Plaques cost 490 euros for 10 years or 1,040 euros for a 50-year premium plaque.",
+      "The 1,500 square metre space holds about 26,000 niches, was designed by architect Quique Montoya, and should finish by mid-2028 in two phases."
+    ],
+    "background": "Camp Nou is Barcelona's home stadium and is being rebuilt and expanded in phases.",
+    "angle": "viral",
+    "sensitive": false,
+    "footage_terms": ["Camp Nou renovation 2026", "Camp Nou atmosphere Barcelona fans", "Barcelona fans Camp Nou tribute"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Oviedo fan gets suspended prison term for racist abuse of Mbappe",
+    "date": "2026-11-17",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50509888/kylian-mbappe-racist-abuse-oviedo-fan-real-madrid",
+    "entities": ["Kylian Mbappe", "Real Madrid", "Real Oviedo", "LaLiga", "Carlos Tartiere"],
+    "facts": [
+      "An Oviedo supporter got a suspended 11-month prison sentence, a fine and a two-year ban from stadiums hosting official sporting events.",
+      "The abuse happened at the Carlos Tartiere during a 3-0 Real Madrid win in which Mbappe scored twice; LaLiga reported it to police.",
+      "The Provincial Court of Asturias convicted the fan of a hate crime, and Real Madrid acted as private prosecutor."
+    ],
+    "background": "Real Madrid has previously pursued criminal cases over racist abuse of its players at other Spanish grounds.",
+    "angle": "scandal",
+    "sensitive": true,
+    "footage_terms": ["Mbappe goal Oviedo Real Madrid 3-0 highlights", "Real Oviedo Carlos Tartiere match", "LaLiga racism stadium ban"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Tom Brady leaves Birmingham City ownership role as club tops Championship",
+    "date": "2026-11-09",
+    "source_domain": "skysports.com",
+    "url": "https://www.skysports.com/football/news/13610387/tom-brady-leaves-birmingham-nfl-legend-and-minority-owner-makes-shock-departure-after-three-years",
+    "entities": ["Tom Brady", "Birmingham City", "Knighthead Capital Management", "Tom Wagner", "Jay Stansfield"],
+    "facts": [
+      "Birmingham announced the NFL legend's exit from his minority ownership role after three years, with no reason given.",
+      "Birmingham are top of the Championship after a 2-1 win over Swansea and seven wins from nine games.",
+      "The club spent heavily last summer, including a record 15 million pound deal for Jay Stansfield."
+    ],
+    "background": "Brady bought just over 3% in August 2023 when American investment firm Knighthead took over the club, which was relegated in his first season.",
+    "angle": "business",
+    "sensitive": false,
+    "footage_terms": ["Tom Brady Birmingham City St Andrew's", "Birmingham City Swansea highlights", "Tom Brady Birmingham City minority owner"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Football regulator orders EFL and National League clubs to hold cash reserves",
+    "date": "2026-11-10",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50441792/football-regulator-efl-national-league",
+    "entities": ["Independent Football Regulator", "EFL", "National League"],
+    "facts": [
+      "High-risk clubs must hold five months of operating losses, medium-risk two months, and low-risk one month of wages; Premier League clubs are assessed case by case.",
+      "A six-week consultation is open, and the rule phases in over three years from June 2027, with clubs expected to comply by 2030 for licensing.",
+      "The regulator's State of the Game report found 94% of clubs in the top five English leagues were loss-making despite about 9 billion pounds in revenue."
+    ],
+    "background": "The Independent Football Regulator is England's new body created to police club finances and owner suitability.",
+    "angle": "business",
+    "sensitive": false,
+    "footage_terms": ["Independent Football Regulator English football", "EFL club finances owners", "football regulator reserves clubs"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Ligue 1 moves fixtures as mass cost-of-living protests grip France",
+    "date": "2026-10-27",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50297412/ligue-1-reschedules-matches-public-protests-france",
+    "entities": ["Ligue 1", "LFP", "Olympique Lyonnais", "OGC Nice", "FC Lorient", "Paris Saint-Germain"],
+    "facts": [
+      "At the request of public authorities, Lyon's home game with Angers moved to Sunday afternoon, Nice's to Friday evening and Lorient's to Monday evening.",
+      "Hundreds of thousands marched the previous Saturday over living costs and school conditions, in what ESPN calls France's worst unrest in years.",
+      "Separately, PSG vs Lyon was moved from Sunday to Monday at Paris police request on 23 October, with France's first NFL game, Steelers vs Saints, drawing about 80,000 on the same Sunday."
+    ],
+    "background": "PSG play at the Parc des Princes in Paris, while the Stade de France hosted the NFL game just outside the capital.",
+    "angle": "viral",
+    "sensitive": false,
+    "footage_terms": ["PSG Lyon Parc des Princes highlights", "Ligue 1 protests France matches postponed", "Steelers Saints Stade de France Paris"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Bristol City fans boo and chant for manager's sacking in 5-0 loss to Norwich",
+    "date": "2026-11-07",
+    "source_domain": "skysports.com",
+    "url": "https://www.skysports.com/football/bristol-city-vs-norwich/report/560668",
+    "entities": ["Bristol City", "Norwich City", "Michael Skubala", "Philippe Clement", "Ashton Gate"],
+    "facts": [
+      "Norwich won 5-0 at Ashton Gate, with Maghoma, Darling, Brooks, Makama and a Kvistgaarden penalty scoring.",
+      "The home crowd booed at half-time and chanted for Skubala to be sacked late on; it was Bristol City's fifth home league defeat of the season.",
+      "Skubala called the second-half display unacceptable and apologised to the supporters."
+    ],
+    "background": "Bristol City play at Ashton Gate and compete in the Championship.",
+    "angle": "scandal",
+    "sensitive": false,
+    "footage_terms": ["Bristol City Norwich 0-5 highlights", "Ashton Gate fans boo Skubala", "Michael Skubala press conference Bristol City"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Galatasaray beat Fenerbahce 2-1 in derby that ended in post-match brawl",
+    "date": "2026-10-27",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/espn/story/_/id/50295059/post-match-chaos-sours-victor-osimhen-brace-galatasaray-win-fenerbahce",
+    "entities": ["Galatasaray", "Fenerbahce", "Victor Osimhen", "Okan Buruk", "RAMS Park"],
+    "facts": [
+      "Osimhen scored both goals, in the 29th and 44th minutes, and Irfan Can Kahveci pulled one back for Fenerbahce in the 62nd.",
+      "Players from both sides clashed after the final whistle, including Archie Brown and Abdulkerim Bardakci, and others tried to separate them.",
+      "Osimhen had warned of chaos beforehand and credited the home supporters for unsettling the opposition; coach Okan Buruk said disciplinary penalties will follow."
+    ],
+    "background": "The Istanbul derby between Galatasaray and Fenerbahce is one of the most heated rivalries in world football.",
+    "angle": "scandal",
+    "sensitive": false,
+    "footage_terms": ["Galatasaray Fenerbahce 2-1 highlights Osimhen", "Istanbul derby RAMS Park atmosphere", "Galatasaray Fenerbahce players fight after match"],
+    "confidence": "high"
+  },
+  {
+    "headline": "NWSL has record money, but stadiums, travel and pay problems persist",
+    "date": "2026-11-19",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50524447/nwsl-money-problems-remain-2026-championship-stadium",
+    "entities": ["NWSL", "Gotham FC", "Washington Spirit", "Columbus", "Atlanta", "Icahn Stadium"],
+    "facts": [
+      "Most NWSL teams are tenants in venues controlled by men's teams; Gotham moved a semifinal to 5,000-seat Icahn Stadium due to field conditions, and a college football game disrupted Washington's semifinal at Audi Field.",
+      "All but one team has changed owners in six years, and Columbus paid 205 million dollars for expansion, about 100 times the fee six years ago.",
+      "Charter travel could cost up to 50 million dollars in the short term, based on the WNBA's estimate."
+    ],
+    "background": "The NWSL expands in 2028 with Atlanta and Columbus, each sharing ownership with an MLS club that controls its venue.",
+    "angle": "business",
+    "sensitive": false,
+    "footage_terms": ["NWSL championship 2026 highlights", "Washington Spirit Audi Field", "Gotham FC Icahn Stadium"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Wrexham owners Reynolds and Mac watch 1-1 draw with Wolves at the Racecourse",
+    "date": "2026-11-07",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50408846/wrexham-ryan-reynolds-rob-mac-phil-parkinson-wolves",
+    "entities": ["Wrexham", "Ryan Reynolds", "Rob McElhenney", "Phil Parkinson", "Wolves", "Lewis O'Brien"],
+    "facts": [
+      "Co-owners Ryan Reynolds and Rob Mac attended the Championship draw; manager Phil Parkinson says their visits lift staff, players and fans.",
+      "Lewis O'Brien equalised for his first goal of the season after Adam Armstrong put Wolves ahead, denying Wolves sole top spot.",
+      "Wrexham had lost 1-0 at Sheffield United on 30 October and beat Middlesbrough in midweek."
+    ],
+    "background": "Reynolds and Rob McElhenney bought Wrexham, then a non-league club, and the Hollywood owners rose with it to the Championship.",
+    "angle": "win",
+    "sensitive": false,
+    "footage_terms": ["Wrexham Wolves 1-1 highlights", "Ryan Reynolds Rob McElhenney Racecourse Ground", "Phil Parkinson post-match Wrexham"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Man City found guilty of rule breaches over nine seasons, appeal pending",
+    "date": "2026-10-22",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50246236/kyle-walker-man-city-guilty-charges-premier-league-breaches-verdict",
+    "entities": ["Manchester City", "Kyle Walker", "Burnley", "Premier League"],
+    "facts": [
+      "An independent commission found City guilty of breaking Premier League financial rules over nine seasons; City have appealed, so the ruling is not final.",
+      "Former City defender Kyle Walker told talkSPORT he would probably have to remove a tattoo if titles were stripped, then said on Instagram he never planned to and called the headlines misleading.",
+      "The article describes no specific sanctions yet."
+    ],
+    "background": "Walker won 15 major trophies at City between 2017 and 2025, including six Premier League titles, and now plays for Burnley.",
+    "angle": "scandal",
+    "sensitive": true,
+    "footage_terms": ["Kyle Walker Man City tattoos talkSPORT", "Manchester City Premier League charges verdict", "Man City title celebrations Etihad"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Marseille fans hit out at owner McCourt's 'Ligue 2 project' banners before PSG loss",
+    "date": "2026-09-20",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/49992210/marseille-fans-bash-us-owner-mccourt",
+    "entities": ["Olympique de Marseille", "Frank McCourt", "Paris Saint-Germain", "Bruno Genesio"],
+    "facts": [
+      "Supporters displayed banners reading 'McCourt Out' and mocking his 2016 'Champions Project' as a 'Ligue 2 Project' before and during a 2-1 home loss to PSG.",
+      "It was Marseille's fifth straight loss in all competitions and their first time losing four of their opening five top-flight games.",
+      "Financial limits left the club unable to sign anyone in the summer window, leaving new coach Bruno Genesio with few options."
+    ],
+    "background": "American owner Frank McCourt pledged 200 million euros over four years when he arrived in 2016.",
+    "angle": "scandal",
+    "sensitive": false,
+    "footage_terms": ["Marseille fans banner McCourt Out Velodrome", "Marseille PSG 1-2 highlights Le Classique", "Frank McCourt Marseille owner"],
+    "confidence": "high"
+  },
+  {
+    "headline": "PSG ultras go to court over travel ban for Marseille clash",
+    "date": "2026-09-17",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/49965677/psg-marseille-fans-travel-ban-ultras-ligue-1-france",
+    "entities": ["Collectif Ultras Paris", "Paris Saint-Germain", "Olympique de Marseille", "French Interior Ministry"],
+    "facts": [
+      "Collectif Ultras Paris began legal proceedings against the ban on PSG supporters travelling to Marseille, planning an emergency challenge at France's Council of State.",
+      "Authorities cited the risk of violent clashes; the Interior Ministry points to February 2018 incidents in Paris in which eight police officers were injured.",
+      "The group says six prefects have served since 2015 without real dialogue."
+    ],
+    "background": "The PSG-Marseille rivalry, known as Le Classique, has a long record of crowd tension.",
+    "angle": "scandal",
+    "sensitive": false,
+    "footage_terms": ["PSG Marseille Le Classique highlights", "PSG ultras Parc des Princes", "Marseille PSG fans travel ban"],
+    "confidence": "high"
+  },
+  {
+    "headline": "No away fans at Old Firm derbies this season after SPFL step",
+    "date": "2026-09-04",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/49824759/celtic-rangers-away-fans-not-allowed-old-firm-derbies-season",
+    "entities": ["Celtic", "Rangers", "SPFL", "Ibrox"],
+    "facts": [
+      "Neither club's supporters can attend the other's matches in SPFL competitions for the rest of 2026/27.",
+      "The move came after Celtic disputed Rangers' plan to offer only 300 tickets for the 13 September Premier Sports Cup tie at Ibrox, down from about 2,500 agreed earlier.",
+      "Rangers cited trouble at the March Scottish Cup quarter-final, where Celtic would normally get about 8,000 tickets; the SPFL calls the ban temporary pending an independent review."
+    ],
+    "background": "Celtic and Rangers have contested the Old Firm derby for well over a century.",
+    "angle": "scandal",
+    "sensitive": false,
+    "footage_terms": ["Old Firm derby highlights Celtic Rangers", "Ibrox atmosphere Old Firm", "Celtic Park Old Firm fans"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Leeds condemn alleged racist online abuse of Jayden Bogle after Spurs win",
+    "date": "2026-11-08",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50422908/leeds-jayden-bogle-racist-abuse",
+    "entities": ["Leeds United", "Jayden Bogle", "Tottenham Hotspur", "Mathys Tel", "Premier League"],
+    "facts": [
+      "Leeds called the alleged abuse of defender Jayden Bogle on social media after a 1-0 win over Tottenham at Elland Road disgusting, and will work with the Premier League to identify those responsible.",
+      "Tottenham offered help identifying them; the Premier League warned guilty parties face club bans and criminal prosecution.",
+      "During the match Bogle caught Mathys Tel's Achilles with his studs; no card was given and VAR found no serious foul play."
+    ],
+    "background": "Leeds play at Elland Road and beat Tottenham with a late Noah Okafor goal.",
+    "angle": "scandal",
+    "sensitive": true,
+    "footage_terms": ["Leeds Tottenham 1-0 Okafor highlights", "Elland Road atmosphere Leeds", "Daniel Farke press conference Leeds Tottenham"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Ronaldinho's Ravenna comeback sells out the stadium for 199,000 euros in tickets",
+    "date": "2026-11-16",
+    "source_domain": "football-italia.net",
+    "url": "https://football-italia.net/ronaldinho-day-earns-ravenna-199k-ticket-sales/",
+    "entities": ["Ronaldinho", "Ravenna", "Forli", "Stadio Benelli"],
+    "facts": [
+      "Ravenna's Serie C game against Forli on 15 November sold out, bringing in about 199,000 euros from tickets, with 6,743 inside the Stadio Benelli.",
+      "The club temporarily added a stand named Tribuna R10, and prices rose, with hospitality up to 150 euros, season-ticket holders from 15 euros and under-14s at 10 euros.",
+      "ESPN reports the 46-year-old played 45 minutes without scoring, having retired on 299 career goals."
+    ],
+    "background": "Ronaldinho won the 2002 World Cup with Brazil and starred at Barcelona.",
+    "angle": "viral",
+    "sensitive": false,
+    "footage_terms": ["Ronaldinho Ravenna Forli highlights", "Ronaldinho comeback Serie C", "Stadio Benelli Ravenna Ronaldinho crowd"],
+    "confidence": "high"
+  },
+  {
+    "headline": "How fallen giants and their fans bounced back, from Juventus to Rangers",
+    "date": "2026-11-18",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50512572/fallen-giants-scandal-relegation-manchester-city",
+    "entities": ["Juventus", "Fiorentina", "Rangers", "Marseille", "Manchester City"],
+    "facts": [
+      "Juventus were relegated and stripped of two league titles over Calciopoli in 2006; Fiorentina were declared bankrupt in 2002 and restarted in the fourth tier.",
+      "Rangers entered administration in 2012 over an unpaid tax bill of about 9 million pounds, dropped to the fourth tier and are now hoping for a boost under new American ownership.",
+      "Marseille were relegated for match-fixing in 1994, a year after winning the European Cup, while City fans await an appeal over 114 breaches of Premier League financial rules."
+    ],
+    "background": "Several of Europe's biggest clubs have dropped down the divisions after scandals and financial collapses, then clawed their way back.",
+    "angle": "history",
+    "sensitive": false,
+    "footage_terms": ["Juventus Calciopoli relegation history", "Rangers administration 2012 fans", "Fiorentina bankruptcy 2002 history"],
+    "confidence": "medium"
+  }
+]

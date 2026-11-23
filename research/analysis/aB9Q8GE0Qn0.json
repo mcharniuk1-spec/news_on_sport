@@ -1,0 +1,272 @@
+{
+ "video_id": "aB9Q8GE0Qn0",
+ "topic": "Argentine Twitch streamer reacts to Harry Kane winning the 2026 Ballon d'Or: debate on whether Mbappe or Lamine Yamal deserved it",
+ "hero": "Streamer Davoo Xeneize",
+ "hero_role": "commentator/reactor to Ballon d'Or news",
+ "media_type_overall": "mixed",
+ "hook": "Streamer facing camera speaks; yellow caption 'Senoras y senores' appears bottom-left",
+ "subtitle_style": "Bold white/yellow sans captions at lower-left with black outline ('Senoras y senores', 'habemus ganador')",
+ "reaction_overlays": "Pop-in cut-out photos and icons: Ballon d'Or 2025-26 icon, Kane in tuxedo holding golden ball (persistent bottom-left), England crest, player in tuxedo, LaLiga logo, Argentina-kit player, Spain-kit player with trophy; social follow cards (davoobj / Follow button)",
+ "transition_summary": "Static single-camera streamer shot, jump-cuts and overlay pop-ins ~every 4-6 s; no scene cuts",
+ "audio_note": "Streamer's Spanish commentary, live reaction",
+ "reuse_segments": [
+  {
+   "t0": 0,
+   "t1": 62,
+   "what": "Streamer talking head with stacked sticker overlays",
+   "origin_guess": "fan phone/stadium footage",
+   "rights_risk": "medium",
+   "how_to_reuse": "creator own footage (Kick/Twitch clip) - get permission; overlay stickers use player photos (rights risk)"
+  }
+ ],
+ "frames": [
+  {
+   "idx": 1,
+   "t": 0,
+   "desc": "Streamer in white tee 'NOT A BRAND', Boca mural behind, caption",
+   "type": "video",
+   "text_on_screen": "Senoras y senores",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 2,
+   "t": 2,
+   "desc": "Streamer talking, caption",
+   "type": "video",
+   "text_on_screen": "habemus ganador",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 3,
+   "t": 4,
+   "desc": "Streamer, Ballon d'Or 2025-26 icon pops in",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 4,
+   "t": 6,
+   "desc": "Streamer gesturing, Ballon d'Or icon",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 5,
+   "t": 8,
+   "desc": "Streamer hands raised, icon",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 6,
+   "t": 10,
+   "desc": "Streamer hands raised, icon",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 7,
+   "t": 12,
+   "desc": "Streamer talking, icon",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 8,
+   "t": 14,
+   "desc": "Kane tuxedo cutout holding golden ball appears left; icon",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 9,
+   "t": 16,
+   "desc": "Same with Kane cutout; icon",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 10,
+   "t": 18,
+   "desc": "Streamer hands up, Kane cutout; icon",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 11,
+   "t": 20,
+   "desc": "Streamer, Kane cutout, no icon",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 12,
+   "t": 22,
+   "desc": "Streamer, Kane cutout, davoobj follow card",
+   "type": "video",
+   "text_on_screen": "davoobj Follow",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 13,
+   "t": 24,
+   "desc": "Streamer, Kane cutout, davoobj Following card",
+   "type": "video",
+   "text_on_screen": "davoobj Following",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 14,
+   "t": 26,
+   "desc": "Streamer, text field card",
+   "type": "video",
+   "text_on_screen": "d.",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 15,
+   "t": 28,
+   "desc": "Streamer, green davoobj follow card with Seguir",
+   "type": "video",
+   "text_on_screen": "davooxeneize Seguir",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 16,
+   "t": 30,
+   "desc": "Streamer, Kane cutout",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 17,
+   "t": 32,
+   "desc": "Streamer, Kane cutout",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 18,
+   "t": 34,
+   "desc": "Streamer, Kane cutout",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 19,
+   "t": 36,
+   "desc": "Streamer, Kane cutout, England crest",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 20,
+   "t": 38,
+   "desc": "Streamer, Kane, England crest",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 21,
+   "t": 40,
+   "desc": "Streamer, Kane, England crest",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 22,
+   "t": 42,
+   "desc": "Streamer, England crest",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 23,
+   "t": 44,
+   "desc": "Streamer, tuxedo player cutout right (Mbappe/Yamal debate)",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 24,
+   "t": 46,
+   "desc": "Streamer, LaLiga logo, tuxedo player cutout",
+   "type": "video",
+   "text_on_screen": "LALIGA",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 25,
+   "t": 48,
+   "desc": "Streamer, dark pixelated cutout bottom-right",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 26,
+   "t": 50,
+   "desc": "Streamer, LaLiga logo, player in tuxedo with spiky corsage",
+   "type": "video",
+   "text_on_screen": "LALIGA",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 27,
+   "t": 52,
+   "desc": "Streamer, Argentina-kit player cutout appears",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 28,
+   "t": 54,
+   "desc": "Streamer, Ballon d'Or icon, Argentina-kit cutout",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 29,
+   "t": 56,
+   "desc": "Streamer, icon, Spain-kit player holding trophy cutout",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 30,
+   "t": 58,
+   "desc": "Streamer, icon, same cutout",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 31,
+   "t": 60,
+   "desc": "Streamer, Kane cutout, no right overlay",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "none"
+  }
+ ]
+}

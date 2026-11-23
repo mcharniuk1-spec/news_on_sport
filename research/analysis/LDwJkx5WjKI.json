@@ -1,0 +1,160 @@
+{
+ "video_id": "LDwJkx5WjKI",
+ "topic": "Every duel between Manchester City winger Jeremy Doku and PSG's Achraf Hakimi in a Champions League match",
+ "hero": "Jeremy Doku (Man City) and Achraf Hakimi (PSG) identified by on-screen name tags",
+ "hero_role": "duelling pair, protagonists of the compilation",
+ "media_type_overall": "real broadcast footage",
+ "hook": "Wide tactical-cam shot of City vs PSG with floating name tags J.DOKU / A.HAKIMI above the two players",
+ "subtitle_style": "none; small dark rounded name tags with white text tracking the two players",
+ "reaction_overlays": "floating name tags tracking players; no emoji",
+ "transition_summary": "Hard cuts between wide and close angles of each duel; about 4 cuts per 10 s; scene-cut detector found none because clips are similar",
+ "audio_note": "unknown; probably music and commentary muted",
+ "reuse_segments": [
+  {
+   "t0": 0,
+   "t1": 34,
+   "what": "Wide tactical-cam duels of Doku vs Hakimi",
+   "origin_guess": "broadcast match",
+   "rights_risk": "high",
+   "how_to_reuse": "licensed footage needed; name-tag tracking idea can be recreated"
+  }
+ ],
+ "frames": [
+  {
+   "idx": 1,
+   "t": 0,
+   "desc": "wide on pitch, City sky-blue vs PSG blue; Mastercard boards; labels J.DOKU and A.HAKIMI over players",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 2,
+   "t": 2,
+   "desc": "wide, players near touchline; labels J.DOKU and A.HAKIMI over players",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 3,
+   "t": 4,
+   "desc": "wide, Hyundai boards; labels J.DOKU and A.HAKIMI over players",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 4,
+   "t": 6,
+   "desc": "wide, City attack vs PSG; labels J.DOKU and A.HAKIMI over players",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 5,
+   "t": 8,
+   "desc": "close: City #? in sky-blue vs PSG #2 Hakimi tackle",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 6,
+   "t": 10,
+   "desc": "close: PSG player in blue with ball, defender ahead",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 7,
+   "t": 12,
+   "desc": "wide; labels J.DOKU and A.HAKIMI over players",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 8,
+   "t": 14,
+   "desc": "wide, duel on touchline; labels J.DOKU and A.HAKIMI over players",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 9,
+   "t": 16,
+   "desc": "wide, Qatar Airways boards; labels J.DOKU and A.HAKIMI over players",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 10,
+   "t": 18,
+   "desc": "wide, ball near goal, Qatar boards; labels J.DOKU and A.HAKIMI over players",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 11,
+   "t": 20,
+   "desc": "wide, bet365 boards; duel in midfield; labels J.DOKU and A.HAKIMI over players",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 12,
+   "t": 22,
+   "desc": "wide with Lays boards; duel; labels J.DOKU and A.HAKIMI over players",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 13,
+   "t": 24,
+   "desc": "wide with Hyundai boards; labels J.DOKU and A.HAKIMI over players",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 14,
+   "t": 26,
+   "desc": "wide with Hyundai boards; players near box; labels J.DOKU and A.HAKIMI over players",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 15,
+   "t": 28,
+   "desc": "wide; labels J.DOKU and A.HAKIMI over players",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 16,
+   "t": 30,
+   "desc": "wide; labels J.DOKU and A.HAKIMI over players",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 17,
+   "t": 32,
+   "desc": "wide, goal at top right with Heineken boards, City player running",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "none"
+  }
+ ]
+}

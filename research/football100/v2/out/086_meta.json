@@ -1,0 +1,93 @@
+{
+ "no": 86,
+ "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/086_real_madrid_reportedly_still_trackin.mp4",
+ "total": 44.166666666666664,
+ "outro_start": 36.86,
+ "cover": true,
+ "seq": [
+  {
+   "id": "s01",
+   "kind": "HOOK",
+   "start": 0.1,
+   "end": 1.6,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/086/s01.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s02",
+   "kind": "COMIC1",
+   "start": 6.266666666666667,
+   "end": 8.766666666666667,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/086/s02.mp4",
+   "clip_dur": 2.5,
+   "frames": 60
+  },
+  {
+   "id": "s03",
+   "kind": "STATS",
+   "start": 14.2,
+   "end": 15.7,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/086/s03.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s04",
+   "kind": "COMIC2",
+   "start": 21.1,
+   "end": 23.866666666666667,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/086/s04.mp4",
+   "clip_dur": 2.767,
+   "frames": 66
+  },
+  {
+   "id": "s05",
+   "kind": "NEWS",
+   "start": 25.866666666666667,
+   "end": 27.633333333333333,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/086/s05.mp4",
+   "clip_dur": 1.766,
+   "frames": 42
+  },
+  {
+   "id": "s06",
+   "kind": "INTERVIEW",
+   "start": 30.066666666666666,
+   "end": 31.833333333333332,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/086/s06.mp4",
+   "clip_dur": 1.766,
+   "frames": 42
+  },
+  {
+   "id": "s07",
+   "kind": "PROVOC",
+   "start": 35.266666666666666,
+   "end": 36.766666666666666,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/086/s07.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  }
+ ],
+ "missing": [],
+ "dropped": [],
+ "cards": [
+  {
+   "text": "Shop window",
+   "a": 28.866666666666667,
+   "b": 29.933333333333334
+  }
+ ],
+ "caption_sprites": 94,
+ "whoosh": [
+  0.0,
+  6.166666666666667,
+  14.1,
+  21.0,
+  25.766666666666666,
+  29.966666666666665,
+  35.166666666666664,
+  36.76
+ ],
+ "shots": 13
+}

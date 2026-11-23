@@ -1,0 +1,76 @@
+{
+  "no": 40,
+  "subject": "Yamal and a Raphinha double sink Aston Villa 3-0 at Camp Nou",
+  "title": "Yamal and Raphinha, Villa undone",
+  "voice": "kokoro",
+  "comic": false,
+  "style": null,
+  "lines": [
+    {
+      "vo": "Perfect European record, meet Camp Nou.",
+      "card": "Perfect record ends",
+      "sfx": null,
+      "footage": "Barcelona 3-0 Aston Villa highlights"
+    },
+    {
+      "vo": "Villa arrived on a three-game winning run. Barcelona won three-nil.",
+      "card": "Villa's run ends",
+      "sfx": null,
+      "footage": "Yamal goal Aston Villa Champions League"
+    },
+    {
+      "vo": "Yamal scored in the seventh minute. Villa's defence was still putting its boots on.",
+      "card": "Yamal 7'",
+      "sfx": null,
+      "footage": "Yamal goal Aston Villa"
+    },
+    {
+      "vo": "Raphinha added two more. One deflected, one a simple tap-in. Easy work.",
+      "card": "Raphinha brace",
+      "sfx": null,
+      "footage": "Raphinha brace Villa Camp Nou"
+    },
+    {
+      "vo": "Unai Emery said his side lacked a clinical edge. Polite for: we missed, they did not.",
+      "card": "No clinical edge",
+      "sfx": null,
+      "footage": "Unai Emery press conference Barcelona"
+    },
+    {
+      "vo": "Yamal is now the competition's top teenage scorer. Kylian Mbappe is second. Do not tell him.",
+      "card": "Top teen scorer",
+      "sfx": null,
+      "footage": "Yamal Champions League goals"
+    },
+    {
+      "vo": "Raphinha has nineteen goals in thirteen games this season. Defenders across Europe are checking holiday flights.",
+      "card": "19 in 13",
+      "sfx": null,
+      "footage": "Emery Barcelona press conference"
+    },
+    {
+      "vo": "Your mates will never guess this. Match news and betting tips at aboutfootball dot UK.",
+      "card": "aboutfootball.UK",
+      "sfx": null,
+      "footage": "end card"
+    }
+  ],
+  "chars": 635,
+  "est_seconds": 35,
+  "footage_terms": [
+    "Barcelona 3-0 Aston Villa highlights",
+    "Yamal goal Aston Villa Champions League",
+    "Raphinha brace Villa Camp Nou",
+    "Emery Barcelona press conference"
+  ],
+  "inserts": [],
+  "facts_used": [
+    "Barcelona won 3-0 at Spotify Camp Nou on 3 November 2026 in the Champions League (ev0093)",
+    "Yamal scored in the 7th minute after a blind pass from Joao Gomes; Raphinha scored in the 52nd (deflected) and 64th (tap-in from a Cancelo cross) (ev0093)",
+    "Villa's perfect Champions League record ended; Emery said his side lacked a clinical edge (ev0093)",
+    "Yamal became the competition's top teenage scorer, ahead of Kylian Mbappe; Raphinha has 19 goals in 13 games this season (ev0093)",
+    "Villa came in on a three-game winning run (ev0093 background)"
+  ],
+  "comic_score": 6,
+  "notes": "Non-comic, no inserts. Facts unchanged. 'Top teenage scorer' wording kept to the source phrase (competition's top teenage scorer ahead of Mbappe). Joao Gomes and Cancelo not named (roles not confirmed in the data). Wikipedia goal count (14) not used. Source: ev0093."
+}

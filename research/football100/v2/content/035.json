@@ -1,0 +1,593 @@
+{
+ "no": 35,
+ "style": "RUBBER-SLAPSTICK",
+ "prop": "camera",
+ "cast": {
+  "p1": {
+   "role": "striker",
+   "shirt": "#d94f4f",
+   "number": "9"
+  },
+  "p2": {
+   "role": "player",
+   "shirt": "#d94f4f",
+   "number": "14",
+   "hair": "#2b2b3a"
+  },
+  "pochettino": {
+   "role": "coach",
+   "shirt": "#2f3b52",
+   "hair": "#3a2a1e"
+  },
+  "rival": {
+   "role": "coach",
+   "shirt": "#3f6fb5",
+   "hair": "#d6d2c6"
+  }
+ },
+ "sequences": {
+  "s01": {
+   "type": "HOOK",
+   "q": "Eight million views for a secret session?",
+   "prop": "tv",
+   "emote": "shock",
+   "board": "typed"
+  },
+  "s02": {
+   "type": "PROVOC",
+   "q": "Drones at training: fair game?",
+   "a": "Fair game",
+   "b": "Ground them",
+   "split": [
+    27,
+    73
+   ],
+   "mood": "cheeky"
+  },
+  "s03": {
+   "type": "COMIC",
+   "bg": "pitch",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "p1",
+       "x": 270,
+       "y": 1440,
+       "pose": "wave",
+       "emote": "happy",
+       "scale": 1.35
+      },
+      {
+       "id": "p2",
+       "x": 780,
+       "y": 1440,
+       "pose": "crouch",
+       "emote": "sweat",
+       "scale": 1.3,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "camera",
+       "x": 540,
+       "y": 520,
+       "scale": 2.0,
+       "anim": "float",
+       "face": "smug"
+      },
+      {
+       "kind": "ball",
+       "x": 780,
+       "y": 1280,
+       "scale": 2.2
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.5,
+     "actors": [
+      {
+       "id": "p1",
+       "x": 270,
+       "y": 1440,
+       "pose": "point",
+       "emote": "smug",
+       "scale": 1.35
+      },
+      {
+       "id": "p2",
+       "x": 780,
+       "y": 1440,
+       "pose": "shock",
+       "emote": "shock",
+       "scale": 1.3,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "camera",
+       "x": 540,
+       "y": 520,
+       "scale": 2.0,
+       "anim": "float",
+       "face": "smug"
+      },
+      {
+       "kind": "ball",
+       "x": 400,
+       "y": 1330,
+       "scale": 2.2,
+       "anim": "spin"
+      }
+     ],
+     "cam": "push",
+     "sfx": {
+      "text": "WHOOSH",
+      "x": 560,
+      "y": 980,
+      "r": 110
+     }
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.5,
+     "t1": 0.62
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.62,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "p1",
+       "x": 270,
+       "y": 1440,
+       "pose": "facepalm",
+       "emote": "sweat",
+       "scale": 1.35
+      },
+      {
+       "id": "p2",
+       "x": 780,
+       "y": 1440,
+       "pose": "thumbsup",
+       "emote": "wink",
+       "scale": 1.3,
+       "flip": true,
+       "hold": {
+        "kind": "thumbs-up",
+        "hand": "R",
+        "scale": 0.7
+       }
+      }
+     ],
+     "props": [
+      {
+       "kind": "camera",
+       "x": 540,
+       "y": 520,
+       "scale": 2.0,
+       "face": "happy"
+      },
+      {
+       "kind": "ball",
+       "x": 400,
+       "y": 1330,
+       "scale": 2.2
+      },
+      {
+       "kind": "bell",
+       "x": 560,
+       "y": 880,
+       "scale": 1.0,
+       "anim": "pop"
+      }
+     ],
+     "sfx": {
+      "text": "DING",
+      "x": 880,
+      "y": 600,
+      "r": 100
+     }
+    }
+   ]
+  },
+  "s04": {
+   "type": "NEWS",
+   "name": "Pochettino",
+   "fact": "Twelve minutes of tactical drills",
+   "ticker": "12 minutes",
+   "icons": [
+    "stopwatch",
+    "clipboard",
+    "camera"
+   ],
+   "role": "coach",
+   "actor": "pochettino"
+  },
+  "s05": {
+   "type": "COMIC",
+   "bg": "dressing-room",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "pochettino",
+       "x": 280,
+       "y": 1440,
+       "pose": "point",
+       "emote": "smug",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "pitch-board",
+       "x": 780,
+       "y": 850,
+       "scale": 2.6
+      },
+      {
+       "kind": "camera",
+       "x": 380,
+       "y": 520,
+       "scale": 1.8,
+       "anim": "float",
+       "face": "sweat"
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.42,
+     "actors": [
+      {
+       "id": "pochettino",
+       "x": 280,
+       "y": 1440,
+       "pose": "dance",
+       "emote": "dizzy",
+       "scale": 1.4,
+       "rot": 10
+      }
+     ],
+     "props": [
+      {
+       "kind": "pitch-board",
+       "x": 780,
+       "y": 850,
+       "scale": 2.6,
+       "rot": 140
+      },
+      {
+       "kind": "camera",
+       "x": 640,
+       "y": 480,
+       "scale": 1.8,
+       "anim": "orbit",
+       "face": "shock"
+      }
+     ],
+     "cam": "push"
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.42,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "pochettino",
+       "x": 280,
+       "y": 1440,
+       "pose": "dance",
+       "emote": "dizzy",
+       "scale": 1.4,
+       "rot": -12
+      }
+     ],
+     "props": [
+      {
+       "kind": "pitch-board",
+       "x": 780,
+       "y": 850,
+       "scale": 2.6,
+       "rot": 360
+      },
+      {
+       "kind": "camera",
+       "x": 520,
+       "y": 460,
+       "scale": 1.8,
+       "anim": "orbit",
+       "face": "smug"
+      }
+     ],
+     "sfx": {
+      "text": "WHOOSH",
+      "x": 540,
+      "y": 370,
+      "r": 90
+     }
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "pochettino",
+       "x": 280,
+       "y": 1440,
+       "pose": "facepalm",
+       "emote": "sweat",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "pitch-board",
+       "x": 780,
+       "y": 850,
+       "scale": 2.6,
+       "rot": 180
+      },
+      {
+       "kind": "camera",
+       "x": 560,
+       "y": 460,
+       "scale": 2.0,
+       "face": "smug"
+      }
+     ],
+     "sfx": {
+      "text": "DING",
+      "x": 900,
+      "y": 520,
+      "r": 90
+     }
+    }
+   ]
+  },
+  "s06": {
+   "type": "COMIC",
+   "bg": "street",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "rival",
+       "x": 280,
+       "y": 1440,
+       "pose": "point",
+       "emote": "angry-cheeky",
+       "scale": 1.45,
+       "label": "Iraola's view",
+       "hold": {
+        "kind": "net",
+        "hand": "R",
+        "rot": -55,
+        "dy": -130,
+        "scale": 1.3,
+        "dx": 20
+       }
+      }
+     ],
+     "props": [
+      {
+       "kind": "camera",
+       "x": 780,
+       "y": 520,
+       "scale": 1.8,
+       "anim": "float",
+       "face": "smug"
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.44,
+     "actors": [
+      {
+       "id": "rival",
+       "x": 560,
+       "y": 1440,
+       "pose": "wave",
+       "emote": "angry-cheeky",
+       "scale": 1.45,
+       "hold": {
+        "kind": "net",
+        "hand": "R",
+        "rot": -30,
+        "dy": -30,
+        "scale": 0.85,
+        "dx": 120
+       }
+      }
+     ],
+     "props": [
+      {
+       "kind": "camera",
+       "x": 780,
+       "y": 520,
+       "scale": 1.8,
+       "anim": "float",
+       "face": "smug"
+      },
+      {
+       "kind": "paper-plane",
+       "x": 955,
+       "y": 700,
+       "scale": 1.0,
+       "anim": "slide-r",
+       "face": "smug"
+      }
+     ],
+     "fx": [
+      {
+       "kind": "dust",
+       "x": 500,
+       "y": 1430
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.44,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "rival",
+       "x": 700,
+       "y": 1440,
+       "pose": "run",
+       "emote": "shock",
+       "scale": 1.45,
+       "lift": 0
+      }
+     ],
+     "props": [
+      {
+       "kind": "camera",
+       "x": 560,
+       "y": 520,
+       "scale": 1.8,
+       "anim": "float",
+       "face": "smug"
+      },
+      {
+       "kind": "paper-plane",
+       "x": 950,
+       "y": 630,
+       "scale": 1.0,
+       "face": "smug"
+      }
+     ],
+     "sfx": {
+      "text": "WHOOSH",
+      "x": 300,
+      "y": 860,
+      "r": 110
+     },
+     "fx": [
+      {
+       "kind": "speed",
+       "x": 500,
+       "y": 1000
+      }
+     ]
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "rival",
+       "x": 700,
+       "y": 1440,
+       "pose": "tired",
+       "emote": "dizzy",
+       "scale": 1.45
+      }
+     ],
+     "props": [
+      {
+       "kind": "camera",
+       "x": 520,
+       "y": 520,
+       "scale": 2.0,
+       "face": "happy"
+      },
+      {
+       "kind": "chart-up",
+       "x": 180,
+       "y": 640,
+       "scale": 1.5,
+       "anim": "grow"
+      },
+      {
+       "kind": "thumbs-up",
+       "x": 240,
+       "y": 1000,
+       "scale": 1.0,
+       "anim": "pop"
+      },
+      {
+       "kind": "bell",
+       "x": 930,
+       "y": 650,
+       "scale": 0.9,
+       "anim": "pop"
+      }
+     ],
+     "sfx": {
+      "text": "DING",
+      "x": 880,
+      "y": 420,
+      "r": 90
+     }
+    }
+   ]
+  },
+  "s07": {
+   "type": "STATS",
+   "items": [
+    {
+     "icon": "camera",
+     "value": "8",
+     "suffix": "m",
+     "label": "million views"
+    },
+    {
+     "icon": "stopwatch",
+     "value": "12",
+     "label": "tactical drills"
+    },
+    {
+     "icon": "flag",
+     "value": "22",
+     "label": "Anfield, the 22nd"
+    }
+   ]
+  },
+  "s08": {
+   "type": "INTERVIEW",
+   "label": "REPORTER ASKS",
+   "bubble": "Will United sue next time?",
+   "answer": {
+    "icon": "calendar",
+    "gesture": "shrug",
+    "emote": "smug"
+   },
+   "subject": "Pochettino",
+   "subject_cast": "pochettino",
+   "reporter_role": "reporter"
+  }
+ }
+}

@@ -1,0 +1,4 @@
+file '<PROJECT_ROOT>/research/video_build/music/m_mud_0.wav'
+file '<PROJECT_ROOT>/research/video_build/music/m_mud_1.wav'
+file '<PROJECT_ROOT>/research/video_build/music/m_mud_2.wav'
+file '<PROJECT_ROOT>/research/video_build/music/m_mud_3.wav'

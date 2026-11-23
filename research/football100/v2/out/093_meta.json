@@ -1,0 +1,103 @@
+{
+ "no": 93,
+ "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/093_bruno_guimaraes_faces_his_old_club_n.mp4",
+ "total": 38.666666666666664,
+ "outro_start": 32.43,
+ "cover": true,
+ "seq": [
+  {
+   "id": "s01",
+   "kind": "HOOK",
+   "start": 0.1,
+   "end": 1.6,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/093/s01.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s02",
+   "kind": "COMIC1",
+   "start": 4.466666666666667,
+   "end": 6.466666666666667,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/093/s02.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s03",
+   "kind": "STATS",
+   "start": 11.1,
+   "end": 12.6,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/093/s03.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s04",
+   "kind": "NEWS",
+   "start": 14.1,
+   "end": 15.866666666666667,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/093/s04.mp4",
+   "clip_dur": 1.767,
+   "frames": 42
+  },
+  {
+   "id": "s05",
+   "kind": "COMIC2",
+   "start": 17.133333333333333,
+   "end": 19.133333333333333,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/093/s05.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s06",
+   "kind": "COMIC3",
+   "start": 22.733333333333334,
+   "end": 24.733333333333334,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/093/s06.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s07",
+   "kind": "PROVOC",
+   "start": 26.866666666666667,
+   "end": 28.366666666666667,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/093/s07.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s08",
+   "kind": "INTERVIEW",
+   "start": 30.333333333333332,
+   "end": 32.1,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/093/s08.mp4",
+   "clip_dur": 1.766,
+   "frames": 42
+  }
+ ],
+ "missing": [],
+ "dropped": [],
+ "cards": [
+  {
+   "text": "31 for Newcastle",
+   "a": 9.3,
+   "b": 10.933333333333334
+  }
+ ],
+ "caption_sprites": 103,
+ "whoosh": [
+  0.0,
+  4.366666666666667,
+  11.0,
+  14.0,
+  17.03333333333333,
+  22.633333333333333,
+  26.766666666666666,
+  30.23333333333333,
+  32.33
+ ],
+ "shots": 12
+}

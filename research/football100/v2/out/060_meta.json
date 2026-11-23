@@ -1,0 +1,98 @@
+{
+ "no": 60,
+ "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/060_milan_lose_0_2_at_home_to_ferencvaro.mp4",
+ "total": 44.233333333333334,
+ "outro_start": 37.99,
+ "cover": true,
+ "seq": [
+  {
+   "id": "s01",
+   "kind": "HOOK",
+   "start": 0.1,
+   "end": 1.6,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/060/s01.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s02",
+   "kind": "COMIC1",
+   "start": 3.466666666666667,
+   "end": 5.966666666666667,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/060/s02.mp4",
+   "clip_dur": 2.5,
+   "frames": 60
+  },
+  {
+   "id": "s03",
+   "kind": "STATS",
+   "start": 10.6,
+   "end": 12.1,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/060/s03.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s04",
+   "kind": "COMIC2",
+   "start": 16.866666666666667,
+   "end": 19.633333333333333,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/060/s04.mp4",
+   "clip_dur": 2.766,
+   "frames": 66
+  },
+  {
+   "id": "s05",
+   "kind": "NEWS",
+   "start": 23.6,
+   "end": 25.366666666666667,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/060/s05.mp4",
+   "clip_dur": 1.767,
+   "frames": 42
+  },
+  {
+   "id": "s06",
+   "kind": "INTERVIEW",
+   "start": 29.1,
+   "end": 30.866666666666667,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/060/s06.mp4",
+   "clip_dur": 1.767,
+   "frames": 42
+  },
+  {
+   "id": "s07",
+   "kind": "PROVOC",
+   "start": 36.333333333333336,
+   "end": 37.833333333333336,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/060/s07.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  }
+ ],
+ "missing": [],
+ "dropped": [],
+ "cards": [
+  {
+   "text": "Lenny Joseph scores both",
+   "a": 12.266666666666667,
+   "b": 13.3
+  },
+  {
+   "text": "Amorim blames himself",
+   "a": 22.233333333333334,
+   "b": 23.466666666666665
+  }
+ ],
+ "caption_sprites": 120,
+ "whoosh": [
+  0.0,
+  3.3666666666666667,
+  10.5,
+  16.766666666666666,
+  23.5,
+  29.0,
+  36.233333333333334,
+  37.89
+ ],
+ "shots": 14
+}

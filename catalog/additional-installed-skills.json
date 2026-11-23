@@ -1,0 +1,182 @@
+{
+  "ace-step": {
+    "discovered_paths": [
+      "~/.codex/skills/ace-step",
+      "~/.agents/skills/ace-step"
+    ],
+    "archive": "skill-archive/Audio/ace-step",
+    "existed_before_this_turn": true
+  },
+  "ai-music": {
+    "discovered_paths": [
+      "~/.codex/skills/ai-music",
+      "~/.agents/skills/ai-music"
+    ],
+    "archive": "skill-archive/Audio/ai-music",
+    "existed_before_this_turn": true
+  },
+  "elevenlabs-music-generation": {
+    "discovered_paths": [
+      "~/.codex/skills/elevenlabs-music-generation",
+      "~/.agents/skills/elevenlabs-music-generation"
+    ],
+    "archive": "skill-archive/Audio/elevenlabs-music-generation",
+    "existed_before_this_turn": true
+  },
+  "image-edit": {
+    "discovered_paths": [
+      "~/.codex/skills/image-edit",
+      "~/.agents/skills/image-edit"
+    ],
+    "archive": "skill-archive/Analysis/image-edit",
+    "existed_before_this_turn": true
+  },
+  "transcribe": {
+    "discovered_paths": [
+      "~/.codex/skills/transcribe",
+      "~/.agents/skills/transcribe"
+    ],
+    "archive": "skill-archive/Analysis/transcribe",
+    "existed_before_this_turn": true
+  },
+  "transformers-js": {
+    "discovered_paths": [
+      "~/.codex/skills/transformers-js"
+    ],
+    "archive": "skill-archive/Upstream/transformers-js",
+    "existed_before_this_turn": false
+  },
+  "amc-run-video-calibration": {
+    "discovered_paths": [
+      "~/.agents/skills/amc-run-video-calibration"
+    ],
+    "archive": "skill-archive/Analysis/amc-run-video-calibration",
+    "existed_before_this_turn": true
+  },
+  "digital-health-clinical-asr-eval": {
+    "discovered_paths": [
+      "~/.agents/skills/digital-health-clinical-asr-eval"
+    ],
+    "archive": "skill-archive/Analysis/digital-health-clinical-asr-eval",
+    "existed_before_this_turn": true
+  },
+  "physical-ai-video-data-augmentation": {
+    "discovered_paths": [
+      "~/.agents/skills/physical-ai-video-data-augmentation"
+    ],
+    "archive": "skill-archive/Analysis/physical-ai-video-data-augmentation",
+    "existed_before_this_turn": true
+  },
+  "tao-generate-video-reasoning-annotations": {
+    "discovered_paths": [
+      "~/.agents/skills/tao-generate-video-reasoning-annotations"
+    ],
+    "archive": "skill-archive/Analysis/tao-generate-video-reasoning-annotations",
+    "existed_before_this_turn": true
+  },
+  "vss-ask-video": {
+    "discovered_paths": [
+      "~/.agents/skills/vss-ask-video"
+    ],
+    "archive": "skill-archive/Analysis/vss-ask-video",
+    "existed_before_this_turn": true
+  },
+  "vss-deploy-dense-captioning": {
+    "discovered_paths": [
+      "~/.agents/skills/vss-deploy-dense-captioning"
+    ],
+    "archive": "skill-archive/Analysis/vss-deploy-dense-captioning",
+    "existed_before_this_turn": true
+  },
+  "vss-deploy-detection-tracking-2d": {
+    "discovered_paths": [
+      "~/.agents/skills/vss-deploy-detection-tracking-2d"
+    ],
+    "archive": "skill-archive/Analysis/vss-deploy-detection-tracking-2d",
+    "existed_before_this_turn": true
+  },
+  "vss-deploy-detection-tracking-3d": {
+    "discovered_paths": [
+      "~/.agents/skills/vss-deploy-detection-tracking-3d"
+    ],
+    "archive": "skill-archive/Analysis/vss-deploy-detection-tracking-3d",
+    "existed_before_this_turn": true
+  },
+  "vss-deploy-profile": {
+    "discovered_paths": [
+      "~/.agents/skills/vss-deploy-profile"
+    ],
+    "archive": "skill-archive/Analysis/vss-deploy-profile",
+    "existed_before_this_turn": true
+  },
+  "vss-deploy-video-embedding": {
+    "discovered_paths": [
+      "~/.agents/skills/vss-deploy-video-embedding"
+    ],
+    "archive": "skill-archive/Analysis/vss-deploy-video-embedding",
+    "existed_before_this_turn": true
+  },
+  "vss-generate-video-calibration": {
+    "discovered_paths": [
+      "~/.agents/skills/vss-generate-video-calibration"
+    ],
+    "archive": "skill-archive/Analysis/vss-generate-video-calibration",
+    "existed_before_this_turn": true
+  },
+  "vss-generate-video-report": {
+    "discovered_paths": [
+      "~/.agents/skills/vss-generate-video-report"
+    ],
+    "archive": "skill-archive/Analysis/vss-generate-video-report",
+    "existed_before_this_turn": true
+  },
+  "vss-manage-alerts": {
+    "discovered_paths": [
+      "~/.agents/skills/vss-manage-alerts"
+    ],
+    "archive": "skill-archive/Analysis/vss-manage-alerts",
+    "existed_before_this_turn": true
+  },
+  "vss-manage-video-io-storage": {
+    "discovered_paths": [
+      "~/.agents/skills/vss-manage-video-io-storage"
+    ],
+    "archive": "skill-archive/Analysis/vss-manage-video-io-storage",
+    "existed_before_this_turn": true
+  },
+  "vss-query-analytics": {
+    "discovered_paths": [
+      "~/.agents/skills/vss-query-analytics"
+    ],
+    "archive": "skill-archive/Analysis/vss-query-analytics",
+    "existed_before_this_turn": true
+  },
+  "vss-search-archive": {
+    "discovered_paths": [
+      "~/.agents/skills/vss-search-archive"
+    ],
+    "archive": "skill-archive/Analysis/vss-search-archive",
+    "existed_before_this_turn": true
+  },
+  "vss-setup-behavior-analytics": {
+    "discovered_paths": [
+      "~/.agents/skills/vss-setup-behavior-analytics"
+    ],
+    "archive": "skill-archive/Analysis/vss-setup-behavior-analytics",
+    "existed_before_this_turn": true
+  },
+  "vss-setup-video-analytics-api": {
+    "discovered_paths": [
+      "~/.agents/skills/vss-setup-video-analytics-api"
+    ],
+    "archive": "skill-archive/Analysis/vss-setup-video-analytics-api",
+    "existed_before_this_turn": true
+  },
+  "vss-summarize-video": {
+    "discovered_paths": [
+      "~/.agents/skills/vss-summarize-video"
+    ],
+    "archive": "skill-archive/Analysis/vss-summarize-video",
+    "existed_before_this_turn": true
+  }
+}

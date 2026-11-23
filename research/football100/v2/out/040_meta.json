@@ -1,0 +1,87 @@
+{
+ "no": 40,
+ "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/040_yamal_and_a_raphinha_double_sink_ast.mp4",
+ "total": 39.4,
+ "outro_start": 33.87,
+ "cover": true,
+ "seq": [
+  {
+   "id": "s01",
+   "kind": "HOOK",
+   "start": 0.1,
+   "end": 1.6,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/040/s01.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s02",
+   "kind": "COMIC1",
+   "start": 2.8666666666666667,
+   "end": 4.866666666666666,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/040/s02.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s03",
+   "kind": "COMIC2",
+   "start": 7.033333333333333,
+   "end": 9.033333333333333,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/040/s03.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s04",
+   "kind": "NEWS",
+   "start": 11.6,
+   "end": 13.366666666666667,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/040/s04.mp4",
+   "clip_dur": 1.767,
+   "frames": 42
+  },
+  {
+   "id": "s05",
+   "kind": "INTERVIEW",
+   "start": 16.366666666666667,
+   "end": 18.133333333333333,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/040/s05.mp4",
+   "clip_dur": 1.767,
+   "frames": 42
+  },
+  {
+   "id": "s06",
+   "kind": "PROVOC",
+   "start": 21.866666666666667,
+   "end": 23.366666666666667,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/040/s06.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s07",
+   "kind": "STATS",
+   "start": 27.1,
+   "end": 28.6,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/040/s07.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  }
+ ],
+ "missing": [],
+ "dropped": [],
+ "cards": [],
+ "caption_sprites": 104,
+ "whoosh": [
+  0.0,
+  2.7666666666666666,
+  6.933333333333334,
+  11.5,
+  16.266666666666666,
+  21.766666666666666,
+  27.0,
+  33.77
+ ],
+ "shots": 13
+}

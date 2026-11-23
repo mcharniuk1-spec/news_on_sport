@@ -1,0 +1,590 @@
+{
+ "no": 99,
+ "style": "CLEAR-LINE",
+ "prop": "scoreboard",
+ "cast": {
+  "hearts": {
+   "role": "fan",
+   "shirt": "#8b1e3f",
+   "hair": "#2b2b3a"
+  },
+  "driver": {
+   "role": "staff",
+   "shirt": "#3f6fb5",
+   "hair": "#a03a2a"
+  },
+  "keeper": {
+   "role": "keeper",
+   "shirt": "#f2c200",
+   "hair": "#6b4a2a"
+  }
+ },
+ "sequences": {
+  "s01": {
+   "type": "HOOK",
+   "q": "One point from three games. Then?",
+   "prop": "suitcase",
+   "emote": "sweat",
+   "board": "ticket"
+  },
+  "s02": {
+   "type": "STATS",
+   "items": [
+    {
+     "icon": "ball",
+     "value": "3-1",
+     "label": "Thun 3-1 Hearts"
+    },
+    {
+     "icon": "whistle",
+     "value": "1",
+     "label": "one goal"
+    }
+   ]
+  },
+  "s03": {
+   "type": "COMIC",
+   "bg": "office",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "hearts",
+       "x": 295,
+       "y": 1440,
+       "pose": "think",
+       "emote": "neutral",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "scoreboard",
+       "x": 740,
+       "y": 580,
+       "scale": 2.2,
+       "text": "1:36",
+       "face": "neutral",
+       "label": "Thirty-second of 36"
+      },
+      {
+       "kind": "magnifier",
+       "x": 520,
+       "y": 1150,
+       "scale": 1.2,
+       "anim": "float"
+      },
+      {
+       "kind": "ball",
+       "x": 150,
+       "y": 1420,
+       "scale": 0.6
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.42,
+     "actors": [
+      {
+       "id": "hearts",
+       "x": 295,
+       "y": 1440,
+       "pose": "shrug",
+       "emote": "sad",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "scoreboard",
+       "x": 740,
+       "y": 580,
+       "scale": 2.2,
+       "text": "36:36",
+       "face": "sleepy"
+      },
+      {
+       "kind": "magnifier",
+       "x": 520,
+       "y": 1150,
+       "scale": 1.2,
+       "anim": "float"
+      },
+      {
+       "kind": "ball",
+       "x": 150,
+       "y": 1420,
+       "scale": 0.6
+      }
+     ],
+     "cam": "push"
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.42,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "hearts",
+       "x": 295,
+       "y": 1440,
+       "pose": "point",
+       "emote": "shock",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "scoreboard",
+       "x": 740,
+       "y": 580,
+       "scale": 2.2,
+       "text": "32:36",
+       "face": "shock"
+      },
+      {
+       "kind": "magnifier",
+       "x": 520,
+       "y": 1150,
+       "scale": 1.2,
+       "anim": "float"
+      },
+      {
+       "kind": "ball",
+       "x": 150,
+       "y": 1420,
+       "scale": 0.6
+      }
+     ],
+     "sfx": {
+      "text": "DING",
+      "x": 240,
+      "y": 470,
+      "r": 110
+     }
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "hearts",
+       "x": 295,
+       "y": 1440,
+       "pose": "shock",
+       "emote": "sweat",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "scoreboard",
+       "x": 740,
+       "y": 580,
+       "scale": 2.2,
+       "text": "32:36",
+       "face": "sad"
+      },
+      {
+       "kind": "magnifier",
+       "x": 520,
+       "y": 1100,
+       "scale": 1.8
+      },
+      {
+       "kind": "ball",
+       "x": 150,
+       "y": 1420,
+       "scale": 0.6
+      }
+     ],
+     "fx": [
+      {
+       "kind": "smoke",
+       "x": 520,
+       "y": 1120,
+       "size": 0.6
+      }
+     ]
+    }
+   ]
+  },
+  "s04": {
+   "type": "COMIC",
+   "bg": "night-city",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "driver",
+       "x": 295,
+       "y": 1440,
+       "pose": "present",
+       "emote": "happy",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "scoreboard",
+       "x": 730,
+       "y": 580,
+       "scale": 2.2,
+       "text": "7:1",
+       "face": "happy",
+       "label": "Celtic Park"
+      },
+      {
+       "kind": "car",
+       "x": 730,
+       "y": 1250,
+       "scale": 2.9,
+       "face": "happy"
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.42,
+     "actors": [
+      {
+       "id": "driver",
+       "x": 295,
+       "y": 1440,
+       "pose": "point",
+       "emote": "neutral",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "scoreboard",
+       "x": 730,
+       "y": 580,
+       "scale": 2.2,
+       "text": "2:0",
+       "face": "neutral",
+       "label": "Trabzonspor"
+      },
+      {
+       "kind": "car",
+       "x": 730,
+       "y": 1250,
+       "scale": 2.9,
+       "face": "neutral"
+      }
+     ],
+     "cam": "push"
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.42,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "driver",
+       "x": 295,
+       "y": 1440,
+       "pose": "tired",
+       "emote": "sad",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "scoreboard",
+       "x": 730,
+       "y": 580,
+       "scale": 2.2,
+       "text": "3:1",
+       "face": "sad",
+       "label": "Thun"
+      },
+      {
+       "kind": "car",
+       "x": 730,
+       "y": 1250,
+       "scale": 2.9,
+       "face": "sad"
+      }
+     ]
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "driver",
+       "x": 295,
+       "y": 1440,
+       "pose": "facepalm",
+       "emote": "sleepy",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "scoreboard",
+       "x": 730,
+       "y": 580,
+       "scale": 2.2,
+       "text": "3:1",
+       "face": "sad",
+       "label": "Thun"
+      },
+      {
+       "kind": "car",
+       "x": 730,
+       "y": 1250,
+       "scale": 2.9,
+       "face": "cry"
+      }
+     ],
+     "sfx": {
+      "text": "CREAK",
+      "x": 260,
+      "y": 520,
+      "r": 110
+     }
+    }
+   ]
+  },
+  "s05": {
+   "type": "PROVOC",
+   "q": "Worst stop on the tour?",
+   "a": "Celtic Park",
+   "b": "Thun",
+   "split": [
+    85,
+    15
+   ],
+   "mood": "cheeky"
+  },
+  "s06": {
+   "type": "COMIC",
+   "bg": "pitch",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "keeper",
+       "x": 520,
+       "y": 1440,
+       "pose": "lean",
+       "emote": "sad",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "net",
+       "x": 800,
+       "y": 1130,
+       "scale": 2.2
+      },
+      {
+       "kind": "scoreboard",
+       "x": 300,
+       "y": 560,
+       "scale": 1.5,
+       "text": "3:1",
+       "face": "sad"
+      },
+      {
+       "kind": "ball",
+       "x": 810,
+       "y": 1280,
+       "scale": 0.8
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.42,
+     "actors": [
+      {
+       "id": "keeper",
+       "x": 520,
+       "y": 1440,
+       "pose": "hold",
+       "emote": "sad",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "net",
+       "x": 800,
+       "y": 1130,
+       "scale": 2.2
+      },
+      {
+       "kind": "scoreboard",
+       "x": 300,
+       "y": 560,
+       "scale": 1.5,
+       "text": "3:1",
+       "face": "sad"
+      },
+      {
+       "kind": "ball",
+       "x": 580,
+       "y": 1040,
+       "scale": 0.9
+      }
+     ],
+     "cam": "push"
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.42,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "keeper",
+       "x": 520,
+       "y": 1440,
+       "pose": "cheer",
+       "emote": "happy",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "net",
+       "x": 800,
+       "y": 1130,
+       "scale": 2.2
+      },
+      {
+       "kind": "scoreboard",
+       "x": 300,
+       "y": 560,
+       "scale": 1.5,
+       "text": "3:1",
+       "face": "neutral"
+      },
+      {
+       "kind": "ball",
+       "x": 520,
+       "y": 640,
+       "scale": 1.0,
+       "anim": "pulse"
+      }
+     ],
+     "fx": [
+      {
+       "kind": "sparkle",
+       "x": 520,
+       "y": 640
+      }
+     ]
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "keeper",
+       "x": 520,
+       "y": 1440,
+       "pose": "bow",
+       "emote": "smug",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "net",
+       "x": 800,
+       "y": 1130,
+       "scale": 2.2
+      },
+      {
+       "kind": "scoreboard",
+       "x": 300,
+       "y": 560,
+       "scale": 1.5,
+       "text": "3:1",
+       "face": "sad"
+      },
+      {
+       "kind": "ball",
+       "x": 810,
+       "y": 1280,
+       "scale": 0.8
+      },
+      {
+       "kind": "whistle",
+       "x": 820,
+       "y": 560,
+       "scale": 1.0,
+       "anim": "pop"
+      }
+     ],
+     "sfx": {
+      "text": "DING",
+      "x": 300,
+      "y": 850,
+      "r": 100
+     }
+    }
+   ]
+  },
+  "s07": {
+   "type": "NEWS",
+   "name": "Hearts",
+   "fact": "One point from four games now",
+   "ticker": "One from four",
+   "icons": [
+    "ball",
+    "calendar",
+    "chart-down"
+   ],
+   "role": "fan"
+  },
+  "s08": {
+   "type": "INTERVIEW",
+   "label": "REPORTER ASKS",
+   "bubble": "Foot of the table getting closer?",
+   "answer": {
+    "icon": "chart-down",
+    "gesture": "shrug",
+    "emote": "sweat"
+   },
+   "subject": "Hearts",
+   "subject_cast": "hearts"
+  }
+ }
+}

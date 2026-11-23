@@ -1,0 +1,68 @@
+{
+ "no": 98,
+ "subject": "Southampton's long road back from spygate: favourites for promotion after losing a playoff final place",
+ "title": "Southampton's spygate, four points down",
+ "voice": "EL_C",
+ "comic": false,
+ "style": null,
+ "lines": [
+  {
+   "vo": "Southampton spied on opponents three times last season. The EFL noticed.",
+   "card": "Spygate",
+   "sfx": null,
+   "footage": "Southampton match b-roll, St Mary's exterior"
+  },
+  {
+   "vo": "One analyst was sent to watch Middlesbrough before a playoff semi-final.",
+   "card": "One analyst",
+   "sfx": null,
+   "footage": "Middlesbrough match clip, stands"
+  },
+  {
+   "vo": "The EFL overturned their playoff win. Hull won the final instead.",
+   "card": "Overturned",
+   "sfx": null,
+   "footage": "Hull City playoff final clip"
+  },
+  {
+   "vo": "This season, Southampton started on minus four points. The appeal had failed.",
+   "card": "Minus four",
+   "sfx": null,
+   "footage": "league table graphic"
+  },
+  {
+   "vo": "Manager Tonda Eckert was fined twenty-eight thousand pounds, and kept his job.",
+   "card": "Fined, kept job",
+   "sfx": null,
+   "footage": "Eckert press conference clip"
+  },
+  {
+   "vo": "On the pitch, Saints beat QPR four-one in front of more than thirty thousand. All in plain sight.",
+   "card": "4-1 vs QPR",
+   "sfx": null,
+   "footage": "Southampton vs QPR highlights, crowd"
+  },
+  {
+   "vo": "Want the inside story on every match? News, betting tips and predictions at aboutfootball dot UK.",
+   "card": "aboutfootball dot UK",
+   "sfx": null,
+   "footage": "end card"
+  }
+ ],
+ "chars": 558,
+ "est_seconds": 31,
+ "footage_terms": [
+  "Southampton QPR 4-1 highlights",
+  "Tonda Eckert press conference spygate",
+  "Southampton spygate EFL playoff"
+ ],
+ "inserts": [],
+ "facts_used": [
+  "Southampton spied on opponents three times last season, including sending an analyst to watch Middlesbrough before the playoff semi-final (news 423, espn.com)",
+  "The EFL overturned their playoff win; the appeal failed; Hull won the final; Southampton began this season with a four-point deduction (news 423)",
+  "Manager Eckert, 33, was fined 28,000 pounds, received a suspended six-week touchline ban and kept his job (news 423)",
+  "Saints beat QPR 4-1 in front of more than 30,000 (news 423)"
+ ],
+ "comic_score": 3,
+ "notes": "Source: news 423 (ESPN, 2026-11-04). Non-comic per assign: two dry lines only (the EFL noticed; plain sight), aimed at the story, not at any person. The suspended ban and the club misleading investigators are left out of the spoken lines to keep it neutral. The favourites-for-promotion claim in the subject line is not in the fact list and is not spoken; verify before use."
+}

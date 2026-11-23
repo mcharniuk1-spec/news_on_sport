@@ -1,0 +1,87 @@
+{
+ "no": 62,
+ "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/062_vinicius_admits_poor_preparation_aft.mp4",
+ "total": 32.1,
+ "outro_start": 27.24,
+ "cover": true,
+ "seq": [
+  {
+   "id": "s01",
+   "kind": "HOOK",
+   "start": 0.1,
+   "end": 1.6,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/062/s01.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s02",
+   "kind": "COMIC1",
+   "start": 4.233333333333333,
+   "end": 6.233333333333333,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/062/s02.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s03",
+   "kind": "INTERVIEW",
+   "start": 10.266666666666667,
+   "end": 12.033333333333333,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/062/s03.mp4",
+   "clip_dur": 1.767,
+   "frames": 42
+  },
+  {
+   "id": "s04",
+   "kind": "NEWS",
+   "start": 13.766666666666667,
+   "end": 15.533333333333333,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/062/s04.mp4",
+   "clip_dur": 1.767,
+   "frames": 42
+  },
+  {
+   "id": "s05",
+   "kind": "COMIC2",
+   "start": 16.9,
+   "end": 18.9,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/062/s05.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s06",
+   "kind": "PROVOC",
+   "start": 21.133333333333333,
+   "end": 22.633333333333333,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/062/s06.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s07",
+   "kind": "STATS",
+   "start": 24.366666666666667,
+   "end": 25.866666666666667,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/062/s07.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  }
+ ],
+ "missing": [],
+ "dropped": [],
+ "cards": [],
+ "caption_sprites": 97,
+ "whoosh": [
+  0.0,
+  4.133333333333334,
+  10.166666666666668,
+  13.666666666666668,
+  16.799999999999997,
+  21.03333333333333,
+  24.266666666666666,
+  27.14
+ ],
+ "shots": 9
+}

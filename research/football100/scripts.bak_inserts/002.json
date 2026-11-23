@@ -1,0 +1,69 @@
+{
+ "no": 2,
+ "subject": "Andriy Shevchenko",
+ "title": "The VHS tape that bought Shevchenko",
+ "voice": "EL_A",
+ "comic": false,
+ "style": null,
+ "lines": [
+  {
+   "vo": "Milan once bought a striker after watching a VHS tape.",
+   "card": "VHS tape signing",
+   "sfx": null,
+   "footage": "Shevchenko Barcelona 1997 Camp Nou hat-trick highlights"
+  },
+  {
+   "vo": "Dynamo Kyiv won four-nil at Barcelona. Shevchenko scored a hat-trick.",
+   "card": "Hat-trick at Camp Nou",
+   "sfx": null,
+   "footage": "Dynamo Kyiv 4-0 Barcelona 1997 highlights"
+  },
+  {
+   "vo": "Milan's scouts were absent. Their director ordered a recording instead. Peak scouting: press play.",
+   "card": "No scouts there",
+   "sfx": null,
+   "footage": "retro newsroom VHS archive and Milan unveiling footage"
+  },
+  {
+   "vo": "Price: about forty-five billion lire. Roughly twenty-four million dollars. No late fees.",
+   "card": "45 billion lire",
+   "sfx": null,
+   "footage": "Shevchenko Milan unveiling 1999"
+  },
+  {
+   "vo": "In 2003-04: twenty-four Serie A goals and the Ballon d'Or. The tape was right.",
+   "card": "Ballon d'Or 2004",
+   "sfx": null,
+   "footage": "Shevchenko 2004 Serie A goals compilation"
+  },
+  {
+   "vo": "Chelsea paid thirty point eight million pounds in 2006. He scored twenty-two goals in seventy-seven games. Be kind, rewind.",
+   "card": "Be kind, rewind",
+   "sfx": "sad trombone",
+   "footage": "Shevchenko Chelsea goals compilation"
+  },
+  {
+   "vo": "Your mates will never guess this. Match news and betting tips at aboutfootball dot UK.",
+   "card": "aboutfootball.UK",
+   "sfx": null,
+   "footage": "end card, no footage"
+  }
+ ],
+ "chars": 596,
+ "est_seconds": 33,
+ "footage_terms": [
+  "Shevchenko Barcelona 1997 hat-trick",
+  "Dynamo Kyiv Barcelona 1997 Camp Nou",
+  "Shevchenko Milan 2004 goals",
+  "Shevchenko Chelsea goals 2006"
+ ],
+ "inserts": [],
+ "facts_used": [
+  "Milan scouts not at the 4-0 Camp Nou win on 5 Nov 1997; Ariedo Braida ordered a VHS recording from a newsroom (bo pack recent_news 2026-09-29, retro story)",
+  "Milan paid about 45 billion lire (about 24m dollars) in summer 1999 (bo pack recent_news 2026-09-29)",
+  "24 goals in 32 Serie A games, Ballon d'Or 2004 (bo pack praise / quick_context)",
+  "Chelsea paid 30.8m pounds in 2006; 22 goals in 77 games all competitions (bo pack roast_past)"
+ ],
+ "comic_score": 4,
+ "notes": "Part B: different stories from part A (no Nations League). Dynamo hat-trick story is retro and neutral. Wording 'the most expensive 22 goals' is the pack's friendly roast line, not a valuation claim. Non-comic: no inserts. Punch-up pass: jokes are VHS-rental callbacks (late fees, be kind rewind); no new facts."
+}

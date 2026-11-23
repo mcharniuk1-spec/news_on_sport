@@ -1,0 +1,809 @@
+{
+ "no": 74,
+ "style": "SCIFI-DEADPAN",
+ "prop": "scoreboard",
+ "cast": {
+  "parker": {
+   "role": "boss",
+   "shirt": "#f4f6fb",
+   "hair": "#c9d3e6"
+  },
+  "sidekick": {
+   "role": "staff",
+   "shirt": "#3fb8af",
+   "hair": "#2b2b3a"
+  },
+  "moylan": {
+   "role": "striker",
+   "shirt": "#f4f6fb",
+   "hair": "#6b4a2a"
+  },
+  "referee": {
+   "role": "referee"
+  }
+ },
+ "sequences": {
+  "s01": {
+   "type": "HOOK",
+   "q": "How do you come back from 3-0?",
+   "prop": "scoreboard",
+   "prop_text": "3:0",
+   "emote": "sleepy",
+   "board": "typed",
+   "role": "boss"
+  },
+  "s02": {
+   "type": "NEWS",
+   "name": "Scott Parker",
+   "fact": "West Ham boss for one day",
+   "ticker": "Parker's first game",
+   "icons": [
+    "scoreboard",
+    "calendar",
+    "clipboard"
+   ],
+   "role": "boss"
+  },
+  "s03": {
+   "type": "COMIC",
+   "bg": "kitchen",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "parker",
+       "x": 290,
+       "y": 1440,
+       "pose": "headscratch",
+       "emote": "sweat",
+       "scale": 1.4,
+       "label": "Scott Parker"
+      },
+      {
+       "id": "sidekick",
+       "x": 840,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "sleepy",
+       "scale": 1.2,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "table",
+       "x": 560,
+       "y": 1310,
+       "scale": 2.0,
+       "layer": "back"
+      },
+      {
+       "kind": "scoreboard",
+       "x": 800,
+       "y": 520,
+       "scale": 1.5,
+       "text": "3:0",
+       "face": "sleepy"
+      },
+      {
+       "kind": "lightbulb",
+       "x": 460,
+       "y": 520,
+       "scale": 1.4,
+       "face": "sleepy"
+      },
+      {
+       "kind": "cup",
+       "x": 470,
+       "y": 1135,
+       "scale": 0.8,
+       "anim": "pop"
+      },
+      {
+       "kind": "cup",
+       "x": 560,
+       "y": 1135,
+       "scale": 0.8,
+       "anim": "pop"
+      },
+      {
+       "kind": "cup",
+       "x": 650,
+       "y": 1135,
+       "scale": 0.8,
+       "anim": "pop"
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.42,
+     "actors": [
+      {
+       "id": "parker",
+       "x": 290,
+       "y": 1440,
+       "pose": "shock",
+       "emote": "shock",
+       "scale": 1.4
+      },
+      {
+       "id": "sidekick",
+       "x": 840,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "sleepy",
+       "scale": 1.2,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "table",
+       "x": 560,
+       "y": 1310,
+       "scale": 2.0,
+       "layer": "back"
+      },
+      {
+       "kind": "scoreboard",
+       "x": 800,
+       "y": 520,
+       "scale": 1.5,
+       "text": "3:0",
+       "face": "sleepy"
+      },
+      {
+       "kind": "lightbulb",
+       "x": 460,
+       "y": 520,
+       "scale": 1.4,
+       "face": "sleepy"
+      },
+      {
+       "kind": "cup",
+       "x": 470,
+       "y": 1135,
+       "scale": 0.8
+      }
+     ],
+     "sfx": {
+      "text": "BANG",
+      "x": 600,
+      "y": 400,
+      "r": 100
+     },
+     "cam": "shake",
+     "fx": [
+      {
+       "kind": "smoke",
+       "x": 590,
+       "y": 1120,
+       "size": 0.7
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.42,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "parker",
+       "x": 290,
+       "y": 1440,
+       "pose": "headscratch",
+       "emote": "dizzy",
+       "scale": 1.4
+      },
+      {
+       "id": "sidekick",
+       "x": 840,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "sleepy",
+       "scale": 1.2,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "table",
+       "x": 560,
+       "y": 1310,
+       "scale": 2.0,
+       "layer": "back"
+      },
+      {
+       "kind": "scoreboard",
+       "x": 800,
+       "y": 520,
+       "scale": 1.5,
+       "text": "3:0",
+       "face": "sleepy"
+      },
+      {
+       "kind": "lightbulb",
+       "x": 460,
+       "y": 520,
+       "scale": 1.4,
+       "face": "sleepy"
+      }
+     ],
+     "sfx": {
+      "text": "POP",
+      "x": 600,
+      "y": 400,
+      "r": 100
+     },
+     "fx": [
+      {
+       "kind": "smoke",
+       "x": 470,
+       "y": 1120,
+       "size": 0.7
+      }
+     ]
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "parker",
+       "x": 290,
+       "y": 1440,
+       "pose": "facepalm",
+       "emote": "sweat",
+       "scale": 1.4
+      },
+      {
+       "id": "sidekick",
+       "x": 840,
+       "y": 1440,
+       "pose": "shrug",
+       "emote": "smug",
+       "scale": 1.2,
+       "flip": true,
+       "hold": {
+        "kind": "bucket",
+        "hand": "R",
+        "scale": 0.8
+       }
+      }
+     ],
+     "props": [
+      {
+       "kind": "table",
+       "x": 560,
+       "y": 1310,
+       "scale": 2.0,
+       "layer": "back"
+      },
+      {
+       "kind": "scoreboard",
+       "x": 800,
+       "y": 520,
+       "scale": 1.5,
+       "text": "3:0",
+       "face": "sleepy"
+      },
+      {
+       "kind": "lightbulb",
+       "x": 460,
+       "y": 520,
+       "scale": 1.4,
+       "face": "happy"
+      }
+     ],
+     "fx": [
+      {
+       "kind": "sparkle",
+       "x": 460,
+       "y": 520
+      }
+     ]
+    }
+   ]
+  },
+  "s04": {
+   "type": "STATS",
+   "items": [
+    {
+     "icon": "ball",
+     "value": "3",
+     "label": "Moylan hat-trick"
+    },
+    {
+     "icon": "stopwatch",
+     "value": "39",
+     "suffix": "'",
+     "label": "thirty-ninth minute"
+    },
+    {
+     "icon": "chart-up",
+     "value": "1",
+     "label": "pulled one back"
+    }
+   ]
+  },
+  "s05": {
+   "type": "COMIC",
+   "bg": "studio",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "moylan",
+       "x": 290,
+       "y": 1440,
+       "pose": "present",
+       "emote": "smug",
+       "scale": 1.4,
+       "label": "Jack Moylan"
+      },
+      {
+       "id": "referee",
+       "x": 830,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "angry-cheeky",
+       "scale": 1.25,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "scoreboard",
+       "x": 700,
+       "y": 540,
+       "scale": 2.2,
+       "text": "3:0",
+       "face": "smug"
+      },
+      {
+       "kind": "cap",
+       "x": 440,
+       "y": 1150,
+       "scale": 1.3,
+       "anim": "pop"
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.42,
+     "actors": [
+      {
+       "id": "moylan",
+       "x": 290,
+       "y": 1440,
+       "pose": "present",
+       "emote": "smug",
+       "scale": 1.4
+      },
+      {
+       "id": "referee",
+       "x": 830,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "angry-cheeky",
+       "scale": 1.25,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "scoreboard",
+       "x": 700,
+       "y": 540,
+       "scale": 2.2,
+       "text": "3:0",
+       "face": "smug"
+      },
+      {
+       "kind": "cap",
+       "x": 440,
+       "y": 1150,
+       "scale": 1.3
+      },
+      {
+       "kind": "cap",
+       "x": 440,
+       "y": 1075,
+       "scale": 1.3,
+       "anim": "drop"
+      }
+     ],
+     "cam": "push"
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.42,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "moylan",
+       "x": 290,
+       "y": 1440,
+       "pose": "shock",
+       "emote": "sweat",
+       "scale": 1.4
+      },
+      {
+       "id": "referee",
+       "x": 830,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "angry-cheeky",
+       "scale": 1.25,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "scoreboard",
+       "x": 700,
+       "y": 540,
+       "scale": 2.2,
+       "text": "3:0",
+       "face": "smug"
+      },
+      {
+       "kind": "cap",
+       "x": 440,
+       "y": 1150,
+       "scale": 1.3,
+       "anim": "wobble"
+      },
+      {
+       "kind": "cap",
+       "x": 440,
+       "y": 1075,
+       "scale": 1.3,
+       "anim": "wobble"
+      },
+      {
+       "kind": "cap",
+       "x": 440,
+       "y": 1000,
+       "scale": 1.3,
+       "anim": "drop"
+      }
+     ]
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "moylan",
+       "x": 290,
+       "y": 1440,
+       "pose": "shock",
+       "emote": "dizzy",
+       "scale": 1.4
+      },
+      {
+       "id": "referee",
+       "x": 830,
+       "y": 1440,
+       "pose": "point",
+       "emote": "smug",
+       "scale": 1.25,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "scoreboard",
+       "x": 700,
+       "y": 540,
+       "scale": 2.2,
+       "text": "3:3",
+       "face": "happy"
+      },
+      {
+       "kind": "cap",
+       "x": 380,
+       "y": 1400,
+       "scale": 1.3,
+       "rot": 70
+      },
+      {
+       "kind": "cap",
+       "x": 560,
+       "y": 1380,
+       "scale": 1.3,
+       "rot": -50
+      },
+      {
+       "kind": "cap",
+       "x": 470,
+       "y": 1270,
+       "scale": 1.3,
+       "rot": 130
+      }
+     ],
+     "sfx": {
+      "text": "BANG",
+      "x": 340,
+      "y": 380,
+      "r": 100
+     }
+    }
+   ]
+  },
+  "s06": {
+   "type": "COMIC",
+   "bg": "living-room",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "sidekick",
+       "x": 190,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "sleepy",
+       "scale": 1.15
+      },
+      {
+       "id": "parker",
+       "x": 780,
+       "y": 1440,
+       "pose": "dance",
+       "emote": "happy",
+       "scale": 1.1,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "scoreboard",
+       "x": 540,
+       "y": 560,
+       "scale": 1.4,
+       "text": "8",
+       "face": "happy"
+      },
+      {
+       "kind": "balloon",
+       "x": 150,
+       "y": 560,
+       "scale": 1.3,
+       "anim": "float"
+      },
+      {
+       "kind": "cake",
+       "x": 700,
+       "y": 1370,
+       "scale": 1.6
+      },
+      {
+       "kind": "cup",
+       "x": 420,
+       "y": 1410,
+       "scale": 0.8
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.52,
+     "actors": [
+      {
+       "id": "sidekick",
+       "x": 190,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "sleepy",
+       "scale": 1.15
+      },
+      {
+       "id": "parker",
+       "x": 780,
+       "y": 1440,
+       "pose": "cheer",
+       "emote": "wink",
+       "scale": 1.1,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "scoreboard",
+       "x": 540,
+       "y": 560,
+       "scale": 1.4,
+       "text": "8",
+       "face": "happy"
+      },
+      {
+       "kind": "balloon",
+       "x": 150,
+       "y": 560,
+       "scale": 1.3,
+       "anim": "float"
+      },
+      {
+       "kind": "cake",
+       "x": 700,
+       "y": 1370,
+       "scale": 1.6
+      },
+      {
+       "kind": "cup",
+       "x": 420,
+       "y": 1410,
+       "scale": 0.8
+      },
+      {
+       "kind": "ticket",
+       "x": 400,
+       "y": 780,
+       "scale": 0.9,
+       "anim": "drop",
+       "rot": -15
+      },
+      {
+       "kind": "ticket",
+       "x": 640,
+       "y": 840,
+       "scale": 0.9,
+       "anim": "drop",
+       "rot": 12
+      }
+     ],
+     "sfx": {
+      "text": "BANG",
+      "x": 880,
+      "y": 380,
+      "r": 90
+     },
+     "cam": "push",
+     "fx": [
+      {
+       "kind": "confetti",
+       "x": 540,
+       "y": 700
+      }
+     ]
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.52,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "sidekick",
+       "x": 190,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "smug",
+       "scale": 1.15,
+       "look": "calendar"
+      },
+      {
+       "id": "parker",
+       "x": 780,
+       "y": 1440,
+       "pose": "fall",
+       "emote": "dizzy",
+       "scale": 1.1,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "scoreboard",
+       "x": 540,
+       "y": 560,
+       "scale": 1.4,
+       "text": "8",
+       "face": "happy"
+      },
+      {
+       "kind": "balloon",
+       "x": 150,
+       "y": 560,
+       "scale": 1.3,
+       "anim": "float"
+      },
+      {
+       "kind": "cake",
+       "x": 700,
+       "y": 1370,
+       "scale": 1.6
+      },
+      {
+       "kind": "cup",
+       "x": 420,
+       "y": 1410,
+       "scale": 0.8
+      },
+      {
+       "kind": "ticket",
+       "x": 400,
+       "y": 780,
+       "scale": 0.9,
+       "rot": -15
+      },
+      {
+       "kind": "ticket",
+       "x": 640,
+       "y": 840,
+       "scale": 0.9,
+       "rot": 12
+      },
+      {
+       "kind": "calendar",
+       "x": 480,
+       "y": 890,
+       "scale": 1.4,
+       "text": "1",
+       "anim": "pop"
+      }
+     ],
+     "sfx": {
+      "text": "THUD",
+      "x": 880,
+      "y": 380,
+      "r": 90
+     }
+    }
+   ]
+  },
+  "s07": {
+   "type": "PROVOC",
+   "q": "West Ham in eighth: real or fluke?",
+   "a": "Real",
+   "b": "Fluke",
+   "split": [
+    57,
+    43
+   ],
+   "mood": "sleepy"
+  },
+  "s08": {
+   "type": "INTERVIEW",
+   "label": "REPORTER ASKS",
+   "bubble": "Unbeaten as West Ham boss?",
+   "answer": {
+    "icon": "magnifier",
+    "gesture": "shrug",
+    "emote": "neutral"
+   },
+   "subject": "Scott Parker"
+  }
+ }
+}

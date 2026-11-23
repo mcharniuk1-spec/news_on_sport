@@ -1,0 +1,76 @@
+{
+ "no": 86,
+ "subject": "Real Madrid reportedly still tracking Bayern's Michael Olise",
+ "title": "Real Madrid still tracking Olise",
+ "voice": "EL_B",
+ "comic": false,
+ "style": null,
+ "lines": [
+  {
+   "vo": "Real Madrid still want Olise. Bayern are pretending not to notice.",
+   "card": "Real still tracking",
+   "sfx": null,
+   "footage": "Michael Olise Bayern highlights 2026"
+  },
+  {
+   "vo": "Olise is twenty-four, and ESPN ranks him third in the world. Bronze medal, gold-medal queue.",
+   "card": "Third in the world",
+   "sfx": null,
+   "footage": "Michael Olise Bayern goals"
+  },
+  {
+   "vo": "L'Équipe reports Real remain interested. It is a rumour, not a bid, and no fee was reported.",
+   "card": "Rumour, not a bid",
+   "sfx": null,
+   "footage": "Olise Real Madrid transfer"
+  },
+  {
+   "vo": "Several top clubs reportedly want him next summer. His Bayern deal then has two years left.",
+   "card": "Two years left",
+   "sfx": null,
+   "footage": "Michael Olise skills compilation"
+  },
+  {
+   "vo": "Two years left is a shop window. Real Madrid are not buying yet. They are just pressing their nose on the glass.",
+   "card": "Shop window",
+   "sfx": null,
+   "footage": "Michael Olise Bayern highlights"
+  },
+  {
+   "vo": "Love a transfer rumour? Get match news, tips and predictions at aboutfootball dot UK.",
+   "card": "aboutfootball.UK",
+   "sfx": null,
+   "footage": "end card"
+  }
+ ],
+ "chars": 538,
+ "est_seconds": 30,
+ "footage_terms": [
+  "Michael Olise Bayern highlights 2026",
+  "Olise Real Madrid transfer",
+  "Michael Olise Bayern goals",
+  "Michael Olise skills compilation"
+ ],
+ "inserts": [
+  {
+   "after_line": 0,
+   "story": "A cartoon giant peeks through a curtain at a young winger. Gag: the curtain rips and the giant freezes. Twist: the winger waves hello and the giant pretends to be a statue.",
+   "characters": "generic cartoon giant club and winger",
+   "seconds": 2
+  },
+  {
+   "after_line": 3,
+   "story": "A cartoon winger stands in a shop window while cartoon clubs press their noses on the glass. Gag: their noses make big squashed prints. Twist: the winger pulls down a blind.",
+   "characters": "generic cartoon winger shop window",
+   "seconds": 2
+  }
+ ],
+ "facts_used": [
+  "ESPN citing L'Equipe: Real Madrid remain interested in Olise, linked in the summer (ev0131)",
+  "Olise is 24 and enters the last two years of his Bayern contract next summer; several top clubs reportedly interested (ev0131)",
+  "No fee reported; transfer rumour, no bid or agreement (ev0131)",
+  "Ranked third in ESPN's November list of the best players in the world (ev0131 background)"
+ ],
+ "comic_score": 4,
+ "notes": "Non-comic, EL_B (600 limit). Rumour only, confidence medium. 'Third in the world' is ESPN's November list (background in ev0127-era data, ev0131 background)."
+}

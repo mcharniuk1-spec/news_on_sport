@@ -1,0 +1,86 @@
+{
+ "no": 89,
+ "subject": "Iraola goes viral after visiting a grassroots kids' match in Maghull",
+ "title": "Iraola's grassroots moment",
+ "voice": "EL_C",
+ "comic": true,
+ "style": "shonen_anime",
+ "lines": [
+  {
+   "vo": "One photo, two kids, one million views. Guess the manager.",
+   "card": "One photo, one million",
+   "sfx": null,
+   "footage": "Iraola Maghull grassroots viral"
+  },
+  {
+   "vo": "Andoni Iraola watched a junior Maghull match, reportedly to see a relative. He posed with the children, and the internet did the rest.",
+   "card": "Junior match visit",
+   "sfx": null,
+   "footage": "Iraola Maghull grassroots kids photo"
+  },
+  {
+   "vo": "Maghull manager Joe Burns says he spent a long time with the kids.",
+   "card": "Long time with kids",
+   "sfx": null,
+   "footage": "Iraola Liverpool press conference"
+  },
+  {
+   "vo": "Earlier this year, still at Bournemouth, he ran the line at a local match. Most managers argue with the officials. Iraola became one.",
+   "card": "Assistant referee",
+   "sfx": "short whistle",
+   "footage": "Iraola assistant referee local match"
+  },
+  {
+   "vo": "Fans call him a down-to-earth fella. A million views say they are right. Best title of the season, and no trophy needed.",
+   "card": "Down-to-earth",
+   "sfx": null,
+   "footage": "Andoni Iraola funny moments"
+  },
+  {
+   "vo": "Need more match news? Betting tips and predictions at aboutfootball dot UK.",
+   "card": "aboutfootball.UK",
+   "sfx": null,
+   "footage": "end card"
+  }
+ ],
+ "chars": 586,
+ "est_seconds": 33,
+ "footage_terms": [
+  "Iraola Maghull grassroots viral",
+  "Iraola assistant referee local match Bournemouth",
+  "Andoni Iraola funny moments",
+  "Iraola Maghull grassroots kids photo"
+ ],
+ "inserts": [
+  {
+   "after_line": 1,
+   "story": "Setup: a spiky-haired anime coach sprints onto a muddy pitch with sparkling eyes, shouting HELLO KIDS. Gag: his whistle shoots out of his mouth and orbits his head. Twist: two chibi kids hand him a ball and he drops it, shocked, as a power aura lights up around them.",
+   "characters": "generic anime coach (no real likeness); two chibi kids",
+   "seconds": 3
+  },
+  {
+   "after_line": 4,
+   "story": "Setup: the anime coach takes a flag as an assistant referee. Gag: his arms spin like a windmill and both flags fly into the sky. Twist: he calls offside on his own shadow, and the shadow argues back.",
+   "characters": "generic anime referee; his shadow",
+   "seconds": 3
+  },
+  {
+   "after_line": 5,
+   "story": "Setup: chibi parents cheer from the touchline. Gag: the coach answers only in a silent cloud of speech bubbles. Twist: one giant bubble bursts and reads ONE MILLION VIEWS.",
+   "characters": "chibi parents; generic anime coach",
+   "seconds": 3
+  }
+ ],
+ "facts_used": [
+  "Photo of Iraola with two young players, posted by Maghull FC, passed a million views (ev0140)",
+  "He reportedly went to watch a relative play and spent time with children, per Maghull manager Joe Burns (ev0140)",
+  "Earlier this year, while still at Bournemouth, he ran the line as an assistant referee at a local match (ev0140)",
+  "Fans called him down-to-earth (ev0140)",
+  "He posed for photos with children at the junior game (ev0140)",
+  "He posed for photos with children at the junior game (ev0140)",
+  "He posed for photos with children at the junior game (ev0140)",
+  "He posed for photos with children at the junior game (ev0140)"
+ ],
+ "comic_score": 6,
+ "notes": "Comic, 3 inserts (after_line counts from 1). Light, positive tone. 'Relative' is mentioned only as the reported reason for visiting, with no joke on it (family rule). Real-person photos not used, only generic anime characters. Liverpool job title not stated in the script. 'Became one' is a joke about the referee stint, which is documented."
+}

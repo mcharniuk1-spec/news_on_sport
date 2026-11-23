@@ -1,0 +1,499 @@
+{
+  "name": "Ronaldo Nazario (R9)",
+  "years": "Ballon d'Or: 1997, 2002",
+  "as_of": "2026-11-20",
+  "research_notes": "Window for recent_news = 2026-08-22 to 2026-11-20. 12 distinct dated stories found. WebSearch budget ran out before the last few follow-up searches. Pages that returned HTTP 403 (noataque, nsctotal, band, cnnbrasil list page, folhavitoria, meioemensagem) were used only through search-result summaries; those claims are marked confidence=medium. IMPORTANT: Ronaldo is NOT a club owner today. He sold Cruzeiro (Apr 2024) and Real Valladolid (2025). Do not write 'Valladolid owner'. Do not use the July 2026 'Ronaldo blasts Ancelotti / Vini Jr' quotes: Ronaldo denied them as fake news on X on 2026-07-06. Fact check 2026-11-20: noataque.com.br and meioemensagem.com.br still returned HTTP 403, so the Tony Carvalho hire and the Rede Ronaldo 18 Sep launch date could not be confirmed. Web search budget was exhausted during this check, so verification used direct page fetches only.",
+  "recent_news": [
+    {
+      "date": "2026-11-19",
+      "headline": "Viral video of Ronaldo scoring a 'wonder goal' is AI-made, fact check finds",
+      "facts": [
+        "The clip shows Ronaldo dribbling past defenders and scoring; an Instagram post passed 257,000 likes.",
+        "Reverse image search led to the AI-scene profile Baracho.ia, which posted the same clip with Neymar and Adriano.",
+        "Fact check by Peru's La Republica; the Brasileirao.com.br article of 19 Nov 2026 says it was reproduced by No Ataque."
+      ],
+      "source_url": "https://www.brasileirao.com.br/video-de-ronaldo-fenomeno-viraliza-com-golaco-mas-origem-revela-criacao-por-ia?completa=1",
+      "source_domain": "brasileirao.com.br",
+      "tone": "roast",
+      "sensitive": false
+    },
+    {
+      "date": "2026-11-19",
+      "headline": "Ronaldo's son DJ Ronald plays the pre-match show at the Intercontinental Cup futsal final in Brazil",
+      "facts": [
+        "Final: Sporting vs Palma, Arena Claudio Petrycoski, Pato Branco, 19 Nov 2026, 19:00 local.",
+        "Ronald also ran Casa Ronaldo, the fan venue at the 2026 World Cup in the US.",
+        "Family topic: use as news only, no jokes."
+      ],
+      "source_url": "https://www.abola.pt/noticias/filho-de-ronaldo-fenomeno-atua-antes-de-jogo-decisivo-do-sporting-2026111909135331390",
+      "source_domain": "abola.pt",
+      "tone": "neutral",
+      "sensitive": true
+    },
+    {
+      "date": "2026-11-10",
+      "headline": "Ronaldo announces 3rd 'Leilao Galacticos' charity auction for 24 Nov: tennis game with him, Roland Garros 2027 trip, Miami F1 2027 package",
+      "facts": [
+        "Organised by Ronaldo and Celina Locks to fund community leaders via Fundacao Fenomenos (created 2010).",
+        "Lots include a racket signed by Joao Fonseca and a tennis game with Ronaldo.",
+        "At the 2025 edition the top sale was an Os Gemeos artwork for R$ 1.15 million; a dinner with Messi sold for R$ 600,000."
+      ],
+      "source_url": "https://www.dgabc.com.br/Noticia/4368011/leilao-de-ronaldo-tera-raquete-autografada-por-joao-fonseca-e-jogo-de-tenis-com-fenomeno",
+      "source_domain": "dgabc.com.br",
+      "tone": "praise",
+      "sensitive": false
+    },
+    {
+      "date": "2026-11-03",
+      "headline": "Court partly sides with Ronaldo in near R$ 2 million debt-collection attempt against him and his companies",
+      "facts": [
+        "ADGM Banco Securitizadora tried to make Ronaldo and three linked companies liable for a Liv Drinks debt (about R$ 964,000 original), then withdrew the freeze request.",
+        "On 15 Oct 2026 the TJSP 15th Private Law Chamber ordered ADGM to pay R$ 30,000 in legal fees.",
+        "The ruling does not erase the Liv Drinks debt itself."
+      ],
+      "source_url": "https://www.uai.com.br/app/entretenimento/variedades/2026/11/03/interna-variedades,393860/ronaldo-fenomeno-escapa-de-tentativa-de-cobranca-de-r-2-milhoes.shtml",
+      "source_domain": "uai.com.br",
+      "tone": "neutral",
+      "sensitive": true
+    },
+    {
+      "date": "2026-10-26",
+      "headline": "Ronaldo hands Harry Kane the 2026 Ballon d'Or at the 70th-anniversary ceremony in London",
+      "facts": [
+        "Ceremony at the London Palladium; Kane won his first Ballon d'Or, ahead of Mbappe (2nd) and Yamal (3rd) (Correio 24 Horas, Wikipedia); Lance says he also beat Messi.",
+        "Lance reports Kane 'received the trophy from the hands of Ronaldo Fenomeno', a two-time winner (1997, 2002).",
+        "Kane also won the season's top scorer award that night."
+      ],
+      "source_url": "https://lance.com.br/futebol-internacional/harry-kane-e-eleito-o-bola-de-ouro-de-2026.html",
+      "source_domain": "lance.com.br",
+      "tone": "praise",
+      "sensitive": false
+    },
+    {
+      "date": "2026-10-26",
+      "headline": "On the Ballon d'Or red carpet Ronaldo says Mbappe carries his legacy",
+      "facts": [
+        "Ronaldo said he did not know who would win and called the criteria unclear.",
+        "He compared Mbappe's speed, strength, dribbling and finishing to his own game and said he was happy his legacy lives on through him.",
+        "He noted two of the three finalists play in Spain."
+      ],
+      "source_url": "https://www.goal.com/en-ca/news/ronaldo-nazario-ballon-dor-kylian-mbappe-lamine-yamal-harry-kane/blt16b454c4bf064341",
+      "source_domain": "goal.com",
+      "tone": "praise",
+      "sensitive": false
+    },
+    {
+      "date": "2026-10-19",
+      "headline": "Ronaldo and Roberto Carlos sign the Inter de Limeira SAF: investors take 80%, R$ 450m+ over ten years",
+      "facts": [
+        "Investor group includes Ronaldo, Roberto Carlos, Saudi prince Abdullah bin Saad bin Abdulaziz Al Saud, a Haitian businessman; Enrico Ambrogini leads the structure.",
+        "Plan: up to R$ 20m in the first two years; goal is Serie A within up to eight seasons.",
+        "Short-term goals: promotion from Paulista A2 in 2027 and Serie B preparation."
+      ],
+      "source_url": "https://tribunadosertao.com.br/esportes/2026/10/19/1000768-ronaldo-e-roberto-carlos-assinam-saf-de-tradicional-clube-paulista",
+      "source_domain": "tribunadosertao.com.br",
+      "tone": "neutral",
+      "sensitive": false
+    },
+    {
+      "date": "2026-10-15",
+      "headline": "Paysandu challenges the last Serie C round; Ronaldo's Inter de Limeira could lose its Serie B spot (CNN Brasil headline)",
+      "facts": [
+        "Paysandu asked to annul the result of the decisive round after the suspended games on 10-11 Oct.",
+        "Outcome of the STJD case was not found. CNN Brasil's tag page lists on 13 Oct 'Time de Ronaldo e Roberto Carlos volta a Serie B apos 35 anos' and on 15 Oct the headline that the club 'pode perder vaga na Serie B na Justica'.",
+        "Report as pending only; do not claim an outcome."
+      ],
+      "source_url": "https://www.cnnbrasil.com.br/tudo-sobre/inter-de-limeira/",
+      "source_domain": "cnnbrasil.com.br",
+      "tone": "neutral",
+      "sensitive": true
+    },
+    {
+      "date": "2026-10-11",
+      "headline": "Inter de Limeira (Ronaldo's new club project) is promoted to Serie B after LOSING 2-0, first time in 35 years",
+      "facts": [
+        "Lost 0-2 to Ferroviaria in Araraquara (match completed Sunday 11 Oct); Brusque and Paysandu drew 1-1. Inter finished 2nd in the quadrangular with 7 points, level with Brusque, and went up on a one-goal margin (A Tarde says goal difference; Flashscore says one more goal scored).",
+        "First return to the second division since 1991; second straight promotion after Serie D to Serie C in 2025.",
+        "Games on 10 Oct were suspended because of stand-collapse risk at Brusque's stadium."
+      ],
+      "source_url": "https://atarde.com.br/esportes/saf-com-ronaldo-e-roberto-carlos-sobe-apos-35-anos-e-mira-elite-1405713",
+      "source_domain": "atarde.com.br",
+      "tone": "roast",
+      "sensitive": false
+    },
+    {
+      "date": "2026-09-18",
+      "headline": "Ronaldo turns 50: Maquina do Esporte maps his business empire",
+      "facts": [
+        "Reserva Beach Club (Barueri): 169,000 m2 site, 25,000 m2 artificial beach, wave surfing; its Galaticos House tennis club sells 300 memberships at R$ 1.15 million each.",
+        "Also: Rede Ronaldo media (new sports portal), Galaticos Capital (offices in Sao Paulo, Rio, Geneva, Miami), Oddz Network, Inter de Limeira SAF.",
+        "Article states he sold his Valladolid stake in 2025 after selling Cruzeiro in 2024."
+      ],
+      "source_url": "https://maquinadoesporte.com.br/?p=243087",
+      "source_domain": "maquinadoesporte.com.br",
+      "tone": "neutral",
+      "sensitive": false
+    },
+    {
+      "date": "2026-09-18",
+      "headline": "Rede Ronaldo expands with its own sports news portal (Maquina do Esporte, 18 Sep 2026)",
+      "facts": [
+        "Maquina do Esporte (18 Sep 2026) says Rede Ronaldo is expanding with a sports news and investment portal aimed at covering the 2027 Women's World Cup.",
+        "Network run by Ronald Nazario and Douglas Pereira dos Santos ('Buiu').",
+        "Meio & Mensagem page returned HTTP 403; its 18 Sep launch date was not verified."
+      ],
+      "source_url": "https://www.meioemensagem.com.br/midia/rede-ronaldo-estreia-portal-dedicado-ao-esporte",
+      "source_domain": "meioemensagem.com.br",
+      "tone": "neutral",
+      "sensitive": false
+    }
+  ],
+  "older_context_items": [
+    {
+      "date": "2026-07-06",
+      "headline": "Ronaldo denies fake quotes that blamed Ancelotti and Vini Jr. after Brazil's 1-2 World Cup loss to Norway",
+      "facts": [
+        "Fake text attributed to Spanish daily AS circulated after the 5 July round-of-16 loss.",
+        "Ronaldo posted on X that he gave no interview and called any such statement fake news."
+      ],
+      "source_url": "https://www.lance.com.br/copa-do-mundo/ronaldo-fenomeno-desmente-criticas-carlo-ancelotti-vinicius-junior-eliminacao.html",
+      "note": "Outside 90-day window. Use only as a warning: do NOT put those quotes in the script."
+    },
+    {
+      "date": "2026-06-29",
+      "headline": "Ronaldo tells L'Equipe that Mbappe reminds him of himself at his peak",
+      "facts": [
+        "Interview on 28 June 2026; he named France, Spain, Argentina and Germany as Brazil's main title rivals.",
+        "Trivela says Mbappe had reached 16 World Cup goals, passing Ronaldo's 15."
+      ],
+      "source_url": "https://trivela.com.br/copa-do-mundo/ronaldo-elogios-mbappe-selecao-francesa/",
+      "note": "Outside 90-day window; explains the Oct 26 'legacy lives on' line."
+    },
+    {
+      "date": "2026-06-19",
+      "headline": "Casa Ronaldo: 5,000 m2 themed fan house in Miami for the 2026 World Cup, run with his son Ronald",
+      "facts": [
+        "Bra.bet is master sponsor with naming rights.",
+        "Includes gaming arena and an exhibition of items from his career."
+      ],
+      "source_url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/ronaldo-aposta-em-casa-tematica-na-copa-como-hub-de-conteudo/",
+      "note": "Outside 90-day window."
+    }
+  ],
+  "now": {
+    "as_of": "2026-11-20",
+    "role": "Businessman, investor and media figure. Not a coach, not a club owner. Turned 50 on 18 Sep 2026 (born 18 Sep 1976).",
+    "clubs": "Sold Cruzeiro in April 2024 (he bought control in Dec 2021 and put in about $70m). Sold his controlling stake in Real Valladolid in 2025 (agreement announced 23 May 2025; buyer reported by Spanish media as the Ignite group, near $50m, not confirmed by the club). Now partner in the Inter de Limeira SAF (investors hold 80%; with Roberto Carlos, a Saudi prince and Enrico Ambrogini).",
+    "this_season_numbers": "Inter de Limeira: 2nd in Serie C final group with 7 points, level with Brusque; lost 0-2 to Ferroviaria on the last day but promoted on a one-goal margin; first Serie B place since 1991. Next test: Paulista A2 in early 2027.",
+    "contract": "Not applicable (no playing or coaching contract). Business roles: Rede Ronaldo (media), Galaticos Capital, Reserva Beach Club project, Oddz Network, Fundacao Fenomenos.",
+    "what_people_say": "Oct 26: he calls Mbappe heir to his legacy and hands Kane the Ballon d'Or. Brazilian press covers him mainly as an investor. A fake AI 'Ronaldo goal' went viral in Nov 2026. Valladolid fans and press framed his ownership years as three relegations and unfulfilled promises (Infobae).",
+    "pundit_work": "Ronaldo denied the fake July 2026 quotes attacking Ancelotti and Vini Jr. (6 Jul 2026). Other pundit claims (Resenha do 9 series, backing Ancelotti's extension) could not be verified and were removed."
+  },
+  "quick_context": [
+    "Ronaldo won the Ballon d'Or in 1997 and 2002 and was FIFA World Player of the Year three times (1996, 1997, 2002).",
+    "At Barcelona in 1996-97 he scored 47 goals in 49 games.",
+    "At the 2002 World Cup he scored 8 goals, including both in the 2-0 final against Germany, and won the Golden Boot; his 15 World Cup goals were a tournament record at the time."
+  ],
+  "roast_past": [
+    "The 2002 haircut: shaved head with a lone forelock. In a 2021 interview he called it 'horrible' and apologised to the mothers whose sons copied it.",
+    "Valladolid ownership 2018-2025: bought 51% for over $30m, saw three relegations and two promotions, never settled in La Liga; promises of Champions League football and a bigger sports city were not met (Infobae).",
+    "The 2024-25 Valladolid team went down with 16 points and 29 defeats, tied for the most in Europe's big five leagues (Infobae).",
+    "Club collector: bought Cruzeiro for a $70m project and sold it within about 28 months (Dec 2021 to Apr 2024).",
+    "Nov 2025 on a podcast he said he does not see himself as a club manager 'with his own money'; in 2026 he is back in a club, this time with a Saudi prince and other investors (Goal; Tribuna do Sertao).",
+    "Rivalry: told ESPN in Nov 2025 that Cristiano Ronaldo is top 10 but not the best, and that some people think too highly of themselves.",
+    "Career tour: Cruzeiro, PSV, Barcelona, Inter, Real Madrid, Milan, Corinthians. He left a trail of rival fans on two continents (Wikipedia list of clubs)."
+  ],
+  "roast_now": [
+    "Inter de Limeira went up to Serie B after losing 2-0, on a one-goal tiebreaker over Brusque. Phenomenal maths.",
+    "A fake AI video of him dribbling past defenders got 257,000 likes. The internet prefers the AI version of a 50-year-old executive.",
+    "At 50 he runs a beach club with a 25,000 m2 artificial beach and sells tennis memberships at R$ 1.15 million each.",
+    "His charity auction lots include a tennis game with Ronaldo, while his football lots come from a quarter-century ago.",
+    "He now hands out the Ballon d'Or (Kane, Oct 2026) after winning it twice himself.",
+    "Business card in 2026: media network, wealth fund, beach club, SAF, charity auction. Everything except a hat-trick.",
+    "Plan for Inter de Limeira: Serie A within up to eight seasons, after being promoted by a tiebreaker.",
+    "Sold Cruzeiro and Valladolid, and now buys into a club that just climbed from Serie D to Serie B in two years."
+  ],
+  "praise": [
+    "Two Ballon d'Or wins (1997, 2002) and three FIFA World Player awards (1996, 1997, 2002).",
+    "47 goals in 49 games for Barcelona in 1996-97.",
+    "8 goals at the 2002 World Cup, both goals in the 2-0 final against Germany, and the Golden Boot.",
+    "15 World Cup goals, a tournament record when he scored the 15th in 2006.",
+    "Chosen to hand the Ballon d'Or to Kane at the 70th-anniversary ceremony in London on 26 Oct 2026.",
+    "His Fundacao Fenomenos auction raised R$ 1.15 million for a single lot in 2025 (Os Gemeos artwork)."
+  ],
+  "no_joke_topics": [
+    "Health, injuries and medical episodes, including the 1998 World Cup final episode and his knee injuries.",
+    "Family and children (his son Ronald's DJ and media work may be mentioned as business news only; no family jokes).",
+    "The Liv Drinks / ADGM debt case and any other court matter; the pending Paysandu / STJD challenge over Inter de Limeira's promotion.",
+    "Politics: stay away from any political claims about him (a reported fake video about Lula and Moraes could not be verified; do not touch it).",
+    "The fake July 2026 quotes attacking Ancelotti and Vinicius Jr: he denied them, so never present them as his words.",
+    "The Saudi prince partner's nationality or religion; doping; war (no documented cases, do not invent any)."
+  ],
+  "viral_moments": [
+    {
+      "title": "L'Equipe interview: Mbappe 'reminds me of myself at my peak' (28 Jun 2026)",
+      "why_provocative": "Brazil's R9 compares a Real Madrid striker to himself at his peak; later he says Mbappe is his heir.",
+      "youtube_link": "https://www.youtube.com/results?search_query=Ronaldo+Nazario+Mbappe+reminds+me+of+myself+L%27Equipe",
+      "timestamp": "unknown",
+      "verified_video_id": false
+    },
+    {
+      "title": "Ballon d'Or 2026 red carpet, London Palladium (26 Oct 2026)",
+      "why_provocative": "'I don't know who will win' and 'my legacy lives on' with Mbappe, then he hands Kane the trophy.",
+      "youtube_link": "https://www.youtube.com/results?search_query=Ronaldo+Nazario+Ballon+d%27Or+2026+red+carpet+Mbappe+legacy",
+      "timestamp": "unknown",
+      "verified_video_id": false
+    },
+    {
+      "title": "ESPN interview on Cristiano Ronaldo: 'some people have too much confidence' (10 Nov 2025)",
+      "why_provocative": "Puts Cristiano in the top 10 but not first, after Cristiano's Piers Morgan interview.",
+      "youtube_link": "https://www.youtube.com/results?search_query=Ronaldo+Nazario+ESPN+Cristiano+top+10+too+much+confidence",
+      "timestamp": "unknown",
+      "verified_video_id": false
+    },
+    {
+      "title": "VanCast podcast: club ownership, Corinthians SAF and Neymar (5 Nov 2025)",
+      "why_provocative": "Says he does not see himself as a club manager with his own money, a year before buying into Inter de Limeira.",
+      "youtube_link": "https://www.youtube.com/results?search_query=Ronaldo+Fen%C3%B4meno+VanCast+Corinthians+SAF+Neymar",
+      "timestamp": "unknown",
+      "verified_video_id": false
+    },
+    {
+      "title": "Classic: 2002 World Cup haircut apology (interview reported 30 Mar 2021)",
+      "why_provocative": "Calls the haircut 'horrible' and apologises to mothers.",
+      "youtube_link": "https://www.youtube.com/results?search_query=Ronaldo+Fen%C3%B4meno+corte+de+cabelo+2002+pede+desculpas",
+      "timestamp": "unknown",
+      "verified_video_id": false
+    }
+  ],
+  "footage_terms": [
+    {
+      "phrase": "Ronaldo Nazario Barcelona 1996-97 goals compilation",
+      "watermark_risk": "high (fan channels, burned-in logos, music)"
+    },
+    {
+      "phrase": "Ronaldo Fenomeno 2002 World Cup final goals Germany full match",
+      "watermark_risk": "medium (broadcaster logo, some with burned-in commentary subtitles)"
+    },
+    {
+      "phrase": "Ronaldo Nazario Inter Milan 1998 goals",
+      "watermark_risk": "high (compilations with watermarks)"
+    },
+    {
+      "phrase": "Ronaldo Nazario Real Madrid 2002 Ballon d'Or season goals",
+      "watermark_risk": "high"
+    },
+    {
+      "phrase": "Ronaldo Nazario Ballon d'Or 2026 London Palladium red carpet interview",
+      "watermark_risk": "medium (news channel lower-thirds and logos)"
+    },
+    {
+      "phrase": "Ronaldo Fenomeno Ballon d'Or Kane trophy presentation",
+      "watermark_risk": "medium"
+    },
+    {
+      "phrase": "Ronaldo Fenomeno Rede Ronaldo Casa Ronaldo Miami World Cup 2026",
+      "watermark_risk": "low (own channel) but sponsor branding Bra.bet visible"
+    },
+    {
+      "phrase": "Inter de Limeira Ferroviaria 2-0 Serie C 2026 highlights",
+      "watermark_risk": "medium (broadcaster scoreboard, possible Portuguese burned-in subtitles)"
+    },
+    {
+      "phrase": "Ronaldo Fenomeno interview Resenha do 9 2026",
+      "watermark_risk": "medium (TikTok/ESPN branding, captions often burned in)"
+    },
+    {
+      "phrase": "Ronaldo Nazario 2002 haircut Brazil national team",
+      "watermark_risk": "medium"
+    }
+  ],
+  "flipbook_ideas": [
+    "Ronaldo caricature with the 2002 lone-forelock haircut handing a giant golden ball to Kane, while his own hair tuft salutes.",
+    "Scoreboard reads 0-2 with a huge 'PROMOTED' banner; cartoon R9 shrugs and checks a calculator (Inter de Limeira tiebreaker).",
+    "R9 with a shopping cart holding tiny stadiums tagged SOLD (Cruzeiro, Valladolid) and a new one tagged 'Limeira'.",
+    "Ronaldo opens a beach club: surfboard on a tennis court, price tag R$ 1.15 million flips over his head.",
+    "AI Ronaldo dribbles past three defenders while real 50-year-old Ronaldo walks behind carrying a laptop and a balloon marked 50.",
+    "Cartoon Ronaldo hands Mbappe a baton labelled 'legacy', then quickly grabs back his 15-goal record sticker."
+  ],
+  "image_reference_notes": {
+    "signature_look": "Number 9 shirt, broad grin with visible front teeth, strong thighs, the 2002 'lone forelock' shaved-head haircut (self-described as horrible).",
+    "current_look": "GAP: not verified from a source. Check Oct 26 2026 London Palladium (AFP) and Rede Ronaldo photos before drawing. Safe default for cartoon: shaved or very short hair, smart suit or casual business outfit.",
+    "kit_colours": "Brazil: yellow shirt, green trim, blue shorts. Inter: blue and black stripes. Real Madrid: white. Barcelona: blue and garnet. Milan: red and black. Corinthians: white and black.",
+    "expressions": "Wide open smile, celebratory shout, mock-serious executive face for the business jokes.",
+    "signature_pose": "Arms spread wide, running in celebration (general knowledge, not from a fetched source)."
+  },
+  "claims": [
+    {
+      "claim": "Ronaldo handed Harry Kane the 2026 Ballon d'Or at the London Palladium on 26 Oct 2026.",
+      "source_url": "https://lance.com.br/futebol-internacional/harry-kane-e-eleito-o-bola-de-ouro-de-2026.html",
+      "confidence": "high"
+    },
+    {
+      "claim": "Ronaldo said on the 2026 Ballon d'Or red carpet that he did not know the winner and that his legacy lives on through Mbappe.",
+      "source_url": "https://www.goal.com/en-ca/news/ronaldo-nazario-ballon-dor-kylian-mbappe-lamine-yamal-harry-kane/blt16b454c4bf064341",
+      "confidence": "high"
+    },
+    {
+      "claim": "Ronaldo won the Ballon d'Or in 1997 and 2002.",
+      "source_url": "https://en.wikipedia.org/wiki/Ronaldo_(Brazilian_footballer)",
+      "confidence": "high"
+    },
+    {
+      "claim": "Ronaldo won FIFA World Player of the Year in 1996, 1997 and 2002.",
+      "source_url": "https://en.wikipedia.org/wiki/Ronaldo_(Brazilian_footballer)",
+      "confidence": "high"
+    },
+    {
+      "claim": "He scored 47 goals in 49 games for Barcelona in 1996-97.",
+      "source_url": "https://en.wikipedia.org/wiki/Ronaldo_(Brazilian_footballer)",
+      "confidence": "high"
+    },
+    {
+      "claim": "He scored 8 goals at the 2002 World Cup, including twice in the 2-0 final against Germany, and won the Golden Boot.",
+      "source_url": "https://en.wikipedia.org/wiki/Ronaldo_(Brazilian_footballer)",
+      "confidence": "high"
+    },
+    {
+      "claim": "His 15th World Cup goal came at the 2006 World Cup and was a tournament record at the time.",
+      "source_url": "https://en.wikipedia.org/wiki/Ronaldo_(Brazilian_footballer)",
+      "confidence": "high"
+    },
+    {
+      "claim": "Ronaldo bought 51% of Real Valladolid in September 2018 and is now the former owner.",
+      "source_url": "https://en.wikipedia.org/wiki/Ronaldo_(Brazilian_footballer)",
+      "confidence": "high"
+    },
+    {
+      "claim": "On 23 May 2025 Valladolid announced Ronaldo's agreed sale of his controlling stake to a North American investment group (Spanish media: Ignite, reportedly about $50m; club did not confirm name or price; CSD approval was pending); he paid over $30m for 51% in 2018.",
+      "source_url": "https://www.infobae.com/deportes/2025/05/23/ronaldo-dejo-de-ser-propietario-del-valladolid-la-millonaria-cifra-por-la-que-vendio-sus-acciones/",
+      "confidence": "high"
+    },
+    {
+      "claim": "During his ownership Valladolid had three relegations and two promotions and the 2024-25 team went down with 16 points and 29 defeats.",
+      "source_url": "https://www.infobae.com/deportes/2025/05/23/ronaldo-dejo-de-ser-propietario-del-valladolid-la-millonaria-cifra-por-la-que-vendio-sus-acciones/",
+      "confidence": "high"
+    },
+    {
+      "claim": "Ronaldo bought control of Cruzeiro in Dec 2021, invested $70m and sold in April 2024.",
+      "source_url": "https://en.wikipedia.org/wiki/Ronaldo_(Brazilian_footballer)",
+      "confidence": "high"
+    },
+    {
+      "claim": "Maquina do Esporte (18 Sep 2026) says he sold his Valladolid stake in 2025 after selling Cruzeiro in 2024 and lists Reserva Beach Club, Galaticos Capital, Oddz Network, Rede Ronaldo and Inter de Limeira.",
+      "source_url": "https://maquinadoesporte.com.br/?p=243087",
+      "confidence": "high"
+    },
+    {
+      "claim": "Reserva Beach Club has 169,000 m2, a 25,000 m2 artificial beach and sells 300 tennis memberships at R$ 1.15 million each.",
+      "source_url": "https://maquinadoesporte.com.br/?p=243087",
+      "confidence": "high"
+    },
+    {
+      "claim": "Ronaldo was born 18 Sep 1976, so he turned 50 on 18 Sep 2026.",
+      "source_url": "https://en.wikipedia.org/wiki/Ronaldo_(Brazilian_footballer)",
+      "confidence": "high"
+    },
+    {
+      "claim": "Inter de Limeira lost 0-2 to Ferroviaria (match completed 11 Oct 2026), finished second in the group on 7 points ahead of Brusque on a one-goal margin and was promoted to Serie B 2027.",
+      "source_url": "https://www.flashscore.com.br/noticias/futebol-serie-c-ferroviaria-e-inter-de-limeira-sobem-a-serie-b-apos-jogos-suspensos-por-risco-de-desabamento/GbFPcmRO/",
+      "confidence": "high"
+    },
+    {
+      "claim": "Inter de Limeira's promotion ends a 35-year wait; last Serie B spell ended in 1991; second straight promotion after Serie D to Serie C in 2025.",
+      "source_url": "https://atarde.com.br/esportes/saf-com-ronaldo-e-roberto-carlos-sobe-apos-35-anos-e-mira-elite-1405713",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Inter de Limeira SAF gives investors 80%, plans R$ 450m+ over ten years (R$ 20m in the first two years); investors include Ronaldo, Roberto Carlos, a Saudi prince and a Haitian businessman, led by Enrico Ambrogini. A Tarde reports the goal of Serie A within up to eight seasons.",
+      "source_url": "https://tribunadosertao.com.br/esportes/2026/10/19/1000768-ronaldo-e-roberto-carlos-assinam-saf-de-tradicional-clube-paulista (Serie A goal: https://atarde.com.br/esportes/saf-com-ronaldo-e-roberto-carlos-sobe-apos-35-anos-e-mira-elite-1405713)",
+      "confidence": "high"
+    },
+    {
+      "claim": "Games on 10 Oct 2026 in Serie C group were suspended because of stand-collapse risk at Brusque's stadium.",
+      "source_url": "https://www.flashscore.com.br/noticias/futebol-serie-c-ferroviaria-e-inter-de-limeira-sobem-a-serie-b-apos-jogos-suspensos-por-risco-de-desabamento/GbFPcmRO/",
+      "confidence": "high"
+    },
+    {
+      "claim": "Paysandu asked to annul the last Serie C round, putting Inter de Limeira's Serie B spot at risk (CNN Brasil headline, 15 Oct 2026); the STJD outcome was not found.",
+      "source_url": "https://www.cnnbrasil.com.br/tudo-sobre/inter-de-limeira/",
+      "confidence": "medium"
+    },
+    {
+      "claim": "A viral AI-made video of Ronaldo scoring a wonder goal passed 257,000 Instagram likes; origin traced to the Baracho.ia profile; fact check by La Republica.",
+      "source_url": "https://www.brasileirao.com.br/video-de-ronaldo-fenomeno-viraliza-com-golaco-mas-origem-revela-criacao-por-ia?completa=1",
+      "confidence": "high"
+    },
+    {
+      "claim": "The TJSP on 15 Oct 2026 ordered ADGM to pay R$ 30,000 in legal fees after it tried to make Ronaldo and three linked firms liable for a Liv Drinks debt; the debt itself is not erased.",
+      "source_url": "https://www.uai.com.br/app/entretenimento/variedades/2026/11/03/interna-variedades,393860/ronaldo-fenomeno-escapa-de-tentativa-de-cobranca-de-r-2-milhoes.shtml",
+      "confidence": "high"
+    },
+    {
+      "claim": "Ronaldo's 3rd Leilao Galacticos is scheduled for 24 Nov 2026 with a tennis game with Ronaldo among the lots; the 2025 top sale was R$ 1.15 million.",
+      "source_url": "https://www.dgabc.com.br/Noticia/4368011/leilao-de-ronaldo-tera-raquete-autografada-por-joao-fonseca-e-jogo-de-tenis-com-fenomeno",
+      "confidence": "high"
+    },
+    {
+      "claim": "DJ Ronald, Ronaldo's son, was set to play the pre-match show at the Intercontinental Cup futsal final in Pato Branco on 19 Nov 2026.",
+      "source_url": "https://www.abola.pt/noticias/filho-de-ronaldo-fenomeno-atua-antes-de-jogo-decisivo-do-sporting-2026111909135331390",
+      "confidence": "high"
+    },
+    {
+      "claim": "Maquina do Esporte (18 Sep 2026) says Rede Ronaldo is expanding with a sports news portal (Meio & Mensagem 18 Sep launch date not verified, HTTP 403).",
+      "source_url": "https://maquinadoesporte.com.br/?p=243087",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Casa Ronaldo was a 5,000 m2 themed fan house in Miami for the 2026 World Cup with Bra.bet as naming sponsor.",
+      "source_url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/ronaldo-aposta-em-casa-tematica-na-copa-como-hub-de-conteudo/",
+      "confidence": "high"
+    },
+    {
+      "claim": "Ronaldo denied on X (6 Jul 2026) fake quotes blaming Ancelotti and Vini Jr after Brazil's 1-2 loss to Norway in the 5 Jul round of 16.",
+      "source_url": "https://www.lance.com.br/copa-do-mundo/ronaldo-fenomeno-desmente-criticas-carlo-ancelotti-vinicius-junior-eliminacao.html",
+      "confidence": "high"
+    },
+    {
+      "claim": "Ronaldo told L'Equipe on 28 Jun 2026 that Mbappe's style reminds him of himself at his peak.",
+      "source_url": "https://trivela.com.br/copa-do-mundo/ronaldo-elogios-mbappe-selecao-francesa/",
+      "confidence": "high"
+    },
+    {
+      "claim": "In the 2002 haircut interview (reported 30 Mar 2021) Ronaldo called the haircut 'horrible' and apologised to mothers whose sons copied it.",
+      "source_url": "https://www.notife.com/ronaldo-recordo-su-look-en-el-mundial-de-2002-y-pidio-disculpas",
+      "confidence": "high"
+    },
+    {
+      "claim": "In Nov 2025 on VanCast Ronaldo said he does not see himself as a club manager with his own money and called a SAF the solution for Corinthians.",
+      "source_url": "https://www.goal.com/br/listas/ronaldo-fenomeno-pede-saf-corinthians-neymar-copa-mundo/blt012049c991cf7c2e",
+      "confidence": "high"
+    },
+    {
+      "claim": "On 10 Nov 2025 Ronaldo told ESPN that Cristiano Ronaldo is top 10 but not the best and that some people think too highly of themselves.",
+      "source_url": "https://prod.beinsports.com/en-us/soccer/articles/ronaldo-nazario-does-not-call-cristiano-ronaldo-the-best-ever-some-people-have-too-much-confidence-in-themselves-2025-11-10",
+      "confidence": "high"
+    },
+    {
+      "claim": "Kane's 2026 Ballon d'Or ended a 25-year English drought (since Michael Owen in 2001).",
+      "source_url": "https://www.correio24horas.com.br/esportes/harry-kane-vence-a-bola-de-ouro-2026-e-encerra-jejum-ingles-de-25-anos-1026",
+      "confidence": "high"
+    },
+    {
+      "claim": "Ronaldo's current look (hair, beard) in autumn 2026.",
+      "source_url": "",
+      "confidence": "low"
+    },
+    {
+      "claim": "Specific YouTube video IDs and timestamps for the viral moments (only search links supplied).",
+      "source_url": "",
+      "confidence": "low"
+    }
+  ],
+  "verification": {
+    "checked": 79,
+    "corrected": 16,
+    "removed": 5,
+    "notes": "Fetched and compared cited pages (Lance, Goal, Correio, Wikipedia, Brasileirao.com.br, UAI, A Bola, DGABC, Infobae, Maquina do Esporte, Tribuna do Sertao, A Tarde, Flashscore, CNN Brasil, Trivela, Notife, beIN, Itatiaia). Checked: 35 claims, 12 news items, 7 now fields, 3 quick_context, 22 roast/praise lines. Corrected: Kane podium (Mbappe 2nd, Yamal 3rd; Messi not shown in top 3); Brazil-Norway score is 1-2 (was written 2-1); Valladolid buyer Ignite is only reported by Spanish media, club did not name it, CSD approval pending; Inter tiebreaker wording (sources differ: goal difference vs one more goal scored); 'Paulista federation confirmed 13 Oct' replaced with CNN Brasil headlines; Serie A in eight seasons now sourced to A Tarde; AI-video fact check was reproduced by No Ataque (not Brasileirao.com.br); Rede Ronaldo portal softened to 'expanding' (Meio&Mensagem 403); 'three continents' fixed to two; Cruzeiro tenure 28 months. Removed: Tony Carvalho hire item and claim (403, no other source), CBF-president claim and roast line (Itatiaia does not support '25 of 27 federations' or a 2025 withdrawal), pundit_work claims (Resenha do 9, Ancelotti 2030 extension) as unverifiable. Confirmed: Ballon d'Or/FIFA years, 47 goals in 49 games, 2002 World Cup, 15 goals in 2006, Valladolid 51% for $30m+ and relegation counts, Cruzeiro Dec 2021/Apr 2024, 26 Oct ceremony, Liv Drinks ruling 15 Oct R$30k, auction 24 Nov, DJ Ronald, Reserva Beach Club figures, Casa Ronaldo 5,000 m2 Miami, haircut and VanCast quotes, born 18 Sep 1976. Unverified left as GAP: Ronaldo's current look; YouTube IDs; Paysandu STJD outcome."
+  }
+}

@@ -1,0 +1,120 @@
+{
+ "video_id": "qPTQXW1C8WY",
+ "topic": "Neymar 'coldest moments' short: bench gesture, PSG/Barcelona dribbles and training skills",
+ "hero": "Neymar (per title; PSG #10 shirt visible)",
+ "hero_role": "protagonist of a short highlight edit",
+ "media_type_overall": "real broadcast footage",
+ "hook": "Player on bench in yellow bib rubbing nose and mouth, looking sideways to camera",
+ "subtitle_style": "none; tiny 'DX10HD3' watermark bottom-centre",
+ "reaction_overlays": "none",
+ "transition_summary": "Hard cuts every ~6s (3 detected cuts in 24s, about 1.3 cuts/10s); freeze-like slowed bench clip at start",
+ "audio_note": "unknown, likely trending music edit (no transcript)",
+ "reuse_segments": [
+  {
+   "t0": 0,
+   "t1": 24,
+   "what": "Neymar PSG/Barcelona match and training clips",
+   "origin_guess": "broadcast match",
+   "rights_risk": "high",
+   "how_to_reuse": "Needs licensed footage; recreate bench/gesture mood with licensed clips"
+  }
+ ],
+ "frames": [
+  {
+   "idx": 1,
+   "t": 0,
+   "desc": "Man on bench in yellow training bib, red wristband, hand at nose, looking at camera",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 2,
+   "t": 2,
+   "desc": "Same bench shot, glancing sideways with hand raised",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 3,
+   "t": 4,
+   "desc": "Same bench shot, hand near mouth",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 4,
+   "t": 6,
+   "desc": "PSG #10 dribbling past red-kit defender, floodlit pitch",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 5,
+   "t": 8,
+   "desc": "Red-kit #20 defender and PSG #10 in close contact, crowd behind",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 6,
+   "t": 10,
+   "desc": "Close: red-kit #20 and PSG-kit blond player face to face, Emirates sponsor",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 7,
+   "t": 12,
+   "desc": "Three players in dark training tops with CL balls on green pitch, one blond",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 8,
+   "t": 14,
+   "desc": "One player bending to ball while others stand",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 9,
+   "t": 16,
+   "desc": "Three players standing, one crouching, CL balls on ground",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 10,
+   "t": 18,
+   "desc": "Milan-kit red-black player lunging at yellow-kit #11, ball in air",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 11,
+   "t": 20,
+   "desc": "Yellow-kit #11 dribbling past red-black defender, CL board",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 12,
+   "t": 22,
+   "desc": "Yellow-kit player controlling ball, crowd dark behind, PlayStation board",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "none"
+  }
+ ]
+}

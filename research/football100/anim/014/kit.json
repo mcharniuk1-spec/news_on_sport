@@ -1,0 +1,16 @@
+{
+  "palette": [
+    "#bbd2d7",
+    "#3e4269",
+    "#f6cc71",
+    "#e6877a",
+    "#a7a5da"
+  ],
+  "style": "SITCOM-YELLOW",
+  "font": "Arial Bold",
+  "characters": [
+    "Luis Figo",
+    "generic reporter"
+  ],
+  "recurring_prop": "board"
+}

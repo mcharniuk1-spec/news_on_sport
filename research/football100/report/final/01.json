@@ -1,0 +1,659 @@
+[
+ {
+  "hook_type": "quote_led",
+  "hook_basis": "quote_or_interview",
+  "topic_primary": "pundit_prediction",
+  "scope": "international",
+  "subject_type": "owner_or_other",
+  "timeliness": "breaking_week",
+  "uk_relevance": "medium",
+  "story_structure": "stat_stack",
+  "twist_position": "late",
+  "payoff_type": "punchline",
+  "humour_type": "deadpan_stat",
+  "humour_target": "club",
+  "dominant_emotion": "schadenfreude",
+  "comment_bait": "none",
+  "cta_opener_type": "question",
+  "hook_type_alt": "roast_jab",
+  "hook_strength": 3.0,
+  "story_clarity": 4.0,
+  "humour_quality": 3.5,
+  "shareability": 2.5,
+  "comment_potential": 2.0,
+  "uk_fit": 2.5,
+  "novelty": 3.0,
+  "poster_title_sells_hook": 3.5,
+  "poster_joke_quality": 3.0,
+  "humour_intensity": 2.0,
+  "virality_pred": 3.5,
+  "risk_flags": [
+   "betting_under18_appeal",
+   "single_source"
+  ],
+  "hook_type_why": "Opens on Shevchenko's words 'exactly the division it deserves', then 'Refreshing honesty' jabs.",
+  "hook_basis_detail": "Shevchenko's quote that Ukraine is in exactly the division it deserves, after finishing third of four in Nations League League B.",
+  "story_summary": "Shevchenko calls League B deserved; stats show Ukraine third of four, beaten 0-3 by Northern Ireland; closes with Yamal's trophies versus Ukraine's points.",
+  "poster_issue": "Headline is long and the bubble repeats a fact; the best line (Yamal three trophies, Ukraine seven points) is missing.",
+  "poster_change": "Bubble: 'YAMAL HAS THREE TROPHIES. UKRAINE HAS SEVEN POINTS.'",
+  "changes": [
+   {
+    "priority": "P2",
+    "category": "poster_title",
+    "action": "Put the Yamal trophies versus seven points line on the poster bubble."
+   },
+   {
+    "priority": "P2",
+    "category": "add_comment_bait",
+    "action": "Ask if Shevchenko is right: do Ukraine deserve League B?"
+   },
+   {
+    "priority": "P2",
+    "category": "vary_cta",
+    "action": "Replace 'Think you can call the next one?' used in 20 videos."
+   },
+   {
+    "priority": "P2",
+    "category": "hook_rewrite",
+    "action": "Lead with the 0-3 loss to Northern Ireland despite 73% possession, then the quote."
+   }
+  ],
+  "no": 1,
+  "annotator_agreement": 0.89
+ },
+ {
+  "hook_type": "curiosity_gap",
+  "hook_basis": "transfer_fee_or_bid",
+  "topic_primary": "transfer_story",
+  "scope": "mixed_career",
+  "subject_type": "player",
+  "timeliness": "evergreen_retro",
+  "uk_relevance": "medium",
+  "story_structure": "chronological_recap",
+  "twist_position": "middle",
+  "payoff_type": "callback_to_hook",
+  "humour_type": "callback",
+  "humour_target": "club",
+  "dominant_emotion": "curiosity",
+  "comment_bait": "none",
+  "cta_opener_type": "mates_social",
+  "hook_type_alt": "none",
+  "hook_strength": 5.0,
+  "story_clarity": 4.5,
+  "humour_quality": 4.0,
+  "shareability": 4.0,
+  "comment_potential": 2.0,
+  "uk_fit": 3.0,
+  "novelty": 5.0,
+  "poster_title_sells_hook": 3.5,
+  "poster_joke_quality": 2.0,
+  "humour_intensity": 2.5,
+  "virality_pred": 6.5,
+  "risk_flags": [
+   "over_length",
+   "single_source",
+   "unverified_claim"
+  ],
+  "hook_type_why": "'Milan once bought a striker after watching a VHS tape' withholds who and why.",
+  "hook_basis_detail": "Milan signed Shevchenko after scouts missed his hat-trick at Camp Nou and the director ordered a VHS recording.",
+  "story_summary": "Milan's director bought Shevchenko from a VHS of his Camp Nou hat-trick; the tape was right (Ballon d'Or), Chelsea's 30.8m was not.",
+  "poster_issue": "Bubble gives the score, not the VHS joke; the video's funniest idea (rental-shop gags) is not on the cover.",
+  "poster_change": "Bubble: 'PEAK SCOUTING: PRESS PLAY.'",
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "shorten",
+    "action": "Cut about 5 characters: 602 chars exceed the 600 limit."
+   },
+   {
+    "priority": "P2",
+    "category": "poster_title",
+    "action": "Use the 'Peak scouting: press play' line on the poster bubble."
+   },
+   {
+    "priority": "P2",
+    "category": "verify_fact",
+    "action": "Check the 45bn lire and 24m dollar fee against a second source."
+   },
+   {
+    "priority": "P2",
+    "category": "vary_cta",
+    "action": "'Your mates will never guess this' repeats in 32 videos; change it."
+   },
+   {
+    "priority": "P3",
+    "category": "add_comment_bait",
+    "action": "Ask: worst or best transfer ever found by tape?"
+   }
+  ],
+  "no": 2,
+  "annotator_agreement": 0.86
+ },
+ {
+  "hook_type": "stat_shock",
+  "hook_basis": "record_or_milestone",
+  "topic_primary": "player_form",
+  "scope": "other_leagues",
+  "subject_type": "player",
+  "timeliness": "breaking_week",
+  "uk_relevance": "medium",
+  "story_structure": "roast_and_praise",
+  "twist_position": "none",
+  "payoff_type": "callback_to_hook",
+  "humour_type": "sarcasm",
+  "humour_target": "player",
+  "dominant_emotion": "amusement",
+  "comment_bait": "none",
+  "cta_opener_type": "tease_next",
+  "hook_type_alt": "contrast_twist",
+  "hook_strength": 4.0,
+  "story_clarity": 4.0,
+  "humour_quality": 3.5,
+  "shareability": 3.5,
+  "comment_potential": 3.0,
+  "uk_fit": 3.0,
+  "novelty": 3.0,
+  "poster_title_sells_hook": 4.0,
+  "poster_joke_quality": 3.0,
+  "humour_intensity": 2.5,
+  "virality_pred": 6.5,
+  "risk_flags": [
+   "betting_under18_appeal",
+   "unverified_claim"
+  ],
+  "hook_type_why": "'Nine hundred and eighty-five goals, and still rested' sets a huge number against a benching.",
+  "hook_basis_detail": "Ronaldo's 985 career goals (league count), 15 short of 1,000, while sitting out a 6-2 Al Nassr win.",
+  "story_summary": "Rested for a 6-2 win, retired from Portugal, Denmark thrashed them 4-1, he is 15 goals from 1,000; ready for Al Ahli.",
+  "poster_issue": "Bubble is a long sentence of 11 words; the burst 'OH DEAR...' adds little.",
+  "poster_change": "Bubble: 'SAT OUT A 6-2 WIN.' Burst: '985!'",
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "verify_fact",
+    "action": "985 is one league's count; say 'by one count' or check a second tally."
+   },
+   {
+    "priority": "P2",
+    "category": "add_comment_bait",
+    "action": "End on 'Will he reach 1,000?' so viewers predict in comments."
+   },
+   {
+    "priority": "P2",
+    "category": "poster_title",
+    "action": "Shorten the bubble to 'SAT OUT A 6-2 WIN.'"
+   },
+   {
+    "priority": "P3",
+    "category": "vary_cta",
+    "action": "Replace 'Want the next story before it breaks?' (used in 25 videos)."
+   }
+  ],
+  "no": 3,
+  "annotator_agreement": 0.71
+ },
+ {
+  "hook_type": "news_flash",
+  "hook_basis": "controversy_or_discipline",
+  "topic_primary": "discipline_controversy",
+  "scope": "mixed_career",
+  "subject_type": "player",
+  "timeliness": "evergreen_retro",
+  "uk_relevance": "medium",
+  "story_structure": "roast_and_praise",
+  "twist_position": "none",
+  "payoff_type": "punchline",
+  "humour_type": "callback",
+  "humour_target": "player",
+  "dominant_emotion": "amusement",
+  "comment_bait": "hot_take",
+  "cta_opener_type": "question",
+  "hook_type_alt": "none",
+  "hook_strength": 2.0,
+  "story_clarity": 3.0,
+  "humour_quality": 3.0,
+  "shareability": 3.0,
+  "comment_potential": 4.0,
+  "uk_fit": 3.5,
+  "novelty": 2.0,
+  "poster_title_sells_hook": 2.5,
+  "poster_joke_quality": 1.5,
+  "humour_intensity": 3.0,
+  "virality_pred": 4.5,
+  "risk_flags": [
+   "betting_under18_appeal",
+   "negative_real_person",
+   "unverified_claim"
+  ],
+  "hook_type_why": "'first Champions League game for Juventus ended with a red card' is a plain retro fact, no device.",
+  "hook_basis_detail": "Ronaldo's red card in his first Champions League game for Juventus (against Valencia).",
+  "story_summary": "Ronaldo's red cards and rows (Juventus, Rooney, school chair), the Opta own-goal dispute, then 35 trophies and a Best Middle East shortlist.",
+  "poster_issue": "Bubble 'headlines keep coming' is generic; the own-goal debate and the chair joke, the best parts, are not shown.",
+  "poster_change": "Bubble: 'A GOAL WITH TWO OWNERS.'",
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "hook_rewrite",
+    "action": "Open on the own-goal row ('A goal with two owners') instead of the old red card."
+   },
+   {
+    "priority": "P2",
+    "category": "poster_title",
+    "action": "Replace the generic bubble with 'A GOAL WITH TWO OWNERS.'"
+   },
+   {
+    "priority": "P2",
+    "category": "verify_fact",
+    "action": "Keep 'by his own account' on the school chair story; confirm primary source."
+   },
+   {
+    "priority": "P2",
+    "category": "vary_cta",
+    "action": "Change the CTA opener repeated in 20 videos."
+   },
+   {
+    "priority": "P2",
+    "category": "stronger_twist",
+    "action": "Story jumps across five topics; build to the own-goal dispute."
+   }
+  ],
+  "no": 4,
+  "annotator_agreement": 0.89
+ },
+ {
+  "hook_type": "contrast_twist",
+  "hook_basis": "comeback_collapse",
+  "topic_primary": "manager_news",
+  "scope": "international",
+  "subject_type": "manager",
+  "timeliness": "breaking_week",
+  "uk_relevance": "low",
+  "story_structure": "chronological_recap",
+  "twist_position": "early",
+  "payoff_type": "callback_to_hook",
+  "humour_type": "callback",
+  "humour_target": "manager",
+  "dominant_emotion": "amusement",
+  "comment_bait": "none",
+  "cta_opener_type": "question",
+  "hook_type_alt": "none",
+  "hook_strength": 3.0,
+  "story_clarity": 3.0,
+  "humour_quality": 2.5,
+  "shareability": 2.0,
+  "comment_potential": 2.0,
+  "uk_fit": 1.0,
+  "novelty": 3.0,
+  "poster_title_sells_hook": 2.5,
+  "poster_joke_quality": 2.0,
+  "humour_intensity": 2.0,
+  "virality_pred": 2.0,
+  "risk_flags": [
+   "over_length",
+   "unverified_claim"
+  ],
+  "hook_type_why": "'Cannavaro dreams of Italy. His team just threw away a two-goal lead.' sets dream against collapse.",
+  "hook_basis_detail": "Uzbekistan led Russia 2-0 and lost 3-2, with Russia scoring three in nine minutes.",
+  "story_summary": "Uzbekistan blow a 2-0 lead to Russia, beat Saudi Arabia 2-1 days later; Cannavaro's fewer-men quote, coffee quip and Italy dream.",
+  "poster_issue": "Bubble 'Uzbekistan led Russia two-nil' is a setup with no punchline; headline is vague for UK viewers.",
+  "poster_change": "Bubble: 'TWO-NIL UP. QUICKER THAN AN ESPRESSO.'",
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "shorten",
+    "action": "603 chars exceed the 600 limit: trim one line, for example the fewer-men beat."
+   },
+   {
+    "priority": "P2",
+    "category": "improve_humour",
+    "action": "Explain or cut the confusing 'fewer men' quote; it lacks context."
+   },
+   {
+    "priority": "P2",
+    "category": "merge_or_drop",
+    "action": "Low UK appeal: consider swapping for a Cannavaro story with an English link."
+   },
+   {
+    "priority": "P2",
+    "category": "hook_rewrite",
+    "action": "Start with the score and the nine minutes, not the dream."
+   },
+   {
+    "priority": "P2",
+    "category": "add_comment_bait",
+    "action": "Ask whether fewer men really means more spirit."
+   },
+   {
+    "priority": "P3",
+    "category": "vary_cta",
+    "action": "Replace 'Think you can call the next one?' (used in 20 videos)."
+   },
+   {
+    "priority": "P3",
+    "category": "poster_title",
+    "action": "Lead with the number-plus-twist already in line 2."
+   }
+  ],
+  "no": 5,
+  "annotator_agreement": 0.89
+ },
+ {
+  "hook_type": "stat_shock",
+  "hook_basis": "stats_oddity",
+  "topic_primary": "legacy_retrospective",
+  "scope": "mixed_career",
+  "subject_type": "player",
+  "timeliness": "evergreen_retro",
+  "uk_relevance": "low",
+  "story_structure": "irony_then_vs_now",
+  "twist_position": "middle",
+  "payoff_type": "callback_to_hook",
+  "humour_type": "deadpan_stat",
+  "humour_target": "manager",
+  "dominant_emotion": "amusement",
+  "comment_bait": "none",
+  "cta_opener_type": "mates_social",
+  "hook_type_alt": "none",
+  "hook_strength": 3.5,
+  "story_clarity": 4.0,
+  "humour_quality": 3.0,
+  "shareability": 2.5,
+  "comment_potential": 2.0,
+  "uk_fit": 1.0,
+  "novelty": 3.0,
+  "poster_title_sells_hook": 2.5,
+  "poster_joke_quality": 2.0,
+  "humour_intensity": 2.0,
+  "virality_pred": 4.0,
+  "risk_flags": [
+   "betting_under18_appeal"
+  ],
+  "hook_type_why": "'Six hundred and ninety World Cup minutes. Not one card.' opens on a stat, name last.",
+  "hook_basis_detail": "Cannavaro played all 690 minutes of the 2006 World Cup with no card, five clean sheets, two goals conceded.",
+  "story_summary": "Cannavaro's flawless 2006 World Cup against a coaching CV of sackings (17, 14, 6 games), the Ronaldo quip, and the Ballon d'Or wall.",
+  "poster_issue": "Headline 'the CV and the 2006 wall' is cryptic; bubble 'Five clean sheets' is flat and hides the sackings contrast.",
+  "poster_change": "Headline: 'NO CARDS IN 690 MINUTES. 17 GAMES AT BENEVENTO.'",
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "poster_title",
+    "action": "Show the contrast: 690 minutes without a card versus 17 games at Benevento."
+   },
+   {
+    "priority": "P2",
+    "category": "hook_rewrite",
+    "action": "Lead with 'Cannavaro: 690 World Cup minutes, no card' so the name comes first."
+   },
+   {
+    "priority": "P2",
+    "category": "add_comment_bait",
+    "action": "Ask: great defender, bad manager, or just unlucky?"
+   },
+   {
+    "priority": "P2",
+    "category": "vary_cta",
+    "action": "Change 'Your mates will never guess this' used in 32 videos."
+   }
+  ],
+  "no": 6,
+  "annotator_agreement": 0.82
+ },
+ {
+  "hook_type": "news_flash",
+  "hook_basis": "record_or_milestone",
+  "topic_primary": "legacy_retrospective",
+  "scope": "serie_a",
+  "subject_type": "player",
+  "timeliness": "recent_month",
+  "uk_relevance": "low",
+  "story_structure": "stat_stack",
+  "twist_position": "none",
+  "payoff_type": "punchline",
+  "humour_type": "roast",
+  "humour_target": "player",
+  "dominant_emotion": "nostalgia",
+  "comment_bait": "none",
+  "cta_opener_type": "mates_social",
+  "hook_type_alt": "roast_jab",
+  "hook_strength": 3.0,
+  "story_clarity": 3.0,
+  "humour_quality": 2.5,
+  "shareability": 2.5,
+  "comment_potential": 2.0,
+  "uk_fit": 1.5,
+  "novelty": 3.0,
+  "poster_title_sells_hook": 2.5,
+  "poster_joke_quality": 2.0,
+  "humour_intensity": 2.0,
+  "virality_pred": 3.5,
+  "risk_flags": [
+   "betting_under18_appeal",
+   "negative_real_person"
+  ],
+  "hook_type_why": "'Kaka cried on the San Siro pitch' states the event; the onion joke comes after.",
+  "hook_basis_detail": "Kaka was inducted into the AC Milan Hall of Fame on the San Siro pitch before the derby and cried.",
+  "story_summary": "Kaka cries at his Hall of Fame induction, Moreira scores in his number 22, Kaka's chant idea for Pulisic, then a 124-rated game card.",
+  "poster_issue": "Bubble repeats a fact about Moreira; it does not carry the crying or onion joke that the headline promises.",
+  "poster_change": "Bubble: 'NOBODY BLAMED THE ONIONS.'",
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "poster_title",
+    "action": "Put the onions joke on the poster to match the crying headline."
+   },
+   {
+    "priority": "P2",
+    "category": "stronger_twist",
+    "action": "Merge the loose Raphinha line into the Kaka legacy payoff; the video feels like a list."
+   },
+   {
+    "priority": "P2",
+    "category": "add_comment_bait",
+    "action": "Ask fans to name their favourite Kaka moment."
+   },
+   {
+    "priority": "P2",
+    "category": "improve_humour",
+    "action": "Soften or drop 'Brave' so the crying joke reads as warm."
+   },
+   {
+    "priority": "P3",
+    "category": "vary_cta",
+    "action": "Replace 'Your mates will never guess this' (used in 32 videos)."
+   }
+  ],
+  "no": 7,
+  "annotator_agreement": 0.86
+ },
+ {
+  "hook_type": "contrast_twist",
+  "hook_basis": "career_irony",
+  "topic_primary": "legacy_retrospective",
+  "scope": "mixed_career",
+  "subject_type": "player",
+  "timeliness": "evergreen_retro",
+  "uk_relevance": "low",
+  "story_structure": "irony_then_vs_now",
+  "twist_position": "early",
+  "payoff_type": "punchline",
+  "humour_type": "deadpan_stat",
+  "humour_target": "player",
+  "dominant_emotion": "schadenfreude",
+  "comment_bait": "hot_take",
+  "cta_opener_type": "question",
+  "hook_type_alt": "roast_jab",
+  "hook_strength": 4.0,
+  "story_clarity": 4.0,
+  "humour_quality": 4.0,
+  "shareability": 3.0,
+  "comment_potential": 4.0,
+  "uk_fit": 1.5,
+  "novelty": 3.0,
+  "poster_title_sells_hook": 4.0,
+  "poster_joke_quality": 3.5,
+  "humour_intensity": 2.0,
+  "virality_pred": 4.5,
+  "risk_flags": [
+   "over_length",
+   "unverified_claim"
+  ],
+  "hook_type_why": "'Ballon d'Or in 2007. Then Real Madrid happened.' sets peak against fall.",
+  "hook_basis_detail": "Kaka won the 2007 Ballon d'Or, then moved to Real Madrid in 2009 for a reported 67m euros.",
+  "story_summary": "Kaka's 2007 Ballon d'Or against a reported 67m move to Madrid: 29 goals, a double yellow, then peak votes and Orlando's lean years.",
+  "poster_issue": "Bubble repeats the fee rather than adding a joke; the 'million euros each' gag is not used.",
+  "poster_change": "Bubble: 'ROUGHLY A MILLION EUROS PER GOAL OR ASSIST.'",
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "shorten",
+    "action": "606 chars exceed the 600 limit: cut the Osasuna red card line."
+   },
+   {
+    "priority": "P1",
+    "category": "verify_fact",
+    "action": "Fee and Orlando salary are 'reportedly'; confirm with a primary source."
+   },
+   {
+    "priority": "P2",
+    "category": "poster_title",
+    "action": "Put the 'million euros each' gag on the poster bubble."
+   },
+   {
+    "priority": "P3",
+    "category": "vary_cta",
+    "action": "Replace 'Think you can call the next one?' (used in 20 videos)."
+   }
+  ],
+  "no": 8,
+  "annotator_agreement": 0.89
+ },
+ {
+  "hook_type": "roast_jab",
+  "hook_basis": "contract_or_job",
+  "topic_primary": "transfer_story",
+  "scope": "other_leagues",
+  "subject_type": "player",
+  "timeliness": "recent_month",
+  "uk_relevance": "medium",
+  "story_structure": "roast_and_praise",
+  "twist_position": "middle",
+  "payoff_type": "callback_to_hook",
+  "humour_type": "roast",
+  "humour_target": "player",
+  "dominant_emotion": "amusement",
+  "comment_bait": "hot_take",
+  "cta_opener_type": "tease_next",
+  "hook_type_alt": "stat_shock",
+  "hook_strength": 3.5,
+  "story_clarity": 3.0,
+  "humour_quality": 4.0,
+  "shareability": 3.5,
+  "comment_potential": 4.0,
+  "uk_fit": 3.0,
+  "novelty": 3.0,
+  "poster_title_sells_hook": 3.5,
+  "poster_joke_quality": 2.5,
+  "humour_intensity": 3.0,
+  "virality_pred": 5.5,
+  "risk_flags": [
+   "betting_under18_appeal",
+   "negative_real_person",
+   "unverified_claim"
+  ],
+  "hook_type_why": "'Benzema's best signing: a Dubai flat' jabs in sentence two; 'Six months' gives the number.",
+  "hook_basis_detail": "Benzema left Al Hilal after six months; a 51m pound replacement was announced the day before.",
+  "story_summary": "Benzema's six months at Al Hilal, a replacement announced the day before, Lyon's cold words, Zidane's squad omission, and the Dubai flat gag.",
+  "poster_issue": "Bubble quotes Lyon's director; it is a flat fact that misses the video's best line, the Dubai flat.",
+  "poster_change": "Bubble: 'HIS BEST SIGNING: A DUBAI FLAT.'",
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "verify_fact",
+    "action": "Confirm the Dubai flat purchase and Lyon return claims; keep 'reported' wording."
+   },
+   {
+    "priority": "P2",
+    "category": "poster_title",
+    "action": "Use 'His best signing: a Dubai flat' as the bubble."
+   },
+   {
+    "priority": "P2",
+    "category": "improve_humour",
+    "action": "Explain or cut the 2010 Mourinho cat reference; most UK viewers will not know it."
+   },
+   {
+    "priority": "P2",
+    "category": "add_comment_bait",
+    "action": "Ask: should Zidane have picked Benzema? Invite a vote."
+   },
+   {
+    "priority": "P3",
+    "category": "vary_cta",
+    "action": "Change the CTA opener repeated in 25 videos."
+   }
+  ],
+  "no": 9,
+  "annotator_agreement": 0.89
+ },
+ {
+  "hook_type": "stat_shock",
+  "hook_basis": "record_or_milestone",
+  "topic_primary": "legacy_retrospective",
+  "scope": "mixed_career",
+  "subject_type": "player",
+  "timeliness": "evergreen_retro",
+  "uk_relevance": "low",
+  "story_structure": "roast_and_praise",
+  "twist_position": "late",
+  "payoff_type": "punchline",
+  "humour_type": "callback",
+  "humour_target": "player",
+  "dominant_emotion": "amusement",
+  "comment_bait": "none",
+  "cta_opener_type": "mates_social",
+  "hook_type_alt": "none",
+  "hook_strength": 2.5,
+  "story_clarity": 3.0,
+  "humour_quality": 3.5,
+  "shareability": 2.5,
+  "comment_potential": 2.0,
+  "uk_fit": 1.0,
+  "novelty": 2.5,
+  "poster_title_sells_hook": 3.0,
+  "poster_joke_quality": 3.0,
+  "humour_intensity": 2.0,
+  "virality_pred": 3.5,
+  "risk_flags": [
+   "betting_under18_appeal",
+   "unverified_claim"
+  ],
+  "hook_type_why": "'won the 2022 Ballon d'Or by three hundred and fifty-six points' opens on the margin as shock.",
+  "hook_basis_detail": "Benzema's 2022 Ballon d'Or margin: 549 points, 356 ahead of Mane's 193.",
+  "story_summary": "Benzema's 356-point Ballon d'Or win, Al-Ittihad double, the Giroud kart quote, Al-Hilal debut hat-trick, then a Saudi ambassador deal that keeps him there.",
+  "poster_issue": "Headline 'then a kart joke' is cryptic without context; bubble 'That is not a win' needs the 356-point number.",
+  "poster_change": "Bubble: '356 POINTS: NOT A WIN, A LAP OF HONOUR.'",
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "hook_rewrite",
+    "action": "Fuse the first two lines: 'By 356 points, that was not a win, that was a lap of honour.'"
+   },
+   {
+    "priority": "P2",
+    "category": "verify_fact",
+    "action": "Confirm the 23m dollar ambassador deal and its clause with a primary source."
+   },
+   {
+    "priority": "P2",
+    "category": "merge_or_drop",
+    "action": "Differentiate from 009: both use the six-months-at-Al-Hilal beat."
+   },
+   {
+    "priority": "P2",
+    "category": "vary_cta",
+    "action": "Change the CTA opener repeated in 32 videos."
+   }
+  ],
+  "no": 10,
+  "annotator_agreement": 0.89
+ }
+]

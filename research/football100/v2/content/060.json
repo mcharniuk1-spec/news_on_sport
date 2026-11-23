@@ -1,0 +1,521 @@
+{
+ "no": 60,
+ "style": "FLAT-POP",
+ "prop": "clock",
+ "cast": {
+  "keeper": {
+   "role": "keeper",
+   "shirt": "#2fb3d6",
+   "hair": "#2b2b3a"
+  },
+  "amorim": {
+   "role": "coach",
+   "hair": "#a0522d",
+   "shirt": "#1d1d2b"
+  },
+  "rookie1": {
+   "role": "rookie",
+   "shirt": "#9fd1ff",
+   "hair": "#6b4a2a"
+  },
+  "rookie2": {
+   "role": "rookie",
+   "shirt": "#ffb6d9",
+   "hair": "#2b2b3a"
+  },
+  "rookie3": {
+   "role": "rookie",
+   "shirt": "#c8f2b8",
+   "hair": "#a03a2a"
+  }
+ },
+ "sequences": {
+  "s01": {
+   "type": "HOOK",
+   "q": "Extra man, and still lose at home?",
+   "prop": "scoreboard",
+   "prop_text": "0:2",
+   "emote": "sad",
+   "board": "ticket",
+   "role": "fan"
+  },
+  "s02": {
+   "type": "COMIC",
+   "bg": "training",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.24,
+     "actors": [
+      {
+       "id": "keeper",
+       "x": 300,
+       "y": 1440,
+       "pose": "crouch",
+       "emote": "neutral",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "goal",
+       "x": 760,
+       "y": 1000,
+       "scale": 2.4
+      },
+      {
+       "kind": "clock",
+       "x": 900,
+       "y": 480,
+       "scale": 1.3,
+       "anim": "pulse"
+      },
+      {
+       "kind": "sticker",
+       "x": 900,
+       "y": 640,
+       "scale": 0.6,
+       "text": "77"
+      },
+      {
+       "kind": "ball",
+       "x": 560,
+       "y": 960,
+       "scale": 1.2,
+       "anim": "drop"
+      }
+     ],
+     "fx": [
+      {
+       "kind": "sparkle",
+       "x": 560,
+       "y": 960,
+       "size": 2.0
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.24,
+     "t1": 0.4,
+     "actors": [
+      {
+       "id": "keeper",
+       "x": 300,
+       "y": 1440,
+       "pose": "jump",
+       "emote": "shock",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "goal",
+       "x": 760,
+       "y": 1000,
+       "scale": 2.4
+      },
+      {
+       "kind": "clock",
+       "x": 900,
+       "y": 480,
+       "scale": 1.3
+      },
+      {
+       "kind": "sticker",
+       "x": 900,
+       "y": 640,
+       "scale": 0.6,
+       "text": "77"
+      },
+      {
+       "kind": "ball",
+       "x": 620,
+       "y": 660,
+       "scale": 1.2,
+       "anim": "spin"
+      }
+     ],
+     "fx": [
+      {
+       "kind": "sparkle",
+       "x": 620,
+       "y": 700,
+       "size": 1.2
+      }
+     ],
+     "cam": "push"
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.4,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "keeper",
+       "x": 300,
+       "y": 1440,
+       "pose": "jump",
+       "emote": "sweat",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "goal",
+       "x": 760,
+       "y": 1000,
+       "scale": 2.4
+      },
+      {
+       "kind": "clock",
+       "x": 900,
+       "y": 480,
+       "scale": 1.3
+      },
+      {
+       "kind": "sticker",
+       "x": 900,
+       "y": 640,
+       "scale": 0.6,
+       "text": "77"
+      },
+      {
+       "kind": "ball",
+       "x": 470,
+       "y": 580,
+       "scale": 1.2,
+       "anim": "spin"
+      }
+     ],
+     "fx": [
+      {
+       "kind": "sparkle",
+       "x": 470,
+       "y": 620,
+       "size": 1.0
+      }
+     ]
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "keeper",
+       "x": 300,
+       "y": 1440,
+       "pose": "hold",
+       "emote": "sweat",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "goal",
+       "x": 760,
+       "y": 1000,
+       "scale": 2.4
+      },
+      {
+       "kind": "clock",
+       "x": 900,
+       "y": 480,
+       "scale": 1.3
+      },
+      {
+       "kind": "sticker",
+       "x": 900,
+       "y": 640,
+       "scale": 0.6,
+       "text": "77"
+      },
+      {
+       "kind": "ball",
+       "x": 770,
+       "y": 1110,
+       "scale": 1.0
+      },
+      {
+       "kind": "gloves",
+       "x": 470,
+       "y": 1090,
+       "scale": 1.2,
+       "anim": "wobble"
+      }
+     ],
+     "sfx": {
+      "text": "DING",
+      "x": 520,
+      "y": 620,
+      "r": 100
+     },
+     "fx": [
+      {
+       "kind": "sparkle",
+       "x": 470,
+       "y": 1090
+      }
+     ]
+    }
+   ]
+  },
+  "s03": {
+   "type": "STATS",
+   "items": [
+    {
+     "icon": "ball",
+     "value": "2",
+     "label": "Two goals"
+    },
+    {
+     "icon": "stopwatch",
+     "value": "14",
+     "label": "14 minutes"
+    },
+    {
+     "icon": "whistle",
+     "value": "77",
+     "label": "seventy-seventh minute"
+    }
+   ]
+  },
+  "s04": {
+   "type": "COMIC",
+   "bg": "bench-area",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.24,
+     "actors": [
+      {
+       "id": "amorim",
+       "x": 380,
+       "y": 1400,
+       "pose": "sleep",
+       "emote": "sleepy",
+       "scale": 1.3
+      }
+     ],
+     "props": [
+      {
+       "kind": "sofa",
+       "x": 380,
+       "y": 1260,
+       "scale": 2.6
+      },
+      {
+       "kind": "clock",
+       "x": 790,
+       "y": 700,
+       "scale": 2.4,
+       "face": "sleepy"
+      },
+      {
+       "kind": "ball",
+       "x": 600,
+       "y": 1410,
+       "scale": 0.9
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.24,
+     "t1": 0.42,
+     "actors": [
+      {
+       "id": "amorim",
+       "x": 380,
+       "y": 1400,
+       "pose": "shock",
+       "emote": "shock",
+       "scale": 1.3
+      }
+     ],
+     "props": [
+      {
+       "kind": "sofa",
+       "x": 380,
+       "y": 1260,
+       "scale": 2.6
+      },
+      {
+       "kind": "clock",
+       "x": 790,
+       "y": 700,
+       "scale": 2.4,
+       "face": "angry-cheeky",
+       "anim": "shake"
+      },
+      {
+       "kind": "ball",
+       "x": 600,
+       "y": 1410,
+       "scale": 0.9
+      }
+     ],
+     "sfx": {
+      "text": "DING",
+      "x": 440,
+      "y": 500,
+      "r": 110
+     },
+     "cam": "shake"
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.42,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "amorim",
+       "x": 380,
+       "y": 1400,
+       "pose": "facepalm",
+       "emote": "angry-cheeky",
+       "scale": 1.3
+      }
+     ],
+     "props": [
+      {
+       "kind": "sofa",
+       "x": 380,
+       "y": 1260,
+       "scale": 2.6
+      },
+      {
+       "kind": "clock",
+       "x": 790,
+       "y": 700,
+       "scale": 2.4,
+       "face": "angry-cheeky",
+       "anim": "shake"
+      },
+      {
+       "kind": "ball",
+       "x": 600,
+       "y": 1410,
+       "scale": 0.9
+      }
+     ]
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "amorim",
+       "x": 380,
+       "y": 1400,
+       "pose": "facepalm",
+       "emote": "sweat",
+       "scale": 1.3
+      },
+      {
+       "id": "rookie1",
+       "x": 635,
+       "y": 1440,
+       "pose": "sleep",
+       "emote": "sleepy",
+       "scale": 1.1,
+       "hold": {
+        "kind": "mug",
+        "hand": "R",
+        "scale": 0.6
+       }
+      },
+      {
+       "id": "rookie3",
+       "x": 940,
+       "y": 1440,
+       "pose": "sleep",
+       "emote": "sleepy",
+       "scale": 1.05,
+       "flip": true
+      },
+      {
+       "id": "rookie2",
+       "x": 790,
+       "y": 1490,
+       "pose": "sleep",
+       "emote": "sleepy",
+       "scale": 0.95
+      }
+     ],
+     "props": [
+      {
+       "kind": "sofa",
+       "x": 380,
+       "y": 1260,
+       "scale": 2.6
+      },
+      {
+       "kind": "clock",
+       "x": 790,
+       "y": 700,
+       "scale": 2.4,
+       "face": "sad"
+      },
+      {
+       "kind": "ball",
+       "x": 600,
+       "y": 1410,
+       "scale": 0.9
+      }
+     ]
+    }
+   ]
+  },
+  "s05": {
+   "type": "NEWS",
+   "name": "Ruben Amorim",
+   "fact": "his side were not mentally ready",
+   "ticker": "Amorim blames himself",
+   "icons": [
+    "lightbulb",
+    "clipboard",
+    "whistle"
+   ],
+   "role": "coach",
+   "actor": "amorim"
+  },
+  "s06": {
+   "type": "INTERVIEW",
+   "label": "REPORTER ASKS",
+   "bubble": "Amorim, can Milan do both yet?",
+   "answer": {
+    "icon": "trophy",
+    "gesture": "point",
+    "emote": "smug"
+   },
+   "subject": "Amorim",
+   "subject_cast": "amorim"
+  },
+  "s07": {
+   "type": "PROVOC",
+   "q": "Milan: Serie A or Europe first?",
+   "a": "Serie A",
+   "b": "Europe",
+   "split": [
+    57,
+    43
+   ],
+   "mood": "smug"
+  }
+ }
+}

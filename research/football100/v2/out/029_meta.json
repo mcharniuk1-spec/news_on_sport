@@ -1,0 +1,93 @@
+{
+ "no": 29,
+ "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/029_harry_kane.mp4",
+ "total": 36.43333333333333,
+ "outro_start": 30.1,
+ "cover": true,
+ "seq": [
+  {
+   "id": "s01",
+   "kind": "HOOK",
+   "start": 0.1,
+   "end": 1.6,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/029/s01.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s02",
+   "kind": "NEWS",
+   "start": 3.1,
+   "end": 4.866666666666666,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/029/s02.mp4",
+   "clip_dur": 1.767,
+   "frames": 42
+  },
+  {
+   "id": "s03",
+   "kind": "STATS",
+   "start": 6.1,
+   "end": 7.6,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/029/s03.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s04",
+   "kind": "COMIC1",
+   "start": 11.166666666666666,
+   "end": 13.166666666666666,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/029/s04.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s05",
+   "kind": "COMIC2",
+   "start": 17.733333333333334,
+   "end": 19.733333333333334,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/029/s05.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s06",
+   "kind": "PROVOC",
+   "start": 22.333333333333332,
+   "end": 23.833333333333332,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/029/s06.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s07",
+   "kind": "INTERVIEW",
+   "start": 25.433333333333334,
+   "end": 27.2,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/029/s07.mp4",
+   "clip_dur": 1.767,
+   "frames": 42
+  }
+ ],
+ "missing": [],
+ "dropped": [],
+ "cards": [
+  {
+   "text": "Twenty-eight points",
+   "a": 7.733333333333333,
+   "b": 8.866666666666667
+  }
+ ],
+ "caption_sprites": 102,
+ "whoosh": [
+  0.0,
+  3.0,
+  6.0,
+  11.066666666666666,
+  17.633333333333333,
+  22.23333333333333,
+  25.333333333333332,
+  30.0
+ ],
+ "shots": 11
+}

@@ -1,0 +1,1416 @@
+{
+ "001": {
+  "no": 1,
+  "errors": [],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/001_andriy_shevchenko.mp4",
+  "dur": 45.4,
+  "size_mb": 17.5,
+  "lufs": -14.5,
+  "peak": -3.5,
+  "interludes": "8/8",
+  "captions": "13/13",
+  "ok": true
+ },
+ "002": {
+  "no": 2,
+  "errors": [],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/002_andriy_shevchenko.mp4",
+  "dur": 39.67,
+  "size_mb": 15.2,
+  "lufs": -14.6,
+  "peak": -3.7,
+  "interludes": "7/7",
+  "captions": "13/13",
+  "ok": true
+ },
+ "003": {
+  "no": 3,
+  "errors": [],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/003_cristiano_ronaldo.mp4",
+  "dur": 41.87,
+  "size_mb": 18.0,
+  "lufs": -14.5,
+  "peak": -3.9,
+  "interludes": "8/8",
+  "captions": "13/13",
+  "ok": true
+ },
+ "004": {
+  "no": 4,
+  "errors": [],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/004_cristiano_ronaldo.mp4",
+  "dur": 44.3,
+  "size_mb": 17.8,
+  "lufs": -14.5,
+  "peak": -3.6,
+  "interludes": "8/8",
+  "captions": "11/12",
+  "ok": true
+ },
+ "005": {
+  "no": 5,
+  "errors": [],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/005_fabio_cannavaro.mp4",
+  "dur": 47.87,
+  "size_mb": 18.1,
+  "lufs": -15.0,
+  "peak": -1.9,
+  "interludes": "7/7",
+  "captions": "11/12",
+  "ok": true
+ },
+ "006": {
+  "no": 6,
+  "errors": [
+   "interlude s04 not found at 15.07-17.07s"
+  ],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/006_fabio_cannavaro.mp4",
+  "dur": 46.4,
+  "size_mb": 18.3,
+  "lufs": -14.5,
+  "peak": -3.7,
+  "interludes": "7/8",
+  "captions": "11/12",
+  "ok": false
+ },
+ "007": {
+  "no": 7,
+  "errors": [
+   "interlude s06 not found at 27.17-29.17s"
+  ],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/007_kaka_ricardo_izecson_dos_santos_leit.mp4",
+  "dur": 46.33,
+  "size_mb": 18.9,
+  "lufs": -14.6,
+  "peak": -3.7,
+  "interludes": "7/8",
+  "captions": "13/13",
+  "ok": false
+ },
+ "008": {
+  "no": 8,
+  "errors": [
+   "interlude s04 not found at 14.27-16.27s"
+  ],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/008_kaka_ricardo_izecson_dos_santos_leit.mp4",
+  "dur": 40.1,
+  "size_mb": 16.2,
+  "lufs": -14.6,
+  "peak": -3.0,
+  "interludes": "6/7",
+  "captions": "13/13",
+  "ok": false
+ },
+ "009": {
+  "no": 9,
+  "errors": [],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/009_karim_benzema.mp4",
+  "dur": 42.63,
+  "size_mb": 15.6,
+  "lufs": -14.6,
+  "peak": -3.8,
+  "interludes": "8/8",
+  "captions": "11/12",
+  "ok": true
+ },
+ "010": {
+  "no": 10,
+  "errors": [],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/010_karim_benzema.mp4",
+  "dur": 42.37,
+  "size_mb": 16.6,
+  "lufs": -14.5,
+  "peak": -3.0,
+  "interludes": "8/8",
+  "captions": "12/12",
+  "ok": true
+ },
+ "011": {
+  "no": 11,
+  "errors": [],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/011_lionel_messi.mp4",
+  "dur": 37.97,
+  "size_mb": 14.2,
+  "lufs": -14.6,
+  "peak": -3.5,
+  "interludes": "7/7",
+  "captions": "11/12",
+  "ok": true
+ },
+ "012": {
+  "no": 12,
+  "errors": [
+   "interlude s07 not found at 29.37-31.37s"
+  ],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/012_lionel_messi.mp4",
+  "dur": 45.27,
+  "size_mb": 17.4,
+  "lufs": -14.3,
+  "peak": -2.7,
+  "interludes": "7/8",
+  "captions": "13/13",
+  "ok": false
+ },
+ "013": {
+  "no": 13,
+  "errors": [],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/013_luis_figo.mp4",
+  "dur": 38.83,
+  "size_mb": 14.4,
+  "lufs": -14.3,
+  "peak": -2.8,
+  "interludes": "8/8",
+  "captions": "12/13",
+  "ok": true
+ },
+ "014": {
+  "no": 14,
+  "errors": [],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/014_luis_figo.mp4",
+  "dur": 51.83,
+  "size_mb": 19.0,
+  "lufs": -15.3,
+  "peak": -1.9,
+  "interludes": "8/8",
+  "captions": "11/12",
+  "ok": true
+ },
+ "015": {
+  "no": 15,
+  "errors": [],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/015_luka_modric.mp4",
+  "dur": 45.57,
+  "size_mb": 18.1,
+  "lufs": -14.6,
+  "peak": -3.8,
+  "interludes": "8/8",
+  "captions": "12/12",
+  "ok": true
+ },
+ "016": {
+  "no": 16,
+  "errors": [],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/016_luka_modric.mp4",
+  "dur": 46.6,
+  "size_mb": 20.9,
+  "lufs": -14.5,
+  "peak": -3.5,
+  "interludes": "8/8",
+  "captions": "11/12",
+  "ok": true
+ },
+ "017": {
+  "no": 17,
+  "errors": [],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/017_michael_owen.mp4",
+  "dur": 34.07,
+  "size_mb": 14.6,
+  "lufs": -14.6,
+  "peak": -3.2,
+  "interludes": "7/7",
+  "captions": "11/12",
+  "ok": true
+ },
+ "018": {
+  "no": 18,
+  "errors": [
+   "interlude s04 not found at 19.67-21.67s",
+   "interlude s07 not found at 33.77-35.77s"
+  ],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/018_michael_owen.mp4",
+  "dur": 50.4,
+  "size_mb": 23.1,
+  "lufs": -14.4,
+  "peak": -3.5,
+  "interludes": "6/8",
+  "captions": "11/12",
+  "ok": false
+ },
+ "019": {
+  "no": 19,
+  "errors": [],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/019_ousmane_dembele.mp4",
+  "dur": 43.87,
+  "size_mb": 19.1,
+  "lufs": -14.2,
+  "peak": -2.4,
+  "interludes": "8/8",
+  "captions": "11/12",
+  "ok": true
+ },
+ "020": {
+  "no": 20,
+  "errors": [
+   "interlude s04 not found at 10.57-12.57s"
+  ],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/020_ousmane_dembele.mp4",
+  "dur": 36.6,
+  "size_mb": 15.9,
+  "lufs": -14.6,
+  "peak": -3.1,
+  "interludes": "7/8",
+  "captions": "12/12",
+  "ok": false
+ },
+ "021": {
+  "no": 21,
+  "errors": [
+   "interlude s06 not found at 24.97-26.97s"
+  ],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/021_pavel_nedv_d_pavel_nedved.mp4",
+  "dur": 44.53,
+  "size_mb": 20.1,
+  "lufs": -14.5,
+  "peak": -3.6,
+  "interludes": "7/8",
+  "captions": "12/13",
+  "ok": false
+ },
+ "022": {
+  "no": 22,
+  "errors": [],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/022_pavel_nedv_d_pavel_nedved.mp4",
+  "dur": 46.8,
+  "size_mb": 21.9,
+  "lufs": -14.5,
+  "peak": -3.7,
+  "interludes": "8/8",
+  "captions": "12/13",
+  "ok": true
+ },
+ "023": {
+  "no": 23,
+  "errors": [],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/023_rodri.mp4",
+  "dur": 53.37,
+  "size_mb": 24.1,
+  "lufs": -15.4,
+  "peak": -2.0,
+  "interludes": "8/8",
+  "captions": "11/12",
+  "ok": true
+ },
+ "024": {
+  "no": 24,
+  "errors": [],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/024_rodri.mp4",
+  "dur": 46.57,
+  "size_mb": 21.1,
+  "lufs": -14.6,
+  "peak": -3.6,
+  "interludes": "8/8",
+  "captions": "12/13",
+  "ok": true
+ },
+ "025": {
+  "no": 25,
+  "errors": [],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/025_ronaldinho.mp4",
+  "dur": 49.5,
+  "size_mb": 23.9,
+  "lufs": -14.6,
+  "peak": -3.9,
+  "interludes": "8/8",
+  "captions": "12/12",
+  "ok": true
+ },
+ "026": {
+  "no": 26,
+  "errors": [],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/026_ronaldinho.mp4",
+  "dur": 36.07,
+  "size_mb": 16.9,
+  "lufs": -14.6,
+  "peak": -3.1,
+  "interludes": "7/7",
+  "captions": "12/12",
+  "ok": true
+ },
+ "027": {
+  "no": 27,
+  "errors": [],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/027_ronaldo_nazario_r9.mp4",
+  "dur": 53.87,
+  "size_mb": 24.5,
+  "lufs": -14.6,
+  "peak": -3.4,
+  "interludes": "8/8",
+  "captions": "12/12",
+  "ok": true
+ },
+ "028": {
+  "no": 28,
+  "errors": [],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/028_ronaldo_nazario_r9.mp4",
+  "dur": 55.77,
+  "size_mb": 26.2,
+  "lufs": -14.4,
+  "peak": -2.8,
+  "interludes": "8/8",
+  "captions": "11/12",
+  "ok": true
+ },
+ "029": {
+  "no": 29,
+  "errors": [
+   "interlude s04 not found at 11.17-13.17s"
+  ],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/029_harry_kane.mp4",
+  "dur": 36.43,
+  "size_mb": 15.7,
+  "lufs": -14.6,
+  "peak": -3.2,
+  "interludes": "6/7",
+  "captions": "12/12",
+  "ok": false
+ },
+ "030": {
+  "no": 30,
+  "errors": [],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/030_harry_kane.mp4",
+  "dur": 53.47,
+  "size_mb": 24.8,
+  "lufs": -14.5,
+  "peak": -3.3,
+  "interludes": "8/8",
+  "captions": "12/12",
+  "ok": true
+ },
+ "031": {
+  "no": 31,
+  "errors": [],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/031_west_ham_sack_nuno_after_13_months_a.mp4",
+  "dur": 44.33,
+  "size_mb": 19.3,
+  "lufs": -14.5,
+  "peak": -3.6,
+  "interludes": "7/7",
+  "captions": "11/12",
+  "ok": true
+ },
+ "032": {
+  "no": 32,
+  "errors": [],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/032_england_beat_spain_3_2_in_madrid_end.mp4",
+  "dur": 44.9,
+  "size_mb": 20.1,
+  "lufs": -14.9,
+  "peak": -2.9,
+  "interludes": "7/7",
+  "captions": "10/11",
+  "ok": true
+ },
+ "033": {
+  "no": 33,
+  "errors": [
+   "interlude s04 not found at 17.47-19.47s"
+  ],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/033_man_utd_come_from_two_goals_down_to.mp4",
+  "dur": 38.13,
+  "size_mb": 17.0,
+  "lufs": -14.6,
+  "peak": -3.9,
+  "interludes": "6/7",
+  "captions": "11/12",
+  "ok": false
+ },
+ "034": {
+  "no": 34,
+  "errors": [],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/034_real_madrid_expected_to_trigger_eur.mp4",
+  "dur": 43.8,
+  "size_mb": 20.3,
+  "lufs": -14.0,
+  "peak": -2.0,
+  "interludes": "7/7",
+  "captions": "12/13",
+  "ok": true
+ },
+ "035": {
+  "no": 35,
+  "errors": [
+   "interlude s05 not found at 13.87-15.87s",
+   "interlude s06 not found at 19.07-21.07s"
+  ],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/035_drone_films_12_minutes_of_pochettino.mp4",
+  "dur": 35.07,
+  "size_mb": 15.6,
+  "lufs": -14.5,
+  "peak": -2.9,
+  "interludes": "6/8",
+  "captions": "11/11",
+  "ok": false
+ },
+ "036": {
+  "no": 36,
+  "errors": [],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/036_monza_striker_gustavo_varela_leads_s.mp4",
+  "dur": 44.43,
+  "size_mb": 20.2,
+  "lufs": -14.5,
+  "peak": -3.6,
+  "interludes": "7/7",
+  "captions": "13/13",
+  "ok": true
+ },
+ "037": {
+  "no": 37,
+  "errors": [],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/037_sunderland_beat_chelsea_1_0_for_firs.mp4",
+  "dur": 41.77,
+  "size_mb": 18.3,
+  "lufs": -14.6,
+  "peak": -3.5,
+  "interludes": "7/7",
+  "captions": "12/12",
+  "ok": true
+ },
+ "038": {
+  "no": 38,
+  "errors": [
+   "interlude s05 not found at 20.97-22.97s"
+  ],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/038_napoli_reportedly_want_7_million_eur.mp4",
+  "dur": 37.93,
+  "size_mb": 16.9,
+  "lufs": -14.6,
+  "peak": -3.7,
+  "interludes": "6/7",
+  "captions": "11/12",
+  "ok": false
+ },
+ "039": {
+  "no": 39,
+  "errors": [
+   "interlude s02 not found at 4.07-6.07s"
+  ],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/039_newcastle_booed_at_home_as_everton_w.mp4",
+  "dur": 41.33,
+  "size_mb": 18.7,
+  "lufs": -14.5,
+  "peak": -3.3,
+  "interludes": "6/7",
+  "captions": "11/12",
+  "ok": false
+ },
+ "040": {
+  "no": 40,
+  "errors": [
+   "interlude s02 not found at 2.87-4.87s"
+  ],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/040_yamal_and_a_raphinha_double_sink_ast.mp4",
+  "dur": 39.4,
+  "size_mb": 17.2,
+  "lufs": -14.3,
+  "peak": -2.7,
+  "interludes": "6/7",
+  "captions": "12/13",
+  "ok": false
+ },
+ "041": {
+  "no": 41,
+  "errors": [],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/041_crystal_palace_s_adam_wharton_sent_o.mp4",
+  "dur": 45.07,
+  "size_mb": 18.9,
+  "lufs": -14.3,
+  "peak": -2.8,
+  "interludes": "7/7",
+  "captions": "10/11",
+  "ok": true
+ },
+ "042": {
+  "no": 42,
+  "errors": [
+   "interlude s06 not found at 24.57-26.57s"
+  ],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/042_tom_brady_leaves_birmingham_city_own.mp4",
+  "dur": 46.77,
+  "size_mb": 21.4,
+  "lufs": -14.5,
+  "peak": -3.4,
+  "interludes": "7/8",
+  "captions": "12/13",
+  "ok": false
+ },
+ "043": {
+  "no": 43,
+  "errors": [
+   "interlude s03 not found at 11.87-13.87s",
+   "interlude s05 not found at 20.47-22.47s"
+  ],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/043_raphinha_is_sent_off_late_as_brazil.mp4",
+  "dur": 45.3,
+  "size_mb": 20.6,
+  "lufs": -14.5,
+  "peak": -3.5,
+  "interludes": "6/8",
+  "captions": "11/12",
+  "ok": false
+ },
+ "044": {
+  "no": 44,
+  "errors": [
+   "interlude s04 not found at 8.97-10.97s"
+  ],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/044_thomas_frank_named_palace_manager_on.mp4",
+  "dur": 29.83,
+  "size_mb": 13.0,
+  "lufs": -14.5,
+  "peak": -3.2,
+  "interludes": "7/8",
+  "captions": "12/12",
+  "ok": false
+ },
+ "045": {
+  "no": 45,
+  "errors": [],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/045_deco_says_barcelona_would_welcome_li.mp4",
+  "dur": 52.97,
+  "size_mb": 23.7,
+  "lufs": -14.5,
+  "peak": -3.6,
+  "interludes": "8/8",
+  "captions": "11/12",
+  "ok": true
+ },
+ "046": {
+  "no": 46,
+  "errors": [
+   "interlude s03 not found at 10.47-12.47s"
+  ],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/046_crystal_palace_sack_pierre_sage_afte.mp4",
+  "dur": 49.57,
+  "size_mb": 21.8,
+  "lufs": -14.3,
+  "peak": -3.1,
+  "interludes": "7/8",
+  "captions": "12/12",
+  "ok": false
+ },
+ "047": {
+  "no": 47,
+  "errors": [
+   "interlude s04 not found at 12.07-14.07s"
+  ],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/047_vinicius_junior_scores_a_21_minute_h.mp4",
+  "dur": 35.0,
+  "size_mb": 15.8,
+  "lufs": -14.7,
+  "peak": -3.5,
+  "interludes": "6/7",
+  "captions": "13/13",
+  "ok": false
+ },
+ "048": {
+  "no": 48,
+  "errors": [],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/048_joey_saputo_puts_cf_montreal_up_for.mp4",
+  "dur": 50.13,
+  "size_mb": 22.0,
+  "lufs": -14.5,
+  "peak": -3.6,
+  "interludes": "8/8",
+  "captions": "11/12",
+  "ok": true
+ },
+ "049": {
+  "no": 49,
+  "errors": [
+   "interlude s05 not found at 19.17-21.17s",
+   "interlude s06 not found at 23.87-25.87s"
+  ],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/049_southampton_extend_tonda_eckert_s_co.mp4",
+  "dur": 40.67,
+  "size_mb": 17.0,
+  "lufs": -14.5,
+  "peak": -3.4,
+  "interludes": "6/8",
+  "captions": "11/12",
+  "ok": false
+ },
+ "050": {
+  "no": 50,
+  "errors": [],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/050_bayern_beat_atletico_2_0_at_the_metr.mp4",
+  "dur": 42.03,
+  "size_mb": 18.7,
+  "lufs": -14.9,
+  "peak": -2.8,
+  "interludes": "7/7",
+  "captions": "13/13",
+  "ok": true
+ },
+ "051": {
+  "no": 51,
+  "errors": [],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/051_beckham_rapinoe_altidore_and_ertz_vo.mp4",
+  "dur": 40.77,
+  "size_mb": 18.2,
+  "lufs": -14.5,
+  "peak": -3.5,
+  "interludes": "7/7",
+  "captions": "12/13",
+  "ok": true
+ },
+ "052": {
+  "no": 52,
+  "errors": [
+   "interlude s02 not found at 4.07-6.07s"
+  ],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/052_klopp_s_germany_smash_netherlands_5.mp4",
+  "dur": 43.97,
+  "size_mb": 19.8,
+  "lufs": -14.5,
+  "peak": -3.8,
+  "interludes": "7/8",
+  "captions": "12/13",
+  "ok": false
+ },
+ "053": {
+  "no": 53,
+  "errors": [
+   "interlude s03 not found at 10.67-12.67s"
+  ],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/053_nashville_sc_set_mls_record_with_77.mp4",
+  "dur": 35.0,
+  "size_mb": 15.3,
+  "lufs": -14.7,
+  "peak": -2.9,
+  "interludes": "6/7",
+  "captions": "12/13",
+  "ok": false
+ },
+ "054": {
+  "no": 54,
+  "errors": [
+   "interlude s02 not found at 4.77-6.77s",
+   "interlude s06 not found at 21.67-23.67s"
+  ],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/054_barcelona_and_real_madrid_chase_brig.mp4",
+  "dur": 36.93,
+  "size_mb": 16.2,
+  "lufs": -14.7,
+  "peak": -3.8,
+  "interludes": "5/7",
+  "captions": "11/12",
+  "ok": false
+ },
+ "055": {
+  "no": 55,
+  "errors": [],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/055_barcelona_s_alejandro_balde_wanted_b.mp4",
+  "dur": 42.9,
+  "size_mb": 18.9,
+  "lufs": -14.5,
+  "peak": -3.5,
+  "interludes": "7/7",
+  "captions": "12/12",
+  "ok": true
+ },
+ "056": {
+  "no": 56,
+  "errors": [
+   "interlude s04 not found at 12.67-14.67s",
+   "interlude s06 not found at 17.27-19.27s"
+  ],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/056_napoli_coach_allegri_sent_off_in_3_3.mp4",
+  "dur": 33.93,
+  "size_mb": 14.8,
+  "lufs": -14.7,
+  "peak": -3.6,
+  "interludes": "6/8",
+  "captions": "13/13",
+  "ok": false
+ },
+ "057": {
+  "no": 57,
+  "errors": [],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/057_hakimi_scores_first_career_hat_trick.mp4",
+  "dur": 44.2,
+  "size_mb": 19.2,
+  "lufs": -14.5,
+  "peak": -3.6,
+  "interludes": "7/7",
+  "captions": "11/12",
+  "ok": true
+ },
+ "058": {
+  "no": 58,
+  "errors": [
+   "interlude s02 not found at 4.47-6.47s",
+   "interlude s06 not found at 24.47-26.47s"
+  ],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/058_mbappe_double_beats_barcelona_in_el.mp4",
+  "dur": 46.2,
+  "size_mb": 20.9,
+  "lufs": -14.5,
+  "peak": -3.5,
+  "interludes": "6/8",
+  "captions": "13/13",
+  "ok": false
+ },
+ "059": {
+  "no": 59,
+  "errors": [
+   "interlude s05 not found at 15.97-17.97s"
+  ],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/059_fleetwood_town_knock_arsenal_out_of.mp4",
+  "dur": 41.83,
+  "size_mb": 18.1,
+  "lufs": -14.3,
+  "peak": -1.9,
+  "interludes": "7/8",
+  "captions": "11/12",
+  "ok": false
+ },
+ "060": {
+  "no": 60,
+  "errors": [],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/060_milan_lose_0_2_at_home_to_ferencvaro.mp4",
+  "dur": 44.23,
+  "size_mb": 19.2,
+  "lufs": -14.5,
+  "peak": -3.8,
+  "interludes": "7/7",
+  "captions": "11/12",
+  "ok": true
+ },
+ "061": {
+  "no": 61,
+  "errors": [],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/061_hurzeler_says_he_is_fully_committed.mp4",
+  "dur": 42.53,
+  "size_mb": 18.5,
+  "lufs": -14.4,
+  "peak": -3.5,
+  "interludes": "8/8",
+  "captions": "12/13",
+  "ok": true
+ },
+ "062": {
+  "no": 62,
+  "errors": [],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/062_vinicius_admits_poor_preparation_aft.mp4",
+  "dur": 32.1,
+  "size_mb": 13.6,
+  "lufs": -14.7,
+  "peak": -3.6,
+  "interludes": "7/7",
+  "captions": "11/12",
+  "ok": true
+ },
+ "063": {
+  "no": 63,
+  "errors": [],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/063_como_hit_nine_at_lens_in_a_record_eq.mp4",
+  "dur": 42.47,
+  "size_mb": 18.8,
+  "lufs": -14.6,
+  "peak": -3.8,
+  "interludes": "7/7",
+  "captions": "11/12",
+  "ok": true
+ },
+ "064": {
+  "no": 64,
+  "errors": [
+   "interlude s02 not found at 2.97-4.97s",
+   "interlude s05 not found at 17.57-19.57s"
+  ],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/064_haaland_s_stoppage_time_var_awarded.mp4",
+  "dur": 44.47,
+  "size_mb": 19.7,
+  "lufs": -14.3,
+  "peak": -2.1,
+  "interludes": "6/8",
+  "captions": "11/12",
+  "ok": false
+ },
+ "065": {
+  "no": 65,
+  "errors": [
+   "interlude s04 not found at 12.87-14.87s"
+  ],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/065_estevao_struggles_for_minutes_at_che.mp4",
+  "dur": 38.13,
+  "size_mb": 17.1,
+  "lufs": -14.7,
+  "peak": -3.0,
+  "interludes": "6/7",
+  "captions": "12/12",
+  "ok": false
+ },
+ "066": {
+  "no": 66,
+  "errors": [
+   "interlude s03 not found at 9.07-11.07s"
+  ],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/066_fulham_1_1_newcastle_murphy_s_80th_m.mp4",
+  "dur": 37.87,
+  "size_mb": 17.0,
+  "lufs": -14.6,
+  "peak": -3.8,
+  "interludes": "6/7",
+  "captions": "11/12",
+  "ok": false
+ },
+ "067": {
+  "no": 67,
+  "errors": [],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/067_espn_ranks_lamine_yamal_the_best_pla.mp4",
+  "dur": 37.77,
+  "size_mb": 16.6,
+  "lufs": -14.6,
+  "peak": -3.6,
+  "interludes": "8/8",
+  "captions": "11/12",
+  "ok": true
+ },
+ "068": {
+  "no": 68,
+  "errors": [],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/068_bruce_arena_says_us_soccer_don_t_hav.mp4",
+  "dur": 45.63,
+  "size_mb": 19.0,
+  "lufs": -14.6,
+  "peak": -3.2,
+  "interludes": "7/7",
+  "captions": "12/12",
+  "ok": true
+ },
+ "069": {
+  "no": 69,
+  "errors": [
+   "interlude s05 not found at 20.17-22.17s"
+  ],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/069_arteta_bans_arsenal_players_from_pic.mp4",
+  "dur": 44.13,
+  "size_mb": 19.5,
+  "lufs": -14.6,
+  "peak": -3.7,
+  "interludes": "7/8",
+  "captions": "12/12",
+  "ok": false
+ },
+ "070": {
+  "no": 70,
+  "errors": [
+   "interlude s05 not found at 17.27-19.27s"
+  ],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/070_thomas_muller_says_mls_has_no_relega.mp4",
+  "dur": 42.0,
+  "size_mb": 18.5,
+  "lufs": -14.5,
+  "peak": -3.5,
+  "interludes": "7/8",
+  "captions": "12/12",
+  "ok": false
+ },
+ "071": {
+  "no": 71,
+  "errors": [
+   "interlude s04 not found at 11.77-13.77s"
+  ],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/071_juventus_beat_10_man_napoli_2_0_with.mp4",
+  "dur": 33.77,
+  "size_mb": 15.3,
+  "lufs": -14.7,
+  "peak": -3.2,
+  "interludes": "6/7",
+  "captions": "11/12",
+  "ok": false
+ },
+ "072": {
+  "no": 72,
+  "errors": [],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/072_billy_sharp_40_comes_out_of_retireme.mp4",
+  "dur": 38.27,
+  "size_mb": 17.0,
+  "lufs": -14.6,
+  "peak": -3.2,
+  "interludes": "8/8",
+  "captions": "12/13",
+  "ok": true
+ },
+ "073": {
+  "no": 73,
+  "errors": [],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/073_sporting_agree_about_5_million_euro.mp4",
+  "dur": 43.83,
+  "size_mb": 19.0,
+  "lufs": -14.5,
+  "peak": -3.8,
+  "interludes": "8/8",
+  "captions": "12/12",
+  "ok": true
+ },
+ "074": {
+  "no": 74,
+  "errors": [],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/074_west_ham_storm_back_from_3_0_down_at.mp4",
+  "dur": 39.17,
+  "size_mb": 16.5,
+  "lufs": -14.6,
+  "peak": -3.2,
+  "interludes": "8/8",
+  "captions": "12/12",
+  "ok": true
+ },
+ "075": {
+  "no": 75,
+  "errors": [
+   "interlude s02 not found at 3.47-5.47s",
+   "interlude s06 not found at 20.27-22.27s"
+  ],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/075_haaland_tells_man_city_to_step_up_ev.mp4",
+  "dur": 39.33,
+  "size_mb": 16.7,
+  "lufs": -14.5,
+  "peak": -3.7,
+  "interludes": "6/8",
+  "captions": "11/12",
+  "ok": false
+ },
+ "076": {
+  "no": 76,
+  "errors": [
+   "interlude s02 not found at 4.17-6.17s"
+  ],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/076_norwich_thump_bristol_city_5_0_and_h.mp4",
+  "dur": 44.73,
+  "size_mb": 20.1,
+  "lufs": -14.5,
+  "peak": -3.3,
+  "interludes": "7/8",
+  "captions": "12/13",
+  "ok": false
+ },
+ "077": {
+  "no": 77,
+  "errors": [
+   "interlude s07 not found at 30.17-32.17s"
+  ],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/077_wrexham_owners_reynolds_and_mac_watc.mp4",
+  "dur": 48.9,
+  "size_mb": 21.6,
+  "lufs": -14.9,
+  "peak": -1.7,
+  "interludes": "7/8",
+  "captions": "12/13",
+  "ok": false
+ },
+ "078": {
+  "no": 78,
+  "errors": [],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/078_brighton_beat_ten_man_brentford_to_c.mp4",
+  "dur": 41.07,
+  "size_mb": 18.2,
+  "lufs": -14.5,
+  "peak": -3.7,
+  "interludes": "8/8",
+  "captions": "11/12",
+  "ok": true
+ },
+ "079": {
+  "no": 79,
+  "errors": [
+   "interlude s03 not found at 14.17-16.17s"
+  ],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/079_seventh_tier_wimborne_town_knock_lea.mp4",
+  "dur": 42.4,
+  "size_mb": 18.2,
+  "lufs": -14.6,
+  "peak": -3.9,
+  "interludes": "7/8",
+  "captions": "11/12",
+  "ok": false
+ },
+ "080": {
+  "no": 80,
+  "errors": [
+   "interlude s02 not found at 4.27-6.27s",
+   "interlude s03 not found at 9.27-11.27s"
+  ],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/080_inter_beat_como_2_0_to_trail_lazio_b.mp4",
+  "dur": 35.43,
+  "size_mb": 15.6,
+  "lufs": -14.5,
+  "peak": -2.8,
+  "interludes": "5/7",
+  "captions": "10/12",
+  "ok": false
+ },
+ "081": {
+  "no": 81,
+  "errors": [
+   "interlude s02 not found at 3.67-5.67s"
+  ],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/081_pau_cubars_wins_the_2026_golden_boy.mp4",
+  "dur": 42.33,
+  "size_mb": 19.2,
+  "lufs": -14.5,
+  "peak": -3.7,
+  "interludes": "6/7",
+  "captions": "11/12",
+  "ok": false
+ },
+ "082": {
+  "no": 82,
+  "errors": [],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/082_barcelona_reportedly_enquire_about_b.mp4",
+  "dur": 39.37,
+  "size_mb": 17.1,
+  "lufs": -14.5,
+  "peak": -3.6,
+  "interludes": "7/7",
+  "captions": "11/12",
+  "ok": true
+ },
+ "083": {
+  "no": 83,
+  "errors": [
+   "interlude s02 not found at 4.57-6.57s",
+   "interlude s04 not found at 12.47-14.47s"
+  ],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/083_bayern_reportedly_still_chasing_live.mp4",
+  "dur": 37.27,
+  "size_mb": 16.2,
+  "lufs": -14.6,
+  "peak": -3.4,
+  "interludes": "5/7",
+  "captions": "12/12",
+  "ok": false
+ },
+ "084": {
+  "no": 84,
+  "errors": [],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/084_jack_grealish_dropped_by_everton_for.mp4",
+  "dur": 41.9,
+  "size_mb": 17.5,
+  "lufs": -14.6,
+  "peak": -3.7,
+  "interludes": "8/8",
+  "captions": "12/12",
+  "ok": true
+ },
+ "085": {
+  "no": 85,
+  "errors": [],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/085_trent_alexander_arnold_from_ballon_d.mp4",
+  "dur": 48.37,
+  "size_mb": 22.1,
+  "lufs": -14.4,
+  "peak": -3.1,
+  "interludes": "8/8",
+  "captions": "12/12",
+  "ok": true
+ },
+ "086": {
+  "no": 86,
+  "errors": [],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/086_real_madrid_reportedly_still_trackin.mp4",
+  "dur": 44.17,
+  "size_mb": 19.2,
+  "lufs": -15.0,
+  "peak": -1.8,
+  "interludes": "7/7",
+  "captions": "12/13",
+  "ok": true
+ },
+ "087": {
+  "no": 87,
+  "errors": [
+   "interlude s04 not found at 19.47-21.47s"
+  ],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/087_klopp_says_fifa_is_worse_than_in_bla.mp4",
+  "dur": 45.97,
+  "size_mb": 19.6,
+  "lufs": -14.6,
+  "peak": -3.8,
+  "interludes": "7/8",
+  "captions": "12/12",
+  "ok": false
+ },
+ "088": {
+  "no": 88,
+  "errors": [
+   "interlude s07 not found at 30.77-32.77s"
+  ],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/088_neymar_finishes_10th_in_a_poker_tour.mp4",
+  "dur": 47.0,
+  "size_mb": 21.1,
+  "lufs": -14.5,
+  "peak": -3.5,
+  "interludes": "7/8",
+  "captions": "12/12",
+  "ok": false
+ },
+ "089": {
+  "no": 89,
+  "errors": [
+   "interlude s04 not found at 12.07-14.07s"
+  ],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/089_iraola_goes_viral_after_visiting_a_g.mp4",
+  "dur": 35.2,
+  "size_mb": 16.1,
+  "lufs": -14.4,
+  "peak": -3.0,
+  "interludes": "7/8",
+  "captions": "12/12",
+  "ok": false
+ },
+ "090": {
+  "no": 90,
+  "errors": [
+   "interlude s03 not found at 11.87-13.87s",
+   "interlude s05 not found at 25.37-27.37s"
+  ],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/090_nigeria_could_miss_afcon_2027_as_str.mp4",
+  "dur": 48.7,
+  "size_mb": 21.4,
+  "lufs": -14.5,
+  "peak": -3.7,
+  "interludes": "6/8",
+  "captions": "12/12",
+  "ok": false
+ },
+ "091": {
+  "no": 91,
+  "errors": [
+   "interlude s07 not found at 30.67-32.67s"
+  ],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/091_brazilian_winger_sergio_barboza_beco.mp4",
+  "dur": 45.33,
+  "size_mb": 20.6,
+  "lufs": -14.6,
+  "peak": -3.6,
+  "interludes": "7/8",
+  "captions": "12/12",
+  "ok": false
+ },
+ "092": {
+  "no": 92,
+  "errors": [],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/092_six_clubs_chase_feyenoord_winger_ani.mp4",
+  "dur": 39.47,
+  "size_mb": 17.5,
+  "lufs": -14.6,
+  "peak": -2.5,
+  "interludes": "7/7",
+  "captions": "11/13",
+  "ok": true
+ },
+ "093": {
+  "no": 93,
+  "errors": [
+   "interlude s02 not found at 4.47-6.47s"
+  ],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/093_bruno_guimaraes_faces_his_old_club_n.mp4",
+  "dur": 38.67,
+  "size_mb": 16.8,
+  "lufs": -14.5,
+  "peak": -3.4,
+  "interludes": "7/8",
+  "captions": "12/12",
+  "ok": false
+ },
+ "094": {
+  "no": 94,
+  "errors": [
+   "interlude s05 not found at 16.27-18.27s",
+   "interlude s06 not found at 21.17-23.17s"
+  ],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/094_liverpool_have_won_once_at_anfield_i.mp4",
+  "dur": 38.1,
+  "size_mb": 16.9,
+  "lufs": -14.5,
+  "peak": -3.6,
+  "interludes": "6/8",
+  "captions": "12/13",
+  "ok": false
+ },
+ "095": {
+  "no": 95,
+  "errors": [],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/095_bruno_guimaraes_returns_to_st_james.mp4",
+  "dur": 50.23,
+  "size_mb": 21.5,
+  "lufs": -15.2,
+  "peak": -1.9,
+  "interludes": "7/7",
+  "captions": "12/13",
+  "ok": true
+ },
+ "096": {
+  "no": 96,
+  "errors": [
+   "interlude s05 not found at 17.77-19.77s"
+  ],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/096_adventurer_karl_bushby_ends_a_28_yea.mp4",
+  "dur": 42.07,
+  "size_mb": 17.9,
+  "lufs": -14.5,
+  "peak": -3.7,
+  "interludes": "7/8",
+  "captions": "11/12",
+  "ok": false
+ },
+ "097": {
+  "no": 97,
+  "errors": [
+   "interlude s02 not found at 3.27-5.27s",
+   "interlude s06 not found at 17.37-19.37s"
+  ],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/097_fenerbahce_come_back_twice_to_beat_l.mp4",
+  "dur": 33.4,
+  "size_mb": 15.0,
+  "lufs": -14.4,
+  "peak": -2.2,
+  "interludes": "6/8",
+  "captions": "12/13",
+  "ok": false
+ },
+ "098": {
+  "no": 98,
+  "errors": [],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/098_southampton_s_long_road_back_from_sp.mp4",
+  "dur": 33.13,
+  "size_mb": 13.9,
+  "lufs": -14.7,
+  "peak": -3.2,
+  "interludes": "7/7",
+  "captions": "11/12",
+  "ok": true
+ },
+ "099": {
+  "no": 99,
+  "errors": [
+   "interlude s04 not found at 12.57-14.57s"
+  ],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/099_hearts_lose_1_3_at_thun_slipping_tow.mp4",
+  "dur": 31.53,
+  "size_mb": 13.4,
+  "lufs": -14.3,
+  "peak": -2.8,
+  "interludes": "7/8",
+  "captions": "11/12",
+  "ok": false
+ },
+ "100": {
+  "no": 100,
+  "errors": [
+   "interlude s02 not found at 3.57-5.57s",
+   "interlude s05 not found at 17.47-19.47s",
+   "interlude s06 not found at 22.87-24.87s"
+  ],
+  "warn": [],
+  "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/100_manchester_city_lose_three_league_ga.mp4",
+  "dur": 38.3,
+  "size_mb": 16.5,
+  "lufs": -14.5,
+  "peak": -3.7,
+  "interludes": "5/8",
+  "captions": "12/12",
+  "ok": false
+ }
+}

@@ -1,0 +1,96 @@
+{
+  "no": 30,
+  "subject": "Harry Kane",
+  "title": "Kane: three lost finals and a knighthood",
+  "voice": "kokoro",
+  "comic": true,
+  "style": "shonen_anime",
+  "lines": [
+    {
+      "vo": "Three lost finals, one Ballon d'Or, and a knighthood question?",
+      "card": "Three lost finals",
+      "sfx": null,
+      "footage": "Kane close-up after a lost final, England or Tottenham era, clean feed"
+    },
+    {
+      "vo": "Kane still wants a big trophy, and the Champions League is the big goal.",
+      "card": "Still chasing a trophy",
+      "sfx": null,
+      "footage": "Kane training at Bayern, focused expression, clean club footage"
+    },
+    {
+      "vo": "Lost the 2019 Champions League final to Liverpool, two-nil. Then Euro 2020. Then Euro 2024. A very shiny silver collection.",
+      "card": "Two-nil, 2019",
+      "sfx": "crowd groan",
+      "footage": "2019 Champions League final highlights, Tottenham, then England Euro 2020 and Euro 2024 final defeat shots, clean broadcast feeds"
+    },
+    {
+      "vo": "Bayern paid a reported one hundred and twenty million euros. Uli Hoeness called it crazy. Later he said he would have paid one hundred and fifty. Crazy became cheap.",
+      "card": "Crazy, then cheap",
+      "sfx": "auction gavel",
+      "footage": "Kane Bayern unveiling 2023, press conference, clean club feed"
+    },
+    {
+      "vo": "Asked about a knighthood, Kane would not turn one down, but 'Sir' would feel odd. Sir Harry: sounds like a butler, plays like a striker.",
+      "card": "Sir Harry?",
+      "sfx": null,
+      "footage": "Kane answering reporters in Munich, neutral press shot"
+    },
+    {
+      "vo": "A Patriots quarterback says Kane could be an NFL kicker. Kane says Bayern come first. The NFL can join the queue.",
+      "card": "NFL kicker idea",
+      "sfx": "field goal whistle",
+      "footage": "Kane striking a dead-ball kick in training, clean club footage"
+    },
+    {
+      "vo": "ESPN's November top ten has him fifth, behind Yamal, Bellingham, Olise and Raphinha. Fifth, and still the Ballon d'Or winner. Awkward.",
+      "card": "Fifth in top ten",
+      "sfx": null,
+      "footage": "ESPN top-ten graphic or Yamal, Bellingham, Olise and Raphinha highlight montage"
+    },
+    {
+      "vo": "Want more? Match news, betting tips and predictions at aboutfootball dot UK.",
+      "card": "aboutfootball.UK",
+      "sfx": null,
+      "footage": "Closing card with site name, no footage"
+    }
+  ],
+  "chars": 881,
+  "est_seconds": 52,
+  "footage_terms": [
+    "Tottenham Liverpool 2019 Champions League final highlights",
+    "Harry Kane Bayern Munich press conference 2023",
+    "Harry Kane NFL kicker Drake Maye",
+    "Harry Kane Bayern training free kick 2026"
+  ],
+  "inserts": [
+    {
+      "after_line": 2,
+      "story": "Setup: a night stadium with speed lines around a golden trophy. Gag: a caricature Kane sprints at it, but the trophy floats just out of reach, three times in a row. Twist: it finally lands on a cartoon podium with a sign reading 'RUNNER-UP' and a tiny silver medal on top.",
+      "characters": "Caricature of Harry Kane (no photo); generic cartoon podium and crowd",
+      "seconds": 2
+    },
+    {
+      "after_line": 3,
+      "story": "Setup: a cartoon auction paddle with a price tag reading 'EUR 120m'. Gag: a caricature Kane tries to lift the tag, which is very heavy. Twist: the paddle flips to '150m' and the cartoon crowd sweatdrops in unison.",
+      "characters": "Caricature of Harry Kane (no photo); generic cartoon auctioneer and crowd",
+      "seconds": 2
+    },
+    {
+      "after_line": 5,
+      "story": "Setup: giant anime goalposts shaped like field-goal posts over a cartoon pitch. Gag: a caricature Kane kicks a ball that curves into a cartoon crown. Twist: he hands the crown back, says 'Bayern first', and the goalposts bow.",
+      "characters": "Caricature of Harry Kane (no photo); generic cartoon referee and crowd",
+      "seconds": 2
+    }
+  ],
+  "facts_used": [
+    "Lost the 2019 Champions League final 2-0 with Tottenham to Liverpool; Champions League a major goal for Kane and Bayern - https://www.espn.com/soccer/story/_/id/50540283/harry-kane-champions-league-bayern-munich-england",
+    "Lost Euro 2020 final (played 2021) and Euro 2024 final with England - https://www.espn.com/soccer/story/_/id/50540283/harry-kane-champions-league-bayern-munich-england (from the fact pack's roast_past)",
+    "Bayern signing 2023 for a reported 120m euros; Hoeness called the fee crazy, later said he would have paid 150m - fact pack roast_past (not on a separate cited page; medium confidence)",
+    "Asked about a knighthood: would not turn one down, but 'Sir' would feel odd - https://www.skysports.com/football/news/13605214/harry-kane-s-ballon-d-or-homecoming-with-bayern-munich-shows-why-germany-has-fallen-in-love-with-england-s-captain",
+    "Patriots QB Drake Maye says Kane could be an NFL kicker; Kane says Bayern come first - https://www.bundesliga.com/en/bundesliga/news/harry-kane-backed-by-new-england-patriots-quarterback-drake-maye-kicker-nfl-bayern-39985",
+    "ESPN November top ten: Kane fifth behind Yamal, Bellingham, Olise and Raphinha - https://www.espn.com/soccer/story/_/id/50454088/10-best-ranking-top-soccer-players-november"
+  ],
+  "comic_score": 8,
+  "notes": "Health, acupuncture and the 2020 injury run are excluded entirely. The Hoeness fee quote comes only from the fact pack (roast_past) and has no separate page, so it is marked medium confidence; check it before publishing. The knighthood line uses Kane's own answer. Line 3 now names all three lost finals (2019 Champions League, Euro 2020 played in 2021, Euro 2024) so the hook is paid off; 'silver medals' reflects runner-up status in each. Insert after_line values are 0-based. No club or national-team logos in the caricature inserts."
+}

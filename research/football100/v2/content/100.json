@@ -1,0 +1,663 @@
+{
+ "no": 100,
+ "style": "CLEAR-LINE",
+ "prop": "scoreboard",
+ "cast": {
+  "cityfan": {
+   "role": "fan",
+   "shirt": "#7ec8ee",
+   "hair": "#2b2b3a"
+  },
+  "forestfan": {
+   "role": "fan",
+   "shirt": "#c8102e",
+   "hair": "#d6d2c6"
+  },
+  "defender": {
+   "role": "player",
+   "number": "5",
+   "shirt": "#7ec8ee",
+   "hair": "#6b4a2a"
+  },
+  "maresca": {
+   "role": "coach",
+   "hair": "#2b2b3a",
+   "shirt": "#2d3a5c"
+  }
+ },
+ "sequences": {
+  "s01": {
+   "type": "HOOK",
+   "q": "How do seven wins become three defeats?",
+   "prop": "chart-down",
+   "emote": "shock",
+   "board": "sign"
+  },
+  "s02": {
+   "type": "COMIC",
+   "bg": "pub",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "cityfan",
+       "x": 270,
+       "y": 1440,
+       "pose": "think",
+       "emote": "sweat",
+       "scale": 1.3
+      }
+     ],
+     "props": [
+      {
+       "kind": "scoreboard",
+       "x": 540,
+       "y": 540,
+       "scale": 2.1,
+       "text": "3:1",
+       "face": "smug"
+      },
+      {
+       "kind": "ball",
+       "x": 560,
+       "y": 1420,
+       "scale": 0.6
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.42,
+     "actors": [
+      {
+       "id": "cityfan",
+       "x": 270,
+       "y": 1440,
+       "pose": "cheer",
+       "emote": "happy",
+       "scale": 1.3
+      }
+     ],
+     "props": [
+      {
+       "kind": "scoreboard",
+       "x": 540,
+       "y": 540,
+       "scale": 2.1,
+       "text": "1:3",
+       "face": "happy"
+      },
+      {
+       "kind": "ball",
+       "x": 560,
+       "y": 1420,
+       "scale": 0.6
+      }
+     ],
+     "cam": "push"
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.42,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "cityfan",
+       "x": 270,
+       "y": 1440,
+       "pose": "cheer",
+       "emote": "happy",
+       "scale": 1.3
+      },
+      {
+       "id": "forestfan",
+       "x": 810,
+       "y": 1440,
+       "pose": "point",
+       "emote": "smug",
+       "scale": 1.3,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "scoreboard",
+       "x": 540,
+       "y": 540,
+       "scale": 2.1,
+       "text": "1:3",
+       "face": "happy"
+      },
+      {
+       "kind": "ball",
+       "x": 560,
+       "y": 1420,
+       "scale": 0.6
+      }
+     ]
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "cityfan",
+       "x": 270,
+       "y": 1440,
+       "pose": "facepalm",
+       "emote": "sad",
+       "scale": 1.3
+      },
+      {
+       "id": "forestfan",
+       "x": 810,
+       "y": 1440,
+       "pose": "bow",
+       "emote": "smug",
+       "scale": 1.3,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "scoreboard",
+       "x": 540,
+       "y": 540,
+       "scale": 2.1,
+       "text": "3:1",
+       "face": "smug"
+      },
+      {
+       "kind": "ball",
+       "x": 560,
+       "y": 1420,
+       "scale": 0.6
+      }
+     ],
+     "sfx": {
+      "text": "DING",
+      "x": 240,
+      "y": 470,
+      "r": 100
+     }
+    }
+   ]
+  },
+  "s03": {
+   "type": "STATS",
+   "items": [
+    {
+     "icon": "ball",
+     "value": "3-1",
+     "label": "Forest 3-1 City"
+    },
+    {
+     "icon": "boot",
+     "value": "2",
+     "label": "Delap twice"
+    },
+    {
+     "icon": "flag",
+     "value": "1",
+     "label": "first home win"
+    }
+   ]
+  },
+  "s04": {
+   "type": "NEWS",
+   "name": "Liam Delap",
+   "fact": "Liam Delap scored twice",
+   "ticker": "Delap twice",
+   "icons": [
+    "ball",
+    "boot",
+    "star"
+   ],
+   "role": "striker"
+  },
+  "s05": {
+   "type": "COMIC",
+   "bg": "stadium",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "defender",
+       "x": 300,
+       "y": 1440,
+       "pose": "think",
+       "emote": "neutral",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "net",
+       "x": 840,
+       "y": 1150,
+       "scale": 2.2
+      },
+      {
+       "kind": "scoreboard",
+       "x": 540,
+       "y": 540,
+       "scale": 1.8,
+       "text": "3:1",
+       "face": "sad"
+      },
+      {
+       "kind": "ball",
+       "x": 500,
+       "y": 1410,
+       "scale": 0.9,
+       "face": "neutral"
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.42,
+     "actors": [
+      {
+       "id": "defender",
+       "x": 300,
+       "y": 1440,
+       "pose": "wave",
+       "emote": "happy",
+       "scale": 1.4,
+       "hold": {
+        "kind": "cap",
+        "hand": "R"
+       }
+      }
+     ],
+     "props": [
+      {
+       "kind": "net",
+       "x": 840,
+       "y": 1150,
+       "scale": 2.2
+      },
+      {
+       "kind": "scoreboard",
+       "x": 540,
+       "y": 540,
+       "scale": 1.8,
+       "text": "3:1",
+       "face": "sad"
+      },
+      {
+       "kind": "ball",
+       "x": 660,
+       "y": 1400,
+       "scale": 0.9,
+       "face": "smug"
+      }
+     ],
+     "cam": "push"
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.42,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "defender",
+       "x": 300,
+       "y": 1440,
+       "pose": "bow",
+       "emote": "happy",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "net",
+       "x": 840,
+       "y": 1150,
+       "scale": 2.2
+      },
+      {
+       "kind": "scoreboard",
+       "x": 540,
+       "y": 540,
+       "scale": 1.8,
+       "text": "3:1",
+       "face": "neutral"
+      },
+      {
+       "kind": "ball",
+       "x": 770,
+       "y": 1390,
+       "scale": 0.9,
+       "face": "happy"
+      }
+     ]
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "defender",
+       "x": 300,
+       "y": 1440,
+       "pose": "shock",
+       "emote": "shock",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "net",
+       "x": 840,
+       "y": 1150,
+       "scale": 2.2
+      },
+      {
+       "kind": "scoreboard",
+       "x": 540,
+       "y": 540,
+       "scale": 1.8,
+       "text": "3:1",
+       "face": "sad"
+      },
+      {
+       "kind": "ball",
+       "x": 770,
+       "y": 1390,
+       "scale": 0.9,
+       "face": "wink",
+       "anim": "wobble"
+      }
+     ],
+     "sfx": {
+      "text": "DING",
+      "x": 240,
+      "y": 470,
+      "r": 100
+     }
+    }
+   ]
+  },
+  "s06": {
+   "type": "COMIC",
+   "bg": "office",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "maresca",
+       "x": 300,
+       "y": 1440,
+       "pose": "think",
+       "emote": "neutral",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "calendar",
+       "x": 730,
+       "y": 760,
+       "scale": 2.5
+      },
+      {
+       "kind": "cross",
+       "x": 573,
+       "y": 765,
+       "scale": 0.5,
+       "anim": "pop"
+      },
+      {
+       "kind": "scoreboard",
+       "x": 850,
+       "y": 470,
+       "scale": 1.2,
+       "text": "3:1",
+       "face": "smug"
+      },
+      {
+       "kind": "ball",
+       "x": 520,
+       "y": 1420,
+       "scale": 0.6
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.42,
+     "actors": [
+      {
+       "id": "maresca",
+       "x": 300,
+       "y": 1440,
+       "pose": "point",
+       "emote": "neutral",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "calendar",
+       "x": 730,
+       "y": 760,
+       "scale": 2.5
+      },
+      {
+       "kind": "cross",
+       "x": 573,
+       "y": 765,
+       "scale": 0.5,
+       "anim": "pop"
+      },
+      {
+       "kind": "cross",
+       "x": 653,
+       "y": 765,
+       "scale": 0.5,
+       "anim": "pop"
+      },
+      {
+       "kind": "scoreboard",
+       "x": 850,
+       "y": 470,
+       "scale": 1.2,
+       "text": "3:1",
+       "face": "smug"
+      },
+      {
+       "kind": "ball",
+       "x": 520,
+       "y": 1420,
+       "scale": 0.6
+      }
+     ],
+     "cam": "push"
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.42,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "maresca",
+       "x": 300,
+       "y": 1440,
+       "pose": "headscratch",
+       "emote": "sweat",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "calendar",
+       "x": 730,
+       "y": 760,
+       "scale": 2.5,
+       "label": "first season"
+      },
+      {
+       "kind": "cross",
+       "x": 573,
+       "y": 765,
+       "scale": 0.5,
+       "anim": "pop"
+      },
+      {
+       "kind": "cross",
+       "x": 653,
+       "y": 765,
+       "scale": 0.5,
+       "anim": "pop"
+      },
+      {
+       "kind": "cross",
+       "x": 733,
+       "y": 765,
+       "scale": 0.5,
+       "anim": "pop"
+      },
+      {
+       "kind": "scoreboard",
+       "x": 850,
+       "y": 470,
+       "scale": 1.2,
+       "text": "3:1",
+       "face": "smug"
+      },
+      {
+       "kind": "ball",
+       "x": 520,
+       "y": 1420,
+       "scale": 0.6
+      }
+     ]
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "maresca",
+       "x": 300,
+       "y": 1440,
+       "pose": "present",
+       "emote": "smug",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "calendar",
+       "x": 730,
+       "y": 760,
+       "scale": 2.5,
+       "label": "first season"
+      },
+      {
+       "kind": "cross",
+       "x": 573,
+       "y": 765,
+       "scale": 0.5,
+       "anim": "pop"
+      },
+      {
+       "kind": "cross",
+       "x": 653,
+       "y": 765,
+       "scale": 0.5,
+       "anim": "pop"
+      },
+      {
+       "kind": "cross",
+       "x": 733,
+       "y": 765,
+       "scale": 0.5,
+       "anim": "pop"
+      },
+      {
+       "kind": "scoreboard",
+       "x": 850,
+       "y": 470,
+       "scale": 1.2,
+       "text": "3:1",
+       "face": "smug"
+      },
+      {
+       "kind": "ball",
+       "x": 520,
+       "y": 1420,
+       "scale": 0.6
+      },
+      {
+       "kind": "magnifier",
+       "x": 740,
+       "y": 1100,
+       "scale": 1.4,
+       "anim": "float"
+      }
+     ],
+     "bubble": {
+      "who": "maresca",
+      "icon": "exclaim"
+     }
+    }
+   ]
+  },
+  "s07": {
+   "type": "PROVOC",
+   "q": "Three defeats: national emergency or blip?",
+   "a": "Emergency",
+   "b": "Just a blip",
+   "split": [
+    62,
+    38
+   ],
+   "mood": "shock"
+  },
+  "s08": {
+   "type": "INTERVIEW",
+   "label": "REPORTER ASKS",
+   "bubble": "Basically a national emergency?",
+   "answer": {
+    "icon": "siren",
+    "gesture": "shrug",
+    "emote": "smug"
+   },
+   "subject": "Maresca",
+   "subject_cast": "maresca"
+  }
+ }
+}

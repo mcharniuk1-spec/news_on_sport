@@ -1,0 +1,272 @@
+{
+ "video_id": "1AaELmeW95w",
+ "topic": "Spurs 'Teammates' interview: Micky van de Ven answers questions from a presenter on who is Tottenham's most naturally talented player",
+ "hero": "Micky van de Ven (Tottenham, navy Betano shirt)",
+ "hero_role": "interviewee",
+ "media_type_overall": "press conference/interview clip",
+ "hook": "Wide two-shot of interviewer and player on black chairs on indoor pitch",
+ "subtitle_style": "Sky Sports Teammates lower-third question strap (blue box, white text) e.g. 'Who would win a 100m race?'",
+ "reaction_overlays": "Animated glitch title card 'Micky van de Ven Teammates' with Spurs cockerel",
+ "transition_summary": "Multi-camera interview cuts: wide establishing, then alternating close-ups of guest and presenter, about 1 cut per 4-5 s",
+ "audio_note": "Interview speech; transcript: presenter introduces teammates game and rules",
+ "reuse_segments": [
+  {
+   "t0": 0,
+   "t1": 60,
+   "what": "Interview with Spurs player and presenter",
+   "origin_guess": "interview",
+   "rights_risk": "high",
+   "how_to_reuse": "needs club/rights-holder licence; recreate Q&A format with own talent"
+  }
+ ],
+ "frames": [
+  {
+   "idx": 1,
+   "t": 0,
+   "desc": "Wide shot of man and woman seated in black armchairs on indoor training pitch",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 2,
+   "t": 2,
+   "desc": "Tottenham player in navy Betano shirt, close-up, arms folded",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 3,
+   "t": 4,
+   "desc": "Blonde female presenter talking, close-up",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 4,
+   "t": 6,
+   "desc": "Blonde female presenter talking, close-up",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 5,
+   "t": 8,
+   "desc": "Glitch title card, player with Spurs crest, 'Micky van de Ven Teammates'",
+   "type": "graphic_card",
+   "text_on_screen": "Micky van de Ven Teammates",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 6,
+   "t": 10,
+   "desc": "Glitch title card, player with Spurs crest, 'Micky van de Ven Teammates'",
+   "type": "graphic_card",
+   "text_on_screen": "Micky van de Ven Teammates",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 7,
+   "t": 12,
+   "desc": "Presenter smiling, lower-third question",
+   "type": "video",
+   "text_on_screen": "Who would win a 100m race?",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 8,
+   "t": 14,
+   "desc": "Presenter smiling, lower-third question",
+   "type": "video",
+   "text_on_screen": "Who would win a 100m race?",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 9,
+   "t": 16,
+   "desc": "Player smiling in close-up",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 10,
+   "t": 18,
+   "desc": "Player smiling in close-up",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 11,
+   "t": 20,
+   "desc": "Player looking down, laughing",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 12,
+   "t": 22,
+   "desc": "Player talking",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 13,
+   "t": 24,
+   "desc": "Wide establishing shot of chairs",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 14,
+   "t": 26,
+   "desc": "Wide establishing shot of chairs",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 15,
+   "t": 28,
+   "desc": "Player smiling, close-up",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 16,
+   "t": 30,
+   "desc": "Player scratching ear, thinking",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 17,
+   "t": 32,
+   "desc": "Player thinking, hand to chin",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 18,
+   "t": 34,
+   "desc": "Player talking",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 19,
+   "t": 36,
+   "desc": "Player talking, medium close-up",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 20,
+   "t": 38,
+   "desc": "Presenter smiling",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 21,
+   "t": 40,
+   "desc": "Presenter smiling",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 22,
+   "t": 42,
+   "desc": "Presenter smiling",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 23,
+   "t": 44,
+   "desc": "Presenter gesturing with hands",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 24,
+   "t": 46,
+   "desc": "Player smiling, answering",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 25,
+   "t": 48,
+   "desc": "Player smiling, answering",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 26,
+   "t": 50,
+   "desc": "Wide establishing shot of chairs",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 27,
+   "t": 52,
+   "desc": "Wide establishing shot of chairs",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 28,
+   "t": 54,
+   "desc": "Player talking, close-up",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 29,
+   "t": 56,
+   "desc": "Player talking, close-up",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 30,
+   "t": 58,
+   "desc": "Player talking, close-up",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 31,
+   "t": 60,
+   "desc": "Player talking, close-up",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "none"
+  }
+ ]
+}

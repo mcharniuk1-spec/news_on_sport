@@ -1,0 +1,661 @@
+[
+ {
+  "hook_type": "stat_shock",
+  "hook_basis": "scoreline_result",
+  "topic_primary": "manager_news",
+  "scope": "international",
+  "subject_type": "owner_or_other",
+  "timeliness": "breaking_week",
+  "uk_relevance": "low",
+  "story_structure": "stat_stack",
+  "twist_position": "late",
+  "payoff_type": "punchline",
+  "humour_type": "deadpan_stat",
+  "humour_target": "club",
+  "dominant_emotion": "schadenfreude",
+  "comment_bait": "none",
+  "cta_opener_type": "mates_social",
+  "hook_type_alt": "question",
+  "hook_strength": 4.0,
+  "story_clarity": 3.5,
+  "humour_quality": 4.0,
+  "shareability": 2.5,
+  "comment_potential": 2.0,
+  "uk_fit": 2.0,
+  "novelty": 3.0,
+  "poster_title_sells_hook": 3.0,
+  "poster_joke_quality": 2.0,
+  "humour_intensity": 2.0,
+  "virality_pred": 4.0,
+  "risk_flags": [
+   "none"
+  ],
+  "hook_type_why": "Opens on 'Zero points in six games' then asks 'still full confidence?'",
+  "hook_basis_detail": "Czechia took zero points from six Nations League games (3 scored, 14 conceded) while GM Nedved backed coach Denia.",
+  "story_summary": "Czech national team loses every game, Nedved insists on full confidence in the coach, ranking falls behind Peru.",
+  "poster_issue": "Bubble 'Three goals scored.' is a bare fragment; the joke needs the fourteen conceded. Headline is long and all caps.",
+  "poster_change": "Bubble: 'THREE SCORED, FOURTEEN CONCEDED. FULL CONFIDENCE.' Shorten headline to 'ZERO POINTS, FULL CONFIDENCE'.",
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "vary_cta",
+    "action": "Replace 'Your mates will never guess this', used in 32 videos, with a story-specific opener."
+   },
+   {
+    "priority": "P2",
+    "category": "verify_fact",
+    "action": "Reconcile 'zero points in six games' with 'seven straight defeats' so the count is clear."
+   },
+   {
+    "priority": "P2",
+    "category": "add_comment_bait",
+    "action": "Add a question: should Denia stay? Czech and neutral viewers can argue."
+   },
+   {
+    "priority": "P2",
+    "category": "poster_title",
+    "action": "Put the 3 scored, 14 conceded contrast on the cover."
+   }
+  ],
+  "no": 21,
+  "annotator_agreement": 0.89
+ },
+ {
+  "hook_type": "contrast_twist",
+  "hook_basis": "career_irony",
+  "topic_primary": "legacy_retrospective",
+  "scope": "mixed_career",
+  "subject_type": "player",
+  "timeliness": "evergreen_retro",
+  "uk_relevance": "low",
+  "story_structure": "chronological_recap",
+  "twist_position": "middle",
+  "payoff_type": "punchline",
+  "humour_type": "wordplay",
+  "humour_target": "player",
+  "dominant_emotion": "nostalgia",
+  "comment_bait": "none",
+  "cta_opener_type": "tease_next",
+  "hook_type_alt": "question",
+  "hook_strength": 3.0,
+  "story_clarity": 4.0,
+  "humour_quality": 3.0,
+  "shareability": 2.0,
+  "comment_potential": 2.0,
+  "uk_fit": 2.0,
+  "novelty": 2.0,
+  "poster_title_sells_hook": 2.5,
+  "poster_joke_quality": 2.5,
+  "humour_intensity": 2.0,
+  "virality_pred": 2.5,
+  "risk_flags": [
+   "single_source"
+  ],
+  "hook_type_why": "Lists 'blond mane, two nicknames' then withholds the point behind 'no major trophy with Czechia?'",
+  "hook_basis_detail": "Ballon d'Or 2003 winner who lost Euro 1996 final on a golden goal and had no major trophy with Czechia.",
+  "story_summary": "Nedved's career: nicknames, Euro 1996 golden-goal loss, 2003 Ballon d'Or with a final ban, 2006 group exit.",
+  "poster_issue": "Bubble is a long full sentence; the golden-goal pun is the joke but it is crowded. 'Little bear' in headline is unexplained.",
+  "poster_change": "Bubble: 'GOLDEN CAREER. ONE VERY UNLUCKY GOLDEN GOAL.' Keep the Ballon d'Or in the headline.",
+  "changes": [
+   {
+    "priority": "P2",
+    "category": "add_second_source",
+    "action": "All facts come from Wikipedia; confirm golden goal, ban and 2006 group finish elsewhere."
+   },
+   {
+    "priority": "P2",
+    "category": "hook_rewrite",
+    "action": "Lead with Ballon d'Or versus no trophy; the three-item list buries the irony."
+   },
+   {
+    "priority": "P2",
+    "category": "vary_cta",
+    "action": "'Want the next story before it breaks?' is in 25 videos; change it."
+   },
+   {
+    "priority": "P3",
+    "category": "add_comment_bait",
+    "action": "End on a question: best player never to win a major trophy?"
+   }
+  ],
+  "no": 22,
+  "annotator_agreement": 0.93
+ },
+ {
+  "hook_type": "question",
+  "hook_basis": "quote_or_interview",
+  "topic_primary": "transfer_story",
+  "scope": "la_liga",
+  "subject_type": "player",
+  "timeliness": "recent_month",
+  "uk_relevance": "medium",
+  "story_structure": "chronological_recap",
+  "twist_position": "late",
+  "payoff_type": "callback_to_hook",
+  "humour_type": "callback",
+  "humour_target": "player",
+  "dominant_emotion": "amusement",
+  "comment_bait": "fan_rivalry",
+  "cta_opener_type": "question",
+  "hook_type_alt": "curiosity_gap",
+  "hook_strength": 4.0,
+  "story_clarity": 3.0,
+  "humour_quality": 3.0,
+  "shareability": 3.0,
+  "comment_potential": 4.0,
+  "uk_fit": 3.0,
+  "novelty": 4.0,
+  "poster_title_sells_hook": 3.5,
+  "poster_joke_quality": 2.0,
+  "humour_intensity": 2.0,
+  "virality_pred": 5.0,
+  "risk_flags": [
+   "over_length",
+   "single_source",
+   "unverified_claim"
+  ],
+  "hook_type_why": "'How long can a midfielder hesitate before Real Madrid walks away?' asks viewer to guess the story.",
+  "hook_basis_detail": "Mourinho's claim that Rodri hesitated over Madrid's offer before joining Barcelona.",
+  "story_summary": "Rodri joined Barcelona after supposedly stalling Madrid, scored late, finished fourth for the Ballon d'Or and missed ESPN's top ten.",
+  "poster_issue": "Bubble 'Rodri joined Barcelona this summer.' is a flat fact with no joke; it repeats the headline context.",
+  "poster_change": "Bubble: 'THINKS FIRST. MADRID LEFT. SCANDAL.' Keep the hesitation headline.",
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "shorten",
+    "action": "Spoken text is 604 characters against a 600 limit; cut a few words."
+   },
+   {
+    "priority": "P1",
+    "category": "verify_fact",
+    "action": "Mourinho quote rests on Wikipedia only; confirm in Guardian or another primary source."
+   },
+   {
+    "priority": "P2",
+    "category": "add_second_source",
+    "action": "The 51-day goal figure is single-source; confirm with match reports."
+   },
+   {
+    "priority": "P2",
+    "category": "poster_title",
+    "action": "Rewrite the bubble as an actual joke."
+   }
+  ],
+  "no": 23,
+  "annotator_agreement": 0.96
+ },
+ {
+  "hook_type": "curiosity_gap",
+  "hook_basis": "stats_oddity",
+  "topic_primary": "legacy_retrospective",
+  "scope": "mixed_career",
+  "subject_type": "player",
+  "timeliness": "evergreen_retro",
+  "uk_relevance": "medium",
+  "story_structure": "roast_and_praise",
+  "twist_position": "late",
+  "payoff_type": "punchline",
+  "humour_type": "callback",
+  "humour_target": "player",
+  "dominant_emotion": "amusement",
+  "comment_bait": "none",
+  "cta_opener_type": "question",
+  "hook_type_alt": "stat_shock",
+  "hook_strength": 4.0,
+  "story_clarity": 4.0,
+  "humour_quality": 3.0,
+  "shareability": 3.5,
+  "comment_potential": 3.0,
+  "uk_fit": 3.5,
+  "novelty": 4.0,
+  "poster_title_sells_hook": 2.5,
+  "poster_joke_quality": 1.5,
+  "humour_intensity": 2.0,
+  "virality_pred": 5.0,
+  "risk_flags": [
+   "single_source"
+  ],
+  "hook_type_why": "'The Ballon d'Or winner with zero social media accounts. Zero.' repeats the number as the shock.",
+  "hook_basis_detail": "Rodri won the 2024 Ballon d'Or yet has zero social media accounts, a choice he explained to the BBC.",
+  "story_summary": "Offline Ballon d'Or winner: park childhood, bike on the train, 2023 final winner, 2026 World Cup Golden Ball with no goals.",
+  "poster_issue": "Bubble states the Ballon d'Or and first City winner; it drops the zero-socials joke that the hook sells.",
+  "poster_change": "Bubble: 'NO POST. NO STORY. NO REEL. ONE BALLON D'OR.'",
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "verify_fact",
+    "action": "96 km covered and 'most of anyone' rests on Wikipedia only; check a tournament stats source."
+   },
+   {
+    "priority": "P2",
+    "category": "poster_title",
+    "action": "Move the zero-accounts joke to the bubble."
+   },
+   {
+    "priority": "P2",
+    "category": "add_comment_bait",
+    "action": "Ask: should footballers quit social media?"
+   },
+   {
+    "priority": "P2",
+    "category": "add_second_source",
+    "action": "96 km World Cup distance comes from Wikipedia only; find a second source."
+   },
+   {
+    "priority": "P3",
+    "category": "vary_cta",
+    "action": "'Wrong about the next one?' appears twice; vary it."
+   }
+  ],
+  "no": 24,
+  "annotator_agreement": 0.75
+ },
+ {
+  "hook_type": "contrast_twist",
+  "hook_basis": "record_or_milestone",
+  "topic_primary": "viral_moment",
+  "scope": "serie_a",
+  "subject_type": "player",
+  "timeliness": "breaking_week",
+  "uk_relevance": "medium",
+  "story_structure": "stat_stack",
+  "twist_position": "late",
+  "payoff_type": "punchline",
+  "humour_type": "absurd_comparison",
+  "humour_target": "situation",
+  "dominant_emotion": "amusement",
+  "comment_bait": "direct_question",
+  "cta_opener_type": "question",
+  "hook_type_alt": "question",
+  "hook_strength": 5.0,
+  "story_clarity": 4.0,
+  "humour_quality": 4.0,
+  "shareability": 4.0,
+  "comment_potential": 4.0,
+  "uk_fit": 3.0,
+  "novelty": 4.0,
+  "poster_title_sells_hook": 4.0,
+  "poster_joke_quality": 2.0,
+  "humour_intensity": 2.5,
+  "virality_pred": 8.0,
+  "risk_flags": [
+   "unverified_claim"
+  ],
+  "hook_type_why": "'Eleven years off, then forty-five minutes in Serie C. Worth it?' sets a huge gap against a tiny return.",
+  "hook_basis_detail": "Ronaldinho, 46, played about 45 minutes for Ravenna, his first competitive match since 2015.",
+  "story_summary": "Ronaldinho's Ravenna debut: no goal, 299 career goals, 2,000 shirts sold, auction bids and Cassano's clown-show label.",
+  "poster_issue": "Bubble 'aged forty-six, made his Ravenna debut this month' is a fact, not a joke; the fashion-show line is stronger.",
+  "poster_change": "Bubble: 'NOT A FOOTBALL CLUB. A FASHION SHOW WITH A CORNER FLAG.'",
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "poster_title",
+    "action": "Swap the bubble for the fashion-show joke; the headline already carries the facts."
+   },
+   {
+    "priority": "P2",
+    "category": "verify_fact",
+    "action": "The 2,000 shirts figure comes from a September article; confirm it is tied to the debut."
+   },
+   {
+    "priority": "P3",
+    "category": "vary_cta",
+    "action": "'Want more?' is generic; tease the next story."
+   }
+  ],
+  "no": 25,
+  "annotator_agreement": 0.93
+ },
+ {
+  "hook_type": "contrast_twist",
+  "hook_basis": "controversy_or_discipline",
+  "topic_primary": "legacy_retrospective",
+  "scope": "mixed_career",
+  "subject_type": "player",
+  "timeliness": "evergreen_retro",
+  "uk_relevance": "high",
+  "story_structure": "irony_then_vs_now",
+  "twist_position": "early",
+  "payoff_type": "shock_stat",
+  "humour_type": "understatement",
+  "humour_target": "player",
+  "dominant_emotion": "nostalgia",
+  "comment_bait": "none",
+  "cta_opener_type": "mates_social",
+  "hook_type_alt": "none",
+  "hook_strength": 4.0,
+  "story_clarity": 3.0,
+  "humour_quality": 2.0,
+  "shareability": 3.0,
+  "comment_potential": 2.5,
+  "uk_fit": 4.5,
+  "novelty": 2.0,
+  "poster_title_sells_hook": 2.5,
+  "poster_joke_quality": 1.5,
+  "humour_intensity": 1.0,
+  "virality_pred": 4.5,
+  "risk_flags": [
+   "off_topic_footage_risk",
+   "over_length"
+  ],
+  "hook_type_why": "'A free kick over Seaman, then a red card seven minutes later.' hero then villain in seven minutes.",
+  "hook_basis_detail": "2002 World Cup quarter-final: 40-yard free kick past Seaman, red card for a foul on Danny Mills seven minutes later.",
+  "story_summary": "Ronaldinho's career in contrasts: Seaman free kick and red card, 2005 awards, Bernabeu applause, Fluminense blank.",
+  "poster_issue": "Bubble 'A career full of plot twists.' is generic filler from line 2; the Seaman-then-red-card contrast is not on the cover.",
+  "poster_change": "Bubble: 'HERO TO EARLY BATH IN SEVEN MINUTES.' Headline: 'RONALDINHO: THE SEAMAN FREE KICK AND THE RED CARD'.",
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "shorten",
+    "action": "Spoken text is 607 characters against a 600 limit; drop line 2."
+   },
+   {
+    "priority": "P2",
+    "category": "footage_match",
+    "action": "No inserts and watermark-prone broadcaster clips; use matching 2002 or Bernabeu footage."
+   },
+   {
+    "priority": "P2",
+    "category": "improve_humour",
+    "action": "Only 'The enemy clapped' lands; add a sharper joke on the Fluminense blank."
+   },
+   {
+    "priority": "P2",
+    "category": "poster_title",
+    "action": "Show the Seaman and red card contrast on the cover."
+   },
+   {
+    "priority": "P2",
+    "category": "stronger_twist",
+    "action": "Reorder to end on the Bernabéu applause, not the Fluminense low; the 2013 line is out of sequence."
+   },
+   {
+    "priority": "P2",
+    "category": "vary_cta",
+    "action": "Replace the 'Your mates will never guess this' opener used in 32 videos."
+   }
+  ],
+  "no": 26,
+  "annotator_agreement": 0.86
+ },
+ {
+  "hook_type": "contrast_twist",
+  "hook_basis": "scoreline_result",
+  "topic_primary": "club_ownership_finance",
+  "scope": "other_leagues",
+  "subject_type": "owner_or_other",
+  "timeliness": "breaking_week",
+  "uk_relevance": "low",
+  "story_structure": "stat_stack",
+  "twist_position": "early",
+  "payoff_type": "punchline",
+  "humour_type": "wordplay",
+  "humour_target": "player",
+  "dominant_emotion": "surprise",
+  "comment_bait": "none",
+  "cta_opener_type": "tease_next",
+  "hook_type_alt": "question",
+  "hook_strength": 3.0,
+  "story_clarity": 2.0,
+  "humour_quality": 3.0,
+  "shareability": 2.5,
+  "comment_potential": 2.0,
+  "uk_fit": 1.0,
+  "novelty": 3.5,
+  "poster_title_sells_hook": 2.0,
+  "poster_joke_quality": 1.5,
+  "humour_intensity": 2.0,
+  "virality_pred": 3.5,
+  "risk_flags": [
+   "off_topic_footage_risk",
+   "overlap_other_video"
+  ],
+  "hook_type_why": "'Lost two-nil and still promoted?' sets a defeat against a promotion.",
+  "hook_basis_detail": "Inter de Limeira lost 0-2 to Ferroviaria yet went up on a one-goal margin, first Serie B place since 1991.",
+  "story_summary": "Ronaldo-backed Inter de Limeira promoted despite losing, then a fake AI goal, a beach club, a charity auction and club sales.",
+  "poster_issue": "Headline mixes promotion and a fake goal; bubble is a setup with no punch. Neither shows the 0-2 and promoted paradox.",
+  "poster_change": "Headline: 'LOST 2-0, STILL PROMOTED'. Bubble: 'FAKE GOAL, REAL APPLAUSE.'",
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "stronger_twist",
+    "action": "Explain in one clause why a 0-2 loss still meant promotion; the hook is never paid off."
+   },
+   {
+    "priority": "P1",
+    "category": "merge_or_drop",
+    "action": "Cruzeiro and Valladolid sales repeat in video 028; differentiate or merge the two Ronaldo videos."
+   },
+   {
+    "priority": "P2",
+    "category": "shorten",
+    "action": "Cut the auction or beach-club beat; five topics in 54 seconds blur the story."
+   },
+   {
+    "priority": "P2",
+    "category": "vary_cta",
+    "action": "'Want the next story before it breaks?' is in 25 videos."
+   },
+   {
+    "priority": "P2",
+    "category": "poster_title",
+    "action": "Make bubble and headline sell the same story."
+   }
+  ],
+  "no": 27,
+  "annotator_agreement": 0.96
+ },
+ {
+  "hook_type": "contrast_twist",
+  "hook_basis": "quote_or_interview",
+  "topic_primary": "legacy_retrospective",
+  "scope": "mixed_career",
+  "subject_type": "player",
+  "timeliness": "evergreen_retro",
+  "uk_relevance": "low",
+  "story_structure": "roast_and_praise",
+  "twist_position": "middle",
+  "payoff_type": "punchline",
+  "humour_type": "wordplay",
+  "humour_target": "player",
+  "dominant_emotion": "amusement",
+  "comment_bait": "none",
+  "cta_opener_type": "question",
+  "hook_type_alt": "none",
+  "hook_strength": 3.0,
+  "story_clarity": 3.0,
+  "humour_quality": 3.0,
+  "shareability": 3.0,
+  "comment_potential": 2.0,
+  "uk_fit": 2.0,
+  "novelty": 3.0,
+  "poster_title_sells_hook": 3.0,
+  "poster_joke_quality": 2.5,
+  "humour_intensity": 2.0,
+  "virality_pred": 3.5,
+  "risk_flags": [
+   "betting_under18_appeal",
+   "overlap_other_video",
+   "single_source"
+  ],
+  "hook_type_why": "'A Golden Boot, and a haircut he now calls horrible.' pairs glory with embarrassment.",
+  "hook_basis_detail": "Ronaldo called his 2002 forelock haircut horrible and in 2021 apologised to mothers whose sons copied it.",
+  "story_summary": "Ronaldo's 2002 haircut and Golden Boot, 47 goals in 49 for Barcelona, then Valladolid and Cruzeiro ownership.",
+  "poster_issue": "Bubble describes the haircut but has no punchline; the 'shooting better than hairstyling' joke is not used.",
+  "poster_change": "Bubble: 'FORTY-SEVEN GOALS IN FORTY-NINE. THE HAIRCUT: ZERO.'",
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "verify_fact",
+    "action": "'Two promotions' at Valladolid rests on Infobae only; confirm with a second source."
+   },
+   {
+    "priority": "P1",
+    "category": "merge_or_drop",
+    "action": "Valladolid and Cruzeiro lines overlap video 027; keep the business angle in one video only."
+   },
+   {
+    "priority": "P2",
+    "category": "add_comment_bait",
+    "action": "Ask: worst haircut in World Cup history?"
+   },
+   {
+    "priority": "P2",
+    "category": "vary_cta",
+    "action": "Change 'Think you can call the next one?', used in 20 videos."
+   },
+   {
+    "priority": "P3",
+    "category": "hook_rewrite",
+    "action": "Name the haircut year or 'forelock' in the first line for a clearer image."
+   },
+   {
+    "priority": "P3",
+    "category": "improve_humour",
+    "action": "'Still a quick finisher' joke on Cruzeiro is unclear; sharpen or cut."
+   }
+  ],
+  "no": 28,
+  "annotator_agreement": 0.93
+ },
+ {
+  "hook_type": "curiosity_gap",
+  "hook_basis": "career_irony",
+  "topic_primary": "player_form",
+  "scope": "other_leagues",
+  "subject_type": "player",
+  "timeliness": "recent_month",
+  "uk_relevance": "high",
+  "story_structure": "stat_stack",
+  "twist_position": "late",
+  "payoff_type": "punchline",
+  "humour_type": "sarcasm",
+  "humour_target": "player",
+  "dominant_emotion": "amusement",
+  "comment_bait": "hot_take",
+  "cta_opener_type": "question",
+  "hook_type_alt": "none",
+  "hook_strength": 3.0,
+  "story_clarity": 4.0,
+  "humour_quality": 3.0,
+  "shareability": 3.5,
+  "comment_potential": 3.5,
+  "uk_fit": 5.0,
+  "novelty": 3.0,
+  "poster_title_sells_hook": 3.0,
+  "poster_joke_quality": 2.5,
+  "humour_intensity": 2.0,
+  "virality_pred": 6.0,
+  "risk_flags": [
+   "over_length",
+   "single_source"
+  ],
+  "hook_type_why": "'A Ballon d'Or, a crossbar, and a plan for a museum.' lists three odd items without the link.",
+  "hook_basis_detail": "Kane won the Ballon d'Or, asked to display it in Bayern's museum, then hit the crossbar from the spot.",
+  "story_summary": "Kane's busy month: Ballon d'Or margin over Mbappe, passing Shilton's caps, museum wish, crossbar penalty against Dortmund.",
+  "poster_issue": "Bubble is the caps record, a praise fact; the crossbar and museum jokes are only in the headline.",
+  "poster_change": "Bubble: 'MODESTY HAS LEFT THE BUILDING.' Keep headline.",
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "shorten",
+    "action": "Spoken text is 605 characters against a 600 limit; trim a clause."
+   },
+   {
+    "priority": "P2",
+    "category": "verify_fact",
+    "action": "Museum request comes via SportBible quoting SportBILD; check the original report."
+   },
+   {
+    "priority": "P2",
+    "category": "hook_rewrite",
+    "action": "Open with the crossbar twist or a stronger line; the noun list is flat."
+   },
+   {
+    "priority": "P2",
+    "category": "add_comment_bait",
+    "action": "Ask: should Bayern put the Ballon d'Or in the museum? It sparks club debate."
+   },
+   {
+    "priority": "P2",
+    "category": "poster_title",
+    "action": "Move the crossbar joke onto the bubble; it is the real scroll-stopper."
+   },
+   {
+    "priority": "P3",
+    "category": "vary_cta",
+    "action": "'Wrong about the next one?' is unrelated to the story; link the CTA to Kane."
+   }
+  ],
+  "no": 29,
+  "annotator_agreement": 0.89
+ },
+ {
+  "hook_type": "stat_shock",
+  "hook_basis": "career_irony",
+  "topic_primary": "legacy_retrospective",
+  "scope": "mixed_career",
+  "subject_type": "player",
+  "timeliness": "recent_month",
+  "uk_relevance": "high",
+  "story_structure": "roast_and_praise",
+  "twist_position": "middle",
+  "payoff_type": "punchline",
+  "humour_type": "sarcasm",
+  "humour_target": "player",
+  "dominant_emotion": "schadenfreude",
+  "comment_bait": "hot_take",
+  "cta_opener_type": "question",
+  "hook_type_alt": "question",
+  "hook_strength": 4.0,
+  "story_clarity": 3.0,
+  "humour_quality": 4.0,
+  "shareability": 4.0,
+  "comment_potential": 4.0,
+  "uk_fit": 5.0,
+  "novelty": 2.5,
+  "poster_title_sells_hook": 3.5,
+  "poster_joke_quality": 2.0,
+  "humour_intensity": 2.5,
+  "virality_pred": 7.0,
+  "risk_flags": [
+   "betting_under18_appeal",
+   "single_source",
+   "unverified_claim"
+  ],
+  "hook_type_why": "'Three lost finals, one Ballon d'Or' opens on a count, then ends on a knighthood question.",
+  "hook_basis_detail": "Kane lost the 2019 Champions League final, Euro 2020 and Euro 2024 finals yet won the 2026 Ballon d'Or.",
+  "story_summary": "Kane's lost finals, the Hoeness fee quote, knighthood answer, NFL kicker idea and a fifth-place ESPN ranking despite the Ballon d'Or.",
+  "poster_issue": "Bubble gives only the 2019 two-nil loss; the 'three lost finals' idea and the silver joke are missing.",
+  "poster_change": "Bubble: 'A VERY SHINY SILVER COLLECTION.' Keep headline.",
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "verify_fact",
+    "action": "Hoeness 'crazy' then 'would have paid 150m' has no cited page; confirm before publishing."
+   },
+   {
+    "priority": "P2",
+    "category": "stronger_twist",
+    "action": "Line 2 is filler; go straight from the hook to the three finals."
+   },
+   {
+    "priority": "P2",
+    "category": "poster_title",
+    "action": "Use the silver-collection joke on the cover."
+   },
+   {
+    "priority": "P2",
+    "category": "vary_cta",
+    "action": "'Want more?' is generic and shared with video 025; tease the next Kane story."
+   },
+   {
+    "priority": "P2",
+    "category": "shorten",
+    "action": "Line 2 is generic; cut it so the story reaches the twist sooner."
+   }
+  ],
+  "no": 30,
+  "annotator_agreement": 0.93
+ }
+]

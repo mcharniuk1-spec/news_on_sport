@@ -1,0 +1,533 @@
+{
+ "no": 95,
+ "style": "FLAT-POP",
+ "prop": "star",
+ "cast": {
+  "bruno": {
+   "role": "player",
+   "number": "8",
+   "shirt": "#ff4d6d",
+   "hair": "#3b2a20"
+  },
+  "doorman": {
+   "role": "staff",
+   "shirt": "#3a5a99",
+   "hair": "#6b6b6b"
+  },
+  "coach": {
+   "role": "coach",
+   "shirt": "#2b3a67",
+   "hair": "#2b2b3a"
+  },
+  "barnes": {
+   "role": "player",
+   "number": "11",
+   "shirt": "#f2f2f2",
+   "hair": "#6b4a2a"
+  }
+ },
+ "sequences": {
+  "s01": {
+   "type": "HOOK",
+   "q": "Old club, new colours: warm welcome?",
+   "prop": "scarf",
+   "emote": "love",
+   "board": "ticket"
+  },
+  "s02": {
+   "type": "COMIC",
+   "bg": "stadium",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.25,
+     "actors": [
+      {
+       "id": "bruno",
+       "x": 280,
+       "y": 1440,
+       "pose": "point",
+       "emote": "happy",
+       "scale": 1.4,
+       "label": "Bruno Guimaraes"
+      }
+     ],
+     "props": [
+      {
+       "kind": "door",
+       "x": 790,
+       "y": 1010,
+       "scale": 3.3,
+       "anim": "shake"
+      },
+      {
+       "kind": "star",
+       "x": 790,
+       "y": 620,
+       "scale": 1.0
+      },
+      {
+       "kind": "shirt",
+       "x": 520,
+       "y": 1380,
+       "scale": 0.9
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.25,
+     "t1": 0.4,
+     "actors": [
+      {
+       "id": "bruno",
+       "x": 280,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "neutral",
+       "scale": 1.4
+      },
+      {
+       "id": "doorman",
+       "x": 780,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "sweat",
+       "scale": 1.3,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "door",
+       "x": 940,
+       "y": 1010,
+       "scale": 2.8,
+       "flip": true
+      },
+      {
+       "kind": "star",
+       "x": 940,
+       "y": 620,
+       "scale": 1.0
+      },
+      {
+       "kind": "shirt",
+       "x": 520,
+       "y": 1380,
+       "scale": 0.9
+      }
+     ],
+     "sfx": {
+      "text": "CREAK",
+      "x": 300,
+      "y": 520,
+      "r": 120
+     },
+     "cam": "push"
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.4,
+     "t1": 0.52,
+     "actors": [
+      {
+       "id": "bruno",
+       "x": 280,
+       "y": 1440,
+       "pose": "shrug",
+       "emote": "sweat",
+       "scale": 1.4
+      },
+      {
+       "id": "doorman",
+       "x": 780,
+       "y": 1440,
+       "pose": "point",
+       "emote": "shock",
+       "scale": 1.3,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "door",
+       "x": 940,
+       "y": 1010,
+       "scale": 2.8,
+       "flip": true
+      },
+      {
+       "kind": "star",
+       "x": 940,
+       "y": 620,
+       "scale": 1.0
+      },
+      {
+       "kind": "shirt",
+       "x": 520,
+       "y": 1380,
+       "scale": 0.9
+      }
+     ],
+     "bubble": {
+      "who": "doorman",
+      "text": "?"
+     }
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.52,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "bruno",
+       "x": 280,
+       "y": 1440,
+       "pose": "cheer",
+       "emote": "love",
+       "scale": 1.4
+      },
+      {
+       "id": "doorman",
+       "x": 780,
+       "y": 1440,
+       "pose": "present",
+       "emote": "happy",
+       "scale": 1.3,
+       "flip": true,
+       "hold": {
+        "kind": "mug",
+        "hand": "both",
+        "scale": 0.6
+       }
+      }
+     ],
+     "props": [
+      {
+       "kind": "door",
+       "x": 940,
+       "y": 1010,
+       "scale": 2.8,
+       "flip": true
+      },
+      {
+       "kind": "star",
+       "x": 940,
+       "y": 620,
+       "scale": 1.0
+      },
+      {
+       "kind": "shirt",
+       "x": 520,
+       "y": 1380,
+       "scale": 0.9
+      }
+     ],
+     "fx": [
+      {
+       "kind": "sparkle",
+       "x": 640,
+       "y": 1060
+      }
+     ],
+     "sfx": {
+      "text": "DING",
+      "x": 300,
+      "y": 520,
+      "r": 120
+     }
+    }
+   ]
+  },
+  "s03": {
+   "type": "STATS",
+   "items": [
+    {
+     "icon": "ball",
+     "value": "9",
+     "label": "league goals"
+    },
+    {
+     "icon": "calendar",
+     "value": "31",
+     "label": "for Newcastle"
+    },
+    {
+     "icon": "coin",
+     "value": "75",
+     "label": "back home",
+     "suffix": "m"
+    }
+   ]
+  },
+  "s04": {
+   "type": "COMIC",
+   "bg": "office",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.25,
+     "actors": [
+      {
+       "id": "coach",
+       "x": 320,
+       "y": 1440,
+       "pose": "present",
+       "emote": "neutral",
+       "scale": 1.4,
+       "hold": {
+        "kind": "coin",
+        "hand": "R",
+        "scale": 0.5
+       }
+      }
+     ],
+     "props": [
+      {
+       "kind": "crate",
+       "x": 790,
+       "y": 1000,
+       "scale": 3.2,
+       "face": "happy"
+      },
+      {
+       "kind": "star",
+       "x": 790,
+       "y": 600,
+       "scale": 0.8
+      },
+      {
+       "kind": "mug",
+       "x": 790,
+       "y": 1380,
+       "scale": 1.0
+      },
+      {
+       "kind": "shirt",
+       "x": 560,
+       "y": 1380,
+       "scale": 0.8
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.25,
+     "t1": 0.4,
+     "actors": [
+      {
+       "id": "coach",
+       "x": 320,
+       "y": 1440,
+       "pose": "point",
+       "emote": "happy",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "crate",
+       "x": 790,
+       "y": 1000,
+       "scale": 3.2,
+       "face": "neutral"
+      },
+      {
+       "kind": "star",
+       "x": 790,
+       "y": 600,
+       "scale": 0.8
+      },
+      {
+       "kind": "mug",
+       "x": 790,
+       "y": 1380,
+       "scale": 1.0
+      },
+      {
+       "kind": "shirt",
+       "x": 560,
+       "y": 1380,
+       "scale": 0.8
+      },
+      {
+       "kind": "star",
+       "x": 790,
+       "y": 1250,
+       "scale": 0.4,
+       "anim": "drop"
+      }
+     ],
+     "cam": "push",
+     "sfx": {
+      "text": "POP",
+      "x": 360,
+      "y": 560,
+      "r": 110
+     }
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.4,
+     "t1": 0.52,
+     "actors": [
+      {
+       "id": "coach",
+       "x": 320,
+       "y": 1440,
+       "pose": "point",
+       "emote": "sweat",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "crate",
+       "x": 790,
+       "y": 1000,
+       "scale": 3.2,
+       "face": "neutral"
+      },
+      {
+       "kind": "star",
+       "x": 790,
+       "y": 600,
+       "scale": 0.8
+      },
+      {
+       "kind": "mug",
+       "x": 790,
+       "y": 1380,
+       "scale": 1.0
+      },
+      {
+       "kind": "shirt",
+       "x": 560,
+       "y": 1380,
+       "scale": 0.8
+      },
+      {
+       "kind": "star",
+       "x": 790,
+       "y": 1250,
+       "scale": 0.4
+      },
+      {
+       "kind": "star",
+       "x": 830,
+       "y": 1290,
+       "scale": 0.4,
+       "anim": "drop"
+      }
+     ]
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.52,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "coach",
+       "x": 320,
+       "y": 1440,
+       "pose": "facepalm",
+       "emote": "sweat",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "crate",
+       "x": 790,
+       "y": 1000,
+       "scale": 3.2,
+       "face": "smug"
+      },
+      {
+       "kind": "star",
+       "x": 790,
+       "y": 600,
+       "scale": 0.8
+      },
+      {
+       "kind": "mug",
+       "x": 790,
+       "y": 1380,
+       "scale": 1.0
+      },
+      {
+       "kind": "shirt",
+       "x": 560,
+       "y": 1380,
+       "scale": 0.8
+      },
+      {
+       "kind": "star",
+       "x": 790,
+       "y": 1250,
+       "scale": 0.4
+      },
+      {
+       "kind": "star",
+       "x": 830,
+       "y": 1290,
+       "scale": 0.4
+      }
+     ],
+     "bubble": {
+      "who": "crate",
+      "icon": "calendar"
+     }
+    }
+   ]
+  },
+  "s05": {
+   "type": "PROVOC",
+   "q": "Still not there: fair or harsh?",
+   "a": "Fair",
+   "b": "Harsh",
+   "split": [
+    61,
+    39
+   ],
+   "mood": "cheeky"
+  },
+  "s06": {
+   "type": "INTERVIEW",
+   "label": "REPORTER ASKS",
+   "bubble": "Is this the match Newcastle need?",
+   "answer": {
+    "icon": "ticket",
+    "gesture": "thumbsup"
+   },
+   "subject": "Harvey Barnes",
+   "subject_cast": "barnes"
+  },
+  "s07": {
+   "type": "NEWS",
+   "name": "Bruno Guimaraes",
+   "fact": "Arsenal are five points clear",
+   "ticker": "Five points clear",
+   "icons": [
+    "flag",
+    "chart-up",
+    "trophy"
+   ],
+   "role": "player",
+   "actor": "bruno"
+  }
+ }
+}

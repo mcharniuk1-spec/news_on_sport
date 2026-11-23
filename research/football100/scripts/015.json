@@ -1,0 +1,94 @@
+{
+ "no": 15,
+ "subject": "Luka Modric",
+ "title": "Modric, 41, still refusing to retire",
+ "voice": "kokoro",
+ "comic": true,
+ "style": "simpsons",
+ "lines": [
+  {
+   "vo": "Luka Modric is forty-one and has declined retirement again.",
+   "card": "Still not retiring",
+   "sfx": null,
+   "footage": "Modric Milan training, close-up, neutral lighting"
+  },
+  {
+   "vo": "Croatia's captain just won his 208th cap. That puts him level with Messi.",
+   "card": "208 caps, like Messi",
+   "sfx": null,
+   "footage": "Croatia squad celebration, Osijek"
+  },
+  {
+   "vo": "Croatia had lost four in a row, a first ever. Then they beat Czechia two-one in Osijek.",
+   "card": "Losing run ends",
+   "sfx": null,
+   "footage": "Croatia Czechia Osijek 2-1 highlights"
+  },
+  {
+   "vo": "Only Cristiano Ronaldo has more, with two hundred and thirty-four. Modric played all ninety as captain. Cristiano, check your mirrors.",
+   "card": "Full 90 as captain",
+   "sfx": "small cartoon ding",
+   "footage": "Modric captain's armband, Croatia match"
+  },
+  {
+   "vo": "Since August, he has played nineteen of twenty-one matches. The calendar wants a rest. He does not.",
+   "card": "19 of 21 games",
+   "sfx": null,
+   "footage": "Modric Milan 2026 highlights, midfield passing"
+  },
+  {
+   "vo": "He reached fifty Milan appearances in a two-one win at Genoa. Still no goodbye in sight.",
+   "card": "50 Milan games",
+   "sfx": null,
+   "footage": "Milan Genoa 2-1 match highlights"
+  },
+  {
+   "vo": "Next up is Frosinone, his 227th different opponent, says Gazzetta. At this rate he will have played everyone.",
+   "card": "227th opponent",
+   "sfx": null,
+   "footage": "Milan San Siro, stadium wide shot"
+  },
+  {
+   "vo": "Your mates will never guess this. Match news and betting tips at aboutfootball dot UK.",
+   "card": "aboutfootball dot UK",
+   "sfx": null,
+   "footage": "End card, no footage"
+  }
+ ],
+ "chars": 735,
+ "est_seconds": 41,
+ "footage_terms": [
+  "Croatia Czechia Osijek 2-1 2026 highlights",
+  "Modric Milan 2026 highlights",
+  "Modric Milan Genoa 2-1 highlights",
+  "Modric Milan Inter derby 3-1 2026"
+ ],
+ "inserts": [
+  {
+   "after_line": 1,
+   "story": "A cartoon retirement party has balloons and a cake that reads goodbye Luka. A caricature Modric walks in, slices the cake, and passes a piece to every guest with the outside of his boot. Then he leaves for training, and the banner quietly flips to see you tomorrow.",
+   "characters": "caricature Modric (small, neat midfielder); generic cartoon party guests; no real people",
+   "seconds": 2
+  },
+  {
+   "after_line": 4,
+   "story": "A cartoon dressing-room scoreboard shows 208 caps. A generic cartoon rival in a shirt numbered 234 waves from the far end. A caricature Modric waves back, and the scoreboard flips to 209 while he is still waving.",
+   "characters": "caricature Modric; generic cartoon rival in a numbered shirt; no real people",
+   "seconds": 2
+  },
+  {
+   "after_line": 5,
+   "story": "A cartoon calendar flips its pages so fast it sheds confetti. A caricature Modric packs a tiny suitcase labelled retire. The calendar stamps Frosinone on the next page, and he sits on the suitcase to tie his boots.",
+   "characters": "caricature Modric; generic cartoon calendar with a face; no real people",
+   "seconds": 2
+  }
+ ],
+ "facts_used": [
+  "208th cap in 2-1 win over Czechia in Osijek; level with Messi; only Ronaldo (234) has more; Croatia ended a first-ever four-match losing streak (https://www.croatiaweek.com/croatia-beat-czechia-modric-equals-messi-record/)",
+  "19 of 21 matches since August across club and country, 1,114 minutes; Frosinone will be his 227th different opponent (Gazzetta via Milan Reports) (https://milanreports.com/2026/11/20/modric-croatia-milan-always-there/)",
+  "50 Milan appearances after a 2-1 win at Genoa (https://milanreports.com/2026/11/09/modric-50-appearances-ac-milan-at-41/)",
+  "Played full 90 minutes as captain in Osijek (research pack roast_now; source per croatiaweek item above)"
+ ],
+ "comic_score": 7,
+ "notes": "The 227th opponent count differs by outlet (155 club plus 71 or 72 Croatia), so it is approximate; say 'his 227th different opponent, according to Gazzetta' if the script is read closely. Retirement jokes are kept friendly. No injury, family, legal or illness material; the 2018 perjury case and the Milan minute for Ferencvaros conflict in sources and are not used. after_line counts from 1. Punch-up pass: the age joke is only about the calendar and caps, never about his body. 'Check your mirrors' is a friendly tease of the cap record. Keep 'says Gazzetta' on air for the 227th-opponent count."
+}

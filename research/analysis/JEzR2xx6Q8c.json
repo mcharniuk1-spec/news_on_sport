@@ -1,0 +1,72 @@
+{
+ "video_id": "JEzR2xx6Q8c",
+ "topic": "Short clip of the Ballon d'Or 2026 top-10 reveal (list in description) shown as phone video of a hallway with a golden trophy",
+ "hero": "Unidentified man in black suit carrying a gold ball trophy and dancing",
+ "hero_role": "performer/celebrant carrying the Ballon d'Or-style trophy",
+ "media_type_overall": "fan phone/stadium footage",
+ "hook": "Hallway with Ballon d'Or banner, man in grey walking, golden ball on floor",
+ "subtitle_style": "none",
+ "reaction_overlays": "none",
+ "transition_summary": "Single continuous vertical phone shot, no cuts",
+ "audio_note": "unknown; description lists top-10 names, no transcript",
+ "reuse_segments": [
+  {
+   "t0": 0,
+   "t1": 11,
+   "what": "Vertical phone clip in hallway with Ballon d'Or banner",
+   "origin_guess": "fan edit",
+   "rights_risk": "medium",
+   "how_to_reuse": "Source unclear; recreate with own staged hallway and generic gold trophy prop"
+  }
+ ],
+ "frames": [
+  {
+   "idx": 1,
+   "t": 0,
+   "desc": "Hallway with Ballon d'Or banner on wall, man in grey walking, golden ball on floor",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "none"
+  },
+  {
+   "idx": 2,
+   "t": 2,
+   "desc": "Door opens, man in tuxedo holding gold ball trophy entering, man in grey leaving",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "none"
+  },
+  {
+   "idx": 3,
+   "t": 4,
+   "desc": "Man in dark outfit standing in hallway, dark door behind",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "none"
+  },
+  {
+   "idx": 4,
+   "t": 6,
+   "desc": "Man in dark suit dancing with arm raised, door open",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "none"
+  },
+  {
+   "idx": 5,
+   "t": 8,
+   "desc": "Man in suit arms out, stepping, door open",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "none"
+  },
+  {
+   "idx": 6,
+   "t": 10,
+   "desc": "Empty hallway, door ajar, night outside",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "none"
+  }
+ ]
+}

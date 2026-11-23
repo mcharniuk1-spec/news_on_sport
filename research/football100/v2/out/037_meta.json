@@ -1,0 +1,87 @@
+{
+ "no": 37,
+ "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/037_sunderland_beat_chelsea_1_0_for_firs.mp4",
+ "total": 41.766666666666666,
+ "outro_start": 36.22,
+ "cover": true,
+ "seq": [
+  {
+   "id": "s01",
+   "kind": "HOOK",
+   "start": 0.1,
+   "end": 1.6,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/037/s01.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s02",
+   "kind": "COMIC1",
+   "start": 4.7,
+   "end": 6.7,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/037/s02.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s03",
+   "kind": "NEWS",
+   "start": 8.1,
+   "end": 9.866666666666667,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/037/s03.mp4",
+   "clip_dur": 1.767,
+   "frames": 42
+  },
+  {
+   "id": "s04",
+   "kind": "PROVOC",
+   "start": 11.333333333333334,
+   "end": 12.833333333333334,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/037/s04.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s05",
+   "kind": "INTERVIEW",
+   "start": 17.333333333333332,
+   "end": 19.1,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/037/s05.mp4",
+   "clip_dur": 1.767,
+   "frames": 42
+  },
+  {
+   "id": "s06",
+   "kind": "COMIC2",
+   "start": 23.166666666666668,
+   "end": 25.666666666666668,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/037/s06.mp4",
+   "clip_dur": 2.5,
+   "frames": 60
+  },
+  {
+   "id": "s07",
+   "kind": "STATS",
+   "start": 31.6,
+   "end": 33.1,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/037/s07.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  }
+ ],
+ "missing": [],
+ "dropped": [],
+ "cards": [],
+ "caption_sprites": 114,
+ "whoosh": [
+  0.0,
+  4.6000000000000005,
+  8.0,
+  11.233333333333334,
+  17.23333333333333,
+  23.066666666666666,
+  31.5,
+  36.12
+ ],
+ "shots": 14
+}

@@ -1,0 +1,12 @@
+{
+ "11": {"twist_position": "late", "humour_target": "situation", "cta_opener_type": "question", "risk_flags": ["over_length", "single_source"]},
+ "12": {"uk_relevance": "low", "payoff_type": "punchline", "humour_target": "player", "dominant_emotion": "amusement", "risk_flags": ["betting_under18_appeal", "off_topic_footage_risk", "unverified_claim"]},
+ "13": {"scope": "international", "twist_position": "middle", "humour_type": "wordplay"},
+ "14": {"hook_type": "contrast_twist", "twist_position": "middle", "humour_target": "player", "comment_bait": "fan_rivalry", "cta_opener_type": "question", "hook_type_alt": "roast_jab", "risk_flags": ["betting_under18_appeal", "single_source"]},
+ "15": {"scope": "mixed_career", "twist_position": "none", "humour_type": "deadpan_stat", "hook_type_alt": "none", "risk_flags": ["betting_under18_appeal", "overlap_other_video", "single_source", "unverified_claim"]},
+ "16": {"hook_type": "news_flash", "humour_type": "wordplay", "humour_target": "club", "comment_bait": "fan_rivalry", "cta_opener_type": "question", "hook_type_alt": "stat_shock", "risk_flags": ["betting_under18_appeal", "overlap_other_video", "unverified_claim"]},
+ "17": {"hook_type": "news_flash", "timeliness": "breaking_week", "payoff_type": "punchline", "humour_type": "callback", "comment_bait": "hot_take", "hook_type_alt": "none"},
+ "18": {"risk_flags": ["unverified_claim"]},
+ "19": {"uk_relevance": "medium", "story_structure": "irony_then_vs_now", "twist_position": "early", "comment_bait": "hot_take", "cta_opener_type": "question", "hook_type_alt": "none", "risk_flags": ["betting_under18_appeal", "overlap_other_video", "unverified_claim"]},
+ "20": {"story_structure": "roast_and_praise", "risk_flags": ["overlap_other_video", "single_source"]}
+}

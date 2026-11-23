@@ -1,0 +1,94 @@
+{
+ "no": 49,
+ "subject": "Southampton extend Tonda Eckert's contract to 2029 despite the Spygate scandal",
+ "title": "A contract to 2029, football's pension plan",
+ "voice": "kokoro",
+ "comic": true,
+ "style": "southpark_cutout",
+ "lines": [
+  {
+   "vo": "Thrown out of a final, then given a deal to twenty twenty-nine.",
+   "card": "Deal to 2029",
+   "sfx": null,
+   "footage": "Tonda Eckert Southampton press conference"
+  },
+  {
+   "vo": "On the twentieth of November, Southampton gave head coach Tonda Eckert a new contract running to twenty twenty-nine.",
+   "card": "Contract to 2029",
+   "sfx": null,
+   "footage": "Southampton Eckert new contract announcement"
+  },
+  {
+   "vo": "In May, Southampton were removed from the Championship play-off final.",
+   "card": "Removed from final",
+   "sfx": null,
+   "footage": "Southampton Championship play-off semi-final highlights"
+  },
+  {
+   "vo": "This season they also lost four points, after admitting breaches of EFL rules.",
+   "card": "Four points docked",
+   "sfx": null,
+   "footage": "Southampton Championship table, season graphic"
+  },
+  {
+   "vo": "Owner Dragan Solak has backed Eckert throughout. Loyalty, with a signature on it.",
+   "card": "Loyalty, signed",
+   "sfx": "short crowd cheer",
+   "footage": "Dragan Solak Southampton owner interview"
+  },
+  {
+   "vo": "Middlesbrough lost that final one-nil to Hull City at Wembley on the twenty-third of May. One goal, one very long afternoon.",
+   "card": "One-nil at Wembley",
+   "sfx": null,
+   "footage": "Hull City beat Middlesbrough play-off final goal, Wembley"
+  },
+  {
+   "vo": "Twenty twenty-nine. In football, that is practically a pension plan.",
+   "card": "A pension plan",
+   "sfx": null,
+   "footage": "Tonda Eckert Southampton sideline"
+  },
+  {
+   "vo": "Your mates will never guess this. Match news and betting tips at aboutfootball dot UK.",
+   "card": "aboutfootball.UK",
+   "sfx": null,
+   "footage": "end card"
+  }
+ ],
+ "chars": 686,
+ "est_seconds": 39,
+ "footage_terms": [
+  "Southampton Spygate Eckert",
+  "Tonda Eckert press conference Southampton",
+  "Hull City play-off final Championship 2026 highlights",
+  "Southampton Middlesbrough play-off semi-final highlights"
+ ],
+ "inserts": [
+  {
+   "after_line": 1,
+   "story": "Setup: a paper cut-out Eckert signs a contract on a tiny cardboard desk. Gag: the page keeps unrolling past the desk, down the steps and out of the stadium gate. Twist: a cut-out postman walks along it with a flag, still reading, and gets to 2029 at sunset.",
+   "characters": "Generic cut-out postman; caricature of Tonda Eckert",
+   "seconds": 3
+  },
+  {
+   "after_line": 4,
+   "story": "Setup: a cut-out owner in a woolly jumper hugs a cut-out Eckert. Gag: the hug lasts so long that a cut-out clock spins and a cobweb grows between them. Twist: a cut-out cleaner sweeps the cobweb away and the hug is still going.",
+   "characters": "Generic cut-out owner and cleaner; caricature of Tonda Eckert",
+   "seconds": 3
+  },
+  {
+   "after_line": 6,
+   "story": "Setup: a cut-out Eckert opens a tiny paper retirement-party banner. Gag: it says 'Pension plan' and a cut-out accountant hands him a calculator. Twist: the calculator shows 2029 and it plays a happy jingle.",
+   "characters": "Generic cut-out accountant; caricature of Tonda Eckert",
+   "seconds": 3
+  }
+ ],
+ "facts_used": [
+  "Southampton gave head coach Tonda Eckert a new contract running to 2029 on 20 November (ev0062)",
+  "Southampton were thrown out of the 2026 Championship play-off final in May and docked four points this season after admitting EFL rule breaches over spying on opponents (ev0062)",
+  "Owner Dragan Solak had backed Eckert throughout (ev0062)",
+  "Middlesbrough lost the play-off final 1-0 to Hull City on 23 May (ev0062)"
+ ],
+ "comic_score": 6,
+ "notes": "Comic, 3 inserts (zero-based after_line), southpark_cutout style. Guide forbids legal troubles as joke material, so the play-off removal and the four-point deduction are reported neutrally, in one line each, with no gag. Jokes target only the contract length, the owner's backing and Wembley. Insert characters are generic cut-outs and caricatures, no logos, no spy or rule-breach gags."
+}

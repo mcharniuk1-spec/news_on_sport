@@ -1,0 +1,70 @@
+{
+ "no": 5,
+ "subject": "Fabio Cannavaro",
+ "title": "Cannavaro's dream and the two-goal lead",
+ "voice": "EL_B",
+ "comic": false,
+ "style": null,
+ "lines": [
+  {
+   "vo": "Cannavaro dreams of Italy. His team just threw away a two-goal lead.",
+   "card": "Dream vs reality",
+   "sfx": null,
+   "footage": "Uzbekistan v Russia Tashkent match highlights"
+  },
+  {
+   "vo": "Uzbekistan led Russia two-nil. Russia scored three in nine minutes and won. Quicker than an espresso.",
+   "card": "2-0 up, lost 3-2",
+   "sfx": null,
+   "footage": "Uzbekistan v Russia 2026 goals and reaction"
+  },
+  {
+   "vo": "Five days later, Esanov scored twice in Doha. Uzbekistan beat Saudi Arabia two-one.",
+   "card": "Esanov double, Doha",
+   "sfx": null,
+   "footage": "Saudi Arabia 1-2 Uzbekistan highlights"
+  },
+  {
+   "vo": "Cannavaro sometimes prefers equal or fewer men. More spirit, he says. Bold theory.",
+   "card": "Fewer men, more spirit",
+   "sfx": null,
+   "footage": "Cannavaro post-match press conference clip"
+  },
+  {
+   "vo": "He calls the job a quick Neapolitan coffee, about ten days. Contract: autumn twenty twenty-seven. Slow barista.",
+   "card": "Contract to autumn 2027",
+   "sfx": null,
+   "footage": "Cannavaro Sky Italia interview clip"
+  },
+  {
+   "vo": "His dream job is Italy. For now, Uzbekistan is the audition.",
+   "card": "Dream job: Italy",
+   "sfx": "record scratch",
+   "footage": "Cannavaro Uzbekistan coach sideline clips"
+  },
+  {
+   "vo": "Think you can call the next one? Betting tips, news and predictions at aboutfootball dot UK.",
+   "card": "aboutfootball.UK",
+   "sfx": null,
+   "footage": "end card, no footage"
+  }
+ ],
+ "chars": 597,
+ "est_seconds": 33,
+ "footage_terms": [
+  "Uzbekistan Russia 2026 highlights",
+  "Saudi Arabia Uzbekistan Esanov goals",
+  "Cannavaro Uzbekistan press conference",
+  "Cannavaro Uzbekistan national team"
+ ],
+ "inserts": [],
+ "facts_used": [
+  "Uzbekistan led Russia 2-0 (own goal 5', Karimov 46'), then lost 3-2; Russia scored three in nine minutes (bo pack recent_news 2026-11-12)",
+  "Saudi Arabia 1-2 Uzbekistan in Doha, 17 Nov 2026; Esanov scored 19' and 35' (bo pack recent_news 2026-11-17)",
+  "Cannavaro: sometimes prefers equal or fewer men, players show more spirit (bo pack recent_news 2026-11-18)",
+  "Contract runs to autumn 2027 (bo pack recent_news 2026-11-11); national-team job like a Neapolitan coffee, about ten days (bo pack recent_news 2026-11-06, Sky Italia)",
+  "My dream is to coach Italy (bo pack recent_news 2026-11-06)"
+ ],
+ "comic_score": 4,
+ "notes": "Non-comic, so no inserts. Part A uses newest stories. Russia and Iran are match opponents only: no jokes about countries, war or sanctions. The reported Liga MX/MLS agency story is not used (reported, not confirmed). Russia's three goals (70', 75', 79') are from the pack, so the spoken line says nine minutes. Punch-up pass: coffee/espresso callback only; jokes target the scoreline and his own quotes, never countries or war. No new facts."
+}

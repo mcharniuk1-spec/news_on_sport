@@ -1,0 +1,96 @@
+{
+  "no": 27,
+  "subject": "Ronaldo Nazario (R9)",
+  "title": "R9: promoted after losing, and a fake goal",
+  "voice": "kokoro",
+  "comic": true,
+  "style": "us_comic_book",
+  "lines": [
+    {
+      "vo": "Lost two-nil and still promoted? Welcome to Ronaldo's business world.",
+      "card": "Lost 2-0, promoted",
+      "sfx": "record scratch",
+      "footage": "Inter de Limeira celebrating on the pitch, clean Serie C feed"
+    },
+    {
+      "vo": "Ronaldo is an investor in Inter de Limeira, and the maths gets strange.",
+      "card": "Investor in Limeira",
+      "sfx": null,
+      "footage": "Ronaldo at a press event, suit, neutral background"
+    },
+    {
+      "vo": "They lost nil-two to Ferroviaria, yet went up on a one-goal margin. Their first Serie B place in thirty-five years.",
+      "card": "Thirty-five years",
+      "sfx": "crowd cheer",
+      "footage": "Inter de Limeira fans and stadium, promotion celebration, no burned-in captions"
+    },
+    {
+      "vo": "This week a viral video showed a Ronaldo wonder goal. The fact check says it is AI. Two hundred and fifty-seven thousand likes. Fake goal, real applause.",
+      "card": "Fake wonder goal",
+      "sfx": "robot beep",
+      "footage": "The viral AI clip with a fact-check caption on screen, or a generic AI-art frame"
+    },
+    {
+      "vo": "At fifty, he runs a beach club with a twenty-five-thousand square-metre artificial beach. Tennis memberships cost 1.15 million reais each. Serve, volley, or remortgage.",
+      "card": "Artificial beach",
+      "sfx": null,
+      "footage": "Beach club aerial or wave-machine shot, neutral, no logos"
+    },
+    {
+      "vo": "His charity auction on Tuesday offers a tennis game with Ronaldo himself. No tackling, presumably.",
+      "card": "Tennis with Ronaldo",
+      "sfx": "auction gavel",
+      "footage": "Ronaldo playing tennis, clean club or event footage"
+    },
+    {
+      "vo": "He sold Cruzeiro. He sold Valladolid. Now he is investing in another club. Old habits.",
+      "card": "Sold, sold, invested",
+      "sfx": null,
+      "footage": "Ronaldo at a stadium, arms spread in celebration, clean archive"
+    },
+    {
+      "vo": "Want the next story before it breaks? Betting tips, news and predictions at aboutfootball dot UK.",
+      "card": "aboutfootball.UK",
+      "sfx": null,
+      "footage": "Closing card with site name, no footage"
+    }
+  ],
+  "chars": 857,
+  "est_seconds": 50,
+  "footage_terms": [
+    "Ronaldo Nazario Fenomeno interview 2026",
+    "Inter de Limeira Ferroviaria Serie C 2026 highlights",
+    "Ronaldo Nazario tennis charity auction",
+    "Ronaldo Fenomeno Ballon d'Or 2026 London Palladium"
+  ],
+  "inserts": [
+    {
+      "after_line": 2,
+      "story": "Setup: a cartoon Serie B banner unrolls over a stadium of tiny fans. Gag: a caricature R9 holds up a calculator showing '0-2' and shrugs. Twist: the scoreboard flashes 'PROMOTED' and the calculator quietly hides.",
+      "characters": "Caricature of Ronaldo Nazario R9 (no photo); generic cartoon fans",
+      "seconds": 2
+    },
+    {
+      "after_line": 3,
+      "story": "Setup: a cartoon social-media screen with a heart counter spinning wildly. Gag: a stylised robot dribbles past three cartoon defenders, then a caricature R9 walks in holding a 'FAKE' stamp. Twist: the robot asks him for a thumbs-up anyway.",
+      "characters": "Caricature of Ronaldo Nazario R9 (no photo); generic robot and cartoon defenders",
+      "seconds": 2
+    },
+    {
+      "after_line": 4,
+      "story": "Setup: a cartoon beach with a surfboard propped on a tennis court. Gag: a caricature R9 surfs a wave made of tennis balls. Twist: the lifeguard is a cartoon robot holding a price tag reading '1.15 million', and the wave politely waits for payment.",
+      "characters": "Caricature of Ronaldo Nazario R9 (no photo); generic robot lifeguard",
+      "seconds": 2
+    }
+  ],
+  "facts_used": [
+    "Inter de Limeira lost 0-2 to Ferroviaria and went up on a one-goal margin; first Serie B place since 1991 (35 years) - https://atarde.com.br/esportes/saf-com-ronaldo-e-roberto-carlos-sobe-apos-35-anos-e-mira-elite-1405713",
+    "SAF: investors hold 80%, R$450m+ over ten years; Ronaldo among investors; Serie A goal within up to eight seasons - https://tribunadosertao.com.br/esportes/2026/10/19/1000768-ronaldo-e-roberto-carlos-assinam-saf-de-tradicional-clube-paulista",
+    "Viral AI 'wonder goal' video, 257,000+ likes, origin traced to an AI-scene profile - https://www.brasileirao.com.br/video-de-ronaldo-fenomeno-viraliza-com-golaco-mas-origem-revela-criacao-por-ia?completa=1",
+    "Reserva Beach Club: 25,000 m2 artificial beach; tennis club sells 300 memberships at R$1.15m - https://maquinadoesporte.com.br/?p=243087",
+    "Galacticos charity auction on 24 Nov with a tennis game with Ronaldo - https://www.dgabc.com.br/Noticia/4368011/leilao-de-ronaldo-tera-raquete-autografada-por-joao-fonseca-e-jogo-de-tenis-com-fenomeno",
+    "Sold Cruzeiro (Apr 2024) and Real Valladolid stake (2025) - https://maquinadoesporte.com.br/?p=243087"
+  ],
+  "comic_score": 8,
+  "notes": "Ronaldo is described as an investor in the Inter de Limeira SAF, not an owner. The AI video is named as fake per the fact check (La Republica), not as a Ronaldo quote. 'Fake goal, real applause' and 'old habits' are opinion jokes on likes and sales. 'Remortgage' is a joke on the R$1.15m membership price, not a fee claim. The court case and the Liv Drinks debt are left out completely. The Paysandu/STJD challenge is pending and is not mentioned. Insert after_line values are 0-based."
+}

@@ -1,0 +1,89 @@
+{
+  "no": 35,
+  "subject": "Drone films 12 minutes of Pochettino's first Man United training session",
+  "title": "The drone that saw too much",
+  "voice": "EL_C",
+  "comic": true,
+  "style": "looney_slapstick",
+  "lines": [
+    {
+      "vo": "Eight million views for a session meant to be secret.",
+      "card": "8 million views",
+      "sfx": null,
+      "footage": "drone shot over Carrington training ground, generic cartoon insert"
+    },
+    {
+      "vo": "Pochettino's first United training, filmed by a drone. Top secret, now trending.",
+      "card": "First session",
+      "sfx": "whirring drone",
+      "footage": "Pochettino first training Manchester United"
+    },
+    {
+      "vo": "Twelve minutes of tactical drills, filmed from above. Finally, something United could not mark.",
+      "card": "12 minutes",
+      "sfx": null,
+      "footage": "Manchester United Carrington training ground"
+    },
+    {
+      "vo": "The operator apologised and took it down. Legal flight, unethical filming, they said.",
+      "card": "Legal, unethical",
+      "sfx": null,
+      "footage": "Manchester United drone training Carrington"
+    },
+    {
+      "vo": "Liverpool's Andoni Iraola said it should not be legal. Even rivals want drones grounded.",
+      "card": "Iraola's view",
+      "sfx": null,
+      "footage": "Iraola drone footage Manchester United"
+    },
+    {
+      "vo": "United will not sue this time, but may next time. Pochettino's first game is at Anfield on the twenty-second.",
+      "card": "Anfield, the 22nd",
+      "sfx": null,
+      "footage": "Liverpool Manchester United preview Anfield"
+    },
+    {
+      "vo": "Your mates will never guess this. Betting tips and news at aboutfootball dot UK.",
+      "card": "aboutfootball.UK",
+      "sfx": null,
+      "footage": "end card"
+    }
+  ],
+  "chars": 590,
+  "est_seconds": 33,
+  "footage_terms": [
+    "Pochettino Manchester United first training",
+    "Manchester United Carrington training",
+    "Liverpool Manchester United preview Anfield",
+    "Iraola drone footage Manchester United"
+  ],
+  "inserts": [
+    {
+      "after_line": 3,
+      "story": "A cartoon coach draws a secret play on a whiteboard while a tiny drone rises behind him. He spins the board away, the drone spins with it, and he ends up twirling like a ballerina. Twist: the drone's camera shows the board was upside down all along.",
+      "characters": "generic cartoon coach caricature, slapstick drone, whiteboard",
+      "seconds": 3
+    },
+    {
+      "after_line": 5,
+      "story": "A cartoon rival coach swings a giant butterfly net at the drone over a stadium wall. The net catches a fat pigeon, and the pigeon drags him down the street. Twist: the drone films the whole chase and gets more views than the training.",
+      "characters": "generic cartoon rival coach caricature, slapstick drone, cartoon pigeon, butterfly net",
+      "seconds": 3
+    },
+    {
+      "after_line": 6,
+      "story": "Two cartoon players spot the drone. One waves, the other hides behind a football. The ball rolls away and leaves him exposed. Twist: he pulls out a tiny sign reading 'Like and subscribe'.",
+      "characters": "two generic cartoon players, slapstick drone, football, tiny sign",
+      "seconds": 3
+    }
+  ],
+  "facts_used": [
+    "About 12 minutes of tactical drills filmed at Carrington on 19 November; reposts viewed more than eight million times (ev0028)",
+    "Operator apologised and removed the video, saying the flight was legal but filming the session was unethical (ev0028)",
+    "United do not plan legal action now, but may act if it happens again (ev0028)",
+    "Liverpool coach Andoni Iraola said such filming should not be legal (ev0028)",
+    "Pochettino's first game in charge is at Anfield on 22 November (ev0028 background)"
+  ],
+  "comic_score": 8,
+  "notes": "Comic: exactly 3 inserts, generic cartoon characters only, no real-person likeness, no logos. The drone operator is a private individual, so the script does not name or mock them; the 'legal flight, unethical filming' line is the operator's own reported statement. insert after_line uses 1-based line numbers. Source: ev0028. Carrington date from source."
+}

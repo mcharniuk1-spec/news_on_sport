@@ -1,0 +1,83 @@
+{
+ "no": 80,
+ "subject": "Inter beat Como 2-0 to trail Lazio by one point",
+ "title": "Inter beat Como, Lazio one point ahead",
+ "voice": "EL_C",
+ "comic": false,
+ "style": null,
+ "lines": [
+  {
+   "vo": "Fifty-seven percent possession, one shot on target, and no points.",
+   "card": "57% possession",
+   "sfx": null,
+   "footage": "Como possession, Inter San Siro"
+  },
+  {
+   "vo": "Como had the ball. Inter had the goals. Inter won two-nil at San Siro.",
+   "card": "Inter 2-0 Como",
+   "sfx": null,
+   "footage": "Inter Como 2-0 highlights"
+  },
+  {
+   "vo": "Pio Esposito scored in the twelfth minute. Marcus Thuram doubled it in the nineteenth.",
+   "card": "Two goals by minute 19",
+   "sfx": null,
+   "footage": "Pio Esposito goal Como"
+  },
+  {
+   "vo": "Possession is not a scoreboard. Como had one shot on target.",
+   "card": "One shot on target",
+   "sfx": null,
+   "footage": "Inter Como Serie A Thuram goal"
+  },
+  {
+   "vo": "Meanwhile, Lazio's six-game winning run ended in a one-one draw at Napoli.",
+   "card": "Lazio stumble",
+   "sfx": null,
+   "footage": "Napoli Lazio 1-1 highlights"
+  },
+  {
+   "vo": "Six wins in a row for Lazio, two goals for Inter, one point between them. Suddenly the table is interesting.",
+   "card": "One point back",
+   "sfx": null,
+   "footage": "Inter San Siro celebration"
+  },
+  {
+   "vo": "Want the next story before it breaks? Betting tips, news and predictions at aboutfootball dot UK.",
+   "card": "Match news and predictions",
+   "sfx": null,
+   "footage": "Inter 2-0 Como highlights"
+  }
+ ],
+ "chars": 561,
+ "est_seconds": 39,
+ "footage_terms": [
+  "Inter 2-0 Como highlights",
+  "Pio Esposito goal Como",
+  "Inter Como Serie A Thuram goal",
+  "Napoli Lazio 1-1 highlights",
+  "Fabregas Como Inter reaction"
+ ],
+ "inserts": [
+  {
+   "after_line": 0,
+   "story": "A cartoon pie chart shows 57 percent possession and one shot. Gag: the team holds a ball with both arms and does not shoot. Twist: a rival taps in a goal and the pie chart laughs.",
+   "characters": "generic cartoon team and goalkeeper",
+   "seconds": 2
+  },
+  {
+   "after_line": 2,
+   "story": "A cartoon team celebrates a late win with a pile of gold coins. Gag: the coins spill across the floor. Twist: the pile spells a very large number two.",
+   "characters": "generic cartoon team",
+   "seconds": 2
+  }
+ ],
+ "facts_used": [
+  "Inter 2-0 Como at San Siro: Pio Esposito 12th minute, Marcus Thuram 19th (news 109; skysports.com debrief page in url field)",
+  "Como had 57 percent possession but one shot on target, per ESPN match data (news 109)",
+  "Inter one point behind leaders Lazio; Lazio's six-game winning run ended in a 1-1 draw at Napoli (news 109)",
+  "Background: Como coached by Cesc Fabregas in his first senior job (news 109 background)"
+ ],
+ "comic_score": 5,
+ "notes": "Punched up: 'Como had the ball, Inter had the goals', rule-of-three numbers closer (six, two, one). Fabregas background not used. EL_C, vo 600 or less. Non-comic, no inserts."
+}

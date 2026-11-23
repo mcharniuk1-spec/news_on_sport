@@ -1,0 +1,762 @@
+{
+ "no": 61,
+ "style": "STRIP-MINIMAL",
+ "prop": "scarf",
+ "cast": {
+  "kid": {
+   "role": "kid",
+   "shirt": "#e8a33d",
+   "hair": "#6b4a2a"
+  },
+  "hurzeler": {
+   "role": "coach",
+   "shirt": "#3d7ec9",
+   "hair": "#2b2b3a"
+  },
+  "poch": {
+   "role": "coach",
+   "shirt": "#d9d9e3",
+   "hair": "#8a6a48"
+  },
+  "ref": {
+   "role": "referee"
+  }
+ },
+ "sequences": {
+  "s01": {
+   "type": "HOOK",
+   "q": "Would you turn down United?",
+   "prop": "door",
+   "emote": "smug",
+   "board": "typed",
+   "role": "coach"
+  },
+  "s02": {
+   "type": "COMIC",
+   "bg": "office",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "kid",
+       "x": 270,
+       "y": 1440,
+       "scale": 1.55,
+       "pose": "present",
+       "emote": "happy"
+      },
+      {
+       "id": "hurzeler",
+       "x": 810,
+       "y": 1440,
+       "scale": 1.25,
+       "pose": "idle",
+       "emote": "neutral",
+       "look": "clipboard"
+      }
+     ],
+     "props": [
+      {
+       "kind": "clipboard",
+       "x": 550,
+       "y": 860,
+       "scale": 2.4,
+       "label": "Shortlist"
+      },
+      {
+       "kind": "cross",
+       "x": 550,
+       "y": 740,
+       "scale": 0.9,
+       "anim": "pop"
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.42,
+     "actors": [
+      {
+       "id": "kid",
+       "x": 270,
+       "y": 1440,
+       "scale": 1.55,
+       "pose": "point",
+       "emote": "smug"
+      },
+      {
+       "id": "hurzeler",
+       "x": 810,
+       "y": 1440,
+       "scale": 1.25,
+       "pose": "idle",
+       "emote": "neutral",
+       "look": "clipboard"
+      }
+     ],
+     "props": [
+      {
+       "kind": "clipboard",
+       "x": 550,
+       "y": 860,
+       "scale": 2.4,
+       "label": "Shortlist"
+      },
+      {
+       "kind": "cross",
+       "x": 550,
+       "y": 740,
+       "scale": 0.9
+      },
+      {
+       "kind": "cross",
+       "x": 550,
+       "y": 880,
+       "scale": 0.9,
+       "anim": "pop"
+      }
+     ],
+     "cam": "push"
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.42,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "kid",
+       "x": 270,
+       "y": 1440,
+       "scale": 1.55,
+       "pose": "cheer",
+       "emote": "smug"
+      },
+      {
+       "id": "hurzeler",
+       "x": 810,
+       "y": 1440,
+       "scale": 1.25,
+       "pose": "idle",
+       "emote": "sweat",
+       "look": "clipboard"
+      }
+     ],
+     "props": [
+      {
+       "kind": "clipboard",
+       "x": 550,
+       "y": 860,
+       "scale": 2.4,
+       "label": "Shortlist"
+      },
+      {
+       "kind": "cross",
+       "x": 550,
+       "y": 740,
+       "scale": 0.9
+      },
+      {
+       "kind": "cross",
+       "x": 550,
+       "y": 880,
+       "scale": 0.9
+      },
+      {
+       "kind": "cross",
+       "x": 550,
+       "y": 830,
+       "scale": 1.7,
+       "anim": "pop"
+      }
+     ],
+     "sfx": {
+      "text": "BANG",
+      "x": 550,
+      "y": 470,
+      "r": 130
+     }
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "kid",
+       "x": 270,
+       "y": 1440,
+       "scale": 1.55,
+       "pose": "shock",
+       "emote": "shock"
+      },
+      {
+       "id": "hurzeler",
+       "x": 810,
+       "y": 1440,
+       "scale": 1.25,
+       "pose": "thumbsup",
+       "emote": "happy"
+      }
+     ],
+     "props": [
+      {
+       "kind": "clipboard",
+       "x": 550,
+       "y": 860,
+       "scale": 2.4,
+       "label": "Shortlist"
+      },
+      {
+       "kind": "cross",
+       "x": 550,
+       "y": 740,
+       "scale": 0.9
+      },
+      {
+       "kind": "cross",
+       "x": 550,
+       "y": 880,
+       "scale": 0.9
+      },
+      {
+       "kind": "cross",
+       "x": 550,
+       "y": 830,
+       "scale": 1.7
+      },
+      {
+       "kind": "scarf",
+       "x": 810,
+       "y": 1068,
+       "scale": 0.9,
+       "anim": "drop"
+      }
+     ],
+     "fx": [
+      {
+       "kind": "sparkle",
+       "x": 810,
+       "y": 1068
+      }
+     ],
+     "sfx": {
+      "text": "DING",
+      "x": 810,
+      "y": 460,
+      "r": 120
+     }
+    }
+   ]
+  },
+  "s03": {
+   "type": "STATS",
+   "items": [
+    {
+     "icon": "scarf",
+     "value": "1",
+     "label": "Fully committed"
+    },
+    {
+     "icon": "medal",
+     "value": "2",
+     "label": "Second place"
+    },
+    {
+     "icon": "calendar",
+     "value": "2024",
+     "label": "In 2024"
+    }
+   ]
+  },
+  "s04": {
+   "type": "COMIC",
+   "bg": "pitch",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "hurzeler",
+       "x": 250,
+       "y": 1440,
+       "scale": 1.15,
+       "pose": "idle",
+       "emote": "smug",
+       "label": "Hurzeler"
+      },
+      {
+       "id": "poch",
+       "x": 760,
+       "y": 1440,
+       "scale": 1.55,
+       "pose": "present",
+       "emote": "smug",
+       "flip": true,
+       "label": "Pochettino",
+       "hold": {
+        "kind": "clipboard",
+        "hand": "L",
+        "scale": 0.8
+       }
+      },
+      {
+       "id": "ref",
+       "x": 520,
+       "y": 1440,
+       "scale": 1.0,
+       "pose": "idle",
+       "emote": "neutral"
+      }
+     ],
+     "props": [
+      {
+       "kind": "pen",
+       "x": 510,
+       "y": 640,
+       "scale": 1.8,
+       "label": "Rumours",
+       "anim": "drop"
+      },
+      {
+       "kind": "scarf",
+       "x": 250,
+       "y": 1100,
+       "scale": 0.75
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.52,
+     "actors": [
+      {
+       "id": "hurzeler",
+       "x": 250,
+       "y": 1440,
+       "scale": 1.15,
+       "pose": "idle",
+       "emote": "smug"
+      },
+      {
+       "id": "poch",
+       "x": 760,
+       "y": 1440,
+       "scale": 1.55,
+       "pose": "headscratch",
+       "emote": "sweat",
+       "flip": true,
+       "hold": {
+        "kind": "clipboard",
+        "hand": "L",
+        "scale": 0.8
+       }
+      },
+      {
+       "id": "ref",
+       "x": 520,
+       "y": 1440,
+       "scale": 1.0,
+       "pose": "idle",
+       "emote": "neutral"
+      }
+     ],
+     "props": [
+      {
+       "kind": "pen",
+       "x": 510,
+       "y": 640,
+       "scale": 1.8,
+       "label": "Rumours",
+       "anim": "shake",
+       "rot": -25,
+       "face": "sad"
+      },
+      {
+       "kind": "scarf",
+       "x": 250,
+       "y": 1100,
+       "scale": 0.75
+      }
+     ],
+     "bubble": {
+      "who": "poch",
+      "icon": "question"
+     },
+     "cam": "push"
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.52,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "hurzeler",
+       "x": 250,
+       "y": 1440,
+       "scale": 1.15,
+       "pose": "present",
+       "emote": "smug",
+       "hold": {
+        "kind": "pen",
+        "hand": "R",
+        "scale": 0.9
+       }
+      },
+      {
+       "id": "poch",
+       "x": 760,
+       "y": 1440,
+       "scale": 1.55,
+       "pose": "facepalm",
+       "emote": "sweat",
+       "flip": true
+      },
+      {
+       "id": "ref",
+       "x": 520,
+       "y": 1440,
+       "scale": 1.0,
+       "pose": "shrug",
+       "emote": "sweat"
+      }
+     ],
+     "props": [
+      {
+       "kind": "scarf",
+       "x": 250,
+       "y": 1100,
+       "scale": 0.75
+      }
+     ],
+     "bubble": {
+      "who": "hurzeler",
+      "icon": "cross"
+     },
+     "sfx": {
+      "text": "DING",
+      "x": 520,
+      "y": 470,
+      "r": 120
+     }
+    }
+   ]
+  },
+  "s05": {
+   "type": "NEWS",
+   "name": "Fabian Hurzeler",
+   "fact": "Brighton are second in the Premier League",
+   "ticker": "Second in the league",
+   "icons": [
+    "shirt",
+    "medal",
+    "padlock"
+   ],
+   "role": "coach",
+   "actor": "hurzeler"
+  },
+  "s06": {
+   "type": "COMIC",
+   "bg": "dressing-room",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "hurzeler",
+       "x": 300,
+       "y": 1440,
+       "scale": 1.4,
+       "pose": "think",
+       "emote": "neutral",
+       "look": "trophy"
+      }
+     ],
+     "props": [
+      {
+       "kind": "shelf",
+       "x": 760,
+       "y": 800,
+       "scale": 2.7
+      },
+      {
+       "kind": "trophy",
+       "x": 640,
+       "y": 690,
+       "scale": 1.0
+      },
+      {
+       "kind": "trophy",
+       "x": 880,
+       "y": 690,
+       "scale": 1.0
+      },
+      {
+       "kind": "podium-box",
+       "x": 760,
+       "y": 735,
+       "scale": 0.9,
+       "label": "Second place"
+      },
+      {
+       "kind": "scarf",
+       "x": 300,
+       "y": 1030,
+       "scale": 0.85
+      },
+      {
+       "kind": "clipboard",
+       "x": 910,
+       "y": 1300,
+       "scale": 1.2,
+       "rot": 8
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.42,
+     "actors": [
+      {
+       "id": "hurzeler",
+       "x": 300,
+       "y": 1440,
+       "scale": 1.4,
+       "pose": "point",
+       "emote": "happy",
+       "look": "trophy"
+      }
+     ],
+     "props": [
+      {
+       "kind": "shelf",
+       "x": 760,
+       "y": 800,
+       "scale": 2.7
+      },
+      {
+       "kind": "trophy",
+       "x": 640,
+       "y": 690,
+       "scale": 1.0
+      },
+      {
+       "kind": "trophy",
+       "x": 880,
+       "y": 690,
+       "scale": 1.0
+      },
+      {
+       "kind": "podium-box",
+       "x": 760,
+       "y": 735,
+       "scale": 0.9,
+       "label": "Second place"
+      },
+      {
+       "kind": "scarf",
+       "x": 300,
+       "y": 1030,
+       "scale": 0.85
+      },
+      {
+       "kind": "clipboard",
+       "x": 910,
+       "y": 1300,
+       "scale": 1.2,
+       "rot": 8
+      }
+     ],
+     "cam": "push"
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.42,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "hurzeler",
+       "x": 300,
+       "y": 1440,
+       "scale": 1.4,
+       "pose": "present",
+       "emote": "smug",
+       "look": "podium-box"
+      }
+     ],
+     "props": [
+      {
+       "kind": "shelf",
+       "x": 760,
+       "y": 800,
+       "scale": 2.7
+      },
+      {
+       "kind": "trophy",
+       "x": 640,
+       "y": 690,
+       "scale": 1.0
+      },
+      {
+       "kind": "trophy",
+       "x": 880,
+       "y": 690,
+       "scale": 1.0
+      },
+      {
+       "kind": "podium-box",
+       "x": 760,
+       "y": 735,
+       "scale": 0.9,
+       "label": "Second place"
+      },
+      {
+       "kind": "scarf",
+       "x": 300,
+       "y": 1030,
+       "scale": 0.85
+      },
+      {
+       "kind": "clipboard",
+       "x": 910,
+       "y": 1300,
+       "scale": 1.2,
+       "rot": 8
+      }
+     ],
+     "fx": [
+      {
+       "kind": "sparkle",
+       "x": 760,
+       "y": 735
+      }
+     ]
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "hurzeler",
+       "x": 300,
+       "y": 1440,
+       "scale": 1.4,
+       "pose": "cheer",
+       "emote": "smug"
+      }
+     ],
+     "props": [
+      {
+       "kind": "shelf",
+       "x": 760,
+       "y": 800,
+       "scale": 2.7
+      },
+      {
+       "kind": "trophy",
+       "x": 640,
+       "y": 690,
+       "scale": 1.0
+      },
+      {
+       "kind": "trophy",
+       "x": 880,
+       "y": 690,
+       "scale": 1.0
+      },
+      {
+       "kind": "podium-box",
+       "x": 760,
+       "y": 735,
+       "scale": 0.9,
+       "label": "Second place"
+      },
+      {
+       "kind": "scarf",
+       "x": 300,
+       "y": 1030,
+       "scale": 0.85
+      },
+      {
+       "kind": "clipboard",
+       "x": 910,
+       "y": 1300,
+       "scale": 1.2,
+       "rot": 8
+      },
+      {
+       "kind": "lamp",
+       "x": 760,
+       "y": 420,
+       "scale": 1.6,
+       "anim": "drop"
+      }
+     ],
+     "sfx": {
+      "text": "DING",
+      "x": 450,
+      "y": 460,
+      "r": 120
+     },
+     "fx": [
+      {
+       "kind": "sparkle",
+       "x": 760,
+       "y": 735
+      }
+     ]
+    }
+   ]
+  },
+  "s07": {
+   "type": "INTERVIEW",
+   "label": "REPORTER ASKS",
+   "bubble": "Are you staying at Brighton?",
+   "answer": {
+    "icon": "scarf",
+    "gesture": "thumbsup",
+    "emote": "smug"
+   },
+   "subject": "Fabian Hurzeler",
+   "subject_cast": "hurzeler",
+   "subject_role": "coach",
+   "reporter_role": "reporter"
+  },
+  "s08": {
+   "type": "PROVOC",
+   "q": "Brighton or United for him?",
+   "a": "Brighton",
+   "b": "United",
+   "split": [
+    68,
+    32
+   ],
+   "mood": "cheeky"
+  }
+ }
+}

@@ -1,0 +1,87 @@
+{
+ "no": 95,
+ "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/095_bruno_guimaraes_returns_to_st_james.mp4",
+ "total": 50.233333333333334,
+ "outro_start": 42.5,
+ "cover": true,
+ "seq": [
+  {
+   "id": "s01",
+   "kind": "HOOK",
+   "start": 0.1,
+   "end": 1.8666666666666667,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/095/s01.mp4",
+   "clip_dur": 1.767,
+   "frames": 42
+  },
+  {
+   "id": "s02",
+   "kind": "COMIC1",
+   "start": 6.966666666666667,
+   "end": 9.966666666666667,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/095/s02.mp4",
+   "clip_dur": 3.0,
+   "frames": 72
+  },
+  {
+   "id": "s03",
+   "kind": "STATS",
+   "start": 15.533333333333333,
+   "end": 17.033333333333335,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/095/s03.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s04",
+   "kind": "COMIC2",
+   "start": 21.133333333333333,
+   "end": 24.4,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/095/s04.mp4",
+   "clip_dur": 3.267,
+   "frames": 78
+  },
+  {
+   "id": "s05",
+   "kind": "PROVOC",
+   "start": 29.1,
+   "end": 30.6,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/095/s05.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s06",
+   "kind": "INTERVIEW",
+   "start": 36.1,
+   "end": 38.1,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/095/s06.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s07",
+   "kind": "NEWS",
+   "start": 40.4,
+   "end": 42.4,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/095/s07.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  }
+ ],
+ "missing": [],
+ "dropped": [],
+ "cards": [],
+ "caption_sprites": 94,
+ "whoosh": [
+  0.0,
+  6.866666666666667,
+  15.433333333333334,
+  21.03333333333333,
+  29.0,
+  36.0,
+  40.3,
+  42.4
+ ],
+ "shots": 15
+}

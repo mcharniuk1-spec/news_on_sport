@@ -1,0 +1,529 @@
+[
+  {
+    "headline": "Southampton extend Tonda Eckert's contract to 2029 despite the Spygate scandal",
+    "date": "2026-11-20",
+    "source_domain": "skysports.com",
+    "url": "https://www.skysports.com/football/news/13614334/southampton-boss-tonda-eckert-given-contract-extension-despite-spygate-controversy",
+    "entities": ["Southampton", "Tonda Eckert", "Dragan Solak", "Middlesbrough", "EFL"],
+    "facts": [
+      "Southampton gave head coach Tonda Eckert a new contract running to 2029.",
+      "The club was thrown out of the Championship play-off final in May and lost four points this season after admitting EFL rule breaches over spying on opponents.",
+      "The FA charged Eckert with three breaches of Rule E3.1; in September he got a suspended six-week ban and a fine, and owner Dragan Solak says the club is confident he has learned from it."
+    ],
+    "background": "In May, Middlesbrough complained that a Southampton staff member spied on their training before the play-off semi-final; Southampton won the second leg 2-1 after extra time, were then removed from the final, and Hull City beat Middlesbrough at Wembley.",
+    "angle": "scandal",
+    "sensitive": false,
+    "footage_terms": ["Southampton Spygate Eckert", "Tonda Eckert press conference Southampton", "Southampton Middlesbrough play-off semi-final highlights", "Hull City play-off final Championship 2026 highlights"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Tony Mowbray steps back from Blackburn Rovers because of health issues",
+    "date": "2026-11-17",
+    "source_domain": "skysports.com",
+    "url": "https://www.skysports.com/football/news/13613146/tony-mowbray-steps-down-as-blackburn-rovers-head-coach-due-to-health-issues",
+    "entities": ["Tony Mowbray", "Blackburn Rovers", "Damien Johnson", "Mike Dodds", "Burnley"],
+    "facts": [
+      "Tony Mowbray has stepped away from his Blackburn head coach job because of health problems.",
+      "He had been in charge since June, in his second spell at the club.",
+      "Blackburn are 13th, three points outside the play-offs, after a 2-1 win over West Ham before the international break; Damien Johnson and Mike Dodds will run the team against Burnley."
+    ],
+    "background": "Mowbray, 62, returned to coaching at West Brom last year after overcoming bowel cancer, and then took the Blackburn job.",
+    "angle": "coach",
+    "sensitive": true,
+    "footage_terms": ["Tony Mowbray Blackburn Rovers", "Tony Mowbray interview Blackburn 2026", "Blackburn Rovers 2-1 West Ham highlights", "Mowbray West Brom press conference"],
+    "confidence": "high"
+  },
+  {
+    "headline": "West Ham sack Nuno after 13 months and bring back Scott Parker",
+    "date": "2026-11-04",
+    "source_domain": "skysports.com",
+    "url": "https://www.skysports.com/football/news/13607834/west-ham-scott-parker-returns-to-east-london-after-15-years-to-succeed-nuno-espirito-santo-as-hammers-manager",
+    "entities": ["West Ham United", "Scott Parker", "Nuno Espirito Santo", "Mark Noble", "Championship"],
+    "facts": [
+      "West Ham dismissed Nuno on 3 November after just over 13 months and named Scott Parker, 46, on a 30-month contract.",
+      "Parker's first match was at Cardiff; West Ham were eighth, six points behind leaders Middlesbrough.",
+      "Parker had been out of work since leaving Burnley by mutual consent in April, and Mark Noble will work closely with him."
+    ],
+    "background": "Parker played 129 times for West Ham before leaving in August 2011, and has won promotion from the Championship three times: with Fulham, Bournemouth and Burnley. ESPN notes West Ham went down from the Premier League last season under Nuno and were expected to bounce straight back.",
+    "angle": "coach",
+    "sensitive": false,
+    "footage_terms": ["Scott Parker West Ham appointed head coach", "Scott Parker press conference West Ham", "Nuno Espirito Santo West Ham sacked", "West Ham Championship highlights November 2026"],
+    "confidence": "high"
+  },
+  {
+    "headline": "West Ham storm back from 3-0 down at Cardiff in Parker's first game",
+    "date": "2026-11-04",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50382463/west-ham-draw-cardiff-scott-parker-first-game",
+    "entities": ["West Ham United", "Cardiff City", "Scott Parker", "Jack Moylan", "Arne Engels", "Max Kilman", "Jarrod Bowen"],
+    "facts": [
+      "Cardiff led 3-0 at half-time, with Jack Moylan scoring a hat-trick before the 39th minute.",
+      "After Parker's half-time changes, Divine Mukasa pulled one back and Arne Engels scored his first West Ham goal.",
+      "Max Kilman headed in a Jarrod Bowen cross to make it 3-3, which kept West Ham in the last play-off place."
+    ],
+    "background": "Parker took over a day earlier after West Ham sacked Nuno Espirito Santo; West Ham were relegated from the Premier League last season and are expected to go straight back up.",
+    "angle": "viral",
+    "sensitive": false,
+    "footage_terms": ["Cardiff 3-3 West Ham highlights", "Jack Moylan hat-trick Cardiff West Ham", "Max Kilman equaliser Cardiff", "Scott Parker first game West Ham reaction"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Tom Brady leaves Birmingham City as minority owner",
+    "date": "2026-11-09",
+    "source_domain": "skysports.com",
+    "url": "https://www.skysports.com/football/news/13610387/tom-brady-leaves-birmingham-nfl-legend-and-minority-owner-makes-shock-departure-after-three-years",
+    "entities": ["Tom Brady", "Birmingham City", "Jay Stansfield", "John Eustace", "Swansea City"],
+    "facts": [
+      "Birmingham announced that Tom Brady is leaving his minority ownership role; no reason was given.",
+      "The club thanked him for three years of support and said it will build on that foundation.",
+      "The exit comes while Birmingham top the Championship, having won seven of their last nine, including 2-1 against Swansea."
+    ],
+    "background": "Brady, a seven-time Super Bowl winner, bought a stake of just over three per cent in August 2023; Birmingham were relegated that first season after sacking John Eustace, bounced back from League One, and finished 10th last season.",
+    "angle": "business",
+    "sensitive": false,
+    "footage_terms": ["Tom Brady Birmingham City", "Tom Brady leaves Birmingham", "Tom Brady St Andrews Birmingham stadium visit", "Birmingham City 2-1 Swansea highlights"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Birmingham go top under Chris Davies while Middlesbrough stall without Lankshear",
+    "date": "2026-11-13",
+    "source_domain": "skysports.com",
+    "url": "https://www.skysports.com/football/news/13611861/birmingham-lead-middlesbroughs-will-lankshear-reliance-and-west-ham-need-scott-parker-spark-championship-talking-points",
+    "entities": ["Birmingham City", "Chris Davies", "Jay Stansfield", "Middlesbrough", "Will Lankshear", "West Brom", "James Morrison", "Preston"],
+    "facts": [
+      "Birmingham lead the Championship, having won six of their last seven and lost only twice all season.",
+      "Middlesbrough have failed to score in their last two games since Will Lankshear (13 league goals) was injured; no other player has more than three.",
+      "Preston are bottom, seven points from safety, after their first win under Graham Alexander; West Brom are fifth under James Morrison."
+    ],
+    "background": "Birmingham finished 10th last season after winning promotion from League One, and Chris Davies has built a side that Sky analysts say now plays more directly with a settled back line.",
+    "angle": "win",
+    "sensitive": false,
+    "footage_terms": ["Birmingham City Championship highlights Stansfield", "Will Lankshear goal Middlesbrough", "Chris Davies Birmingham interview", "Championship talking points Birmingham top"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Conor Coady retires at 33, says he 'could have carried on'",
+    "date": "2026-11-06",
+    "source_domain": "skysports.com",
+    "url": "https://www.skysports.com/football/news/13608758/conor-coady-former-wolves-everton-leicester-defender-retires-at-the-age-of-33",
+    "entities": ["Conor Coady", "Wolves", "Liverpool", "Wrexham", "Charlton", "Mark Chapman"],
+    "facts": [
+      "Conor Coady has retired from professional football aged 33, saying he feels fit and could have played on.",
+      "He left Wrexham on 31 August by mutual consent, and his last match was a 3-1 defeat to Swansea on 2 May while on loan at Charlton.",
+      "He is co-hosting a new weekly podcast and YouTube show, The Football Dugout, with Sky Sports presenter Mark Chapman."
+    ],
+    "background": "Coady spent 15 years as a pro, starting at Liverpool; his longest spell was at Wolves (317 games, Championship winners in 2017/18), and he won 10 England caps, going to Euro 2020 and the 2022 World Cup squads.",
+    "angle": "history",
+    "sensitive": false,
+    "footage_terms": ["Conor Coady retires", "Conor Coady Wolves best moments", "Conor Coady England Euro 2020", "Conor Coady Football Dugout podcast"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Wrexham beat leaders Middlesbrough 2-0 but lose striker Sam Smith to a season-ending knee injury",
+    "date": "2026-11-04",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50383627/wrexham-middlesbrough-sam-smith-injury-championship",
+    "entities": ["Wrexham", "Middlesbrough", "Sam Smith", "George Thomason", "Oli Rathbone", "Phil Parkinson", "Ryan Reynolds", "Rob McElhenney"],
+    "facts": [
+      "Late goals from George Thomason and Oli Rathbone gave Wrexham a 2-0 win over Championship leaders Middlesbrough.",
+      "Striker Sam Smith tore an anterior cruciate ligament in the previous 1-0 loss at Sheffield United and is expected to miss about nine months.",
+      "Wrexham are 16th in the Championship, nearer the drop zone than the play-offs, after a harder season than expected."
+    ],
+    "background": "Last season Wrexham narrowly missed a fourth straight promotion under owners Ryan Reynolds and Rob McElhenney.",
+    "angle": "win",
+    "sensitive": true,
+    "footage_terms": ["Wrexham 2-0 Middlesbrough highlights", "Sam Smith injury Wrexham", "Phil Parkinson press conference Wrexham", "Wrexham Championship Ryan Reynolds Rob McElhenney"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Sheffield United beat Wrexham for the first time in 44 years",
+    "date": "2026-10-30",
+    "source_domain": "skysports.com",
+    "url": "https://www.skysports.com/football/sheff-utd-vs-wrexham/report/560648",
+    "entities": ["Sheffield United", "Wrexham", "Ben Brereton Diaz", "Chris Wilder", "Jordan Ayew"],
+    "facts": [
+      "Ben Brereton Diaz scored the only goal at Bramall Lane in the 30th minute, his third goal in three games against Wrexham.",
+      "It was Sheffield United's first league win over Wrexham since October 1982.",
+      "Wrexham had just one shot on target, in the 96th minute, are winless in five away games and have no Championship clean sheet since 5 September."
+    ],
+    "background": "Sheffield United are managed by Chris Wilder and moved up to 10th, a point off the play-offs, while Wrexham stayed 17th.",
+    "angle": "history",
+    "sensitive": false,
+    "footage_terms": ["Sheffield United 1-0 Wrexham highlights", "Ben Brereton Diaz goal Sheffield United Wrexham", "Chris Wilder post-match Wrexham", "Wrexham away form Championship 2026"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Cardiff win nine-goal thriller 5-4 against Burnley with a stoppage-time winner",
+    "date": "2026-11-07",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/report/_/gameId/401880169",
+    "entities": ["Cardiff City", "Burnley", "Alex Robertson", "Yousef Salech", "Jack Moylan", "Brian Barry-Murphy"],
+    "facts": [
+      "Cardiff were 4-1 down after Alex Robertson's own goal on 62 minutes, then scored four times to win 5-4.",
+      "Yousef Salech scored twice, Jack Moylan converted a penalty, and Robertson scored the winner in the fourth minute of stoppage time; his team-mates called him Kangaroo.",
+      "The win took Cardiff to 18 points, while Burnley, on 10 points, remain in the relegation zone."
+    ],
+    "background": "Burnley were tipped for promotion before the season; Cardiff are managed by Brian Barry-Murphy, and Robertson is a Socceroos midfielder who had an Achilles issue before the game.",
+    "angle": "viral",
+    "sensitive": false,
+    "footage_terms": ["Cardiff 5-4 Burnley highlights", "Alex Robertson winner Cardiff Burnley", "Cardiff Burnley nine goal thriller", "Barry-Murphy reaction Cardiff Burnley"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Burnley sack Nicky Hayen after only 12 Championship games",
+    "date": "2026-10-24",
+    "source_domain": "skysports.com",
+    "url": "https://www.skysports.com/football/news/13603332/burnley-nicky-hayen-sacked-after-thrashing-at-lincoln-with-clarets-in-championship-relegation-zone",
+    "entities": ["Burnley", "Nicky Hayen", "Lincoln City", "Bradford City"],
+    "facts": [
+      "Burnley ended Nicky Hayen's reign after only 12 Championship matches, following a 4-1 defeat at Lincoln.",
+      "He won just one league game, a 4-0 victory at Watford on 10 October, and had earlier lost a Carabao Cup tie to Bradford on penalties.",
+      "Burnley are third from bottom and share the weakest defensive record in the league despite being tipped for promotion."
+    ],
+    "background": "Belgian coach Hayen joined Burnley in the summer; the club's board acted after a poor start, and Hayen apologised to supporters after the Lincoln loss.",
+    "angle": "coach",
+    "sensitive": false,
+    "footage_terms": ["Nicky Hayen sacked Burnley", "Lincoln City 4-1 Burnley highlights", "Nicky Hayen press conference Burnley", "Burnley Championship relegation zone 2026"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Fabio Celestini's first Burnley game ends 0-0 as Clarets still lack a home win in over a year",
+    "date": "2026-10-31",
+    "source_domain": "skysports.com",
+    "url": "https://www.skysports.com/football/burnley-vs-portsmouth/report/560643",
+    "entities": ["Burnley", "Fabio Celestini", "Portsmouth", "Josh Cullen", "Largie Ramazani"],
+    "facts": [
+      "Fabio Celestini took a point from his first game in charge, a goalless draw with Portsmouth at Turf Moor on his 51st birthday.",
+      "Celestini called it 'a good first step'; Burnley created chances before the break but lost control after half-time.",
+      "Burnley have not won a home league game in over a year and remain in the relegation places."
+    ],
+    "background": "Celestini is Swiss, and replaced the sacked Nicky Hayen a week earlier; Josh Cullen made his first appearance of an injury-hit season off the bench.",
+    "angle": "coach",
+    "sensitive": false,
+    "footage_terms": ["Burnley 0-0 Portsmouth highlights", "Fabio Celestini first game Burnley", "Fabio Celestini press conference Burnley", "Burnley Turf Moor home form"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Norwich thump Bristol City 5-0 and home fans turn on Michael Skubala",
+    "date": "2026-11-07",
+    "source_domain": "skysports.com",
+    "url": "https://www.skysports.com/football/bristol-city-vs-norwich/report/560668",
+    "entities": ["Norwich City", "Bristol City", "Michael Skubala", "Philippe Clement", "Scott Twine", "Paris Maghoma"],
+    "facts": [
+      "Norwich won 5-0 at Ashton Gate, with goals from Paris Maghoma, Harry Darling, Andre Brooks, Jovon Makama and a Mathias Kvistgaarden penalty.",
+      "Bristol City fans booed at half-time and later chanted that manager Michael Skubala should be sacked; he apologised and called the second half unacceptable.",
+      "Bristol City have lost five home league games this season, and Norwich have scored nine goals in two successive away wins."
+    ],
+    "background": "Bristol City had also lost midweek to Wolves, and Scott Twine, who has 18 career free-kick goals per Sky, missed a first-half chance; Norwich are coached by Belgian Philippe Clement.",
+    "angle": "coach",
+    "sensitive": false,
+    "footage_terms": ["Bristol City 0-5 Norwich highlights", "Michael Skubala Bristol City fans chant", "Philippe Clement Norwich reaction", "Norwich away win Ashton Gate"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Bottom club Preston get Graham Alexander's first win by beating Southampton 1-0",
+    "date": "2026-11-07",
+    "source_domain": "skysports.com",
+    "url": "https://www.skysports.com/football/preston-vs-southampton/report/560673",
+    "entities": ["Preston North End", "Graham Alexander", "Southampton", "Jordan Thompson", "Lee Nicholls", "Tonda Eckert"],
+    "facts": [
+      "Jordan Thompson volleyed in from outside the box on 33 minutes to give Preston a 1-0 win at Deepdale.",
+      "It was Graham Alexander's first win as Preston manager, and Preston were bottom of the Championship at the time.",
+      "Lee Nicholls made his league debut in goal for Preston; Southampton came in unbeaten in six and Eckert said his side 'wasted one half'."
+    ],
+    "background": "Alexander has struggled since returning to Preston, per Sky analyst Andy Hinchcliffe, after Paul Heckingbottom led the club to 14th last season; Preston lost nine of 11 before this result.",
+    "angle": "win",
+    "sensitive": false,
+    "footage_terms": ["Preston 1-0 Southampton highlights", "Graham Alexander first win Preston", "Jordan Thompson volley Preston Southampton", "Preston North End Championship bottom"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Why foreign coaches are flocking to the Championship",
+    "date": "2026-11-10",
+    "source_domain": "skysports.com",
+    "url": "https://www.skysports.com/football/news/13610313/foreign-coaches-in-the-championship-why-working-in-englands-second-tier-is-a-target-for-top-managers-from-abroad",
+    "entities": ["Fabio Celestini", "Kim Hellberg", "Philippe Clement", "Julien Stephan", "Tonda Eckert", "Vitor Matos", "Alessio Dionisi", "Cesar Peixoto", "Sergej Jakirovic"],
+    "facts": [
+      "Eight Championship clubs have foreign head coaches: Celestini at Burnley, Hellberg at Middlesbrough, Clement at Norwich, Stephan at QPR, Eckert at Southampton, Matos at Swansea, Dionisi at Watford and Peixoto at Wolves.",
+      "Sky says 16 of the 24 clubs are still coached by men from the British Isles.",
+      "The second tier is seen as a route to the Premier League, and Bosnian Sergej Jakirovic, who took Hull up through the play-offs last season, is now a Premier League manager."
+    ],
+    "background": "The appeal is the atmosphere, the rewards of promotion and the path to the top flight, according to coaches such as Schalke's Miron Muslic, who previously managed Plymouth.",
+    "angle": "coach",
+    "sensitive": false,
+    "footage_terms": ["Championship foreign managers", "Kim Hellberg Middlesbrough interview", "Philippe Clement Norwich press conference", "Sergej Jakirovic Hull City promotion"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Fleetwood Town knock Arsenal out of the Carabao Cup on penalties",
+    "date": "2026-10-27",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50302723/fleetwood-shootout-hero-practise-pens-dispatching-arsenal",
+    "entities": ["Fleetwood Town", "Arsenal", "Conor Haughey", "Aaron Loupalo-Bi", "Viktor Gyokeres", "Jay Lynch", "Max Dowman"],
+    "facts": [
+      "League Two side Fleetwood drew 1-1 with Arsenal and won the fourth-round shootout 5-3.",
+      "Fulham loanee Aaron Loupalo-Bi scored first; Viktor Gyokeres equalised after Odegaard came on at half-time; Jay Lynch saved Bruno Guimaraes' penalty and 19-year-old Conor Haughey scored the winner without having practised penalties.",
+      "Arsenal's Max Dowman was sent off in the 85th minute, and ESPN says it is the first time a Premier League champion has lost a League Cup tie to a fourth-tier side."
+    ],
+    "background": "Fleetwood sit 18th in League Two, while Arsenal are the reigning Premier League champions and were beaten finalists in last season's League Cup.",
+    "angle": "viral",
+    "sensitive": false,
+    "footage_terms": ["Fleetwood Town Arsenal penalties highlights", "Fleetwood 1-1 Arsenal Carabao Cup", "Conor Haughey penalty Fleetwood Arsenal", "Arteta reaction Fleetwood defeat"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Carabao Cup quarter-final draw gives Fleetwood a home tie and Man City face Bradford",
+    "date": "2026-10-28",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50311784/carabao-cup-quarterfinal-draw-liverpool-bournemouth-fleetwood",
+    "entities": ["Carabao Cup", "Fleetwood Town", "Everton", "Newcastle United", "Manchester City", "Bradford City", "Crystal Palace", "Sunderland", "Liverpool", "Bournemouth"],
+    "facts": [
+      "Quarter-finals are due in the week starting 14 December.",
+      "Pairings: Fleetwood v winner of Everton-Newcastle, Manchester City v Bradford City, Crystal Palace v Sunderland, Liverpool v Bournemouth.",
+      "Everton later beat Newcastle 3-1, so Fleetwood will play Everton."
+    ],
+    "background": "The draw came a day after Fleetwood beat Arsenal on penalties; ESPN's later reports note Liverpool got through by beating Chelsea on penalties and Manchester City beat Brighton 4-3 on penalties.",
+    "angle": "history",
+    "sensitive": false,
+    "footage_terms": ["Carabao Cup quarter-final draw 2026", "Manchester City Bradford City Carabao Cup", "Fleetwood Everton Carabao Cup", "Carabao Cup draw reaction Fleetwood"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Bradford City reach Carabao Cup quarter-finals for the first time since 2013",
+    "date": "2026-10-27",
+    "source_domain": "skysports.com",
+    "url": "https://www.skysports.com/football/bradford-vs-peterboro/report/578608",
+    "entities": ["Bradford City", "Peterborough United", "Macaulay Gillesphey", "Adam Phillips", "Michael Duff", "Jon McCracken"],
+    "facts": [
+      "Bradford beat League One rivals Peterborough 2-0 at Valley Parade in the fourth round on 27 October.",
+      "Macaulay Gillesphey scored from a corner on 13 minutes and Adam Phillips added a second in the 67th.",
+      "Manager Michael Duff had asked his players to be more productive from corners, and they delivered."
+    ],
+    "background": "It is Bradford's first Carabao Cup quarter-final since their 2013 run to Wembley, and they were later drawn against Manchester City.",
+    "angle": "history",
+    "sensitive": false,
+    "footage_terms": ["Bradford City 2-0 Peterborough highlights", "Bradford City Carabao Cup quarter-final", "Michael Duff Bradford interview", "Bradford City 2013 League Cup final run"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Seventh-tier Wimborne Town knock League Two Crawley out of the FA Cup",
+    "date": "2026-11-08",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50421536/wimbourne-town-crawley-fa-cup-non-league",
+    "entities": ["Wimborne Town", "Crawley Town", "Yang Seung-woo", "Jackson King", "Cameron Munn", "FA Cup"],
+    "facts": [
+      "Wimborne beat Crawley 2-0 in the FA Cup first round, called the biggest upset of the round.",
+      "Yang Seung-woo scored after nine minutes, and Jackson King's shot went in off Cameron Munn about 11 minutes from time.",
+      "Wimborne are a part-time Dorset side 57 places below Crawley, who are bottom of League Two."
+    ],
+    "background": "It is the second season in a row that Crawley have lost to non-League opposition in the Cup, after losing to Boreham Wood last year; Wimborne then drew League One Bradford City in round two.",
+    "angle": "viral",
+    "sensitive": false,
+    "footage_terms": ["Wimborne Town 2-0 Crawley highlights", "Wimborne Town FA Cup", "Wimborne Crawley FA Cup shock", "Wimborne Bradford FA Cup draw"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Oldham manager headbutts Sheffield Wednesday player but Oldham win FA Cup tie 2-1",
+    "date": "2026-11-09",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50431417/micky-mellon-headbutt-oldham-sheffield-wednesday",
+    "entities": ["Oldham Athletic", "Sheffield Wednesday", "Micky Mellon", "Callum Slattery", "Will Sutton", "Dave Challinor"],
+    "facts": [
+      "Oldham boss Micky Mellon drove his head into Wednesday midfielder Callum Slattery in the 84th minute and was shown a red card.",
+      "League Two Oldham beat League One Wednesday 2-1 after extra time, Will Sutton scoring the winner in the 110th minute.",
+      "Oldham led through Calum Kavanagh before Davis Keillor-Dunn equalised; it was Dave Challinor's first game in charge of Wednesday."
+    ],
+    "background": "Challinor was new in the Sheffield Wednesday job, and the result knocked the higher-league side out of the Cup; Mellon missed the finish of the game.",
+    "angle": "scandal",
+    "sensitive": false,
+    "footage_terms": ["Micky Mellon headbutt Oldham", "Oldham 2-1 Sheffield Wednesday FA Cup highlights", "Micky Mellon red card Slattery", "Dave Challinor Sheffield Wednesday FA Cup reaction"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Billy Sharp, 40, comes out of retirement for FA Cup tie with non-League Rushden & Diamonds",
+    "date": "2026-11-02",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50357500/billy-sharp-40-retirement-rushden-diamonds",
+    "entities": ["Billy Sharp", "AFC Rushden & Diamonds", "Burton Albion", "Chris Wilder", "Sheffield United"],
+    "facts": [
+      "Billy Sharp, 40, ended his retirement about three weeks after announcing it in October to sign for AFC Rushden & Diamonds.",
+      "He is set to play in the club's first-ever FA Cup first round against Burton Albion, replacing suspended James Clifton.",
+      "Former Sheffield United manager Chris Wilder says Sharp still keeps himself very fit."
+    ],
+    "background": "Sharp is a hometown legend at Sheffield United, also played for Scunthorpe, Doncaster, Southampton, Nottingham Forest and Leeds, finished his career at Doncaster with 299 goals, and scored his first pro goal for the original Rushden & Diamonds.",
+    "angle": "history",
+    "sensitive": false,
+    "footage_terms": ["Billy Sharp Rushden & Diamonds", "Billy Sharp comeback FA Cup", "Billy Sharp best goals Sheffield United", "Rushden Diamonds Burton Albion FA Cup"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Notts County win FA Cup tie on penalties in thick fog: 'couldn't see the ball'",
+    "date": "2026-11-07",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50411675/fa-cup-notts-county-altrincham-fog-conditions",
+    "entities": ["Notts County", "Altrincham", "Martin Paterson", "Neil Gibson", "Callum Roberts"],
+    "facts": [
+      "Notts County beat Altrincham 3-2 on penalties after a 2-2 draw through 120 minutes of the FA Cup first round.",
+      "Dense fog cut visibility; County manager Martin Paterson said he couldn't see the ball or the players.",
+      "Altrincham led with six minutes left, Callum Roberts equalised in the 84th minute, and three Altrincham spot-kicks were missed in the shootout."
+    ],
+    "background": "Altrincham boss Neil Gibson said coaching became almost impossible in extra time but called the referee's decision to play on probably the right one.",
+    "angle": "viral",
+    "sensitive": false,
+    "footage_terms": ["Notts County Altrincham FA Cup fog", "Notts County Altrincham penalties", "Martin Paterson fog Notts County", "FA Cup first round fog highlights"],
+    "confidence": "high"
+  },
+  {
+    "headline": "SE Dons, the YouTube and Sunday League club, are one win from the FA Cup first round",
+    "date": "2026-10-17",
+    "source_domain": "skysports.com",
+    "url": "https://www.skysports.com/football/news/13599738/se-dons-how-the-youtube-football-sensation-went-from-sunday-league-to-one-win-away-from-fa-cup-first-round-history",
+    "entities": ["SE Dons", "Don Strapzy", "Sholing", "Chichester City", "Weymouth", "FA Cup"],
+    "facts": [
+      "SE Dons came from 2-1 down to beat Chichester City 3-2, then won 5-1 away at Weymouth, leaving them one win from the first round proper.",
+      "In their first FA Cup campaign they have played six matches including a replay, have beaten four higher-league sides and next face Sholing.",
+      "They are one of only three clubs left that entered at the extra preliminary round."
+    ],
+    "background": "Rapper Don Strapzy founded the club in 2014 as a Sunday League side in south-east London, and it now has more than 250,000 YouTube subscribers; the result of the Sholing tie was not checked.",
+    "angle": "viral",
+    "sensitive": false,
+    "footage_terms": ["SE Dons FA Cup", "SE Dons Weymouth 5-1", "Don Strapzy SE Dons interview", "SE Dons Sholing FA Cup"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Andy Woodman leaves Bromley after five years and seven months",
+    "date": "2026-10-23",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50256104/third-longest-standing-manager-england-loses-job",
+    "entities": ["Andy Woodman", "Bromley", "Leicester City", "EFL"],
+    "facts": [
+      "Andy Woodman left League One Bromley by mutual consent, ending a spell that began in 2021.",
+      "Bromley had lost three league games in a row, most recently 4-0 at home to Leicester, and sit second from bottom.",
+      "Woodman was the third-longest-serving manager in English football, behind Mikel Arteta and Nigel Clough."
+    ],
+    "background": "Woodman took Bromley into the Football League in 2024 for the first time in the club's 132-year history, then won the League Two title last season.",
+    "angle": "coach",
+    "sensitive": false,
+    "footage_terms": ["Andy Woodman Bromley", "Bromley promotion League Two champions", "Bromley 0-4 Leicester highlights", "Andy Woodman interview Bromley"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Jack Wilshere scuffles with Barnsley boss Daniel Stendel after Luton win",
+    "date": "2026-10-20",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50236617/jack-wilshere-involved-touchline-scuffle-luton-beat-barnsley",
+    "entities": ["Jack Wilshere", "Luton Town", "Daniel Stendel", "Barnsley"],
+    "facts": [
+      "Luton boss Jack Wilshere clashed with Barnsley manager Daniel Stendel after Luton's 2-1 win on a Tuesday night.",
+      "Wilshere reportedly shook Stendel's hand, then pushed him, sparking a bigger melee on the pitch; the cause was not stated.",
+      "Wilshere played it down, saying both sides wanted to win and that he respects Barnsley."
+    ],
+    "background": "Wilshere is a former Arsenal midfielder; Luton were 13th in League One and Barnsley 22nd at the time, and ESPN compared it to the 2022 Conte-Tuchel clash.",
+    "angle": "scandal",
+    "sensitive": false,
+    "footage_terms": ["Wilshere Stendel scuffle", "Luton 2-1 Barnsley highlights", "Jack Wilshere Luton press conference", "Wilshere Stendel handshake row"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Ex-Brazil forward Pato fronts the investment group that bought Northampton Town",
+    "date": "2026-10-28",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50276273/inspired-wrexham-playstation-how-ex-brazil-star-pato-ended-investing-northampton-town",
+    "entities": ["Alexandre Pato", "Northampton Town", "Sports Alpha Capital", "Joao Xavier", "Wrexham", "Colchester United"],
+    "facts": [
+      "Alexandre Pato is the public face of Sports Alpha Capital, which completed a takeover of League Two Northampton at the end of September.",
+      "The takeover left the club debt-free, which ESPN calls rare in the EFL.",
+      "The group first tried to buy Colchester United early in 2026; co-chairman Joao Xavier said the Wrexham series was a trigger but they cannot copy its approach."
+    ],
+    "background": "Pato is a former Brazil forward; the group says the Welcome to Wrexham series inspired it to look at buying a club.",
+    "angle": "business",
+    "sensitive": false,
+    "footage_terms": ["Alexandre Pato Northampton Town", "Pato Northampton takeover", "Alexandre Pato AC Milan goals", "Northampton Town Sports Alpha Capital"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Ex-Man United defender Brandon Williams signs short-term deal at Rotherham",
+    "date": "2026-10-24",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50265749/man-united-brandon-williams-signs-rotherham-united",
+    "entities": ["Brandon Williams", "Rotherham United", "Alex Bruce", "Manchester United", "Ipswich Town", "Hull City"],
+    "facts": [
+      "Brandon Williams, 26, agreed a three-month contract with League Two Rotherham after a trial.",
+      "Head coach Alex Bruce praised his commitment, saying he trained daily without pay.",
+      "Rotherham are second from bottom in League Two, with two wins in their first 13 games."
+    ],
+    "background": "Williams made 51 appearances for Manchester United, stopped playing from December 2023 during a loan at Ipswich, and received a suspended prison sentence for dangerous driving; he joined Hull in August 2025 but played only five minutes.",
+    "angle": "transfer",
+    "sensitive": true,
+    "footage_terms": ["Brandon Williams Rotherham", "Brandon Williams Manchester United highlights", "Rotherham United Alex Bruce interview", "Brandon Williams comeback"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Port Vale boss braced for the sack but now has eight home wins in a row",
+    "date": "2026-11-19",
+    "source_domain": "skysports.com",
+    "url": "https://www.skysports.com/football/news/13612579/jon-brady-interview-port-vale-boss-was-braced-for-the-sack-but-free-scoring-side-have-now-won-eight-in-a-row-at-home",
+    "entities": ["Port Vale", "Jon Brady", "Onel Hernandez", "Carol Shanahan", "Micky Moore", "Walsall"],
+    "facts": [
+      "Port Vale have won eight home league games in a row and scored 17 goals in their last four matches.",
+      "Jon Brady said he expected to be sacked after a mid-September defeat to Walsall, when Vale were in the bottom three and had scored fewer than any other League Two side.",
+      "He switched to three at the back and moved Onel Hernandez into a forward role; Vale are 17th but third for expected goals since that Walsall game."
+    ],
+    "background": "Brady, an Australian aged 51, was previously popular at Northampton; Port Vale were relegated from League One before this season, with about 80 per cent of the budget tied up in 18 contracted players.",
+    "angle": "coach",
+    "sensitive": false,
+    "footage_terms": ["Port Vale highlights League Two", "Jon Brady Port Vale interview", "Onel Hernandez goal Port Vale", "Port Vale eight home wins in a row"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Aaron Connolly reflects on injuries and regrets in League One at Leyton Orient",
+    "date": "2026-11-18",
+    "source_domain": "skysports.com",
+    "url": "https://www.skysports.com/football/news/13612813/aaron-connolly-leyton-orient-midfielder-reflects-on-eventful-career-path-from-brighton-premier-league-debut-goals-to-set-backs-and-comebacks",
+    "entities": ["Aaron Connolly", "Leyton Orient", "Brighton", "Hull City", "Sunderland"],
+    "facts": [
+      "Aaron Connolly, 26, plays for League One Leyton Orient and says he has struggled to handle setbacks.",
+      "He tore a quad after building momentum with goals and assists, and then needed shoulder surgery after rushing back.",
+      "He says he now trains far harder, arriving first and leaving last, has spoken openly about overcoming alcohol addiction, and mentors academy players."
+    ],
+    "background": "The Irish forward scored twice on his Premier League debut for Brighton against Tottenham in 2019 aged 19, before spells at Hull and Sunderland.",
+    "angle": "history",
+    "sensitive": true,
+    "footage_terms": ["Aaron Connolly Brighton debut Tottenham two goals", "Aaron Connolly Leyton Orient", "Aaron Connolly interview", "Aaron Connolly goals Leyton Orient"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Football regulator says EFL clubs must hold cash reserves linked to risk level",
+    "date": "2026-11-10",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50441792/football-regulator-efl-national-league",
+    "entities": ["Independent Football Regulator", "EFL", "National League", "Premier League"],
+    "facts": [
+      "High-risk clubs must hold reserves equal to five months of operating losses; medium-risk clubs two months.",
+      "Low-risk clubs must hold reserves covering one month of wages.",
+      "The rule phases in over three years from June 2027, to be met by 2030, and Premier League clubs will be assessed individually."
+    ],
+    "background": "The regulator's earlier draft State of the Game report (October) warned that most English clubs are living on a financial edge.",
+    "angle": "business",
+    "sensitive": false,
+    "footage_terms": ["Independent Football Regulator EFL reserves", "EFL clubs finances regulator", "Football regulator Premier League EFL funding", "EFL chairman financial sustainability"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Regulator's State of the Game report: 94% of clubs in top five divisions lost money",
+    "date": "2026-10-13",
+    "source_domain": "skysports.com",
+    "url": "https://www.skysports.com/football/news/13598894/state-of-the-game-independent-football-regulators-report-finds-most-english-clubs-living-on-financial-brink",
+    "entities": ["Independent Football Regulator", "EFL", "National League", "Championship", "Premier League"],
+    "facts": [
+      "English football earned over 9bn pounds in revenue last season, yet 94 per cent of clubs in the top five divisions lost money.",
+      "More than 60 per cent of EFL and National League clubs are technically insolvent, with liabilities above the book value of assets.",
+      "Over a quarter of clubs could not last a month without owner funding, and 32 clubs hold less than 30 days of cash cover."
+    ],
+    "background": "The average Premier League club earns more than eight times the revenue of the average Championship club, and parachute payments add to Championship overspending.",
+    "angle": "business",
+    "sensitive": false,
+    "footage_terms": ["Independent Football Regulator State of the Game", "English football finances report", "EFL clubs insolvent regulator", "Championship parachute payments explained"],
+    "confidence": "high"
+  }
+]

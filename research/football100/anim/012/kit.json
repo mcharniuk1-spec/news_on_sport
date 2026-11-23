@@ -1,0 +1,16 @@
+{
+  "palette": [
+    "#c7d4ee",
+    "#454571",
+    "#ffd272",
+    "#e58699",
+    "#8ecfb3"
+  ],
+  "style": "SITCOM-YELLOW",
+  "font": "Arial Bold",
+  "characters": [
+    "Lionel Messi",
+    "generic reporter"
+  ],
+  "recurring_prop": "net"
+}

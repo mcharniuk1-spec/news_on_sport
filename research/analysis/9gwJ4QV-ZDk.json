@@ -1,0 +1,80 @@
+{
+ "video_id": "9gwJ4QV-ZDk",
+ "topic": "Erling Haaland shows Lamine Yamal an Oreo cookie illusion",
+ "hero": "Erling Haaland and Lamine Yamal",
+ "hero_role": "performer and reacting audience",
+ "media_type_overall": "press conference/interview clip",
+ "hook": "Haaland holds Oreo up to camera with smirk",
+ "subtitle_style": "none",
+ "reaction_overlays": "brand logo GOATZverse in set",
+ "transition_summary": "One continuous take, no cuts",
+ "audio_note": "unknown (music, laughs)",
+ "reuse_segments": [
+  {
+   "t0": 0,
+   "t1": 14,
+   "what": "Oreo magic trick with both players",
+   "origin_guess": "interview",
+   "rights_risk": "medium",
+   "how_to_reuse": "needs licence; recreate with own set"
+  }
+ ],
+ "frames": [
+  {
+   "idx": 1,
+   "t": 0,
+   "desc": "Haaland in light-blue City shirt holds Oreo, framing with fingers; Yamal behind",
+   "type": "video",
+   "text_on_screen": "GOATZverse",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 2,
+   "t": 2,
+   "desc": "Haaland shows cookie, Yamal watches sitting at table with phone",
+   "type": "video",
+   "text_on_screen": "GOATZverse",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 3,
+   "t": 4,
+   "desc": "Haaland shows cookie, Yamal watches sitting at table with phone",
+   "type": "video",
+   "text_on_screen": "GOATZverse",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 4,
+   "t": 6,
+   "desc": "Haaland blows on cookie, Yamal looks",
+   "type": "video",
+   "text_on_screen": "GOATZverse",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 5,
+   "t": 8,
+   "desc": "Haaland blows on cookie, Yamal looks",
+   "type": "video",
+   "text_on_screen": "GOATZverse",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 6,
+   "t": 10,
+   "desc": "Yamal reacts surprised as cookie appears whole; Oreo pack on table",
+   "type": "video",
+   "text_on_screen": "GOATZverse",
+   "transition_to_next": "none"
+  },
+  {
+   "idx": 7,
+   "t": 12,
+   "desc": "Yamal reacts surprised as cookie appears whole; Oreo pack on table",
+   "type": "video",
+   "text_on_screen": "GOATZverse",
+   "transition_to_next": "none"
+  }
+ ]
+}

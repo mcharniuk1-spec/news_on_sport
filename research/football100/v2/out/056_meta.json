@@ -1,0 +1,103 @@
+{
+ "no": 56,
+ "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/056_napoli_coach_allegri_sent_off_in_3_3.mp4",
+ "total": 33.93333333333333,
+ "outro_start": 28.66,
+ "cover": true,
+ "seq": [
+  {
+   "id": "s01",
+   "kind": "HOOK",
+   "start": 0.1,
+   "end": 1.6,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/056/s01.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s02",
+   "kind": "COMIC1",
+   "start": 5.033333333333333,
+   "end": 7.033333333333333,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/056/s02.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s03",
+   "kind": "NEWS",
+   "start": 8.566666666666666,
+   "end": 10.333333333333334,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/056/s03.mp4",
+   "clip_dur": 1.767,
+   "frames": 42
+  },
+  {
+   "id": "s04",
+   "kind": "COMIC2",
+   "start": 12.666666666666666,
+   "end": 14.666666666666666,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/056/s04.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s05",
+   "kind": "STATS",
+   "start": 15.466666666666667,
+   "end": 16.966666666666665,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/056/s05.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s06",
+   "kind": "COMIC3",
+   "start": 17.266666666666666,
+   "end": 19.266666666666666,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/056/s06.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s07",
+   "kind": "PROVOC",
+   "start": 21.566666666666666,
+   "end": 23.066666666666666,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/056/s07.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s08",
+   "kind": "INTERVIEW",
+   "start": 24.633333333333333,
+   "end": 26.4,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/056/s08.mp4",
+   "clip_dur": 1.767,
+   "frames": 42
+  }
+ ],
+ "missing": [],
+ "dropped": [],
+ "cards": [
+  {
+   "text": "Monza, then Juventus",
+   "a": 23.2,
+   "b": 24.366666666666667
+  }
+ ],
+ "caption_sprites": 92,
+ "whoosh": [
+  0.0,
+  4.933333333333334,
+  8.466666666666667,
+  12.566666666666666,
+  15.366666666666667,
+  17.166666666666664,
+  21.466666666666665,
+  24.53333333333333,
+  28.56
+ ],
+ "shots": 12
+}

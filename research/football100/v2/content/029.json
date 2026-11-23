@@ -1,0 +1,465 @@
+{
+ "no": 29,
+ "style": "FLAT-POP",
+ "prop": "trophy",
+ "cast": {
+  "kane": {
+   "role": "striker",
+   "number": "9",
+   "shirt": "#d63a3a",
+   "hair": "#d9b45b"
+  },
+  "guard": {
+   "role": "staff",
+   "shirt": "#3b4a6b",
+   "hair": "#2b2b3a"
+  }
+ },
+ "sequences": {
+  "s01": {
+   "type": "HOOK",
+   "q": "Ballon d'Or in a museum already?",
+   "prop": "trophy",
+   "emote": "smug",
+   "board": "stamp",
+   "role": "striker"
+  },
+  "s02": {
+   "type": "NEWS",
+   "name": "Harry Kane",
+   "fact": "Kane won the Ballon d'Or in October",
+   "ticker": "Ballon d'Or, October",
+   "icons": [
+    "trophy",
+    "calendar",
+    "star"
+   ],
+   "role": "striker",
+   "actor": "kane"
+  },
+  "s03": {
+   "type": "STATS",
+   "items": [
+    {
+     "icon": "star",
+     "value": "28",
+     "label": "Twenty-eight points"
+    },
+    {
+     "icon": "thumbs-up",
+     "value": "40",
+     "label": "first-place votes"
+    }
+   ]
+  },
+  "s04": {
+   "type": "COMIC",
+   "bg": "studio",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "kane",
+       "x": 300,
+       "y": 1440,
+       "pose": "present",
+       "emote": "happy",
+       "scale": 1.4,
+       "hold": {
+        "kind": "trophy",
+        "hand": "R",
+        "scale": 0.9
+       }
+      }
+     ],
+     "props": [
+      {
+       "kind": "net",
+       "x": 810,
+       "y": 1060,
+       "scale": 3.8,
+       "layer": "front"
+      },
+      {
+       "kind": "shelf",
+       "x": 230,
+       "y": 580,
+       "scale": 2.0
+      },
+      {
+       "kind": "shirt",
+       "x": 190,
+       "y": 510,
+       "scale": 0.9
+      },
+      {
+       "kind": "medal",
+       "x": 300,
+       "y": 520,
+       "scale": 0.7
+      },
+      {
+       "kind": "ball",
+       "x": 560,
+       "y": 1425,
+       "scale": 0.8
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.42,
+     "actors": [
+      {
+       "id": "kane",
+       "x": 420,
+       "y": 1440,
+       "pose": "shrug",
+       "emote": "sweat",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "net",
+       "x": 810,
+       "y": 1060,
+       "scale": 3.8,
+       "layer": "front"
+      },
+      {
+       "kind": "shelf",
+       "x": 230,
+       "y": 580,
+       "scale": 2.0
+      },
+      {
+       "kind": "shirt",
+       "x": 190,
+       "y": 510,
+       "scale": 0.9
+      },
+      {
+       "kind": "medal",
+       "x": 300,
+       "y": 520,
+       "scale": 0.7
+      },
+      {
+       "kind": "ball",
+       "x": 560,
+       "y": 1425,
+       "scale": 0.8
+      },
+      {
+       "kind": "trophy",
+       "x": 690,
+       "y": 1080,
+       "scale": 1.3,
+       "layer": "back",
+       "anim": "pop"
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.42,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "kane",
+       "x": 850,
+       "y": 1400,
+       "pose": "crouch",
+       "emote": "sweat",
+       "scale": 1.15
+      }
+     ],
+     "props": [
+      {
+       "kind": "net",
+       "x": 810,
+       "y": 1060,
+       "scale": 3.8,
+       "layer": "front"
+      },
+      {
+       "kind": "shelf",
+       "x": 230,
+       "y": 580,
+       "scale": 2.0
+      },
+      {
+       "kind": "shirt",
+       "x": 190,
+       "y": 510,
+       "scale": 0.9
+      },
+      {
+       "kind": "medal",
+       "x": 300,
+       "y": 520,
+       "scale": 0.7
+      },
+      {
+       "kind": "ball",
+       "x": 560,
+       "y": 1425,
+       "scale": 0.8
+      },
+      {
+       "kind": "trophy",
+       "x": 690,
+       "y": 1080,
+       "scale": 1.3,
+       "layer": "back"
+      }
+     ],
+     "sfx": {
+      "text": "POP",
+      "x": 300,
+      "y": 470,
+      "r": 110
+     }
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "guard",
+       "x": 250,
+       "y": 1440,
+       "pose": "point",
+       "emote": "shock",
+       "scale": 1.25,
+       "flip": false
+      },
+      {
+       "id": "kane",
+       "x": 850,
+       "y": 1400,
+       "pose": "wave",
+       "emote": "happy",
+       "scale": 1.15
+      }
+     ],
+     "props": [
+      {
+       "kind": "net",
+       "x": 810,
+       "y": 1060,
+       "scale": 3.8,
+       "layer": "front"
+      },
+      {
+       "kind": "shelf",
+       "x": 230,
+       "y": 580,
+       "scale": 2.0
+      },
+      {
+       "kind": "shirt",
+       "x": 190,
+       "y": 510,
+       "scale": 0.9
+      },
+      {
+       "kind": "medal",
+       "x": 300,
+       "y": 520,
+       "scale": 0.7
+      },
+      {
+       "kind": "ball",
+       "x": 560,
+       "y": 1425,
+       "scale": 0.8
+      },
+      {
+       "kind": "trophy",
+       "x": 690,
+       "y": 1080,
+       "scale": 1.3,
+       "layer": "back"
+      }
+     ],
+     "bubble": {
+      "who": "guard",
+      "icon": "exclaim"
+     },
+     "fx": [
+      {
+       "kind": "sparkle",
+       "x": 850,
+       "y": 1000
+      }
+     ]
+    }
+   ]
+  },
+  "s05": {
+   "type": "COMIC",
+   "bg": "stadium",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "kane",
+       "x": 300,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "smug",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "goal",
+       "x": 770,
+       "y": 900,
+       "scale": 3.4
+      },
+      {
+       "kind": "trophy",
+       "x": 770,
+       "y": 600,
+       "scale": 1.0
+      },
+      {
+       "kind": "ball",
+       "x": 470,
+       "y": 1390,
+       "scale": 1.0
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.52,
+     "actors": [
+      {
+       "id": "kane",
+       "x": 330,
+       "y": 1440,
+       "pose": "kick",
+       "emote": "smug",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "goal",
+       "x": 770,
+       "y": 900,
+       "scale": 3.4
+      },
+      {
+       "kind": "trophy",
+       "x": 770,
+       "y": 600,
+       "scale": 1.0,
+       "anim": "wobble"
+      },
+      {
+       "kind": "ball",
+       "x": 770,
+       "y": 760,
+       "scale": 0.9
+      },
+      {
+       "kind": "bell",
+       "x": 260,
+       "y": 560,
+       "scale": 1.2,
+       "anim": "shake"
+      }
+     ],
+     "sfx": {
+      "text": "CLANG",
+      "x": 520,
+      "y": 450,
+      "r": 110
+     },
+     "cam": "shake"
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.52,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "kane",
+       "x": 330,
+       "y": 1440,
+       "pose": "hold",
+       "emote": "sad",
+       "scale": 1.4,
+       "hold": {
+        "kind": "ball",
+        "hand": "both",
+        "scale": 0.8
+       }
+      }
+     ],
+     "props": [
+      {
+       "kind": "goal",
+       "x": 770,
+       "y": 900,
+       "scale": 3.4
+      },
+      {
+       "kind": "trophy",
+       "x": 770,
+       "y": 600,
+       "scale": 1.0
+      }
+     ]
+    }
+   ]
+  },
+  "s06": {
+   "type": "PROVOC",
+   "q": "Ballon d'Or for Bayern's museum?",
+   "a": "Yes please",
+   "b": "Too soon",
+   "split": [
+    58,
+    42
+   ],
+   "mood": "cheeky"
+  },
+  "s07": {
+   "type": "INTERVIEW",
+   "label": "REPORTER ASKS",
+   "bubble": "his penalty hit the crossbar",
+   "answer": {
+    "icon": "goal",
+    "gesture": "headscratch",
+    "emote": "sad"
+   },
+   "subject": "Harry Kane",
+   "subject_cast": "kane"
+  }
+ }
+}

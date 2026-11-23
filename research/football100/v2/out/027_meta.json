@@ -1,0 +1,103 @@
+{
+ "no": 27,
+ "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/027_ronaldo_nazario_r9.mp4",
+ "total": 53.86666666666667,
+ "outro_start": 47.62,
+ "cover": true,
+ "seq": [
+  {
+   "id": "s01",
+   "kind": "HOOK",
+   "start": 0.1,
+   "end": 1.8666666666666667,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/027/s01.mp4",
+   "clip_dur": 1.767,
+   "frames": 42
+  },
+  {
+   "id": "s02",
+   "kind": "NEWS",
+   "start": 4.333333333333333,
+   "end": 6.6,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/027/s02.mp4",
+   "clip_dur": 2.267,
+   "frames": 54
+  },
+  {
+   "id": "s03",
+   "kind": "COMIC1",
+   "start": 8.9,
+   "end": 11.666666666666666,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/027/s03.mp4",
+   "clip_dur": 2.767,
+   "frames": 66
+  },
+  {
+   "id": "s04",
+   "kind": "COMIC2",
+   "start": 15.666666666666666,
+   "end": 17.933333333333334,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/027/s04.mp4",
+   "clip_dur": 2.267,
+   "frames": 54
+  },
+  {
+   "id": "s05",
+   "kind": "COMIC3",
+   "start": 24.8,
+   "end": 27.066666666666666,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/027/s05.mp4",
+   "clip_dur": 2.267,
+   "frames": 54
+  },
+  {
+   "id": "s06",
+   "kind": "PROVOC",
+   "start": 30.6,
+   "end": 32.1,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/027/s06.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s07",
+   "kind": "INTERVIEW",
+   "start": 35.6,
+   "end": 37.6,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/027/s07.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s08",
+   "kind": "STATS",
+   "start": 43.6,
+   "end": 45.1,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/027/s08.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  }
+ ],
+ "missing": [],
+ "dropped": [],
+ "cards": [
+  {
+   "text": "Sold, sold, invested",
+   "a": 42.233333333333334,
+   "b": 43.46666666666667
+  }
+ ],
+ "caption_sprites": 139,
+ "whoosh": [
+  0.0,
+  4.233333333333333,
+  8.8,
+  15.566666666666666,
+  24.7,
+  30.5,
+  35.5,
+  43.5,
+  47.52
+ ],
+ "shots": 16
+}

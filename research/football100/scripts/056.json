@@ -1,0 +1,77 @@
+{
+ "no": 56,
+ "subject": "Napoli coach Allegri sent off in 3-3 draw with Roma and banned for two matches",
+ "title": "Allegri's ban and the cutout ref",
+ "voice": "EL_A",
+ "comic": true,
+ "style": "southpark_cutout",
+ "lines": [
+  {
+   "vo": "Red card, late equaliser, and Allegri joking about his own ban.",
+   "card": "Red card, two-match ban",
+   "sfx": "cardboard whoosh",
+   "footage": "Allegri red card Napoli Roma"
+  },
+  {
+   "vo": "Napoli drew three-three with Roma. Allegri says the late goal was a foul. The goal stood. His argument did not.",
+   "card": "Late equaliser",
+   "footage": "Napoli Roma 3-3 highlights Balerdi"
+  },
+  {
+   "vo": "Two matches out, a ten-thousand-euro fine, and Napoli first said they would appeal.",
+   "card": "10,000 euro fine",
+   "footage": "Allegri press conference Napoli"
+  },
+  {
+   "vo": "Then Allegri dropped the appeal and joked the ban could grow to four. Very relaxed man.",
+   "card": "Four-match ban joke",
+   "footage": "Allegri sent off reaction press conference"
+  },
+  {
+   "vo": "He misses Monza, then Juventus, his old club. Five Serie A titles there. Napoli are struggling. Bad timing.",
+   "card": "Monza, then Juventus",
+   "footage": "Allegri Juventus celebration"
+  },
+  {
+   "vo": "Dare to call the next one? Match news and betting tips at aboutfootball dot UK.",
+   "card": "aboutfootball.uk",
+   "footage": "football100 end card"
+  }
+ ],
+ "chars": 530,
+ "est_seconds": 29,
+ "footage_terms": [
+  "Allegri red card Napoli Roma",
+  "Napoli Roma 3-3 highlights Balerdi",
+  "Allegri sent off reaction press conference",
+  "Allegri angry touchline Napoli"
+ ],
+ "inserts": [
+  {
+   "after_line": 1,
+   "story": "Setup: a cutout Allegri stomps to a cardboard VAR booth and slaps a 'FOUL' sticker on the screen. Gag: the sticker peels off and sticks to his forehead. Twist: a tiny cutout referee stamps 'GOOD GOAL' right under it.",
+   "characters": "generic cutout referee; caricature Allegri, cutout style, no real photos",
+   "seconds": 2
+  },
+  {
+   "after_line": 2,
+   "story": "Setup: a cutout Allegri polishes five paper Scudetto trophies. Gag: a cutout Napoli coach bus marked 'Juventus away' pulls up and every seat is taken. Twist: the bus leaves without him and the five paper trophies wave from the back window.",
+   "characters": "generic cutout bus driver; caricature Allegri, cutout style",
+   "seconds": 2
+  },
+  {
+   "after_line": 3,
+   "story": "Setup: a cutout Allegri signs a big paper 'APPEAL' form. Gag: he rips it in half, then tapes it back together in the shape of a '4'. Twist: a cutout Napoli fan holds up a scoreboard saying 'BAN: 4' and Allegri gives him a thumbs-up.",
+   "characters": "generic cutout fan; caricature Allegri, cutout style",
+   "seconds": 2
+  }
+ ],
+ "facts_used": [
+  "ev0003: Allegri was shown a straight red card after Roma's late equaliser by Balerdi in the 3-3 draw; he argued the goal should have been disallowed for a foul on Beukema (news/news_dedup.json)",
+  "ev0003: Lega Serie A banned him for two matches (Monza and Juventus, both away) and fined him 10,000 euros (news/news_dedup.json)",
+  "ev0003: Napoli first said they would appeal; Allegri decided not to and joked the ban could grow to four (news/news_dedup.json)",
+  "ev0003 background: five straight Serie A titles with Juventus; Napoli are trying to fix their league form (news/news_dedup.json)"
+ ],
+ "comic_score": 7,
+ "notes": "Comic (southpark_cutout). The ban was for insulting officials and aggressive behaviour, per Lega Serie A. Those reasons and Allegri's denial stay out of the jokes; the voice line uses only the ban and red card. The '4' insert and the VAR sticker gag are fictional gags on the documented joke about four matches. Insert after_line is 0-based. Punch-up pass: merged the 'five Serie A titles' line into the Juventus joke (old club, both ban matches away). Reasons for the ban stay out of all jokes. Insert after_line is 0-based; inserts now follow lines 1, 3 and 4."
+}

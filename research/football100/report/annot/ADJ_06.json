@@ -1,0 +1,12 @@
+{
+"51": {"topic_primary":"legacy_retrospective","scope":"other_leagues","timeliness":"breaking_week","story_structure":"stat_stack","dominant_emotion":"nostalgia","hook_type_alt":"news_flash"},
+"52": {"hook_type":"stat_shock","humour_type":"understatement","humour_target":"club","dominant_emotion":"surprise","hook_type_alt":"contrast_twist","risk_flags":["single_source"]},
+"53": {"humour_target":"situation","dominant_emotion":"awe","poster_title_sells_hook":3},
+"54": {"twist_position":"middle","humour_type":"roast","comment_bait":"fan_rivalry","hook_type_alt":"curiosity_gap"},
+"55": {"hook_type":"contrast_twist","humour_type":"sarcasm","cta_opener_type":"other","hook_type_alt":"stat_shock"},
+"56": {"twist_position":"late","humour_type":"roast","comment_bait":"none","hook_type_alt":"curiosity_gap","risk_flags":["betting_under18_appeal","negative_real_person","single_source"]},
+"57": {"hook_type":"contrast_twist","twist_position":"early","hook_type_alt":"stat_shock"},
+"58": {"story_structure":"stat_stack","humour_type":"absurd_comparison"},
+"59": {"story_structure":"twist_payoff","twist_position":"middle","humour_type":"understatement"},
+"60": {"hook_basis":"scoreline_result","comment_bait":"none","risk_flags":["single_source","unverified_claim"]}
+}

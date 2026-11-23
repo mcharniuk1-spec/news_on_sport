@@ -1,0 +1,101 @@
+{
+ "no": 91,
+ "subject": "Brazilian winger Sergio Barboza becomes first outfield player to play in all six confederations",
+ "title": "Six confederations, one full passport",
+ "voice": "kokoro",
+ "comic": true,
+ "style": "shonen_anime",
+ "lines": [
+  {
+   "vo": "Six confederations. One winger. One very full passport.",
+   "card": "Six confederations",
+   "sfx": "record scratch",
+   "footage": "Barboza Tahiti highlight clip, stadium wide shot"
+  },
+  {
+   "vo": "Sergio Barboza: Laos, Nepal, Malta, Angola. His CV is a travel diary.",
+   "card": "Travel diary CV",
+   "sfx": null,
+   "footage": "kit and match clips from Laos, Nepal, Malta, Angola (no club logos on screen)"
+  },
+  {
+   "vo": "ESPN says he is the first outfield player to do it in FIFA-affiliated leagues.",
+   "card": "First outfield player",
+   "sfx": null,
+   "footage": "ESPN article screenshot, Barboza smiling"
+  },
+  {
+   "vo": "In September he reached Tahiti with no club. About three hundred fans paid six dollars a month to back him.",
+   "card": "Tahiti, no club",
+   "sfx": null,
+   "footage": "Tahiti arrival b-roll, fans in a stand, phone screens"
+  },
+  {
+   "vo": "They voted on his decisions in a WhatsApp group. Three hundred assistant managers.",
+   "card": "WhatsApp vote",
+   "sfx": null,
+   "footage": "phone screen, group chat graphic"
+  },
+  {
+   "vo": "Debut: two goals, an assist, a five-one win. In five games: four goals, four assists.",
+   "card": "Four and four",
+   "sfx": "crowd roar",
+   "footage": "Tahiti debut match highlight, stat graphic over match clips"
+  },
+  {
+   "vo": "Unpaid, bar the room. A cyclone then doubled his flight home: nearly three thousand dollars.",
+   "card": "Flight, doubled",
+   "sfx": null,
+   "footage": "airport departure board, grey sea"
+  },
+  {
+   "vo": "Next stop: Africa. Cyclones, you have been warned.",
+   "card": "Next stop: Africa",
+   "sfx": "anime whoosh",
+   "footage": "map graphic, Barboza smiling, boarding b-roll"
+  },
+  {
+   "vo": "Want the next story before it breaks? News, betting tips and predictions at aboutfootball dot UK.",
+   "card": "aboutfootball dot UK",
+   "sfx": null,
+   "footage": "end card"
+  }
+ ],
+ "chars": 715,
+ "est_seconds": 40,
+ "footage_terms": [
+  "Sergio Barboza Tahiti goal",
+  "Barboza AS Tohie'a Tahiti",
+  "Sergio Barboza six continents",
+  "journeyman footballer six continents"
+ ],
+ "inserts": [
+  {
+   "after_line": 2,
+   "story": "Setup: a shonen hero lands in Tahiti with one backpack and a glowing aura. Gag: he screams his power-up, and the airport checks its group chat. Twist: the chat votes Stay, and the aura shrinks to a thumbs-up.",
+   "characters": "Barboza as a stylised shonen hero, generic airport crowd, no real faces",
+   "seconds": 3
+  },
+  {
+   "after_line": 4,
+   "story": "Setup: the hero scores and strikes a power pose. Gag: a scoreboard counts goals, assists, then a bill. Twist: the bill is the only number still climbing.",
+   "characters": "Barboza caricature in action pose, scoreboard prop, generic crowd",
+   "seconds": 3
+  },
+  {
+   "after_line": 6,
+   "story": "Setup: the hero boards a plane while a small storm cloud follows him. Gag: the cloud buys a seat and doubles the price. Twist: the cloud takes the window.",
+   "characters": "Barboza caricature with a large backpack, storm cloud character, generic pilot",
+   "seconds": 3
+  }
+ ],
+ "facts_used": [
+  "Barboza, 33, has played for clubs in all six confederations, including Laos, Cambodia, Nepal, Angola, Malta and Tahiti (news 157, espn.com)",
+  "ESPN says he is the first outfield player to do so in FIFA-affiliated leagues (news 157, espn.com)",
+  "He reached Tahiti on 21 September with no club; about 300 followers paid 6 dollars a month and voted on decisions in a WhatsApp group (news 157)",
+  "He scored twice and set up another in a 5-1 win on his Tahiti debut; four goals and four assists in five games; unpaid apart from accommodation (news 157)",
+  "A cyclone doubled his return flight to about 3,000 dollars; he plans to go back to Africa to score and assist there (news 157)"
+ ],
+ "comic_score": 8,
+ "notes": "Source: news 157 (ESPN, 2026-11-18). All facts kept; roast limited to travel, CV, fans and the flight bill. Family and cost-of-living reasons are omitted. Cyclone stated as a neutral fact; the joke targets the bill. 'Three hundred assistant managers' is a gag, not a claim. Inserts are fictional gags with generic characters. after_line is the 0-based index into lines[]. Data gap: fdb.py get news fails on this row (JSON decode of plain-text facts)."
+}

@@ -1,0 +1,80 @@
+{
+ "no": 64,
+ "subject": "Haaland's stoppage-time VAR-awarded penalty sends Norway past Denmark into Nations League quarter-finals",
+ "title": "Haaland's late penalty sends Norway through",
+ "voice": "kokoro",
+ "comic": false,
+ "style": null,
+ "lines": [
+  {
+   "vo": "Two down, and then VAR met Erling Haaland.",
+   "card": "Two down, then VAR",
+   "footage": "Denmark goals montage, Hojlund and Hojbjerg, then VAR review graphic"
+  },
+  {
+   "vo": "Norway beat Denmark 3-2 and are into the Nations League quarter-finals. The winner was a stoppage-time penalty.",
+   "card": "Quarter-finals sealed",
+   "footage": "Norway celebration shots, stadium crowd"
+  },
+  {
+   "vo": "Denmark led 2-0 inside fifteen minutes. Odegaard equalised in the eighty-seventh minute. Denmark had a lovely quarter of an hour.",
+   "card": "Denmark 2-0 up",
+   "footage": "Odegaard goal clip, Norway bench reaction"
+  },
+  {
+   "vo": "VAR reviewed a handball by Joachim Andersen in stoppage time. Haaland scored the penalty.",
+   "card": "Handball, then penalty",
+   "footage": "VAR review graphic, Haaland penalty slow motion"
+  },
+  {
+   "vo": "He then tore off his shirt in celebration and was booked for it. A yellow card for a shirt. Worth it, he might say.",
+   "card": "Shirt off, booked",
+   "footage": "Haaland celebration clip, referee with yellow card"
+  },
+  {
+   "vo": "Sixty-eight international goals in sixty-one games, and twenty-five in the Nations League, a record. Over a goal a game. The shirt was just keeping up.",
+   "card": "68 for Norway",
+   "footage": "Haaland goal compilation, Norway shirt"
+  },
+  {
+   "vo": "Want the next story before it breaks? Betting tips, news and predictions at aboutfootball dot UK.",
+   "card": "aboutfootball.UK",
+   "footage": "Channel end card, neutral background"
+  }
+ ],
+ "chars": 734,
+ "est_seconds": 43,
+ "footage_terms": [
+  "Norway 3-2 Denmark highlights Haaland penalty",
+  "Haaland shirt celebration yellow card Norway",
+  "Haaland 68 goals Norway"
+ ],
+ "inserts": [
+  {
+   "after_line": 0,
+   "story": "A cartoon scoreboard shows 0-2 early in the match. Gag: a huge cartoon VAR screen with a glowing eye rises above the stadium. Twist: the eye blinks and looks at the striker.",
+   "characters": "generic cartoon players and a VAR screen",
+   "seconds": 2
+  },
+  {
+   "after_line": 2,
+   "story": "A cartoon referee watches a VAR monitor with a magnifying glass over a hand. Gag: the glass slides along the arm and stops on the hand. Twist: a tiny arrow points at the hand and the referee points to the spot.",
+   "characters": "generic cartoon VAR screen and referee",
+   "seconds": 2
+  },
+  {
+   "after_line": 3,
+   "story": "A cartoon striker whips off his shirt in celebration. Gag: the referee raises a yellow card in a flash. Twist: he is wearing a second shirt and keeps celebrating.",
+   "characters": "generic cartoon striker",
+   "seconds": 2
+  }
+ ],
+ "facts_used": [
+  "Norway beat Denmark 3-2 after Denmark led 2-0 inside 15 minutes; Odegaard equalised in the 87th minute (news id 26, espn.com/soccer/story/_/id/50513761)",
+  "VAR reviewed a handball by Joachim Andersen in stoppage time; Haaland scored the penalty at 95:45 (news id 26)",
+  "Haaland was booked for excessive celebration after tearing off his shirt (news id 26)",
+  "He has 68 international goals in 61 appearances and 25 Nations League goals, a record (news id 26)"
+ ],
+ "comic_score": 5,
+ "notes": "Non-comic, so no inserts. The 'worth it' and 'checked, scored' lines are light teases, not claims from the source. Goal count and Nations League record are from the source. Over a goal a game is 68 in 61. Quarter-final draw and March ties are not used."
+}

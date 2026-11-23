@@ -1,0 +1,22 @@
+<!doctype html><html lang="en" data-resolution="portrait"><head><meta charset="UTF-8"/><meta name="viewport" content="width=1080, height=1920"/>
+<script src="https://cdn.jsdelivr.net/npm/gsap@3.15.0/dist/gsap.min.js"></script><style>
+:root{--ground:#07140c;--ink:#fff;--y:#FFD400;--g:#18c964;--red:#ff3b30}
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:1080px;height:1920px;overflow:hidden;background:var(--ground)}
+#root{position:relative;width:1080px;height:1920px;font-family:Impact,'Arial Black',sans-serif;color:var(--ink);text-transform:uppercase;overflow:hidden;
+ background:repeating-linear-gradient(0deg,#0b2214 0 120px,#0e2a19 120px 240px)}
+.vig{position:absolute;inset:0;background:radial-gradient(ellipse at center,rgba(0,0,0,0) 40%,rgba(0,0,0,.65) 100%)}
+.abs{position:absolute;left:0;width:1080px;text-align:center}
+.big{font-size:230px;line-height:1;color:var(--y);-webkit-text-stroke:10px #000;paint-order:stroke fill}
+.mid{font-size:100px;line-height:1.05;-webkit-text-stroke:8px #000;paint-order:stroke fill}
+.small{font-size:60px;-webkit-text-stroke:6px #000;paint-order:stroke fill;color:#cfe}
+.row{position:absolute;left:90px;width:900px;height:130px;border-radius:20px;background:#0a0a0a;border:6px solid var(--y);display:flex;align-items:center;padding:0 36px;font-size:62px}
+.row b{color:var(--y);margin-left:auto;font-size:54px}
+.tier{position:absolute;left:140px;width:800px;height:210px;border-radius:24px;background:#10331e;border:6px solid #2d6b45;display:flex;align-items:center;justify-content:center;font-size:84px}
+.stamp{position:absolute;left:90px;width:900px;text-align:center;font-size:76px;line-height:1.05;color:#000;background:var(--y);padding:26px 20px;border-radius:18px;transform:rotate(-3deg)}
+</style></head><body>
+<div id="root" data-composition-id="main" data-start="0" data-duration="6" data-width="1080" data-height="1920"><div class="row" id="r0" style="top:330px;opacity:0"><span>WORLD CUP</span><b>2002</b></div><div class="row" id="r1" style="top:495px;opacity:0"><span>COPA AMÉRICA</span><b></b></div><div class="row" id="r2" style="top:660px;opacity:0"><span>CONFEDERATIONS CUP</span><b></b></div><div class="row" id="r3" style="top:825px;opacity:0"><span>CHAMPIONS LEAGUE</span><b>2006</b></div><div class="row" id="r4" style="top:990px;opacity:0"><span>COPA LIBERTADORES</span><b>2013</b></div><div class="row" id="r5" style="top:1155px;opacity:0"><span>BALLON D'OR</span><b>2005</b></div><div class="abs mid" style="top:150px">THE FULL SET</div><div class="stamp" id="st" style="top:1400px;opacity:0">ONLY PLAYER IN HISTORY TO WIN ALL SIX</div><div class="vig"></div></div>
+<script>const tl=gsap.timeline({paused:true});
+function counter(sel,to,start,dur,fmt){const o={v:0};const el=document.querySelector(sel);tl.to(o,{v:to,duration:dur,ease:"power2.out",onUpdate:()=>{el.textContent=fmt?fmt(o.v):Math.round(o.v)}},start)}
+tl.fromTo("#r0",{x:-1200,opacity:1},{x:0,duration:.35,ease:"back.out(1.4)"},0.3);tl.fromTo("#r1",{x:-1200,opacity:1},{x:0,duration:.35,ease:"back.out(1.4)"},0.8500000000000001);tl.fromTo("#r2",{x:-1200,opacity:1},{x:0,duration:.35,ease:"back.out(1.4)"},1.4000000000000001);tl.fromTo("#r3",{x:-1200,opacity:1},{x:0,duration:.35,ease:"back.out(1.4)"},1.9500000000000002);tl.fromTo("#r4",{x:-1200,opacity:1},{x:0,duration:.35,ease:"back.out(1.4)"},2.5);tl.fromTo("#r5",{x:-1200,opacity:1},{x:0,duration:.35,ease:"back.out(1.4)"},3.05);tl.fromTo("#st",{scale:2.4,opacity:0},{scale:1,opacity:1,duration:.3,ease:"power4.out"},4.0);
+window.__timelines["main"]=tl;tl.seek(0);</script></body></html>

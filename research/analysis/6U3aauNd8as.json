@@ -1,0 +1,112 @@
+{
+ "video_id": "6U3aauNd8as",
+ "topic": "Ranking players who were good as players and bad/good as managers, ending with those who excelled at both",
+ "hero": "Legends: Pirlo, Lampard, Mourinho, Ferguson, Cruyff, Zidane, Beckenbauer, Guardiola, Ancelotti",
+ "hero_role": "subjects of the comparison cards",
+ "media_type_overall": "static photo(s)",
+ "hook": "Split-screen of Pirlo as player and manager",
+ "subtitle_style": "small white sans captions with emoji (skull/broken heart) at tile center",
+ "reaction_overlays": "emoji icons and labels",
+ "transition_summary": "Fast flash cuts ~1 per 1 s in the second half; letterboxed vertical split layout",
+ "audio_note": "trending background music likely",
+ "reuse_segments": [
+  {
+   "t0": 0,
+   "t1": 22,
+   "what": "Player/manager photo pairs",
+   "origin_guess": "unknown",
+   "rights_risk": "medium",
+   "how_to_reuse": "recreate with illustrated portraits or licensed photos"
+  }
+ ],
+ "frames": [
+  {
+   "idx": 1,
+   "t": 0,
+   "desc": "Split portrait: Pirlo player (Juventus/Italy kit) and suited manager 'Good Player/Bad Manager' labels with emoji",
+   "type": "video",
+   "text_on_screen": "PIRLO Good Player Bad Manager",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 2,
+   "t": 2,
+   "desc": "Split portrait: Lampard in Chelsea blue vs suited manager; Good Player Bad Manager",
+   "type": "video",
+   "text_on_screen": "LAMPARD Good Player Bad Manager",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 3,
+   "t": 4,
+   "desc": "Split: Mourinho young player in black/white stripes vs suited manager; Bad Player Good Manager",
+   "type": "video",
+   "text_on_screen": "MOURINHO Bad Player Good Manager",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 4,
+   "t": 6,
+   "desc": "Split: young Ferguson in Rangers blue vs trophy-holding manager",
+   "type": "video",
+   "text_on_screen": "SIR ALEX FERGUSON Bad Player Good Manager",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 5,
+   "t": 8,
+   "desc": "Split composite of two faces with manager in scarf",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 6,
+   "t": 10,
+   "desc": "Split: Cruyff orange shirt vs coat and scarf",
+   "type": "video",
+   "text_on_screen": "JOHAN CRUYFF",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 7,
+   "t": 12,
+   "desc": "Split: Zidane France kit vs suited manager",
+   "type": "video",
+   "text_on_screen": "ZINEDINE ZIDANE",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 8,
+   "t": 14,
+   "desc": "Split: Beckenbauer West Germany vs suited manager",
+   "type": "video",
+   "text_on_screen": "FRANZ BECKENBAUER",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 9,
+   "t": 16,
+   "desc": "Split: Guardiola Barca kit vs pointing manager",
+   "type": "video",
+   "text_on_screen": "PEP GUARDIOLA",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 10,
+   "t": 18,
+   "desc": "Split: Ancelotti AC Milan player vs suited manager",
+   "type": "video",
+   "text_on_screen": "CARLO ANCELOTTI",
+   "transition_to_next": "none"
+  },
+  {
+   "idx": 11,
+   "t": 20,
+   "desc": "Split: Ancelotti AC Milan player vs suited manager",
+   "type": "video",
+   "text_on_screen": "CARLO ANCELOTTI",
+   "transition_to_next": "none"
+  }
+ ]
+}

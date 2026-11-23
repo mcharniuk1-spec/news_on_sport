@@ -1,0 +1,97 @@
+{
+ "no": 59,
+ "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/059_fleetwood_town_knock_arsenal_out_of.mp4",
+ "total": 41.833333333333336,
+ "outro_start": 35.34,
+ "cover": true,
+ "seq": [
+  {
+   "id": "s01",
+   "kind": "HOOK",
+   "start": 0.1,
+   "end": 1.6,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/059/s01.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s02",
+   "kind": "STATS",
+   "start": 5.1,
+   "end": 6.6,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/059/s02.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s03",
+   "kind": "COMIC1",
+   "start": 8.9,
+   "end": 10.9,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/059/s03.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s04",
+   "kind": "NEWS",
+   "start": 12.433333333333334,
+   "end": 14.2,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/059/s04.mp4",
+   "clip_dur": 1.767,
+   "frames": 42
+  },
+  {
+   "id": "s05",
+   "kind": "COMIC2",
+   "start": 15.966666666666667,
+   "end": 17.966666666666665,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/059/s05.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s06",
+   "kind": "COMIC3",
+   "start": 21.833333333333332,
+   "end": 23.833333333333332,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/059/s06.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s07",
+   "kind": "PROVOC",
+   "start": 26.266666666666666,
+   "end": 27.766666666666666,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/059/s07.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s08",
+   "kind": "INTERVIEW",
+   "start": 29.566666666666666,
+   "end": 31.333333333333332,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/059/s08.mp4",
+   "clip_dur": 1.767,
+   "frames": 42
+  }
+ ],
+ "missing": [],
+ "dropped": [],
+ "cards": [],
+ "caption_sprites": 95,
+ "whoosh": [
+  0.0,
+  5.0,
+  8.8,
+  12.333333333333334,
+  15.866666666666667,
+  21.73333333333333,
+  26.166666666666664,
+  29.466666666666665,
+  35.24
+ ],
+ "shots": 12
+}

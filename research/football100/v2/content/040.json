@@ -1,0 +1,653 @@
+{
+ "no": 40,
+ "style": "FLAT-POP",
+ "prop": "boot",
+ "cast": {
+  "yamal": {
+   "role": "striker",
+   "shirt": "#a8325a",
+   "hair": "#2b2b3a"
+  },
+  "raphinha": {
+   "role": "striker",
+   "shirt": "#a8325a",
+   "hair": "#c9a23a"
+  },
+  "def1": {
+   "role": "player",
+   "shirt": "#7b1e3a",
+   "hair": "#6b4a2a"
+  },
+  "def2": {
+   "role": "player",
+   "shirt": "#7b1e3a",
+   "hair": "#2b2b3a"
+  },
+  "keeper": {
+   "role": "keeper",
+   "shirt": "#34a853"
+  }
+ },
+ "sequences": {
+  "s01": {
+   "type": "HOOK",
+   "q": "Can a perfect record survive Camp Nou?",
+   "prop": "scoreboard",
+   "prop_text": "3:0",
+   "emote": "shock",
+   "board": "scoreboard"
+  },
+  "s02": {
+   "type": "COMIC",
+   "bg": "pitch",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "yamal",
+       "x": 120,
+       "y": 1440,
+       "pose": "run",
+       "emote": "smug",
+       "scale": 1.15
+      },
+      {
+       "id": "def1",
+       "x": 285,
+       "y": 1385,
+       "pose": "lean",
+       "emote": "sweat",
+       "scale": 0.85,
+       "flip": true
+      },
+      {
+       "id": "def2",
+       "x": 555,
+       "y": 1385,
+       "pose": "lean",
+       "emote": "sweat",
+       "scale": 0.85,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "goal",
+       "x": 760,
+       "y": 620,
+       "scale": 2.8
+      },
+      {
+       "kind": "scoreboard",
+       "x": 330,
+       "y": 480,
+       "scale": 1.1,
+       "text": "0:0",
+       "face": "sleepy"
+      },
+      {
+       "kind": "ball",
+       "x": 260,
+       "y": 1385,
+       "scale": 0.8
+      },
+      {
+       "kind": "boot",
+       "x": 240,
+       "y": 1325,
+       "scale": 0.7,
+       "anim": "wobble"
+      },
+      {
+       "kind": "boot",
+       "x": 525,
+       "y": 1325,
+       "scale": 0.7,
+       "anim": "wobble"
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.38,
+     "actors": [
+      {
+       "id": "yamal",
+       "x": 420,
+       "y": 1440,
+       "pose": "run",
+       "emote": "smug",
+       "scale": 1.15
+      },
+      {
+       "id": "def1",
+       "x": 285,
+       "y": 1385,
+       "pose": "lean",
+       "emote": "sweat",
+       "scale": 0.85,
+       "flip": true
+      },
+      {
+       "id": "def2",
+       "x": 555,
+       "y": 1385,
+       "pose": "lean",
+       "emote": "sweat",
+       "scale": 0.85,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "goal",
+       "x": 760,
+       "y": 620,
+       "scale": 2.8
+      },
+      {
+       "kind": "scoreboard",
+       "x": 330,
+       "y": 480,
+       "scale": 1.1,
+       "text": "0:0",
+       "face": "sleepy"
+      },
+      {
+       "kind": "ball",
+       "x": 490,
+       "y": 1385,
+       "scale": 0.8
+      },
+      {
+       "kind": "boot",
+       "x": 240,
+       "y": 1325,
+       "scale": 0.7
+      },
+      {
+       "kind": "boot",
+       "x": 525,
+       "y": 1325,
+       "scale": 0.7
+      }
+     ],
+     "cam": "pan"
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.38,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "yamal",
+       "x": 780,
+       "y": 1440,
+       "pose": "kick",
+       "emote": "smug",
+       "scale": 1.15
+      },
+      {
+       "id": "def1",
+       "x": 285,
+       "y": 1385,
+       "pose": "shock",
+       "emote": "shock",
+       "scale": 0.85,
+       "flip": true
+      },
+      {
+       "id": "def2",
+       "x": 555,
+       "y": 1385,
+       "pose": "shock",
+       "emote": "shock",
+       "scale": 0.85,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "goal",
+       "x": 760,
+       "y": 620,
+       "scale": 2.8
+      },
+      {
+       "kind": "scoreboard",
+       "x": 330,
+       "y": 480,
+       "scale": 1.1,
+       "text": "0:0",
+       "face": "sleepy"
+      },
+      {
+       "kind": "ball",
+       "x": 700,
+       "y": 900,
+       "scale": 0.8,
+       "anim": "spin"
+      },
+      {
+       "kind": "boot",
+       "x": 240,
+       "y": 1325,
+       "scale": 0.7
+      },
+      {
+       "kind": "boot",
+       "x": 525,
+       "y": 1325,
+       "scale": 0.7
+      }
+     ],
+     "sfx": {
+      "text": "WHOOSH",
+      "x": 450,
+      "y": 740,
+      "r": 110
+     }
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "yamal",
+       "x": 780,
+       "y": 1440,
+       "pose": "cheer",
+       "emote": "happy",
+       "scale": 1.15
+      },
+      {
+       "id": "def1",
+       "x": 285,
+       "y": 1385,
+       "pose": "facepalm",
+       "emote": "sweat",
+       "scale": 0.85,
+       "flip": true
+      },
+      {
+       "id": "def2",
+       "x": 555,
+       "y": 1385,
+       "pose": "facepalm",
+       "emote": "sweat",
+       "scale": 0.85,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "goal",
+       "x": 760,
+       "y": 620,
+       "scale": 2.8
+      },
+      {
+       "kind": "scoreboard",
+       "x": 330,
+       "y": 480,
+       "scale": 1.1,
+       "text": "1:0",
+       "face": "happy"
+      },
+      {
+       "kind": "ball",
+       "x": 760,
+       "y": 700,
+       "scale": 0.9
+      },
+      {
+       "kind": "boot",
+       "x": 240,
+       "y": 1325,
+       "scale": 0.7
+      },
+      {
+       "kind": "boot",
+       "x": 525,
+       "y": 1325,
+       "scale": 0.7
+      }
+     ],
+     "fx": [
+      {
+       "kind": "confetti",
+       "x": 760,
+       "y": 560,
+       "size": 1.2
+      }
+     ],
+     "sfx": {
+      "text": "DING",
+      "x": 450,
+      "y": 740,
+      "r": 110
+     }
+    }
+   ]
+  },
+  "s03": {
+   "type": "COMIC",
+   "bg": "night-city",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "raphinha",
+       "x": 170,
+       "y": 1440,
+       "pose": "kick",
+       "emote": "smug",
+       "scale": 1.2
+      },
+      {
+       "id": "def1",
+       "x": 880,
+       "y": 1440,
+       "pose": "lean",
+       "emote": "shock",
+       "scale": 0.95,
+       "flip": true
+      },
+      {
+       "id": "keeper",
+       "x": 540,
+       "y": 1390,
+       "pose": "crouch",
+       "emote": "neutral",
+       "scale": 0.9
+      }
+     ],
+     "props": [
+      {
+       "kind": "goal",
+       "x": 540,
+       "y": 620,
+       "scale": 3.0
+      },
+      {
+       "kind": "ball",
+       "x": 320,
+       "y": 1430,
+       "scale": 1.2,
+       "anim": "slide-l"
+      },
+      {
+       "kind": "boot",
+       "x": 970,
+       "y": 1470,
+       "scale": 0.8
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.42,
+     "actors": [
+      {
+       "id": "raphinha",
+       "x": 170,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "smug",
+       "scale": 1.2
+      },
+      {
+       "id": "def1",
+       "x": 880,
+       "y": 1440,
+       "pose": "lean",
+       "emote": "shock",
+       "scale": 0.95,
+       "flip": true
+      },
+      {
+       "id": "keeper",
+       "x": 540,
+       "y": 1390,
+       "pose": "crouch",
+       "emote": "neutral",
+       "scale": 0.9
+      }
+     ],
+     "props": [
+      {
+       "kind": "goal",
+       "x": 540,
+       "y": 620,
+       "scale": 3.0
+      },
+      {
+       "kind": "ball",
+       "x": 790,
+       "y": 1330,
+       "scale": 1.2,
+       "anim": "spin"
+      },
+      {
+       "kind": "boot",
+       "x": 970,
+       "y": 1470,
+       "scale": 0.8
+      }
+     ],
+     "sfx": {
+      "text": "THUD",
+      "x": 500,
+      "y": 860,
+      "r": 100
+     },
+     "cam": "push"
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.42,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "raphinha",
+       "x": 300,
+       "y": 1440,
+       "pose": "kick",
+       "emote": "smug",
+       "scale": 1.2
+      },
+      {
+       "id": "def1",
+       "x": 880,
+       "y": 1440,
+       "pose": "lean",
+       "emote": "shock",
+       "scale": 0.95,
+       "flip": true
+      },
+      {
+       "id": "keeper",
+       "x": 540,
+       "y": 1390,
+       "pose": "crouch",
+       "emote": "neutral",
+       "scale": 0.9
+      }
+     ],
+     "props": [
+      {
+       "kind": "goal",
+       "x": 540,
+       "y": 620,
+       "scale": 3.0
+      },
+      {
+       "kind": "ball",
+       "x": 680,
+       "y": 1250,
+       "scale": 1.2
+      },
+      {
+       "kind": "ball",
+       "x": 430,
+       "y": 1400,
+       "scale": 1.0,
+       "anim": "drop"
+      },
+      {
+       "kind": "boot",
+       "x": 970,
+       "y": 1470,
+       "scale": 0.8
+      }
+     ]
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "raphinha",
+       "x": 300,
+       "y": 1440,
+       "pose": "cheer",
+       "emote": "happy",
+       "scale": 1.2
+      },
+      {
+       "id": "def1",
+       "x": 880,
+       "y": 1440,
+       "pose": "facepalm",
+       "emote": "sweat",
+       "scale": 0.95,
+       "flip": true
+      },
+      {
+       "id": "keeper",
+       "x": 540,
+       "y": 1390,
+       "pose": "bow",
+       "emote": "smug",
+       "scale": 0.9
+      }
+     ],
+     "props": [
+      {
+       "kind": "goal",
+       "x": 540,
+       "y": 620,
+       "scale": 3.0
+      },
+      {
+       "kind": "ball",
+       "x": 420,
+       "y": 650,
+       "scale": 0.9
+      },
+      {
+       "kind": "ball",
+       "x": 650,
+       "y": 660,
+       "scale": 0.9
+      },
+      {
+       "kind": "boot",
+       "x": 970,
+       "y": 1470,
+       "scale": 0.8
+      }
+     ],
+     "sfx": {
+      "text": "DING",
+      "x": 880,
+      "y": 800,
+      "r": 100
+     },
+     "fx": [
+      {
+       "kind": "sparkle",
+       "x": 540,
+       "y": 650
+      }
+     ]
+    }
+   ]
+  },
+  "s04": {
+   "type": "NEWS",
+   "name": "Yamal",
+   "fact": "Yamal scored in the seventh minute",
+   "ticker": "Yamal 7'",
+   "icons": [
+    "ball",
+    "stopwatch",
+    "boot"
+   ],
+   "role": "striker",
+   "actor": "yamal"
+  },
+  "s05": {
+   "type": "INTERVIEW",
+   "label": "REPORTER ASKS",
+   "bubble": "Did Villa lack a clinical edge?",
+   "answer": {
+    "icon": "cross",
+    "gesture": "shrug"
+   },
+   "subject": "Unai Emery",
+   "subject_role": "coach"
+  },
+  "s06": {
+   "type": "PROVOC",
+   "q": "Can Mbappe catch Yamal?",
+   "a": "Yes",
+   "b": "No way",
+   "split": [
+    41,
+    59
+   ],
+   "mood": "fun"
+  },
+  "s07": {
+   "type": "STATS",
+   "items": [
+    {
+     "icon": "crown",
+     "value": "1",
+     "label": "top teenage scorer"
+    },
+    {
+     "icon": "medal",
+     "value": "2",
+     "label": "Mbappe is second"
+    },
+    {
+     "icon": "ball",
+     "value": "19",
+     "label": "goals in thirteen"
+    }
+   ]
+  }
+ }
+}

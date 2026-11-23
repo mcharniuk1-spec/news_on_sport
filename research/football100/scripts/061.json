@@ -1,0 +1,83 @@
+{
+ "no": 61,
+ "subject": "Hurzeler says he is fully committed to Brighton after Manchester United rumours",
+ "title": "United considered him. Hurzeler is staying.",
+ "voice": "kokoro",
+ "comic": true,
+ "style": "peanuts_minimal",
+ "lines": [
+  {
+   "vo": "Manchester United considered Fabian Hurzeler. Then they hired Pochettino instead.",
+   "card": "United considered him",
+   "sfx": "soft cartoon boing",
+   "footage": "Hurzeler press conference, close-up, slight smile; cut to Pochettino unveiling clip"
+  },
+  {
+   "vo": "Hurzeler has answered the rumours: he is staying at Brighton.",
+   "card": "Hurzeler stays",
+   "footage": "Brighton stadium exterior, Hurzeler walking through the tunnel"
+  },
+  {
+   "vo": "He called the outside interest speculation and said he is fully committed. That is polite for no thanks.",
+   "card": "Fully committed",
+   "footage": "Hurzeler press conference clip, hands on the table"
+  },
+  {
+   "vo": "Brighton are second in the Premier League. Chairman Tony Bloom says he will fight very hard to keep him. With that table, his argument writes itself.",
+   "card": "Second in the league",
+   "footage": "Brighton goal highlights, crowd celebrating at the Amex"
+  },
+  {
+   "vo": "Hurzeler took over in 2024, one of the youngest managers in Premier League history. Second place is quite the reference letter.",
+   "card": "Youngest in history",
+   "footage": "Hurzeler first season highlights, sideline shots"
+  },
+  {
+   "vo": "So United got Pochettino, and Brighton kept their man. Somebody in Manchester needs a longer shortlist.",
+   "card": "Longer shortlist",
+   "sfx": "tiny ding",
+   "footage": "Pochettino press conference clip, then Brighton training ground"
+  },
+  {
+   "vo": "Want the next story before it breaks? Betting tips, news and predictions at aboutfootball dot UK.",
+   "card": "aboutfootball.UK",
+   "footage": "Channel end card, neutral background"
+  }
+ ],
+ "chars": 722,
+ "est_seconds": 42,
+ "footage_terms": [
+  "Hurzeler press conference Brighton",
+  "Brighton second Premier League highlights",
+  "Tony Bloom Brighton Hurzeler",
+  "Pochettino Manchester United press conference"
+ ],
+ "inserts": [
+  {
+   "after_line": 1,
+   "story": "A round-headed kid holds a clipboard marked Shortlist and crosses out one name, then another, then the whole page. Twist: the only thing left on the table is a Brighton scarf, and it is already wrapped around his neck.",
+   "characters": "generic round-headed kid; caricature Hurzeler in a rain jacket",
+   "seconds": 2
+  },
+  {
+   "after_line": 3,
+   "story": "A tiny caricature Hurzeler stands on a Brighton pitch while a tall caricature Pochettino tries to sign him with a pen marked Rumours. The pen is empty. Twist: Hurzeler hands him a pencil and says it is also a no.",
+   "characters": "caricature Hurzeler; caricature Pochettino with clipboard; generic referee",
+   "seconds": 2
+  },
+  {
+   "after_line": 4,
+   "story": "A caricature Hurzeler looks along a shelf of trophies, then polishes one empty spot labelled Second place. Twist: it is the only spot with a spotlight on it.",
+   "characters": "caricature Hurzeler; generic trophy shelf",
+   "seconds": 2
+  }
+ ],
+ "facts_used": [
+  "Hurzeler dismissed outside interest as rumours and said he is fully committed to Brighton (ESPN, news id 12, espn.com/soccer/story/_/id/50540734)",
+  "United considered Hurzeler to replace the sacked Michael Carrick before appointing Mauricio Pochettino the previous week (news id 12)",
+  "Chairman Tony Bloom said he would fight very hard to keep Hurzeler; Brighton are second in the Premier League (news id 12)",
+  "Hurzeler took over at Brighton in 2024 as one of the youngest managers in Premier League history (news id 12, background)"
+ ],
+ "comic_score": 8,
+ "notes": "Source row read via read-only SQLite because fdb.py get news crashes on the background field. Chairman quote is paraphrased. Jokes rest on the shortlist, the second-place table and the 2024 start. No injury, health or family material. Inserts use generic stylised characters, no logos or franchise characters."
+}

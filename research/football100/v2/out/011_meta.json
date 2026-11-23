@@ -1,0 +1,98 @@
+{
+ "no": 11,
+ "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/011_lionel_messi.mp4",
+ "total": 37.96666666666667,
+ "outro_start": 32.72,
+ "cover": true,
+ "seq": [
+  {
+   "id": "s01",
+   "kind": "HOOK",
+   "start": 0.1,
+   "end": 1.6,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/011/s01.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s02",
+   "kind": "COMIC1",
+   "start": 4.366666666666666,
+   "end": 6.366666666666666,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/011/s02.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s03",
+   "kind": "NEWS",
+   "start": 8.533333333333333,
+   "end": 10.3,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/011/s03.mp4",
+   "clip_dur": 1.766,
+   "frames": 42
+  },
+  {
+   "id": "s04",
+   "kind": "INTERVIEW",
+   "start": 12.566666666666666,
+   "end": 14.333333333333334,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/011/s04.mp4",
+   "clip_dur": 1.767,
+   "frames": 42
+  },
+  {
+   "id": "s05",
+   "kind": "PROVOC",
+   "start": 16.6,
+   "end": 18.1,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/011/s05.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s06",
+   "kind": "COMIC2",
+   "start": 21.6,
+   "end": 23.6,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/011/s06.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s07",
+   "kind": "STATS",
+   "start": 29.5,
+   "end": 31.0,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/011/s07.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  }
+ ],
+ "missing": [],
+ "dropped": [],
+ "cards": [
+  {
+   "text": "Welcome, says Scaloni",
+   "a": 10.666666666666666,
+   "b": 12.4
+  },
+  {
+   "text": "Back-to-back Golden Boot",
+   "a": 27.333333333333332,
+   "b": 29.333333333333332
+  }
+ ],
+ "caption_sprites": 98,
+ "whoosh": [
+  0.0,
+  4.266666666666667,
+  8.433333333333334,
+  12.466666666666667,
+  16.5,
+  21.5,
+  29.4,
+  32.62
+ ],
+ "shots": 12
+}

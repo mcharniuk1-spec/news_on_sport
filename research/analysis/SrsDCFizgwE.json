@@ -1,0 +1,64 @@
+{
+ "video_id": "SrsDCFizgwE",
+ "topic": "Football meme: POV long caption mocking Italy losing to a tiny team while Ronaldo plays his 'last dance', followed by reaction clip of two men at a laptop",
+ "hero": "Ronaldo (named in caption); two unidentified men in blue tees in reaction clip",
+ "hero_role": "butt of the joke (Italy) / reacting men",
+ "media_type_overall": "mixed",
+ "hook": "Match footage (yellow vs red) with long white POV caption about WC with 34234 teams",
+ "subtitle_style": "White centred bold caption with black outline over footage, laugh emoji",
+ "reaction_overlays": "Caption; reaction cutaway of two men at laptop",
+ "transition_summary": "Fast hard cuts (1.9, 3.7, 4.5 s), ~4 cuts per 10 s",
+ "audio_note": "Meme sound; transcript mentions Shakira",
+ "reuse_segments": [
+  {
+   "t0": 0,
+   "t1": 4,
+   "what": "Match clip yellow vs red with POV caption",
+   "origin_guess": "broadcast match",
+   "rights_risk": "high",
+   "how_to_reuse": "licence needed"
+  },
+  {
+   "t0": 4,
+   "t1": 9,
+   "what": "Reaction clip of two men at laptop",
+   "origin_guess": "unknown",
+   "rights_risk": "medium",
+   "how_to_reuse": "recreate with own actors"
+  }
+ ],
+ "frames": [
+  {
+   "idx": 1,
+   "t": 0,
+   "desc": "Match: yellow-kit attackers vs red defender, caption",
+   "type": "video",
+   "text_on_screen": "POV: It's the 323432 wc and fifa just added 34234 teams and Italy still lose to legoland's 3rd team and Ronaldo it's in his 'last dance' 🤣",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 2,
+   "t": 2,
+   "desc": "Same match, ball and red player, caption",
+   "type": "video",
+   "text_on_screen": "POV: It's the 323432 wc...",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 3,
+   "t": 4,
+   "desc": "Two men in blue tees at laptop in office, reaction meme",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 4,
+   "t": 6,
+   "desc": "One man hand to face, other pointing, reaction",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "none"
+  }
+ ]
+}

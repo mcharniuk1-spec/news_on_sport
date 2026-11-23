@@ -1,0 +1,60 @@
+{
+ "no": 54,
+ "subject": "Barcelona and Real Madrid chase Brighton's Luka Vuskovic, 46 million pounds in the summer",
+ "title": "Vuskovic: Barca and Real want him",
+ "voice": "kokoro",
+ "comic": false,
+ "style": null,
+ "lines": [
+  {
+   "vo": "Barcelona and Real Madrid agree on nothing. Except this nineteen-year-old.",
+   "card": "Barca vs Real",
+   "footage": "Luka Vuskovic defending"
+  },
+  {
+   "vo": "Brighton's Luka Vuskovic is a Croatian centre-back, and both giants are chasing him.",
+   "card": "Brighton's Vuskovic",
+   "footage": "Luka Vuskovic Brighton highlights"
+  },
+  {
+   "vo": "The press already calls him the new Rodri. He is nineteen. No pressure.",
+   "card": "The new Rodri",
+   "footage": "Luka Vuskovic Croatia"
+  },
+  {
+   "vo": "ESPN says Brighton signed him from Tottenham this summer for forty-six million pounds. Tottenham can now watch the bidding from the sofa.",
+   "card": "46 million pounds",
+   "footage": "Brighton stadium exterior"
+  },
+  {
+   "vo": "His contract runs to June twenty-thirty-one. Brighton are expected to listen to offers at the end of the season.",
+   "card": "Contract to 2031",
+   "footage": "Luka Vuskovic defending"
+  },
+  {
+   "vo": "Brighton are in no hurry. Neither is the price tag.",
+   "card": "No hurry",
+   "footage": "Luka Vuskovic highlights"
+  },
+  {
+   "vo": "Think you can call the next one? Betting tips and predictions at aboutfootball dot UK.",
+   "card": "aboutfootball.uk",
+   "footage": "football100 end card"
+  }
+ ],
+ "chars": 615,
+ "est_seconds": 34,
+ "footage_terms": [
+  "Luka Vuskovic Brighton highlights",
+  "Luka Vuskovic defending",
+  "Luka Vuskovic Croatia"
+ ],
+ "inserts": [],
+ "facts_used": [
+  "ev0692: the 19-year-old centre-back's Brighton contract runs to June 2031 (news/news_dedup.json)",
+  "ev0692: ESPN says Brighton signed him from Tottenham for 46 million pounds this summer; Brighton are expected to listen to offers at the end of the season for a substantial fee (news/news_dedup.json)",
+  "ev0692 background: young Croatian centre-back described in the press as the new Rodri (news/news_dedup.json)"
+ ],
+ "comic_score": 4,
+ "notes": "Confidence medium, two sources both from the record (goal.com, ESPN). Fee and Tottenham origin are ESPN's reported figures, so the line attributes them. 'Brighton are in no hurry' is a tone line that leans on the expected end-of-season listening, not a claim. Barca and Real interest rests on the headline; the facts list does not name the two clubs' bids. Non-comic, 0 inserts. Punch-up pass: Tottenham sofa roast rests on the reported Tottenham-to-Brighton move only; no claim about Tottenham's reaction."
+}

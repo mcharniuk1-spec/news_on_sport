@@ -1,0 +1,564 @@
+{
+ "no": 94,
+ "style": "ACTION-ANIME",
+ "prop": "ball",
+ "cast": {
+  "hero": {
+   "role": "striker",
+   "number": "9",
+   "shirt": "#e63946",
+   "hair": "#1d3557"
+  },
+  "fan": {
+   "role": "fan",
+   "shirt": "#3a86ff",
+   "hair": "#2b2b3a"
+  },
+  "driver": {
+   "role": "staff",
+   "hair": "#6b4a2a"
+  },
+  "keeper": {
+   "role": "keeper",
+   "shirt": "#f4c430"
+  }
+ },
+ "sequences": {
+  "s01": {
+   "type": "HOOK",
+   "q": "A fortress with zero shots on target?",
+   "prop": "goal",
+   "emote": "shock",
+   "board": "stamp"
+  },
+  "s02": {
+   "type": "COMIC",
+   "bg": "tunnel",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "hero",
+       "x": 290,
+       "y": 1440,
+       "pose": "crouch",
+       "emote": "angry-cheeky",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "ball",
+       "x": 640,
+       "y": 900,
+       "scale": 2.0,
+       "anim": "pulse"
+      },
+      {
+       "kind": "flag",
+       "x": 940,
+       "y": 1180,
+       "scale": 1.5
+      }
+     ],
+     "fx": [
+      {
+       "kind": "speed",
+       "x": 640,
+       "y": 900
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.52,
+     "actors": [
+      {
+       "id": "hero",
+       "x": 290,
+       "y": 1440,
+       "pose": "kick",
+       "emote": "angry-cheeky",
+       "scale": 1.4
+      },
+      {
+       "id": "fan",
+       "x": 800,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "shock",
+       "scale": 1.25,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "ball",
+       "x": 720,
+       "y": 640,
+       "scale": 1.6,
+       "anim": "arc"
+      },
+      {
+       "kind": "flag",
+       "x": 940,
+       "y": 1180,
+       "scale": 1.5
+      }
+     ],
+     "sfx": {
+      "text": "BANG",
+      "x": 300,
+      "y": 520,
+      "r": 130
+     },
+     "cam": "push"
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.52,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "hero",
+       "x": 290,
+       "y": 1440,
+       "pose": "thumbsup",
+       "emote": "shock",
+       "scale": 1.4
+      },
+      {
+       "id": "fan",
+       "x": 800,
+       "y": 1440,
+       "pose": "present",
+       "emote": "happy",
+       "scale": 1.25,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "ball",
+       "x": 600,
+       "y": 1060,
+       "scale": 1.3
+      },
+      {
+       "kind": "flag",
+       "x": 940,
+       "y": 1180,
+       "scale": 1.5
+      }
+     ],
+     "sfx": {
+      "text": "DING",
+      "x": 560,
+      "y": 640,
+      "r": 120
+     }
+    }
+   ]
+  },
+  "s03": {
+   "type": "STATS",
+   "items": [
+    {
+     "icon": "trophy",
+     "value": "1",
+     "label": "One win"
+    },
+    {
+     "icon": "flag",
+     "value": "5",
+     "label": "five at home"
+    },
+    {
+     "icon": "whistle",
+     "value": "442",
+     "label": "442 matches"
+    }
+   ]
+  },
+  "s04": {
+   "type": "NEWS",
+   "name": "Liverpool",
+   "fact": "One win from five at home",
+   "ticker": "One win in five",
+   "icons": [
+    "trophy",
+    "chart-down",
+    "flag"
+   ],
+   "role": "striker",
+   "actor": "hero"
+  },
+  "s05": {
+   "type": "COMIC",
+   "bg": "street",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "hero",
+       "x": 240,
+       "y": 1440,
+       "pose": "dance",
+       "emote": "happy",
+       "scale": 1.4
+      },
+      {
+       "id": "driver",
+       "x": 905,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "neutral",
+       "scale": 1.0,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "car",
+       "x": 605,
+       "y": 1190,
+       "scale": 2.3,
+       "layer": "back",
+       "face": "happy"
+      },
+      {
+       "kind": "ball",
+       "x": 240,
+       "y": 560,
+       "scale": 1.3,
+       "anim": "float"
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.52,
+     "actors": [
+      {
+       "id": "hero",
+       "x": 240,
+       "y": 1440,
+       "pose": "cheer",
+       "emote": "happy",
+       "scale": 1.4
+      },
+      {
+       "id": "driver",
+       "x": 905,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "happy",
+       "scale": 1.0,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "car",
+       "x": 605,
+       "y": 1190,
+       "scale": 2.45,
+       "layer": "back",
+       "face": "happy",
+       "anim": "pulse"
+      },
+      {
+       "kind": "ball",
+       "x": 240,
+       "y": 540,
+       "scale": 1.8,
+       "anim": "pulse"
+      }
+     ],
+     "cam": "push",
+     "fx": [
+      {
+       "kind": "speed",
+       "x": 605,
+       "y": 1100
+      },
+      {
+       "kind": "sparkle",
+       "x": 240,
+       "y": 540
+      }
+     ]
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.52,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "hero",
+       "x": 240,
+       "y": 1440,
+       "pose": "headscratch",
+       "emote": "sweat",
+       "scale": 1.4
+      },
+      {
+       "id": "driver",
+       "x": 905,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "sweat",
+       "scale": 1.0,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "car",
+       "x": 605,
+       "y": 1190,
+       "scale": 2.3,
+       "layer": "back",
+       "face": "sad"
+      },
+      {
+       "kind": "ball",
+       "x": 605,
+       "y": 860,
+       "scale": 0.9
+      }
+     ],
+     "bubble": {
+      "who": "hero",
+      "icon": "arrow"
+     }
+    }
+   ]
+  },
+  "s06": {
+   "type": "COMIC",
+   "bg": "pitch",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "hero",
+       "x": 300,
+       "y": 1440,
+       "pose": "kick",
+       "emote": "angry-cheeky",
+       "scale": 1.4
+      },
+      {
+       "id": "keeper",
+       "x": 690,
+       "y": 1440,
+       "pose": "crouch",
+       "emote": "sweat",
+       "scale": 1.2,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "goal",
+       "x": 740,
+       "y": 1000,
+       "scale": 2.6
+      },
+      {
+       "kind": "gloves",
+       "x": 560,
+       "y": 1250,
+       "scale": 1.0
+      },
+      {
+       "kind": "flag",
+       "x": 975,
+       "y": 1240,
+       "scale": 1.5
+      },
+      {
+       "kind": "ball",
+       "x": 420,
+       "y": 1370,
+       "scale": 1.3,
+       "anim": "pulse"
+      }
+     ],
+     "fx": [
+      {
+       "kind": "speed",
+       "x": 420,
+       "y": 1370
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.52,
+     "actors": [
+      {
+       "id": "hero",
+       "x": 300,
+       "y": 1440,
+       "pose": "point",
+       "emote": "angry-cheeky",
+       "scale": 1.4
+      },
+      {
+       "id": "keeper",
+       "x": 690,
+       "y": 1440,
+       "pose": "shock",
+       "emote": "shock",
+       "scale": 1.2,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "goal",
+       "x": 740,
+       "y": 1000,
+       "scale": 2.6
+      },
+      {
+       "kind": "gloves",
+       "x": 560,
+       "y": 1250,
+       "scale": 1.0
+      },
+      {
+       "kind": "flag",
+       "x": 975,
+       "y": 1240,
+       "scale": 1.5
+      },
+      {
+       "kind": "ball",
+       "x": 900,
+       "y": 1330,
+       "scale": 1.3,
+       "anim": "arc"
+      }
+     ],
+     "sfx": {
+      "text": "WHOOSH",
+      "x": 400,
+      "y": 600,
+      "r": 120
+     },
+     "cam": "push"
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.52,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "hero",
+       "x": 300,
+       "y": 1440,
+       "pose": "facepalm",
+       "emote": "sweat",
+       "scale": 1.4
+      },
+      {
+       "id": "keeper",
+       "x": 690,
+       "y": 1440,
+       "pose": "cheer",
+       "emote": "happy",
+       "scale": 1.2,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "goal",
+       "x": 740,
+       "y": 1000,
+       "scale": 2.6
+      },
+      {
+       "kind": "gloves",
+       "x": 560,
+       "y": 1250,
+       "scale": 1.0
+      },
+      {
+       "kind": "flag",
+       "x": 975,
+       "y": 1240,
+       "scale": 1.8,
+       "rot": -12,
+       "face": "smug"
+      },
+      {
+       "kind": "ball",
+       "x": 900,
+       "y": 1330,
+       "scale": 1.3
+      }
+     ],
+     "sfx": {
+      "text": "DING",
+      "x": 400,
+      "y": 600,
+      "r": 120
+     }
+    }
+   ]
+  },
+  "s07": {
+   "type": "PROVOC",
+   "q": "Winless since 2023: will it end?",
+   "a": "Yes",
+   "b": "Not yet",
+   "split": [
+    47,
+    53
+   ],
+   "mood": "cheeky"
+  },
+  "s08": {
+   "type": "INTERVIEW",
+   "label": "REPORTER ASKS",
+   "bubble": "Can Liverpool hit the target?",
+   "answer": {
+    "icon": "goal",
+    "gesture": "point"
+   },
+   "subject": "Liverpool",
+   "subject_cast": "hero"
+  }
+ }
+}

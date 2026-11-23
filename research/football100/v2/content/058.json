@@ -1,0 +1,801 @@
+{
+ "no": 58,
+ "style": "FLAT-POP",
+ "prop": "flag",
+ "cast": {
+  "mbappe": {
+   "role": "striker",
+   "number": "10",
+   "shirt": "#eef1f7",
+   "hair": "#3a2a1f"
+  },
+  "linesman": {
+   "role": "referee",
+   "shirt": "#e6d84a",
+   "hair": "#2b2b3a"
+  },
+  "defender": {
+   "role": "player",
+   "number": "4",
+   "shirt": "#c0392b",
+   "hair": "#6b4a2a"
+  },
+  "keeper": {
+   "role": "keeper",
+   "shirt": "#37b36a"
+  },
+  "mourinho": {
+   "role": "coach",
+   "hair": "#d6d2c6",
+   "shirt": "#1b2438"
+  }
+ },
+ "sequences": {
+  "s01": {
+   "type": "HOOK",
+   "q": "Offside seven times and still win?",
+   "prop": "flag",
+   "emote": "shock",
+   "board": "stamp",
+   "role": "striker"
+  },
+  "s02": {
+   "type": "COMIC",
+   "bg": "pitch",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "linesman",
+       "x": 270,
+       "y": 1440,
+       "pose": "point",
+       "emote": "happy",
+       "scale": 1.35
+      },
+      {
+       "id": "mbappe",
+       "x": 800,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "smug",
+       "scale": 1.3,
+       "flip": true,
+       "look": "cam",
+       "label": "Mbappe"
+      }
+     ],
+     "props": [
+      {
+       "kind": "flag",
+       "x": 540,
+       "y": 1021,
+       "scale": 1.9,
+       "anim": "drop"
+      },
+      {
+       "kind": "ball",
+       "x": 700,
+       "y": 1405,
+       "scale": 0.9
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.42,
+     "actors": [
+      {
+       "id": "linesman",
+       "x": 270,
+       "y": 1440,
+       "pose": "present",
+       "emote": "happy",
+       "scale": 1.35
+      },
+      {
+       "id": "mbappe",
+       "x": 800,
+       "y": 1440,
+       "pose": "shrug",
+       "emote": "smug",
+       "scale": 1.3,
+       "flip": true,
+       "look": "cam"
+      }
+     ],
+     "props": [
+      {
+       "kind": "flag",
+       "x": 515,
+       "y": 1023,
+       "scale": 1.9,
+       "rot": -8.0
+      },
+      {
+       "kind": "flag",
+       "x": 540,
+       "y": 1021,
+       "scale": 1.9,
+       "rot": 0.0,
+       "anim": "pop"
+      },
+      {
+       "kind": "flag",
+       "x": 565,
+       "y": 1023,
+       "scale": 1.9,
+       "rot": 8.0,
+       "anim": "pop"
+      },
+      {
+       "kind": "ball",
+       "x": 700,
+       "y": 1405,
+       "scale": 0.9
+      }
+     ],
+     "cam": "push"
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.42,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "linesman",
+       "x": 270,
+       "y": 1440,
+       "pose": "point",
+       "emote": "happy",
+       "scale": 1.35
+      },
+      {
+       "id": "mbappe",
+       "x": 800,
+       "y": 1440,
+       "pose": "shrug",
+       "emote": "sweat",
+       "scale": 1.3,
+       "flip": true,
+       "look": "cam"
+      }
+     ],
+     "props": [
+      {
+       "kind": "flag",
+       "x": 479,
+       "y": 1032,
+       "scale": 1.9,
+       "rot": -20.0
+      },
+      {
+       "kind": "flag",
+       "x": 503,
+       "y": 1025,
+       "scale": 1.9,
+       "rot": -12.0
+      },
+      {
+       "kind": "flag",
+       "x": 528,
+       "y": 1022,
+       "scale": 1.9,
+       "rot": -4.0
+      },
+      {
+       "kind": "flag",
+       "x": 552,
+       "y": 1022,
+       "scale": 1.9,
+       "rot": 4.0,
+       "anim": "pop"
+      },
+      {
+       "kind": "flag",
+       "x": 577,
+       "y": 1025,
+       "scale": 1.9,
+       "rot": 12.0,
+       "anim": "pop"
+      },
+      {
+       "kind": "flag",
+       "x": 601,
+       "y": 1032,
+       "scale": 1.9,
+       "rot": 20.0,
+       "anim": "pop"
+      },
+      {
+       "kind": "ball",
+       "x": 700,
+       "y": 1405,
+       "scale": 0.9
+      }
+     ],
+     "sfx": {
+      "text": "POP",
+      "x": 540,
+      "y": 520,
+      "r": 120
+     },
+     "fx": [
+      {
+       "kind": "sparkle",
+       "x": 540,
+       "y": 950
+      }
+     ]
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "linesman",
+       "x": 270,
+       "y": 1440,
+       "pose": "present",
+       "emote": "happy",
+       "scale": 1.35
+      },
+      {
+       "id": "mbappe",
+       "x": 800,
+       "y": 1440,
+       "pose": "hold",
+       "emote": "love",
+       "scale": 1.3,
+       "flip": true,
+       "look": "cam"
+      }
+     ],
+     "props": [
+      {
+       "kind": "flag",
+       "x": 648,
+       "y": 1145,
+       "scale": 1.3,
+       "rot": -20.0
+      },
+      {
+       "kind": "flag",
+       "x": 665,
+       "y": 1140,
+       "scale": 1.3,
+       "rot": -12.0
+      },
+      {
+       "kind": "flag",
+       "x": 681,
+       "y": 1138,
+       "scale": 1.3,
+       "rot": -4.0
+      },
+      {
+       "kind": "flag",
+       "x": 699,
+       "y": 1138,
+       "scale": 1.3,
+       "rot": 4.0
+      },
+      {
+       "kind": "flag",
+       "x": 715,
+       "y": 1140,
+       "scale": 1.3,
+       "rot": 12.0
+      },
+      {
+       "kind": "flag",
+       "x": 732,
+       "y": 1145,
+       "scale": 1.3,
+       "rot": 20.0
+      },
+      {
+       "kind": "ball",
+       "x": 700,
+       "y": 1405,
+       "scale": 0.9
+      }
+     ],
+     "bubble": {
+      "who": "mbappe",
+      "icon": "heart"
+     },
+     "fx": [
+      {
+       "kind": "confetti",
+       "x": 690,
+       "y": 900,
+       "size": 1.0
+      }
+     ]
+    }
+   ]
+  },
+  "s03": {
+   "type": "NEWS",
+   "name": "Mbappe",
+   "fact": "Seven: the most by any player",
+   "ticker": "Most in six years",
+   "icons": [
+    "flag",
+    "chart-up",
+    "calendar"
+   ],
+   "role": "striker",
+   "actor": "mbappe"
+  },
+  "s04": {
+   "type": "COMIC",
+   "bg": "stadium",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "mbappe",
+       "x": 190,
+       "y": 1440,
+       "pose": "kick",
+       "emote": "smug",
+       "scale": 1.25
+      },
+      {
+       "id": "defender",
+       "x": 510,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "neutral",
+       "scale": 1.2,
+       "flip": true
+      },
+      {
+       "id": "keeper",
+       "x": 830,
+       "y": 1440,
+       "pose": "crouch",
+       "emote": "neutral",
+       "scale": 1.2,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "goal",
+       "x": 740,
+       "y": 1000,
+       "scale": 2.6
+      },
+      {
+       "kind": "flag",
+       "x": 985,
+       "y": 1290,
+       "scale": 1.4
+      },
+      {
+       "kind": "ball",
+       "x": 330,
+       "y": 1400,
+       "scale": 1.0
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.42,
+     "actors": [
+      {
+       "id": "mbappe",
+       "x": 190,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "neutral",
+       "scale": 1.25
+      },
+      {
+       "id": "defender",
+       "x": 510,
+       "y": 1440,
+       "pose": "shock",
+       "emote": "shock",
+       "scale": 1.2,
+       "flip": true
+      },
+      {
+       "id": "keeper",
+       "x": 830,
+       "y": 1440,
+       "pose": "crouch",
+       "emote": "neutral",
+       "scale": 1.2,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "goal",
+       "x": 740,
+       "y": 1000,
+       "scale": 2.6
+      },
+      {
+       "kind": "flag",
+       "x": 985,
+       "y": 1290,
+       "scale": 1.4
+      },
+      {
+       "kind": "ball",
+       "x": 470,
+       "y": 1270,
+       "scale": 0.9,
+       "anim": "shake"
+      }
+     ],
+     "sfx": {
+      "text": "THUD",
+      "x": 500,
+      "y": 560,
+      "r": 120
+     },
+     "cam": "shake"
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.42,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "mbappe",
+       "x": 190,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "neutral",
+       "scale": 1.25
+      },
+      {
+       "id": "defender",
+       "x": 510,
+       "y": 1440,
+       "pose": "shock",
+       "emote": "shock",
+       "scale": 1.2,
+       "flip": true
+      },
+      {
+       "id": "keeper",
+       "x": 830,
+       "y": 1440,
+       "pose": "jump",
+       "emote": "shock",
+       "scale": 1.2,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "goal",
+       "x": 740,
+       "y": 1000,
+       "scale": 2.6
+      },
+      {
+       "kind": "flag",
+       "x": 985,
+       "y": 1290,
+       "scale": 1.4
+      },
+      {
+       "kind": "ball",
+       "x": 830,
+       "y": 560,
+       "scale": 1.1,
+       "anim": "spin"
+      }
+     ],
+     "cam": "push"
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "mbappe",
+       "x": 190,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "happy",
+       "scale": 1.25
+      },
+      {
+       "id": "defender",
+       "x": 510,
+       "y": 1440,
+       "pose": "facepalm",
+       "emote": "sweat",
+       "scale": 1.2,
+       "flip": true
+      },
+      {
+       "id": "keeper",
+       "x": 830,
+       "y": 1440,
+       "pose": "sit",
+       "emote": "sad",
+       "scale": 1.2,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "goal",
+       "x": 740,
+       "y": 1000,
+       "scale": 2.6
+      },
+      {
+       "kind": "flag",
+       "x": 985,
+       "y": 1290,
+       "scale": 1.4
+      },
+      {
+       "kind": "ball",
+       "x": 650,
+       "y": 1110,
+       "scale": 0.9
+      }
+     ],
+     "sfx": {
+      "text": "DING",
+      "x": 260,
+      "y": 560,
+      "r": 110
+     },
+     "fx": [
+      {
+       "kind": "confetti",
+       "x": 700,
+       "y": 1000,
+       "size": 1.0
+      }
+     ]
+    }
+   ]
+  },
+  "s05": {
+   "type": "STATS",
+   "items": [
+    {
+     "icon": "flag",
+     "value": "2-1",
+     "label": "Real Madrid won"
+    },
+    {
+     "icon": "calendar",
+     "value": "3",
+     "label": "in three years"
+    },
+    {
+     "icon": "chart-down",
+     "value": "9",
+     "label": "nine-game La Liga"
+    }
+   ]
+  },
+  "s06": {
+   "type": "COMIC",
+   "bg": "training",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "mourinho",
+       "x": 200,
+       "y": 1440,
+       "pose": "run",
+       "emote": "angry-cheeky",
+       "scale": 1.4,
+       "label": "Mourinho"
+      }
+     ],
+     "props": [
+      {
+       "kind": "flag",
+       "x": 880,
+       "y": 1235,
+       "scale": 2.2
+      },
+      {
+       "kind": "ball",
+       "x": 640,
+       "y": 1425,
+       "scale": 0.8
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.42,
+     "actors": [
+      {
+       "id": "mourinho",
+       "x": 520,
+       "y": 1440,
+       "pose": "run",
+       "emote": "angry-cheeky",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "flag",
+       "x": 880,
+       "y": 1235,
+       "scale": 2.2
+      },
+      {
+       "kind": "ball",
+       "x": 640,
+       "y": 1425,
+       "scale": 0.8
+      }
+     ],
+     "fx": [
+      {
+       "kind": "speed",
+       "x": 360,
+       "y": 1200
+      }
+     ],
+     "cam": "pan"
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.42,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "mourinho",
+       "x": 720,
+       "y": 1440,
+       "pose": "sit",
+       "emote": "happy",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "flag",
+       "x": 880,
+       "y": 1235,
+       "scale": 2.2
+      },
+      {
+       "kind": "ball",
+       "x": 640,
+       "y": 1425,
+       "scale": 0.8
+      }
+     ],
+     "sfx": {
+      "text": "WHOOSH",
+      "x": 560,
+      "y": 520,
+      "r": 120
+     },
+     "fx": [
+      {
+       "kind": "dust",
+       "x": 560,
+       "y": 1435
+      },
+      {
+       "kind": "speed",
+       "x": 420,
+       "y": 1250
+      }
+     ]
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "mourinho",
+       "x": 720,
+       "y": 1440,
+       "pose": "bow",
+       "emote": "smug",
+       "scale": 1.4,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "flag",
+       "x": 880,
+       "y": 1235,
+       "scale": 2.2
+      },
+      {
+       "kind": "ball",
+       "x": 640,
+       "y": 1425,
+       "scale": 0.8
+      }
+     ],
+     "sfx": {
+      "text": "DING",
+      "x": 300,
+      "y": 560,
+      "r": 110
+     },
+     "fx": [
+      {
+       "kind": "sparkle",
+       "x": 880,
+       "y": 1150
+      }
+     ]
+    }
+   ]
+  },
+  "s07": {
+   "type": "PROVOC",
+   "q": "Should VAR check every challenge?",
+   "a": "Check all",
+   "b": "Let it go",
+   "split": [
+    72,
+    28
+   ],
+   "mood": "shock"
+  },
+  "s08": {
+   "type": "INTERVIEW",
+   "label": "REPORTER ASKS",
+   "bubble": "Mourinho, how was that knee slide?",
+   "answer": {
+    "icon": "tv",
+    "gesture": "shrug",
+    "emote": "smug"
+   },
+   "subject": "Mourinho",
+   "subject_cast": "mourinho"
+  }
+ }
+}

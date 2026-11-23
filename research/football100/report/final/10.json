@@ -1,0 +1,669 @@
+[
+ {
+  "hook_type": "stat_shock",
+  "hook_basis": "record_or_milestone",
+  "topic_primary": "record_milestone",
+  "scope": "mixed_career",
+  "subject_type": "player",
+  "timeliness": "breaking_week",
+  "uk_relevance": "low",
+  "story_structure": "chronological_recap",
+  "twist_position": "middle",
+  "payoff_type": "punchline",
+  "humour_type": "absurd_comparison",
+  "humour_target": "situation",
+  "dominant_emotion": "amusement",
+  "comment_bait": "none",
+  "cta_opener_type": "question",
+  "hook_type_alt": "curiosity_gap",
+  "hook_strength": 3.5,
+  "story_clarity": 4.0,
+  "humour_quality": 3.5,
+  "shareability": 4.0,
+  "comment_potential": 2.0,
+  "uk_fit": 1.0,
+  "novelty": 5.0,
+  "poster_title_sells_hook": 3.0,
+  "poster_joke_quality": 2.0,
+  "humour_intensity": 2.0,
+  "virality_pred": 6.0,
+  "risk_flags": [
+   "betting_under18_appeal",
+   "off_topic_footage_risk",
+   "single_source"
+  ],
+  "hook_type_why": "\"Six confederations. One winger. One very full passport.\" Count first, joke second, detail withheld.",
+  "hook_basis_detail": "ESPN: first outfield player to play in all six confederations, in FIFA-affiliated leagues.",
+  "story_summary": "Journeyman winger Barboza completes all six confederations; Tahiti fans vote on his moves by WhatsApp; a cyclone doubles his flight home.",
+  "poster_issue": "Bubble just lists the countries and does not sell the WhatsApp vote or the cyclone; burst \"OH DEAR...\" does not match the tone.",
+  "poster_change": "Use the WhatsApp gag in the bubble: \"300 fans. One WhatsApp group. Zero tactical knowledge.\" and a burst like \"WAIT, WHAT?!\".",
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "add_second_source",
+    "action": "Confirm the first-outfield-player claim and the 300 paying fans with a second outlet."
+   },
+   {
+    "priority": "P2",
+    "category": "vary_cta",
+    "action": "Replace the CTA opener used in 25 videos with a new line."
+   },
+   {
+    "priority": "P2",
+    "category": "add_comment_bait",
+    "action": "Add a closing question: which continent should he play next?"
+   },
+   {
+    "priority": "P2",
+    "category": "poster_title",
+    "action": "Move the WhatsApp vote onto the poster, since it is the strongest hook."
+   },
+   {
+    "priority": "P2",
+    "category": "footage_match",
+    "action": "Check footage fits an obscure player; use Tahiti or passport visuals."
+   }
+  ],
+  "no": 91,
+  "annotator_agreement": 0.96
+ },
+ {
+  "hook_type": "stat_shock",
+  "hook_basis": "transfer_fee_or_bid",
+  "topic_primary": "transfer_story",
+  "scope": "other_leagues",
+  "subject_type": "player",
+  "timeliness": "breaking_week",
+  "uk_relevance": "medium",
+  "story_structure": "rumour_explainer",
+  "twist_position": "middle",
+  "payoff_type": "callback_to_hook",
+  "humour_type": "understatement",
+  "humour_target": "club",
+  "dominant_emotion": "curiosity",
+  "comment_bait": "none",
+  "cta_opener_type": "question",
+  "hook_type_alt": "none",
+  "hook_strength": 3.5,
+  "story_clarity": 4.5,
+  "humour_quality": 2.0,
+  "shareability": 3.0,
+  "comment_potential": 3.0,
+  "uk_fit": 4.5,
+  "novelty": 2.5,
+  "poster_title_sells_hook": 3.5,
+  "poster_joke_quality": 2.0,
+  "humour_intensity": 1.0,
+  "virality_pred": 4.5,
+  "risk_flags": [
+   "single_source",
+   "unverified_claim"
+  ],
+  "hook_type_why": "\"Six clubs want one winger. Feyenoord reportedly rejected thirty-five million pounds.\" Count plus fee up front.",
+  "hook_basis_detail": "Feyenoord reportedly rejected bids of about 35 million pounds for Hadj Moussa; six clubs are interested.",
+  "story_summary": "Six clubs chase Feyenoord's Hadj Moussa; his form backs the 35m price and Newcastle may regret passing at 33m.",
+  "poster_issue": "Bubble is a stat line, not a joke. Burst \"BOOM!\" adds nothing for a non-comic transfer story.",
+  "poster_change": "Bubble: \"Six clubs. One very busy phone.\" Keep the headline.",
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "verify_fact",
+    "action": "Check the 35m rejected bid and the Newcastle 33m summer figure against a second report."
+   },
+   {
+    "priority": "P1",
+    "category": "add_second_source",
+    "action": "Only goal.com is cited; add one more outlet for the six-club list."
+   },
+   {
+    "priority": "P2",
+    "category": "add_comment_bait",
+    "action": "Ask viewers which of the six clubs he should pick."
+   },
+   {
+    "priority": "P2",
+    "category": "vary_cta",
+    "action": "Replace the CTA opener repeated in 25 videos."
+   },
+   {
+    "priority": "P3",
+    "category": "improve_humour",
+    "action": "Sharpen the Newcastle \"Awkward\" line; it is the only real joke."
+   }
+  ],
+  "no": 92,
+  "annotator_agreement": 0.93
+ },
+ {
+  "hook_type": "contrast_twist",
+  "hook_basis": "transfer_fee_or_bid",
+  "topic_primary": "player_form",
+  "scope": "premier_league",
+  "subject_type": "player",
+  "timeliness": "breaking_week",
+  "uk_relevance": "high",
+  "story_structure": "roast_and_praise",
+  "twist_position": "late",
+  "payoff_type": "callback_to_hook",
+  "humour_type": "sarcasm",
+  "humour_target": "manager",
+  "dominant_emotion": "amusement",
+  "comment_bait": "hot_take",
+  "cta_opener_type": "mates_social",
+  "hook_type_alt": "stat_shock",
+  "hook_strength": 4.0,
+  "story_clarity": 4.0,
+  "humour_quality": 4.0,
+  "shareability": 3.5,
+  "comment_potential": 4.0,
+  "uk_fit": 5.0,
+  "novelty": 2.5,
+  "poster_title_sells_hook": 3.0,
+  "poster_joke_quality": 2.5,
+  "humour_intensity": 2.0,
+  "virality_pred": 6.5,
+  "risk_flags": [
+   "overlap_other_video",
+   "single_source",
+   "unverified_claim"
+  ],
+  "hook_type_why": "\"A reported seventy-five million pounds, and Arteta says: not there yet.\" Big fee against a lukewarm verdict.",
+  "hook_basis_detail": "Reported 75 million pounds Arsenal paid for Guimaraes; Arteta says he is still not there.",
+  "story_summary": "Guimaraes returns to Newcastle; Arteta wants more close-range goals despite the 75m fee and first-choice status.",
+  "poster_issue": "Bubble is a plain status line, not the tap-ins joke. Headline buries the 75m number. Burst \"CHEEKY!\" is fine.",
+  "poster_change": "Headline: \"75M AND STILL 'NOT THERE YET'\". Bubble: \"75 million does not cover tap-ins.\"",
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "merge_or_drop",
+    "action": "Same Sky article as video 95; publish only one, or space them apart."
+   },
+   {
+    "priority": "P1",
+    "category": "vary_cta",
+    "action": "CTA opener \"Your mates will never guess this\" appears in 32 videos; replace."
+   },
+   {
+    "priority": "P2",
+    "category": "poster_title",
+    "action": "Put 75m and the Arteta jab on the poster."
+   },
+   {
+    "priority": "P2",
+    "category": "stronger_twist",
+    "action": "The \"twist\" line is weak; reveal the Sunderland and Leeds goals earlier."
+   },
+   {
+    "priority": "P3",
+    "category": "verify_fact",
+    "action": "Check the ground-duel ranking behind Lavia and the 31 goals."
+   },
+   {
+    "priority": "P3",
+    "category": "add_comment_bait",
+    "action": "Add: is Bruno worth 75m? Say it in the comments."
+   }
+  ],
+  "no": 93,
+  "annotator_agreement": 0.89
+ },
+ {
+  "hook_type": "stat_shock",
+  "hook_basis": "stats_oddity",
+  "topic_primary": "match_report",
+  "scope": "premier_league",
+  "subject_type": "club_team",
+  "timeliness": "breaking_week",
+  "uk_relevance": "high",
+  "story_structure": "stat_stack",
+  "twist_position": "middle",
+  "payoff_type": "punchline",
+  "humour_type": "wordplay",
+  "humour_target": "club",
+  "dominant_emotion": "schadenfreude",
+  "comment_bait": "fan_rivalry",
+  "cta_opener_type": "question",
+  "hook_type_alt": "contrast_twist",
+  "hook_strength": 5.0,
+  "story_clarity": 4.5,
+  "humour_quality": 4.0,
+  "shareability": 4.0,
+  "comment_potential": 4.5,
+  "uk_fit": 5.0,
+  "novelty": 3.0,
+  "poster_title_sells_hook": 3.5,
+  "poster_joke_quality": 3.0,
+  "humour_intensity": 2.0,
+  "virality_pred": 8.0,
+  "risk_flags": [
+   "betting_under18_appeal",
+   "single_source"
+  ],
+  "hook_type_why": "\"Zero shots on target at Anfield. Against Arsenal.\" A zero as the shock, then the opponent.",
+  "hook_basis_detail": "No shot on target against Arsenal, first time in 442 league matches at Anfield.",
+  "story_summary": "Liverpool's shaky home record, one win in five, ahead of a visit from struggling Manchester United.",
+  "poster_issue": "Bubble \"ANFIELD, THE FORTRESS.\" sets up the drawbridge joke but the punchline is missing.",
+  "poster_change": "Bubble: \"Anfield, the fortress. Drawbridge currently down.\" Keep headline and \"HOW?!\".",
+  "changes": [
+   {
+    "priority": "P2",
+    "category": "verify_fact",
+    "action": "Check the 442-match stat and the away-record claim against Opta or a second source."
+   },
+   {
+    "priority": "P2",
+    "category": "add_second_source",
+    "action": "Add a second outlet; only ESPN is cited."
+   },
+   {
+    "priority": "P2",
+    "category": "poster_title",
+    "action": "Finish the drawbridge joke in the bubble."
+   },
+   {
+    "priority": "P3",
+    "category": "add_comment_bait",
+    "action": "Ask viewers who wins Liverpool v Manchester United."
+   }
+  ],
+  "no": 94,
+  "annotator_agreement": 0.93
+ },
+ {
+  "hook_type": "news_flash",
+  "hook_basis": "transfer_fee_or_bid",
+  "topic_primary": "transfer_story",
+  "scope": "premier_league",
+  "subject_type": "player",
+  "timeliness": "breaking_week",
+  "uk_relevance": "high",
+  "story_structure": "stat_stack",
+  "twist_position": "none",
+  "payoff_type": "none",
+  "humour_type": "understatement",
+  "humour_target": "manager",
+  "dominant_emotion": "curiosity",
+  "comment_bait": "none",
+  "cta_opener_type": "question",
+  "hook_type_alt": "stat_shock",
+  "hook_strength": 2.0,
+  "story_clarity": 4.0,
+  "humour_quality": 2.5,
+  "shareability": 2.0,
+  "comment_potential": 2.0,
+  "uk_fit": 5.0,
+  "novelty": 1.0,
+  "poster_title_sells_hook": 2.0,
+  "poster_joke_quality": 1.0,
+  "humour_intensity": 1.0,
+  "virality_pred": 3.0,
+  "risk_flags": [
+   "overlap_other_video",
+   "single_source"
+  ],
+  "hook_type_why": "\"For a reported seventy-five million pounds, Guimaraes returns to St James' Park.\" Plain announcement with a fee.",
+  "hook_basis_detail": "Reported 75 million pounds Arsenal paid; Guimaraes faces former club Newcastle on Saturday at 5:30pm.",
+  "story_summary": "Guimaraes returns to Newcastle with Arsenal five points clear; Arteta says he is not there yet.",
+  "poster_issue": "Bubble is a fixture detail, not a joke. Headline is generic and \"OUCH!\" has no setup.",
+  "poster_change": "Headline: \"OLD CLUB, NEW COLOURS, 75M\". Bubble: \"Praise from Arteta comes in instalments.\"",
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "merge_or_drop",
+    "action": "Repeats the Sky article used in video 93; drop it or add a different angle."
+   },
+   {
+    "priority": "P1",
+    "category": "hook_rewrite",
+    "action": "Hook is a flat fixture note; lead with Arteta's \"not there yet\" or the homecoming irony."
+   },
+   {
+    "priority": "P2",
+    "category": "stronger_twist",
+    "action": "Move the Arteta instalments line to the end so the video closes on a joke."
+   },
+   {
+    "priority": "P2",
+    "category": "add_comment_bait",
+    "action": "Ask whether Guimaraes gets a warm welcome at St James' Park."
+   },
+   {
+    "priority": "P2",
+    "category": "poster_title",
+    "action": "Replace the kick-off time bubble with a real joke."
+   }
+  ],
+  "no": 95,
+  "annotator_agreement": 0.89
+ },
+ {
+  "hook_type": "stat_shock",
+  "hook_basis": "record_or_milestone",
+  "topic_primary": "viral_moment",
+  "scope": "english_other",
+  "subject_type": "owner_or_other",
+  "timeliness": "recent_month",
+  "uk_relevance": "high",
+  "story_structure": "chronological_recap",
+  "twist_position": "none",
+  "payoff_type": "punchline",
+  "humour_type": "wordplay",
+  "humour_target": "situation",
+  "dominant_emotion": "awe",
+  "comment_bait": "none",
+  "cta_opener_type": "question",
+  "hook_type_alt": "curiosity_gap",
+  "hook_strength": 4.5,
+  "story_clarity": 4.5,
+  "humour_quality": 4.0,
+  "shareability": 4.5,
+  "comment_potential": 3.0,
+  "uk_fit": 4.5,
+  "novelty": 5.0,
+  "poster_title_sells_hook": 4.0,
+  "poster_joke_quality": 3.0,
+  "humour_intensity": 2.5,
+  "virality_pred": 8.0,
+  "risk_flags": [
+   "off_topic_footage_risk",
+   "single_source"
+  ],
+  "hook_type_why": "\"Twenty-eight years of walking, and absolutely no lifts.\" Big number, with the destination withheld.",
+  "hook_basis_detail": "Karl Bushby finished a 28-year, about 31,000-mile walk from Chile to Hull, no transport.",
+  "story_summary": "Karl Bushby ends a 28-year walk from Chile in Hull, swims the Channel, and wants to sit down at a Hull City match.",
+  "poster_issue": "Bubble gives a date, not a joke. It misses the ferry-would-be-cheating line.",
+  "poster_change": "Bubble: \"A ferry would have been cheating.\" Keep headline.",
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "footage_match",
+    "action": "Use Hull City or Bushby footage; generic football footage will not match this story."
+   },
+   {
+    "priority": "P2",
+    "category": "add_second_source",
+    "action": "Confirm 1998, 31,000 miles and four continents with a second source."
+   },
+   {
+    "priority": "P2",
+    "category": "poster_title",
+    "action": "Use the ferry-cheating line on the poster."
+   },
+   {
+    "priority": "P2",
+    "category": "add_comment_bait",
+    "action": "Ask: what is the furthest you have travelled for your club?"
+   },
+   {
+    "priority": "P2",
+    "category": "verify_fact",
+    "action": "Confirm 31,000 miles and 1998 start, which come from background, not the article."
+   }
+  ],
+  "no": 96,
+  "annotator_agreement": 0.96
+ },
+ {
+  "hook_type": "contrast_twist",
+  "hook_basis": "comeback_collapse",
+  "topic_primary": "comeback",
+  "scope": "europe_club",
+  "subject_type": "club_team",
+  "timeliness": "recent_month",
+  "uk_relevance": "high",
+  "story_structure": "irony_then_vs_now",
+  "twist_position": "early",
+  "payoff_type": "callback_to_hook",
+  "humour_type": "understatement",
+  "humour_target": "club",
+  "dominant_emotion": "schadenfreude",
+  "comment_bait": "none",
+  "cta_opener_type": "tease_next",
+  "hook_type_alt": "none",
+  "hook_strength": 4.0,
+  "story_clarity": 4.0,
+  "humour_quality": 3.0,
+  "shareability": 3.0,
+  "comment_potential": 3.5,
+  "uk_fit": 5.0,
+  "novelty": 2.0,
+  "poster_title_sells_hook": 3.0,
+  "poster_joke_quality": 2.0,
+  "humour_intensity": 2.0,
+  "virality_pred": 6.0,
+  "risk_flags": [
+   "single_source",
+   "unverified_claim"
+  ],
+  "hook_type_why": "\"Liverpool led twice in Istanbul. They still lost.\" Lead, then defeat.",
+  "hook_basis_detail": "Liverpool led twice in Istanbul but lost 3-2 to Fenerbahce, ending their perfect start.",
+  "story_summary": "Fenerbahce come back twice to beat Liverpool 3-2, ending Liverpool's perfect Champions League start.",
+  "poster_issue": "Bubble is a long setup with no punch. The 4-3 Villarreal detail does not carry the headline.",
+  "poster_change": "Bubble: \"Perfect start. Perfect until Istanbul.\" Keep headline.",
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "verify_fact",
+    "action": "Scorers differ between scoreboard and shot map; confirm scorers and goal order."
+   },
+   {
+    "priority": "P2",
+    "category": "add_comment_bait",
+    "action": "Ask whether the perfect start was never real."
+   },
+   {
+    "priority": "P2",
+    "category": "add_second_source",
+    "action": "Add a second outlet for the match facts."
+   },
+   {
+    "priority": "P2",
+    "category": "poster_title",
+    "action": "Shorten the bubble to the \"perfect until Istanbul\" line."
+   },
+   {
+    "priority": "P3",
+    "category": "improve_humour",
+    "action": "Replace the weak \"productive bench\" line with a sharper joke."
+   }
+  ],
+  "no": 97,
+  "annotator_agreement": 0.96
+ },
+ {
+  "hook_type": "bold_claim",
+  "hook_basis": "controversy_or_discipline",
+  "topic_primary": "discipline_controversy",
+  "scope": "english_other",
+  "subject_type": "club_team",
+  "timeliness": "recent_month",
+  "uk_relevance": "high",
+  "story_structure": "chronological_recap",
+  "twist_position": "middle",
+  "payoff_type": "punchline",
+  "humour_type": "understatement",
+  "humour_target": "club",
+  "dominant_emotion": "surprise",
+  "comment_bait": "none",
+  "cta_opener_type": "question",
+  "hook_type_alt": "none",
+  "hook_strength": 4.0,
+  "story_clarity": 4.0,
+  "humour_quality": 3.0,
+  "shareability": 3.5,
+  "comment_potential": 3.0,
+  "uk_fit": 4.5,
+  "novelty": 4.0,
+  "poster_title_sells_hook": 3.5,
+  "poster_joke_quality": 2.0,
+  "humour_intensity": 1.0,
+  "virality_pred": 5.5,
+  "risk_flags": [
+   "single_source",
+   "unverified_claim"
+  ],
+  "hook_type_why": "\"Southampton spied on opponents three times last season. The EFL noticed.\" Accusation stated flat, dry jab.",
+  "hook_basis_detail": "Southampton spied on opponents three times; the EFL overturned their playoff win and handed a four-point deduction.",
+  "story_summary": "Southampton start the season on minus four after spying on Middlesbrough; Hull took their playoff place, yet Saints beat QPR 4-1.",
+  "poster_issue": "Bubble repeats a fact and lacks a joke. Burst \"SERIOUSLY?!\" is fine, but the dry tone is lost.",
+  "poster_change": "Bubble: \"One analyst. Presumably with a clipboard.\" Keep headline.",
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "poster_title",
+    "action": "Lead with the spying; \"four points down\" is a weaker hook."
+   },
+   {
+    "priority": "P2",
+    "category": "verify_fact",
+    "action": "Check \"three times\", the overturned playoff win and the promotion-favourites claim in the subject line."
+   },
+   {
+    "priority": "P2",
+    "category": "add_second_source",
+    "action": "Add a second outlet for the EFL ruling and the Eckert fine."
+   },
+   {
+    "priority": "P2",
+    "category": "add_comment_bait",
+    "action": "Ask whether the four-point deduction was fair."
+   },
+   {
+    "priority": "P3",
+    "category": "stronger_twist",
+    "action": "Move the \"all in plain sight\" gag later so QPR 4-1 lands as twist."
+   },
+   {
+    "priority": "P3",
+    "category": "vary_cta",
+    "action": "Keep the story-specific CTA; do not fall back to the shared opener."
+   }
+  ],
+  "no": 98,
+  "annotator_agreement": 0.96
+ },
+ {
+  "hook_type": "stat_shock",
+  "hook_basis": "scoreline_result",
+  "topic_primary": "match_report",
+  "scope": "europe_club",
+  "subject_type": "club_team",
+  "timeliness": "recent_month",
+  "uk_relevance": "medium",
+  "story_structure": "stat_stack",
+  "twist_position": "none",
+  "payoff_type": "callback_to_hook",
+  "humour_type": "sarcasm",
+  "humour_target": "club",
+  "dominant_emotion": "schadenfreude",
+  "comment_bait": "fan_rivalry",
+  "cta_opener_type": "question",
+  "hook_type_alt": "none",
+  "hook_strength": 3.0,
+  "story_clarity": 3.5,
+  "humour_quality": 3.0,
+  "shareability": 2.5,
+  "comment_potential": 3.0,
+  "uk_fit": 3.0,
+  "novelty": 2.0,
+  "poster_title_sells_hook": 2.5,
+  "poster_joke_quality": 1.0,
+  "humour_intensity": 2.0,
+  "virality_pred": 4.0,
+  "risk_flags": [
+   "single_source",
+   "unverified_claim"
+  ],
+  "hook_type_why": "\"One point from three games. Then Hearts went to Switzerland.\" Small number, dry jab on the trip.",
+  "hook_basis_detail": "Thun beat Hearts 3-1 at the Stockhorn Arena; Hearts had one point from three Conference League games.",
+  "story_summary": "Hearts lose 3-1 at Thun, leaving one point from four Conference League games and the foot of the table nearer.",
+  "poster_issue": "Bubble repeats the score and has no joke. \"OH DEAR...\" burst is used in other videos.",
+  "poster_change": "Bubble: \"Thirty-second out of thirty-six. Not a typo.\" Keep headline.",
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "verify_fact",
+    "action": "Line 4 lists Thun 3-1 as \"before that\" and mixes a league defeat at Celtic with the Conference League run."
+   },
+   {
+    "priority": "P2",
+    "category": "add_comment_bait",
+    "action": "Ask Hearts fans whether this is a crisis."
+   },
+   {
+    "priority": "P2",
+    "category": "poster_title",
+    "action": "Use the thirty-second-of-36 line on the poster."
+   },
+   {
+    "priority": "P3",
+    "category": "hook_rewrite",
+    "action": "Lead with \"Seven-one, two-nil, three-one\" for a sharper stat."
+   }
+  ],
+  "no": 99,
+  "annotator_agreement": 0.93
+ },
+ {
+  "hook_type": "contrast_twist",
+  "hook_basis": "stats_oddity",
+  "topic_primary": "match_report",
+  "scope": "premier_league",
+  "subject_type": "club_team",
+  "timeliness": "recent_month",
+  "uk_relevance": "high",
+  "story_structure": "stat_stack",
+  "twist_position": "early",
+  "payoff_type": "punchline",
+  "humour_type": "sarcasm",
+  "humour_target": "club",
+  "dominant_emotion": "schadenfreude",
+  "comment_bait": "hot_take",
+  "cta_opener_type": "question",
+  "hook_type_alt": "stat_shock",
+  "hook_strength": 4.0,
+  "story_clarity": 4.0,
+  "humour_quality": 3.0,
+  "shareability": 4.0,
+  "comment_potential": 4.0,
+  "uk_fit": 5.0,
+  "novelty": 2.0,
+  "poster_title_sells_hook": 4.0,
+  "poster_joke_quality": 2.0,
+  "humour_intensity": 2.5,
+  "virality_pred": 7.0,
+  "risk_flags": [
+   "single_source",
+   "unverified_claim"
+  ],
+  "hook_type_why": "\"Seven wins in a row. Then three straight league defeats.\" Win streak against loss streak.",
+  "hook_basis_detail": "City won seven straight (all competitions), then lost three league games, the last 3-1 at Forest.",
+  "story_summary": "Manchester City lose 3-1 at Forest, a third straight league defeat, leaving them six points behind Arsenal.",
+  "poster_issue": "Bubble repeats the score; the \"national emergency\" joke is missing from the poster.",
+  "poster_change": "Bubble: \"Three defeats in a row. At City, a national emergency.\" Keep headline.",
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "verify_fact",
+    "action": "Hook says \"seven wins in a row\" (all competitions) next to \"league\" defeats; align or reword."
+   },
+   {
+    "priority": "P2",
+    "category": "add_second_source",
+    "action": "Add a second outlet for the Gvardiol error and the six-point gap."
+   },
+   {
+    "priority": "P2",
+    "category": "poster_title",
+    "action": "Put the national-emergency joke on the poster."
+   },
+   {
+    "priority": "P2",
+    "category": "add_comment_bait",
+    "action": "Ask: is Maresca's job under threat? Hot-take bait for City and Forest fans."
+   }
+  ],
+  "no": 100,
+  "annotator_agreement": 0.96
+ }
+]

@@ -1,0 +1,112 @@
+{
+ "video_id": "zUPVflpjNaw",
+ "topic": "Short: Club football NOW vs THEN - trios of star forwards of Barcelona, Bayern, Real Madrid, AC Milan, Man United",
+ "hero": "Club forward trios (unidentified in-frame except by label)",
+ "hero_role": "subject of comparison",
+ "media_type_overall": "static photo(s)",
+ "hook": "White-background trio photo of Barcelona players with text \"Barcelona Now:\"",
+ "subtitle_style": "White bold text with black outline on chest height: \"Barcelona Now:\" / \"Barcelona Then: skull emoji\"; centered",
+ "reaction_overlays": "Skull emoji after THEN labels; crossfade overlaps; letterboxed vertical black bars",
+ "transition_summary": "Each club gets ~2 s; crossfade / flash between trio images; about 5 cuts per 10 s (cuts at 2.5, 4.9, 6.1, 7.3, 7.8, 8.4, 9.4 s)",
+ "audio_note": "Likely trending music; description mentions vintage tridents",
+ "reuse_segments": [
+  {
+   "t0": 0,
+   "t1": 21,
+   "what": "Promo photos of club trios (Now vs Then)",
+   "origin_guess": "static photos",
+   "rights_risk": "high",
+   "how_to_reuse": "recreate with generated illustrations or licensed photos"
+  }
+ ],
+ "frames": [
+  {
+   "idx": 1,
+   "t": 0,
+   "desc": "White background trio of Barcelona players in kit, label Barcelona Now",
+   "type": "static_image",
+   "text_on_screen": "Barcelona Now:",
+   "transition_to_next": "crossfade"
+  },
+  {
+   "idx": 2,
+   "t": 2,
+   "desc": "Bayern trio in red kit including central player, label Bayern Now",
+   "type": "static_image",
+   "text_on_screen": "Bayern Now:",
+   "transition_to_next": "crossfade"
+  },
+  {
+   "idx": 3,
+   "t": 4,
+   "desc": "Faded crossfade of Real Madrid trio in white kit, label Real Madrid Now",
+   "type": "static_image",
+   "text_on_screen": "Real Madrid Now:",
+   "transition_to_next": "crossfade"
+  },
+  {
+   "idx": 4,
+   "t": 6,
+   "desc": "AC Milan trio: keeper in lime, striker shouting, label AC Milan Now",
+   "type": "static_image",
+   "text_on_screen": "AC Milan Now:",
+   "transition_to_next": "crossfade"
+  },
+  {
+   "idx": 5,
+   "t": 8,
+   "desc": "Crossfade of two stacked trio photos, Man United Now (red kit)",
+   "type": "static_image",
+   "text_on_screen": "",
+   "transition_to_next": "crossfade"
+  },
+  {
+   "idx": 6,
+   "t": 10,
+   "desc": "Barcelona trio in blue-garnet kit posing, label Barcelona Then with skull emoji",
+   "type": "static_image",
+   "text_on_screen": "Barcelona Then:",
+   "transition_to_next": "crossfade"
+  },
+  {
+   "idx": 7,
+   "t": 12,
+   "desc": "Bayern trio in red kit posing, label Bayern Then with skull",
+   "type": "static_image",
+   "text_on_screen": "Bayern Then:",
+   "transition_to_next": "crossfade"
+  },
+  {
+   "idx": 8,
+   "t": 14,
+   "desc": "Real Madrid trio in white kit with arms crossed, label Real Madrid Then",
+   "type": "static_image",
+   "text_on_screen": "Real Madrid Then:",
+   "transition_to_next": "crossfade"
+  },
+  {
+   "idx": 9,
+   "t": 16,
+   "desc": "AC Milan trio, central player opening jacket to show kit, label AC Milan Then",
+   "type": "static_image",
+   "text_on_screen": "AC Milan Then:",
+   "transition_to_next": "crossfade"
+  },
+  {
+   "idx": 10,
+   "t": 18,
+   "desc": "Man United trio in red kit celebrating with Santa-style hat, label Man United Then",
+   "type": "static_image",
+   "text_on_screen": "Man United Then:",
+   "transition_to_next": "crossfade"
+  },
+  {
+   "idx": 11,
+   "t": 20,
+   "desc": "Fade to black of last trio image",
+   "type": "static_image",
+   "text_on_screen": "",
+   "transition_to_next": "none"
+  }
+ ]
+}

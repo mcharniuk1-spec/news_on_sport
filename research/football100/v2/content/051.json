@@ -1,0 +1,344 @@
+{
+ "no": 51,
+ "style": "FLAT-POP",
+ "prop": "door",
+ "cast": {
+  "rapinoe": {
+   "role": "player",
+   "shirt": "#e87575",
+   "hair": "#d9a0e0"
+  },
+  "beckham": {
+   "role": "player",
+   "shirt": "#4c80b5",
+   "hair": "#c8a05a"
+  }
+ },
+ "sequences": {
+  "s01": {
+   "type": "HOOK",
+   "q": "Who gets into the Hall first time?",
+   "prop": "crown",
+   "emote": "wink",
+   "board": "neon",
+   "role": "legend"
+  },
+  "s02": {
+   "type": "COMIC",
+   "bg": "podium",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "rapinoe",
+       "x": 260,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "happy",
+       "scale": 1.4,
+       "label": "Megan Rapinoe"
+      }
+     ],
+     "props": [
+      {
+       "kind": "door",
+       "x": 840,
+       "y": 1130,
+       "scale": 3.0
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.52,
+     "actors": [
+      {
+       "id": "rapinoe",
+       "x": 560,
+       "y": 1440,
+       "pose": "wave",
+       "emote": "wink",
+       "scale": 1.4,
+       "hold": {
+        "kind": "trophy",
+        "hand": "R",
+        "scale": 0.8
+       }
+      }
+     ],
+     "props": [
+      {
+       "kind": "door",
+       "x": 840,
+       "y": 1130,
+       "scale": 3.0
+      }
+     ],
+     "cam": "push",
+     "fx": [
+      {
+       "kind": "sparkle",
+       "x": 620,
+       "y": 900
+      }
+     ]
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.52,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "rapinoe",
+       "x": 380,
+       "y": 1440,
+       "pose": "cheer",
+       "emote": "love",
+       "scale": 1.4,
+       "hold": {
+        "kind": "trophy",
+        "hand": "R",
+        "scale": 0.8
+       }
+      }
+     ],
+     "props": [
+      {
+       "kind": "door",
+       "x": 840,
+       "y": 1130,
+       "scale": 3.0,
+       "layer": "front"
+      },
+      {
+       "kind": "card-red",
+       "x": 640,
+       "y": 1470,
+       "scale": 2.6,
+       "rot": 90,
+       "layer": "back"
+      }
+     ],
+     "bg": "studio",
+     "sfx": {
+      "text": "THUD",
+      "x": 840,
+      "y": 640,
+      "r": 120
+     },
+     "fx": [
+      {
+       "kind": "confetti",
+       "x": 540,
+       "y": 700
+      }
+     ]
+    }
+   ]
+  },
+  "s03": {
+   "type": "NEWS",
+   "name": "David Beckham",
+   "fact": "David Beckham is one of them",
+   "ticker": "Four new legends",
+   "icons": [
+    "trophy",
+    "star",
+    "medal"
+   ],
+   "role": "player",
+   "actor": "beckham"
+  },
+  "s04": {
+   "type": "INTERVIEW",
+   "label": "REPORTER ASKS",
+   "bubble": "Two World Cups and a Ballon d'Or?",
+   "answer": {
+    "icon": "trophy",
+    "gesture": "shrug",
+    "emote": "smug"
+   },
+   "subject": "Megan Rapinoe",
+   "subject_cast": "rapinoe",
+   "reporter_role": "reporter"
+  },
+  "s05": {
+   "type": "PROVOC",
+   "q": "Is 42 goals enough for the Hall?",
+   "a": "Yes, easily",
+   "b": "Not sure",
+   "split": [
+    71,
+    29
+   ],
+   "mood": "smug"
+  },
+  "s06": {
+   "type": "COMIC",
+   "bg": "tunnel",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "beckham",
+       "x": 560,
+       "y": 1440,
+       "pose": "lean",
+       "emote": "sweat",
+       "scale": 1.4,
+       "label": "David Beckham"
+      }
+     ],
+     "props": [
+      {
+       "kind": "door",
+       "x": 180,
+       "y": 1130,
+       "scale": 2.4
+      },
+      {
+       "kind": "suit",
+       "x": 560,
+       "y": 1138,
+       "scale": 1.32
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.52,
+     "actors": [
+      {
+       "id": "beckham",
+       "x": 560,
+       "y": 1440,
+       "pose": "present",
+       "emote": "smug",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "door",
+       "x": 180,
+       "y": 1130,
+       "scale": 2.4
+      },
+      {
+       "kind": "suit",
+       "x": 560,
+       "y": 1138,
+       "scale": 1.32,
+       "anim": "wobble"
+      }
+     ],
+     "cam": "push",
+     "sfx": {
+      "text": "POP",
+      "x": 840,
+      "y": 600,
+      "r": 100
+     },
+     "fx": [
+      {
+       "kind": "sparkle",
+       "x": 560,
+       "y": 1000
+      }
+     ]
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.52,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "beckham",
+       "x": 560,
+       "y": 1440,
+       "pose": "cheer",
+       "emote": "happy",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "door",
+       "x": 180,
+       "y": 1130,
+       "scale": 2.4,
+       "flip": true
+      },
+      {
+       "kind": "suit",
+       "x": 560,
+       "y": 1138,
+       "scale": 1.32
+      },
+      {
+       "kind": "card-red",
+       "x": 700,
+       "y": 1470,
+       "scale": 2.6,
+       "rot": 90,
+       "layer": "back"
+      },
+      {
+       "kind": "trophy",
+       "x": 850,
+       "y": 820,
+       "scale": 1.5,
+       "anim": "drop"
+      }
+     ],
+     "bg": "podium",
+     "fx": [
+      {
+       "kind": "confetti",
+       "x": 540,
+       "y": 700
+      }
+     ]
+    }
+   ]
+  },
+  "s07": {
+   "type": "STATS",
+   "items": [
+    {
+     "icon": "calendar",
+     "value": "16",
+     "label": "16 April"
+    },
+    {
+     "icon": "door",
+     "value": "1",
+     "label": "front door"
+    },
+    {
+     "icon": "key",
+     "value": "1",
+     "label": "side door"
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,240 @@
+{
+ "video_id": "-53k_uS6Pd4",
+ "topic": "Meme satire about footballers exaggerating injuries, stretcher drama and flying business class, narrated with deadpan captions",
+ "hero": "Anonymous players on stretcher / on-pitch fallers; meme clips of celebrities reacting",
+ "hero_role": "butts of the joke",
+ "media_type_overall": "mixed",
+ "hook": "Man in green hoodie (celebrity-reaction meme) with caption 'footballers are genuinely'",
+ "subtitle_style": "White bold sans captions with black outline at bottom, 2-4 word chunks; some tiles have extra top caption 'Bro is not hurt' with laughing emojis",
+ "reaction_overlays": "Celebrity reaction cutaways, laughing emoji captions, stretcher letterbox, cloud/sky-diver CGI joke",
+ "transition_summary": "Rapid hard cuts every ~2-4 s (cut list 2.6, 3.9, 7.1, 11.4 ... ), ~3-4 cuts per 10 s",
+ "audio_note": "Deadpan voice-over narration (captions mirror speech) with meme sfx; unknown",
+ "reuse_segments": [
+  {
+   "t0": 0,
+   "t1": 54,
+   "what": "Stretcher and injury-fake clips plus meme cutaways",
+   "origin_guess": "mixed",
+   "rights_risk": "high",
+   "how_to_reuse": "clips from streamers/celebrities and matches; recreate with own actors/AI footage"
+  }
+ ],
+ "frames": [
+  {
+   "idx": 1,
+   "t": 0,
+   "desc": "Man in green jacket on couch, reaction meme, caption",
+   "type": "video",
+   "text_on_screen": "footballers are genuinely",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 2,
+   "t": 2,
+   "desc": "Smiling man in crowd wearing cap, caption",
+   "type": "video",
+   "text_on_screen": "comfortable these days",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 3,
+   "t": 4,
+   "desc": "Letterboxed stretcher on pitch, 'Bro is not hurt' header",
+   "type": "video",
+   "text_on_screen": "Bro is not hurt 😂😂 / on here bro",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 4,
+   "t": 6,
+   "desc": "Wide: player on stretcher with medics, caption",
+   "type": "video",
+   "text_on_screen": "and somehow he's",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 5,
+   "t": 8,
+   "desc": "Suited man on terrace with phone/food, caption",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 6,
+   "t": 10,
+   "desc": "Suited man at cafe eating, caption",
+   "type": "video",
+   "text_on_screen": "bed",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 7,
+   "t": 12,
+   "desc": "Player on stretcher, medic, caption 'Bro is not hurt'",
+   "type": "video",
+   "text_on_screen": "Bro is not hurt 😂😂 / the medical staff",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 8,
+   "t": 14,
+   "desc": "Streamer in vest with plate in studio, wheel behind, caption",
+   "type": "video",
+   "text_on_screen": "job",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 9,
+   "t": 16,
+   "desc": "Streamer dance, studio, wheel, timer 5:09",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 10,
+   "t": 18,
+   "desc": "Streamer and friend, studio, timer 5:12",
+   "type": "video",
+   "text_on_screen": "star hotel",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 11,
+   "t": 20,
+   "desc": "Sprinting figure blur, caption",
+   "type": "video",
+   "text_on_screen": "a real place",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 12,
+   "t": 22,
+   "desc": "Player on stretcher in blue kit, caption",
+   "type": "video",
+   "text_on_screen": "suffering a career",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 13,
+   "t": 24,
+   "desc": "Two men in hoods and masks, reaction meme",
+   "type": "video",
+   "text_on_screen": "receiving the most",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 14,
+   "t": 26,
+   "desc": "Man pulling hood up on set, caption",
+   "type": "video",
+   "text_on_screen": "in football history",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 15,
+   "t": 28,
+   "desc": "Player lying on pitch, others standing",
+   "type": "video",
+   "text_on_screen": "injury anymore",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 16,
+   "t": 30,
+   "desc": "Player lying on pitch, staff in background",
+   "type": "video",
+   "text_on_screen": "the distance",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 17,
+   "t": 32,
+   "desc": "Player on stretcher close, medic",
+   "type": "video",
+   "text_on_screen": "another lap",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 18,
+   "t": 34,
+   "desc": "Man in red top sprinting on road, caption",
+   "type": "video",
+   "text_on_screen": "with a hamstring",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 19,
+   "t": 36,
+   "desc": "Man in red crouching, hamstring pose, caption",
+   "type": "video",
+   "text_on_screen": "emotional support from",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 20,
+   "t": 38,
+   "desc": "Man in red clutching leg, caption",
+   "type": "video",
+   "text_on_screen": "muscle group",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 21,
+   "t": 40,
+   "desc": "Stretcher on pitch with header, caption",
+   "type": "video",
+   "text_on_screen": "Bro is not hurt 😂😂 / even look like",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 22,
+   "t": 42,
+   "desc": "Player lying on grass hands over face, caption",
+   "type": "video",
+   "text_on_screen": "brother probably told",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 23,
+   "t": 44,
+   "desc": "Man in blue shirt with group outside, caption",
+   "type": "video",
+   "text_on_screen": "I'm starting to",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 24,
+   "t": 46,
+   "desc": "Man in suit on football pitch, caption",
+   "type": "video",
+   "text_on_screen": "point",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 25,
+   "t": 48,
+   "desc": "Man in suit at stadium, caption",
+   "type": "video",
+   "text_on_screen": "the most comfortable",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 26,
+   "t": 50,
+   "desc": "Cloudscape with tiny sky-diving figure, CGI joke",
+   "type": "video",
+   "text_on_screen": "bro didn't get",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 27,
+   "t": 52,
+   "desc": "Figure tumbling through clouds",
+   "type": "video",
+   "text_on_screen": "to business class",
+   "transition_to_next": "none"
+  }
+ ]
+}

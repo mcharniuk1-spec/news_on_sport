@@ -1,0 +1,93 @@
+{
+ "no": 80,
+ "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/080_inter_beat_como_2_0_to_trail_lazio_b.mp4",
+ "total": 35.43333333333333,
+ "outro_start": 29.08,
+ "cover": true,
+ "seq": [
+  {
+   "id": "s01",
+   "kind": "HOOK",
+   "start": 0.1,
+   "end": 1.6,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/080/s01.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s02",
+   "kind": "COMIC1",
+   "start": 4.266666666666667,
+   "end": 6.266666666666667,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/080/s02.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s03",
+   "kind": "COMIC2",
+   "start": 9.266666666666667,
+   "end": 11.266666666666667,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/080/s03.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s04",
+   "kind": "PROVOC",
+   "start": 14.566666666666666,
+   "end": 16.066666666666666,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/080/s04.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s05",
+   "kind": "INTERVIEW",
+   "start": 17.766666666666666,
+   "end": 19.533333333333335,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/080/s05.mp4",
+   "clip_dur": 1.767,
+   "frames": 42
+  },
+  {
+   "id": "s06",
+   "kind": "NEWS",
+   "start": 21.5,
+   "end": 23.266666666666666,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/080/s06.mp4",
+   "clip_dur": 1.767,
+   "frames": 42
+  },
+  {
+   "id": "s07",
+   "kind": "STATS",
+   "start": 25.833333333333332,
+   "end": 27.333333333333332,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/080/s07.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  }
+ ],
+ "missing": [],
+ "dropped": [],
+ "cards": [
+  {
+   "text": "One point back",
+   "a": 23.4,
+   "b": 25.066666666666666
+  }
+ ],
+ "caption_sprites": 96,
+ "whoosh": [
+  0.0,
+  4.166666666666667,
+  9.166666666666668,
+  14.466666666666667,
+  17.666666666666664,
+  21.4,
+  25.73333333333333,
+  28.98
+ ],
+ "shots": 11
+}

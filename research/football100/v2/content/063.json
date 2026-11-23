@@ -1,0 +1,540 @@
+{
+ "no": 63,
+ "style": "FLAT-POP",
+ "prop": "ball",
+ "cast": {
+  "keeper": {
+   "role": "keeper",
+   "shirt": "#f2c744"
+  },
+  "fabregas": {
+   "role": "coach",
+   "shirt": "#2f6fd6",
+   "hair": "#3a2b22"
+  },
+  "p1": {
+   "role": "player",
+   "shirt": "#2f6fd6",
+   "hair": "#6b4a2a",
+   "number": "10"
+  },
+  "p2": {
+   "role": "player",
+   "shirt": "#2f6fd6",
+   "hair": "#a03a2a",
+   "number": "7"
+  }
+ },
+ "sequences": {
+  "s01": {
+   "type": "HOOK",
+   "q": "Can anyone score nine away?",
+   "prop": "scoreboard",
+   "prop_text": "9:1",
+   "emote": "shock",
+   "board": "stamp",
+   "role": "keeper"
+  },
+  "s02": {
+   "type": "COMIC",
+   "bg": "pitch",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "keeper",
+       "x": 300,
+       "y": 1440,
+       "scale": 1.45,
+       "pose": "idle",
+       "emote": "shock"
+      }
+     ],
+     "props": [
+      {
+       "kind": "net",
+       "x": 700,
+       "y": 820,
+       "scale": 3.0,
+       "layer": "back"
+      },
+      {
+       "kind": "ball",
+       "x": 610,
+       "y": 960,
+       "scale": 1.0,
+       "anim": "drop"
+      },
+      {
+       "kind": "ball",
+       "x": 800,
+       "y": 940,
+       "scale": 1.0,
+       "anim": "drop"
+      },
+      {
+       "kind": "scoreboard",
+       "x": 860,
+       "y": 440,
+       "scale": 1.3,
+       "text": "3:1",
+       "face": "shock"
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.42,
+     "actors": [
+      {
+       "id": "keeper",
+       "x": 300,
+       "y": 1440,
+       "scale": 1.45,
+       "pose": "point",
+       "emote": "sweat"
+      }
+     ],
+     "props": [
+      {
+       "kind": "net",
+       "x": 700,
+       "y": 820,
+       "scale": 3.0,
+       "layer": "back"
+      },
+      {
+       "kind": "ball",
+       "x": 610,
+       "y": 960,
+       "scale": 1.0
+      },
+      {
+       "kind": "ball",
+       "x": 800,
+       "y": 940,
+       "scale": 1.0
+      },
+      {
+       "kind": "ball",
+       "x": 700,
+       "y": 1050,
+       "scale": 1.0,
+       "anim": "drop"
+      },
+      {
+       "kind": "ball",
+       "x": 560,
+       "y": 1080,
+       "scale": 1.0,
+       "anim": "drop"
+      },
+      {
+       "kind": "scoreboard",
+       "x": 860,
+       "y": 440,
+       "scale": 1.3,
+       "text": "8:1",
+       "face": "shock"
+      }
+     ],
+     "cam": "push"
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.42,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "keeper",
+       "x": 300,
+       "y": 1440,
+       "scale": 1.45,
+       "pose": "headscratch",
+       "emote": "sweat"
+      }
+     ],
+     "props": [
+      {
+       "kind": "net",
+       "x": 700,
+       "y": 820,
+       "scale": 3.0,
+       "layer": "back"
+      },
+      {
+       "kind": "ball",
+       "x": 610,
+       "y": 960,
+       "scale": 1.0
+      },
+      {
+       "kind": "ball",
+       "x": 800,
+       "y": 940,
+       "scale": 1.0
+      },
+      {
+       "kind": "ball",
+       "x": 700,
+       "y": 1050,
+       "scale": 1.0
+      },
+      {
+       "kind": "ball",
+       "x": 560,
+       "y": 1080,
+       "scale": 1.0
+      },
+      {
+       "kind": "ball",
+       "x": 850,
+       "y": 1060,
+       "scale": 1.0,
+       "anim": "drop"
+      },
+      {
+       "kind": "scoreboard",
+       "x": 860,
+       "y": 440,
+       "scale": 1.3,
+       "text": "9:1",
+       "face": "happy"
+      }
+     ],
+     "bubble": {
+      "who": "keeper",
+      "icon": "question"
+     }
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "keeper",
+       "x": 300,
+       "y": 1440,
+       "scale": 1.45,
+       "pose": "present",
+       "emote": "smug",
+       "hold": {
+        "kind": "gloves",
+        "hand": "both",
+        "scale": 0.8
+       }
+      }
+     ],
+     "props": [
+      {
+       "kind": "net",
+       "x": 700,
+       "y": 820,
+       "scale": 3.0,
+       "layer": "back"
+      },
+      {
+       "kind": "ball",
+       "x": 610,
+       "y": 960,
+       "scale": 1.0
+      },
+      {
+       "kind": "ball",
+       "x": 800,
+       "y": 940,
+       "scale": 1.0
+      },
+      {
+       "kind": "ball",
+       "x": 700,
+       "y": 1050,
+       "scale": 1.0
+      },
+      {
+       "kind": "scoreboard",
+       "x": 860,
+       "y": 440,
+       "scale": 1.3,
+       "text": "9:1",
+       "face": "happy"
+      },
+      {
+       "kind": "gloves",
+       "x": 430,
+       "y": 760,
+       "scale": 1.3,
+       "anim": "drop"
+      }
+     ],
+     "sfx": {
+      "text": "POP",
+      "x": 280,
+      "y": 480,
+      "r": 110
+     }
+    }
+   ]
+  },
+  "s03": {
+   "type": "NEWS",
+   "name": "Como",
+   "fact": "They won 9-1 at Lens",
+   "ticker": "Record away win",
+   "icons": [
+    "ball",
+    "flag",
+    "trophy"
+   ],
+   "role": "player",
+   "actor": "p1"
+  },
+  "s04": {
+   "type": "STATS",
+   "items": [
+    {
+     "icon": "ball",
+     "value": "3",
+     "label": "Douvikas hat-trick"
+    },
+    {
+     "icon": "boot",
+     "value": "2",
+     "label": "Two assists"
+    },
+    {
+     "icon": "star",
+     "value": "1",
+     "label": "A goal"
+    }
+   ]
+  },
+  "s05": {
+   "type": "COMIC",
+   "bg": "stadium",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.24,
+     "actors": [
+      {
+       "id": "fabregas",
+       "x": 290,
+       "y": 1440,
+       "scale": 1.35,
+       "pose": "shush",
+       "emote": "smug"
+      },
+      {
+       "id": "p1",
+       "x": 590,
+       "y": 1440,
+       "scale": 1.1,
+       "pose": "cheer",
+       "emote": "happy"
+      },
+      {
+       "id": "p2",
+       "x": 840,
+       "y": 1440,
+       "scale": 1.1,
+       "pose": "celebrate",
+       "emote": "happy",
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "scoreboard",
+       "x": 190,
+       "y": 450,
+       "scale": 1.0,
+       "text": "9:1",
+       "face": "happy"
+      },
+      {
+       "kind": "ball",
+       "x": 480,
+       "y": 1400,
+       "scale": 0.9
+      },
+      {
+       "kind": "balloon",
+       "x": 640,
+       "y": 700,
+       "scale": 2.2,
+       "layer": "back",
+       "anim": "grow"
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.24,
+     "t1": 0.52,
+     "actors": [
+      {
+       "id": "fabregas",
+       "x": 290,
+       "y": 1440,
+       "scale": 1.35,
+       "pose": "shush",
+       "emote": "sweat"
+      },
+      {
+       "id": "p1",
+       "x": 590,
+       "y": 1440,
+       "scale": 1.1,
+       "pose": "cheer",
+       "emote": "happy"
+      },
+      {
+       "id": "p2",
+       "x": 840,
+       "y": 1440,
+       "scale": 1.1,
+       "pose": "celebrate",
+       "emote": "happy",
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "scoreboard",
+       "x": 190,
+       "y": 450,
+       "scale": 1.0,
+       "text": "9:1",
+       "face": "happy"
+      },
+      {
+       "kind": "ball",
+       "x": 480,
+       "y": 1400,
+       "scale": 0.9
+      },
+      {
+       "kind": "balloon",
+       "x": 640,
+       "y": 700,
+       "scale": 4.0,
+       "layer": "back"
+      }
+     ],
+     "cam": "zoom-out"
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.52,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "fabregas",
+       "x": 290,
+       "y": 1440,
+       "scale": 1.35,
+       "pose": "point",
+       "emote": "smug"
+      },
+      {
+       "id": "p1",
+       "x": 590,
+       "y": 1440,
+       "scale": 1.1,
+       "pose": "shock",
+       "emote": "shock"
+      },
+      {
+       "id": "p2",
+       "x": 840,
+       "y": 1440,
+       "scale": 1.1,
+       "pose": "shock",
+       "emote": "sad",
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "scoreboard",
+       "x": 190,
+       "y": 450,
+       "scale": 1.0,
+       "text": "9:1",
+       "face": "happy"
+      },
+      {
+       "kind": "ball",
+       "x": 480,
+       "y": 1400,
+       "scale": 0.9
+      },
+      {
+       "kind": "balloon",
+       "x": 715,
+       "y": 1370,
+       "scale": 1.1,
+       "face": "sleepy"
+      },
+      {
+       "kind": "arrow",
+       "x": 520,
+       "y": 900,
+       "scale": 0.7,
+       "rot": 150,
+       "anim": "pop"
+      }
+     ],
+     "sfx": {
+      "text": "WHOOSH",
+      "x": 640,
+      "y": 560,
+      "r": 110
+     }
+    }
+   ]
+  },
+  "s06": {
+   "type": "PROVOC",
+   "q": "Nine goals: greedy or brilliant?",
+   "a": "Greedy",
+   "b": "Brilliant",
+   "split": [
+    34,
+    66
+   ],
+   "mood": "fun"
+  },
+  "s07": {
+   "type": "INTERVIEW",
+   "label": "REPORTER ASKS",
+   "bubble": "Believe the hype?",
+   "answer": {
+    "icon": "megaphone",
+    "gesture": "shush",
+    "emote": "smug"
+   },
+   "subject": "Cesc Fabregas",
+   "subject_cast": "fabregas",
+   "subject_role": "coach",
+   "reporter_role": "reporter"
+  }
+ }
+}

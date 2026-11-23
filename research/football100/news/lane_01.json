@@ -1,0 +1,1076 @@
+[
+ {
+  "headline": "Arsenal win at Anfield for the first time since 2012, Havertz scores the only goal",
+  "date": "2026-11-01",
+  "source_domain": "espn.com",
+  "url": "https://www.espn.com/soccer/match/_/gameId/401879246/arsenal-liverpool",
+  "entities": [
+   "Arsenal",
+   "Liverpool",
+   "Kai Havertz",
+   "Declan Rice",
+   "Alisson",
+   "Mikel Arteta"
+  ],
+  "facts": [
+   "Arsenal beat Liverpool 1-0 at Anfield on 1 November; Havertz scored in the 16th minute from a Rice cross.",
+   "ESPN's match page calls it Arsenal's first Anfield win since 2012 and their 300th Premier League away win, which put them three points clear.",
+   "Liverpool did not register a shot on target, and the page notes an Alisson error in the first half."
+  ],
+  "background": "Arsenal were the Premier League champions in 2025/26 with 85 points, per ESPN's season preview; Liverpool had won the title a year earlier before finishing fifth.",
+  "angle": "win",
+  "sensitive": false,
+  "footage_terms": [
+   "Liverpool vs Arsenal 1-0 highlights Havertz Anfield",
+   "Arsenal Anfield first win since 2012 reaction",
+   "Arteta post match press conference Liverpool"
+  ],
+  "confidence": "high"
+ },
+ {
+  "headline": "Saka out about another month with a thigh problem while Saliba is finally fit again",
+  "date": "2026-11-20",
+  "source_domain": "espn.com",
+  "url": "https://www.espn.com/soccer/story/_/id/50540215/arsenal-saka-saliba-arteta-injury",
+  "entities": [
+   "Arsenal",
+   "Bukayo Saka",
+   "William Saliba",
+   "Mikel Arteta",
+   "Bayern Munich"
+  ],
+  "facts": [
+   "Arteta said Saka needs roughly four more weeks; he hurt his left thigh early in the 21 October Champions League draw with Bayern Munich.",
+   "Saliba has been out since the World Cup with a back injury, has played two practice matches and is fit; Arteta plans to build his minutes slowly.",
+   "Arsenal lead the Premier League by five points after 10 games."
+  ],
+  "background": "Arsenal won the 2025/26 Premier League title, and Saliba and Gabriel were the centre-back pair in that season, per Sky.",
+  "angle": "coach",
+  "sensitive": true,
+  "footage_terms": [
+   "Arteta press conference Saka injury update",
+   "Saliba return Arsenal training",
+   "Arsenal vs Bayern Munich 2-2 highlights"
+  ],
+  "confidence": "high"
+ },
+ {
+  "headline": "Declan Rice agrees a new five-year Arsenal contract in principle",
+  "date": "2026-11-16",
+  "source_domain": "espn.com",
+  "url": "https://www.espn.com/soccer/story/_/id/50505152/declan-rice-five-year-arsenal-deal",
+  "entities": [
+   "Declan Rice",
+   "Arsenal",
+   "West Ham",
+   "England"
+  ],
+  "facts": [
+   "ESPN sources say Rice agreed in principle to a deal that runs to 2031 with a significant pay rise; nothing is signed yet.",
+   "His current contract ends after next season with a club option for one more year.",
+   "Rice told reporters on England duty that a new contract was 'hopefully on the horizon'."
+  ],
+  "background": "Rice joined Arsenal from West Ham in 2023 for 105 million pounds, per ESPN. ESPN ranked him seventh in its November list of the world's best players.",
+  "angle": "business",
+  "sensitive": false,
+  "footage_terms": [
+   "Declan Rice Arsenal best moments 2026",
+   "Declan Rice interview new contract",
+   "Declan Rice England press conference"
+  ],
+  "confidence": "high"
+ },
+ {
+  "headline": "League Two Fleetwood knock Arsenal out of the Carabao Cup on penalties",
+  "date": "2026-10-27",
+  "source_domain": "espn.com",
+  "url": "https://www.espn.com/soccer/match/_/gameId/401921835/arsenal-fleetwood-town",
+  "entities": [
+   "Arsenal",
+   "Fleetwood Town",
+   "Bruno Guimaraes",
+   "Max Dowman",
+   "Mikel Arteta"
+  ],
+  "facts": [
+   "The fourth-round tie ended 1-1 and Fleetwood won the shootout 5-3; Guimaraes had his penalty saved.",
+   "Arteta said later that a drone stopped the match for eight minutes.",
+   "The ESPN match page lists conflicting goalscorer data, so only the score and shootout are used here."
+  ],
+  "background": "Fleetwood are a League Two side; Arsenal had beaten Ipswich 4-2 in the previous round, per ESPN's results page.",
+  "angle": "scandal",
+  "sensitive": false,
+  "footage_terms": [
+   "Fleetwood vs Arsenal penalty shootout highlights",
+   "Fleetwood Town beat Arsenal Carabao Cup",
+   "Fleetwood Arsenal drone stoppage"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "headline": "Arteta bans players from picking themselves in FPL after Tzolis leaked his own start",
+  "date": "2026-11-20",
+  "source_domain": "espn.com",
+  "url": "https://www.espn.com/soccer/story/_/id/50539955/arsenal-arteta-fantasy-premier-league-injuries-team-news",
+  "entities": [
+   "Mikel Arteta",
+   "Christos Tzolis",
+   "Arsenal",
+   "Ezri Konsa",
+   "Riccardo Calafiori"
+  ],
+  "facts": [
+   "Tzolis picked and captained himself in Fantasy Premier League before the Liverpool match, which signalled he had recovered and would start.",
+   "The next week he transferred himself, Konsa and Calafiori out of his team.",
+   "Arteta said Arsenal have taken steps to stop leaks and players will no longer select themselves.",
+   "Chelsea issued a similar warning to staff after João Pedro was dropped from FPL teams."
+  ],
+  "background": "Fantasy Premier League is the official game that millions play, and managers hide team news until the last moment, so a player's own picks can reveal it.",
+  "angle": "viral",
+  "sensitive": false,
+  "footage_terms": [
+   "Arteta press conference fantasy premier league leaks",
+   "Christos Tzolis Arsenal highlights",
+   "Arsenal press conference Newcastle preview"
+  ],
+  "confidence": "high"
+ },
+ {
+  "headline": "Arsenal reportedly want Athletic Club winger Nico Williams",
+  "date": "2026-11-20",
+  "source_domain": "espn.com",
+  "url": "https://www.espn.com/soccer/story/_/id/50539252/transfer-rumors-news-arsenal-world-cup-nico-williams-spain",
+  "entities": [
+   "Nico Williams",
+   "Arsenal",
+   "Athletic Club",
+   "Endrick",
+   "Antonio Nusa"
+  ],
+  "facts": [
+   "ESPN's roundup, citing TEAMtalk, says Arsenal have renewed interest and Williams is reportedly open to a move.",
+   "The article cites a 100 million euro release clause; he signed a 10-year extension last summer.",
+   "Other reported Arsenal wing targets are Endrick, Nusa, Kevin Schade and Alex Baena."
+  ],
+  "background": "Williams is a World Cup winner with Spain, per ESPN. Arsenal's Saka is out injured for about another month.",
+  "angle": "transfer",
+  "sensitive": false,
+  "footage_terms": [
+   "Nico Williams best dribbles goals",
+   "Nico Williams Spain World Cup highlights",
+   "Nico Williams interview Arsenal"
+  ],
+  "confidence": "low"
+ },
+ {
+  "headline": "Arsenal's Max Dowman, 16, becomes England's youngest Under-21 goalscorer",
+  "date": "2026-11-16",
+  "source_domain": "espn.com",
+  "url": "https://www.espn.com/soccer/story/_/id/50504941/max-dowman-england-21",
+  "entities": [
+   "Max Dowman",
+   "England U21",
+   "France U21",
+   "Arsenal",
+   "Mikey Moore"
+  ],
+  "facts": [
+   "Dowman scored a late winner in England's 3-2 win over France at Ashton Gate.",
+   "England led 2-0 through Mikey Moore and Divin Mubama, then let France draw level at 2-2.",
+   "The win followed a 1-0 loss to Portugal three days earlier."
+  ],
+  "background": "Dowman is a 16-year-old Arsenal forward who also appeared in the senior team's Carabao Cup tie at Fleetwood, per ESPN.",
+  "angle": "record",
+  "sensitive": false,
+  "footage_terms": [
+   "Max Dowman England U21 goal France",
+   "Max Dowman Arsenal highlights",
+   "England U21 3-2 France highlights"
+  ],
+  "confidence": "high"
+ },
+ {
+  "headline": "Arsenal ready to sell a midfielder to beat Chelsea and Liverpool to Alex Scott",
+  "date": "2026-11-17",
+  "source_domain": "skysports.com",
+  "url": "https://www.skysports.com/football/news/13613285/alex-scott-arsenal-keen-on-chelsea-and-liverpool-target-with-bournemouth-softening-stance-over-potential-sale",
+  "entities": [
+   "Alex Scott",
+   "Arsenal",
+   "Chelsea",
+   "Liverpool",
+   "Bournemouth",
+   "Mikel Merino",
+   "Martin Zubimendi"
+  ],
+  "facts": [
+   "Sky reports Arsenal, Chelsea and Liverpool all like the 23-year-old Bournemouth midfielder; a deal could come in January or next summer.",
+   "Bournemouth reportedly want close to 100 million pounds including add-ons, though 75 to 80 million plus bonuses may be enough.",
+   "Arsenal would need to sell a current midfielder; Mikel Merino, with one league start this season, is seen as the likeliest."
+  ],
+  "background": "Scott's Liverpool appeal comes partly from his history under Andoni Iraola, who managed Bournemouth until this summer.",
+  "angle": "transfer",
+  "sensitive": false,
+  "footage_terms": [
+   "Alex Scott Bournemouth best moments",
+   "Alex Scott Bournemouth goals skills",
+   "Alex Scott Bournemouth interview"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "headline": "Vinicius Junior says Arsenal transfer talk left him 'overwhelmed' and hurt his form",
+  "date": "2026-11-16",
+  "source_domain": "espn.com",
+  "url": "https://www.espn.com/soccer/story/_/id/50501260/vinicius-junior-real-madrid-arsenal-transfer-interest",
+  "entities": [
+   "Vinicius Junior",
+   "Real Madrid",
+   "Arsenal",
+   "Brazil"
+  ],
+  "facts": [
+   "Vinicius, 26, has one goal in 12 appearances this season and blamed part of the slump on transfer speculation.",
+   "He also said Brazil's early World Cup exit in July meant he trained less in his break.",
+   "He signed a new Real Madrid deal in August that runs to at least 2032, and served a four-match ban after a red card against Villarreal."
+  ],
+  "background": "Arsenal were among clubs linked with him when his contract entered its final year, according to ESPN.",
+  "angle": "viral",
+  "sensitive": false,
+  "footage_terms": [
+   "Vinicius Junior press conference Singapore",
+   "Vinicius Junior Real Madrid highlights 2026",
+   "Vinicius Junior red card Villarreal"
+  ],
+  "confidence": "high"
+ },
+ {
+  "headline": "Mudryk, on loan at Spurs, calls Arsenal his dream club on a podcast",
+  "date": "2026-11-20",
+  "source_domain": "espn.com",
+  "url": "https://www.espn.com/soccer/story/_/id/50541230/tottenham-roberto-de-zerbi-mykhailo-mudryk-arsenal",
+  "entities": [
+   "Mykhailo Mudryk",
+   "Tottenham",
+   "Arsenal",
+   "Chelsea",
+   "Roberto De Zerbi"
+  ],
+  "facts": [
+   "Mudryk, on loan at Spurs from Chelsea, said on the Guest of Gordon podcast that Arsenal was the club he wanted and that he nearly joined in 2023.",
+   "Spurs fans were reportedly irritated and the club did not know about the podcast.",
+   "De Zerbi defended him as a good person and declined to say whether the loan could end in January.",
+   "Mudryk has played 16 minutes since arriving on deadline day and has an ankle injury, with two to three weeks to go before training."
+  ],
+  "background": "The podcast also touched on his drugs ban, which the article does not detail; he is on loan at Spurs from Chelsea.",
+  "angle": "scandal",
+  "sensitive": true,
+  "footage_terms": [
+   "Mudryk Guest of Gordon podcast",
+   "Mudryk Tottenham De Zerbi press conference",
+   "Mudryk Chelsea Arsenal 2023 transfer"
+  ],
+  "confidence": "high"
+ },
+ {
+  "headline": "David Raya is called the Premier League's best goalkeeper and is close to a new Arsenal deal",
+  "date": "2026-11-19",
+  "source_domain": "skysports.com",
+  "url": "https://www.skysports.com/football/news/13613642/david-rayas-shot-stopping-cross-claiming-and-passing-make-him-premier-leagues-best-goalkeeper-the-radar",
+  "entities": [
+   "David Raya",
+   "Arsenal",
+   "Emiliano Martinez",
+   "Alisson",
+   "Gianluigi Donnarumma"
+  ],
+  "facts": [
+   "Raya has seven clean sheets in 10 league games and has not conceded a 'saveable' goal this season, per Gradient Sports data.",
+   "Martinez, Alisson and Donnarumma have conceded three, four and five saveable goals.",
+   "He received the most FIFPRO World XI votes, 10,278, though Unai Simon won the Ballon d'Or goalkeeper award.",
+   "Sky says Arsenal are close to giving him a new contract; ESPN's roundup cites The Athletic saying terms are agreed."
+  ],
+  "background": "Raya joined Arsenal from Brentford in 2023 and has kept clean sheets in nearly half of his 117 Premier League games for the club.",
+  "angle": "record",
+  "sensitive": false,
+  "footage_terms": [
+   "David Raya best saves Arsenal",
+   "David Raya clean sheets 2026",
+   "David Raya Golden Glove"
+  ],
+  "confidence": "high"
+ },
+ {
+  "headline": "Bruno Guimaraes faces his old club Newcastle as Arteta still wants more",
+  "date": "2026-11-20",
+  "source_domain": "skysports.com",
+  "url": "https://www.skysports.com/football/news/13612946/bruno-guimaraes-arsenal-midfielder-is-growing-in-stature-but-mikel-arteta-still-wants-more-from-brazilian-ahead-of-newcastle-return",
+  "entities": [
+   "Bruno Guimaraes",
+   "Arsenal",
+   "Newcastle United",
+   "Mikel Arteta",
+   "Declan Rice"
+  ],
+  "facts": [
+   "Arteta described him as a 75 million pound signing and said he has 'still not' reached his full level.",
+   "Guimaraes scored against Sunderland and Leeds and ranks near the top for ground-duel success, behind only Chelsea's Romeo Lavia.",
+   "Arsenal visit Newcastle on Saturday 21 November at 5:30pm.",
+   "Arteta wants more close-range goals from him."
+  ],
+  "background": "Guimaraes captained Newcastle to cup success and scored nine Premier League goals last season, according to Sky.",
+  "angle": "transfer",
+  "sensitive": false,
+  "footage_terms": [
+   "Bruno Guimaraes Arsenal goals",
+   "Bruno Guimaraes Newcastle farewell",
+   "Newcastle vs Arsenal preview Arteta"
+  ],
+  "confidence": "high"
+ },
+ {
+  "headline": "Chelsea 11 points behind Arsenal after ten Premier League games under Alonso",
+  "date": "2026-11-19",
+  "source_domain": "skysports.com",
+  "url": "https://www.skysports.com/football/news/13612519/chelsea-ten-things-weve-learnt-about-xabi-alonsos-blues-after-10-premier-league-games",
+  "entities": [
+   "Xabi Alonso",
+   "Chelsea",
+   "Joao Pedro",
+   "Cole Palmer",
+   "Mike Penders",
+   "Enzo Fernandez"
+  ],
+  "facts": [
+   "Chelsea have four league defeats, including heavy losses at Brentford and defeats at Tottenham and Sunderland, but also won 5-1 against Bournemouth and 4-3 against Brighton.",
+   "They have used six different central midfield pairings and Sky links the problem to selling Enzo Fernandez without a replacement.",
+   "Alonso has switched between a back three and a back four; possession was only 26% against Brighton and 31% against Spurs.",
+   "Sky calls Chelsea 'consistently inconsistent'."
+  ],
+  "background": "Alonso is a former Liverpool midfielder, and Chelsea sit 11 points behind leaders Arsenal but are well placed for a Champions League place, per Sky.",
+  "angle": "coach",
+  "sensitive": false,
+  "footage_terms": [
+   "Xabi Alonso Chelsea press conference",
+   "Chelsea 5-1 Bournemouth highlights",
+   "Chelsea 4-3 Brighton highlights"
+  ],
+  "confidence": "high"
+ },
+ {
+  "headline": "Sunderland beat Chelsea 1-0 and Alonso denies his team were 'bullied'",
+  "date": "2026-11-09",
+  "source_domain": "espn.com",
+  "url": "https://www.espn.com/soccer/story/_/id/50433897/chelsea-sunderland-premier-league-bullied",
+  "entities": [
+   "Chelsea",
+   "Sunderland",
+   "Xabi Alonso",
+   "Brian Brobbey",
+   "Levi Colwill",
+   "Enzo Le Fee"
+  ],
+  "facts": [
+   "Enzo Le Fee scored a 36th-minute penalty after Brobbey was brought down following a tussle with Colwill.",
+   "It was Chelsea's fourth league defeat of the season and dropped them out of the top four; it was Sunderland's first league win since August.",
+   "A Chelsea penalty appeal for a challenge on Palmer was ruled outside the box by VAR.",
+   "Alonso said his side could have defended better and that the team misses the injured João Pedro."
+  ],
+  "background": "Chelsea had also lost at home to Tottenham on 24 October, their first home defeat under Alonso.",
+  "angle": "coach",
+  "sensitive": false,
+  "footage_terms": [
+   "Sunderland 1-0 Chelsea highlights",
+   "Alonso post match Sunderland bullied",
+   "Brian Brobbey Sunderland highlights Chelsea"
+  ],
+  "confidence": "high"
+ },
+ {
+  "headline": "Chelsea warn staff over fantasy football after João Pedro was quietly dropped from FPL teams",
+  "date": "2026-11-09",
+  "source_domain": "espn.com",
+  "url": "https://www.espn.com/soccer/story/_/id/50435016/chelsea-staff-fantasy-premier-league-leaks",
+  "entities": [
+   "Chelsea",
+   "Joao Pedro",
+   "Morgan Rogers",
+   "Xabi Alonso",
+   "Cobham"
+  ],
+  "facts": [
+   "ESPN sources say Chelsea reminded Cobham staff that FPL moves can reveal injuries or tactics.",
+   "Outsiders reportedly noticed Rogers and other Chelsea staff dropping João Pedro before the club confirmed he was injured.",
+   "Alonso said afterward that he does not follow fantasy football."
+  ],
+  "background": "João Pedro was absent from the 2-0 home loss to Tottenham on 24 October without any pre-match announcement.",
+  "angle": "viral",
+  "sensitive": false,
+  "footage_terms": [
+   "Alonso press conference fantasy football",
+   "Joao Pedro Chelsea highlights",
+   "Chelsea vs Tottenham 0-2 highlights"
+  ],
+  "confidence": "high"
+ },
+ {
+  "headline": "Emiliano Martinez returns for Argentina in a protective mask after jaw surgery",
+  "date": "2026-11-16",
+  "source_domain": "espn.com",
+  "url": "https://www.espn.com/soccer/story/_/id/50505748/martinez-return-argentina-gruesome-jaw-injury",
+  "entities": [
+   "Emiliano Martinez",
+   "Chelsea",
+   "Argentina",
+   "Lionel Scaloni",
+   "Jarrad Branthwaite",
+   "Xabi Alonso"
+  ],
+  "facts": [
+   "Martinez was hurt in a collision with Everton defender Jarrad Branthwaite during Chelsea's 2-0 win on 16 October and had jaw surgery.",
+   "He trained in a protective mask about two weeks later, but Alonso called a return before the international break 'too rash and too risky'.",
+   "Scaloni confirmed he would play in the friendly against Costa Rica."
+  ],
+  "background": "Mike Penders took Martinez's place in goal while he was out, and impressed according to Sky.",
+  "angle": "viral",
+  "sensitive": true,
+  "footage_terms": [
+   "Emiliano Martinez mask Argentina Costa Rica",
+   "Emiliano Martinez Chelsea highlights",
+   "Argentina 7-0 Costa Rica highlights"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "headline": "Morgan Rogers calls claims Palmer does not want England a 'lie'",
+  "date": "2026-11-12",
+  "source_domain": "espn.com",
+  "url": "https://www.espn.com/soccer/story/_/id/50465459/lie-cole-palmer-committed-playing-england-morgan-rogers",
+  "entities": [
+   "Morgan Rogers",
+   "Cole Palmer",
+   "Thomas Tuchel",
+   "England",
+   "Chelsea"
+  ],
+  "facts": [
+   "Rogers told BBC Radio 5 Live after England's 2-1 win over Croatia that Palmer 'wants to be here'.",
+   "Palmer withdrew from the autumn squad with a minor muscle injury, and Tuchel then suggested he had missed chances to impress him.",
+   "Palmer has played three times for England in two years and Tuchel left him out of the Croatia and Spain games.",
+   "Tuchel said Rogers was entitled to speak as a friend and teammate."
+  ],
+  "background": "Rogers and Palmer are Chelsea teammates and longtime friends, and Rogers has started all ten league games for Chelsea this season.",
+  "angle": "scandal",
+  "sensitive": false,
+  "footage_terms": [
+   "Morgan Rogers Palmer England interview",
+   "Tuchel Cole Palmer press conference",
+   "Morgan Rogers England goal Croatia"
+  ],
+  "confidence": "high"
+ },
+ {
+  "headline": "Estevao becomes a bench player at Chelsea in his second season",
+  "date": "2026-11-20",
+  "source_domain": "espn.com",
+  "url": "https://www.espn.com/soccer/story/_/id/50523536/estevao-brazil-young-talent-chelsea",
+  "entities": [
+   "Estevao",
+   "Chelsea",
+   "Xabi Alonso",
+   "Carlo Ancelotti",
+   "Brazil"
+  ],
+  "facts": [
+   "He has started once in the first 10 league games, in the 2-0 win over Manchester United, and otherwise came off the bench or did not play.",
+   "Alonso prefers a 3-4-3 that suits him poorly, and Palmer and Rogers compete for his spot.",
+   "Ancelotti still starts him for Brazil; both of his goals after the World Cup came in friendlies against India and Singapore.",
+   "Alonso says there are no plans to move him on."
+  ],
+  "background": "Estevao scored eight goals in 36 games in his debut season, which ESPN describes as strong.",
+  "angle": "coach",
+  "sensitive": false,
+  "footage_terms": [
+   "Estevao Chelsea best moments",
+   "Estevao Brazil goal India friendly",
+   "Estevao Brazil Japan 3-2 highlights"
+  ],
+  "confidence": "high"
+ },
+ {
+  "headline": "Palmer sent off as Spurs win at Stamford Bridge for the first time since 2018",
+  "date": "2026-10-24",
+  "source_domain": "espn.com",
+  "url": "https://www.espn.com/soccer/match/_/gameId/401878767/tottenham-hotspur-chelsea",
+  "entities": [
+   "Cole Palmer",
+   "Chelsea",
+   "Tottenham",
+   "Mike Penders",
+   "Mathys Tel",
+   "Xabi Alonso"
+  ],
+  "facts": [
+   "Tottenham won 2-0; Penders punched a corner into his own net in the 77th minute and Mathys Tel added a solo goal in the 87th.",
+   "Palmer received a second yellow for a lunge at Conor Gallagher, leaving Chelsea with ten men.",
+   "It was Chelsea's first home defeat under Alonso and Spurs' first win at Stamford Bridge since April 2018."
+  ],
+  "background": "Gallagher is a former Chelsea player, and Penders was making one of his early starts after the Martinez injury.",
+  "angle": "scandal",
+  "sensitive": false,
+  "footage_terms": [
+   "Chelsea 0-2 Tottenham highlights Palmer red card",
+   "Penders own goal Tottenham Chelsea",
+   "Mathys Tel goal Chelsea Tottenham"
+  ],
+  "confidence": "high"
+ },
+ {
+  "headline": "Chelsea beat Manchester United 2-0 as Lisandro Martinez is sent off",
+  "date": "2026-10-31",
+  "source_domain": "espn.com",
+  "url": "https://www.espn.com/soccer/match/_/gameId/401879248/manchester-united-chelsea",
+  "entities": [
+   "Chelsea",
+   "Manchester United",
+   "Morgan Rogers",
+   "Cole Palmer",
+   "Lisandro Martinez",
+   "Estevao"
+  ],
+  "facts": [
+   "Rogers scored early in the second half and Palmer added a penalty after United's Lisandro Martinez was sent off for a second yellow.",
+   "Estevao had a goal ruled out for offside after a VAR review.",
+   "The result left United without a win in nine matches."
+  ],
+  "background": "Estevao's start in this game is his only league start in Chelsea's first ten games, per ESPN.",
+  "angle": "win",
+  "sensitive": false,
+  "footage_terms": [
+   "Chelsea 2-0 Manchester United highlights",
+   "Lisandro Martinez red card Chelsea",
+   "Cole Palmer penalty Manchester United"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "headline": "Juan Mata retires at 38, ending a career with a World Cup and a Champions League win at Chelsea",
+  "date": "2026-11-18",
+  "source_domain": "espn.com",
+  "url": "https://www.espn.com/soccer/story/_/id/50519330/juan-mata-retires-spain-world-cup-man-united",
+  "entities": [
+   "Juan Mata",
+   "Chelsea",
+   "Manchester United",
+   "Spain",
+   "Valencia"
+  ],
+  "facts": [
+   "Mata announced his retirement in a video on X, writing 'Sometimes to love...is to let go. Thanks football.'",
+   "He won the 2010 World Cup and Euro 2012 with Spain.",
+   "At Chelsea he won the FA Cup and the Champions League in 2012; at Manchester United he won the FA Cup in 2016 and the Europa League in 2017."
+  ],
+  "background": "Mata joined Chelsea from Valencia in 2011 and later moved to Manchester United.",
+  "angle": "history",
+  "sensitive": false,
+  "footage_terms": [
+   "Juan Mata best goals Chelsea",
+   "Juan Mata retirement tribute",
+   "Juan Mata Champions League 2012 Chelsea"
+  ],
+  "confidence": "high"
+ },
+ {
+  "headline": "Joao Pedro still out as Chelsea struggle to score without him",
+  "date": "2026-11-20",
+  "source_domain": "skysports.com",
+  "url": "https://www.skysports.com/football/video/13614369/chelsea-boss-xabi-alonso-talks-scoring-struggles-in-joao-pedros-absence",
+  "entities": [
+   "Joao Pedro",
+   "Chelsea",
+   "Xabi Alonso",
+   "Leeds United"
+  ],
+  "facts": [
+   "Alonso said Joao Pedro is not fit and is not part of training before the Leeds match on Saturday.",
+   "Sky's analysis says Chelsea scored only two goals in the four league games he has missed.",
+   "Sky ranked him ninth in its Premier League top 25 and credits him with 20 league goals and 28 goal involvements since the start of last season."
+  ],
+  "background": "Joao Pedro has five goals and three assists in six league starts this season, per Sky.",
+  "angle": "coach",
+  "sensitive": true,
+  "footage_terms": [
+   "Joao Pedro Chelsea goals",
+   "Alonso press conference Leeds preview",
+   "Chelsea vs Leeds preview"
+  ],
+  "confidence": "high"
+ },
+ {
+  "headline": "Andoni Iraola's Liverpool: more chaos, fewer goals conceded from set pieces",
+  "date": "2026-11-19",
+  "source_domain": "skysports.com",
+  "url": "https://www.skysports.com/football/news/13613875/andoni-iraolas-liverpool-start-assessed-creating-chaos-going-direct-and-fixing-leaky-defence",
+  "entities": [
+   "Andoni Iraola",
+   "Liverpool",
+   "Arne Slot",
+   "Virgil van Dijk",
+   "Ronald Araujo",
+   "Manchester United"
+  ],
+  "facts": [
+   "Iraola replaced Slot in June and has managed 10 league games; Liverpool are fourth with two league defeats.",
+   "Possession is 52.9% compared with 59.3% under Slot, and long passes have risen to 50.8 per game.",
+   "Liverpool have conceded two goals from set pieces, compared with 23 under Slot last season.",
+   "Slot's team conceded 53 league goals last season, the most ever in a Premier League season for the club."
+  ],
+  "background": "Iraola spent three successful seasons at Bournemouth before moving to Anfield, and Liverpool finished fifth in 2025/26, 24 points fewer than their 2024/25 title season.",
+  "angle": "coach",
+  "sensitive": false,
+  "footage_terms": [
+   "Iraola Liverpool press conference",
+   "Liverpool Iraola pressing tactics analysis",
+   "Liverpool vs Manchester United preview Iraola"
+  ],
+  "confidence": "high"
+ },
+ {
+  "headline": "Liverpool have won once at Anfield in the league and failed to register a shot on target against Arsenal",
+  "date": "2026-11-20",
+  "source_domain": "espn.com",
+  "url": "https://www.espn.com/soccer/story/_/id/50520411/liverpool-manchester-united-anfield-premier-league",
+  "entities": [
+   "Liverpool",
+   "Manchester United",
+   "Andoni Iraola",
+   "Arsenal",
+   "Ryan Gravenberch"
+  ],
+  "facts": [
+   "In five home league games Liverpool have one win, two draws and two defeats for five points; only Crystal Palace and Nottingham Forest have fewer at home.",
+   "Against Arsenal they had no shot on target, the first such game in 442 league matches at Anfield.",
+   "Their away form is the best in the division, with four wins and a draw from five.",
+   "Man United arrive 18th and winless in eight league games, and have not won at Anfield since March 2023."
+  ],
+  "background": "Liverpool's league home results this season include a 2-2 draw with Forest, a 0-0 draw with Fulham and a 1-0 defeat to Arsenal.",
+  "angle": "scandal",
+  "sensitive": false,
+  "footage_terms": [
+   "Liverpool vs Manchester United preview Anfield",
+   "Liverpool 0-1 Arsenal highlights",
+   "Iraola press conference Anfield form"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "headline": "Iraola goes viral after visiting a grassroots kids' match in Maghull",
+  "date": "2026-11-17",
+  "source_domain": "espn.com",
+  "url": "https://www.espn.com/soccer/story/_/id/50509743/andoni-iraola-liverpool-grassroots-premier-league",
+  "entities": [
+   "Andoni Iraola",
+   "Liverpool",
+   "Maghull FC",
+   "Joe Burns"
+  ],
+  "facts": [
+   "A photo of Iraola with two young players, posted by Maghull FC, passed a million views, with fans calling him a 'down-to-earth fella'.",
+   "He reportedly went to watch a relative play and spent time with other children, according to Maghull manager Joe Burns.",
+   "Earlier this year, while still at Bournemouth, he ran the line as an assistant referee at a local match."
+  ],
+  "background": "The visit came during the international break, when much of Liverpool's first team was away with national sides.",
+  "angle": "viral",
+  "sensitive": false,
+  "footage_terms": [
+   "Iraola Maghull grassroots viral",
+   "Iraola assistant referee local match Bournemouth",
+   "Andoni Iraola funny moments"
+  ],
+  "confidence": "high"
+ },
+ {
+  "headline": "Andy Robertson, now at Spurs, becomes Scotland's most-capped player",
+  "date": "2026-11-16",
+  "source_domain": "espn.com",
+  "url": "https://www.espn.com/soccer/story/_/id/50499443/andy-robertson-kenny-dalglish-scotland-caps-record",
+  "entities": [
+   "Andy Robertson",
+   "Kenny Dalglish",
+   "Scotland",
+   "Tottenham",
+   "Liverpool"
+  ],
+  "facts": [
+   "Robertson, 32, reached 103 caps in a Nations League match against Switzerland, passing Dalglish's 102.",
+   "He had equalled the record three days earlier against North Macedonia.",
+   "He said Dalglish deserved the record and called him the best player to represent Scotland."
+  ],
+  "background": "Robertson played for Queen's Park, Dundee United, Hull City and Liverpool before joining Tottenham.",
+  "angle": "record",
+  "sensitive": false,
+  "footage_terms": [
+   "Andy Robertson Scotland record caps",
+   "Andy Robertson Liverpool best moments",
+   "Robertson Dalglish tribute Scotland"
+  ],
+  "confidence": "high"
+ },
+ {
+  "headline": "Liverpool beat Chelsea on penalties to reach the Carabao Cup quarter-finals",
+  "date": "2026-10-28",
+  "source_domain": "espn.com",
+  "url": "https://www.espn.com/soccer/match/_/gameId/401921842/chelsea-liverpool",
+  "entities": [
+   "Liverpool",
+   "Chelsea",
+   "Morgan Rogers",
+   "Cody Gakpo",
+   "Xabi Alonso"
+  ],
+  "facts": [
+   "The fourth-round tie at Anfield finished 1-1, with Rogers and Gakpo both scoring first-half penalties, and Liverpool won the shootout 6-5.",
+   "Liverpool had 33 shots to Chelsea's 17.",
+   "Chelsea missed three kicks in the shootout, including Barco's and a save from Emegha."
+  ],
+  "background": "Alonso is a former Liverpool midfielder; ESPN's page notes it was his third defeat as Chelsea manager at Anfield.",
+  "angle": "win",
+  "sensitive": false,
+  "footage_terms": [
+   "Liverpool vs Chelsea Carabao Cup penalty shootout",
+   "Liverpool 1-1 Chelsea highlights Carabao Cup",
+   "Xabi Alonso Anfield return Chelsea"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "headline": "Fenerbahce come back twice to beat Liverpool 3-2 in the Champions League",
+  "date": "2026-11-04",
+  "source_domain": "espn.com",
+  "url": "https://www.espn.com/soccer/match/_/gameId/401915382/liverpool-fenerbahce",
+  "entities": [
+   "Liverpool",
+   "Fenerbahce",
+   "Mason Greenwood",
+   "Alexander Isak",
+   "Vedat Muriqi",
+   "Trey Nyoni"
+  ],
+  "facts": [
+   "Fenerbahce won 3-2 in Istanbul; Greenwood, Archie Brown and substitute Muriqi scored.",
+   "Nyoni and Isak scored for Liverpool, who led twice.",
+   "The result ended Liverpool's perfect start in the competition and gave Fenerbahce their first points.",
+   "The page's shot map shows different scorers, so the scoreboard and commentary version is used."
+  ],
+  "background": "Liverpool had won their first Champions League league-phase games, including 4-3 against Villarreal on 20 October.",
+  "angle": "scandal",
+  "sensitive": false,
+  "footage_terms": [
+   "Fenerbahce 3-2 Liverpool highlights",
+   "Mason Greenwood goal Fenerbahce Liverpool",
+   "Vedat Muriqi winner Liverpool"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "headline": "Isak leads Liverpool with seven league goals and is the most-owned Liverpool player in FPL",
+  "date": "2026-11-20",
+  "source_domain": "liverpoolfc.com",
+  "url": "https://www.liverpoolfc.com/news/alexander-isak-liverpool-most-owned-asset-fantasy-premier-league",
+  "entities": [
+   "Alexander Isak",
+   "Liverpool",
+   "Fantasy Premier League"
+  ],
+  "facts": [
+   "Isak has seven Premier League goals, the team high, and only one player scored more in the first ten matches.",
+   "He is in 25.6% of FPL teams, and 526,590 managers brought him in before the Gameweek 10 deadline.",
+   "ESPN also names him Liverpool's second-most important player after Van Dijk."
+  ],
+  "background": "Isak scored in Liverpool's 3-1 win at Crystal Palace on 8 November, and Wirtz and Barcola also scored or assisted in that match.",
+  "angle": "record",
+  "sensitive": false,
+  "footage_terms": [
+   "Alexander Isak Liverpool goals 2026",
+   "Alexander Isak Crystal Palace goal",
+   "Isak Liverpool best moments"
+  ],
+  "confidence": "high"
+ },
+ {
+  "headline": "Liverpool open contract talks with Mac Allister as Bayern eye Ngumoha",
+  "date": "2026-11-18",
+  "source_domain": "espn.com",
+  "url": "https://www.espn.com/soccer/story/_/id/50518634/transfer-rumors-news-liverpool-bayern-gladbach-wael-mohya",
+  "entities": [
+   "Alexis Mac Allister",
+   "Rio Ngumoha",
+   "Liverpool",
+   "Bayern Munich",
+   "Lamine Camara"
+  ],
+  "facts": [
+   "ESPN's roundup, citing Cesar Luis Merlo, says Liverpool have opened talks with Mac Allister, whose deal runs to summer 2028.",
+   "TEAMtalk reports Bayern contacted Ngumoha's representatives; Liverpool reportedly have no plans to sell and his contract enters its final 18 months in January.",
+   "Caught Offside says Liverpool and Chelsea are competing for Monaco midfielder Lamine Camara."
+  ],
+  "background": "Mac Allister scored in the 3-1 win at Crystal Palace on 8 November.",
+  "angle": "transfer",
+  "sensitive": false,
+  "footage_terms": [
+   "Mac Allister Liverpool goals",
+   "Rio Ngumoha Liverpool highlights",
+   "Lamine Camara Monaco highlights"
+  ],
+  "confidence": "low"
+ },
+ {
+  "headline": "Premier League clubs vote 18-2 to protect board members if Manchester City's sponsors sue",
+  "date": "2026-11-19",
+  "source_domain": "skysports.com",
+  "url": "https://www.skysports.com/football/news/13614031/premier-league-clubs-vote-to-cover-legal-costs-if-man-city-sponsors-sue-competitions-board-members",
+  "entities": [
+   "Manchester City",
+   "Premier League",
+   "Etihad Airways",
+   "Etisalat",
+   "Alison Brittain",
+   "Richard Masters",
+   "Nottingham Forest"
+  ],
+  "facts": [
+   "Clubs voted 18-2 to indemnify five board members against personal liability from defamation suits; City and Nottingham Forest voted against.",
+   "Etihad says it was not allowed to provide information and is seeking legal advice; Etisalat calls the findings false and defamatory.",
+   "An independent commission found City broke more than 100 league financial rules between 2009 and 2018 and said sham contracts inflated revenue by 830 million pounds; City is appealing."
+  ],
+  "background": "Etihad Airways has sponsored City since 2009, according to Sky.",
+  "angle": "scandal",
+  "sensitive": true,
+  "footage_terms": [
+   "Manchester City Premier League verdict reaction",
+   "Premier League board members legal protection City case",
+   "Manchester City 114 breaches appeal"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "headline": "Haaland says he is 'incredibly happy' at City and not thinking about sanctions",
+  "date": "2026-11-15",
+  "source_domain": "espn.com",
+  "url": "https://www.espn.com/soccer/story/_/id/50490251/erling-haaland-man-city-premier-league-sanctions",
+  "entities": [
+   "Erling Haaland",
+   "Manchester City",
+   "Premier League",
+   "Norway"
+  ],
+  "facts": [
+   "After Norway's 3-1 win over Wales, Haaland said his focus is on performing for the club and that he does not know much about the case.",
+   "ESPN reports an independent commission found City guilty of more than 100 breaches in September, including concealing more than 830 million pounds of funding between 2009 and 2018.",
+   "If the verdict stands, City could face heavy punishments, including large points deductions or relegation."
+  ],
+  "background": "Haaland signed a five-year deal in 2022 and a nine-and-a-half-year deal in late 2024; the period under investigation predates his arrival.",
+  "angle": "scandal",
+  "sensitive": true,
+  "footage_terms": [
+   "Haaland press conference Norway Wales",
+   "Haaland Manchester City future interview",
+   "Haaland goals Norway Wales"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "headline": "Manchester City lose three league games in a row, losing 3-1 at Nottingham Forest",
+  "date": "2026-11-07",
+  "source_domain": "espn.com",
+  "url": "https://www.espn.com/soccer/match/_/gameId/401878757/manchester-city-nottingham-forest",
+  "entities": [
+   "Manchester City",
+   "Nottingham Forest",
+   "Enzo Maresca",
+   "Liam Delap",
+   "Rayan Cherki",
+   "Josko Gvardiol"
+  ],
+  "facts": [
+   "Forest won 3-1 at the City Ground, with Jair Cunha and two goals from Liam Delap; Cherki scored for City.",
+   "ESPN's commentary says a Gvardiol error led to the first goal.",
+   "It was City's third straight league loss after a 7-0-3 start, and they are six points behind Arsenal.",
+   "It was Forest's first home win of the season."
+  ],
+  "background": "Maresca is in his first season in charge, and City had won seven straight in all competitions before the slide, per Sky.",
+  "angle": "scandal",
+  "sensitive": false,
+  "footage_terms": [
+   "Nottingham Forest 3-1 Manchester City highlights",
+   "Liam Delap goals Forest City",
+   "Maresca press conference Forest defeat"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "headline": "Maresca's City have spent over 320 million on midfield and Fernandez is the 'obvious problem'",
+  "date": "2026-11-18",
+  "source_domain": "skysports.com",
+  "url": "https://www.skysports.com/football/news/13613559/man-city-vs-fulham-has-enzo-fernandez-given-enzo-maresca-a-problem-in-midfield-and-how-does-he-fix-the-imbalance",
+  "entities": [
+   "Enzo Fernandez",
+   "Enzo Maresca",
+   "Manchester City",
+   "Elliot Anderson",
+   "Rayan Cherki",
+   "Ayyoub Bouaddi",
+   "Fulham"
+  ],
+  "facts": [
+   "City spent over 320 million pounds rebuilding midfield this summer, and Sky says the two 100 million-plus signings have not yet worked well together.",
+   "At Forest, Fernandez made 4 defensive contributions compared with 14 for Xaver Schlager and 11 for Ryan Yates.",
+   "City have faced 17 shots from fast breaks, second only to Newcastle's 20.",
+   "Sky suggests Bouaddi as a screening No 6 and says City have won their last 17 meetings with Fulham."
+  ],
+  "background": "Fernandez joined City from Chelsea this summer, and Sky notes his tackling and ball-winning numbers are lower than at Chelsea.",
+  "angle": "coach",
+  "sensitive": false,
+  "footage_terms": [
+   "Enzo Fernandez Manchester City highlights",
+   "Maresca press conference Enzo Fernandez",
+   "Manchester City vs Fulham preview"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "headline": "Semenyo withdraws support for the prosecution of a Liverpool fan in a racial abuse case",
+  "date": "2026-11-20",
+  "source_domain": "skysports.com",
+  "url": "https://www.skysports.com/football/news/13614319/antoine-semenyo-manchester-city-forward-withdraws-support-for-prosecution-of-liverpool-fan-in-racial-abuse-case",
+  "entities": [
+   "Antoine Semenyo",
+   "Manchester City",
+   "Liverpool",
+   "Mark Morgan"
+  ],
+  "facts": [
+   "At Liverpool Magistrates' Court the prosecution offered no further evidence after Semenyo said he no longer supported the case, and a not guilty verdict was recorded.",
+   "The allegation concerned the Liverpool v Bournemouth match on 15 August 2025, when Semenyo was a Bournemouth player.",
+   "The trial began last month and was adjourned when the defendant was taken to hospital after a seizure."
+  ],
+  "background": "Semenyo reported the incident to the referee at the time and joined Manchester City from Bournemouth in January 2026.",
+  "angle": "scandal",
+  "sensitive": true,
+  "footage_terms": [
+   "Antoine Semenyo Manchester City highlights",
+   "Semenyo Liverpool Anfield Bournemouth throw-in",
+   "Semenyo goals Manchester City 2026"
+  ],
+  "confidence": "high"
+ },
+ {
+  "headline": "Haaland is crowned Sky Sports' No 1 Premier League player ahead of Rice",
+  "date": "2026-11-18",
+  "source_domain": "skysports.com",
+  "url": "https://www.skysports.com/football/news/13613154/bruno-fernandes-tumbles-as-new-no-1-is-crowned-sky-sports-ranks-the-premier-leagues-top-25-players-right-now",
+  "entities": [
+   "Erling Haaland",
+   "Declan Rice",
+   "David Raya",
+   "Rayan Cherki",
+   "Elliot Anderson",
+   "Bruno Fernandes"
+  ],
+  "facts": [
+   "Haaland rose from fourth to first, with 14 league goals since March, almost double the next player, and replaced Bruno Fernandes, who fell to 11th.",
+   "Arsenal take places 2 to 4 with Rice, Raya and Gabriel; Cherki is 7th and Elliot Anderson 8th.",
+   "Chelsea's Joao Pedro is 9th and Cole Palmer 13th; Liverpool's Van Dijk is 15th and Alisson re-enters at 25th."
+  ],
+  "background": "ESPN's own ranking in the same week had Haaland eighth in the world, saying he is less involved in build-up play than before.",
+  "angle": "record",
+  "sensitive": false,
+  "footage_terms": [
+   "Erling Haaland goals 2026",
+   "Premier League top 25 players Sky Sports",
+   "Rayan Cherki Manchester City goals"
+  ],
+  "confidence": "high"
+ },
+ {
+  "headline": "Haaland is one of four City captains and says fatherhood made leadership 'natural'",
+  "date": "2026-11-19",
+  "source_domain": "espn.com",
+  "url": "https://www.espn.com/soccer/story/_/id/50533036/erling-haaland-man-city-leader",
+  "entities": [
+   "Erling Haaland",
+   "Manchester City",
+   "Ruben Dias",
+   "Marc Guehi",
+   "Gianluigi Donnarumma",
+   "Norway"
+  ],
+  "facts": [
+   "City have four appointed captains this season: Haaland, Ruben Dias, Marc Guehi and Gianluigi Donnarumma.",
+   "Haaland said leading is now natural since he became a father and he tries to help new signings settle.",
+   "He scored a late winner against Denmark and a penalty against Wales for Norway.",
+   "City host Fulham on Saturday and then face Napoli in the Champions League."
+  ],
+  "background": "He is in his fifth season at City and is now among the club's longest-serving players.",
+  "angle": "viral",
+  "sensitive": false,
+  "footage_terms": [
+   "Haaland Norway Denmark winner",
+   "Haaland captain Manchester City",
+   "Haaland interview fatherhood"
+  ],
+  "confidence": "high"
+ },
+ {
+  "headline": "Maresca's City win 3-0 at Anfield as Gravenberch is sent off",
+  "date": "2026-10-11",
+  "source_domain": "espn.com",
+  "url": "https://www.espn.com/soccer/match/_/gameId/401879264/manchester-city-liverpool",
+  "entities": [
+   "Manchester City",
+   "Liverpool",
+   "Enzo Maresca",
+   "Erling Haaland",
+   "Jeremy Doku",
+   "Ryan Gravenberch"
+  ],
+  "facts": [
+   "City won 3-0 at Anfield after Gravenberch's second yellow on Doku around the 62nd minute; Haaland, Doku and Gvardiol scored.",
+   "The page says Maresca became only the fourth manager to win his first six Premier League matches.",
+   "Liverpool's xG was 0.86 to City's 1.30 and they dropped to ninth."
+  ],
+  "background": "Maresca is in his first season as City manager, and City later lost three straight league games from late October, per ESPN.",
+  "angle": "win",
+  "sensitive": false,
+  "footage_terms": [
+   "Liverpool 0-3 Manchester City highlights",
+   "Gravenberch red card Doku",
+   "Haaland goal Anfield Liverpool City"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "headline": "Man City reportedly set to lose Mateo Kovacic at the end of the season",
+  "date": "2026-11-19",
+  "source_domain": "espn.com",
+  "url": "https://www.espn.com/soccer/story/_/id/50539252/transfer-rumors-news-arsenal-world-cup-nico-williams-spain",
+  "entities": [
+   "Mateo Kovacic",
+   "Manchester City",
+   "Marca"
+  ],
+  "facts": [
+   "ESPN's roundup cites a Marca report dated 19 November that Kovacic will leave when his contract expires at the end of the season.",
+   "The same roundup links Chelsea with Inter's Alessandro Bastoni and Liverpool with Barcelona left back Alejandro Balde, a possible 40 million euro move."
+  ],
+  "background": "The report is a single-source rumour carried by ESPN's transfer roundup, not an official club statement.",
+  "angle": "transfer",
+  "sensitive": false,
+  "footage_terms": [
+   "Mateo Kovacic Manchester City best moments",
+   "Kovacic Manchester City goals",
+   "Alejandro Balde Barcelona highlights"
+  ],
+  "confidence": "low"
+ }
+]

@@ -1,0 +1,95 @@
+{
+ "no": 74,
+ "subject": "West Ham storm back from 3-0 down at Cardiff in Parker's first game",
+ "title": "Parker's first game: 3-3 at Cardiff",
+ "voice": "EL_A",
+ "comic": true,
+ "style": "rickmorty_like",
+ "lines": [
+  {
+   "vo": "Three-nil down at half-time. Three-all at full time.",
+   "card": "Three-all",
+   "sfx": null,
+   "footage": "Cardiff 3-3 West Ham highlights"
+  },
+  {
+   "vo": "Scott Parker had been West Ham boss for one day.",
+   "card": "Parker's first game",
+   "sfx": null,
+   "footage": "Scott Parker first game West Ham reaction"
+  },
+  {
+   "vo": "Cardiff's Jack Moylan scored a hat-trick before the thirty-ninth minute. Three goals, no win. Harsh.",
+   "card": "Moylan hat-trick",
+   "sfx": "crowd groan",
+   "footage": "Jack Moylan hat-trick Cardiff West Ham"
+  },
+  {
+   "vo": "Then Parker made his half-time changes. Divine Mukasa pulled one back.",
+   "card": "Parker's changes",
+   "sfx": null,
+   "footage": "Divine Mukasa goal Cardiff West Ham"
+  },
+  {
+   "vo": "Arne Engels scored his first West Ham goal. Max Kilman headed in a Bowen cross.",
+   "card": "Kilman equaliser",
+   "sfx": null,
+   "footage": "Max Kilman equaliser Cardiff"
+  },
+  {
+   "vo": "Relegated last season, West Ham now sit eighth. That is the final play-off place.",
+   "card": "Eighth, play-off place",
+   "sfx": null,
+   "footage": "West Ham relegation reaction clip"
+  },
+  {
+   "vo": "Scott Parker is unbeaten as West Ham boss. Sample size: one game.",
+   "card": "Unbeaten. One game.",
+   "sfx": "rimshot",
+   "footage": "Scott Parker touchline, West Ham"
+  },
+  {
+   "vo": "Want the next story before it breaks? Betting tips, news and predictions at aboutfootball dot UK.",
+   "card": "Betting tips and news",
+   "sfx": null,
+   "footage": "Cardiff West Ham 3-3 highlights"
+  }
+ ],
+ "chars": 592,
+ "est_seconds": 41,
+ "footage_terms": [
+  "Cardiff 3-3 West Ham highlights",
+  "Jack Moylan hat-trick Cardiff West Ham",
+  "Max Kilman equaliser Cardiff",
+  "Scott Parker first game West Ham reaction",
+  "Cardiff West Ham 3-3 highlights"
+ ],
+ "inserts": [
+  {
+   "after_line": 2,
+   "story": "Setup: a cartoon mad scientist inherits a lab one day before the big experiment. Gag: three beakers explode before he finds the light switch. Twist: his goggled sidekick mops up calmly and says, 'Welcome to the job.'",
+   "characters": "mad-scientist caricature of Scott Parker; goggled sidekick",
+   "seconds": 2
+  },
+  {
+   "after_line": 4,
+   "story": "Setup: a caricature of Jack Moylan in an oversized lab coat pulls a top hat from his sleeve for each goal. Gag: three hats stack up and wobble. Twist: a grumpy referee knocks the stack over, and the scoreboard flips from 3-0 to 3-3 as the hats fall.",
+   "characters": "caricature of Jack Moylan in an oversized lab coat; grumpy cartoon referee",
+   "seconds": 2
+  },
+  {
+   "after_line": 5,
+   "story": "Setup: the scientist throws himself a party for eighth place. Gag: the confetti cannons fire printed play-off tickets. Twist: the sidekick points at a calendar showing one single day, and the scientist faints into the cake.",
+   "characters": "mad-scientist caricature of Scott Parker; cartoon party guests",
+   "seconds": 2
+  }
+ ],
+ "facts_used": [
+  "Cardiff 3-0 up at half-time; Jack Moylan hat-trick before the 39th minute; final 3-3 (news 100; espn.com/soccer/story/_/id/50382463)",
+  "After Parker's half-time changes: Divine Mukasa pulled one back, Arne Engels scored his first West Ham goal, Max Kilman headed in a Jarrod Bowen cross (news 100)",
+  "Parker took over a day earlier after West Ham sacked Nuno; West Ham relegated last season, expected to go straight back up (news 100 background)",
+  "Draw left West Ham eighth, in the final play-off place (news 100)"
+ ],
+ "comic_score": 8,
+ "notes": "Punched up: 'three goals, no win', 'sample size: one game' deadpan twist (unbeaten is true after one 3-3 draw). Did not use Nuno sacking. League name not in data, so not named. EL_A, vo kept at 600 or less. Inserts are generic cartoon characters and caricatures only. after_line counts from 1."
+}

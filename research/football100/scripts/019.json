@@ -1,0 +1,95 @@
+{
+ "no": 19,
+ "subject": "Ousmane Dembele",
+ "title": "Dembele: from Ballon d'Or to seventh",
+ "voice": "kokoro",
+ "comic": true,
+ "style": "simpsons",
+ "lines": [
+  {
+   "vo": "The reigning Ballon d'Or winner just finished seventh.",
+   "card": "Seventh place",
+   "sfx": null,
+   "footage": "Dembele Ballon d'Or 2025 archive, trophy lift"
+  },
+  {
+   "vo": "Ousmane Dembele won last year's award. This year, in London, he came seventh. Still top ten.",
+   "card": "Last year's award",
+   "sfx": null,
+   "footage": "London Palladium ceremony, wide shot"
+  },
+  {
+   "vo": "In 2024-25 he scored thirty-three goals and made fifteen assists. Those were first-place numbers.",
+   "card": "33 goals, 15 assists",
+   "sfx": null,
+   "footage": "Dembele PSG highlights 2024-25"
+  },
+  {
+   "vo": "Harry Kane won with 1,055 points. Dembele had 418. That is more than double.",
+   "card": "1,055 vs 418",
+   "sfx": null,
+   "footage": "Harry Kane Ballon d'Or 2026 acceptance clip"
+  },
+  {
+   "vo": "Even Lionel Messi, playing in Miami, finished fifth, two places higher.",
+   "card": "Messi finished above",
+   "sfx": "small cartoon boing",
+   "footage": "Messi Ballon d'Or 2026 archive, neutral"
+  },
+  {
+   "vo": "PSG are top of Ligue 1 with twenty-three points after ten games. Seventh place has not hurt the table.",
+   "card": "Top of Ligue 1",
+   "sfx": null,
+   "footage": "PSG match highlights, Parc des Princes"
+  },
+  {
+   "vo": "PSG also signed Torres, Godts and Akliouche this summer. So Dembele has company.",
+   "card": "New arrivals",
+   "sfx": null,
+   "footage": "PSG new signings presentation, neutral"
+  },
+  {
+   "vo": "Want the next story before it breaks? Betting tips, news and predictions at aboutfootball dot UK.",
+   "card": "aboutfootball dot UK",
+   "sfx": null,
+   "footage": "End card, no footage"
+  }
+ ],
+ "chars": 669,
+ "est_seconds": 37,
+ "footage_terms": [
+  "Ousmane Dembele Ballon d'Or 2025 highlights",
+  "Ousmane Dembele PSG 2024-25 goals",
+  "PSG Ligue 1 2026 highlights Dembele",
+  "Ballon d'Or 2026 ceremony London Palladium"
+ ],
+ "inserts": [
+  {
+   "after_line": 1,
+   "story": "A cartoon shelf holds a golden ball labelled last year. A caricature Dembele polishes it so hard that the ball shrinks to the size of a seventh-place medal. He holds it up and says, still shiny.",
+   "characters": "caricature Dembele; generic cartoon shelf with a face; no real people",
+   "seconds": 2
+  },
+  {
+   "after_line": 4,
+   "story": "A cartoon dressing room has three new generic signings squeezing onto a bench. A caricature Dembele finds his peg taken by a pigeon in football boots. The pigeon coos politely, as if it were the fourth signing.",
+   "characters": "caricature Dembele; generic cartoon pigeon in boots; generic cartoon signings; no real people",
+   "seconds": 2
+  },
+  {
+   "after_line": 5,
+   "story": "A cartoon podium has seven steps. A caricature Dembele stands on step seven, and a tiny caricature Messi on step five leans down and hands him a pair of binoculars. The label says, for spotting the winner.",
+   "characters": "caricature Dembele; caricature Messi (tiny, waving); no real people beyond the two caricatures",
+   "seconds": 2
+  }
+ ],
+ "facts_used": [
+  "Dembele finished 7th in the 2026 Ballon d'Or with 418 points; Kane won with 1,055; ceremony at the London Palladium (https://en.wikipedia.org/wiki/2026_Ballon_d%27Or)",
+  "Messi finished fifth in the same vote (https://www.si.com/soccer/lionel-messi-2026-ballon-dor-ranking-revealed)",
+  "2024-25: 33 goals and 15 assists in 49 games; Ballon d'Or won 22 Sep 2025 (https://en.wikipedia.org/wiki/Ousmane_Demb%C3%A9l%C3%A9)",
+  "PSG top of Ligue 1 with 23 points after ten games (https://en.wikipedia.org/wiki/2026%E2%80%9327_Ligue_1)",
+  "Summer arrivals Akliouche, Torres and Godts (https://en.wikipedia.org/wiki/2026%E2%80%9327_Paris_Saint-Germain_FC_season)"
+ ],
+ "comic_score": 7,
+ "notes": "Dembele's presence in the late-October and November matches is not confirmed by the sources, so the script makes no claim about his form in those games. 'Dembele now has company' is an inference, not a documented squad fact. The Strasbourg penalty story rests on one French Wikipedia source and is not used. Injury, family, religion and the 2021 hotel incident are excluded. after_line counts from 1. Punch-up pass: 'more than double' is checked (2 x 418 = 836, below 1,055). 'First-place numbers' refers to his 2024-25 season, which won the 2025 award. 'Seventh place has not hurt the table' makes no claim about his own form."
+}

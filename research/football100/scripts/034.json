@@ -1,0 +1,84 @@
+{
+ "no": 34,
+ "subject": "Real Madrid expected to trigger EUR 80m clause to bring Nico Paz back from Como",
+ "title": "Sold cheap, bought back dear",
+ "voice": "kokoro",
+ "comic": false,
+ "style": null,
+ "lines": [
+  {
+   "vo": "Sold for six million. Possibly bought back for eighty.",
+   "card": "6m to 80m",
+   "sfx": null,
+   "footage": "Nico Paz Como highlights"
+  },
+  {
+   "vo": "Nico Paz came through Real Madrid's academy, then moved to Como in 2024.",
+   "card": "Academy product",
+   "sfx": null,
+   "footage": "Nico Paz goal Serie A"
+  },
+  {
+   "vo": "Last summer the deal was restructured. The buy-back clause rose to eighty million. That is about thirteen times the fee.",
+   "card": "Clause up to 80m",
+   "sfx": null,
+   "footage": "Nico Paz Como skills"
+  },
+  {
+   "vo": "A Spanish radio report says Madrid have already decided to use it. Neither club has confirmed that.",
+   "card": "Unconfirmed",
+   "sfx": null,
+   "footage": "Nico Paz Real Madrid return"
+  },
+  {
+   "vo": "Six goals, eight assists, fourteen club games. That is one goal contribution per game. Eighty million sounds like a discount.",
+   "card": "6 goals, 8 assists",
+   "sfx": null,
+   "footage": "Nico Paz Como goals"
+  },
+  {
+   "vo": "Como say he remains fully their player. Fabregas will hope that stays true until next summer. Chelsea, Manchester United and Arsenal are reportedly watching too.",
+   "card": "Fabregas's problem",
+   "sfx": null,
+   "footage": "Fabregas Nico Paz interview"
+  },
+  {
+   "vo": "Your mates will never guess this. Match news and betting tips at aboutfootball dot UK.",
+   "card": "aboutfootball.UK",
+   "sfx": null,
+   "footage": "end card"
+  }
+ ],
+ "chars": 717,
+ "est_seconds": 40,
+ "footage_terms": [
+  "Nico Paz Como highlights",
+  "Nico Paz goal Serie A",
+  "Fabregas Nico Paz interview",
+  "Nico Paz Real Madrid return"
+ ],
+ "inserts": [
+  {
+   "after_line": 0,
+   "story": "A cartoon shopkeeper hands a tiny cartoon midfielder over a counter for a small bag of coins. Gag: the price tag on the midfielder flips from 6 to 80 as the boy grows taller. Twist: the shopkeeper stares at the tag, then at his coins, and hugs the player to buy him back.",
+   "characters": "generic cartoon shopkeeper; tiny cartoon midfielder",
+   "seconds": 2
+  },
+  {
+   "after_line": 2,
+   "story": "A cartoon radio on a shelf crackles with sound waves. Gag: a cartoon cleaner dusts under it and hears a whisper from the speaker. Twist: a tiny suitcase pops out of the radio and rolls toward the door.",
+   "characters": "generic cartoon radio host",
+   "seconds": 2
+  }
+ ],
+ "facts_used": [
+  "Mundo Deportivo and ESPN: Madrid expected to use Paz's EUR 80m buy-back or release clause; deadline next summer; neither club confirmed (ev0063)",
+  "Paz joined Como for about EUR 6m in 2024; restructured deal last summer raised the clause (ev0063)",
+  "A Spanish radio report says Madrid have already decided to use the option, valid only in summer 2027 (ev0063)",
+  "Paz has 6 goals and 8 assists in 14 club games this season (ev0063)",
+  "Como say he remains fully their player; Chelsea, Manchester United and Arsenal reportedly monitoring him (ev0063)",
+  "Cesc Fabregas is Como coach (ev0063 background)"
+ ],
+ "comic_score": 6,
+ "notes": "Non-comic, no inserts. Facts unchanged. Arithmetic jokes: 80 / 6 = about 13.3 times (fee is 'about' EUR 6m); 6 goals + 8 assists = 14 in 14 games. Report is unconfirmed by both clubs and the script says so. Reports conflict on how the restructuring changed the clause; script says only that it rose. Source: ev0063."
+}

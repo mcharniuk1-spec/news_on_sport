@@ -1,0 +1,272 @@
+{
+ "video_id": "gTdhQtKGzEs",
+ "topic": "ESPN college football: Texas vs LSU wild final moments (Week 11), Texas trailing 16-21",
+ "hero": "Texas Longhorns and LSU Tigers players/coaches",
+ "hero_role": "teams in the final-drive highlight",
+ "media_type_overall": "real broadcast footage",
+ "hook": "Wide end-zone view of Texas offense line-up near SEC logo with scoreboard TEXAS 16 21 LSU",
+ "subtitle_style": "none; broadcast scoreboard bar bottom (TEXAS 16 - 21 LSU, game clock) on every frame",
+ "reaction_overlays": "ESPN/ABC Saturday Night Football logo bug on a coach close-up; broadcast scoreboard overlay; no extra overlays",
+ "transition_summary": "Standard TV cuts between wide play shots and sideline close-ups; slow rhythm ~1 cut per 4-6 s (cuts list 8.5, 10.4, 34.2...), little editing",
+ "audio_note": "Original ESPN commentary (play-clock talk), crowd noise; no music",
+ "reuse_segments": [
+  {
+   "t0": 0,
+   "t1": 62,
+   "what": "Final drive of Texas at LSU with sideline close-ups",
+   "origin_guess": "broadcast match",
+   "rights_risk": "high",
+   "how_to_reuse": "needs licensed source; use own game recap with generated graphics"
+  }
+ ],
+ "frames": [
+  {
+   "idx": 1,
+   "t": 0,
+   "desc": "Wide high-angle of Texas offense and LSU defense at line of scrimmage over SEC logo, scoreboard bar",
+   "type": "video",
+   "text_on_screen": "TEXAS 16 21 LSU",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 2,
+   "t": 2,
+   "desc": "Wide high-angle of Texas offense and LSU defense at line of scrimmage over SEC logo, scoreboard bar",
+   "type": "video",
+   "text_on_screen": "TEXAS 16 21 LSU",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 3,
+   "t": 4,
+   "desc": "Wide high-angle of Texas offense and LSU defense at line of scrimmage over SEC logo, scoreboard bar",
+   "type": "video",
+   "text_on_screen": "TEXAS 16 21 LSU",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 4,
+   "t": 6,
+   "desc": "Wide high-angle of Texas offense and LSU defense at line of scrimmage over SEC logo, scoreboard bar",
+   "type": "video",
+   "text_on_screen": "TEXAS 16 21 LSU",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 5,
+   "t": 8,
+   "desc": "Sideline close-up of LSU and Texas players in helmets",
+   "type": "video",
+   "text_on_screen": "TEXAS 16 21 LSU",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 6,
+   "t": 10,
+   "desc": "Sideline close-up of LSU and Texas players in helmets",
+   "type": "video",
+   "text_on_screen": "TEXAS 16 21 LSU",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 7,
+   "t": 12,
+   "desc": "Coach in white hoodie with headset next to LSU no.24, sideline close",
+   "type": "video",
+   "text_on_screen": "TEXAS 16 21 LSU",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 8,
+   "t": 14,
+   "desc": "Coach in white hoodie with headset next to LSU no.24, sideline close",
+   "type": "video",
+   "text_on_screen": "TEXAS 16 21 LSU",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 9,
+   "t": 16,
+   "desc": "Close-up of coach in white hoodie with Saturday Night Football logo bug",
+   "type": "video",
+   "text_on_screen": "SATURDAY NIGHT FOOTBALL",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 10,
+   "t": 18,
+   "desc": "Wide stadium view of offense, crowd at top, SEC logo on field",
+   "type": "video",
+   "text_on_screen": "TEXAS 16 21 LSU",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 11,
+   "t": 20,
+   "desc": "Wide stadium view of offense, crowd at top, SEC logo on field",
+   "type": "video",
+   "text_on_screen": "TEXAS 16 21 LSU",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 12,
+   "t": 22,
+   "desc": "Wide stadium view of offense, crowd at top, SEC logo on field",
+   "type": "video",
+   "text_on_screen": "TEXAS 16 21 LSU",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 13,
+   "t": 24,
+   "desc": "Texas player on ground after tackle, others around, low angle",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 14,
+   "t": 26,
+   "desc": "LSU player in gold helmet, close-up, referee in orange behind",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 15,
+   "t": 28,
+   "desc": "Wide high-angle of offense and defense lining up, crowd, yard lines",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 16,
+   "t": 30,
+   "desc": "Wide high-angle of offense and defense lining up, crowd, yard lines",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 17,
+   "t": 32,
+   "desc": "Wide high-angle of offense and defense lining up, crowd, yard lines",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 18,
+   "t": 34,
+   "desc": "Texas players in orange and white helmets on sideline, close",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 19,
+   "t": 36,
+   "desc": "Out-of-focus blurred transition frame",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 20,
+   "t": 38,
+   "desc": "Texas player in white longhorn helmet on sideline",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 21,
+   "t": 40,
+   "desc": "Texas head coach in white hoodie with longhorn logo, reading play sheet, headset",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 22,
+   "t": 42,
+   "desc": "Texas head coach in white hoodie with longhorn logo, reading play sheet, headset",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 23,
+   "t": 44,
+   "desc": "Texas quarterback close-up helmet on sideline",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 24,
+   "t": 46,
+   "desc": "Wide stadium with LSU fans and players sideline, field view",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 25,
+   "t": 48,
+   "desc": "Wide stadium with LSU fans and players sideline, field view",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 26,
+   "t": 50,
+   "desc": "Texas quarterback in white helmet, orange jersey close-up",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 27,
+   "t": 52,
+   "desc": "Texas quarterback in white helmet, orange jersey close-up",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 28,
+   "t": 54,
+   "desc": "Wide high-angle of offense plays, lines on field",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 29,
+   "t": 56,
+   "desc": "Wide high-angle of offense plays, lines on field",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 30,
+   "t": 58,
+   "desc": "Wide high-angle of offense plays, lines on field",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 31,
+   "t": 60,
+   "desc": "LSU players in white/gold jerseys, close-up on field",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "none"
+  }
+ ]
+}

@@ -1,0 +1,136 @@
+{
+ "video_id": "FSGRMVBjH5U",
+ "topic": "Short: Pedri vs Bellingham, Spain vs England midfield duel with player tracking name tags",
+ "hero": "Pedri (Spain) and Jude Bellingham (England)",
+ "hero_role": "two featured midfielders",
+ "media_type_overall": "real broadcast footage",
+ "hook": "Wide tracking view of Spain vs England midfield with name tags PEDRI and J.BELLINGHAM following players",
+ "subtitle_style": "Small boxed name tags with flag icons above each player (PEDRI red/yellow, J.BELLINGHAM navy/white); no captions",
+ "reaction_overlays": "Floating name tags with flag icons, green tint on goal shot; no emoji",
+ "transition_summary": "Continuous footage, no scene cuts detected; one-shot style with zoom/crop changes; green tint effect at ~16 s",
+ "audio_note": "Likely music only or crowd audio",
+ "reuse_segments": [
+  {
+   "t0": 0,
+   "t1": 28,
+   "what": "Nations League Spain v England match footage with tracking tags",
+   "origin_guess": "broadcast match",
+   "rights_risk": "high",
+   "how_to_reuse": "licensed source needed; tags can be recreated in motion graphics"
+  }
+ ],
+ "frames": [
+  {
+   "idx": 1,
+   "t": 0,
+   "desc": "Wide top-down view of Spain red and England white; name tags PEDRI and J.BELLINGHAM",
+   "type": "video",
+   "text_on_screen": "PEDRI J.BELLINGHAM",
+   "transition_to_next": "none"
+  },
+  {
+   "idx": 2,
+   "t": 2,
+   "desc": "Wide top-down view of Spain red and England white; name tags PEDRI and J.BELLINGHAM",
+   "type": "video",
+   "text_on_screen": "PEDRI J.BELLINGHAM",
+   "transition_to_next": "none"
+  },
+  {
+   "idx": 3,
+   "t": 4,
+   "desc": "Wide view with Mapfre boards, tags following Pedri and Bellingham",
+   "type": "video",
+   "text_on_screen": "PEDRI J.BELLINGHAM",
+   "transition_to_next": "none"
+  },
+  {
+   "idx": 4,
+   "t": 6,
+   "desc": "Wide view with Mapfre boards, tags following Pedri and Bellingham",
+   "type": "video",
+   "text_on_screen": "PEDRI J.BELLINGHAM",
+   "transition_to_next": "none"
+  },
+  {
+   "idx": 5,
+   "t": 8,
+   "desc": "Wide view with Mapfre boards, tags following Pedri and Bellingham",
+   "type": "video",
+   "text_on_screen": "PEDRI J.BELLINGHAM",
+   "transition_to_next": "none"
+  },
+  {
+   "idx": 6,
+   "t": 10,
+   "desc": "Wide view with Mapfre boards, tags following Pedri and Bellingham",
+   "type": "video",
+   "text_on_screen": "PEDRI J.BELLINGHAM",
+   "transition_to_next": "none"
+  },
+  {
+   "idx": 7,
+   "t": 12,
+   "desc": "Wide shot Pedri tag near touchline, Spanish ad boards",
+   "type": "video",
+   "text_on_screen": "PEDRI",
+   "transition_to_next": "none"
+  },
+  {
+   "idx": 8,
+   "t": 14,
+   "desc": "Close action Spain no.8-style player tackled by English player in white",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "none"
+  },
+  {
+   "idx": 9,
+   "t": 16,
+   "desc": "Wide view with name tags near centre circle",
+   "type": "video",
+   "text_on_screen": "PEDRI J.BELLINGHAM",
+   "transition_to_next": "none"
+  },
+  {
+   "idx": 10,
+   "t": 18,
+   "desc": "Goal net shot with green tint, keeper dive, ad boards Movistar",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "none"
+  },
+  {
+   "idx": 11,
+   "t": 20,
+   "desc": "Wide view with Pedri and Bellingham tags crossing",
+   "type": "video",
+   "text_on_screen": "PEDRI J.BELLINGHAM",
+   "transition_to_next": "none"
+  },
+  {
+   "idx": 12,
+   "t": 22,
+   "desc": "Wide view with Pedri and Bellingham tags crossing",
+   "type": "video",
+   "text_on_screen": "PEDRI J.BELLINGHAM",
+   "transition_to_next": "none"
+  },
+  {
+   "idx": 13,
+   "t": 24,
+   "desc": "Wide view of pitch midfield with name tags",
+   "type": "video",
+   "text_on_screen": "J.BELLINGHAM PEDRI",
+   "transition_to_next": "none"
+  },
+  {
+   "idx": 14,
+   "t": 26,
+   "desc": "Wide view of pitch midfield with name tags",
+   "type": "video",
+   "text_on_screen": "J.BELLINGHAM PEDRI",
+   "transition_to_next": "none"
+  }
+ ]
+}

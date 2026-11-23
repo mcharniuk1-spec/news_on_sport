@@ -1,0 +1,470 @@
+{
+ "no": 65,
+ "style": "FLAT-POP",
+ "prop": "flag",
+ "cast": {
+  "estevao": {
+   "role": "rookie",
+   "shirt": "#2f6fe0",
+   "hair": "#2b2b3a",
+   "number": "41"
+  },
+  "alonso": {
+   "role": "coach",
+   "shirt": "#3a3f4f",
+   "hair": "#6b4a2a"
+  }
+ },
+ "sequences": {
+  "s01": {
+   "type": "HOOK",
+   "q": "Ten games, one start: why?",
+   "prop": "hourglass",
+   "emote": "sleepy",
+   "board": "ticket",
+   "role": "rookie"
+  },
+  "s02": {
+   "type": "COMIC",
+   "bg": "bench-area",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "estevao",
+       "x": 330,
+       "y": 1440,
+       "pose": "sit",
+       "emote": "sad",
+       "scale": 1.3
+      }
+     ],
+     "props": [
+      {
+       "kind": "bench",
+       "x": 330,
+       "y": 1330,
+       "scale": 3.0,
+       "layer": "back"
+      },
+      {
+       "kind": "flag",
+       "x": 640,
+       "y": 1170,
+       "scale": 1.3,
+       "anim": "drop"
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.42,
+     "actors": [
+      {
+       "id": "estevao",
+       "x": 330,
+       "y": 1440,
+       "pose": "wave",
+       "emote": "happy",
+       "scale": 1.3
+      }
+     ],
+     "props": [
+      {
+       "kind": "bench",
+       "x": 330,
+       "y": 1330,
+       "scale": 3.0,
+       "layer": "back"
+      },
+      {
+       "kind": "flag",
+       "x": 600,
+       "y": 1000,
+       "scale": 1.45,
+       "anim": "wobble",
+       "rot": -8
+      }
+     ],
+     "cam": "push"
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.42,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "estevao",
+       "x": 330,
+       "y": 1440,
+       "pose": "wave",
+       "emote": "love",
+       "scale": 1.3
+      }
+     ],
+     "props": [
+      {
+       "kind": "bench",
+       "x": 330,
+       "y": 1330,
+       "scale": 3.0,
+       "layer": "back"
+      },
+      {
+       "kind": "flag",
+       "x": 610,
+       "y": 930,
+       "scale": 1.6,
+       "anim": "wobble",
+       "rot": 8
+      }
+     ],
+     "sfx": {
+      "text": "WHOOSH",
+      "x": 800,
+      "y": 620,
+      "r": 130
+     }
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "estevao",
+       "x": 330,
+       "y": 1440,
+       "pose": "shush",
+       "emote": "love",
+       "scale": 1.3
+      }
+     ],
+     "props": [
+      {
+       "kind": "bench",
+       "x": 330,
+       "y": 1330,
+       "scale": 3.0,
+       "layer": "back"
+      },
+      {
+       "kind": "flag",
+       "x": 610,
+       "y": 930,
+       "scale": 1.6
+      },
+      {
+       "kind": "paper-plane",
+       "x": 656,
+       "y": 800,
+       "scale": 0.7,
+       "face": "happy",
+       "anim": "drop"
+      }
+     ],
+     "bubble": {
+      "who": "estevao",
+      "icon": "heart"
+     },
+     "fx": [
+      {
+       "kind": "sparkle",
+       "x": 656,
+       "y": 790
+      }
+     ]
+    }
+   ]
+  },
+  "s03": {
+   "type": "NEWS",
+   "name": "Estevao",
+   "fact": "His one start was a 2-0 win",
+   "ticker": "Minutes problem",
+   "icons": [
+    "hourglass",
+    "whistle",
+    "check"
+   ],
+   "role": "rookie",
+   "actor": "estevao",
+   "dateline": "Under Xabi Alonso"
+  },
+  "s04": {
+   "type": "COMIC",
+   "bg": "dressing-room",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "alonso",
+       "x": 310,
+       "y": 1440,
+       "pose": "present",
+       "emote": "neutral",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "pitch-board",
+       "x": 770,
+       "y": 830,
+       "scale": 2.8
+      },
+      {
+       "kind": "shirt",
+       "x": 500,
+       "y": 1010,
+       "scale": 1.1,
+       "face": "neutral"
+      },
+      {
+       "kind": "bench",
+       "x": 880,
+       "y": 1390,
+       "scale": 2.2,
+       "layer": "back"
+      },
+      {
+       "kind": "flag",
+       "x": 910,
+       "y": 540,
+       "scale": 1.0
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.42,
+     "actors": [
+      {
+       "id": "alonso",
+       "x": 310,
+       "y": 1440,
+       "pose": "present",
+       "emote": "angry-cheeky",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "pitch-board",
+       "x": 770,
+       "y": 830,
+       "scale": 2.8
+      },
+      {
+       "kind": "shirt",
+       "x": 660,
+       "y": 900,
+       "scale": 1.1,
+       "face": "sweat",
+       "anim": "shake"
+      },
+      {
+       "kind": "bench",
+       "x": 880,
+       "y": 1390,
+       "scale": 2.2,
+       "layer": "back"
+      },
+      {
+       "kind": "flag",
+       "x": 910,
+       "y": 540,
+       "scale": 1.0
+      }
+     ],
+     "cam": "push",
+     "sfx": {
+      "text": "CLANG",
+      "x": 380,
+      "y": 560,
+      "r": 120
+     }
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.42,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "alonso",
+       "x": 310,
+       "y": 1440,
+       "pose": "shrug",
+       "emote": "sweat",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "pitch-board",
+       "x": 770,
+       "y": 830,
+       "scale": 2.8
+      },
+      {
+       "kind": "shirt",
+       "x": 680,
+       "y": 900,
+       "scale": 1.1,
+       "face": "shock",
+       "rot": 40,
+       "anim": "shake"
+      },
+      {
+       "kind": "bench",
+       "x": 880,
+       "y": 1390,
+       "scale": 2.2,
+       "layer": "back"
+      },
+      {
+       "kind": "flag",
+       "x": 910,
+       "y": 540,
+       "scale": 1.0
+      },
+      {
+       "kind": "cross",
+       "x": 900,
+       "y": 720,
+       "scale": 1.0,
+       "anim": "pop"
+      }
+     ]
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "alonso",
+       "x": 310,
+       "y": 1440,
+       "pose": "cheer",
+       "emote": "happy",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "pitch-board",
+       "x": 770,
+       "y": 830,
+       "scale": 2.8
+      },
+      {
+       "kind": "shirt",
+       "x": 770,
+       "y": 860,
+       "scale": 0.95,
+       "face": "happy",
+       "anim": "pop"
+      },
+      {
+       "kind": "bench",
+       "x": 880,
+       "y": 1390,
+       "scale": 2.2,
+       "layer": "back"
+      },
+      {
+       "kind": "flag",
+       "x": 910,
+       "y": 540,
+       "scale": 1.0
+      },
+      {
+       "kind": "check",
+       "x": 900,
+       "y": 720,
+       "scale": 1.1,
+       "anim": "pop"
+      }
+     ],
+     "sfx": {
+      "text": "DING",
+      "x": 380,
+      "y": 560,
+      "r": 120
+     },
+     "fx": [
+      {
+       "kind": "confetti",
+       "x": 770,
+       "y": 700
+      }
+     ]
+    }
+   ]
+  },
+  "s05": {
+   "type": "PROVOC",
+   "q": "Three-four-three: keep or switch?",
+   "a": "Keep it",
+   "b": "Switch",
+   "split": [
+    43,
+    57
+   ],
+   "mood": "cheeky"
+  },
+  "s06": {
+   "type": "STATS",
+   "items": [
+    {
+     "icon": "star",
+     "value": "4",
+     "label": "Ancelotti trusts him"
+    },
+    {
+     "icon": "flag",
+     "value": "5",
+     "label": "Brazil's five games"
+    },
+    {
+     "icon": "hourglass",
+     "value": "1",
+     "label": "one from ten"
+    }
+   ]
+  },
+  "s07": {
+   "type": "INTERVIEW",
+   "label": "REPORTER ASKS",
+   "bubble": "no plans to move him on",
+   "answer": {
+    "icon": "padlock",
+    "gesture": "thumbsup",
+    "emote": "smug"
+   },
+   "subject": "Xabi Alonso",
+   "subject_cast": "alonso",
+   "subject_role": "coach",
+   "reporter_role": "reporter"
+  }
+ }
+}

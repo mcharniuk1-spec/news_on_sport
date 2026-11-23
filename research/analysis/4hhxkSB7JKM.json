@@ -1,0 +1,280 @@
+{
+ "video_id": "4hhxkSB7JKM",
+ "topic": "Messi secretly enables NO RULES mode in EA FC 27 to prank Ronaldo, AI-voiced comedy gameplay (Argentina vs Portugal)",
+ "hero": "Lionel Messi and Cristiano Ronaldo (AI-voiced characters)",
+ "hero_role": "pranker and victim",
+ "media_type_overall": "game footage (e.g. GTA/FIFA)",
+ "hook": "FC game mode menu showing King of the Hill / No Rules selected with Messi face-cam inset",
+ "subtitle_style": "Game HUD only; no added subs seen",
+ "reaction_overlays": "Face-cam inset portraits top-right (Messi, Ronaldo with red headset); green EA scoreline bar; glitch transition frames",
+ "transition_summary": "Hard cuts between gameplay and short replays; mostly continuous gameplay; cuts at ~3.8, 30.6, 34.4, 41.9, 47.6, 63 s (about 1 per 10 s)",
+ "audio_note": "AI-voiced dialogue, transcript: Ronaldo went to bathroom so I will put no rules on to prank him",
+ "reuse_segments": [
+  {
+   "t0": 0,
+   "t1": 4,
+   "what": "Game menu selecting No Rules",
+   "origin_guess": "screen recording",
+   "rights_risk": "low",
+   "how_to_reuse": "own recording"
+  },
+  {
+   "t0": 4,
+   "t1": 62,
+   "what": "Argentina vs Portugal FC27 gameplay",
+   "origin_guess": "game",
+   "rights_risk": "medium",
+   "how_to_reuse": "own recorded gameplay; face portraits need AI-generated/licensed art"
+  }
+ ],
+ "frames": [
+  {
+   "idx": 1,
+   "t": 0,
+   "desc": "FC mode selection menu with No Rules tile highlighted; Messi inset top-right",
+   "type": "screen_recording",
+   "text_on_screen": "No Rules",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 2,
+   "t": 2,
+   "desc": "FC mode selection menu with No Rules tile highlighted; Messi inset top-right",
+   "type": "screen_recording",
+   "text_on_screen": "No Rules",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 3,
+   "t": 4,
+   "desc": "Argentina vs Portugal 0-0 kickoff scoreboard; Ronaldo inset",
+   "type": "game",
+   "text_on_screen": "ARG 0 POR 0",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 4,
+   "t": 6,
+   "desc": "Argentina vs Portugal 0-0 kickoff scoreboard; Ronaldo inset",
+   "type": "game",
+   "text_on_screen": "ARG 0 POR 0",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 5,
+   "t": 8,
+   "desc": "Game wide view, Portugal red players, Messi inset",
+   "type": "game",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 6,
+   "t": 10,
+   "desc": "Game wide view, Portugal red players, Messi inset",
+   "type": "game",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 7,
+   "t": 12,
+   "desc": "Gameplay wide view with players in white-blue vs red and green HUD ticker",
+   "type": "game",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 8,
+   "t": 14,
+   "desc": "Gameplay wide view with players in white-blue vs red and green HUD ticker",
+   "type": "game",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 9,
+   "t": 16,
+   "desc": "Gameplay wide view with players in white-blue vs red and green HUD ticker",
+   "type": "game",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 10,
+   "t": 18,
+   "desc": "Gameplay wide view with players in white-blue vs red and green HUD ticker",
+   "type": "game",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 11,
+   "t": 20,
+   "desc": "Gameplay near goal box, ball and defenders",
+   "type": "game",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 12,
+   "t": 22,
+   "desc": "Gameplay near goal box, ball and defenders",
+   "type": "game",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 13,
+   "t": 24,
+   "desc": "Gameplay with ticker lower-third of player names; red keeper close-up at 16",
+   "type": "game",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 14,
+   "t": 26,
+   "desc": "Gameplay with ticker lower-third of player names; red keeper close-up at 16",
+   "type": "game",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 15,
+   "t": 28,
+   "desc": "Gameplay with ticker lower-third of player names; red keeper close-up at 16",
+   "type": "game",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 16,
+   "t": 30,
+   "desc": "Red-kit goalkeeper near goal line, close in-game replay",
+   "type": "game",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 17,
+   "t": 32,
+   "desc": "Argentine player tumbling in air with stat card replay",
+   "type": "game",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 18,
+   "t": 34,
+   "desc": "Gameplay wide pitch Argentina vs Portugal; Messi/Ronaldo insets",
+   "type": "game",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 19,
+   "t": 36,
+   "desc": "Gameplay wide pitch Argentina vs Portugal; Messi/Ronaldo insets",
+   "type": "game",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 20,
+   "t": 38,
+   "desc": "Gameplay wide pitch Argentina vs Portugal; Messi/Ronaldo insets",
+   "type": "game",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 21,
+   "t": 40,
+   "desc": "Gameplay wide pitch Argentina vs Portugal; Messi/Ronaldo insets",
+   "type": "game",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 22,
+   "t": 42,
+   "desc": "Close-up Argentina player with glitchy green/black transition blocks",
+   "type": "game",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 23,
+   "t": 44,
+   "desc": "Argentina player slide tackle on ground, replay",
+   "type": "game",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 24,
+   "t": 46,
+   "desc": "Gameplay close, player highlighted",
+   "type": "game",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 25,
+   "t": 48,
+   "desc": "Scoreboard ARG 2-0 POR over gameplay",
+   "type": "game",
+   "text_on_screen": "ARG 2 0 POR",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 26,
+   "t": 50,
+   "desc": "Scoreboard ARG 2-0 POR over gameplay",
+   "type": "game",
+   "text_on_screen": "ARG 2 0 POR",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 27,
+   "t": 52,
+   "desc": "Gameplay wide pitch views of play",
+   "type": "game",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 28,
+   "t": 54,
+   "desc": "Gameplay wide pitch views of play",
+   "type": "game",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 29,
+   "t": 56,
+   "desc": "Gameplay wide pitch views of play",
+   "type": "game",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 30,
+   "t": 58,
+   "desc": "Gameplay wide pitch views of play",
+   "type": "game",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 31,
+   "t": 60,
+   "desc": "Ronaldo (game model) close up in red kit with SUIII-style celebration",
+   "type": "game",
+   "text_on_screen": "",
+   "transition_to_next": "none"
+  }
+ ]
+}

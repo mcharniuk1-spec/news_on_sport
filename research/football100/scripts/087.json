@@ -1,0 +1,89 @@
+{
+ "no": 87,
+ "subject": "Klopp says FIFA is worse than in Blatter's day and hopes Infantino is replaced",
+ "title": "Klopp: FIFA worse than Blatter",
+ "voice": "kokoro",
+ "comic": true,
+ "style": "southpark_cutout",
+ "lines": [
+  {
+   "vo": "Klopp just said FIFA is worse than in Blatter's day. Ouch.",
+   "card": "Worse than Blatter",
+   "sfx": null,
+   "footage": "Klopp Germany press conference November"
+  },
+  {
+   "vo": "Germany coach Jürgen Klopp hopes Gianni Infantino gets replaced. Klopp was never known for whispering.",
+   "card": "Klopp wants a change",
+   "sfx": null,
+   "footage": "Klopp Infantino FIFA comments"
+  },
+  {
+   "vo": "Critics point to FIFA's handling of Folarin Balogun's red card at the World Cup. It still let him play against Belgium. A red card, apparently, is more of a suggestion.",
+   "card": "Red card questions",
+   "sfx": null,
+   "footage": "Infantino FIFA congress speech"
+  },
+  {
+   "vo": "Backlash also hit a proposed twenty billion dollar World Cup company with private investors. Twenty billion dollars. Somewhere, a calculator is crying.",
+   "card": "Twenty billion dollars",
+   "sfx": "short calculator beep",
+   "footage": "World Cup 2026 final highlights"
+  },
+  {
+   "vo": "Blatter was banned from football in twenty-fifteen. Klopp says it has got worse since. Bold review.",
+   "card": "Bold comparison",
+   "sfx": null,
+   "footage": "Klopp Blatter press conference"
+  },
+  {
+   "vo": "The election is in Rabat on the eighteenth of March, twenty twenty-seven. Bring popcorn. Klopp brings the opinions.",
+   "card": "Rabat, March 2027",
+   "sfx": null,
+   "footage": "FIFA congress crowd"
+  },
+  {
+   "vo": "Want more football chaos? Free tips, results and predictions at aboutfootball dot UK.",
+   "card": "aboutfootball.UK",
+   "sfx": null,
+   "footage": "end card"
+  }
+ ],
+ "chars": 778,
+ "est_seconds": 43,
+ "footage_terms": [
+  "Klopp Infantino FIFA comments",
+  "Infantino FIFA congress speech",
+  "Klopp Germany press conference November",
+  "Klopp Infantino Blatter"
+ ],
+ "inserts": [
+  {
+   "after_line": 2,
+   "story": "Setup: a cutout Klopp in cap and glasses shouts into a tiny microphone. Gag: a generic cutout official behind him holds up three signs in a row: NOT ME, STILL NOT ME, ASK ME LATER. Twist: the microphone squeals and the official slides under the table.",
+   "characters": "South Park style cutout Klopp (cap and glasses caricature); generic cutout official",
+   "seconds": 2
+  },
+  {
+   "after_line": 3,
+   "story": "Setup: a cutout Klopp hangs a dusty frame labelled OLD DAYS on a wall. Gag: he steps back, squints and sticks a note under it that says THEN. Twist: he pulls out a bigger frame labelled NOW and the wall collapses under its weight.",
+   "characters": "cutout Klopp; cutout picture frames; no real officials shown",
+   "seconds": 2
+  },
+  {
+   "after_line": 4,
+   "story": "Setup: a cutout Klopp taps a giant calculator showing 20,000,000,000. Gag: the zeros spill off the screen and roll across the floor. Twist: a generic cutout referee shows the calculator a red card and it walks off.",
+   "characters": "cutout Klopp; cutout calculator; generic cutout referee",
+   "seconds": 2
+  }
+ ],
+ "facts_used": [
+  "Germany coach Klopp said he hopes Infantino is replaced and that FIFA is worse since Blatter (ev0135)",
+  "Infantino criticised over handling of USA striker Folarin Balogun's red card at the World Cup (ev0135)",
+  "Infantino faced backlash for a proposed 20 billion dollar World Cup company with private investors (ev0135)",
+  "Election on 18 March 2027 in Rabat (ev0135)",
+  "Blatter was banned from football in 2015 over a payment to Michel Platini (ev0135 background)"
+ ],
+ "comic_score": 6,
+ "notes": "Comic, 3 inserts (after_line counts from 1). Political-sporting topic: jokes aim at FIFA's documented handling and at Klopp's known outspokenness, no personal insults to Infantino or Blatter. Blatter's ban is stated neutrally with no joke on it (legal-trouble rule); the reason (a payment to Platini) is deliberately left out. Fixed earlier wording: source says FIFA is worse 'since Blatter', not that the current boss is worse than Blatter. Generic cutouts for officials. 'Never known for whispering' is a light caricature, not a fact claim."
+}

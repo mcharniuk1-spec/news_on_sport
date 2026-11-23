@@ -1,0 +1,93 @@
+{
+ "no": 5,
+ "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/005_fabio_cannavaro.mp4",
+ "total": 47.86666666666667,
+ "outro_start": 40.72,
+ "cover": true,
+ "seq": [
+  {
+   "id": "s01",
+   "kind": "HOOK",
+   "start": 0.1,
+   "end": 1.6,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/005/s01.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s02",
+   "kind": "COMIC1",
+   "start": 4.633333333333334,
+   "end": 7.633333333333334,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/005/s02.mp4",
+   "clip_dur": 3.0,
+   "frames": 72
+  },
+  {
+   "id": "s03",
+   "kind": "PROVOC",
+   "start": 13.066666666666666,
+   "end": 14.566666666666666,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/005/s03.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s04",
+   "kind": "COMIC2",
+   "start": 20.966666666666665,
+   "end": 23.966666666666665,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/005/s04.mp4",
+   "clip_dur": 3.0,
+   "frames": 72
+  },
+  {
+   "id": "s05",
+   "kind": "NEWS",
+   "start": 25.5,
+   "end": 27.5,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/005/s05.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s06",
+   "kind": "STATS",
+   "start": 29.8,
+   "end": 31.3,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/005/s06.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s07",
+   "kind": "INTERVIEW",
+   "start": 36.1,
+   "end": 37.86666666666667,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/005/s07.mp4",
+   "clip_dur": 1.767,
+   "frames": 42
+  }
+ ],
+ "missing": [],
+ "dropped": [],
+ "cards": [
+  {
+   "text": "Contract to autumn 2027",
+   "a": 28.133333333333333,
+   "b": 29.666666666666668
+  }
+ ],
+ "caption_sprites": 96,
+ "whoosh": [
+  0.0,
+  4.533333333333334,
+  12.966666666666667,
+  20.866666666666664,
+  25.4,
+  29.7,
+  36.0,
+  40.62
+ ],
+ "shots": 16
+}

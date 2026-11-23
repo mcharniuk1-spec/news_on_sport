@@ -1,0 +1,93 @@
+{
+ "no": 57,
+ "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/057_hakimi_scores_first_career_hat_trick.mp4",
+ "total": 44.2,
+ "outro_start": 37.93,
+ "cover": true,
+ "seq": [
+  {
+   "id": "s01",
+   "kind": "HOOK",
+   "start": 0.1,
+   "end": 1.6,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/057/s01.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s02",
+   "kind": "COMIC1",
+   "start": 3.8,
+   "end": 6.3,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/057/s02.mp4",
+   "clip_dur": 2.5,
+   "frames": 60
+  },
+  {
+   "id": "s03",
+   "kind": "COMIC2",
+   "start": 8.966666666666667,
+   "end": 11.733333333333333,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/057/s03.mp4",
+   "clip_dur": 2.767,
+   "frames": 66
+  },
+  {
+   "id": "s04",
+   "kind": "NEWS",
+   "start": 14.333333333333334,
+   "end": 16.1,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/057/s04.mp4",
+   "clip_dur": 1.767,
+   "frames": 42
+  },
+  {
+   "id": "s05",
+   "kind": "INTERVIEW",
+   "start": 18.6,
+   "end": 20.366666666666667,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/057/s05.mp4",
+   "clip_dur": 1.767,
+   "frames": 42
+  },
+  {
+   "id": "s06",
+   "kind": "STATS",
+   "start": 26.1,
+   "end": 27.6,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/057/s06.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s07",
+   "kind": "PROVOC",
+   "start": 33.6,
+   "end": 35.1,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/057/s07.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  }
+ ],
+ "missing": [],
+ "dropped": [],
+ "cards": [
+  {
+   "text": "CAF award, Lagos",
+   "a": 32.1,
+   "b": 33.46666666666667
+  }
+ ],
+ "caption_sprites": 121,
+ "whoosh": [
+  0.0,
+  3.6999999999999997,
+  8.866666666666667,
+  14.233333333333334,
+  18.5,
+  26.0,
+  33.5,
+  37.83
+ ],
+ "shots": 14
+}

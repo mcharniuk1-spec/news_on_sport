@@ -1,0 +1,272 @@
+{
+ "video_id": "oZYu0IJLWE8",
+ "topic": "Sky Sports News studio analysis of Manchester United's latest financial results",
+ "hero": "Kaveh Solhekol (per description; presenter/reporter in dark suit)",
+ "hero_role": "studio analyst/reporter",
+ "media_type_overall": "press conference/interview clip",
+ "hook": "Yellow BREAKING NEWS graphic card, then wide studio shot with two presenters",
+ "subtitle_style": "none (only BREAKING NEWS graphic on yellow board)",
+ "reaction_overlays": "none",
+ "transition_summary": "Straight broadcast; hard cuts between wide studio and presenter close-up; very slow (about 1 cut/10s, 5 detected cuts)",
+ "audio_note": "English studio discussion (reporter explaining financial results); no music",
+ "reuse_segments": [
+  {
+   "t0": 0,
+   "t1": 62,
+   "what": "Studio news segment",
+   "origin_guess": "broadcast match",
+   "rights_risk": "high",
+   "how_to_reuse": "Sky Sports content is copyrighted; recreate a neutral studio explainer with own presenter/graphics"
+  }
+ ],
+ "frames": [
+  {
+   "idx": 1,
+   "t": 0,
+   "desc": "Yellow BREAKING NEWS graphic card",
+   "type": "graphic_card",
+   "text_on_screen": "BREAKING NEWS",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 2,
+   "t": 2,
+   "desc": "Wide studio: man standing at left, woman at desk, yellow BREAKING NEWS board",
+   "type": "video",
+   "text_on_screen": "BREAKING NEWS",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 3,
+   "t": 4,
+   "desc": "Wide studio, same two presenters, BREAKING NEWS board",
+   "type": "video",
+   "text_on_screen": "BREAKING NEWS",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 4,
+   "t": 6,
+   "desc": "Wide studio, same two presenters",
+   "type": "video",
+   "text_on_screen": "BREAKING NEWS",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 5,
+   "t": 8,
+   "desc": "Wide studio, same two presenters",
+   "type": "video",
+   "text_on_screen": "BREAKING NEWS",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 6,
+   "t": 10,
+   "desc": "Wide studio, same two presenters",
+   "type": "video",
+   "text_on_screen": "BREAKING NEWS",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 7,
+   "t": 12,
+   "desc": "Wide studio, man at left, woman at desk",
+   "type": "video",
+   "text_on_screen": "BREAKING NEWS",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 8,
+   "t": 14,
+   "desc": "Close-up presenter in dark jacket, red and blue backdrop, looking left",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 9,
+   "t": 16,
+   "desc": "Presenter close, speaking",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 10,
+   "t": 18,
+   "desc": "Presenter close, gesturing with hand",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 11,
+   "t": 20,
+   "desc": "Presenter close, looking down at notes",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 12,
+   "t": 22,
+   "desc": "Presenter close, hand gesture",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 13,
+   "t": 24,
+   "desc": "Presenter close, speaking, paper visible",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 14,
+   "t": 26,
+   "desc": "Presenter reading paper",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 15,
+   "t": 28,
+   "desc": "Presenter close, reading from sheet",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 16,
+   "t": 30,
+   "desc": "Presenter close, speaking",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 17,
+   "t": 32,
+   "desc": "Presenter close, looking down",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 18,
+   "t": 34,
+   "desc": "Presenter close, looking down at notes",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 19,
+   "t": 36,
+   "desc": "Presenter close, reading",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 20,
+   "t": 38,
+   "desc": "Presenter close, holding paper",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 21,
+   "t": 40,
+   "desc": "Presenter speaking, looking down",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 22,
+   "t": 42,
+   "desc": "Presenter reading",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 23,
+   "t": 44,
+   "desc": "Presenter close, head down",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 24,
+   "t": 46,
+   "desc": "Wide studio, man standing, woman at desk, BREAKING NEWS board",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 25,
+   "t": 48,
+   "desc": "Wide studio, man gesturing",
+   "type": "video",
+   "text_on_screen": "BREAKING NEWS",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 26,
+   "t": 50,
+   "desc": "Wide studio, man gesturing",
+   "type": "video",
+   "text_on_screen": "BREAKING NEWS",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 27,
+   "t": 52,
+   "desc": "Wide studio, man gesturing",
+   "type": "video",
+   "text_on_screen": "BREAKING NEWS",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 28,
+   "t": 54,
+   "desc": "Wide studio, man gesturing",
+   "type": "video",
+   "text_on_screen": "BREAKING NEWS",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 29,
+   "t": 56,
+   "desc": "Presenter close, reading paper",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 30,
+   "t": 58,
+   "desc": "Presenter close, speaking",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 31,
+   "t": 60,
+   "desc": "Presenter close, speaking to camera",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "none"
+  }
+ ]
+}

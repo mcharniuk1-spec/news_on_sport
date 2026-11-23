@@ -1,0 +1,12 @@
+{
+  "21": {"hook_basis": "scoreline_result", "humour_target": "club", "risk_flags": ["none"]},
+  "22": {"hook_type": "contrast_twist", "story_structure": "chronological_recap"},
+  "23": {"dominant_emotion": "amusement"},
+  "24": {"hook_type": "curiosity_gap", "hook_type_alt": "stat_shock", "hook_basis": "stats_oddity", "uk_relevance": "medium", "twist_position": "late", "humour_type": "callback", "risk_flags": ["single_source"]},
+  "25": {"topic_primary": "viral_moment", "dominant_emotion": "amusement"},
+  "26": {"story_structure": "irony_then_vs_now", "humour_type": "understatement", "hook_type_alt": "none", "risk_flags": ["off_topic_footage_risk", "over_length"]},
+  "27": {"risk_flags": ["off_topic_footage_risk", "overlap_other_video"]},
+  "28": {"hook_type_alt": "none", "risk_flags": ["betting_under18_appeal", "overlap_other_video", "single_source"]},
+  "29": {"timeliness": "recent_month", "story_structure": "stat_stack", "risk_flags": ["over_length", "single_source"]},
+  "30": {"topic_primary": "legacy_retrospective", "risk_flags": ["betting_under18_appeal", "single_source", "unverified_claim"]}
+}

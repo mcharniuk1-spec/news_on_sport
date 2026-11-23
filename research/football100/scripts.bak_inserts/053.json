@@ -1,0 +1,62 @@
+{
+ "no": 53,
+ "subject": "Nashville SC set MLS record with 77 points and win the Supporters' Shield",
+ "title": "Nashville's record 77-point season",
+ "voice": "EL_C",
+ "comic": false,
+ "style": null,
+ "lines": [
+  {
+   "vo": "Seventy-seven points. No MLS side has ever earned more in a season.",
+   "card": "77 points, MLS record",
+   "footage": "Nashville SC Supporters Shield celebration"
+  },
+  {
+   "vo": "They passed Inter Miami's seventy-four from 2024. Three extra points, and the Supporters' Shield.",
+   "card": "Passed Inter Miami",
+   "footage": "Nashville SC trophy lift"
+  },
+  {
+   "vo": "Nashville joined MLS in twenty-twenty with a tough, low-budget label.",
+   "card": "Tough, low-budget",
+   "footage": "Nashville SC stadium crowd"
+  },
+  {
+   "vo": "Goalkeeper Brian Schwake and a deep defence did a lot of the work. Not glamorous. Very effective.",
+   "card": "Brian Schwake",
+   "footage": "Brian Schwake saves Nashville"
+  },
+  {
+   "vo": "Now they are top seed in the East. The playoffs start on the twenty-second against Orlando or Cincinnati.",
+   "card": "East top seed",
+   "footage": "Nashville SC MLS playoffs 2026"
+  },
+  {
+   "vo": "Low budget, record points. Funny how that works.",
+   "card": "Low budget, record points",
+   "footage": "Nashville SC record points"
+  },
+  {
+   "vo": "Think you can call the MLS Cup winner? Predictions and match news at aboutfootball dot UK.",
+   "card": "aboutfootball.uk",
+   "footage": "football100 end card"
+  }
+ ],
+ "chars": 573,
+ "est_seconds": 32,
+ "footage_terms": [
+  "Nashville SC Supporters Shield celebration",
+  "Hany Mukhtar goals Nashville",
+  "Nashville SC MLS playoffs 2026",
+  "Nashville SC record points"
+ ],
+ "inserts": [],
+ "facts_used": [
+  "ev0139: Nashville set a single-season MLS points record with 77, passing Inter Miami's 74 from 2024; they won the Supporters' Shield (news/news_dedup.json)",
+  "ev0139: Nashville are the top seed in the East and begin the playoffs on 22 November against Orlando or Cincinnati; MLS Cup is 18 December (news/news_dedup.json)",
+  "ev0139: strengths named are goalkeeper Brian Schwake, a deep defence with Defender of the Year candidates, and a strong attack (news/news_dedup.json)",
+  "ev0139 background: joined MLS in 2020 with a reputation as a tough, low-budget side (news/news_dedup.json)"
+ ],
+ "comic_score": 4,
+ "notes": "The 'most any MLS side has ever earned' line reads the record as the all-time single-season points high, as the source states. The 'did a lot of the work' line is an interpretation of the named strengths, not a stat. Non-comic, 0 inserts. Punch-up pass: 'low-budget' callback as the twist; '3 extra points' is 77 minus 74. 'Not glamorous' is tone, not a stat."
+}

@@ -1,0 +1,256 @@
+{
+ "video_id": "rR_ofQTjNog",
+ "topic": "Football satire/meme: Vinícius Júnior may never get his Real Madrid wing spot back because Yan Diomande is thriving",
+ "hero": "Vinícius Júnior (captioned) and Yan Diomande (captioned, in Real Madrid training top)",
+ "hero_role": "Vinícius is the butt of the joke; Diomande the usurper; meme clips act as reactions",
+ "media_type_overall": "mixed",
+ "hook": "Interview-style clip of man on sofa with caption 'Vinicius junior', first words of narration appear as subtitles",
+ "subtitle_style": "small white bold sans-serif subtitle, bottom-centre, one or two words at a time on dark pill/black outline; words appear word by word in sync with narration",
+ "reaction_overlays": "meme reaction clips (people laughing, eating, streamer reacting), FUT/PSG kit streamer overlay, split with Barça-kit players clap, gym meme",
+ "transition_summary": "Rapid hard cuts between unrelated meme clips matched to narration beats (about 4-5 cuts/10s, 24 in 59s); subtitles sync every word",
+ "audio_note": "English TTS-style narration ('I swear man, Vinícius Júnior might genuinely never get his starting spot back at Real Madrid because ever since...') over meme audio",
+ "reuse_segments": [
+  {
+   "t0": 0,
+   "t1": 59,
+   "what": "Meme reaction clips and sourced interview clips",
+   "origin_guess": "fan edit",
+   "rights_risk": "high",
+   "how_to_reuse": "Third-party meme clips; recreate with own narration and generic/AI reaction visuals; reuse word-by-word subtitle format"
+  }
+ ],
+ "frames": [
+  {
+   "idx": 1,
+   "t": 0,
+   "desc": "Man on sofa in black top speaking to camera, caption 'Vinicius junior'",
+   "type": "video",
+   "text_on_screen": "Vinicius junior",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 2,
+   "t": 2,
+   "desc": "Same man, hand to mouth, caption 'get his starting'",
+   "type": "video",
+   "text_on_screen": "get his starting",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 3,
+   "t": 4,
+   "desc": "Street scene: group of men smiling to camera, caption 'because ever since'",
+   "type": "video",
+   "text_on_screen": "because ever since",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 4,
+   "t": 6,
+   "desc": "Man in Real Madrid training top in front of net, caption 'Yann Diomande has'",
+   "type": "video",
+   "text_on_screen": "Yann Diomande has",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 5,
+   "t": 8,
+   "desc": "Same man in Real Madrid top, caption 'apparently transformed into'",
+   "type": "video",
+   "text_on_screen": "apparently transformed into",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 6,
+   "t": 10,
+   "desc": "Man in dark shirt in kitchen holding food, caption 'and he's out'",
+   "type": "video",
+   "text_on_screen": "and he's out",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 7,
+   "t": 12,
+   "desc": "Man in kitchen eating food, caption 'week'",
+   "type": "video",
+   "text_on_screen": "week",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 8,
+   "t": 14,
+   "desc": "Man in blue shirt walking street with plate, blurred crowd, caption 'fans'",
+   "type": "video",
+   "text_on_screen": "fans",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 9,
+   "t": 16,
+   "desc": "Man holding plate in street, caption 'before Vinicius return'",
+   "type": "video",
+   "text_on_screen": "before Vinicius return",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 10,
+   "t": 18,
+   "desc": "Streamer in PSG Qatar Airways shirt laughing, FUT overlay",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 11,
+   "t": 20,
+   "desc": "Streamer in PSG shirt laughing harder",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 12,
+   "t": 22,
+   "desc": "Streamer in PSG shirt, head tilted, caption 'week'",
+   "type": "video",
+   "text_on_screen": "week",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 13,
+   "t": 24,
+   "desc": "Group of men laughing in lounge with Christmas decor, caption 'the big fans'",
+   "type": "video",
+   "text_on_screen": "the big fans",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 14,
+   "t": 26,
+   "desc": "Same group falling about laughing",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 15,
+   "t": 28,
+   "desc": "Man in suit covering face with hand, skyline behind, caption 'imagine getting suspended'",
+   "type": "video",
+   "text_on_screen": "imagine getting suspended",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 16,
+   "t": 30,
+   "desc": "TV studio: man laughing behind desk",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 17,
+   "t": 32,
+   "desc": "TV studio: man laughing, caption 'League'",
+   "type": "video",
+   "text_on_screen": "League",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 18,
+   "t": 34,
+   "desc": "Smiling man in training top with net behind (Real Madrid training)",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 19,
+   "t": 36,
+   "desc": "Man in car pointing, caption 'actually diabolical'",
+   "type": "video",
+   "text_on_screen": "actually diabolical",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 20,
+   "t": 38,
+   "desc": "Two men in blue tops at event side by side",
+   "type": "video",
+   "text_on_screen": "additional 4 game",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 21,
+   "t": 40,
+   "desc": "Streamer in headphones centre, flanked by two Barça-kit players clapping, caption 'real people were'",
+   "type": "video",
+   "text_on_screen": "real people were",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 22,
+   "t": 42,
+   "desc": "Same layout, caption 'Amen and Anthony'",
+   "type": "video",
+   "text_on_screen": "Amen and Anthony",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 23,
+   "t": 44,
+   "desc": "Person holding paper/phone upside down, caption 'ready to send'",
+   "type": "video",
+   "text_on_screen": "ready to send",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 24,
+   "t": 46,
+   "desc": "Person in vertical clip in white room",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 25,
+   "t": 48,
+   "desc": "Older man on boat with sea behind, caption 'bro'",
+   "type": "video",
+   "text_on_screen": "bro",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 26,
+   "t": 50,
+   "desc": "Older man on boat, caption 'entire atmosphere at'",
+   "type": "video",
+   "text_on_screen": "entire atmosphere at",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 27,
+   "t": 52,
+   "desc": "Man doing exercise in gym, caption 'me at this'",
+   "type": "video",
+   "text_on_screen": "me at this",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 28,
+   "t": 54,
+   "desc": "Man on gym bench, caption 'a starting position'",
+   "type": "video",
+   "text_on_screen": "a starting position",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 29,
+   "t": 56,
+   "desc": "Man on gym machine in gloves, caption 'to start updating'",
+   "type": "video",
+   "text_on_screen": "to start updating",
+   "transition_to_next": "none"
+  }
+ ]
+}

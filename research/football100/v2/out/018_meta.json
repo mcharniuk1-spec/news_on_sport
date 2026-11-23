@@ -1,0 +1,113 @@
+{
+ "no": 18,
+ "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/018_michael_owen.mp4",
+ "total": 50.4,
+ "outro_start": 44.35,
+ "cover": true,
+ "seq": [
+  {
+   "id": "s01",
+   "kind": "HOOK",
+   "start": 0.1,
+   "end": 1.8666666666666667,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/018/s01.mp4",
+   "clip_dur": 1.767,
+   "frames": 42
+  },
+  {
+   "id": "s02",
+   "kind": "COMIC1",
+   "start": 5.533333333333333,
+   "end": 7.8,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/018/s02.mp4",
+   "clip_dur": 2.267,
+   "frames": 54
+  },
+  {
+   "id": "s03",
+   "kind": "PROVOC",
+   "start": 12.866666666666667,
+   "end": 14.366666666666667,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/018/s03.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s04",
+   "kind": "COMIC2",
+   "start": 19.666666666666668,
+   "end": 21.666666666666668,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/018/s04.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s05",
+   "kind": "STATS",
+   "start": 26.333333333333332,
+   "end": 27.833333333333332,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/018/s05.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s06",
+   "kind": "NEWS",
+   "start": 29.866666666666667,
+   "end": 31.866666666666667,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/018/s06.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s07",
+   "kind": "COMIC3",
+   "start": 33.766666666666666,
+   "end": 35.766666666666666,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/018/s07.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s08",
+   "kind": "INTERVIEW",
+   "start": 41.86666666666667,
+   "end": 43.86666666666667,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/018/s08.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  }
+ ],
+ "missing": [],
+ "dropped": [],
+ "cards": [
+  {
+   "text": "A yard off",
+   "a": 10.8,
+   "b": 12.733333333333333
+  },
+  {
+   "text": "Eighth and tenth",
+   "a": 27.966666666666665,
+   "b": 29.0
+  },
+  {
+   "text": "More now",
+   "a": 39.733333333333334,
+   "b": 41.733333333333334
+  }
+ ],
+ "caption_sprites": 142,
+ "whoosh": [
+  0.0,
+  5.433333333333334,
+  12.766666666666667,
+  19.566666666666666,
+  26.23333333333333,
+  29.766666666666666,
+  33.666666666666664,
+  41.766666666666666,
+  44.25
+ ],
+ "shots": 16
+}

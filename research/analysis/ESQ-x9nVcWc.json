@@ -1,0 +1,144 @@
+{
+ "video_id": "ESQ-x9nVcWc",
+ "topic": "News short: Portugal's new number 7 (Carlos Forbes, per caption card) gets a joke nickname that trolls Ronaldo; he says it was accidental",
+ "hero": "Carlos Forbes (Portugal #7, identified from shirt and caption card)",
+ "hero_role": "protagonist of the news item",
+ "media_type_overall": "mixed",
+ "hook": "Dressing-room clip of Portugal player #7 with white italic caption 'DISRESPECTFUL' in the first 2 s",
+ "subtitle_style": "white bold italic all-caps sans-serif with black outline, centre of frame, one word at a time, word-by-word synced to voice",
+ "reaction_overlays": "word-by-word captions, tweet/quote card at bottom of last frame, Sport TV watermark, red grid/table graphic",
+ "transition_summary": "Fast hard cuts about every 2 s (17 cuts listed in 28 s); mix of interview, dressing-room, stadium and graphics",
+ "audio_note": "voice-over/dialogue; transcript empty, interview audio and music likely",
+ "reuse_segments": [
+  {
+   "t0": 0,
+   "t1": 28,
+   "what": "Interview, dressing room, match and Nations League table clips of Forbes",
+   "origin_guess": "interview",
+   "rights_risk": "high",
+   "how_to_reuse": "licensed clips only; keep caption style and quote card idea"
+  }
+ ],
+ "frames": [
+  {
+   "idx": 1,
+   "t": 0,
+   "desc": "Portugal #7 black kit in dressing room, teammate beside; caption",
+   "type": "video",
+   "text_on_screen": "DISRESPECTFUL",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 2,
+   "t": 2,
+   "desc": "wide stadium pitch with goal; Sport TV watermark",
+   "type": "video",
+   "text_on_screen": "PORTUGAL'S",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 3,
+   "t": 4,
+   "desc": "player in interview in light Portugal training shirt, microphone showing 11",
+   "type": "video",
+   "text_on_screen": "BRO",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 4,
+   "t": 6,
+   "desc": "Portugal #7 in black, teammate beside, dressing room",
+   "type": "video",
+   "text_on_screen": "GAVE",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 5,
+   "t": 8,
+   "desc": "Ronaldo in teal Portugal jacket among staff",
+   "type": "video",
+   "text_on_screen": "RONALDO'S",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 6,
+   "t": 10,
+   "desc": "#7 black Forbes shirt signing autographs at fans' barrier",
+   "type": "video",
+   "text_on_screen": "PORTUGAL'S",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 7,
+   "t": 12,
+   "desc": "#7 Forbes and teammate in dressing room, subtitle 'I am very happy with the debut.'",
+   "type": "video",
+   "text_on_screen": "OLD",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 8,
+   "t": 14,
+   "desc": "man in dark hoodie with Champions League stat card (3-3 Brugge vs Barcelona) overlay",
+   "type": "video",
+   "text_on_screen": "ROUGE",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 9,
+   "t": 16,
+   "desc": "touchline referee and Portugal group; UEFA Nations League table overlay with Denmark top",
+   "type": "video",
+   "text_on_screen": "LEAD",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 10,
+   "t": 18,
+   "desc": "older coach hugging Forbes in red #7 jersey, sideline",
+   "type": "video",
+   "text_on_screen": "WEARING",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 11,
+   "t": 20,
+   "desc": "rain-soaked stadium wide, red-kit Portugal vs white",
+   "type": "video",
+   "text_on_screen": "TWO",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 12,
+   "t": 22,
+   "desc": "rain-soaked stadium wide, goalmouth",
+   "type": "video",
+   "text_on_screen": "PORTUGAL",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 13,
+   "t": 24,
+   "desc": "close of man in beige hoodie in interview, bottom strip text",
+   "type": "video",
+   "text_on_screen": "ACCIDENTALLY",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 14,
+   "t": 26,
+   "desc": "Forbes #7 black kit and teammate, dressing room",
+   "type": "video",
+   "text_on_screen": "HIM",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 15,
+   "t": 28,
+   "desc": "interviewee close with quote tweet card at bottom",
+   "type": "video",
+   "text_on_screen": "TROLL",
+   "transition_to_next": "none"
+  }
+ ]
+}

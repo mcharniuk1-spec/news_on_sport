@@ -1,0 +1,280 @@
+{
+ "video_id": "ZAwCxG5CB1I",
+ "topic": "Lamine Yamal's pre-match arrival and warm-up before Barcelona vs Inter (UCL semi, 6 May 2025)",
+ "hero": "Lamine Yamal",
+ "hero_role": "protagonist of behind-the-scenes arrival footage",
+ "media_type_overall": "real broadcast footage",
+ "hook": "Aerial drone shot of stadium surroundings",
+ "subtitle_style": "none (YouTube subscribe-button overlay graphic at ~18 s)",
+ "reaction_overlays": "one animated subscribe/like overlay",
+ "transition_summary": "Hard cuts, ~1 cut per 4-6 s in intro, then long warm-up takes",
+ "audio_note": "Likely music/ambience; match commentary heard in transcript",
+ "reuse_segments": [
+  {
+   "t0": 0,
+   "t1": 22,
+   "what": "Stadium arrival, kit room, Yamal corridor walk",
+   "origin_guess": "broadcast match",
+   "rights_risk": "high",
+   "how_to_reuse": "licensed UEFA/club footage required; recreate with AI imagery"
+  },
+  {
+   "t0": 24,
+   "t1": 62,
+   "what": "Pitch warm-up with ball",
+   "origin_guess": "broadcast match",
+   "rights_risk": "high",
+   "how_to_reuse": "needs licensed source"
+  }
+ ],
+ "frames": [
+  {
+   "idx": 1,
+   "t": 0,
+   "desc": "Aerial drone over trees toward stadium",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 2,
+   "t": 2,
+   "desc": "Barcelona team bus entering tunnel",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 3,
+   "t": 4,
+   "desc": "Close on FC Barcelona pennant vs Internazionale Milano semifinal",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 4,
+   "t": 6,
+   "desc": "Macro: Barca crest and yellow shirt number on kit",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 5,
+   "t": 8,
+   "desc": "Locker room with red kits hung on stalls",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 6,
+   "t": 10,
+   "desc": "Lamine Yamal 19 shirt hanging in dressing room",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 7,
+   "t": 12,
+   "desc": "Yamal with blond hair, earbuds, close face with another person",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 8,
+   "t": 14,
+   "desc": "Yamal with blond hair, earbuds, close face with another person",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 9,
+   "t": 16,
+   "desc": "Yamal walks along stadium corridor",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 10,
+   "t": 18,
+   "desc": "Corridor shot with YouTube subscribe-button overlay (channel DX16HD3)",
+   "type": "video",
+   "text_on_screen": "DX16HD3",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 11,
+   "t": 20,
+   "desc": "Corridor with photographer, back of player",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 12,
+   "t": 22,
+   "desc": "Yamal on pitch in blue training top",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 13,
+   "t": 24,
+   "desc": "Yamal warm-up juggling and passing alone on pitch, wide/medium",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 14,
+   "t": 26,
+   "desc": "Yamal warm-up juggling and passing alone on pitch, wide/medium",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 15,
+   "t": 28,
+   "desc": "Yamal warm-up juggling and passing alone on pitch, wide/medium",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 16,
+   "t": 30,
+   "desc": "Yamal warm-up juggling and passing alone on pitch, wide/medium",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 17,
+   "t": 32,
+   "desc": "Yamal warm-up juggling and passing alone on pitch, wide/medium",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 18,
+   "t": 34,
+   "desc": "Yamal warm-up juggling and passing alone on pitch, wide/medium",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 19,
+   "t": 36,
+   "desc": "Blurred close then legs juggling two balls",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 20,
+   "t": 38,
+   "desc": "Blurred close then legs juggling two balls",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 21,
+   "t": 40,
+   "desc": "Close on Yamal on grass; crowd blurred behind",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 22,
+   "t": 42,
+   "desc": "Close on Yamal on grass; crowd blurred behind",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 23,
+   "t": 44,
+   "desc": "Close on Yamal on grass; crowd blurred behind",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 24,
+   "t": 46,
+   "desc": "Yamal chatting with staff member, walking pitch with photographers",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 25,
+   "t": 48,
+   "desc": "Yamal chatting with staff member, walking pitch with photographers",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 26,
+   "t": 50,
+   "desc": "Yamal chatting with staff member, walking pitch with photographers",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 27,
+   "t": 52,
+   "desc": "Yamal chatting with staff member, walking pitch with photographers",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 28,
+   "t": 54,
+   "desc": "Yamal chatting with staff member, walking pitch with photographers",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 29,
+   "t": 56,
+   "desc": "Close on boots and UCL ball in cone drill",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 30,
+   "t": 58,
+   "desc": "Close on boots and UCL ball in cone drill",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 31,
+   "t": 60,
+   "desc": "Close on boots and UCL ball in cone drill",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "none"
+  }
+ ]
+}

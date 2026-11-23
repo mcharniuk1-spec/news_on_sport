@@ -1,0 +1,280 @@
+{
+ "video_id": "Why7jRdrXGY",
+ "topic": "FutCrunch challenge: four boys vs four girls compete in a football skills tournament for $10,000",
+ "hero": "Host in black Nike kit with headband (channel host), plus boys' and girls' team players",
+ "hero_role": "host/presenter running the challenge",
+ "media_type_overall": "mixed",
+ "hook": "Host in black addresses two lined-up teams (blue boys, pink girls) on a training pitch; voice-over explains the challenge",
+ "subtitle_style": "small white subtitle lines bottom centre in places; mostly none; large graphic number overlays (green score '2.5', white '$10,000' with glow)",
+ "reaction_overlays": "name-tag lower thirds (blue/pink pill with avatar and handle), green score counters, 'REPLAY' tag, 'COMING NEXT' silhouette graphic, split-screen team reaction panels",
+ "transition_summary": "Hard cuts with graphic/silhouette interstitials, colour-tint flashes; about 6 cuts per 10 s",
+ "audio_note": "Host voice-over explaining rules over music; original participant audio",
+ "reuse_segments": [
+  {
+   "t0": 0,
+   "t1": 12,
+   "what": "Intro line-up and $10,000 reveal with split-screen team reactions",
+   "origin_guess": "fan edit",
+   "rights_risk": "low",
+   "how_to_reuse": "own production; format idea reusable, recreate with own cast"
+  },
+  {
+   "t0": 24,
+   "t1": 50,
+   "what": "Skill challenge attempts with name tags and replays",
+   "origin_guess": "fan edit",
+   "rights_risk": "low",
+   "how_to_reuse": "format reusable, recreate"
+  }
+ ],
+ "frames": [
+  {
+   "idx": 1,
+   "t": 0,
+   "desc": "host in black stands between blue boys team and pink girls team lined up on pitch",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 2,
+   "t": 2,
+   "desc": "same line-up with blue/pink colour wash flash on pitch",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 3,
+   "t": 4,
+   "desc": "dark graphic: white silhouette kicking at target, yellow trail",
+   "type": "graphic_card",
+   "text_on_screen": "COMING NEXT",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 4,
+   "t": 6,
+   "desc": "host between two teams, $10,000 graphic with glow",
+   "type": "video",
+   "text_on_screen": "$10,000",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 5,
+   "t": 8,
+   "desc": "split screen: boys in blue top row, girls in pink bottom row cheering",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 6,
+   "t": 10,
+   "desc": "split screen: boys and girls reacting, same layout",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 7,
+   "t": 12,
+   "desc": "host between teams in line-up, wide",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 8,
+   "t": 14,
+   "desc": "host between teams, wide, gesturing",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 9,
+   "t": 16,
+   "desc": "four boys in blue shirts close, serious faces",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 10,
+   "t": 18,
+   "desc": "two girls in pink laughing together, subtitle",
+   "type": "video",
+   "text_on_screen": "we'll split it, we'll split it",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 11,
+   "t": 20,
+   "desc": "girls shake hands with green 2.5 score overlay",
+   "type": "video",
+   "text_on_screen": "2.5",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 12,
+   "t": 22,
+   "desc": "host with both teams in line-up, wide",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 13,
+   "t": 24,
+   "desc": "dark pitch graphic with yellow ball trajectory line and small figure",
+   "type": "graphic_card",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 14,
+   "t": 26,
+   "desc": "four players in green silhouette tint on pitch",
+   "type": "graphic_card",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 15,
+   "t": 28,
+   "desc": "host with pink headband close, talking to camera",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 16,
+   "t": 30,
+   "desc": "host close, talking, hand at chin",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 17,
+   "t": 32,
+   "desc": "blue-shirt man with arm around boy, close, smiling",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 18,
+   "t": 34,
+   "desc": "host holding ball chest height in front of goal",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 19,
+   "t": 36,
+   "desc": "host holding pink ball, fence behind",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 20,
+   "t": 38,
+   "desc": "girl juggling on dark graded background with name tag LIRIAN",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 21,
+   "t": 40,
+   "desc": "host and pink-shirt girl on pitch, challenge set-up, wide",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 22,
+   "t": 42,
+   "desc": "pink player and host in black on pitch, ball attempts, wide",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 23,
+   "t": 44,
+   "desc": "pink player and host practicing, wide",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 24,
+   "t": 46,
+   "desc": "girl celebrating hands up near goal, blue sky",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 25,
+   "t": 48,
+   "desc": "REPLAY slow angle along goal net, players far away",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 26,
+   "t": 50,
+   "desc": "pink-shirt girls celebrating together with 2.5 score",
+   "type": "video",
+   "text_on_screen": "2.5",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 27,
+   "t": 52,
+   "desc": "girls hugging in celebration, wide",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 28,
+   "t": 54,
+   "desc": "host holding ball close, fence behind",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 29,
+   "t": 56,
+   "desc": "host holding ball close, similar framing",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 30,
+   "t": 58,
+   "desc": "boy in blue juggling ball with name tag LUIS on dark background",
+   "type": "video",
+   "text_on_screen": "LUIS",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 31,
+   "t": 60,
+   "desc": "boy in blue holding ball with name tag LUIS on dark background",
+   "type": "video",
+   "text_on_screen": "LUIS",
+   "transition_to_next": "none"
+  }
+ ]
+}

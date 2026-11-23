@@ -1,0 +1,515 @@
+{
+  "name": "Kaka (Ricardo Izecson dos Santos Leite)",
+  "years": "Ballon d'Or: 2007",
+  "recent_news": [
+    {
+      "date": "2026-10-31",
+      "headline": "Kaka inducted into AC Milan Hall of Fame on the San Siro pitch before the derby, in tears",
+      "facts": [
+        "Daniele Massaro handed him a commemorative plaque on the pitch in front of a full San Siro; fans chanted his name.",
+        "He cried, thanked the crowd and left the pitch with his trademark celebration, arms raised to the sky.",
+        "The induction was announced in May together with Ruud Gullit and Carlo Ancelotti (now Brazil coach)."
+      ],
+      "source_url": "https://www.vavel.com/br/futebol-internacional/2026/11/02/1277852-kaka-se-emociona-com-homenagem-do-milan-e-entra-para-o-hall-da-fama-do-clube.html",
+      "source_domain": "vavel.com",
+      "tone": "praise",
+      "sensitive": false,
+      "note": "Several outlets date it 1 Nov; Milan-based and Brazilian reports and match-day pages agree on Saturday 31 Oct 2026."
+    },
+    {
+      "date": "2026-10-31",
+      "headline": "Kaka to DAZN: 'hard to put into words' what San Siro feels like; in a separate pitchside interview says he wants Brazilians back at Milan",
+      "facts": [
+        "He called it 'a special day for me' and said it is very difficult to put into words what he feels at San Siro with the Milan fans (DAZN).",
+        "In a separate pitchside interview he said he would like to see Brazilians at Milan again.",
+        "In that interview he also said he likes Luka Modric a lot and considers him a friend."
+      ],
+      "source_url": "https://sports.yahoo.com/articles/emotional-return-ac-milan-legend-111330500.html",
+      "source_domain": "sports.yahoo.com",
+      "tone": "praise",
+      "sensitive": false,
+      "note": "Article dated 1 Nov 2026 (Yahoo); describes the 31 Oct ceremony. Brazilians/Modric comments were NOT part of the DAZN quote."
+    },
+    {
+      "date": "2026-10-31",
+      "headline": "Kaka suggests Milan fans reuse the old Shevchenko chant ('not Brazilian, but...') for Pulisic",
+      "facts": [
+        "He said the chant once sung for Andriy Shevchenko would suit Christian Pulisic, who is also not Brazilian and in good form.",
+        "Pulisic had signed a five-year extension to 2031 on 30 Oct and then scored in the 4th minute against Inter.",
+        "Pulisic since joining from Chelsea in 2023: 45 goals in 142 games (World Soccer Talk)."
+      ],
+      "source_url": "https://worldsoccertalk.com/news/christian-pulisic-receives-perfect-assist-from-kaka-as-milan-legend-gives-fans-bold-idea-that-could-make-him-san-siros-next-favorite/",
+      "source_domain": "worldsoccertalk.com",
+      "tone": "praise",
+      "sensitive": false
+    },
+    {
+      "date": "2026-10-31",
+      "headline": "Milan 3-1 Inter: Diego Moreira, wearing Kaka's number 22, scores a free kick and thanks Kaka",
+      "facts": [
+        "Moreira had one goal and two assists and was named MVP by Sky Sport; asked for a message to Kaka he thanked him for coming and for his number.",
+        "Pulisic (4') and Rabiot (10') scored, Bastoni pulled one back (22'), Moreira added a free kick (43').",
+        "Inter's first Serie A defeat of 2026-27; Milan's fourth straight win over Inter in all competitions (third straight in Serie A: 23 Nov 2025 1-0, 8 Mar 2026 1-0, 31 Oct 2026 3-1; the run began with the Coppa Italia semi-final second leg on 23 Apr 2025). Milan went to 21 points, 4th; Inter stayed on 25."
+      ],
+      "source_url": "https://milanreports.com/2026/10/31/ac-milan-3-inter-1-diego-moreira-to-kaka-thank-you-for-the-number-22/",
+      "source_domain": "milanreports.com",
+      "tone": "praise",
+      "sensitive": false,
+      "note": "Score/scorers per sports.yahoo.com (Pulisic 4' and Rabiot 10', both assisted by Moreira). Streak per worldsoccertalk and Wikipedia's Derby della Madonnina page; the milanreports page itself does not cover scorers or streak."
+    },
+    {
+      "date": "2026-10-30",
+      "headline": "Kaka records a 'love letter' video to the Milan derby; club announces tribute before kick-off",
+      "facts": [
+        "He said the derby 'will remain engraved in my memory' and that scoring his first derby goal was a unique feeling; he signed off 'Forza Milan!'.",
+        "His first Milan goal came against Inter in October 2003 in a 3-2 Milan win.",
+        "Milan also posted a clip of him greeting fans on the street."
+      ],
+      "source_url": "https://africasoccer.com/kaka-relives-unforgettable-milan-derby-as-rossoneri-prepare-to-honour-club-legend/",
+      "source_domain": "africasoccer.com",
+      "tone": "praise",
+      "sensitive": false,
+      "note": "Page is dated 2 Nov but describes the derby as upcoming; dated here by the event (30-31 Oct)."
+    },
+    {
+      "date": "2026-11-02",
+      "headline": "Costacurta on Kaka: 'personality and elegance', did not expect him to cry",
+      "facts": [
+        "Costacurta told Sky Sport Italia that Kaka brought personality and elegance on top of his magic on the pitch.",
+        "He said fans loved Kaka more than many who made club history and called him a Ballon d'Or winner even off the pitch.",
+        "He said Kaka could be a long-term ambassador for the club."
+      ],
+      "source_url": "https://milanreports.com/2026/11/02/costacurta-kaka-gave-us-personality-and-elegance/",
+      "source_domain": "milanreports.com",
+      "tone": "praise",
+      "sensitive": false
+    },
+    {
+      "date": "2026-11-07",
+      "headline": "AC Milan publishes 'A day with the legend: Ricardo Kaka' derby-day video",
+      "facts": [
+        "The video follows Kaka through the Flagship Store, Casa Milan, San Siro and the Hall of Fame on derby day.",
+        "Published by the club, sponsored by Emirates."
+      ],
+      "source_url": "https://www.acmilan.com/en/news/videos/specials/2026-11-07/a-day-with-the-legend-ricardo-kaka",
+      "source_domain": "acmilan.com",
+      "tone": "neutral",
+      "sensitive": false
+    },
+    {
+      "date": "2026-11-12",
+      "headline": "Kaka gets a 124-rated Icon card in EA FC Mobile 'Ballon d'Or Final Week'",
+      "facts": [
+        "Revealed as a 124 OVR CAM card for Brazil, in a teaser for the Ballon d'Or Final Week update arriving 12 Nov 2026.",
+        "Other Icons in the same reveal: Karl-Heinz Rummenigge and Johan Cruyff (both 124)."
+      ],
+      "source_url": "https://www.chaseyoursport.com/esports/fc-mobile-2026-ballon-dor-final-week-players-revealed/13842",
+      "source_domain": "chaseyoursport.com",
+      "tone": "praise",
+      "sensitive": false,
+      "note": "Dated by the update date; article published just before. Individual card stats not published yet."
+    },
+    {
+      "date": "2026-09-25",
+      "headline": "Raphinha takes Brazil's No. 10 after Neymar's retirement; Kaka listed in the shirt's lineage",
+      "facts": [
+        "The CBF confirmed squad numbers ahead of friendlies against Australia and India; Raphinha gets 10 and Estevao 11.",
+        "Neymar retired from international football after the 2026 World Cup as Brazil's all-time top scorer with 80 goals.",
+        "Kaka wore No. 10 at the 2010 World Cup; the article's headline lists him among past wearers with Pele and Ronaldinho."
+      ],
+      "source_url": "https://worldsoccertalk.com/news/neymars-brazil-no-10-era-ends-as-raphinha-inherits-iconic-shirt-once-owned-by-pele-kaka-and-ronaldinho-who-else-has-worn-it/",
+      "source_domain": "worldsoccertalk.com",
+      "tone": "neutral",
+      "sensitive": false,
+      "note": "Kaka is only mentioned as a past wearer; no quote from him."
+    },
+    {
+      "date": "2026-11-10",
+      "headline": "Kings Cup Brazil: Neymar (Furia co-president) has a penalty saved with his weaker left foot (context, not a Kaka story)",
+      "facts": [
+        "On Monday night 9 Nov 2026 Furia beat Dibrados 7-3 at Trident Arena (Guarulhos); article dated 10 Nov.",
+        "Neymar took a first-half penalty with his weaker left foot; goalkeeper Luan Telles saved it.",
+        "The article does not mention Kaka."
+      ],
+      "source_url": "https://ca.sports.yahoo.com/news/neymar-suffers-shock-penalty-miss-092428415.html",
+      "source_domain": "ca.sports.yahoo.com",
+      "tone": "roast",
+      "sensitive": false,
+      "note": "Context only, not about Kaka. Do not present as a Kaka story."
+    }
+  ],
+  "now": {
+    "as_of": "2026-11-20",
+    "role": "Retired since December 2017 (retirement announced 17 Dec 2017; no playing or coaching job found). Current public items: AC Milan Hall of Fame inductee (31 Oct 2026); took the Kings League 'president's penalty' for Brazil at the Kings World Cup Nations (Jan 2026). A formal title 'president of Kings League Brazil' is NOT verified (Wikipedia's Kings League page lists team chairs and does not include him).",
+    "club_or_job": "No club. No verified formal Kings League post (see role). Contract: none.",
+    "this_season": "Not a player. Milan context: after the 3-1 derby win on 31 Oct 2026 Milan were provisionally 4th on 21 points; Inter remained on 25 (Yahoo, VAVEL).",
+    "what_people_say": "Milan figures (Costacurta, Moreira) praise his elegance and treat him as a living icon; Brazilian media call his Hall of Fame night emotional. He stays diplomatic: on the Rio Ferdinand Presents podcast (12 Jun 2026) he called Ancelotti the 'perfect' manager for Brazil; at San Siro he praised Pulisic and Modric.",
+    "age": "44 (born 22 April 1982)",
+    "gaps": [
+      "No hard news found about business ventures, family, or a coaching/director role in the last 90 days.",
+      "Kaka's exact Kings League title is unverified (kingsleague.pro returned 403 and no secondary source confirmed 'president of Kings League Brazil').",
+      "Search budget was exhausted mid-research; no Aug-Sep 2026 Kaka-specific stories beyond the Raphinha No.10 piece and the Baresi tribute (31 Jul) were found. This does not prove none exist."
+    ],
+    "world_cup_context": "Brazil lost 2-1 to Norway in the 2026 World Cup round of 16 on 5 July at MetLife Stadium (Neymar scored; Haaland scored twice, 79' and 90'). NBC calls it Brazil's earliest World Cup exit in decades (its headline says 'nearly 30 years', but the text cites 1990, so say 'in decades'). Kaka's post-exit 'long-term rebuild' comment is unverified and removed."
+  },
+  "quick_context": [
+    "Kaka played for AC Milan 2003-09 and 2013-14, with 307 games, 104 goals and 81 assists.",
+    "In 2006-07 he scored 10 Champions League goals, the top scorer, as Milan beat Liverpool 2-1 in the final.",
+    "He won the Ballon d'Or on 2 Dec 2007 with 444 votes and the FIFA World Player award with 1,047 votes, ahead of Messi (504) and Ronaldo (426)."
+  ],
+  "roast_past": [
+    {
+      "angle": "Real Madrid price tag vs return",
+      "detail": "Moved to Real Madrid in 2009 for a reported 67 million euros, then 29 goals and 32 assists in 120 games over four injury-hit seasons.",
+      "source_url": "https://en.wikipedia.org/wiki/Kak%C3%A1"
+    },
+    {
+      "angle": "Spanish radio list",
+      "detail": "Radio Marca's programme 'Despierta San Francisco' put him in a top-5 of Real Madrid's worst signings (4 Aug 2025 item; a radio debate, not an official ranking). Tease it as one radio opinion.",
+      "source_url": "https://www.365scores.com/pt-br/news/magazine/tag/kaka/"
+    },
+    {
+      "angle": "Quick red card in Madrid",
+      "detail": "Sent off on 12 Jan 2013 against Osasuna for two yellow cards in 18 minutes.",
+      "source_url": "https://en.wikipedia.org/wiki/Kak%C3%A1"
+    },
+    {
+      "angle": "The elbow in 2010",
+      "detail": "Sent off against Ivory Coast at the 2010 World Cup after a second yellow for an alleged elbow, yet still finished with 3 assists.",
+      "source_url": "https://en.wikipedia.org/wiki/Kak%C3%A1"
+    },
+    {
+      "angle": "MLS money, no playoffs",
+      "detail": "At Orlando City (2015-17) he was reported as the highest-paid player in MLS history at signing (base 6.6 million USD, guaranteed 7.2 million), and Orlando missed the playoffs in all three of those seasons (2015, 2016, 2017).",
+      "source_url": "https://en.wikipedia.org/wiki/Kak%C3%A1"
+    },
+    {
+      "angle": "The 'perfect' image",
+      "detail": "Fans have long joked he is too clean-cut. Use only the harmless 'too polite for a red card' version; the divorce rumour behind the meme is a family topic (do not use).",
+      "source_url": "https://en.wikipedia.org/wiki/Kak%C3%A1"
+    },
+    {
+      "angle": "Trophy window",
+      "detail": "He is still the last Milan player to win the Ballon d'Or (2007), so Milan fans keep waiting almost 19 years.",
+      "source_url": "https://jovempan.com.br/esportes/futebol/kaka-chora-ao-receber-homenagem-do-milan-e-entrar-para-o-hall-da-fama-do-clube/"
+    }
+  ],
+  "roast_now": [
+    {
+      "angle": "Cries at his own Hall of Fame",
+      "detail": "Costacurta said he did not expect Kaka to cry; he did, in front of a full San Siro. Friendly tease, warm tone.",
+      "source_url": "https://milanreports.com/2026/11/02/costacurta-kaka-gave-us-personality-and-elegance/"
+    },
+    {
+      "angle": "Hall of Fame on the same night Moreira steals his number",
+      "detail": "Moreira wears Kaka's No. 22, scored a free kick and was MVP the night Kaka was honoured. 'Handing out the number and the goals'.",
+      "source_url": "https://milanreports.com/2026/10/31/ac-milan-3-inter-1-diego-moreira-to-kaka-thank-you-for-the-number-22/"
+    },
+    {
+      "angle": "Retired football star, now a chant consultant",
+      "detail": "On his big night he gave Milan fans a chant idea for Pulisic ('not Brazilian, but...').",
+      "source_url": "https://worldsoccertalk.com/news/christian-pulisic-receives-perfect-assist-from-kaka-as-milan-legend-gives-fans-bold-idea-that-could-make-him-san-siros-next-favorite/"
+    },
+    {
+      "angle": "President's penalty",
+      "detail": "At the Kings World Cup Nations he scored the 'president's penalty' for Brazil against Qatar when Brazil trailed 4-1 (article dated 8 Jan 2026; it made it 4-2) and celebrated with Neymar, who watched from a booth.",
+      "source_url": "https://www.itatiaia.com.br/esportes/kings-league/kaka-converte-penalti-pelo-brasil-e-comemora-com-neymar-na-kings-league-veja"
+    },
+    {
+      "angle": "124-rated in a video game",
+      "detail": "His EA FC Mobile Icon card is rated 124 while Real Madrid radio once ranked him a bust. Real life vs game stats.",
+      "source_url": "https://www.chaseyoursport.com/esports/fc-mobile-2026-ballon-dor-final-week-players-revealed/13842"
+    },
+    {
+      "angle": "Brazil's No. 10 handed on again",
+      "detail": "Raphinha now wears the 10 that Kaka wore at the 2010 World Cup; Brazil's 10 has changed hands again after the early 2026 exit.",
+      "source_url": "https://worldsoccertalk.com/news/neymars-brazil-no-10-era-ends-as-raphinha-inherits-iconic-shirt-once-owned-by-pele-kaka-and-ronaldinho-who-else-has-worn-it/"
+    },
+    {
+      "angle": "Diplomatic to the end",
+      "detail": "Calls Ancelotti 'perfect' (June podcast), praises Pulisic and Modric; nobody finds a headline in him.",
+      "source_url": "https://sports.yahoo.com/articles/emotional-return-ac-milan-legend-111330500.html"
+    }
+  ],
+  "praise": [
+    {
+      "angle": "Ballon d'Or 2007",
+      "number": "444 votes (2 Dec 2007)",
+      "source_url": "https://en.wikipedia.org/wiki/Kak%C3%A1"
+    },
+    {
+      "angle": "Champions League top scorer 2006-07",
+      "number": "10 goals, 5 assists",
+      "source_url": "https://en.wikipedia.org/wiki/Kak%C3%A1"
+    },
+    {
+      "angle": "FIFA World Player 2007",
+      "number": "1,047 votes vs Messi 504 and Ronaldo 426",
+      "source_url": "https://en.wikipedia.org/wiki/Kak%C3%A1"
+    },
+    {
+      "angle": "Milan numbers",
+      "number": "307 games, 104 goals, 81 assists",
+      "source_url": "https://worldsoccertalk.com/news/christian-pulisic-receives-perfect-assist-from-kaka-as-milan-legend-gives-fans-bold-idea-that-could-make-him-san-siros-next-favorite/"
+    },
+    {
+      "angle": "Club World Cup 2007",
+      "number": "Golden Ball; scored in the 4-2 final win over Boca on 16 Dec 2007",
+      "source_url": "https://en.wikipedia.org/wiki/Kak%C3%A1"
+    },
+    {
+      "angle": "Still loved in 2026",
+      "number": "Hall of Fame plaque in front of a full San Siro; teammates praise his 'personality and elegance'",
+      "source_url": "https://milanreports.com/2026/11/02/costacurta-kaka-gave-us-personality-and-elegance/"
+    }
+  ],
+  "no_joke_topics": [
+    "Doping (none involved; do not imply).",
+    "Health, injuries and surgeries, including the spinal fracture at 18 and the knee surgery at Real Madrid.",
+    "Family: divorce from Caroline Celico, children, current marriage, and the 'too perfect' divorce rumour.",
+    "Religion and faith (he is openly Christian); no jokes about it.",
+    "War topics.",
+    "Legal trouble (none found).",
+    "Franco Baresi's death and Milan tributes (31 Jul 2026 coverage): never a joke.",
+    "Neymar: do not use injury or any personal issues; football only."
+  ],
+  "viral_moments": [
+    {
+      "title": "Kaka on Neymar, Brazil's World Cup chances and why Ancelotti is 'perfect' (Rio Ferdinand Presents)",
+      "url": "https://shows.acast.com/rio-ferdinand-presents-five/episodes/kaka-on-neymar-brazils-world-cup-chances-why-ancelotti-is-pe",
+      "why": "Calm 'Ancelotti is perfect' take recorded 12 June 2026, before Brazil's round-of-16 exit to Norway on 5 July (the contrast is our interpretation).",
+      "timestamp": "unknown (episode published 12 Jun 2026)",
+      "verified": true
+    },
+    {
+      "title": "EXCLUSIVO: KAKA FALA SOBRE COPA DO MUNDO, ANCELOTTI E QUEM VAI SER O CRAQUE DA SELECAO BRASILEIRA",
+      "url": "https://www.youtube.com/watch?v=5x8ejCGkmfY",
+      "why": "Pre-tournament interview on the World Cup and Ancelotti. Title confirmed only from the page title; channel, date and content could not be read.",
+      "timestamp": "unknown",
+      "verified": false
+    }
+  ],
+  "viral_moments_note": "Only the Rio Ferdinand podcast page (12 Jun 2026) was opened and confirmed. The YouTube video is title-only; three other entries (two YouTube videos and a YouTube search link) were removed as unverifiable. Check footage before use.",
+  "footage_terms": [
+    {
+      "phrase": "Kaka Hall of Fame San Siro Milan Inter 2026",
+      "watermark_risk": "high (TV/club overlays, DAZN logo)"
+    },
+    {
+      "phrase": "Kaka tears San Siro plaque Massaro",
+      "watermark_risk": "medium (news clips, burned-in Portuguese/Italian subtitles likely)"
+    },
+    {
+      "phrase": "Kaka goal celebration arms to the sky Milan compilation",
+      "watermark_risk": "high (channel logos)"
+    },
+    {
+      "phrase": "Kaka Ballon d'Or 2007 Milan highlights",
+      "watermark_risk": "high"
+    },
+    {
+      "phrase": "Kaka Kings League president penalty Brazil Qatar",
+      "watermark_risk": "medium (Kings League and broadcaster graphics)"
+    },
+    {
+      "phrase": "Kaka interview Brazil World Cup Ancelotti 2026",
+      "watermark_risk": "medium-high (subtitles in Portuguese/Spanish)"
+    },
+    {
+      "phrase": "Milan vs Inter 3-1 Pulisic Rabiot Moreira highlights Serie A",
+      "watermark_risk": "high (rights-holder; likely blocked)"
+    },
+    {
+      "phrase": "Kaka Real Madrid red card Osasuna 2013",
+      "watermark_risk": "high"
+    }
+  ],
+  "flipbook_ideas": [
+    "Kaka in a Milan No. 22 shirt, arms to the sky, with a tiny Moreira in the same shirt waving from behind him.",
+    "Kaka holding a giant plaque and a tissue box labelled 'Hall of Fame' (tear drops flying).",
+    "Kaka in a suit and boots lining up a Kings League 'president's penalty', with Neymar peeking from a booth.",
+    "Kaka reading a 'Shevchenko chant for Pulisic' songbook in a San Siro stand.",
+    "Kaka's EA FC card reading 124 held up by a mini Kaka, with a Madrid radio microphone in the corner shaking its head.",
+    "Brazil's yellow No. 10 shirt passed along a clothesline from Kaka to Neymar to Raphinha."
+  ],
+  "image_reference_notes": {
+    "signature_look": "Clean-cut, short dark hair, athletic 1.86 m build, calm smiling face (build and height: Wikipedia). Not checked against recent photos in this research.",
+    "current_look": "GAP: not verified from a recent photo in this research. Kaka is 44; check Oct 31 San Siro photo galleries before drawing hair or stubble.",
+    "kit_colours": "AC Milan red and black stripes, No. 22; Brazil yellow and green, No. 10 (2010); Real Madrid white; Orlando City purple.",
+    "expressions": "Soft smile, emotional tears (Hall of Fame night), humble nod.",
+    "signature_pose": "Both arms raised straight to the sky after scoring; repeated at San Siro on 31 Oct 2026 (VAVEL, Jovem Pan)."
+  },
+  "claims": [
+    {
+      "claim": "Kaka was inducted into the AC Milan Hall of Fame on the San Siro pitch before the Milan-Inter derby on Saturday 31 Oct 2026. (Wikipedia lists the Hall of Fame as 2026 but also has an older line saying 2010; every 2026 source treats Oct 2026 as the induction.)",
+      "source_url": "https://jovempan.com.br/esportes/futebol/kaka-chora-ao-receber-homenagem-do-milan-e-entrar-para-o-hall-da-fama-do-clube/",
+      "confidence": "high"
+    },
+    {
+      "claim": "Daniele Massaro handed Kaka a commemorative plaque; fans chanted his name and he cried.",
+      "source_url": "https://www.vavel.com/br/futebol-internacional/2026/11/02/1277852-kaka-se-emociona-com-homenagem-do-milan-e-entra-para-o-hall-da-fama-do-clube.html",
+      "confidence": "high"
+    },
+    {
+      "claim": "Kaka left the pitch repeating his goal celebration with arms raised to the sky.",
+      "source_url": "https://jovempan.com.br/esportes/futebol/kaka-chora-ao-receber-homenagem-do-milan-e-entrar-para-o-hall-da-fama-do-clube/",
+      "confidence": "high"
+    },
+    {
+      "claim": "The induction was announced in May alongside Ruud Gullit and Carlo Ancelotti.",
+      "source_url": "https://jovempan.com.br/esportes/futebol/kaka-chora-ao-receber-homenagem-do-milan-e-entrar-para-o-hall-da-fama-do-clube/",
+      "confidence": "high"
+    },
+    {
+      "claim": "Milan beat Inter 3-1; Pulisic 4', Rabiot 10', Bastoni 22' for Inter, Moreira free kick 43'.",
+      "source_url": "https://sports.yahoo.com/articles/player-kak-joins-milans-hall-223800536.html",
+      "confidence": "high"
+    },
+    {
+      "claim": "Inter's first Serie A defeat of 2026-27; Milan's fourth straight win over Inter in all competitions (third straight in Serie A).",
+      "source_url": "https://en.wikipedia.org/wiki/Derby_della_Madonnina",
+      "confidence": "high"
+    },
+    {
+      "claim": "Kaka told DAZN it was very hard to put into words what he feels at San Siro with the fans.",
+      "source_url": "https://worldsoccertalk.com/news/christian-pulisic-receives-perfect-assist-from-kaka-as-milan-legend-gives-fans-bold-idea-that-could-make-him-san-siros-next-favorite/",
+      "confidence": "high"
+    },
+    {
+      "claim": "In a separate pitchside interview Kaka said he would like Brazilians back at Milan and that he likes Luka Modric and considers him a friend (not part of the DAZN quote).",
+      "source_url": "https://sports.yahoo.com/articles/emotional-return-ac-milan-legend-111330500.html",
+      "confidence": "high"
+    },
+    {
+      "claim": "Kaka suggested the old Shevchenko chant for Pulisic.",
+      "source_url": "https://worldsoccertalk.com/news/christian-pulisic-receives-perfect-assist-from-kaka-as-milan-legend-gives-fans-bold-idea-that-could-make-him-san-siros-next-favorite/",
+      "confidence": "high"
+    },
+    {
+      "claim": "Pulisic signed a five-year Milan extension to 2031 on 30 Oct 2026; since joining in 2023 he has 45 goals in 142 games.",
+      "source_url": "https://worldsoccertalk.com/news/christian-pulisic-receives-perfect-assist-from-kaka-as-milan-legend-gives-fans-bold-idea-that-could-make-him-san-siros-next-favorite/",
+      "confidence": "high"
+    },
+    {
+      "claim": "Diego Moreira scored a free kick and made two assists, was named MVP by Sky Sport, and thanked Kaka for the number 22.",
+      "source_url": "https://milanreports.com/2026/10/31/ac-milan-3-inter-1-diego-moreira-to-kaka-thank-you-for-the-number-22/",
+      "confidence": "high"
+    },
+    {
+      "claim": "Costacurta told Sky Sport Italia that Kaka had personality and elegance, said fans loved him, and that he did not expect Kaka to cry.",
+      "source_url": "https://milanreports.com/2026/11/02/costacurta-kaka-gave-us-personality-and-elegance/",
+      "confidence": "high"
+    },
+    {
+      "claim": "Kaka recorded a derby 'love letter' video; his first Milan goal was against Inter in Oct 2003 in a 3-2 win.",
+      "source_url": "https://africasoccer.com/kaka-relives-unforgettable-milan-derby-as-rossoneri-prepare-to-honour-club-legend/",
+      "confidence": "high"
+    },
+    {
+      "claim": "AC Milan published 'A day with the legend: Ricardo Kaka' on 7 Nov 2026.",
+      "source_url": "https://www.acmilan.com/en/news/videos/specials/2026-11-07/a-day-with-the-legend-ricardo-kaka",
+      "confidence": "high"
+    },
+    {
+      "claim": "Kaka has a 124 OVR CAM Icon card for Brazil in EA FC Mobile Ballon d'Or Final Week (article dated 11 Nov; release Thursday 12 Nov 2026).",
+      "source_url": "https://www.chaseyoursport.com/esports/fc-mobile-2026-ballon-dor-final-week-players-revealed/13842",
+      "confidence": "high"
+    },
+    {
+      "claim": "Kaka scored the 'president's penalty' for Brazil against Qatar at the Kings World Cup Nations on 8 Jan 2026 when Brazil trailed 4-1.",
+      "source_url": "https://www.itatiaia.com.br/esportes/kings-league/kaka-converte-penalti-pelo-brasil-e-comemora-com-neymar-na-kings-league-veja",
+      "confidence": "high"
+    },
+    {
+      "claim": "Raphinha became Brazil's No. 10 (confirmed around 25 Sep 2026); Neymar retired from internationals after the World Cup with 80 goals; Kaka wore 10 at the 2010 World Cup.",
+      "source_url": "https://worldsoccertalk.com/news/neymars-brazil-no-10-era-ends-as-raphinha-inherits-iconic-shirt-once-owned-by-pele-kaka-and-ronaldinho-who-else-has-worn-it/",
+      "confidence": "high"
+    },
+    {
+      "claim": "Brazil lost 2-1 to Norway in the 2026 World Cup round of 16 on 5 July 2026 at MetLife Stadium (Haaland scored twice; Neymar scored for Brazil), Brazil's earliest World Cup exit in decades (NBC's headline says 'nearly 30 years' but its text cites 1990).",
+      "source_url": "https://www.nbcnews.com/sports/soccer/brazil-vs-norway-brazils-loss-earliest-world-cup-exit-nearly-30-years-rcna353071",
+      "confidence": "high"
+    },
+    {
+      "claim": "Kaka's Milan record: 307 games, 104 goals (both spells, Wikipedia: 270/95 + 37/9 across competitions); 81 assists per World Soccer Talk only.",
+      "source_url": "https://en.wikipedia.org/wiki/Kak%C3%A1",
+      "confidence": "high"
+    },
+    {
+      "claim": "2006-07 Champions League: 10 goals (top scorer), 5 assists; Milan beat Liverpool 2-1 on 23 May 2007.",
+      "source_url": "https://en.wikipedia.org/wiki/Kak%C3%A1",
+      "confidence": "high"
+    },
+    {
+      "claim": "Ballon d'Or 2 Dec 2007 with 444 votes; FIFA World Player 17 Dec 2007 with 1,047 votes vs Messi 504 and Ronaldo 426.",
+      "source_url": "https://en.wikipedia.org/wiki/Kak%C3%A1",
+      "confidence": "high"
+    },
+    {
+      "claim": "Club World Cup: Milan beat Boca 4-2 on 16 Dec 2007; Kaka scored and won the Golden Ball.",
+      "source_url": "https://en.wikipedia.org/wiki/Kak%C3%A1",
+      "confidence": "high"
+    },
+    {
+      "claim": "Real Madrid paid a reported 67 million euros in 2009; Kaka had 29 goals and 32 assists in 120 games.",
+      "source_url": "https://en.wikipedia.org/wiki/Kak%C3%A1",
+      "confidence": "high"
+    },
+    {
+      "claim": "Kaka was sent off against Osasuna on 12 Jan 2013 after two bookings in 18 minutes.",
+      "source_url": "https://en.wikipedia.org/wiki/Kak%C3%A1",
+      "confidence": "high"
+    },
+    {
+      "claim": "Kaka was sent off against Ivory Coast at the 2010 World Cup after an alleged elbow and had 3 assists.",
+      "source_url": "https://en.wikipedia.org/wiki/Kak%C3%A1",
+      "confidence": "high"
+    },
+    {
+      "claim": "At Orlando City (2015-17) Kaka was the highest-paid player in MLS history at signing (base 6.6 million USD, guaranteed 7.2 million); Orlando missed the playoffs in 2015, 2016 and 2017, i.e. all three of his seasons.",
+      "source_url": "https://en.wikipedia.org/wiki/Kak%C3%A1",
+      "confidence": "high"
+    },
+    {
+      "claim": "Radio Marca's programme put Kaka in a top-5 worst Real Madrid signings (headline dated 4 Aug 2025).",
+      "source_url": "https://www.365scores.com/pt-br/news/magazine/tag/kaka/",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Kaka is the last Milan player to win the Ballon d'Or.",
+      "source_url": "https://jovempan.com.br/esportes/futebol/kaka-chora-ao-receber-homenagem-do-milan-e-entrar-para-o-hall-da-fama-do-clube/",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Kaka is 44; born 22 April 1982; height 1.86 m.",
+      "source_url": "https://en.wikipedia.org/wiki/Kak%C3%A1",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Kaka posted a tribute to Franco Baresi after his death (31 Jul 2026 article).",
+      "source_url": "https://milanreports.com/2026/07/31/kaka-franco-baresis-legacy-will-live-on-forever/",
+      "confidence": "high"
+    },
+    {
+      "claim": "Neymar had a penalty saved (weaker left foot, keeper Luan Telles) at Kings Cup Brazil on Monday 9 Nov 2026 (Furia 7-3 Dibrados) and said 'I'm the president, so I'll play in 2030'.",
+      "source_url": "https://ca.sports.yahoo.com/news/neymar-suffers-shock-penalty-miss-092428415.html",
+      "confidence": "high"
+    },
+    {
+      "claim": "Kaka appeared on Rio Ferdinand Presents (episode published 12 Jun 2026) explaining why Ancelotti is the 'perfect' manager for Brazil.",
+      "source_url": "https://shows.acast.com/rio-ferdinand-presents-five/episodes/kaka-on-neymar-brazils-world-cup-chances-why-ancelotti-is-pe",
+      "confidence": "high"
+    }
+  ],
+  "research_notes": {
+    "date": "2026-11-20",
+    "recent_news_count": 10,
+    "limits": "Fact-checked 2026-11-20. Official pages (kingsleague.pro, dailysports.net) returned 403 and were treated as unverified; items resting only on them were removed. Most news comes from one cluster (Milan Hall of Fame weekend, 30 Oct-7 Nov). One entry (Neymar penalty) is context, not a Kaka story. The Hall of Fame date is 31 Oct in all verified sources."
+  },
+  "verification": {
+    "checked": 57,
+    "corrected": 20,
+    "removed": 9,
+    "notes": "Opened and read ~25 cited URLs (jovempan, vavel, worldsoccertalk, yahoo x3, milanreports x3, africasoccer, acmilan, chaseyoursport, itatiaia, NBC, acast, Wikipedia pages) and cross-checked derby streak on Wikipedia's Derby page. Removed: Kings League Golden Crown finalist news+claim (kingsleague.pro 403, snippet-only), 'president of Kings League Brazil' claim (not supported; Kings League Wikipedia lists team chairs without Kaka; Itatiaia says 'presidente' is part of the penalty's name), unverified post-exit rebuild quote (dailysports 403), kit/hair claim (no source), 3 unverifiable viral YouTube entries. Corrected: Brazilians/Modric comments were a separate pitchside interview, not DAZN; Orlando missed playoffs in 3 seasons (2015-17), not 2; Brazil exit wording ('nearly 30 years' headline conflicts with 1990 in NBC text); removed unsourced Allegri/Giménez/March claims; Pulisic/Rabiot scorers and Moreira assists confirmed; derby streak confirmed (4 all comps, 3 in Serie A); EA FC card article date 11 Nov, release 12 Nov; Neymar penalty details. Confirmed unchanged: Hall of Fame date and Massaro, plaque, tears, Gullit/Ancelotti announcement in May, Costacurta (Sky Sport Italia), 4th place/21 pts, Pulisic extension, 124 card, Raphinha No.10, Baresi tribute, Milan 307/104, Ballon d'Or/FIFA votes, Madrid fee/goals, Osasuna and Ivory Coast red cards. Unverified remainder: 81 Milan assists (one source), first-goal 3-2 vs Inter in Oct 2003 (one source). Web search budget was exhausted, so independent news searches could not be run; verification relied on page fetches."
+  }
+}

@@ -1,0 +1,98 @@
+{
+ "no": 50,
+ "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/050_bayern_beat_atletico_2_0_at_the_metr.mp4",
+ "total": 42.03333333333333,
+ "outro_start": 35.34,
+ "cover": true,
+ "seq": [
+  {
+   "id": "s01",
+   "kind": "HOOK",
+   "start": 0.1,
+   "end": 1.6,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/050/s01.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s02",
+   "kind": "NEWS",
+   "start": 2.8666666666666667,
+   "end": 4.633333333333334,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/050/s02.mp4",
+   "clip_dur": 1.767,
+   "frames": 42
+  },
+  {
+   "id": "s03",
+   "kind": "COMIC1",
+   "start": 5.9,
+   "end": 7.9,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/050/s03.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s04",
+   "kind": "COMIC2",
+   "start": 11.833333333333334,
+   "end": 14.333333333333334,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/050/s04.mp4",
+   "clip_dur": 2.5,
+   "frames": 60
+  },
+  {
+   "id": "s05",
+   "kind": "PROVOC",
+   "start": 18.633333333333333,
+   "end": 20.133333333333333,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/050/s05.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s06",
+   "kind": "INTERVIEW",
+   "start": 23.966666666666665,
+   "end": 25.733333333333334,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/050/s06.mp4",
+   "clip_dur": 1.767,
+   "frames": 42
+  },
+  {
+   "id": "s07",
+   "kind": "STATS",
+   "start": 31.8,
+   "end": 33.3,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/050/s07.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  }
+ ],
+ "missing": [],
+ "dropped": [],
+ "cards": [
+  {
+   "text": "Laimer, Kane assist",
+   "a": 17.466666666666665,
+   "b": 18.466666666666665
+  },
+  {
+   "text": "Still waiting",
+   "a": 28.566666666666666,
+   "b": 30.766666666666666
+  }
+ ],
+ "caption_sprites": 93,
+ "whoosh": [
+  0.0,
+  2.7666666666666666,
+  5.800000000000001,
+  11.733333333333334,
+  18.53333333333333,
+  23.866666666666664,
+  31.7,
+  35.24
+ ],
+ "shots": 12
+}

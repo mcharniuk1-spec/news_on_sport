@@ -1,0 +1,113 @@
+{
+ "no": 46,
+ "subject": "Crystal Palace sack Pierre Sage after five months; club bottom of the Premier League",
+ "title": "Five months, one revolving back door",
+ "voice": "kokoro",
+ "comic": true,
+ "style": "southpark_cutout",
+ "lines": [
+  {
+   "vo": "Five months, two league wins from ten. Then Palace sacked Pierre Sage.",
+   "card": "Five months, gone",
+   "sfx": null,
+   "footage": "Pierre Sage Crystal Palace press conference"
+  },
+  {
+   "vo": "Palace sat bottom of the Premier League with seven points.",
+   "card": "Bottom, seven points",
+   "sfx": null,
+   "footage": "Crystal Palace Premier League table, Selhurst Park"
+  },
+  {
+   "vo": "Four straight league defeats, the last at home to Liverpool.",
+   "card": "Fourth straight defeat",
+   "sfx": "short crowd groan",
+   "footage": "Liverpool beat Palace 3-1 at Selhurst Park highlights"
+  },
+  {
+   "vo": "They had conceded twenty-four goals, the most in the division. The back door stayed open all season.",
+   "card": "Twenty-four conceded",
+   "sfx": null,
+   "footage": "Crystal Palace defending highlights, goals conceded"
+  },
+  {
+   "vo": "Not all bad. They did win one of four in Europe.",
+   "card": "One win in Europe",
+   "sfx": null,
+   "footage": "Crystal Palace Europa League highlights"
+  },
+  {
+   "vo": "Three coaches went with him: Jamal Alioui, Damien Della Santa and Sandy Guichard. This time, the manager used the back door.",
+   "card": "Three coaches go",
+   "sfx": null,
+   "footage": "Palace dugout and staff, Crystal Palace training ground"
+  },
+  {
+   "vo": "Palace sacked him about an hour after Manchester United sacked Michael Carrick.",
+   "card": "Same hour, two sackings",
+   "sfx": null,
+   "footage": "Michael Carrick Manchester United press conference"
+  },
+  {
+   "vo": "The first two Premier League managers sacked this season, in one hour. Even the sack race has a photo finish.",
+   "card": "Sack race photo finish",
+   "sfx": null,
+   "footage": "Premier League managers, sacking news clip"
+  },
+  {
+   "vo": "Palace also had the lowest net spend in the league last summer.",
+   "card": "Lowest net spend",
+   "sfx": null,
+   "footage": "Crystal Palace summer transfer news, squad sales"
+  },
+  {
+   "vo": "Lowest spend, lowest place in the table. Very consistent.",
+   "card": "Very consistent",
+   "sfx": "short cartoon boing",
+   "footage": "Crystal Palace bottom of the table, league table graphic"
+  },
+  {
+   "vo": "Think you can call the next one? Free tips, results and predictions at aboutfootball dot UK.",
+   "card": "aboutfootball.UK",
+   "sfx": null,
+   "footage": "end card"
+  }
+ ],
+ "chars": 860,
+ "est_seconds": 49,
+ "footage_terms": [
+  "Crystal Palace Liverpool Selhurst Park highlights",
+  "Pierre Sage sacked Crystal Palace",
+  "Michael Carrick Manchester United sacked",
+  "Crystal Palace Sage press conference"
+ ],
+ "inserts": [
+  {
+   "after_line": 2,
+   "story": "Setup: a paper cut-out Sage stands at a whiteboard listing results and the fourth defeat fills the last line. Gag: the board runs out of space, so the list continues across a cut-out wall and out of the window. Twist: a cardboard cleaner wipes it all off with one swipe and writes 'Seven points' in big letters.",
+   "characters": "Generic cut-out cleaner; caricature of Pierre Sage",
+   "seconds": 2
+  },
+  {
+   "after_line": 3,
+   "story": "Setup: a cut-out goalkeeper guards a cardboard back door at the rear of the net. Gag: the door swings open and shut, and a queue of cut-out strikers walks through like it is a shop. Twist: the keeper hangs a sign on it: 'Open 24 hours, goals welcome'.",
+   "characters": "Generic cut-out goalkeeper and strikers",
+   "seconds": 2
+  },
+  {
+   "after_line": 7,
+   "story": "Setup: two cut-out managers meet in a lift and both press the down button at exactly the same time. Gag: the lift drops through the floor of the cardboard set. Twist: a sign flashes past on the way down: 'Next stop: the table'.",
+   "characters": "Generic cut-out managers; caricature of Michael Carrick",
+   "seconds": 2
+  }
+ ],
+ "facts_used": [
+  "Palace dismissed Pierre Sage after about five months; they sat bottom with 7 points after a fourth straight league defeat, at home to Liverpool (ev0021)",
+  "Under Sage the club won two league games from ten and one of four Europa League matches; conceded 24 goals, the most in the division (ev0021)",
+  "Three coaches also left: Jamal Alioui, Damien Della Santa and Sandy Guichard (ev0021)",
+  "Sacked about an hour after Manchester United sacked Michael Carrick; first two Premier League managers sacked this season (ev0021)",
+  "Club had the lowest net spend in the league last summer (ev0021 background)"
+ ],
+ "comic_score": 8,
+ "notes": "Comic, 3 inserts (zero-based after_line), southpark_cutout style. Jokes stay on results, staff exits, conceded goals and spending, no personal jokes about Sage or Carrick. 'Won one of four in Europe' from the Europa League record in ev0021. Insert characters are generic cut-outs plus caricatures, no logos."
+}

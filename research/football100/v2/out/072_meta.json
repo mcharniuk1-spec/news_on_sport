@@ -1,0 +1,108 @@
+{
+ "no": 72,
+ "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/072_billy_sharp_40_comes_out_of_retireme.mp4",
+ "total": 38.266666666666666,
+ "outro_start": 32.17,
+ "cover": true,
+ "seq": [
+  {
+   "id": "s01",
+   "kind": "HOOK",
+   "start": 0.1,
+   "end": 1.6,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/072/s01.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s02",
+   "kind": "NEWS",
+   "start": 3.6,
+   "end": 5.366666666666666,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/072/s02.mp4",
+   "clip_dur": 1.767,
+   "frames": 42
+  },
+  {
+   "id": "s03",
+   "kind": "STATS",
+   "start": 6.866666666666666,
+   "end": 8.366666666666667,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/072/s03.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s04",
+   "kind": "COMIC1",
+   "start": 13.533333333333333,
+   "end": 15.533333333333333,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/072/s04.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s05",
+   "kind": "COMIC2",
+   "start": 18.733333333333334,
+   "end": 20.733333333333334,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/072/s05.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s06",
+   "kind": "COMIC3",
+   "start": 21.533333333333335,
+   "end": 23.533333333333335,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/072/s06.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s07",
+   "kind": "PROVOC",
+   "start": 25.866666666666667,
+   "end": 27.366666666666667,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/072/s07.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s08",
+   "kind": "INTERVIEW",
+   "start": 29.6,
+   "end": 31.366666666666667,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/072/s08.mp4",
+   "clip_dur": 1.767,
+   "frames": 42
+  }
+ ],
+ "missing": [],
+ "dropped": [],
+ "cards": [
+  {
+   "text": "Cover for Clifton",
+   "a": 8.533333333333333,
+   "b": 10.633333333333333
+  },
+  {
+   "text": "Rest day",
+   "a": 27.533333333333335,
+   "b": 29.266666666666666
+  }
+ ],
+ "caption_sprites": 106,
+ "whoosh": [
+  0.0,
+  3.5,
+  6.766666666666667,
+  13.433333333333334,
+  18.633333333333333,
+  21.433333333333334,
+  25.766666666666666,
+  29.5,
+  32.07
+ ],
+ "shots": 13
+}

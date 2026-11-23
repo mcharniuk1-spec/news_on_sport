@@ -1,0 +1,674 @@
+[
+ {
+  "hook_type": "question",
+  "hook_basis": "record_or_milestone",
+  "topic_primary": "legacy_retrospective",
+  "scope": "other_leagues",
+  "subject_type": "player",
+  "timeliness": "breaking_week",
+  "uk_relevance": "medium",
+  "story_structure": "stat_stack",
+  "twist_position": "late",
+  "payoff_type": "punchline",
+  "humour_type": "callback",
+  "humour_target": "player",
+  "dominant_emotion": "nostalgia",
+  "comment_bait": "none",
+  "cta_opener_type": "question",
+  "hook_type_alt": "news_flash",
+  "hook_strength": 2.0,
+  "story_clarity": 4.0,
+  "humour_quality": 3.0,
+  "shareability": 2.0,
+  "comment_potential": 2.0,
+  "uk_fit": 3.0,
+  "novelty": 2.0,
+  "poster_title_sells_hook": 2.0,
+  "poster_joke_quality": 1.0,
+  "humour_intensity": 1.5,
+  "virality_pred": 3.0,
+  "risk_flags": [
+   "single_source"
+  ],
+  "hook_type_why": "Opens on \"Who gets into the Hall of Fame first time?\" then answers it at once with Rapinoe.",
+  "hook_basis_detail": "Rapinoe elected in her first year of eligibility to the National Soccer Hall of Fame, alongside Beckham, Altidore and Ertz.",
+  "story_summary": "Four players enter the US Hall of Fame; Rapinoe via the front door, Beckham via the veteran ballot, with a door callback joke.",
+  "poster_issue": "Bubble just repeats a voice-over line and is not a joke. Burst \"OH DEAR...\" clashes with a celebratory story.",
+  "poster_change": "Headline: BECKHAM USED THE SIDE DOOR. Bubble: \"Rapinoe, front door.\" Burst: CHEEKY!",
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "hook_rewrite",
+    "action": "Lead with Beckham and the side door joke instead of a low-stakes question about Rapinoe."
+   },
+   {
+    "priority": "P1",
+    "category": "poster_title",
+    "action": "Replace plain announcement bubble with the front door/side door joke; fix mismatched burst word."
+   },
+   {
+    "priority": "P2",
+    "category": "vary_cta",
+    "action": "Replace the opener used in 25 videos with a new one."
+   },
+   {
+    "priority": "P2",
+    "category": "add_comment_bait",
+    "action": "Ask who is the biggest Hall of Fame snub or whether Beckham belongs."
+   },
+   {
+    "priority": "P3",
+    "category": "add_second_source",
+    "action": "Both sources are from one domain; add a second outlet."
+   }
+  ],
+  "no": 51,
+  "annotator_agreement": 0.79
+ },
+ {
+  "hook_type": "stat_shock",
+  "hook_basis": "scoreline_result",
+  "topic_primary": "match_report",
+  "scope": "international",
+  "subject_type": "club_team",
+  "timeliness": "breaking_week",
+  "uk_relevance": "medium",
+  "story_structure": "stat_stack",
+  "twist_position": "late",
+  "payoff_type": "callback_to_hook",
+  "humour_type": "understatement",
+  "humour_target": "club",
+  "dominant_emotion": "surprise",
+  "comment_bait": "none",
+  "cta_opener_type": "mates_social",
+  "hook_type_alt": "contrast_twist",
+  "hook_strength": 3.5,
+  "story_clarity": 4.0,
+  "humour_quality": 3.0,
+  "shareability": 3.0,
+  "comment_potential": 2.0,
+  "uk_fit": 3.0,
+  "novelty": 3.0,
+  "poster_title_sells_hook": 3.0,
+  "poster_joke_quality": 2.0,
+  "humour_intensity": 2.0,
+  "virality_pred": 5.0,
+  "risk_flags": [
+   "single_source"
+  ],
+  "hook_type_why": "\"Germany needed to beat the Netherlands by five goals. So they did.\" Number sets the target, then pays it off.",
+  "hook_basis_detail": "Germany needed a five-goal win over the Netherlands for the group; final score 5-0 in Berlin.",
+  "story_summary": "Germany beat the Netherlands 5-0 as needed, Wirtz scores twice, Klopp predicts the doubters stay quiet for three or four months.",
+  "poster_issue": "Bubble \"Five-nil in Berlin\" is a plain scoreline, not the Klopp doubters joke or the five-goal target.",
+  "poster_change": "Bubble: \"Klopp gave the doubters a date.\" Keep headline.",
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "vary_cta",
+    "action": "CTA opener \"Your mates will never guess this\" is in 32 videos; rotate it."
+   },
+   {
+    "priority": "P2",
+    "category": "add_comment_bait",
+    "action": "End with a question: can Klopp win the World Cup with this side?"
+   },
+   {
+    "priority": "P2",
+    "category": "poster_title",
+    "action": "Move the Klopp three-or-four-months quote to the bubble."
+   },
+   {
+    "priority": "P2",
+    "category": "hook_rewrite",
+    "action": "Open on Klopp's UK-loved name plus the five-goal ask; 'So they did' is soft."
+   },
+   {
+    "priority": "P3",
+    "category": "stronger_twist",
+    "action": "Open on Klopp's date joke or add the Belgium quarter-final for a forward hook."
+   },
+   {
+    "priority": "P3",
+    "category": "add_second_source",
+    "action": "Second source is on the same domain; check Klopp quote elsewhere."
+   }
+  ],
+  "no": 52,
+  "annotator_agreement": 0.79
+ },
+ {
+  "hook_type": "stat_shock",
+  "hook_basis": "record_or_milestone",
+  "topic_primary": "record_milestone",
+  "scope": "other_leagues",
+  "subject_type": "club_team",
+  "timeliness": "breaking_week",
+  "uk_relevance": "low",
+  "story_structure": "stat_stack",
+  "twist_position": "late",
+  "payoff_type": "punchline",
+  "humour_type": "understatement",
+  "humour_target": "situation",
+  "dominant_emotion": "awe",
+  "comment_bait": "none",
+  "cta_opener_type": "question",
+  "hook_type_alt": "none",
+  "hook_strength": 3.5,
+  "story_clarity": 4.5,
+  "humour_quality": 2.0,
+  "shareability": 2.0,
+  "comment_potential": 2.0,
+  "uk_fit": 1.0,
+  "novelty": 2.5,
+  "poster_title_sells_hook": 3,
+  "poster_joke_quality": 2.5,
+  "humour_intensity": 1.0,
+  "virality_pred": 3.0,
+  "risk_flags": [
+   "single_source"
+  ],
+  "hook_type_why": "\"Seventy-seven points. No MLS side has ever earned more in a season.\" Pure number-and-record opener.",
+  "hook_basis_detail": "Nashville's 77 points is the MLS single-season record, passing Inter Miami's 74 from 2024.",
+  "story_summary": "Nashville break the MLS points record and win the Supporters' Shield on defence and a goalkeeper, a low-budget side that outdid Miami.",
+  "poster_issue": "Bubble states the Inter Miami fact flatly; burst \"CHEEKY!\" does not match a straight record story.",
+  "poster_change": "Bubble: \"Low budget. Record points. Funny how that works.\" Burst: \"WOW!\"",
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "hook_rewrite",
+    "action": "Name Inter Miami or Messi in the opening line for UK recognition."
+   },
+   {
+    "priority": "P2",
+    "category": "add_comment_bait",
+    "action": "Ask whether MLS champions beat a Championship side; invite an argument."
+   },
+   {
+    "priority": "P2",
+    "category": "poster_title",
+    "action": "Use the low-budget punchline in the bubble; fix the burst word."
+   },
+   {
+    "priority": "P2",
+    "category": "improve_humour",
+    "action": "Sharpen the low-budget callback; 'Funny how that works' is flat."
+   },
+   {
+    "priority": "P3",
+    "category": "add_second_source",
+    "action": "Both sources come from one domain; add a second."
+   }
+  ],
+  "no": 53,
+  "annotator_agreement": 0.89
+ },
+ {
+  "hook_type": "contrast_twist",
+  "hook_basis": "transfer_rumour",
+  "topic_primary": "transfer_story",
+  "scope": "premier_league",
+  "subject_type": "player",
+  "timeliness": "breaking_week",
+  "uk_relevance": "high",
+  "story_structure": "rumour_explainer",
+  "twist_position": "middle",
+  "payoff_type": "punchline",
+  "humour_type": "roast",
+  "humour_target": "club",
+  "dominant_emotion": "curiosity",
+  "comment_bait": "fan_rivalry",
+  "cta_opener_type": "question",
+  "hook_type_alt": "curiosity_gap",
+  "hook_strength": 4.0,
+  "story_clarity": 3.5,
+  "humour_quality": 3.0,
+  "shareability": 3.5,
+  "comment_potential": 3.5,
+  "uk_fit": 4.5,
+  "novelty": 3.0,
+  "poster_title_sells_hook": 3.5,
+  "poster_joke_quality": 3.0,
+  "humour_intensity": 2.0,
+  "virality_pred": 6.0,
+  "risk_flags": [
+   "single_source",
+   "unverified_claim"
+  ],
+  "hook_type_why": "\"Barcelona and Real Madrid agree on nothing. Except this nineteen-year-old.\" Rivals united, name withheld.",
+  "hook_basis_detail": "Barcelona and Real Madrid reportedly chasing Brighton's 19-year-old Luka Vuskovic, signed from Tottenham for a reported 46 million pounds.",
+  "story_summary": "Brighton's teenage centre-back Vuskovic, called the new Rodri, is chased by Barca and Real; Brighton will listen to offers.",
+  "poster_issue": "Headline claims Barca and Real want him, but facts do not name any bid. Burst \"HOW?!\" is vague.",
+  "poster_change": "Headline: BARCA AND REAL ARE EYEING BRIGHTON'S NEW RODRI. Burst: \"NO PRESSURE!\"",
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "verify_fact",
+    "action": "Confirm Barcelona and Real Madrid interest and the 46m fee with a primary source."
+   },
+   {
+    "priority": "P2",
+    "category": "add_second_source",
+    "action": "Both sources are one domain family; add an independent outlet."
+   },
+   {
+    "priority": "P2",
+    "category": "vary_cta",
+    "action": "Opener \"Think you can call the next one?\" appears in 20 videos; rotate."
+   },
+   {
+    "priority": "P2",
+    "category": "add_comment_bait",
+    "action": "Ask fans which giant he should pick, or if Spurs erred selling him."
+   },
+   {
+    "priority": "P3",
+    "category": "poster_title",
+    "action": "Put the Tottenham sofa roast on the cover to sell the joke."
+   }
+  ],
+  "no": 54,
+  "annotator_agreement": 0.86
+ },
+ {
+  "hook_type": "contrast_twist",
+  "hook_basis": "transfer_fee_or_bid",
+  "topic_primary": "transfer_story",
+  "scope": "la_liga",
+  "subject_type": "player",
+  "timeliness": "breaking_week",
+  "uk_relevance": "high",
+  "story_structure": "rumour_explainer",
+  "twist_position": "late",
+  "payoff_type": "punchline",
+  "humour_type": "sarcasm",
+  "humour_target": "situation",
+  "dominant_emotion": "curiosity",
+  "comment_bait": "fan_rivalry",
+  "cta_opener_type": "other",
+  "hook_type_alt": "stat_shock",
+  "hook_strength": 4.0,
+  "story_clarity": 3.0,
+  "humour_quality": 3.0,
+  "shareability": 3.0,
+  "comment_potential": 4.0,
+  "uk_fit": 5.0,
+  "novelty": 3.0,
+  "poster_title_sells_hook": 4.0,
+  "poster_joke_quality": 2.0,
+  "humour_intensity": 2.0,
+  "virality_pred": 6.0,
+  "risk_flags": [
+   "single_source",
+   "unverified_claim"
+  ],
+  "hook_type_why": "\"Forty million euros, five substitute appearances. Barcelona still say no.\" Two numbers then the twist.",
+  "hook_basis_detail": "ESPN's reported 40 million euro price for Balde against five substitute appearances this season; Deco says no sale.",
+  "story_summary": "United and Liverpool are linked with Barcelona's Balde, who has not started this season; Deco rules out a sale unless he asks.",
+  "poster_issue": "Bubble repeats the ESPN fee as a plain fact; burst \"OUCH!\" does not point to the bench joke.",
+  "poster_change": "Bubble: \"Best seat in the house.\" Keep headline.",
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "verify_fact",
+    "action": "United and Liverpool interest rests on the headline only; confirm with a named report."
+   },
+   {
+    "priority": "P2",
+    "category": "add_second_source",
+    "action": "Add an independent outlet for the fee and Juventus loan interest."
+   },
+   {
+    "priority": "P2",
+    "category": "add_comment_bait",
+    "action": "Ask: United or Liverpool, who needs a left-back more?"
+   },
+   {
+    "priority": "P2",
+    "category": "poster_title",
+    "action": "Use the 'best seat in the house' joke in the bubble."
+   },
+   {
+    "priority": "P3",
+    "category": "shorten",
+    "action": "Cut the Juventus loan beat; too many threads for 43 seconds."
+   },
+   {
+    "priority": "P3",
+    "category": "vary_cta",
+    "action": "'Keep the score sheet ready' is vague; link it to the story."
+   }
+  ],
+  "no": 55,
+  "annotator_agreement": 0.86
+ },
+ {
+  "hook_type": "news_flash",
+  "hook_basis": "controversy_or_discipline",
+  "topic_primary": "discipline_controversy",
+  "scope": "serie_a",
+  "subject_type": "manager",
+  "timeliness": "recent_month",
+  "uk_relevance": "low",
+  "story_structure": "chronological_recap",
+  "twist_position": "late",
+  "payoff_type": "punchline",
+  "humour_type": "roast",
+  "humour_target": "manager",
+  "dominant_emotion": "amusement",
+  "comment_bait": "none",
+  "cta_opener_type": "question",
+  "hook_type_alt": "curiosity_gap",
+  "hook_strength": 3.0,
+  "story_clarity": 3.5,
+  "humour_quality": 3.5,
+  "shareability": 2.5,
+  "comment_potential": 3.0,
+  "uk_fit": 1.5,
+  "novelty": 3.0,
+  "poster_title_sells_hook": 1.5,
+  "poster_joke_quality": 1.0,
+  "humour_intensity": 2.0,
+  "virality_pred": 3.5,
+  "risk_flags": [
+   "betting_under18_appeal",
+   "negative_real_person",
+   "single_source"
+  ],
+  "hook_type_why": "\"Red card, late equaliser, and Allegri joking about his own ban.\" Listed facts, joke withheld.",
+  "hook_basis_detail": "Allegri's red card after Roma's late equaliser in a 3-3 draw; two-match ban, 10,000 euro fine, appeal dropped.",
+  "story_summary": "Napoli's Allegri is sent off in a 3-3 draw with Roma, drops his appeal, jokes the ban could reach four matches.",
+  "poster_issue": "Headline mentions a cutout ref that the voice-over never explains; bubble is a flat scoreline, not the ban joke.",
+  "poster_change": "Headline: ALLEGRI DROPS HIS APPEAL AND JOKES ABOUT FOUR GAMES. Bubble: \"Very relaxed man.\"",
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "poster_title",
+    "action": "Rewrite headline around the ban joke; drop the unexplained cutout ref."
+   },
+   {
+    "priority": "P1",
+    "category": "footage_match",
+    "action": "Check cutout inserts are explained by the voice-over, not left as an unexplained gag."
+   },
+   {
+    "priority": "P1",
+    "category": "add_comment_bait",
+    "action": "Ask whether the late Roma goal was a foul."
+   },
+   {
+    "priority": "P2",
+    "category": "improve_humour",
+    "action": "Make the four-match joke the closer instead of \"Bad timing\"."
+   },
+   {
+    "priority": "P2",
+    "category": "hook_rewrite",
+    "action": "Lead with 'Allegri joked his own ban could be four matches.'"
+   },
+   {
+    "priority": "P2",
+    "category": "verify_fact",
+    "action": "Check ban reasons (insulting officials) are not implied by the roast."
+   },
+   {
+    "priority": "P3",
+    "category": "add_second_source",
+    "action": "Both sources are from one domain; add a second."
+   }
+  ],
+  "no": 56,
+  "annotator_agreement": 0.82
+ },
+ {
+  "hook_type": "contrast_twist",
+  "hook_basis": "record_or_milestone",
+  "topic_primary": "record_milestone",
+  "scope": "other_leagues",
+  "subject_type": "player",
+  "timeliness": "recent_month",
+  "uk_relevance": "low",
+  "story_structure": "stat_stack",
+  "twist_position": "early",
+  "payoff_type": "punchline",
+  "humour_type": "deadpan_stat",
+  "humour_target": "player",
+  "dominant_emotion": "awe",
+  "comment_bait": "none",
+  "cta_opener_type": "question",
+  "hook_type_alt": "stat_shock",
+  "hook_strength": 4.5,
+  "story_clarity": 3.5,
+  "humour_quality": 2.5,
+  "shareability": 3.0,
+  "comment_potential": 2.5,
+  "uk_fit": 2.0,
+  "novelty": 3.5,
+  "poster_title_sells_hook": 3.0,
+  "poster_joke_quality": 1.5,
+  "humour_intensity": 1.5,
+  "virality_pred": 5.0,
+  "risk_flags": [
+   "single_source"
+  ],
+  "hook_type_why": "\"Hakimi is a defender. He was involved in all five goals.\" Role against count builds the shock.",
+  "hook_basis_detail": "Hakimi: first career hat-trick plus two assists, five goal contributions, a Ligue 1 record for a defender.",
+  "story_summary": "Hakimi scores a hat-trick and adds two assists in PSG's 5-1 win; Luis Enrique passes Blanc's club win record.",
+  "poster_issue": "Bubble repeats the headline numbers; burst \"NO WAY!\" fine, but the \"saving up\" joke is not used.",
+  "poster_change": "Bubble: \"Previous best: two. In 135 games. He was saving up.\"",
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "vary_cta",
+    "action": "Opener used in 25 videos; swap for a story-specific line."
+   },
+   {
+    "priority": "P2",
+    "category": "add_comment_bait",
+    "action": "Ask: is Hakimi the best defender in the world?"
+   },
+   {
+    "priority": "P2",
+    "category": "poster_title",
+    "action": "Put the \"saving up\" joke in the bubble instead of repeating numbers."
+   },
+   {
+    "priority": "P2",
+    "category": "shorten",
+    "action": "Cut the Enrique record and Ballon d'Or lines; they dilute the Hakimi story."
+   }
+  ],
+  "no": 57,
+  "annotator_agreement": 0.89
+ },
+ {
+  "hook_type": "contrast_twist",
+  "hook_basis": "stats_oddity",
+  "topic_primary": "match_report",
+  "scope": "la_liga",
+  "subject_type": "player",
+  "timeliness": "recent_month",
+  "uk_relevance": "medium",
+  "story_structure": "stat_stack",
+  "twist_position": "early",
+  "payoff_type": "callback_to_hook",
+  "humour_type": "absurd_comparison",
+  "humour_target": "player",
+  "dominant_emotion": "amusement",
+  "comment_bait": "fan_rivalry",
+  "cta_opener_type": "tease_next",
+  "hook_type_alt": "stat_shock",
+  "hook_strength": 5.0,
+  "story_clarity": 4.0,
+  "humour_quality": 4.0,
+  "shareability": 4.0,
+  "comment_potential": 4.0,
+  "uk_fit": 3.5,
+  "novelty": 4.0,
+  "poster_title_sells_hook": 4.0,
+  "poster_joke_quality": 2.0,
+  "humour_intensity": 2.0,
+  "virality_pred": 7.5,
+  "risk_flags": [
+   "single_source"
+  ],
+  "hook_type_why": "\"Mbappe was flagged offside seven times, and he still won El Clasico.\" Failure then triumph.",
+  "hook_basis_detail": "Mbappe flagged offside seven times, most in a major European league in six years, yet scored twice in a 2-1 Clasico win.",
+  "story_summary": "Mbappe scores twice and is offside seven times as Real win 2-1 at Camp Nou; Mourinho complains about VAR then slides on his knees.",
+  "poster_issue": "Bubble gives the deflected-goal minute, a plain detail; the offside joke is missing from the bubble.",
+  "poster_change": "Bubble: \"The linesman knows his first name by now.\"",
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "poster_title",
+    "action": "Move the first-name linesman joke into the bubble; drop the 41st-minute detail."
+   },
+   {
+    "priority": "P2",
+    "category": "add_comment_bait",
+    "action": "Ask: Barca or Real, who wins La Liga this season?"
+   },
+   {
+    "priority": "P2",
+    "category": "verify_fact",
+    "action": "Confirm 'most offsides in six years' and Mourinho at Real with a primary source."
+   },
+   {
+    "priority": "P3",
+    "category": "shorten",
+    "action": "Trim table line on Atletico; it slows the ending."
+   }
+  ],
+  "no": 58,
+  "annotator_agreement": 0.93
+ },
+ {
+  "hook_type": "bold_claim",
+  "hook_basis": "upset",
+  "topic_primary": "giant_killing",
+  "scope": "english_other",
+  "subject_type": "club_team",
+  "timeliness": "recent_month",
+  "uk_relevance": "high",
+  "story_structure": "twist_payoff",
+  "twist_position": "middle",
+  "payoff_type": "punchline",
+  "humour_type": "understatement",
+  "humour_target": "club",
+  "dominant_emotion": "schadenfreude",
+  "comment_bait": "fan_rivalry",
+  "cta_opener_type": "mates_social",
+  "hook_type_alt": "contrast_twist",
+  "hook_strength": 4.5,
+  "story_clarity": 4.0,
+  "humour_quality": 3.5,
+  "shareability": 5.0,
+  "comment_potential": 5.0,
+  "uk_fit": 5.0,
+  "novelty": 4.0,
+  "poster_title_sells_hook": 3.5,
+  "poster_joke_quality": 2.0,
+  "humour_intensity": 2.0,
+  "virality_pred": 8.5,
+  "risk_flags": [
+   "betting_under18_appeal",
+   "single_source",
+   "unverified_claim"
+  ],
+  "hook_type_why": "\"The Premier League champions lost to League Two Fleetwood. Yes, really.\" Disbelief hook.",
+  "hook_basis_detail": "League Two Fleetwood beat the Premier League champions on penalties, 5-3, after a 1-1 draw in the Carabao Cup.",
+  "story_summary": "Fleetwood beat Arsenal 5-3 on penalties after 1-1; Haughey never practised penalties, Lynch saves, Arteta blames a drone.",
+  "poster_issue": "Bubble gives the plain score; the drone and no-practice jokes are the real selling points.",
+  "poster_change": "Bubble: \"He never practised a penalty. Imagine if he had.\"",
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "add_second_source",
+    "action": "Arteta's drone claim and the first-ever champion claim rest on one outlet; add a second."
+   },
+   {
+    "priority": "P1",
+    "category": "poster_title",
+    "action": "Put Arsenal in the headline and use the drone joke."
+   },
+   {
+    "priority": "P2",
+    "category": "add_comment_bait",
+    "action": "Ask Arsenal fans: is the League Cup worth playing a strong side?"
+   },
+   {
+    "priority": "P2",
+    "category": "verify_fact",
+    "action": "Check the drone claim and the 'first champion' stat against a primary source."
+   },
+   {
+    "priority": "P3",
+    "category": "vary_cta",
+    "action": "Make the CTA reference the upset rather than 'your mates'."
+   }
+  ],
+  "no": 59,
+  "annotator_agreement": 0.89
+ },
+ {
+  "hook_type": "contrast_twist",
+  "hook_basis": "scoreline_result",
+  "topic_primary": "match_report",
+  "scope": "europe_club",
+  "subject_type": "club_team",
+  "timeliness": "recent_month",
+  "uk_relevance": "medium",
+  "story_structure": "chronological_recap",
+  "twist_position": "late",
+  "payoff_type": "punchline",
+  "humour_type": "sarcasm",
+  "humour_target": "manager",
+  "dominant_emotion": "schadenfreude",
+  "comment_bait": "none",
+  "cta_opener_type": "question",
+  "hook_type_alt": "none",
+  "hook_strength": 4.0,
+  "story_clarity": 4.0,
+  "humour_quality": 3.0,
+  "shareability": 3.0,
+  "comment_potential": 3.0,
+  "uk_fit": 3.0,
+  "novelty": 3.0,
+  "poster_title_sells_hook": 2.0,
+  "poster_joke_quality": 2.0,
+  "humour_intensity": 2.0,
+  "virality_pred": 5.0,
+  "risk_flags": [
+   "single_source",
+   "unverified_claim"
+  ],
+  "hook_type_why": "\"Milan had an extra man and still lost two-nil at home.\" Advantage against defeat.",
+  "hook_basis_detail": "Ferencvaros won 2-0 at San Siro with two Lenny Joseph goals within 14 minutes, Milan a man up from the 77th minute.",
+  "story_summary": "Milan lose 0-2 at home to Ferencvaros despite a late man advantage; Amorim says his side were not mentally ready.",
+  "poster_issue": "Headline hides the extra-man hook; bubble repeats a goal-timing stat, not the Amorim blames-himself joke.",
+  "poster_change": "Headline: MILAN LOSE AT HOME WITH AN EXTRA MAN. Bubble: \"A coach who blames the coach. Rare.\"",
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "vary_cta",
+    "action": "Opener repeated in 25 videos; replace with a Europa League tease."
+   },
+   {
+    "priority": "P1",
+    "category": "add_second_source",
+    "action": "Only one source and domain; add a second before publishing."
+   },
+   {
+    "priority": "P2",
+    "category": "hook_rewrite",
+    "action": "Mention Amorim, former Manchester United manager, in the first line to lift UK appeal."
+   },
+   {
+    "priority": "P2",
+    "category": "poster_title",
+    "action": "Bring the extra-man twist to the headline and the Amorim joke to the bubble."
+   }
+  ],
+  "no": 60,
+  "annotator_agreement": 0.89
+ }
+]

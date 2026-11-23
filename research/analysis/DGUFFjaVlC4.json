@@ -1,0 +1,160 @@
+{
+ "video_id": "DGUFFjaVlC4",
+ "topic": "Meme: Ronaldo laughing at Messi after Spain beats Argentina in the World Cup final, shown via face-cams reacting to a skill game",
+ "hero": "Ronaldo, Messi, Lamine Yamal (face-cam personas)",
+ "hero_role": "reacting commentators in the face-cam meme",
+ "media_type_overall": "game footage (e.g. GTA/FIFA)",
+ "hook": "Messi face-cam over fans celebrating, caption 'MESSI LOST FINAL..'",
+ "subtitle_style": "bold yellow caption with black outline top",
+ "reaction_overlays": "vertical split: face-cam (top) over game clip (bottom), laughing audio",
+ "transition_summary": "Hard cuts every ~2 s alternating face-cam personas",
+ "audio_note": "voice-over dialogue and laughter (transcript: 'So, this is how it feels to be you, Ronaldo. It hurts.')",
+ "reuse_segments": [
+  {
+   "t0": 0,
+   "t1": 35,
+   "what": "EA FC skill-game footage and face-cams",
+   "origin_guess": "game",
+   "rights_risk": "medium",
+   "how_to_reuse": "recreate with own gameplay and generated avatars"
+  }
+ ],
+ "frames": [
+  {
+   "idx": 1,
+   "t": 0,
+   "desc": "Top: Messi face-cam with headset and trophy; caption 'MESSI LOST FINAL..' yellow; bottom: celebrating Spain fans behind goal",
+   "type": "game",
+   "text_on_screen": "MESSI LOST FINAL..",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 2,
+   "t": 2,
+   "desc": "Top: Ronaldo laughing with headset against desert background; bottom: game FC goal, player #7 shoots",
+   "type": "game",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 3,
+   "t": 4,
+   "desc": "Top: Ronaldo laughing with headset against desert background; bottom: game FC goal, player #7 shoots",
+   "type": "game",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 4,
+   "t": 6,
+   "desc": "Top: Ronaldo laughing with headset against desert background; bottom: game FC goal, player #7 shoots",
+   "type": "game",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 5,
+   "t": 8,
+   "desc": "Top: Messi face-cam; bottom: game shot from behind striker, ball dribbled",
+   "type": "game",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 6,
+   "t": 10,
+   "desc": "Top: Messi face-cam; bottom: game shot from behind striker, ball dribbled",
+   "type": "game",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 7,
+   "t": 12,
+   "desc": "Top: Ronaldo face-cam; bottom: game player #7 shoots in training area",
+   "type": "game",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 8,
+   "t": 14,
+   "desc": "Top: Ronaldo face-cam; bottom: game player #7 shoots in training area",
+   "type": "game",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 9,
+   "t": 16,
+   "desc": "Top: Ronaldo face-cam; bottom: game player #7 shoots in training area",
+   "type": "game",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 10,
+   "t": 18,
+   "desc": "Top: Yamal face-cam pink headset, MESSI=GOAT poster; bottom: blue player dribbling through yellow dummies",
+   "type": "game",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 11,
+   "t": 20,
+   "desc": "Top: Yamal face-cam pink headset, MESSI=GOAT poster; bottom: blue player dribbling through yellow dummies",
+   "type": "game",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 12,
+   "t": 22,
+   "desc": "Top: Yamal face-cam pink headset, MESSI=GOAT poster; bottom: blue player dribbling through yellow dummies",
+   "type": "game",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 13,
+   "t": 24,
+   "desc": "Top: Ronaldo face-cam; bottom: blue player dribbles yellow dummies",
+   "type": "game",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 14,
+   "t": 26,
+   "desc": "Top: Ronaldo face-cam; bottom: blue player dribbles yellow dummies",
+   "type": "game",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 15,
+   "t": 28,
+   "desc": "Top: Ronaldo face-cam; bottom: blue player dribbles yellow dummies",
+   "type": "game",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 16,
+   "t": 30,
+   "desc": "Top: Messi face-cam; bottom: dummy-dribble game clip",
+   "type": "game",
+   "text_on_screen": "",
+   "transition_to_next": "none"
+  },
+  {
+   "idx": 17,
+   "t": 32,
+   "desc": "Top: Messi face-cam; bottom: dummy-dribble game clip",
+   "type": "game",
+   "text_on_screen": "",
+   "transition_to_next": "none"
+  }
+ ]
+}

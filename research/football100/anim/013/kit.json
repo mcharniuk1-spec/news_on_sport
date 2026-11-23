@@ -1,0 +1,16 @@
+{
+  "palette": [
+    "#efc7a6",
+    "#454168",
+    "#ffce75",
+    "#c779a3",
+    "#96c7be"
+  ],
+  "style": "SITCOM-YELLOW",
+  "font": "Arial Bold",
+  "characters": [
+    "Luis Figo",
+    "generic reporter"
+  ],
+  "recurring_prop": "runway"
+}

@@ -1,0 +1,66 @@
+{
+  "prices": [
+    {
+      "endpoint_id": "minimax/h3-max/recast",
+      "unit_price": 0.05,
+      "unit": "units",
+      "currency": "USD"
+    },
+    {
+      "endpoint_id": "minimax/h3-max/image-to-video",
+      "unit_price": 0.0375,
+      "unit": "seconds",
+      "currency": "USD"
+    },
+    {
+      "endpoint_id": "google/gemini-omni-flash/v1.2/edit",
+      "unit_price": 0.0273,
+      "unit": "seconds",
+      "currency": "USD"
+    },
+    {
+      "endpoint_id": "bytedance/seedance-2.5/flash/text-to-video",
+      "unit_price": 0.014,
+      "unit": "1000 tokens",
+      "currency": "USD"
+    },
+    {
+      "endpoint_id": "fal-ai/sync-lipsync/v3",
+      "unit_price": 8,
+      "unit": "minutes",
+      "currency": "USD"
+    },
+    {
+      "endpoint_id": "heygen/avatar-6/image-to-video",
+      "unit_price": 0.05,
+      "unit": "units",
+      "currency": "USD"
+    },
+    {
+      "endpoint_id": "nvidia/nemotron-3-5-super/video",
+      "unit_price": 0.01,
+      "unit": "1000 tokens",
+      "currency": "USD"
+    },
+    {
+      "endpoint_id": "fal-ai/elevenlabs/speech-to-text/scribe-v2",
+      "unit_price": 0.008,
+      "unit": "minutes",
+      "currency": "USD"
+    },
+    {
+      "endpoint_id": "veed/dubbing/pro",
+      "unit_price": 0.18,
+      "unit": "input seconds",
+      "currency": "USD"
+    },
+    {
+      "endpoint_id": "topaz/upscale/video/precision",
+      "unit_price": 0.01,
+      "unit": "units",
+      "currency": "USD"
+    }
+  ],
+  "next_cursor": null,
+  "has_more": false
+}

@@ -1,0 +1,96 @@
+{
+ "video_id": "iDx_aqbdmY0",
+ "topic": "Short edit about Hakimi being injured by a challenge (title blames Diaz) in PSG vs Bayern, VAR check and red card",
+ "hero": "Achraf Hakimi (PSG)",
+ "hero_role": "victim of the foul",
+ "media_type_overall": "real broadcast footage",
+ "hook": "Wide pitch with scoreboard red-circled, PSG 0-2 Bayern, 45:00 clock",
+ "subtitle_style": "Yellow bold text with black outline, centre, wrapped in asterisks: *HAKIMI GOT INJURED*, HE DESERVED A RED CARD, *CHECK VAR*, *RED CARD*; creator watermark 'ADNANEJRT'",
+ "reaction_overlays": "Red circle on scoreboard, REPLAY badge, broken-heart emoji, slow zoom",
+ "transition_summary": "Quick: 7 cuts in 18 s, about 4 cuts per 10 s; hard cuts, replay badge for replay shots",
+ "audio_note": "Song vocal loop ('Ooh, but I just keep on'), no commentary",
+ "reuse_segments": [
+  {
+   "t0": 0,
+   "t1": 18,
+   "what": "PSG v Bayern foul and red card incident",
+   "origin_guess": "broadcast match",
+   "rights_risk": "high",
+   "how_to_reuse": "needs licensed footage; recreate with generated or licensed clips"
+  }
+ ],
+ "frames": [
+  {
+   "idx": 1,
+   "t": 0,
+   "desc": "Wide pitch with score bug PSG 0-2 BAY 45:00 circled red, red circle",
+   "type": "video",
+   "text_on_screen": "PSG 0 2 BAY 45:00",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 2,
+   "t": 2,
+   "desc": "Hakimi lying on grass with medical staff around, caption",
+   "type": "video",
+   "text_on_screen": "HAKIMI",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 3,
+   "t": 4,
+   "desc": "Players around injured Hakimi, caption",
+   "type": "video",
+   "text_on_screen": "*HAKIMI GOT INJURED*",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 4,
+   "t": 6,
+   "desc": "Player in dark PSG shirt arguing with referee in blue, caption",
+   "type": "video",
+   "text_on_screen": "HE DESERVED A RED CARD",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 5,
+   "t": 8,
+   "desc": "Replay: player tackling opponent on ground, ball by foot, REPLAY badge",
+   "type": "video",
+   "text_on_screen": "REPLAY",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 6,
+   "t": 10,
+   "desc": "Replay: player #19 standing over fallen player, REPLAY badge",
+   "type": "video",
+   "text_on_screen": "REPLAY",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 7,
+   "t": 12,
+   "desc": "Referee at pitchside VAR monitor, caption",
+   "type": "video",
+   "text_on_screen": "*CHECK VAR*",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 8,
+   "t": 14,
+   "desc": "Referee showing red card to player in white, caption",
+   "type": "video",
+   "text_on_screen": "*RED CARD*",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 9,
+   "t": 16,
+   "desc": "Black player in dark kit covering face, broken-heart emoji",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "none"
+  }
+ ]
+}

@@ -1,0 +1,506 @@
+{
+ "no": 83,
+ "style": "FLAT-POP",
+ "prop": "coin",
+ "cast": {
+  "official": {
+   "role": "boss",
+   "shirt": "#d52b1e",
+   "hair": "#6b4a2a"
+  },
+  "winger": {
+   "role": "striker",
+   "number": "11",
+   "shirt": "#ffd23f",
+   "hair": "#2b2b3a"
+  }
+ },
+ "sequences": {
+  "s01": {
+   "type": "HOOK",
+   "q": "Is 70 million enough for a winger?",
+   "prop": "coin",
+   "emote": "sweat",
+   "board": "ticket",
+   "role": "boss"
+  },
+  "s02": {
+   "type": "COMIC",
+   "bg": "tunnel",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "official",
+       "x": 285,
+       "y": 1440,
+       "pose": "lean",
+       "emote": "happy",
+       "scale": 1.35,
+       "label": "Bayern patience"
+      }
+     ],
+     "props": [
+      {
+       "kind": "door",
+       "x": 800,
+       "y": 1115,
+       "scale": 3.2,
+       "anim": "pop"
+      },
+      {
+       "kind": "crate",
+       "x": 505,
+       "y": 1350,
+       "scale": 1.6,
+       "label": "70m"
+      },
+      {
+       "kind": "coin",
+       "x": 455,
+       "y": 1235,
+       "scale": 1.0,
+       "anim": "drop"
+      },
+      {
+       "kind": "coin",
+       "x": 555,
+       "y": 1235,
+       "scale": 1.0,
+       "anim": "drop"
+      },
+      {
+       "kind": "coin",
+       "x": 505,
+       "y": 1140,
+       "scale": 1.0,
+       "anim": "drop"
+      },
+      {
+       "kind": "coin",
+       "x": 505,
+       "y": 1045,
+       "scale": 1.0,
+       "anim": "drop"
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.42,
+     "actors": [
+      {
+       "id": "official",
+       "x": 285,
+       "y": 1440,
+       "pose": "shock",
+       "emote": "shock",
+       "scale": 1.35
+      }
+     ],
+     "props": [
+      {
+       "kind": "door",
+       "x": 800,
+       "y": 1115,
+       "scale": 3.2
+      },
+      {
+       "kind": "crate",
+       "x": 505,
+       "y": 1350,
+       "scale": 1.6,
+       "label": "70m"
+      },
+      {
+       "kind": "coin",
+       "x": 505,
+       "y": 1225,
+       "scale": 1.0
+      },
+      {
+       "kind": "coin",
+       "x": 505,
+       "y": 1085,
+       "scale": 1.0
+      },
+      {
+       "kind": "coin",
+       "x": 505,
+       "y": 945,
+       "scale": 1.0
+      },
+      {
+       "kind": "coin",
+       "x": 505,
+       "y": 805,
+       "scale": 1.0
+      }
+     ],
+     "sfx": {
+      "text": "POP",
+      "x": 300,
+      "y": 540,
+      "r": 100
+     }
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.42,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "official",
+       "x": 285,
+       "y": 1440,
+       "pose": "cheer",
+       "emote": "happy",
+       "scale": 1.35
+      }
+     ],
+     "props": [
+      {
+       "kind": "door",
+       "x": 800,
+       "y": 1115,
+       "scale": 3.2
+      },
+      {
+       "kind": "crate",
+       "x": 505,
+       "y": 1350,
+       "scale": 1.6,
+       "label": "70m"
+      },
+      {
+       "kind": "coin",
+       "x": 505,
+       "y": 1225,
+       "scale": 1.1
+      },
+      {
+       "kind": "coin",
+       "x": 505,
+       "y": 1071,
+       "scale": 1.1
+      },
+      {
+       "kind": "coin",
+       "x": 505,
+       "y": 917,
+       "scale": 1.1
+      },
+      {
+       "kind": "coin",
+       "x": 505,
+       "y": 763,
+       "scale": 1.1
+      }
+     ],
+     "cam": "push"
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "official",
+       "x": 285,
+       "y": 1440,
+       "pose": "facepalm",
+       "emote": "sweat",
+       "scale": 1.35
+      },
+      {
+       "id": "winger",
+       "x": 790,
+       "y": 1440,
+       "pose": "wave",
+       "emote": "happy",
+       "scale": 1.35,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "door",
+       "x": 800,
+       "y": 1115,
+       "scale": 3.2,
+       "rot": -6,
+       "face": "happy"
+      },
+      {
+       "kind": "crate",
+       "x": 505,
+       "y": 1350,
+       "scale": 1.6,
+       "label": "70m"
+      },
+      {
+       "kind": "coin",
+       "x": 505,
+       "y": 1225,
+       "scale": 1.1
+      },
+      {
+       "kind": "coin",
+       "x": 505,
+       "y": 1071,
+       "scale": 1.1
+      },
+      {
+       "kind": "coin",
+       "x": 505,
+       "y": 917,
+       "scale": 1.1
+      },
+      {
+       "kind": "coin",
+       "x": 505,
+       "y": 763,
+       "scale": 1.1
+      },
+      {
+       "kind": "tag",
+       "x": 945,
+       "y": 800,
+       "scale": 1.1,
+       "rot": 14,
+       "anim": "drop"
+      }
+     ],
+     "sfx": {
+      "text": "DING",
+      "x": 600,
+      "y": 540,
+      "r": 110
+     }
+    }
+   ]
+  },
+  "s03": {
+   "type": "NEWS",
+   "name": "Rio Ngumoha",
+   "fact": "Seventy million euros is quite a compliment",
+   "ticker": "Left winger hunt",
+   "icons": [
+    "boot",
+    "magnifier",
+    "coin"
+   ],
+   "role": "striker"
+  },
+  "s04": {
+   "type": "COMIC",
+   "bg": "bench-area",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "winger",
+       "x": 790,
+       "y": 1440,
+       "pose": "wave",
+       "emote": "happy",
+       "scale": 1.4,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "chair",
+       "x": 260,
+       "y": 1195,
+       "scale": 2.8,
+       "face": "sad",
+       "anim": "pop"
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.42,
+     "actors": [
+      {
+       "id": "winger",
+       "x": 790,
+       "y": 1440,
+       "pose": "point",
+       "emote": "smug",
+       "scale": 1.4,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "chair",
+       "x": 260,
+       "y": 1195,
+       "scale": 2.8,
+       "face": "sad"
+      },
+      {
+       "kind": "hourglass",
+       "x": 260,
+       "y": 610,
+       "scale": 1.5,
+       "anim": "pulse"
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.42,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "winger",
+       "x": 790,
+       "y": 1440,
+       "pose": "shrug",
+       "emote": "sweat",
+       "scale": 1.4,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "chair",
+       "x": 260,
+       "y": 1195,
+       "scale": 2.8,
+       "face": "sleepy"
+      },
+      {
+       "kind": "hourglass",
+       "x": 260,
+       "y": 610,
+       "scale": 1.7,
+       "rot": 12,
+       "anim": "pulse"
+      }
+     ],
+     "sfx": {
+      "text": "CREAK",
+      "x": 540,
+      "y": 560,
+      "r": 90
+     },
+     "cam": "push"
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "winger",
+       "x": 790,
+       "y": 1440,
+       "pose": "thumbsup",
+       "emote": "smug",
+       "scale": 1.4,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "chair",
+       "x": 260,
+       "y": 1195,
+       "scale": 2.8,
+       "face": "smug"
+      },
+      {
+       "kind": "hourglass",
+       "x": 260,
+       "y": 610,
+       "scale": 1.5
+      },
+      {
+       "kind": "tag",
+       "x": 260,
+       "y": 1010,
+       "scale": 1.2,
+       "rot": -8,
+       "anim": "drop"
+      },
+      {
+       "kind": "coin",
+       "x": 260,
+       "y": 1260,
+       "scale": 0.9,
+       "anim": "drop"
+      }
+     ],
+     "sfx": {
+      "text": "DING",
+      "x": 540,
+      "y": 560,
+      "r": 100
+     }
+    }
+   ]
+  },
+  "s05": {
+   "type": "INTERVIEW",
+   "label": "REPORTER ASKS",
+   "bubble": "Liverpool have no plans to sell",
+   "answer": {
+    "icon": "calendar",
+    "gesture": "shrug",
+    "emote": "smug"
+   },
+   "subject": "Rio Ngumoha",
+   "subject_role": "striker",
+   "reporter_role": "reporter"
+  },
+  "s06": {
+   "type": "PROVOC",
+   "q": "Transfer window or waiting room?",
+   "a": "Window",
+   "b": "Waiting room",
+   "split": [
+    27,
+    73
+   ],
+   "mood": "sleepy"
+  },
+  "s07": {
+   "type": "STATS",
+   "items": [
+    {
+     "icon": "coin",
+     "value": "70",
+     "suffix": "m",
+     "label": "70m then Saibari"
+    },
+    {
+     "icon": "calendar",
+     "value": "18",
+     "label": "eighteen-year-old"
+    }
+   ]
+  }
+ }
+}

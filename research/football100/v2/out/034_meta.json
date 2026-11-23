@@ -1,0 +1,103 @@
+{
+ "no": 34,
+ "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/034_real_madrid_expected_to_trigger_eur.mp4",
+ "total": 43.8,
+ "outro_start": 38.29,
+ "cover": true,
+ "seq": [
+  {
+   "id": "s01",
+   "kind": "HOOK",
+   "start": 0.1,
+   "end": 1.6,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/034/s01.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s02",
+   "kind": "COMIC1",
+   "start": 3.2666666666666666,
+   "end": 5.533333333333333,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/034/s02.mp4",
+   "clip_dur": 2.267,
+   "frames": 54
+  },
+  {
+   "id": "s03",
+   "kind": "COMIC2",
+   "start": 8.666666666666666,
+   "end": 11.433333333333334,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/034/s03.mp4",
+   "clip_dur": 2.767,
+   "frames": 66
+  },
+  {
+   "id": "s04",
+   "kind": "NEWS",
+   "start": 13.6,
+   "end": 15.366666666666667,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/034/s04.mp4",
+   "clip_dur": 1.766,
+   "frames": 42
+  },
+  {
+   "id": "s05",
+   "kind": "INTERVIEW",
+   "start": 17.6,
+   "end": 19.366666666666667,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/034/s05.mp4",
+   "clip_dur": 1.767,
+   "frames": 42
+  },
+  {
+   "id": "s06",
+   "kind": "STATS",
+   "start": 25.333333333333332,
+   "end": 26.833333333333332,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/034/s06.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s07",
+   "kind": "PROVOC",
+   "start": 32.86666666666667,
+   "end": 34.36666666666667,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/034/s07.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  }
+ ],
+ "missing": [],
+ "dropped": [],
+ "cards": [
+  {
+   "text": "Unconfirmed",
+   "a": 15.733333333333333,
+   "b": 17.466666666666665
+  },
+  {
+   "text": "6 goals, 8 assists",
+   "a": 21.733333333333334,
+   "b": 23.933333333333334
+  },
+  {
+   "text": "Fabregas's problem",
+   "a": 29.0,
+   "b": 31.2
+  }
+ ],
+ "caption_sprites": 118,
+ "whoosh": [
+  0.0,
+  3.1666666666666665,
+  8.566666666666666,
+  13.5,
+  17.5,
+  25.23333333333333,
+  32.766666666666666,
+  38.19
+ ],
+ "shots": 13
+}

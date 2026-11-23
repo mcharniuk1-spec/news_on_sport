@@ -1,0 +1,631 @@
+[
+  {
+    "headline": "Pulisic signs new Milan deal through 2031",
+    "date": "2026-10-30",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50308383/usmnt-star-christian-pulisic-signs-new-ac-milan-contract",
+    "entities": ["Christian Pulisic", "AC Milan", "Ruben Amorim", "USMNT"],
+    "facts": [
+      "Pulisic, 28, re-signed with Milan through 2031; his old deal ran to June 2027.",
+      "He has 44 goals and 28 assists in 141 Milan games since joining from Chelsea in 2023 for about 22 million euros.",
+      "He called Milan home and the new deal came a day after the club announced its new stadium plans."
+    ],
+    "background": "Pulisic went from Dortmund to Chelsea in 2018 for 58 million pounds, won the 2021 Champions League there, but injuries dogged his time in London before he moved to Milan in 2023.",
+    "angle": "business",
+    "sensitive": false,
+    "footage_terms": ["Pulisic AC Milan goals 2026", "Pulisic new contract Milan interview", "AC Milan Pulisic highlights Serie A"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Milan beat Inter 3-1 in the derby, Moreira runs the show",
+    "date": "2026-10-31",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/report/_/gameId/401874795",
+    "entities": ["AC Milan", "Inter", "Christian Pulisic", "Adrien Rabiot", "Diego Moreira", "Alessandro Bastoni", "Mike Maignan"],
+    "facts": [
+      "Milan won the San Siro derby 3-1 on 31 October with goals from Pulisic (4th minute), Rabiot (10th) and Moreira (43rd).",
+      "Moreira also gave two assists, including the corner for Rabiot; Bastoni scored Inter's only goal.",
+      "The win ended Inter's nine-match unbeaten league run, stretched Milan's derby unbeaten run to five, and put Lazio top of the table."
+    ],
+    "background": "Inter are the reigning Italian champions, and the Milan derby is shared by both clubs at the San Siro, which is due to be replaced by a new stadium.",
+    "angle": "win",
+    "sensitive": false,
+    "footage_terms": ["Milan 3-1 Inter highlights derby 2026", "Moreira Milan derby assist", "Milan Inter Derby della Madonnina highlights Pulisic goal"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Milan and Inter sell stadium naming rights to Generali for 650 million euros",
+    "date": "2026-10-29",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50317859/milan-inter-new-stadium-generali-naming-rights-new-san-siro",
+    "entities": ["AC Milan", "Inter", "Generali", "San Siro", "RedBird Capital Partners", "Oaktree", "Foster+Partners"],
+    "facts": [
+      "Sources told ESPN the Generali naming deal is worth 650 million euros (725 million dollars) over 20 years.",
+      "The new Generali Stadium will seat 71,500 and be built on the site of the current San Siro, which the clubs bought for 197 million euros last November.",
+      "Construction is expected to start in 2028 with a first match targeted for 2031-32, subject to approvals."
+    ],
+    "background": "San Siro opened in 1926 and has been shared by Milan and Inter for decades; the clubs spent years fighting over whether to demolish it.",
+    "angle": "business",
+    "sensitive": false,
+    "footage_terms": ["new San Siro stadium design Foster Partners", "Generali Stadium Milan Inter render", "San Siro demolition new stadium announcement"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Bologna stun Milan 4-2 as Mbangula hits a hat-trick",
+    "date": "2026-10-28",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/report/_/gameId/401874993",
+    "entities": ["AC Milan", "Bologna", "Samuel Mbangula", "Ruben Amorim", "Raffaele Palladino"],
+    "facts": [
+      "Bologna won 4-2 at San Siro; Mbangula scored three (8th, 62nd, 86th minutes) and Milan's Bartesaghi added an own goal.",
+      "It was Milan's first league loss of the season and Ruben Amorim's first Serie A defeat as Milan coach.",
+      "It was Bologna's first Serie A win at San Siro in more than ten years; Alphadjo Cisse scored twice for Milan."
+    ],
+    "background": "Amorim arrived at Milan after a difficult spell at Manchester United and was working to turn Milan into a title contender.",
+    "angle": "record",
+    "sensitive": false,
+    "footage_terms": ["Milan Bologna 2-4 highlights Mbangula hat-trick", "Mbangula hat trick San Siro", "Amorim press conference after Bologna loss"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Maignan sent off as Bournemouth thrash Milan 3-0 in Europa League",
+    "date": "2026-10-22",
+    "source_domain": "skysports.com",
+    "url": "https://www.skysports.com/football/bmouth-vs-ac-milan/report/577779",
+    "entities": ["AC Milan", "AFC Bournemouth", "Mike Maignan", "Justin Kluivert", "Ruben Amorim", "Marco Rose"],
+    "facts": [
+      "Bournemouth won 3-0 at the Vitality Stadium: Kluivert and Tavernier scored penalties, and Adli added a free-kick in the 84th minute.",
+      "Milan keeper Mike Maignan was sent off for pushing Tyler Adams in the face, the first Milan goalkeeper sent off in a major European game according to Sky.",
+      "Kluivert scored 31 years after his father Patrick scored Milan's winner in the 1995 Champions League final."
+    ],
+    "background": "Milan are a seven-time European champion club, while this was Bournemouth's first-ever European campaign.",
+    "angle": "viral",
+    "sensitive": false,
+    "footage_terms": ["Bournemouth 3-0 Milan highlights Europa League", "Maignan red card Tyler Adams", "Kluivert penalty Bournemouth Milan"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Amorim says Milan were not mentally ready after 2-0 home loss to Ferencvaros",
+    "date": "2026-11-05",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50393432/ruben-amorim-ac-milan-ferencvaros-uefa-europa-league",
+    "entities": ["AC Milan", "Ferencvaros", "Ruben Amorim", "Christian Pulisic", "Lenny Joseph"],
+    "facts": [
+      "Ferencvaros won 2-0 at San Siro in the Europa League with two goals from Lenny Joseph; Milan had a man advantage from the 77th minute and could not use it.",
+      "Milan have lost three of four Europa League games, have three points and sit 28th in the league phase table.",
+      "Amorim said the team was not mentally ready, admitted he may have made mistakes before the game, and said Milan cannot yet compete in Serie A and Europe at once."
+    ],
+    "background": "Amorim arrived at Milan after a hard spell as Manchester United coach, and Milan are now juggling Serie A and the Europa League.",
+    "angle": "coach",
+    "sensitive": false,
+    "footage_terms": ["Milan Ferencvaros 0-2 highlights", "Amorim post match press conference Ferencvaros", "Lenny Joseph goals Milan"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Milan owner Cardinale confirms talks over Ronaldo's Al Nassr",
+    "date": "2026-10-30",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50326867/ac-milan-gerry-cardinale-buying-cristiano-ronaldo-al-nassr",
+    "entities": ["Gerry Cardinale", "RedBird Capital Partners", "AC Milan", "Al Nassr", "Cristiano Ronaldo"],
+    "facts": [
+      "Cardinale told Gazzetta dello Sport that discussions have taken place about RedBird buying Al Nassr, calling the process preliminary.",
+      "Reports say Ronaldo, 41, could become a part-owner; his Al Nassr deal runs to June 2027.",
+      "Cardinale said he would like to meet Ronaldo to hear his plans after retirement."
+    ],
+    "background": "RedBird bought 85 percent of Toulouse in 2020 and completed its purchase of Milan two years later; Al Nassr is owned by Saudi Arabia's Public Investment Fund.",
+    "angle": "business",
+    "sensitive": false,
+    "footage_terms": ["Cardinale RedBird Milan interview", "Ronaldo Al Nassr ownership RedBird", "Gerry Cardinale Al Nassr takeover"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Milan reportedly ready to sell Estupinan and Loftus-Cheek in January",
+    "date": "2026-11-20",
+    "source_domain": "football-italia.net",
+    "url": "https://football-italia.net/milan-ready-to-sell-estupinan-and-loftus-cheek/",
+    "entities": ["AC Milan", "Pervis Estupinan", "Ruben Loftus-Cheek", "Francesco Camarda", "Ruben Amorim"],
+    "facts": [
+      "A report relayed by Football Italia says Estupinan is expected to leave in January and Aston Villa are no longer interested.",
+      "Loftus-Cheek is also expected to be sold; his contract ends this season and injuries are cited.",
+      "Camarda and Christian Comotto are reportedly set to be loaned out for playing time."
+    ],
+    "background": "Estupinan was expected to leave Milan in the summer for Aston Villa, but the move did not happen, so he stayed in Amorim's squad.",
+    "angle": "transfer",
+    "sensitive": false,
+    "footage_terms": ["Estupinan Milan highlights", "Loftus-Cheek Milan goal", "Camarda Milan loan January"],
+    "confidence": "low"
+  },
+  {
+    "headline": "Mourinho wants to keep Endrick as Milan and Roma circle",
+    "date": "2026-11-20",
+    "source_domain": "football-italia.net",
+    "url": "https://football-italia.net/mourinho-makes-endrick-stance-clear/",
+    "entities": ["Endrick", "Jose Mourinho", "Real Madrid", "AC Milan", "AS Roma"],
+    "facts": [
+      "Milan are reportedly ready to invest 60 million euros for Endrick, while Roma are interested only on loan.",
+      "Mourinho said Real Madrid matters much more than Endrick, but accepted that the club's leaders will decide.",
+      "Milan are also linked with Club Brugge's Nicolo Tresoldi and Stuttgart's Ermedin Demirovic as alternatives."
+    ],
+    "background": "Endrick moved to Real Madrid as a teenage Brazilian prodigy in 2024; he is 20 and has played seven times this season, scoring once.",
+    "angle": "transfer",
+    "sensitive": false,
+    "footage_terms": ["Endrick Real Madrid goals 2026", "Endrick Milan transfer", "Mourinho Real Madrid press conference Endrick"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Lautaro Martinez to miss about seven games with a hamstring strain",
+    "date": "2026-10-16",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50196980/inter-milan-lautaro-martinez-injury-serie-a",
+    "entities": ["Lautaro Martinez", "Inter", "Cristian Chivu", "Club Brugge"],
+    "facts": [
+      "Tests showed a strain in Lautaro's left hamstring; he was expected to miss seven games including the derby on 31 October.",
+      "He scored twice in Inter's 4-3 home defeat to Club Brugge in the Champions League on 13 October.",
+      "He had six goals in seven games across Serie A and the Champions League this season, and a return was expected around Inter's trip to Atalanta on 22 November."
+    ],
+    "background": "Lautaro is Inter's captain and has led their attack for years; Inter are the reigning Serie A champions under coach Cristian Chivu.",
+    "angle": "coach",
+    "sensitive": true,
+    "footage_terms": ["Lautaro Martinez goals Inter 2026", "Inter Club Brugge 3-4 highlights", "Chivu press conference Lautaro injury"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Spence finally makes Inter debut as a late substitute against Parma",
+    "date": "2026-10-12",
+    "source_domain": "skysports.com",
+    "url": "https://www.skysports.com/football/news/13593881/anthony-gordons-first-barcelona-goal-manuel-neuers-mistake-and-djed-spences-inter-debut-in-the-euro-debrief",
+    "entities": ["Djed Spence", "Inter", "Cristian Chivu", "Parma", "Tottenham Hotspur"],
+    "facts": [
+      "Spence came on in the second half of Inter's 3-0 win over Parma, after the result was already safe.",
+      "Inter had signed him from Tottenham for 30 million pounds nearly two months before his debut; he had been out since the World Cup.",
+      "Coach Chivu warned fans not to expect too much because Spence had trained with the group for only a week."
+    ],
+    "background": "Spence is an England defender who played for Tottenham before this summer's move to Inter.",
+    "angle": "transfer",
+    "sensitive": true,
+    "footage_terms": ["Djed Spence Inter debut Parma", "Inter 3-0 Parma highlights", "Spence Inter first game Chivu"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Curtis Jones says Serie A is not slow, it is just opponents parking the bus",
+    "date": "2026-10-24",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50265302/curtis-jones-serie-slow-inter-liverpool",
+    "entities": ["Curtis Jones", "Inter", "Liverpool", "Serie A"],
+    "facts": [
+      "Jones, 25, joined Inter from Liverpool in the summer and has settled well.",
+      "He told DAZN he only partly agrees that Serie A is slow and low quality, saying the biggest teams face low blocks in England too.",
+      "He compared Milan and Liverpool fans and said that made choosing Inter easy."
+    ],
+    "background": "Jones came through Liverpool's academy; Inter signed him for about 30 million pounds with a sell-on clause, according to Sky Sports.",
+    "angle": "viral",
+    "sensitive": false,
+    "footage_terms": ["Curtis Jones Inter goals", "Curtis Jones Inter interview DAZN", "Curtis Jones Liverpool to Inter"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Inter beat Como 2-0 to trail Lazio by one point",
+    "date": "2026-11-08",
+    "source_domain": "skysports.com",
+    "url": "https://www.skysports.com/football/news/13607213/harry-kane-is-bayern-munichs-assist-king-barcelona-win-at-atletico-madrid-and-inter-close-gap-on-lazio-all-in-the-euro-debrief",
+    "entities": ["Inter", "Como", "Pio Esposito", "Marcus Thuram", "Lazio", "Cesc Fabregas"],
+    "facts": [
+      "Inter beat Como 2-0 at San Siro with early goals from Pio Esposito (12th minute) and Marcus Thuram (19th).",
+      "Como, coached by Cesc Fabregas, had 57 percent possession but only one shot on target, per ESPN match data.",
+      "The win left Inter one point behind leaders Lazio."
+    ],
+    "background": "Inter are the reigning Italian champions, while Lazio lead the table this season after a strong start.",
+    "angle": "win",
+    "sensitive": false,
+    "footage_terms": ["Inter 2-0 Como highlights", "Pio Esposito goal Como", "Inter Como Serie A Thuram goal"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Bastoni reportedly on Chelsea's radar as Barcelona hesitate over 80 million euros",
+    "date": "2026-11-17",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50508862/transfer-rumors-news-manchester-united-newcastle-malick-thiaw",
+    "entities": ["Alessandro Bastoni", "Inter", "Chelsea", "Barcelona"],
+    "facts": [
+      "TEAMtalk reports Bastoni's representatives have contacted Chelsea, who are described as his most likely Premier League destination.",
+      "Barcelona's interest is reportedly uncertain at a fee of about 80 million euros.",
+      "ESPN presents these as reported claims, not confirmed deals."
+    ],
+    "background": "Bastoni is one of the best left-sided centre-backs in Europe and scored Inter's only goal in the 3-1 derby loss to Milan on 31 October.",
+    "angle": "transfer",
+    "sensitive": false,
+    "footage_terms": ["Alessandro Bastoni Inter best moments", "Bastoni Chelsea transfer", "Bastoni goal Milan derby"],
+    "confidence": "low"
+  },
+  {
+    "headline": "Inter eye Lazio's Provstgaard as John Stones struggles with fitness",
+    "date": "2026-11-19",
+    "source_domain": "football-italia.net",
+    "url": "https://football-italia.net/inter-eye-deal-lazio-defender-stones-struggles/",
+    "entities": ["Inter", "Oliver Provstgaard", "John Stones", "Lazio"],
+    "facts": [
+      "La Gazzetta dello Sport reports Inter are interested in Lazio defender Oliver Provstgaard, 23, whom Lazio value at about 40 million euros.",
+      "Inter could only afford that fee at the end of the season, not in January.",
+      "Stones has made four appearances this season after a thigh strain in mid-September and has just returned to training."
+    ],
+    "background": "Inter signed England defender John Stones this summer after he agreed terms in July while Arsenal and Chelsea were also interested.",
+    "angle": "transfer",
+    "sensitive": true,
+    "footage_terms": ["Provstgaard Lazio defender highlights", "John Stones Inter debut", "Provstgaard Denmark goal"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Marcus Thuram leaves France camp with hamstring injury after scoring against Como",
+    "date": "2026-11-10",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50446771/france-thuram-tchouameni-leave-squad-injuries",
+    "entities": ["Marcus Thuram", "Inter", "France", "Junior Kroupi", "Aurelien Tchouameni"],
+    "facts": [
+      "Thuram was ruled out of France's Nations League games with a hamstring injury picked up in the 2-0 win over Como after he scored.",
+      "France staff sent him back to Inter and called up Bournemouth's Junior Kroupi.",
+      "Football Italia reported on 19 November that Thuram is expected to be available for Inter's trip to Atalanta."
+    ],
+    "background": "Marcus Thuram is the son of France World Cup winner Lilian Thuram and has been a key part of Inter's attack since 2023.",
+    "angle": "coach",
+    "sensitive": true,
+    "footage_terms": ["Marcus Thuram Inter goals 2026", "Thuram France Nations League", "Inter Atalanta preview Chivu"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Conte explains why he joined Inter and why he walked out",
+    "date": "2026-11-19",
+    "source_domain": "football-italia.net",
+    "url": "https://football-italia.net/conte-explains-why-he-joined-and-left-inter/",
+    "entities": ["Antonio Conte", "Inter", "Juventus", "Beppe Marotta", "Romelu Lukaku", "Achraf Hakimi"],
+    "facts": [
+      "In teasers from a Cronache di Spogliatoio interview, Conte says Marotta and Steven Zhang asked him to end Inter's title drought and challenge Juventus.",
+      "He says Juventus hiring Maurizio Sarri pushed him towards Inter in 2019.",
+      "After winning the 2020-21 title he says he was told almost any player could be sold; Lukaku and Hakimi left the following window, and he says he would like to return to Juventus one day."
+    ],
+    "background": "Conte won three Serie A titles with Juventus as coach, then won Inter's first title in eleven years in 2020-21 before leaving.",
+    "angle": "history",
+    "sensitive": false,
+    "footage_terms": ["Antonio Conte Inter title celebration 2021", "Conte Juventus return interview", "Lukaku Hakimi sold Inter 2021"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Juventus beat 10-man Napoli 2-0 with Alajbegovic and Boga strikes",
+    "date": "2026-11-01",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/report/_/gameId/401874949",
+    "entities": ["Juventus", "Napoli", "Kerim Alajbegovic", "Jeremie Boga", "Luca Marianucci", "Luciano Spalletti"],
+    "facts": [
+      "Juventus won 2-0 at the Allianz Stadium on 1 November through Kerim Alajbegovic (70th minute) and Jeremie Boga (87th).",
+      "Napoli's Luca Marianucci was sent off in the 75th minute for a second yellow card.",
+      "Juve had won only one of their previous four league games and were jeered by their own fans in the second half; the win eased pressure on Luciano Spalletti."
+    ],
+    "background": "Napoli won the 2024-25 Serie A title but were stuck in the lower half of the table this season.",
+    "angle": "win",
+    "sensitive": false,
+    "footage_terms": ["Juventus 2-0 Napoli highlights Alajbegovic", "Alajbegovic goal Napoli Juventus", "Boga goal Juventus Napoli"],
+    "confidence": "high"
+  },
+  {
+    "headline": "McKennie ends 13-game goal drought as Juventus win at Lecce",
+    "date": "2026-10-25",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/report/_/gameId/401874772",
+    "entities": ["Weston McKennie", "Juventus", "Lecce", "Douglas Luiz", "Luciano Spalletti"],
+    "facts": [
+      "Juventus won 2-0 at Lecce on 25 October; McKennie scored in the 29th minute and Douglas Luiz in the 41st.",
+      "It was McKennie's first Serie A goal of the season and his first for Juventus in any competition since April, ending a 13-game drought.",
+      "Fans had booed the team after a 2-2 Europa League draw with Rennes earlier that week."
+    ],
+    "background": "McKennie is an American midfielder who has played for Juventus since 2020 and has a contract to June 2030.",
+    "angle": "viral",
+    "sensitive": false,
+    "footage_terms": ["McKennie goal Lecce Juventus", "Lecce 0-2 Juventus highlights", "Juventus McKennie free kick goal"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Juventus draw 2-2 at Fiorentina after coming from behind twice",
+    "date": "2026-11-08",
+    "source_domain": "skysports.com",
+    "url": "https://www.skysports.com/football/news/13607213/harry-kane-is-bayern-munichs-assist-king-barcelona-win-at-atletico-madrid-and-inter-close-gap-on-lazio-all-in-the-euro-debrief",
+    "entities": ["Juventus", "Fiorentina", "Nick Woltemade", "Bremer", "Luciano Spalletti"],
+    "facts": [
+      "Juventus drew 2-2 at Fiorentina on 8 November after trailing twice; Woltemade and Bremer scored for Juve.",
+      "Sky says Juventus stayed six points behind the top four after the draw.",
+      "Football Italia lists Juve seventh with 18 points, 11 behind leaders Lazio."
+    ],
+    "background": "Juventus last won the Scudetto in 2020 and Luciano Spalletti is the coach trying to bring them back to the top.",
+    "angle": "coach",
+    "sensitive": false,
+    "footage_terms": ["Fiorentina 2-2 Juventus highlights", "Bremer goal Fiorentina Juventus", "Woltemade goal Juventus"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Juventus plan January striker with Balogun and Sesko on the list",
+    "date": "2026-11-17",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50508862/transfer-rumors-news-manchester-united-newcastle-malick-thiaw",
+    "entities": ["Juventus", "AC Milan", "Folarin Balogun", "Jorge Mendes", "Benjamin Sesko", "Monaco"],
+    "facts": [
+      "Calciomercato reports Balogun has been offered to both Milan and Juventus, with agent Jorge Mendes contacting the clubs.",
+      "A 40 million euro move to Everton for Balogun collapsed at the end of the last window; he is under contract at Monaco until June 2028.",
+      "A 4 November ESPN roundup said Juventus are also weighing Manchester United's Benjamin Sesko and plan to sign a striker in January with about 100 million euros available."
+    ],
+    "background": "Balogun, 25, is an American-born England-raised striker who plays for the USMNT and has played for Arsenal, Reims and Monaco.",
+    "angle": "transfer",
+    "sensitive": false,
+    "footage_terms": ["Folarin Balogun Monaco goals 2026", "Balogun USMNT goals", "Benjamin Sesko Manchester United goals"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Juventus and Napoli eye Manchester United's Zirkzee in January",
+    "date": "2026-11-19",
+    "source_domain": "football-italia.net",
+    "url": "https://football-italia.net/juventus-and-napoli-eye-january-move-zirkzee/",
+    "entities": ["Joshua Zirkzee", "Manchester United", "Juventus", "Napoli", "Frederic Massara", "Mauricio Pochettino"],
+    "facts": [
+      "Football Italia, citing Fabrizio Romano via IlNapolista, says Juventus and Napoli are considering a January move for Zirkzee.",
+      "Zirkzee has scored twice in ten appearances this season and Mauricio Pochettino replaced Michael Carrick as United manager the week before.",
+      "Juventus executive Frederic Massara is described as a key advocate; Bologna and Genoa are considering a loan."
+    ],
+    "background": "Manchester United signed Zirkzee from Bologna for more than 40 million euros about two and a half years ago.",
+    "angle": "transfer",
+    "sensitive": false,
+    "footage_terms": ["Joshua Zirkzee Manchester United goals", "Zirkzee Bologna best goals", "Pochettino Manchester United press conference"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Juventus lead the chase for Lazio midfielder Kenneth Taylor",
+    "date": "2026-11-20",
+    "source_domain": "football-italia.net",
+    "url": "https://football-italia.net/juventus-newcastle-chasing-lazios-taylor/",
+    "entities": ["Kenneth Taylor", "Lazio", "Juventus", "Newcastle United", "Bournemouth", "Brentford"],
+    "facts": [
+      "Tuttosport says Juventus are by far the most interested club in Taylor; Newcastle, Bournemouth and Brentford are also reported to be interested.",
+      "Lazio could get around 40 million euros, having paid 17 million including bonuses to sign him from Ajax less than a year ago.",
+      "Lazio do not want to sell key players in January, according to Tuttosport."
+    ],
+    "background": "Taylor is a 24-year-old Dutch international who has started every Lazio match this season for the team leading Serie A.",
+    "angle": "transfer",
+    "sensitive": false,
+    "footage_terms": ["Kenneth Taylor Lazio goals", "Kenneth Taylor Ajax highlights", "Lazio Taylor Juventus transfer"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Chelsea reportedly watch Juventus teenager Alajbegovic",
+    "date": "2026-11-16",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50499498/transfer-rumors-news-usmnt-pochettino-mckennie-man-united",
+    "entities": ["Kerim Alajbegovic", "Juventus", "Chelsea"],
+    "facts": [
+      "La Gazzetta dello Sport reports Chelsea are tracking Alajbegovic, 19, having come close to signing him before his summer move to Juventus.",
+      "Juventus are determined to resist any approach; his contract runs to 2031 and no formal negotiations have taken place.",
+      "He scored in Juventus's 2-0 win over Napoli on 1 November."
+    ],
+    "background": "Alajbegovic is a young Bosnian attacking midfielder who moved to Juventus this summer.",
+    "angle": "transfer",
+    "sensitive": false,
+    "footage_terms": ["Alajbegovic goal Juventus Napoli", "Kerim Alajbegovic skills highlights", "Alajbegovic Juventus debut"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Manchester United reportedly interested in Juventus midfielder McKennie",
+    "date": "2026-11-16",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50499498/transfer-rumors-news-usmnt-pochettino-mckennie-man-united",
+    "entities": ["Weston McKennie", "Manchester United", "Juventus", "Luciano Spalletti", "Mauricio Pochettino"],
+    "facts": [
+      "La Gazzetta dello Sport (15 November) reports Manchester United are interested in McKennie.",
+      "Juventus see him as central to Spalletti's plans and are reluctant to sanction a January exit; his contract runs to June 2030.",
+      "No fee was mentioned in the report."
+    ],
+    "background": "McKennie ended a 13-game goal drought at Lecce last month and is one of the USMNT's key players.",
+    "angle": "transfer",
+    "sensitive": false,
+    "footage_terms": ["Weston McKennie goals Juventus", "McKennie USMNT highlights", "McKennie Manchester United transfer"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Allegri accepts two-match ban for insulting officials after Napoli draw with Roma",
+    "date": "2026-10-27",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50299199/napoli-coach-massimiliano-allegri-not-appeal-touchline-ban",
+    "entities": ["Massimiliano Allegri", "Napoli", "AS Roma", "Juventus", "Leonardo Balerdi"],
+    "facts": [
+      "Allegri, 59, was cited for an abusive remark toward match officials after being sent off late in the 3-3 draw with Roma.",
+      "He got a two-match ban and a 10,000 euro fine, and chose not to appeal after Napoli first said they would.",
+      "He missed the games at Monza and at his former club Juventus; Napoli had won three of eight league games and trailed Inter by 11 points."
+    ],
+    "background": "Allegri won five straight Serie A titles with Juventus, was sacked by the club in 2024, and is now trying to fix Napoli's league form.",
+    "angle": "scandal",
+    "sensitive": false,
+    "footage_terms": ["Allegri red card Napoli Roma", "Allegri angry touchline Napoli", "Napoli Roma 3-3 highlights Allegri sent off"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Napoli and Roma draw 3-3 in the Derby del Sole with last-minute Balerdi header",
+    "date": "2026-10-24",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50267803/napoli-scott-mctominay-bags-brace-derby-day-thriller-roma",
+    "entities": ["Napoli", "AS Roma", "Scott McTominay", "Frank Anguissa", "Leonardo Balerdi", "Matias Soule"],
+    "facts": [
+      "Napoli led through an Anguissa overhead kick and a McTominay brace, but Roma fought back twice.",
+      "Soule and Balerdi scored for Roma, and Balerdi added a stoppage-time header for the 3-3 draw.",
+      "Napoli's league start stuttered further after the draw."
+    ],
+    "background": "The Derby del Sole is the Naples-Rome rivalry, and Napoli are the former champions with Scott McTominay as a major signing from Manchester United.",
+    "angle": "viral",
+    "sensitive": false,
+    "footage_terms": ["Napoli Roma 3-3 highlights", "McTominay goal Napoli Roma", "Anguissa overhead kick Roma"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "McTominay's brace gives Napoli a 4-3 win over Bodo/Glimt",
+    "date": "2026-10-20",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50232187/scott-mctominay-scores-ly-brace-napoli-overcome-bodo-glimt",
+    "entities": ["Napoli", "Bodo/Glimt", "Scott McTominay", "Matteo Politano", "Massimiliano Allegri"],
+    "facts": [
+      "Napoli won the Champions League game 4-3: Politano scored in the first minute, McTominay twice, and Bjortuft put one in his own net.",
+      "Bodo/Glimt scored through Hauge, Helmersen and Fet, the last deep in added time.",
+      "It was Napoli's first Champions League win of the season after losses to Arsenal and Villarreal, and McTominay's first goals since heart surgery in September."
+    ],
+    "background": "Napoli had lost three of their first seven Serie A games, which put pressure on coach Massimiliano Allegri.",
+    "angle": "win",
+    "sensitive": false,
+    "footage_terms": ["Napoli Bodo Glimt 4-3 highlights", "McTominay brace Bodo Glimt", "Napoli Champions League 2026 highlights"],
+    "confidence": "high"
+  },
+  {
+    "headline": "McTominay reveals Scotland hid a heart shock before the World Cup opener",
+    "date": "2026-11-10",
+    "source_domain": "skysports.com",
+    "url": "https://www.skysports.com/football/news/13610728/scott-mctominay-scotland-midfielder-had-heart-shocked-two-days-before-world-cup-opener-against-haiti",
+    "entities": ["Scott McTominay", "Napoli", "Scotland", "Sebastien Pocognoli"],
+    "facts": [
+      "McTominay said he had a mild, benign heart arrhythmia, and needed his heart shocked two days before Scotland's World Cup opener against Haiti.",
+      "The Scotland camp said at the time that he missed training with a stomach complaint.",
+      "He had a cardiac ablation in Manchester in September, scored four goals after returning to Napoli, and is back in the Scotland squad."
+    ],
+    "background": "McTominay left Manchester United for Napoli in 2024 and was Serie A's Player of the Year in his first season there.",
+    "angle": "viral",
+    "sensitive": true,
+    "footage_terms": ["McTominay Scotland World Cup 2026 Haiti", "McTominay interview heart procedure", "McTominay Napoli goals 2026"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Napoli goalkeeper Meret out with a fractured vertebra before Torino game",
+    "date": "2026-11-19",
+    "source_domain": "football-italia.net",
+    "url": "https://football-italia.net/napoli-lose-meret-to-back-fracture/",
+    "entities": ["Alex Meret", "Napoli", "Vanja Milinkovic-Savic", "Torino"],
+    "facts": [
+      "Napoli confirmed a fracture to Meret's fifth lumbar vertebra, suffered in training, with no timescale for his return.",
+      "Vanja Milinkovic-Savic, who started against Lazio before the international break, is expected to keep his place.",
+      "Napoli host Torino on Saturday and are 10th with 15 points, 14 behind leaders Lazio."
+    ],
+    "background": "Meret has been one of Napoli's keepers through several coaching changes since joining in 2018.",
+    "angle": "coach",
+    "sensitive": true,
+    "footage_terms": ["Alex Meret Napoli saves", "Milinkovic-Savic Napoli Lazio saves", "Napoli Torino preview"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Napoli reportedly want 7 million euros for De Bruyne, PSV say no",
+    "date": "2026-11-20",
+    "source_domain": "football-italia.net",
+    "url": "https://football-italia.net/psv-stance-revealed-de-bruyne-7m-request/",
+    "entities": ["Kevin De Bruyne", "Napoli", "PSV Eindhoven", "La Gazzetta dello Sport", "De Telegraaf"],
+    "facts": [
+      "La Gazzetta reports Napoli set a 7 million euro price for De Bruyne; De Telegraaf says PSV will not pay it and reportedly saw a 2 million euro opening offer rejected.",
+      "De Bruyne, 35, is in the last year of a two-year deal after leaving Manchester City on a free transfer in 2025, and Napoli reportedly will not use a 12-month extension option.",
+      "Napoli are 10th in Serie A and at risk of missing the Champions League knockout rounds."
+    ],
+    "background": "De Bruyne won six Premier League titles and the 2023 Champions League with Manchester City and started his career at Genk; he played for Wolfsburg before City.",
+    "angle": "transfer",
+    "sensitive": false,
+    "footage_terms": ["Kevin De Bruyne Napoli goals", "De Bruyne PSV return", "De Bruyne Napoli Frosinone double"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Monza striker Gustavo Varela leads Serie A scoring and has Juventus and Napoli chasing",
+    "date": "2026-11-19",
+    "source_domain": "football-italia.net",
+    "url": "https://football-italia.net/gustavo-varela-why-juventus-arsenal-liverpool/",
+    "entities": ["Gustavo Varela", "Monza", "Juventus", "Napoli", "Tottenham", "Liverpool", "Arsenal"],
+    "facts": [
+      "Varela leads Serie A with 9 league goals, 11 in all competitions, for a Monza side in the relegation zone.",
+      "He earned his first senior Portugal call-up in November 2026; a year ago he was on loan at Gil Vicente.",
+      "Tottenham have enquired, Liverpool are watching him, and Juventus and Napoli want him in January to avoid a summer bidding war."
+    ],
+    "background": "Varela is a 21-year-old forward who rose from loans in Portugal to the top of the Serie A scoring chart.",
+    "angle": "transfer",
+    "sensitive": false,
+    "footage_terms": ["Gustavo Varela Monza goals", "Varela Monza Serie A highlights", "Varela Portugal call-up"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Cunha completes a wild Manchester United comeback against Roma",
+    "date": "2026-11-03",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/report/_/gameId/401915308",
+    "entities": ["Roma", "Manchester United", "Matheus Cunha", "Bruno Fernandes", "Matias Soule", "Donyell Malen", "Michael Carrick"],
+    "facts": [
+      "Roma led 2-0 at Old Trafford through Soule (11th minute) and a Malen penalty (17th), but lost 3-2 in the Champions League.",
+      "Bruno Fernandes scored a retaken penalty in the 58th minute, and Matheus Cunha scored twice, in the 83rd and 86th minutes.",
+      "It was United's first win in ten games, ended a three-match losing streak, and Cunha was booked for celebrating shirtless in the crowd."
+    ],
+    "background": "Michael Carrick's United were 17th in the Premier League before the game, and Football Italia reports Mauricio Pochettino has since replaced Carrick as manager.",
+    "angle": "viral",
+    "sensitive": false,
+    "footage_terms": ["Manchester United 3-2 Roma highlights", "Cunha goals Roma Old Trafford", "Bruno Fernandes penalty retaken Roma"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Malen is a man transformed at Roma, top scorer in Europe's big leagues in 2026",
+    "date": "2026-11-03",
+    "source_domain": "skysports.com",
+    "url": "https://www.skysports.com/football/news/13607180/donyell-malen-at-roma-man-utd-face-the-top-scorer-in-europe-s-major-leagues-in-2026-with-the-dutchman-transformed",
+    "entities": ["Donyell Malen", "Roma", "Gian Piero Gasperini", "Aston Villa", "Manchester United"],
+    "facts": [
+      "Sky says Malen has 18 open-play goals in 2026, four more than anyone else in Europe's big leagues.",
+      "He has 8 goals in 8 Serie A games this season, including a hat-trick on the opening day against Fiorentina, and scored twice against Real Madrid in the Champions League.",
+      "Gasperini compared him to Gianluca Vialli and admitted he did not expect such numbers."
+    ],
+    "background": "Malen came through at Arsenal, shone at PSV, flopped at Dortmund and had an uneven spell at Aston Villa before joining Roma on loan last January.",
+    "angle": "record",
+    "sensitive": false,
+    "footage_terms": ["Donyell Malen Roma hat-trick Fiorentina", "Malen Real Madrid brace Roma", "Malen Roma goals 2026"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Roma beat Sassuolo 3-0 and stay unbeaten; Gasperini says Inter favourites",
+    "date": "2026-11-07",
+    "source_domain": "skysports.com",
+    "url": "https://www.skysports.com/football/news/13607213/harry-kane-is-bayern-munichs-assist-king-barcelona-win-at-atletico-madrid-and-inter-close-gap-on-lazio-all-in-the-euro-debrief",
+    "entities": ["Roma", "Sassuolo", "Rodrigo Mora", "Gian Piero Gasperini", "Mario Hermoso", "Inter"],
+    "facts": [
+      "Roma beat Sassuolo 3-0 on 7 November: Hermoso scored, Sassuolo's Walukiewicz put through his own net, and Rodrigo Mora scored the third.",
+      "Sky says Mora was involved in all three goals and Roma remain unbeaten (8 wins, 3 draws).",
+      "Gasperini said Inter are best placed to win the title, while adding that every team is in the mix."
+    ],
+    "background": "Gasperini built a famous attacking Atalanta side before taking over at Roma, where he has pushed for a title challenge.",
+    "angle": "coach",
+    "sensitive": false,
+    "footage_terms": ["Roma 3-0 Sassuolo highlights", "Rodrigo Mora Roma goal", "Gasperini press conference Roma Sassuolo"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Roma want Chelsea's Gittens and hope Malen can help persuade him",
+    "date": "2026-11-19",
+    "source_domain": "football-italia.net",
+    "url": "https://football-italia.net/roma-in-contact-with-chelsea-over-gittens-deal/",
+    "entities": ["Jamie Bynoe-Gittens", "Roma", "Chelsea", "Donyell Malen", "Gian Piero Gasperini", "Callum Hudson-Odoi"],
+    "facts": [
+      "Corriere dello Sport, relayed by Football Italia, says Roma want Gittens in January, possibly on loan with an option to buy.",
+      "Gittens has played 55 competitive minutes for Chelsea this season, all in two EFL Cup games; Roma could turn to Nottingham Forest's Hudson-Odoi if the deal fails.",
+      "Roma hope Malen, who spent about three and a half years at Dortmund with Gittens, can help persuade him."
+    ],
+    "background": "Gittens cost Chelsea around 61 million euros with bonuses when he joined from Dortmund in summer 2025, and Malen joined Roma on a similar loan-with-option deal last January.",
+    "angle": "transfer",
+    "sensitive": false,
+    "footage_terms": ["Jamie Gittens Chelsea highlights", "Gittens Dortmund goals", "Roma Gittens transfer Malen"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Gasperini calls Dybala and Soule a blessing as Roma visit Parma",
+    "date": "2026-11-20",
+    "source_domain": "football-italia.net",
+    "url": "https://football-italia.net/gasperini-a-blessing-to-have-dybala-and-soule/",
+    "entities": ["Gian Piero Gasperini", "Paulo Dybala", "Matias Soule", "Roma", "Parma", "Alberto Gilardino"],
+    "facts": [
+      "Gasperini said both Dybala and Soule being available is a blessing and that they go perfectly together even though they prefer the same position.",
+      "Dybala has not played for a month but has no physical issues; Soule earned his first Argentina call-up.",
+      "Roma visit Parma on Saturday and Gasperini said it is too early to talk about January transfers."
+    ],
+    "background": "Dybala has been Roma's creative star since joining from Juventus in 2022, and Parma are 16th with eight points under Alberto Gilardino.",
+    "angle": "coach",
+    "sensitive": false,
+    "footage_terms": ["Dybala Roma goals 2026", "Soule Roma Argentina call-up", "Gasperini press conference Roma Parma"],
+    "confidence": "medium"
+  }
+]

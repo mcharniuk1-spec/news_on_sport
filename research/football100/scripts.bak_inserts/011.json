@@ -1,0 +1,68 @@
+{
+  "no": 11,
+  "subject": "Lionel Messi",
+  "title": "Messi offered an Argentina staff job",
+  "voice": "EL_A",
+  "comic": false,
+  "style": null,
+  "lines": [
+    {
+      "vo": "Argentina have offered Lionel Messi a staff job. Presumably with a clipboard.",
+      "card": "Staff job offer",
+      "sfx": null,
+      "footage": "Scaloni press conference clip; Messi mention (check for burned-in Spanish subtitles)"
+    },
+    {
+      "vo": "He retired from Argentina in August, aged thirty-nine. Retired from playing, not from being asked.",
+      "card": "Retired at 39",
+      "sfx": null,
+      "footage": "Messi Argentina farewell, 3-0 over Benin, highlights"
+    },
+    {
+      "vo": "Scaloni says Messi is welcome, now that Walter Samuel is leaving. Subtle timing.",
+      "card": "Welcome, says Scaloni",
+      "sfx": null,
+      "footage": "Scaloni press conference, close-up of the coach speaking"
+    },
+    {
+      "vo": "Messi has not replied. Scaloni says he already said no. So, a very quiet interview.",
+      "card": "Already said no",
+      "sfx": null,
+      "footage": "Messi thoughtful close-up, Inter Miami training b-roll"
+    },
+    {
+      "vo": "Meanwhile, he scored twenty-six league goals and made seventeen assists. A quiet year, then.",
+      "card": "43 goal contributions",
+      "sfx": null,
+      "footage": "Messi 2026 MLS goals highlights, Nu Stadium"
+    },
+    {
+      "vo": "That earned a second straight Golden Boot, a first for MLS. The staff job can wait.",
+      "card": "Back-to-back Golden Boot",
+      "sfx": null,
+      "footage": "Messi Golden Boot presentation 2026"
+    },
+    {
+      "vo": "Want the next one first? Betting tips, news and predictions at aboutfootball dot UK.",
+      "card": "aboutfootball dot UK",
+      "sfx": null,
+      "footage": "End card, no footage"
+    }
+  ],
+  "chars": 597,
+  "est_seconds": 33,
+  "footage_terms": [
+    "Messi 2026 MLS Golden Boot goals highlights",
+    "Scaloni press conference Messi Walter Samuel",
+    "Messi Argentina farewell Benin 3-0 highlights",
+    "Messi Inter Miami 2026 goals compilation"
+  ],
+  "inserts": [],
+  "facts_used": [
+    "Messi retired from Argentina, announced 31 Aug 2026 at 39 (https://abc13.com/story/lionel-messi-says-hes-retiring-playing-argentina/19769980/)",
+    "Scaloni: if Messi wants to come, no problem; 'now that Walter is no longer here, let him come'; Scaloni says Messi already said no (Scaloni's account only) (https://www.soccernews.com/scaloni-opens-door-for-messi-to-join-argentina-staff-after-retirement/408295/)",
+    "26 goals and 17 assists in 31 MLS games; first player to win the Golden Boot in consecutive seasons; 43 goal contributions, league-best (https://www.mlssoccer.com/news/inter-miami-cf-forward-lionel-messi-wins-2026-mls-golden-boot-presented-by-audi)"
+  ],
+  "comic_score": 4,
+  "notes": "Scaloni's 'already said no' is his own account only, so it is attributed on air. The 17 assists figure is derived from 43 goal contributions minus 26 goals, as the source says. No family, health or penalty material used. Non-comic, so no inserts. Punch-up pass: jokes are on the clipboard, the timing and the quiet-year callback only. 'Subtle timing' is a light tease of Scaloni's own quote, with no claim about any dispute."
+}

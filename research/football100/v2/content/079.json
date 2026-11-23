@@ -1,0 +1,579 @@
+{
+ "no": 79,
+ "style": "CUTOUT-PAPER",
+ "prop": "mug",
+ "cast": {
+  "v1": {
+   "role": "fan",
+   "shirt": "#8bc34a",
+   "hair": "#a03a2a"
+  },
+  "v2": {
+   "role": "fan",
+   "shirt": "#f4a259",
+   "hair": "#2b2b3a"
+  },
+  "blackwell": {
+   "role": "coach",
+   "hair": "#8a8a8a",
+   "shirt": "#3f6fb5"
+  },
+  "ref": {
+   "role": "referee"
+  },
+  "crawley": {
+   "role": "player",
+   "shirt": "#d94f4f",
+   "hair": "#2b2b3a",
+   "number": "5"
+  }
+ },
+ "sequences": {
+  "s01": {
+   "type": "HOOK",
+   "q": "Can part-timers knock out League Two?",
+   "prop": "trophy",
+   "emote": "shock",
+   "board": "typed"
+  },
+  "s02": {
+   "type": "INTERVIEW",
+   "label": "REPORTER ASKS",
+   "bubble": "Fifty-seven places apart?",
+   "answer": {
+    "icon": "chart-down",
+    "gesture": "shrug",
+    "emote": "smug"
+   },
+   "subject": "Wimborne Town",
+   "subject_role": "player"
+  },
+  "s03": {
+   "type": "COMIC",
+   "bg": "kitchen",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "v1",
+       "x": 270,
+       "y": 1440,
+       "pose": "wave",
+       "emote": "happy",
+       "scale": 1.35
+      },
+      {
+       "id": "v2",
+       "x": 810,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "happy",
+       "scale": 1.35,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "mug",
+       "x": 540,
+       "y": 1180,
+       "scale": 1.8,
+       "face": "happy"
+      },
+      {
+       "kind": "scoreboard",
+       "x": 540,
+       "y": 560,
+       "scale": 2.2,
+       "text": "1:0",
+       "face": "sleepy"
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.52,
+     "actors": [
+      {
+       "id": "v1",
+       "x": 270,
+       "y": 1440,
+       "pose": "shock",
+       "emote": "shock",
+       "scale": 1.35
+      },
+      {
+       "id": "v2",
+       "x": 810,
+       "y": 1440,
+       "pose": "point",
+       "emote": "shock",
+       "scale": 1.35,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "mug",
+       "x": 540,
+       "y": 1180,
+       "scale": 1.8,
+       "face": "neutral",
+       "anim": "shake"
+      },
+      {
+       "kind": "scoreboard",
+       "x": 540,
+       "y": 560,
+       "scale": 2.2,
+       "text": "1:0",
+       "face": "shock"
+      }
+     ],
+     "cam": "push",
+     "sfx": {
+      "text": "BANG",
+      "x": 540,
+      "y": 860,
+      "r": 90
+     }
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.52,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "v1",
+       "x": 270,
+       "y": 1440,
+       "pose": "cheer",
+       "emote": "happy",
+       "scale": 1.35
+      },
+      {
+       "id": "v2",
+       "x": 810,
+       "y": 1440,
+       "pose": "cheer",
+       "emote": "happy",
+       "scale": 1.35,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "mug",
+       "x": 540,
+       "y": 1180,
+       "scale": 2.0,
+       "face": "shock"
+      },
+      {
+       "kind": "scoreboard",
+       "x": 540,
+       "y": 560,
+       "scale": 2.2,
+       "text": "1:0",
+       "face": "happy"
+      }
+     ],
+     "sfx": {
+      "text": "DING",
+      "x": 540,
+      "y": 860,
+      "r": 90
+     },
+     "fx": [
+      {
+       "kind": "smoke",
+       "x": 540,
+       "y": 1000,
+       "size": 0.7
+      }
+     ]
+    }
+   ]
+  },
+  "s04": {
+   "type": "NEWS",
+   "name": "Kevin Blackwell",
+   "fact": "Made three half-time changes",
+   "ticker": "Three half-time changes",
+   "icons": [
+    "clipboard",
+    "whistle",
+    "ball"
+   ],
+   "role": "coach",
+   "actor": "blackwell"
+  },
+  "s05": {
+   "type": "COMIC",
+   "bg": "bench-area",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "blackwell",
+       "x": 290,
+       "y": 1440,
+       "pose": "present",
+       "emote": "neutral",
+       "scale": 1.4,
+       "label": "Three half-time changes"
+      },
+      {
+       "id": "ref",
+       "x": 810,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "neutral",
+       "scale": 1.3,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "clipboard",
+       "x": 540,
+       "y": 800,
+       "scale": 2.8
+      },
+      {
+       "kind": "tag",
+       "x": 470,
+       "y": 720,
+       "scale": 0.9
+      },
+      {
+       "kind": "tag",
+       "x": 560,
+       "y": 800,
+       "scale": 0.9
+      },
+      {
+       "kind": "tag",
+       "x": 630,
+       "y": 880,
+       "scale": 0.9
+      },
+      {
+       "kind": "mug",
+       "x": 540,
+       "y": 1330,
+       "scale": 1.3
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.52,
+     "actors": [
+      {
+       "id": "blackwell",
+       "x": 290,
+       "y": 1440,
+       "pose": "shock",
+       "emote": "shock",
+       "scale": 1.4
+      },
+      {
+       "id": "ref",
+       "x": 810,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "neutral",
+       "scale": 1.3,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "clipboard",
+       "x": 540,
+       "y": 800,
+       "scale": 2.8
+      },
+      {
+       "kind": "tag",
+       "x": 360,
+       "y": 440,
+       "scale": 1.0,
+       "rot": -25,
+       "anim": "float"
+      },
+      {
+       "kind": "tag",
+       "x": 760,
+       "y": 480,
+       "scale": 1.0,
+       "rot": 20,
+       "anim": "float"
+      },
+      {
+       "kind": "tag",
+       "x": 630,
+       "y": 880,
+       "scale": 0.9
+      },
+      {
+       "kind": "mug",
+       "x": 540,
+       "y": 1330,
+       "scale": 1.3
+      }
+     ],
+     "cam": "push"
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.52,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "blackwell",
+       "x": 290,
+       "y": 1440,
+       "pose": "facepalm",
+       "emote": "sweat",
+       "scale": 1.4
+      },
+      {
+       "id": "ref",
+       "x": 810,
+       "y": 1440,
+       "pose": "think",
+       "emote": "smug",
+       "scale": 1.3,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "clipboard",
+       "x": 540,
+       "y": 800,
+       "scale": 2.8
+      },
+      {
+       "kind": "tag",
+       "x": 790,
+       "y": 1130,
+       "scale": 0.9,
+       "anim": "pop"
+      },
+      {
+       "kind": "mug",
+       "x": 540,
+       "y": 1330,
+       "scale": 1.3
+      }
+     ],
+     "bubble": {
+      "who": "ref",
+      "text": "?!"
+     },
+     "sfx": {
+      "text": "DING",
+      "x": 540,
+      "y": 420,
+      "r": 90
+     }
+    }
+   ]
+  },
+  "s06": {
+   "type": "COMIC",
+   "bg": "stadium",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "crawley",
+       "x": 250,
+       "y": 1440,
+       "pose": "run",
+       "emote": "happy",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "door",
+       "x": 700,
+       "y": 1450,
+       "scale": 3.2,
+       "rot": 90,
+       "layer": "back"
+      },
+      {
+       "kind": "mug",
+       "x": 900,
+       "y": 1350,
+       "scale": 1.3
+      },
+      {
+       "kind": "scoreboard",
+       "x": 540,
+       "y": 520,
+       "scale": 1.5,
+       "text": "1:0",
+       "face": "happy"
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.52,
+     "actors": [
+      {
+       "id": "crawley",
+       "x": 700,
+       "y": 1500,
+       "pose": "fall",
+       "emote": "dizzy",
+       "scale": 1.2,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "door",
+       "x": 700,
+       "y": 1450,
+       "scale": 3.2,
+       "rot": 25,
+       "layer": "back"
+      },
+      {
+       "kind": "mug",
+       "x": 900,
+       "y": 1350,
+       "scale": 1.3
+      },
+      {
+       "kind": "scoreboard",
+       "x": 540,
+       "y": 520,
+       "scale": 1.5,
+       "text": "1:0",
+       "face": "shock"
+      }
+     ],
+     "cam": "shake",
+     "sfx": {
+      "text": "THUD",
+      "x": 540,
+      "y": 800,
+      "r": 100
+     }
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.52,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "crawley",
+       "x": 700,
+       "y": 1440,
+       "pose": "shock",
+       "emote": "dizzy",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "door",
+       "x": 700,
+       "y": 1450,
+       "scale": 3.2,
+       "rot": 90,
+       "layer": "back"
+      },
+      {
+       "kind": "mug",
+       "x": 900,
+       "y": 1350,
+       "scale": 1.3,
+       "face": "smug"
+      },
+      {
+       "kind": "scoreboard",
+       "x": 540,
+       "y": 520,
+       "scale": 1.5,
+       "text": "1:0",
+       "face": "sleepy"
+      }
+     ],
+     "sfx": {
+      "text": "CREAK",
+      "x": 300,
+      "y": 700,
+      "r": 100
+     }
+    }
+   ]
+  },
+  "s07": {
+   "type": "PROVOC",
+   "q": "Is the FA Cup a trapdoor?",
+   "a": "Trapdoor",
+   "b": "Fair game",
+   "split": [
+    67,
+    33
+   ],
+   "mood": "cheeky"
+  },
+  "s08": {
+   "type": "STATS",
+   "items": [
+    {
+     "icon": "stopwatch",
+     "value": "9",
+     "label": "after nine minutes"
+    },
+    {
+     "icon": "chart-down",
+     "value": "57",
+     "label": "Fifty-seven places"
+    },
+    {
+     "icon": "flag",
+     "value": "2",
+     "label": "Round two: Bradford"
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,671 @@
+{
+ "no": 89,
+ "style": "ACTION-ANIME",
+ "prop": "whistle",
+ "cast": {
+  "iraola": {
+   "role": "coach",
+   "hair": "#ffb703",
+   "shirt": "#3a86ff"
+  },
+  "kid1": {
+   "role": "kid",
+   "shirt": "#e8505b",
+   "hair": "#6b4a2a"
+  },
+  "kid2": {
+   "role": "kid",
+   "shirt": "#06d6a0",
+   "hair": "#2b2b3a"
+  },
+  "parent1": {
+   "role": "fan",
+   "shirt": "#9b5de5"
+  },
+  "parent2": {
+   "role": "fan",
+   "shirt": "#f4a259",
+   "hair": "#a03a2a"
+  },
+  "shadow": {
+   "role": "coach",
+   "skin": "#1d1a2e",
+   "hair": "#1d1a2e",
+   "shirt": "#26233a"
+  }
+ },
+ "sequences": {
+  "s01": {
+   "type": "HOOK",
+   "q": "Which manager got one million views?",
+   "prop": "camera",
+   "emote": "shock",
+   "board": "stamp"
+  },
+  "s02": {
+   "type": "COMIC",
+   "bg": "pitch",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "iraola",
+       "x": 300,
+       "y": 1440,
+       "pose": "run",
+       "emote": "happy",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "whistle",
+       "x": 350,
+       "y": 935,
+       "scale": 0.7
+      }
+     ],
+     "fx": [
+      {
+       "kind": "speed",
+       "x": 300,
+       "y": 1000
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.52,
+     "actors": [
+      {
+       "id": "iraola",
+       "x": 300,
+       "y": 1440,
+       "pose": "shock",
+       "emote": "shock",
+       "scale": 1.4
+      },
+      {
+       "id": "kid1",
+       "x": 660,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "happy",
+       "scale": 1.3
+      },
+      {
+       "id": "kid2",
+       "x": 860,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "happy",
+       "scale": 1.3,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "whistle",
+       "x": 300,
+       "y": 640,
+       "scale": 1.2,
+       "anim": "orbit"
+      }
+     ],
+     "cam": "push",
+     "sfx": {
+      "text": "WHOOSH",
+      "x": 720,
+      "y": 500,
+      "r": 110
+     }
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.52,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "iraola",
+       "x": 300,
+       "y": 1440,
+       "pose": "shock",
+       "emote": "shock",
+       "scale": 1.4
+      },
+      {
+       "id": "kid1",
+       "x": 660,
+       "y": 1440,
+       "pose": "present",
+       "emote": "happy",
+       "scale": 1.3
+      },
+      {
+       "id": "kid2",
+       "x": 860,
+       "y": 1440,
+       "pose": "cheer",
+       "emote": "happy",
+       "scale": 1.3,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "whistle",
+       "x": 300,
+       "y": 640,
+       "scale": 1.2,
+       "anim": "orbit"
+      },
+      {
+       "kind": "ball",
+       "x": 470,
+       "y": 1400,
+       "scale": 1.3,
+       "anim": "drop"
+      }
+     ],
+     "sfx": {
+      "text": "BANG",
+      "x": 700,
+      "y": 470,
+      "r": 110
+     },
+     "fx": [
+      {
+       "kind": "speed",
+       "x": 760,
+       "y": 1050
+      },
+      {
+       "kind": "sparkle",
+       "x": 760,
+       "y": 1000
+      }
+     ]
+    }
+   ]
+  },
+  "s03": {
+   "type": "NEWS",
+   "name": "Andoni Iraola",
+   "fact": "He posed with the children",
+   "ticker": "Junior match visit",
+   "icons": [
+    "ball",
+    "camera",
+    "chart-up"
+   ],
+   "role": "coach"
+  },
+  "s04": {
+   "type": "COMIC",
+   "bg": "press-room",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "parent1",
+       "x": 250,
+       "y": 1440,
+       "pose": "cheer",
+       "emote": "happy",
+       "scale": 1.15
+      },
+      {
+       "id": "iraola",
+       "x": 540,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "neutral",
+       "scale": 1.4
+      },
+      {
+       "id": "parent2",
+       "x": 830,
+       "y": 1440,
+       "pose": "cheer",
+       "emote": "happy",
+       "scale": 1.15,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "whistle",
+       "x": 540,
+       "y": 1090,
+       "scale": 0.6
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.42,
+     "actors": [
+      {
+       "id": "parent1",
+       "x": 250,
+       "y": 1440,
+       "pose": "cheer",
+       "emote": "happy",
+       "scale": 1.15
+      },
+      {
+       "id": "iraola",
+       "x": 540,
+       "y": 1440,
+       "pose": "shush",
+       "emote": "sweat",
+       "scale": 1.4
+      },
+      {
+       "id": "parent2",
+       "x": 830,
+       "y": 1440,
+       "pose": "cheer",
+       "emote": "happy",
+       "scale": 1.15,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "whistle",
+       "x": 540,
+       "y": 1090,
+       "scale": 0.6
+      },
+      {
+       "kind": "speech-dots",
+       "x": 400,
+       "y": 650,
+       "scale": 1.1,
+       "anim": "pop"
+      }
+     ],
+     "cam": "push"
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.42,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "parent1",
+       "x": 250,
+       "y": 1440,
+       "pose": "cheer",
+       "emote": "happy",
+       "scale": 1.15
+      },
+      {
+       "id": "iraola",
+       "x": 540,
+       "y": 1440,
+       "pose": "headscratch",
+       "emote": "sweat",
+       "scale": 1.4
+      },
+      {
+       "id": "parent2",
+       "x": 830,
+       "y": 1440,
+       "pose": "cheer",
+       "emote": "happy",
+       "scale": 1.15,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "whistle",
+       "x": 540,
+       "y": 1090,
+       "scale": 0.6
+      },
+      {
+       "kind": "speech-dots",
+       "x": 400,
+       "y": 650,
+       "scale": 1.1
+      },
+      {
+       "kind": "speech-dots",
+       "x": 540,
+       "y": 540,
+       "scale": 1.6,
+       "anim": "pop"
+      },
+      {
+       "kind": "speech-dots",
+       "x": 690,
+       "y": 660,
+       "scale": 1.1,
+       "anim": "pop"
+      }
+     ]
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "parent1",
+       "x": 250,
+       "y": 1440,
+       "pose": "jump",
+       "emote": "shock",
+       "scale": 1.15
+      },
+      {
+       "id": "iraola",
+       "x": 540,
+       "y": 1440,
+       "pose": "present",
+       "emote": "shock",
+       "scale": 1.4
+      },
+      {
+       "id": "parent2",
+       "x": 830,
+       "y": 1440,
+       "pose": "jump",
+       "emote": "shock",
+       "scale": 1.15,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "whistle",
+       "x": 540,
+       "y": 1090,
+       "scale": 0.6
+      }
+     ],
+     "bubble": {
+      "who": "iraola",
+      "text": "one million views"
+     },
+     "fx": [
+      {
+       "kind": "confetti",
+       "x": 540,
+       "y": 700
+      },
+      {
+       "kind": "sparkle",
+       "x": 540,
+       "y": 640
+      }
+     ]
+    }
+   ]
+  },
+  "s05": {
+   "type": "COMIC",
+   "bg": "training",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "iraola",
+       "x": 330,
+       "y": 1440,
+       "pose": "hold",
+       "emote": "smug",
+       "scale": 1.4,
+       "hold": {
+        "kind": "flag",
+        "hand": "R",
+        "scale": 1.0
+       }
+      }
+     ],
+     "props": [
+      {
+       "kind": "whistle",
+       "x": 370,
+       "y": 940,
+       "scale": 0.7
+      },
+      {
+       "kind": "ball",
+       "x": 620,
+       "y": 1400,
+       "scale": 1.2
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.42,
+     "actors": [
+      {
+       "id": "iraola",
+       "x": 330,
+       "y": 1440,
+       "pose": "dance",
+       "emote": "shock",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "whistle",
+       "x": 370,
+       "y": 940,
+       "scale": 0.7
+      },
+      {
+       "kind": "ball",
+       "x": 620,
+       "y": 1400,
+       "scale": 1.2
+      },
+      {
+       "kind": "flag",
+       "x": 180,
+       "y": 640,
+       "scale": 1.3,
+       "anim": "arc"
+      },
+      {
+       "kind": "flag",
+       "x": 520,
+       "y": 520,
+       "scale": 1.3,
+       "anim": "arc"
+      }
+     ],
+     "cam": "push",
+     "sfx": {
+      "text": "WHOOSH",
+      "x": 800,
+      "y": 520,
+      "r": 110
+     }
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.42,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "iraola",
+       "x": 330,
+       "y": 1440,
+       "pose": "dance",
+       "emote": "shock",
+       "scale": 1.4
+      },
+      {
+       "id": "shadow",
+       "x": 800,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "smug",
+       "scale": 1.3,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "whistle",
+       "x": 370,
+       "y": 940,
+       "scale": 0.7
+      },
+      {
+       "kind": "ball",
+       "x": 620,
+       "y": 1400,
+       "scale": 1.2
+      },
+      {
+       "kind": "flag",
+       "x": 150,
+       "y": 420,
+       "scale": 1.3,
+       "anim": "spin"
+      },
+      {
+       "kind": "flag",
+       "x": 460,
+       "y": 380,
+       "scale": 1.3,
+       "anim": "spin"
+      }
+     ]
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "iraola",
+       "x": 330,
+       "y": 1440,
+       "pose": "point",
+       "emote": "angry-cheeky",
+       "scale": 1.4,
+       "hold": {
+        "kind": "flag",
+        "hand": "L",
+        "scale": 1.0
+       }
+      },
+      {
+       "id": "shadow",
+       "x": 800,
+       "y": 1440,
+       "pose": "shrug",
+       "emote": "angry-cheeky",
+       "scale": 1.3,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "whistle",
+       "x": 560,
+       "y": 760,
+       "scale": 1.2,
+       "anim": "float"
+      },
+      {
+       "kind": "ball",
+       "x": 620,
+       "y": 1400,
+       "scale": 1.2
+      }
+     ],
+     "bubble": {
+      "who": "shadow",
+      "text": "?!"
+     },
+     "sfx": {
+      "text": "CLANG",
+      "x": 560,
+      "y": 450,
+      "r": 100
+     }
+    }
+   ]
+  },
+  "s06": {
+   "type": "PROVOC",
+   "q": "Should managers run the line sometimes?",
+   "a": "Run the line",
+   "b": "Stay put",
+   "split": [
+    41,
+    59
+   ],
+   "mood": "cheeky"
+  },
+  "s07": {
+   "type": "INTERVIEW",
+   "label": "REPORTER ASKS",
+   "bubble": "Why did you run the line?",
+   "answer": {
+    "icon": "flag",
+    "gesture": "shrug"
+   },
+   "subject": "Andoni Iraola"
+  },
+  "s08": {
+   "type": "STATS",
+   "items": [
+    {
+     "icon": "camera",
+     "value": "1",
+     "label": "One photo"
+    },
+    {
+     "icon": "ball",
+     "value": "2",
+     "label": "two kids"
+    },
+    {
+     "icon": "chart-up",
+     "value": "1",
+     "suffix": "m",
+     "label": "A million views"
+    }
+   ]
+  }
+ }
+}

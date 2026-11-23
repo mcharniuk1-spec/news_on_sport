@@ -1,0 +1,90 @@
+{
+ "no": 73,
+ "subject": "Sporting agree about 5 million euro buyout with Lyon for Paulo Fonseca after sacking Borges",
+ "title": "Sporting's coach search, Fonseca price tag",
+ "voice": "kokoro",
+ "comic": false,
+ "style": null,
+ "lines": [
+  {
+   "vo": "Paulo Fonseca has a price tag. It is five million euros.",
+   "card": "Five million euros",
+   "sfx": null,
+   "footage": "Paulo Fonseca Lyon press conference"
+  },
+  {
+   "vo": "Sporting and Lyon agreed that much in compensation. Fonseca is fifty-three and reportedly open to the move.",
+   "card": "Fonseca open to move",
+   "sfx": null,
+   "footage": "Paulo Fonseca Sporting appointed"
+  },
+  {
+   "vo": "Sporting are third, nine points behind Porto. They also lost at home to LASK in Europe.",
+   "card": "Third, nine behind Porto",
+   "sfx": null,
+   "footage": "Sporting LASK Champions League highlights"
+  },
+  {
+   "vo": "Rui Borges took over in December two thousand twenty-four, after Amorim left. Talks to end his contract have begun.",
+   "card": "Borges era ending",
+   "sfx": null,
+   "footage": "Rui Borges press conference archive"
+  },
+  {
+   "vo": "Tiago Fernandes takes temporary charge before the Shakhtar match. Congratulations, and good luck.",
+   "card": "Temporary boss",
+   "sfx": null,
+   "footage": "Sporting Shakhtar build-up, training"
+  },
+  {
+   "vo": "Sporting are third. Lyon are third too. Fonseca could swap third place in France for third place in Portugal. Same view, five million euros.",
+   "card": "Third place twice",
+   "sfx": null,
+   "footage": "Ligue 1 table graphic"
+  },
+  {
+   "vo": "Your mates will never guess this. Match news, betting tips and predictions at aboutfootball dot UK.",
+   "card": "Match news and predictions",
+   "sfx": null,
+   "footage": "Sporting Lisbon stadium, fans"
+  }
+ ],
+ "chars": 701,
+ "est_seconds": 48,
+ "footage_terms": [
+  "Paulo Fonseca Lyon press conference",
+  "Paulo Fonseca Sporting appointed",
+  "Lyon Ligue 1 highlights Fonseca",
+  "Sporting Rui Borges sacked",
+  "Sporting LASK Champions League highlights"
+ ],
+ "inserts": [
+  {
+   "after_line": 0,
+   "story": "A cartoon coach wears a big price tag that reads 5. Gag: a cartoon clerk scans the tag with a beeping scanner. Twist: the scanner prints a receipt a mile long.",
+   "characters": "generic cartoon coach with price tag",
+   "seconds": 2
+  },
+  {
+   "after_line": 3,
+   "story": "A cartoon coach is handed a tiny relay baton on the touchline. Gag: he runs with it for one step. Twist: he passes it to another coach, who passes it to a third.",
+   "characters": "generic cartoon coach and relay baton",
+   "seconds": 2
+  },
+  {
+   "after_line": 4,
+   "story": "A cartoon coach hops from the third step of one podium to the third step of another. Gag: he almost slips. Twist: the two podiums are the same and the coach shrugs.",
+   "characters": "generic cartoon coach and podium",
+   "seconds": 2
+  }
+ ],
+ "facts_used": [
+  "Sporting began talks to end Rui Borges's contract; Tiago Fernandes put in temporary charge before the Shakhtar UCL match (news 92; espn.com/soccer/story/_/id/50359218)",
+  "About 5 million euro compensation agreed with Lyon for Paulo Fonseca, 53; personal terms next; reportedly open to the move (news 92)",
+  "Lyon sat third in Ligue 1 when reported (news 92)",
+  "Sporting third, nine points behind Porto; lost at home to LASK in the Champions League (news 92)",
+  "Borges took over December 2024 after Amorim left; Sporting lost to Arsenal in last season's UCL quarter-finals (news 92 background)"
+ ],
+ "comic_score": 5,
+ "notes": "Punched up: price-tag hook, 'congratulations and good luck' for the interim boss, 'same view, five million euros' twist. Headline says Borges was sacked; body says talks to end his contract, so script says 'talks have begun'. Move is not final (personal terms next), so 'could swap'. Non-comic, no inserts."
+}

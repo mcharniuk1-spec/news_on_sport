@@ -1,0 +1,80 @@
+{
+ "no": 57,
+ "subject": "Hakimi scores first career hat trick with two assists as Luis Enrique becomes PSG's winningest coach",
+ "title": "Hakimi's hat-trick and five contributions",
+ "voice": "kokoro",
+ "comic": false,
+ "style": null,
+ "lines": [
+  {
+   "vo": "Hakimi is a defender. He was involved in all five goals.",
+   "card": "Hat-trick plus two assists",
+   "footage": "Hakimi hat trick PSG Le Havre"
+  },
+  {
+   "vo": "Three goals, two assists, his first career hat-trick. PSG beat Le Havre five-one.",
+   "card": "Five contributions",
+   "footage": "Le Havre 1-5 PSG highlights"
+  },
+  {
+   "vo": "He is the only defender with five goal contributions in a Ligue 1 game.",
+   "card": "The only defender",
+   "footage": "Hakimi goals PSG highlights"
+  },
+  {
+   "vo": "His previous best was two, in one hundred and thirty-five league games. He was saving up.",
+   "card": "135 league games",
+   "footage": "Hakimi goals PSG highlights"
+  },
+  {
+   "vo": "That night, Luis Enrique won his one hundred and twenty-seventh game as PSG coach. That passed Laurent Blanc for the club record.",
+   "card": "127th win",
+   "footage": "Luis Enrique record PSG wins press conference"
+  },
+  {
+   "vo": "Hakimi finished thirteenth in the 2026 Ballon d'Or, sixteen places above Sadio Mane.",
+   "card": "13th in Ballon d'Or",
+   "footage": "Hakimi free kick goal PSG October 2026"
+  },
+  {
+   "vo": "He is favourite for the CAF award in Lagos on the seventh of December. Strikers, look nervous.",
+   "card": "CAF award, Lagos",
+   "footage": "Hakimi goals PSG highlights"
+  },
+  {
+   "vo": "Want the next story before it breaks? Betting tips, news and predictions at aboutfootball dot UK.",
+   "card": "aboutfootball.uk",
+   "footage": "football100 end card"
+  }
+ ],
+ "chars": 701,
+ "est_seconds": 39,
+ "footage_terms": [
+  "Hakimi hat trick PSG Le Havre",
+  "Le Havre 1-5 PSG highlights",
+  "Luis Enrique record PSG wins press conference",
+  "Hakimi goals PSG highlights"
+ ],
+ "inserts": [
+  {
+   "after_line": 0,
+   "story": "A caricature of Hakimi wears a magician's top hat on the pitch. Gag: he pulls three balls out of the hat, one after another. Twist: two more doves fly out carrying assist signs.",
+   "characters": "caricature of Hakimi",
+   "seconds": 2
+  },
+  {
+   "after_line": 2,
+   "story": "A tiny cartoon piggy bank labelled with the number two sits on a shelf for a very long time. Gag: dusty cobwebs gather and a clock ticks 135. Twist: the piggy bank bursts open with five golden balls.",
+   "characters": "caricature of Hakimi",
+   "seconds": 2
+  }
+ ],
+ "facts_used": [
+  "ev0007: PSG beat Le Havre 5-1 after trailing to an early Josh Maja goal; Hakimi was involved in all five PSG goals (news/news_dedup.json)",
+  "ev0007: Hakimi became the only defender to register five goal contributions in a Ligue 1 game; before that he had never had more than two in 135 league games (news/news_dedup.json)",
+  "ev0007: Luis Enrique's 127th win as PSG coach, passing Laurent Blanc for the most in club history (news/news_dedup.json)",
+  "ev0007: ESPN says Hakimi finished 13th in the 2026 Ballon d'Or, 16 places ahead of the next African player, Sadio Mane; he is the favourite for the CAF award in Lagos on 7 December (news/news_dedup.json)"
+ ],
+ "comic_score": 5,
+ "notes": "The source mixes Hakimi's hat-trick and assists with 'five goal contributions'. The script reads that count as the source gives it. 'That night' for Enrique's 127th win is supported by the match date. Non-comic, 0 inserts. Punch-up pass: 'saving up' and the striker tag are tone lines. 'First career hat trick' comes from the subject line. 'Sixteen places above Sadio Mane' is the next African player in the source. 'Previous best was two' = never more than two in 135 league games. The 5-1 comeback detail (Maja's early goal) is in facts_used but not spoken."
+}

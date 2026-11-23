@@ -1,0 +1,120 @@
+{
+ "video_id": "tR_YTBj0QkE",
+ "topic": "Neymar skill and flirting moments with women (charity/media events and a women's dribble)",
+ "hero": "Neymar",
+ "hero_role": "subject/butt of the compilation",
+ "media_type_overall": "fan phone/stadium footage",
+ "hook": "Woman in yellow kit dribbles past a man",
+ "subtitle_style": "none",
+ "reaction_overlays": "OUTPLAY watermark bottom",
+ "transition_summary": "Hard cuts every ~2 s",
+ "audio_note": "unknown",
+ "reuse_segments": [
+  {
+   "t0": 0,
+   "t1": 24,
+   "what": "Event/charity match clips",
+   "origin_guess": "fan phone/stadium footage",
+   "rights_risk": "medium",
+   "how_to_reuse": "needs license or recreate"
+  }
+ ],
+ "frames": [
+  {
+   "idx": 1,
+   "t": 0,
+   "desc": "Woman in yellow kit duels man in blue bib with ball; OUTPLAY watermark",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 2,
+   "t": 2,
+   "desc": "Woman in yellow kit duels man in blue bib with ball; OUTPLAY watermark",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 3,
+   "t": 4,
+   "desc": "Woman in yellow kit duels man in blue bib with ball; OUTPLAY watermark",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 4,
+   "t": 6,
+   "desc": "Neymar in Barca kit with woman in black and man in red, caption 'Marcelo Vieira Neymar'",
+   "type": "video",
+   "text_on_screen": "Marcelo Vieira / Neymar",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 5,
+   "t": 8,
+   "desc": "Neymar in Barca kit with woman in black and man in red, caption 'Marcelo Vieira Neymar'",
+   "type": "video",
+   "text_on_screen": "Marcelo Vieira / Neymar",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 6,
+   "t": 10,
+   "desc": "Neymar in Barca kit with woman in black and man in red, caption 'Marcelo Vieira Neymar'",
+   "type": "video",
+   "text_on_screen": "Marcelo Vieira / Neymar",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 7,
+   "t": 12,
+   "desc": "Woman in black dribbles around men in white; stadium seats behind",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 8,
+   "t": 14,
+   "desc": "Woman in black dribbles around men in white; stadium seats behind",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 9,
+   "t": 16,
+   "desc": "Woman in black dribbles around men in white; stadium seats behind",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 10,
+   "t": 18,
+   "desc": "Neymar in PSG kit smiling beside men on pitch",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 11,
+   "t": 20,
+   "desc": "Neymar with man and woman posing at event",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 12,
+   "t": 22,
+   "desc": "Neymar Jr 10 PSG shirt with woman at event",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "none"
+  }
+ ]
+}

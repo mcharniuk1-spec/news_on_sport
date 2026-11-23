@@ -1,0 +1,94 @@
+{
+ "no": 76,
+ "subject": "Norwich thump Bristol City 5-0 and home fans turn on Michael Skubala",
+ "title": "Norwich five-nil at Ashton Gate",
+ "voice": "kokoro",
+ "comic": false,
+ "style": null,
+ "lines": [
+  {
+   "vo": "Five-nil away, and the home fans chanted for their own manager's sacking.",
+   "card": "Five-nil away",
+   "sfx": null,
+   "footage": "Bristol City 0-5 Norwich highlights"
+  },
+  {
+   "vo": "Norwich won five-nil at Ashton Gate. Five goals, five different scorers.",
+   "card": "Five scorers",
+   "sfx": null,
+   "footage": "Norwich players celebrate, away end"
+  },
+  {
+   "vo": "Paris Maghoma, Harry Darling, Andre Brooks and Jovon Makama scored. Mathias Kvistgaarden added a penalty. Very fair sharing.",
+   "card": "Five different scorers",
+   "sfx": null,
+   "footage": "Maghoma goal Bristol City Norwich"
+  },
+  {
+   "vo": "Bristol fans booed at half-time. Later, they chanted for Michael Skubala to be sacked.",
+   "card": "Booed, then chanted",
+   "sfx": "crowd boo",
+   "footage": "Michael Skubala Bristol City fans chant"
+  },
+  {
+   "vo": "Skubala apologised and called the second half unacceptable. Honest, at least.",
+   "card": "Skubala apologises",
+   "sfx": null,
+   "footage": "Michael Skubala press conference Bristol City"
+  },
+  {
+   "vo": "It was Bristol City's fifth home league defeat of the season.",
+   "card": "Fifth home defeat",
+   "sfx": null,
+   "footage": "Ashton Gate stands, wide shot"
+  },
+  {
+   "vo": "Norwich have scored nine goals in two successive away wins. Norwich love an away day. Bristol City are struggling to enjoy a home one.",
+   "card": "Nine goals, two away wins",
+   "sfx": null,
+   "footage": "Norwich away win Ashton Gate"
+  },
+  {
+   "vo": "Your mates will never guess this. Match news, betting tips and predictions at aboutfootball dot UK.",
+   "card": "Match news and predictions",
+   "sfx": null,
+   "footage": "Norwich away win Ashton Gate"
+  }
+ ],
+ "chars": 726,
+ "est_seconds": 50,
+ "footage_terms": [
+  "Bristol City 0-5 Norwich highlights",
+  "Michael Skubala Bristol City fans chant",
+  "Philippe Clement Norwich reaction",
+  "Norwich away win Ashton Gate"
+ ],
+ "inserts": [
+  {
+   "after_line": 0,
+   "story": "Five different cartoon scorers pop up in a row, each with a different shirt number. Gag: each one waves and the scoreboard ticks up. Twist: the fifth one is still wearing a tracksuit.",
+   "characters": "generic cartoon team",
+   "seconds": 2
+  },
+  {
+   "after_line": 2,
+   "story": "Cartoon fans hold up a big banner with a question mark. Gag: the banner swings left and right as the crowd sways. Twist: the question mark turns into an exclamation mark and a tiny drum starts.",
+   "characters": "generic cartoon fans",
+   "seconds": 2
+  },
+  {
+   "after_line": 3,
+   "story": "A cartoon coach bows politely toward the crowd. Gag: a bouquet of cartoon flowers lands at his feet. Twist: he picks it up and gives it back.",
+   "characters": "generic cartoon coach",
+   "seconds": 2
+  }
+ ],
+ "facts_used": [
+  "Norwich 5-0 at Ashton Gate; goals from Paris Maghoma, Harry Darling, Andre Brooks, Jovon Makama and a Mathias Kvistgaarden penalty (news 104; skysports.com/football/bristol-city-vs-norwich/report/560668)",
+  "Home fans booed at half-time and chanted for Skubala to be sacked; he apologised and called the second half unacceptable (news 104)",
+  "Fifth home league defeat of the season for Bristol City; Norwich scored nine goals in two successive away wins (news 104)",
+  "Bristol had lost midweek to Wolves (news 104 background)"
+ ],
+ "comic_score": 5,
+ "notes": "Punched up: 'very fair sharing', 'honest, at least', away-day vs home-day twist. Sacking chants are reported neutrally, no legal or personal jokes. Coach nationality in source not used. Non-comic, no inserts."
+}

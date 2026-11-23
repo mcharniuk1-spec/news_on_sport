@@ -1,0 +1,761 @@
+{
+  "name": "Luka Modric",
+  "years": {
+    "ballon_dor": [
+      2018
+    ],
+    "born": "1985-09-09",
+    "researched_on": "2026-11-20",
+    "recent_window": "2026-08-22 to 2026-11-20"
+  },
+  "recent_news": [
+    {
+      "date": "2026-09-03",
+      "headline": "Modric tells AS he wants a useful role at Real Madrid after playing, praises Mourinho, Vinicius, Mbappe, Bellingham and Ronaldo",
+      "facts": [
+        "He said he hopes to return to Real Madrid one day but would only come back in a role where he is useful and important, not for his name alone.",
+        "He called the Mourinho appointment a very wise decision by the club.",
+        "He said he has no doubt Cristiano Ronaldo will reach 1,000 career goals, and that he knows the end of his own career is getting closer but does not know whether it will be this year or next."
+      ],
+      "source_url": "https://africasoccer.com/luka-modric-hints-at-real-madrid-return-as-he-backs-mourinho-and-cristiano-ronaldo/",
+      "source_domain": "africasoccer.com",
+      "tone": "praise",
+      "sensitive": false
+    },
+    {
+      "date": "2026-09-05",
+      "headline": "Croatian federation confirms Modric will keep playing for Croatia at 41",
+      "facts": [
+        "HNS announced he will be in new coach Slaven Bilic's squad for the September-October window.",
+        "He said he is available for the whole 2026-27 Nations League campaign if fit; retirement talk followed Milan missing Champions League football and Croatia's World Cup round-of-32 loss to Portugal.",
+        "He turns 41 the following week (9 September) and had already committed to Milan for 2026-27."
+      ],
+      "source_url": "https://football-italia.net/modric-decides-to-continue-playing-croatia/",
+      "source_domain": "football-italia.net",
+      "tone": "neutral",
+      "sensitive": false
+    },
+    {
+      "date": "2026-09-26",
+      "headline": "Modric scores in Prague at 41 as Croatia beat Czechia 2-1 in Bilic's first game back",
+      "facts": [
+        "He put Croatia ahead two minutes after half-time (reported as 47th minute); Czechia levelled, Marco Pasalic scored the late winner.",
+        "One outlet calls him the oldest player ever to score for Croatia; this is single-source.",
+        "Dalic left after the World Cup defeat to Portugal; Bilic returned for a second spell."
+      ],
+      "source_url": "https://www.beinsports.com/en-us/soccer/uefa-nations-league/articles/the-record-luka-modri-broke-with-croatia-at-age-41-2026-09-26",
+      "source_domain": "beinsports.com",
+      "tone": "praise",
+      "sensitive": false,
+      "handling": "Match reports mention he was unwell before the game: treat as health, do not joke."
+    },
+    {
+      "date": "2026-10-03",
+      "headline": "England thrash Croatia 7-0 in Rijeka; captain Modric says he is ashamed",
+      "facts": [
+        "Nations League League A Group 3; Croatia played behind closed doors except for about 6,000 children because of a fan-racism stadium ban.",
+        "Modric said losing was not the problem but the way they lost; he earned his 205th cap.",
+        "Croatia had also lost 4-1 to Spain in Seville earlier in the same window (reported by the same outlet)."
+      ],
+      "source_url": "https://www.nst.com.my/amp/sports/football/2026/10/1548661/modric-hopes-fans-back-croatia-against-spain-after-england-shame",
+      "source_domain": "nst.com.my",
+      "tone": "roast",
+      "sensitive": false,
+      "handling": "Joke only about the scoreline and team collapse. Never joke about the racism ban."
+    },
+    {
+      "date": "2026-10-06",
+      "headline": "Croatia 1-2 Spain in Split: Merino scores twice after Perisic gave Croatia the lead",
+      "facts": [
+        "Perisic scored first; Mikel Merino equalised on 61 minutes and won it on about 88 minutes.",
+        "Perisic was sent off for a second yellow card with about 10 minutes left.",
+        "Spain extended their unbeaten run to 42 games and qualified for the quarter-finals."
+      ],
+      "source_url": "https://www.aljazeera.com/sports/2026/10/6/spains-merino-nets-twice-to-avoid-croatia-shock-and-maintain-perfect-start",
+      "source_domain": "aljazeera.com",
+      "tone": "roast",
+      "sensitive": false
+    },
+    {
+      "date": "2026-10-07",
+      "headline": "Modric on Cope: Madrid is my home, but I am focused on playing; will decide step by step",
+      "facts": [
+        "He called Real Madrid the club of his life (13 years) and said returning would be a dream, in a useful role, with many things to align.",
+        "He said he still has passion, ambition and energy and cannot say whether it is months or years.",
+        "He called it a shame that Messi retired from internationals and said Ronaldo deserves a proper farewell."
+      ],
+      "source_url": "https://milanreports.com/2026/10/07/modric-madrid-is-my-home-but-now-im-focused-on-playing-football/",
+      "source_domain": "milanreports.com",
+      "tone": "neutral",
+      "sensitive": false
+    },
+    {
+      "date": "2026-10-25",
+      "headline": "Modric reported with an assist and a yellow card in Milan's 2-0 win at Udinese",
+      "facts": [
+        "FotMob lists him playing 90 minutes with 1 assist and 1 yellow card, rating 8.1.",
+        "This is a single aggregator listing; the match report was not opened."
+      ],
+      "source_url": "https://www.fotmob.com/players/31097/luka-modric",
+      "source_domain": "fotmob.com",
+      "tone": "praise",
+      "sensitive": false,
+      "confidence_note": "low: aggregator only"
+    },
+    {
+      "date": "2026-10-28",
+      "headline": "Milan collapse 2-4 at home to Bologna after leading 2-1; Modric calls the result disappointing",
+      "facts": [
+        "Modric came on around half-time for Tomori (the reason for the change is not stated in the sources); Samuel Mbangula scored a hat-trick for Bologna (8', 62', 86').",
+        "Milan led 2-1 at half-time; Cisse scored twice and Bartesaghi put through his own net for 2-2 on 60'.",
+        "Modric called the Bologna result disappointing after the derby (Goal, 1 Nov). Earlier claim that he said Milan 'deserved to lose' could not be verified and was removed.",
+        "It was Milan's only Serie A defeat of the season so far (7W 3D 1L after 11 rounds per Wikipedia); the loss left them on 18 points after 9 rounds."
+      ],
+      "source_url": "https://www.sofascore.com/football/match/ac-milan-bologna/KdbsRdb",
+      "source_domain": "sofascore.com",
+      "tone": "roast",
+      "sensitive": false
+    },
+    {
+      "date": "2026-10-31",
+      "headline": "Milan beat Inter 3-1 in the derby; Modric plays the full 90 minutes at 41",
+      "facts": [
+        "Pulisic scored on 4 minutes, Rabiot on 10, Bastoni for Inter on 22, Moreira on 43.",
+        "Modric started in midfield and was not substituted (FotMob lists 90 minutes); he called it a stunning victory and a wonderful performance and said Milan deserved the win (Goal, 1 Nov).",
+        "Milan's club site calls it their fourth consecutive victory in the fixture, including the Coppa Italia. The win lifted Milan to 21 points after 10 rounds, fourth, four behind Inter and Lazio."
+      ],
+      "source_url": "https://www.acmilan.com/en/news/articles/serie-a/2026-10-31/ac-milan-wins-the-derby",
+      "source_domain": "acmilan.com",
+      "tone": "praise",
+      "sensitive": false
+    },
+    {
+      "date": "2026-11-05",
+      "headline": "Milan lose 0-2 to Ferencvaros at San Siro in the Europa League; Modric comes on around the hour",
+      "facts": [
+        "Lenny Joseph scored twice (52', 66'); Ferencvaros had Bamidele Yusuf sent off on 77' and still won.",
+        "Modric came on at about 63 minutes (LiveScore listing; the match text does not mention him; FotMob lists a 27-minute substitute appearance).",
+        "It was Milan's third defeat in four Europa League games (1W 0D 3L, 4 scored 7 conceded, including a 0-3 loss at Bournemouth on 22 Oct), so an early exit was a risk."
+      ],
+      "source_url": "https://www.livescore.com/en/news/football/europa-league/uel-milan-0-2-ferencvaros-dismal-rossoneri-risk-quick-europa-exit-football-italia/",
+      "source_domain": "livescore.com",
+      "tone": "roast",
+      "sensitive": false
+    },
+    {
+      "date": "2026-11-07",
+      "headline": "Modric in Sportweek: I had no doubts about staying at Milan; I just needed to feel wanted",
+      "facts": [
+        "He said he feels good and will keep playing as long as he feels strong; after talks with Amorim and the club he had no doubts this summer.",
+        "He said Milan is his team and he wants to help the young players develop; he said Milan can challenge for the Serie A title."
+      ],
+      "source_url": "https://milanreports.com/2026/11/07/modric-milan-i-had-no-doubts/",
+      "source_domain": "milanreports.com",
+      "tone": "praise",
+      "sensitive": false
+    },
+    {
+      "date": "2026-11-08",
+      "headline": "Modric reaches 50 Milan appearances in 2-1 win at Genoa",
+      "facts": [
+        "Milan debut was in the Coppa Italia against Bari on 17 August 2025; 50 official appearances means 40 starts and 10 substitute appearances.",
+        "In those 50 games: 2 goals and 5 assists (Milan Press via Milan Reports).",
+        "He turned 41 in September 2026."
+      ],
+      "source_url": "https://milanreports.com/2026/11/09/modric-50-appearances-ac-milan-at-41/",
+      "source_domain": "milanreports.com",
+      "tone": "praise",
+      "sensitive": false
+    },
+    {
+      "date": "2026-11-12",
+      "headline": "Modric presents Harry Kane with a replica of the first football brought to Croatia before England 2-1 Croatia at Wembley",
+      "facts": [
+        "The Croatian federation's gift marked Kane's Ballon d'Or and his record 126th England cap; the original ball arrived in Zupanja in 1880 via English industrialists.",
+        "Modric started on the bench, came on around the 76th minute for his 207th cap; Kane scored the winning penalty.",
+        "Modric told Sky Sports Kane deserves the record and called him humble and hard-working; they were Tottenham teammates."
+      ],
+      "source_url": "https://hns.team/en/news/32036/luka-modric-presents-harry-kane-with-a-replica-of-the-first-football-brought-to-croatia/",
+      "source_domain": "hns.team",
+      "tone": "praise",
+      "sensitive": false
+    },
+    {
+      "date": "2026-11-15",
+      "headline": "Croatia beat Czechia 2-1 in Osijek; Modric wins 208th cap, level with Messi, and ends a four-game losing run",
+      "facts": [
+        "Perisic scored inside two minutes; Hlozek equalised on 84; substitute Lovro Majer scored the winner.",
+        "Only Ronaldo (234) has more caps than Modric and Messi (208).",
+        "The win ended Croatia's first-ever four-match losing streak and gave them third place and a March 2027 play-off to stay in League A."
+      ],
+      "source_url": "https://www.croatiaweek.com/croatia-beat-czechia-modric-equals-messi-record/",
+      "source_domain": "croatiaweek.com",
+      "tone": "praise",
+      "sensitive": false
+    },
+    {
+      "date": "2026-11-17",
+      "headline": "Davor Suker tells Marca Modric would do a great job in Real Madrid administration after he finishes playing",
+      "facts": [
+        "Suker said Modric should first finish his playing career.",
+        "Suker, a former Real Madrid player, suggested an administrative role suits Modric.",
+        "This is one person's opinion; no club announcement exists."
+      ],
+      "source_url": "https://sports.yahoo.com/articles/croatia-legend-opens-vinicius-flaws-140000527.html",
+      "source_domain": "sports.yahoo.com",
+      "tone": "neutral",
+      "sensitive": false
+    },
+    {
+      "date": "2026-11-20",
+      "headline": "Gazzetta: Modric's endless journey; Frosinone will be his 227th different opponent",
+      "facts": [
+        "Frosinone (22 Nov, San Siro) will be the 227th opponent of his career: Gazzetta via Milan Reports gives 155 club + 71 Croatia, SempreMilan gives 155 + 72 (outlets differ).",
+        "Gazzetta says he has played 19 of 21 matches overall (club and country) since August, 1,114 minutes. This matches 13 Milan appearances plus all 6 Croatia games; it is not 19 of Milan's 21 games.",
+        "Contract ends June 2027 with no extension option; he stayed at Milan in the summer while his family returned to Madrid."
+      ],
+      "source_url": "https://milanreports.com/2026/11/20/modric-croatia-milan-always-there/",
+      "source_domain": "milanreports.com",
+      "tone": "praise",
+      "sensitive": false,
+      "handling": "The family-in-Madrid detail is context only, do not joke about it."
+    }
+  ],
+  "now": {
+    "as_of": "2026-11-20",
+    "club": "AC Milan (Serie A), shirt number 14, joined on a free transfer on 14 July 2025 after 13 years at Real Madrid",
+    "coach": "Ruben Amorim (Milan); Slaven Bilic (Croatia, second spell, appointed 13 July 2026 after Dalic stepped down; first match 26 Sep 2026)",
+    "contract": "Extended by one year (Wikipedia gives 23 July 2026); runs to 30 June 2027 with no further extension option per Gazzetta",
+    "age": "41 (born 9 September 1985)",
+    "role_at_club": "Rotation/regular veteran midfielder: 13 appearances in 2026-27 (11 Serie A with 8 starts, 2 Europa League substitute appearances); Gazzetta: 19 of 21 matches since August across club and country (13 Milan + 6 Croatia), 1,114 minutes in total",
+    "season_numbers": "Serie A 2026-27 per FotMob: 11 apps, 8 starts, 0 goals, 2 assists, 746 minutes, average rating 7.17, 1 yellow. 50 Milan appearances in total as of 8 Nov 2026: 2 goals, 5 assists (Milan Press).",
+    "milan_context": "Milan finished fifth last season (Europa League spot). After 10 league rounds on 31 Oct they had 21 points and were fourth, four behind Inter and Lazio. They lost 2-4 to Bologna on 28 Oct, beat Inter 3-1 on 31 Oct, lost 0-2 at home to Ferencvaros on 5 Nov in the Europa League (1 win, 3 losses in 4 league-phase games), and won 2-1 at Genoa on 8 Nov (24 points, fourth, after 11 rounds per Wikipedia). Next match: Frosinone at San Siro on 22 Nov 2026 (kick-off time not verified; Wikipedia lists 15:00 CET).",
+    "national_team": "Croatia captain. 208 caps (tied with Messi, behind Ronaldo on 234). Croatia lost the 2026 World Cup round of 32 to Portugal 2-1, Dalic left, Bilic returned; four straight Nations League defeats (4-1 Spain, 7-0 England, 1-2 Spain, 1-2 England) before beating Czechia 2-1 on 15 Nov; third in group, play-off in March 2027.",
+    "what_people_say": "Gazzetta (via SempreMilan) runs the headline 'Old to who?' and says the decision on his future is his own and that fatigue and distance from his family may weigh next season. Modric says he decides month by month and wants a useful role at Real Madrid one day.",
+    "market_value": "EUR 2.6M current on FotMob versus a EUR 29M peak (Dec 2014)",
+    "off_pitch": "Minority co-owner of Swansea City since April 2025; 50% co-owner of Zeppelin Craft Brewery (Croatia); Modric Family SL (Madrid real estate) founded 2020 (Wikipedia). No new business story was found in the last 90 days.",
+    "data_conflicts": [
+      "Croatia v Spain on 6 Oct: Al Jazeera, beIN and SportsMole say 6 Oct; one outlet says 7 Oct. 6 Oct used. One report says Modric was booked and subbed on 66' but Al Jazeera does not confirm it, so it is not used.",
+      "Wembley substitution time: 70th (Croatia Week) vs 76th (Goal, FotMob 14 minutes played). 76th used.",
+      "Football Italia (5 Sep) gave Modric 202 caps and ranked him third; its own list conflicts, but later counting (203 Prague, 204 Seville, 205 Rijeka, 206 Split, 207 Wembley, 208 Osijek) is consistent with 202 before 26 Sep.",
+      "Opponent count: Gazzetta via Milan Reports says 155 club + 71 national; SempreMilan says 72 national.",
+      "Group label: one outlet says A1, others A3. Not used.",
+      "Milan debut: 17 Aug 2025 Coppa Italia v Bari (Milan Press) vs 23 Aug 2025 league debut v Cremonese (Wikipedia); both can be true.",
+      "FotMob's match list (scraped) showed the 5 Nov Ferencvaros game as a Milan 2-0 win; LiveScore and Wikipedia (Milan 0-2 at San Siro; Europa League record 1W 3L, 4 goals for, 7 against) show a 0-2 home loss. The loss is used."
+    ]
+  },
+  "quick_context": [
+    "Modric won the 2018 Ballon d'Or (753 points to Ronaldo's 476) after Real Madrid's third straight Champions League and Croatia's run to the World Cup final, where he took the Golden Ball.",
+    "It was the first time since Kaka in 2007 that neither Messi nor Ronaldo won it, and he was the first Croatian winner.",
+    "He left Real Madrid in 2025 after 13 years and six Champions League titles and joined Milan on a free transfer."
+  ],
+  "roast_past": [
+    {
+      "angle": "Spent years at Tottenham and left without a single trophy, then collected a pile of silverware at Madrid. Spurs fans can enjoy that one.",
+      "basis": "Wikipedia excerpt lists no Tottenham trophies; 28 major trophies at Real Madrid incl. six Champions League and four La Liga.",
+      "source_url": "https://en.wikipedia.org/wiki/Luka_Modri%C4%87"
+    },
+    {
+      "angle": "Euro 2024 versus Italy: penalty saved by Donnarumma, then he scored the rebound a minute later, and Croatia still went home after a stoppage-time equaliser. Heroic and unlucky in the same minute.",
+      "basis": "Wikipedia: penalty saved, goal a minute later, Zaccagni equalised in stoppage time, Croatia eliminated.",
+      "source_url": "https://en.wikipedia.org/wiki/Luka_Modri%C4%87"
+    },
+    {
+      "angle": "Won the World Cup Golden Ball in 2018 and did not win the World Cup. Best player at the party, no cake.",
+      "basis": "Golden Ball 2018; Croatia reached the final but did not win it.",
+      "source_url": "https://www.goal.com/en/lists/luka-modric-ac-milan-future-decicision-croatia-world-cup-exit-retire/bltf9c0d7c5a4cee543",
+      "note": "France won the final; not fetched this session."
+    },
+    {
+      "angle": "2022 semi-final: lost 3-0 to Messi's Argentina, then took the bronze ball and the bronze medal.",
+      "basis": "Wikipedia: 3-0 loss to Argentina in the semi-final, 2-1 win over Morocco for third place, Bronze Ball.",
+      "source_url": "https://en.wikipedia.org/wiki/Luka_Modri%C4%87"
+    },
+    {
+      "angle": "Real Madrid farewell tour ended with a 4-0 semi-final loss to PSG at the 2025 Club World Cup.",
+      "basis": "Wikipedia: played all six Club World Cup matches, lost 4-0 to PSG in the semi-final.",
+      "source_url": "https://en.wikipedia.org/wiki/Luka_Modri%C4%87"
+    },
+    {
+      "angle": "Milan debut in the league: a 2-1 home defeat to Cremonese. Welcome to Serie A, legend.",
+      "basis": "Wikipedia: debut 23 August 2025, 2-1 home defeat to Cremonese.",
+      "source_url": "https://en.wikipedia.org/wiki/Luka_Modri%C4%87"
+    },
+    {
+      "angle": "Age jokes he has already embraced: oldest scorer in Euro history (38y 289d) in 2024, now oldest Croatia scorer at 41; Gazzetta headline asks 'Old to who?'",
+      "basis": "beIN (Euro 2024 age); SempreMilan/GdS headline.",
+      "source_url": "https://www.beinsports.com/en-nz/football/uefa-nations-league/articles-video/evergreen-modric-fires-as-croatia-beats-czechia-2026-09-26"
+    }
+  ],
+  "roast_now": [
+    {
+      "angle": "Retired from retiring: Croatia farewell was planned around the 6 Oct Spain game, then he stayed on. Says it could be two months, six months or a year.",
+      "basis": "Gazzetta via Milan Reports; HNS statement 5 Sep; Cope/Partidazo 7 Oct.",
+      "source_url": "https://milanreports.com/2026/11/20/modric-croatia-milan-always-there/"
+    },
+    {
+      "angle": "Croatia under captain Modric: first-ever four-match losing streak, including a 7-0 in Rijeka, before beating Czechia in Osijek (Modric played 90 minutes as captain but did not score). Roast the team, not the man.",
+      "basis": "Croatia Week 15 Nov; NST 3 Oct.",
+      "source_url": "https://www.croatiaweek.com/croatia-beat-czechia-modric-equals-messi-record/"
+    },
+    {
+      "angle": "Milan led Bologna 2-1 at half-time, Modric came on around the break, and it finished 2-4. He called the result disappointing.",
+      "basis": "Sofascore; Goal 1 Nov (Modric quote).",
+      "source_url": "https://www.sofascore.com/football/match/ac-milan-bologna/KdbsRdb"
+    },
+    {
+      "angle": "Europa League: 0-2 at home to Ferencvaros and a possible early exit; Modric arrived around the hour mark to watch the second goal.",
+      "basis": "Football Italia via LiveScore; goals at 52' and 66', Modric on at 63'.",
+      "source_url": "https://www.livescore.com/en/news/football/europa-league/uel-milan-0-2-ferencvaros-dismal-rossoneri-risk-quick-europa-exit-football-italia/"
+    },
+    {
+      "angle": "Frosinone will be the 227th different opponent of his career; at some point there will be nobody left to be nostalgic about.",
+      "basis": "Gazzetta via Milan Reports/SempreMilan (155 club + 71/72 Croatia).",
+      "source_url": "https://milanreports.com/2026/11/20/modric-croatia-milan-always-there/"
+    },
+    {
+      "angle": "Market value EUR 2.6M, down from a EUR 29M peak. Priced like a used sofa, plays like a reserve Ballon d'Or.",
+      "basis": "FotMob (aggregator estimate, not a transfer fee).",
+      "source_url": "https://www.fotmob.com/players/31097/luka-modric",
+      "note": "Use as a loose aggregator estimate."
+    },
+    {
+      "angle": "Hands Kane a replica of the first football brought to Croatia, then comes off the bench to lose 2-1 while Kane scores the winning penalty and breaks the England caps record.",
+      "basis": "HNS, Sky Sports, Croatia Week.",
+      "source_url": "https://hns.team/en/news/32036/luka-modric-presents-harry-kane-with-a-replica-of-the-first-football-brought-to-croatia/"
+    },
+    {
+      "angle": "Wants a Real Madrid desk job after football; Suker says he would be great in administration. Future: dribbling a stapler.",
+      "basis": "Marca via Yahoo (17 Nov); Madrid Universal (7 Oct).",
+      "source_url": "https://sports.yahoo.com/articles/croatia-legend-opens-vinicius-flaws-140000527.html"
+    }
+  ],
+  "praise": [
+    {
+      "angle": "208 caps, level with Messi; only Ronaldo (234) has more.",
+      "number": "208 caps",
+      "source_url": "https://www.croatiaweek.com/croatia-beat-czechia-modric-equals-messi-record/"
+    },
+    {
+      "angle": "At 41 he played 90 minutes as captain in Osijek days after Wembley, then back to Milan: 19 of 21 matches overall (club and country) since August, 1,114 minutes.",
+      "number": "19 of 21 matches, 1,114 min",
+      "source_url": "https://milanreports.com/2026/11/20/modric-croatia-milan-always-there/"
+    },
+    {
+      "angle": "Full 90 in the 3-1 derby win over Inter at 41, Amorim's first derby win.",
+      "number": "3-1, 90 minutes",
+      "source_url": "https://www.acmilan.com/en/news/articles/serie-a/2026-10-31/ac-milan-wins-the-derby"
+    },
+    {
+      "angle": "Scored in Prague at 41: reportedly the oldest scorer in Croatia's history.",
+      "number": "age 41",
+      "source_url": "https://www.beinsports.com/en-us/soccer/uefa-nations-league/articles/the-record-luka-modri-broke-with-croatia-at-age-41-2026-09-26",
+      "note": "single source for the record claim"
+    },
+    {
+      "angle": "Third-oldest goalscorer in Milan history: winner at Pisa aged 40y 157d (about 40y 5m 4d).",
+      "number": "40 years, 5 months",
+      "source_url": "https://sports.yahoo.com/articles/luka-modric-makes-serie-history-221500121.html",
+      "note": "Pisa goal was 13 Feb 2026, older than 90 days; used as context for the current record chase."
+    },
+    {
+      "angle": "13 years at Real Madrid: six Champions Leagues and 28 major trophies.",
+      "number": "6 UCL, 28 trophies",
+      "source_url": "https://en.wikipedia.org/wiki/Luka_Modri%C4%87"
+    }
+  ],
+  "no_joke_topics": [
+    "Injuries and health: fractured cheekbone from the Locatelli collision (surgery April 2026), any illness before the Prague match (fever), any player injury.",
+    "Family: wife and three children; the family returned to Madrid while he stayed at Milan.",
+    "Legal: the 2018 Mamic perjury charge (dismissed) and the Negreira case he commented on.",
+    "War and refugee childhood in Zadar (background topic, no fact source fetched this session, so not used in any claim).",
+    "Racism: the stadium ban on Croatia for fan racism before the 7-0 game.",
+    "Doping: no story found, never raise it.",
+    "Do not joke about death, funerals or retirement as 'dying'; age and retirement jokes are fine if kept friendly."
+  ],
+  "viral_moments": [
+    {
+      "moment": "After the 7-0 loss to England he says he is ashamed and that the manner of the defeat is the problem.",
+      "date": "2026-10-03",
+      "why_provocative": "Captain publicly criticises his own team and asks the fans to judge after the Spain match.",
+      "source_url": "https://www.nst.com.my/amp/sports/football/2026/10/1548661/modric-hopes-fans-back-croatia-against-spain-after-england-shame",
+      "youtube_link": null,
+      "timestamp": null
+    },
+    {
+      "moment": "Gives Kane the replica of the first football brought to Croatia and tells Sky Sports Kane deserves the caps record, calling him humble and hard-working.",
+      "date": "2026-11-12",
+      "why_provocative": "Old Ballon d'Or winner hands the trophy generation a gift while Croatia lose at Wembley; Kane thanked Luka and Croatia on the night.",
+      "source_url": "https://www.espn.com/soccer/story/_/id/50469858/luka-modric-harry-kane-england-croatia",
+      "youtube_link": null,
+      "timestamp": null
+    },
+    {
+      "moment": "Cope mixed zone after Spain: Madrid is my home, returning would be a dream, but I want a useful role.",
+      "date": "2026-10-07",
+      "why_provocative": "A Milan player talks about going back to Real Madrid; he also calls Messi's international retirement a shame and says Ronaldo deserves a big farewell (Madrid Universal).",
+      "source_url": "https://madriduniversal.com/real-madrid-legend-luka-modric-opens-up-on-potential-return-to-the-club-would-love-to-be-useful/",
+      "youtube_link": null,
+      "timestamp": null
+    },
+    {
+      "moment": "AS interview: praises Mourinho, says Ronaldo will reach 1,000 goals, calls the Negreira case not normal.",
+      "date": "2026-09-03",
+      "why_provocative": "Mourinho in charge at Madrid, a Ronaldo 1,000-goal prediction, and a comment on the Negreira case (legal topic, do not joke).",
+      "source_url": "https://africasoccer.com/luka-modric-hints-at-real-madrid-return-as-he-backs-mourinho-and-cristiano-ronaldo/",
+      "youtube_link": null,
+      "timestamp": null
+    },
+    {
+      "moment": "Sportweek: I just needed to feel wanted, after talks with Amorim.",
+      "date": "2026-11-07",
+      "why_provocative": "A 41-year-old World Cup bronze medallist says the thing every old pro thinks.",
+      "source_url": "https://sempremilan.com/modric-could-continue-beyond-season-feel",
+      "youtube_link": null,
+      "timestamp": null
+    }
+  ],
+  "viral_moments_note": "No YouTube links were verified: the shared web-search budget ran out before video searches, and no video URL is invented. Use footage_terms to find the clips.",
+  "footage_terms": [
+    {
+      "phrase": "AC Milan 3-1 Inter highlights 31 October 2026 Modric",
+      "likely_watermark": "yes: Serie A/DAZN/broadcaster logos and score bug"
+    },
+    {
+      "phrase": "Croatia vs Czechia 2-1 Osijek highlights Modric 208th cap",
+      "likely_watermark": "yes: UEFA/broadcaster graphics; sometimes burned-in commentary subtitles"
+    },
+    {
+      "phrase": "Modric gives Kane replica ball Wembley Croatia England pre-match",
+      "likely_watermark": "maybe: HNS or ITV/Sky rips carry logos; official federation upload is cleaner"
+    },
+    {
+      "phrase": "Luka Modric goal Czechia Prague 2026 Croatia",
+      "likely_watermark": "yes: broadcaster logo"
+    },
+    {
+      "phrase": "Modric Milanello training AC Milan official 2026",
+      "likely_watermark": "low: club channel B-roll, small club logo"
+    },
+    {
+      "phrase": "Modric press conference Croatia Bilic 2026",
+      "likely_watermark": "low-medium: federation channel, possible burned-in subtitles"
+    },
+    {
+      "phrase": "Modric Pisa winner February 2026 Milan goal",
+      "likely_watermark": "yes: broadcaster logo; fan uploads often add burned-in subtitles and music"
+    },
+    {
+      "phrase": "Modric penalty saved Donnarumma then goal Euro 2024",
+      "likely_watermark": "yes: UEFA broadcaster; fan edits often have subtitles"
+    },
+    {
+      "phrase": "Modric Ballon d'Or 2018 ceremony Paris",
+      "likely_watermark": "medium: France Football/broadcaster rips"
+    },
+    {
+      "phrase": "Modric Real Madrid farewell Bernabeu May 2025",
+      "likely_watermark": "medium: club channel is cleaner than news rips"
+    }
+  ],
+  "footage_terms_note": "Phrases only, none verified against actual videos. Avoid compilation or skills reels with burned-in subtitles, music and channel logos.",
+  "flipbook_ideas": [
+    "Modric hands Kane a replica football while Kane holds two tiny Ballons d'Or; Kane's arms are full, Modric has a pocket full of caps.",
+    "Cap staircase: Modric stacks 208 caps beside Messi's stack at the same height; Ronaldo's stack at 234 towers above and Ronaldo waves politely.",
+    "Retirement revolving door: Modric walks through a door marked Retire and walks straight out of another door marked Nations League.",
+    "Opponent notebook: Modric ticks off 227 opponents; Frosinone appears as the newest line, written in tiny letters.",
+    "Real Madrid desk job: Modric in a suit behind a Bernabeu desk, calmly dribbling a stapler between two paper stacks.",
+    "Checkerboard rescue: Modric in a Croatia checkered shirt carrying the whole squad on one shoulder out of a pit labelled four defeats."
+  ],
+  "image_reference_notes": {
+    "signature_look": "Slight, compact midfielder with calm, deadpan, slightly squinting expression. Classic image: head up, scanning, passing with the outside of the right boot. These are general impressions, not verified from a source this session.",
+    "current_look": "GAP: current hair and beard not verified from any source this session. Check a November 2026 photo (e.g. Milan official or HNS) before drawing. Earlier-years memory (long hair or ponytail) must not be assumed.",
+    "kit_colours": "AC Milan: red and black vertical stripes, number 14 (FotMob). Croatia: red-and-white checkerboard shirt with captain's armband (captain role confirmed). Real Madrid era: all white. Colours of the replica ball given to Kane are not verified.",
+    "expressions": "Calm half-smile, neutral focus, tired-wise veteran look when talking about age; astonished or ashamed face only for the 7-0 joke.",
+    "signature_pose": "Hands slightly open at sides, head up scanning, one foot over the ball ready to pass; alternative: arms behind back accepting a gift or trophy."
+  },
+  "claims": [
+    {
+      "claim": "Modric is at AC Milan, shirt number 14, contract to 30 June 2027",
+      "source_url": "https://www.fotmob.com/players/31097/luka-modric",
+      "confidence": "high"
+    },
+    {
+      "claim": "Modric's contract has no further extension option (Gazzetta)",
+      "source_url": "https://milanreports.com/2026/11/20/modric-croatia-milan-always-there/",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Modric joined Milan on 14 July 2025 on a free transfer after 13 years at Real Madrid",
+      "source_url": "https://en.wikipedia.org/wiki/Luka_Modri%C4%87",
+      "confidence": "high"
+    },
+    {
+      "claim": "Contract extended by one year; Wikipedia dates it 23 July 2026; Goal reported on 15 July that he was ready to extend",
+      "source_url": "https://www.goal.com/en/lists/luka-modric-ac-milan-future-decicision-croatia-world-cup-exit-retire/bltf9c0d7c5a4cee543",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Milan coach is Ruben Amorim",
+      "source_url": "https://www.acmilan.com/en/news/articles/serie-a/2026-10-31/ac-milan-wins-the-derby",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Milan finished fifth last season and qualified for the Europa League",
+      "source_url": "https://www.goal.com/en/lists/luka-modric-ac-milan-future-decicision-croatia-world-cup-exit-retire/bltf9c0d7c5a4cee543",
+      "confidence": "high"
+    },
+    {
+      "claim": "Modric is 41, born 9 September 1985",
+      "source_url": "https://www.fotmob.com/players/31097/luka-modric",
+      "confidence": "high"
+    },
+    {
+      "claim": "Modric has 13 appearances in 2026-27 for Milan: 11 Serie A (8 starts) and 2 Europa League substitute apps; Gazzetta says he played 19 of 21 matches overall since August (13 Milan + 6 Croatia); 1,114 minutes",
+      "source_url": "https://milanreports.com/2026/11/20/modric-croatia-milan-always-there/",
+      "confidence": "high"
+    },
+    {
+      "claim": "Serie A 2026-27: 0 goals, 2 assists, 746 minutes, average FotMob rating 7.17 (FotMob)",
+      "source_url": "https://www.fotmob.com/players/31097/luka-modric",
+      "confidence": "medium"
+    },
+    {
+      "claim": "50 Milan appearances reached at Genoa on 8 Nov 2026: 40 starts, 10 subs, 2 goals, 5 assists",
+      "source_url": "https://milanreports.com/2026/11/09/modric-50-appearances-ac-milan-at-41/",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Milan debut was 17 Aug 2025 in the Coppa Italia v Bari; league debut 23 Aug 2025 was a 2-1 home defeat to Cremonese",
+      "source_url": "https://en.wikipedia.org/wiki/Luka_Modri%C4%87",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Milan beat Inter 3-1 on 31 Oct 2026 (Pulisic 4', Rabiot 10', Bastoni 22' for Inter, Moreira 43'); Modric started and played the full match",
+      "source_url": "https://www.acmilan.com/en/news/articles/serie-a/2026-10-31/ac-milan-wins-the-derby",
+      "confidence": "high"
+    },
+    {
+      "claim": "After 10 rounds Milan had 21 points and were fourth, four behind Inter and Lazio",
+      "source_url": "https://www.goal.com/en/news/modric-after-the-derby-no-time-to-complain-and-this-is-what-must-be-done-to-win-titles/blt2655ae858dabf7f1",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Milan lost 2-4 at home to Bologna on 28 Oct 2026 after leading 2-1; Mbangula hat-trick; Modric came on at about half-time for Tomori (reason not stated)",
+      "source_url": "https://www.sofascore.com/football/match/ac-milan-bologna/KdbsRdb",
+      "confidence": "high"
+    },
+    {
+      "claim": "Modric called the Bologna defeat a disappointing result (Goal, 1 Nov); the earlier 'deserved to lose' quote was not verifiable",
+      "source_url": "https://www.goal.com/en/news/modric-after-the-derby-no-time-to-complain-and-this-is-what-must-be-done-to-win-titles/blt2655ae858dabf7f1",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Milan lost 0-2 to Ferencvaros on 5 Nov 2026 (Lenny Joseph 52', 66'); Modric came on about 63'",
+      "source_url": "https://www.livescore.com/en/news/football/europa-league/uel-milan-0-2-ferencvaros-dismal-rossoneri-risk-quick-europa-exit-football-italia/",
+      "confidence": "high"
+    },
+    {
+      "claim": "Milan won 2-1 at Genoa on 8 Nov 2026",
+      "source_url": "https://www.fotmob.com/players/31097/luka-modric",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Milan won 2-0 at Udinese on 25 Oct 2026 and Modric had 1 assist and 1 yellow (FotMob listing only)",
+      "source_url": "https://www.fotmob.com/players/31097/luka-modric",
+      "confidence": "low"
+    },
+    {
+      "claim": "Modric said in Sportweek he had no doubts about staying, needed to feel wanted, will keep playing while he feels this way",
+      "source_url": "https://milanreports.com/2026/11/07/modric-milan-i-had-no-doubts/",
+      "confidence": "high"
+    },
+    {
+      "claim": "Modric is Croatia captain and has 208 caps, level with Messi; Ronaldo has 234",
+      "source_url": "https://www.croatiaweek.com/croatia-beat-czechia-modric-equals-messi-record/",
+      "confidence": "high"
+    },
+    {
+      "claim": "Croatia beat Czechia 2-1 in Osijek on 15 Nov 2026 (Perisic early, Hlozek 84', Majer winner); it ended a four-match losing streak, a first for Croatia",
+      "source_url": "https://www.croatiaweek.com/croatia-beat-czechia-modric-equals-messi-record/",
+      "confidence": "high"
+    },
+    {
+      "claim": "Croatia finished third in the group and have a March 2027 play-off to stay in League A",
+      "source_url": "https://www.croatiaweek.com/croatia-beat-czechia-modric-equals-messi-record/",
+      "confidence": "high"
+    },
+    {
+      "claim": "England beat Croatia 7-0 in Rijeka on 3 Oct 2026; Modric said he was ashamed",
+      "source_url": "https://www.nst.com.my/amp/sports/football/2026/10/1548661/modric-hopes-fans-back-croatia-against-spain-after-england-shame",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Croatia played the 7-0 game behind closed doors except for about 6,000 children because of a fan-racism ban",
+      "source_url": "https://www.nst.com.my/amp/sports/football/2026/10/1548661/modric-hopes-fans-back-croatia-against-spain-after-england-shame",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Croatia lost 1-2 to Spain in Split on 6 Oct 2026; Merino scored 61' and about 88'; Perisic was sent off",
+      "source_url": "https://www.aljazeera.com/sports/2026/10/6/spains-merino-nets-twice-to-avoid-croatia-shock-and-maintain-perfect-start",
+      "confidence": "high"
+    },
+    {
+      "claim": "Croatia lost 4-1 to Spain in Seville earlier in the same window",
+      "source_url": "https://www.nst.com.my/amp/sports/football/2026/10/1548661/modric-hopes-fans-back-croatia-against-spain-after-england-shame",
+      "confidence": "medium"
+    },
+    {
+      "claim": "England beat Croatia 2-1 at Wembley on 12 Nov 2026; Rogers 24', Sucic 59', Kane penalty 64'; Modric came on about 76' for his 207th cap",
+      "source_url": "https://www.goal.com/en/news/after-the-seven-goal-first-leg-england-deny-croatia-revenge-and-secure-qualification/blt7d18dacd8cc5446d",
+      "confidence": "high"
+    },
+    {
+      "claim": "Modric presented Kane with a replica of the first football brought to Croatia (Zupanja, 1880) from the Croatian federation, for his Ballon d'Or and record 126 England caps",
+      "source_url": "https://hns.team/en/news/32036/luka-modric-presents-harry-kane-with-a-replica-of-the-first-football-brought-to-croatia/",
+      "confidence": "high"
+    },
+    {
+      "claim": "Kane won the 2026 Ballon d'Or and broke Shilton's England caps record at Wembley on 12 Nov",
+      "source_url": "https://www.skysports.com/football/news/13611731/harry-kane-england-captain-reflects-on-overwhelming-wembley-reception-after-ballon-dor-win-and-record-breaking-appearance-against-croatia",
+      "confidence": "high"
+    },
+    {
+      "claim": "Modric told Sky Sports that Kane deserves the record; Modric and Kane were Tottenham teammates",
+      "source_url": "https://www.espn.com/soccer/story/_/id/50469858/luka-modric-harry-kane-england-croatia",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Modric scored in Croatia's 2-1 win in Prague on 26 Sep 2026 in Bilic's first game back",
+      "source_url": "https://www.beinsports.com/en-us/soccer/uefa-nations-league/articles/the-record-luka-modri-broke-with-croatia-at-age-41-2026-09-26",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Modric was reported as the oldest scorer in Croatia's history (single source)",
+      "source_url": "https://www.beinsports.com/en-us/soccer/uefa-nations-league/articles/the-record-luka-modri-broke-with-croatia-at-age-41-2026-09-26",
+      "confidence": "low"
+    },
+    {
+      "claim": "HNS confirmed on 5 Sep 2026 that Modric will keep playing for Croatia; Bilic is the coach",
+      "source_url": "https://football-italia.net/modric-decides-to-continue-playing-croatia/",
+      "confidence": "high"
+    },
+    {
+      "claim": "Croatia lost 2-1 to Portugal in the 2026 World Cup round of 32; Dalic stepped down (reported 8 July 2026) and Bilic was appointed on 13 July 2026",
+      "source_url": "https://en.wikipedia.org/wiki/Zlatko_Dali%C4%87",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Retirement from Croatia was expected after the 6 Oct Spain game but he stayed (Gazzetta)",
+      "source_url": "https://milanreports.com/2026/11/20/modric-croatia-milan-always-there/",
+      "confidence": "medium"
+    },
+    {
+      "claim": "On 7 Oct 2026 Modric said Madrid is his home and returning in a useful role would be a dream",
+      "source_url": "https://madriduniversal.com/real-madrid-legend-luka-modric-opens-up-on-potential-return-to-the-club-would-love-to-be-useful/",
+      "confidence": "high"
+    },
+    {
+      "claim": "Modric said he decides month by month and cannot say whether he plays two months or a year",
+      "source_url": "https://sempremilan.com/modric-strongly-hints-real-madrid-return",
+      "confidence": "high"
+    },
+    {
+      "claim": "On 3 Sep 2026 Modric praised Mourinho, predicted Ronaldo reaches 1,000 goals and said the end of his career is approaching",
+      "source_url": "https://africasoccer.com/luka-modric-hints-at-real-madrid-return-as-he-backs-mourinho-and-cristiano-ronaldo/",
+      "confidence": "medium"
+    },
+    {
+      "claim": "On 17 Nov 2026 Suker told Marca that Modric would be great in Real Madrid administration",
+      "source_url": "https://sports.yahoo.com/articles/croatia-legend-opens-vinicius-flaws-140000527.html",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Frosinone will be his 227th opponent; 155 club and 71 or 72 Croatia opponents (sources differ)",
+      "source_url": "https://milanreports.com/2026/11/20/modric-croatia-milan-always-there/",
+      "confidence": "medium"
+    },
+    {
+      "claim": "FotMob market value EUR 2.6M, peak EUR 29M in Dec 2014",
+      "source_url": "https://www.fotmob.com/players/31097/luka-modric",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Modric scored the winner at Pisa on 13 Feb 2026 aged 40y 157d, third-oldest Serie A scorer (older than 90 days, context only)",
+      "source_url": "https://sports.yahoo.com/articles/luka-modric-makes-serie-history-221500121.html",
+      "confidence": "high"
+    },
+    {
+      "claim": "Modric won the 2018 Ballon d'Or with 753 points; Ronaldo had 476; first non-Messi/Ronaldo winner since Kaka in 2007",
+      "source_url": "https://en.wikipedia.org/wiki/2018_Ballon_d%27Or",
+      "confidence": "high"
+    },
+    {
+      "claim": "Modric won the 2018 World Cup Golden Ball; Real Madrid won the 2017-18 Champions League",
+      "source_url": "https://en.wikipedia.org/wiki/Luka_Modri%C4%87",
+      "confidence": "high"
+    },
+    {
+      "claim": "Croatia reached the 2018 World Cup final",
+      "source_url": "https://www.goal.com/en/lists/luka-modric-ac-milan-future-decicision-croatia-world-cup-exit-retire/bltf9c0d7c5a4cee543",
+      "confidence": "high"
+    },
+    {
+      "claim": "Modric spent 13 years at Real Madrid with six Champions League titles and 28 major trophies",
+      "source_url": "https://en.wikipedia.org/wiki/Luka_Modri%C4%87",
+      "confidence": "medium"
+    },
+    {
+      "claim": "No trophies are listed at Tottenham in the Wikipedia excerpt (absence of evidence)",
+      "source_url": "https://en.wikipedia.org/wiki/Luka_Modri%C4%87",
+      "confidence": "low"
+    },
+    {
+      "claim": "Euro 2024 v Italy: penalty saved by Donnarumma, then scored a minute later; Zaccagni stoppage-time equaliser; Croatia eliminated",
+      "source_url": "https://en.wikipedia.org/wiki/Luka_Modri%C4%87",
+      "confidence": "high"
+    },
+    {
+      "claim": "2022 World Cup: lost 3-0 to Argentina in the semi-final, won bronze, Modric took the Bronze Ball",
+      "source_url": "https://en.wikipedia.org/wiki/Luka_Modri%C4%87",
+      "confidence": "high"
+    },
+    {
+      "claim": "Real Madrid lost 4-0 to PSG in the 2025 Club World Cup semi-final; Modric played all six games",
+      "source_url": "https://en.wikipedia.org/wiki/Luka_Modri%C4%87",
+      "confidence": "high"
+    },
+    {
+      "claim": "Modric fractured his cheekbone in a collision with Locatelli; surgery April 2026 (health, no jokes)",
+      "source_url": "https://en.wikipedia.org/wiki/Luka_Modri%C4%87",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Modric was charged with perjury in the 2018 Mamic case and the charge was dismissed (legal, no jokes)",
+      "source_url": "https://en.wikipedia.org/wiki/Luka_Modri%C4%87",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Modric is a Swansea City minority co-owner since April 2025 and a 50% co-owner of Zeppelin Craft Brewery",
+      "source_url": "https://en.wikipedia.org/wiki/Luka_Modri%C4%87",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Family returned to Madrid while Modric stayed at Milan (family, no jokes)",
+      "source_url": "https://milanreports.com/2026/11/20/modric-croatia-milan-always-there/",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Gazzetta/SempreMilan: Modric 'Old to who?' headline and record chase vs Costacurta (41y 25d) and Ibrahimovic",
+      "source_url": "https://sempremilan.com/modric-milan-record-future-remains-unwritten",
+      "confidence": "medium"
+    }
+  ],
+  "research_notes": "17 dated recent stories were found. Web-search budget (shared limit) ran out before searches for the Lazio 2-2 draw, the Genoa match report and YouTube clips, so those are gaps. Sources include aggregators and Italian fan sites republishing Gazzetta and Sportweek; the official Milan, HNS, Sky, ESPN and Al Jazeera pages were used where fetched. Pages for bolognatoday and nogomania returned 403. Adversarial verification pass added on 2026-11-20 (see verification).",
+  "verification": {
+    "checked": 92,
+    "corrected": 25,
+    "removed": 2,
+    "notes": "Verified 2026-11-20 by fetching cited URLs (Wikipedia, FotMob, Sofascore, Goal, Sky, ESPN, HNS, Croatia Week, Al Jazeera, NST, beIN, acmilan.com, LiveScore, Madrid Universal, SempreMilan, MilanReports, Football Italia, Yahoo); the web-search budget was exhausted so no new independent searches could be run. Core facts confirmed: Milan, number 14, free transfer 14 Jul 2025, one-year extension 23 Jul 2026 to 30 Jun 2027, age 41, 208 caps, Osijek 2-1, Wembley 2-1, Rijeka 7-0, Split 1-2, Seville 4-1, derby 3-1, Bologna 2-4, Ferencvaros 0-2, Genoa 2-1, FotMob season line (11 SA apps, 746 min), 2018 Ballon d'Or 753-476, 28 Real Madrid trophies / 6 UCL. Corrections: Sept 3 interview was with AS, not Marca; '19 of 21' means club plus country, not Milan only; 'Amorim first derby win' unsupported (club site says fourth straight win in the fixture); removed unverifiable Bologna 'deserved to lose' quote and Tomori 'injured' reason; replaced Modric derby quote with verified Goal quote; removed 'dangerous Madrid' and 'no immediate plan to retire' from the Sept 3 item; Ferencvaros red card was on 77', not 'last quarter-hour'; Frosinone kick-off time 19:00 unverified (Wikipedia 15:00 CET) so removed; Bilic appointed 13 Jul 2026; replica ball colours unverified; removed Milan-colour detail; Croatia not 'rescued' by Modric in Osijek (he did not score). Remaining gaps: Bologna quotes (twasl page returned 403), Modric's 63' entry vs Ferencvaros (listing only), Wembley 207th cap (derived from 208 at Osijek), Prague 'oldest Croatia scorer' single source (beIN), 71 vs 72 Croatia opponents, FotMob market value is an aggregator estimate, Oct 7 interview outlet (COPE per MilanReports/SempreMilan vs El Larguero per Madrid Universal)."
+  }
+}

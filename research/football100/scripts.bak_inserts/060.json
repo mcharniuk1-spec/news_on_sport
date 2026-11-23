@@ -1,0 +1,63 @@
+{
+ "no": 60,
+ "subject": "Milan lose 0-2 at home to Ferencvaros; Amorim says his team was not mentally ready",
+ "title": "Milan's two-nil night at San Siro",
+ "voice": "kokoro",
+ "comic": false,
+ "style": null,
+ "lines": [
+  {
+   "vo": "Milan had an extra man and still lost two-nil at home.",
+   "card": "Man advantage, lost",
+   "footage": "Milan Ferencvaros Europa League highlights"
+  },
+  {
+   "vo": "Both Ferencvaros goals came within fourteen minutes after half-time. Milan had the extra man from the seventy-seventh minute.",
+   "card": "Two goals, 14 minutes",
+   "footage": "Lenny Joseph goals Ferencvaros San Siro"
+  },
+  {
+   "vo": "The first came after a mistake by backup keeper Lorenzo Torriani. Ouch. Lenny Joseph scored both.",
+   "card": "Lenny Joseph scores both",
+   "footage": "Milan Ferencvaros 0-2 highlights"
+  },
+  {
+   "vo": "Milan have three points from four Europa League games. That is twenty-eighth of thirty-six.",
+   "card": "Three points, 28th",
+   "footage": "Milan Ferencvaros Europa League highlights"
+  },
+  {
+   "vo": "Ruben Amorim said his side were not mentally ready. He questioned his own preparation. A coach who blames the coach. Rare.",
+   "card": "Amorim blames himself",
+   "footage": "Amorim press conference Milan Ferencvaros"
+  },
+  {
+   "vo": "One Serie A defeat in ten games, but three European defeats in four. Amorim says Milan cannot yet do both. One competition at a time, then.",
+   "card": "One competition only",
+   "footage": "Amorim reaction Milan loss"
+  },
+  {
+   "vo": "Want the next story before it breaks? Betting tips, news and predictions at aboutfootball dot UK.",
+   "card": "aboutfootball.uk",
+   "footage": "football100 end card"
+  }
+ ],
+ "chars": 725,
+ "est_seconds": 40,
+ "footage_terms": [
+  "Milan Ferencvaros Europa League highlights",
+  "Amorim press conference Milan Ferencvaros",
+  "Lenny Joseph goals Milan",
+  "Amorim reaction Milan loss"
+ ],
+ "inserts": [],
+ "facts_used": [
+  "ev0008: Ferencvaros won 2-0 at San Siro in the Europa League with two goals from Lenny Joseph, both within 14 minutes after half-time; Milan had a man advantage from the 77th minute (news/news_dedup.json)",
+  "ev0008: the first goal followed a mistake by backup keeper Lorenzo Torriani (news/news_dedup.json)",
+  "ev0008: Milan have 3 points from 4 Europa League games and sit 28th in the 36-team league phase; they have lost three of four (news/news_dedup.json)",
+  "ev0008: Amorim said the team was not mentally ready, admitted he may have erred, and said Milan cannot yet compete in Serie A and Europe at once (news/news_dedup.json)",
+  "ev0008 background: Milan have lost only once in 10 Serie A games but three of four European games this season (news/news_dedup.json)"
+ ],
+ "comic_score": 5,
+ "notes": "Non-comic, 0 inserts. The 'Europe is the problem' line paraphrases Amorim's point that Milan cannot yet play Serie A and Europe at once; it is an interpretation, not a quote. 'Ouch' is tone only. Amorim is the former Manchester United manager per the record; not used in the script. Punch-up pass: 'one competition at a time' paraphrases Amorim's point that Milan cannot yet do Serie A and Europe at once; it is an interpretation, not a quote. The hook says 'an extra man' and the next line gives the 77th-minute timing. Torriani line stays a football error, no personal joke."
+}

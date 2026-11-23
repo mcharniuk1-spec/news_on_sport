@@ -1,0 +1,104 @@
+{
+ "video_id": "Uj5QzjgUQko",
+ "topic": "AI-voiced parody: Ronaldo (and Messi) mock Lamine Yamal after Spain draws 0-0 with Cape Verde at the World Cup",
+ "hero": "Cristiano Ronaldo, Lamine Yamal and Lionel Messi (AI-voice avatars; names per title)",
+ "hero_role": "fictional AI-voiced characters: Ronaldo as the troller, Yamal as the target",
+ "media_type_overall": "game footage (e.g. GTA/FIFA)",
+ "hook": "Ronaldo avatar with pink headphones top-half and green-text 'YAMAL GOT COOKED' scoreboard SPAIN 0 CABO VERDE 0 over game footage",
+ "subtitle_style": "bold yellow/white caps 'YAMAL GOT COOKED' with black outline in scoreboard; no subtitles for speech",
+ "reaction_overlays": "speaker avatar photos with headphones at top-half; scoreboard cards (ARG 1-2 KSA, Germany 7-1 Curaçao) flash; trophy and Barça shirt backdrops",
+ "transition_summary": "Hard cuts between avatars every ~3-6s; bottom half is continuous FIFA-style practice-pitch gameplay; about 1 cut/7s (2 detected cuts in 20s)",
+ "audio_note": "AI-generated voice clips of Ronaldo, Yamal and Messi (disclaimer in description); dialogue: 'Yoh Mal, how are you going to win World Cup if you can't even beat Cape Verde?'",
+ "reuse_segments": [
+  {
+   "t0": 0,
+   "t1": 20,
+   "what": "AI-voiced avatar split-screen over FIFA-type gameplay",
+   "origin_guess": "game",
+   "rights_risk": "medium",
+   "how_to_reuse": "Footballer likenesses/AI voices are risky; recreate with fictional cartoon avatars and licensed game-capture permissions"
+  }
+ ],
+ "frames": [
+  {
+   "idx": 1,
+   "t": 0,
+   "desc": "Split screen: Ronaldo-style AI avatar with pink headphones over desert backdrop; below, white #7 player kicks at goal in game; scoreboard SPAIN 0 CABO VERDE 0, YAMAL GOT COOKED",
+   "type": "game",
+   "text_on_screen": "YAMAL GOT COOKED SPAIN 0 CABO VERDE 0",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 2,
+   "t": 2,
+   "desc": "Same split: Ronaldo avatar, scoreboard YAMAL GOT COOKED, distant player in game",
+   "type": "game",
+   "text_on_screen": "YAMAL GOT COOKED SPAIN 0 CABO VERDE 0",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 3,
+   "t": 4,
+   "desc": "Young curly-haired Yamal-style avatar with pink headphones, Barça #9 shirt behind; below white #7 player passing in game",
+   "type": "game",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 4,
+   "t": 6,
+   "desc": "Messi-style bearded avatar with blue headphones, trophy and 'MESSI = GOAT' sign; game below",
+   "type": "game",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 5,
+   "t": 8,
+   "desc": "Messi avatar, small scoreboard card Argentina 1-2 Saudi Arabia, game footage below",
+   "type": "game",
+   "text_on_screen": "1 2",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 6,
+   "t": 10,
+   "desc": "Messi avatar with blue headphones, white #7 player taking a shot below",
+   "type": "game",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 7,
+   "t": 12,
+   "desc": "Ronaldo avatar, game with #7 dribbling below",
+   "type": "game",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 8,
+   "t": 14,
+   "desc": "Ronaldo avatar, scoreboard card 7-1 Germany v Curaçao over game",
+   "type": "game",
+   "text_on_screen": "7-1",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 9,
+   "t": 16,
+   "desc": "Yamal avatar with pink headphones, game with white player running below",
+   "type": "game",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 10,
+   "t": 18,
+   "desc": "Messi avatar, game with white #7 player running below",
+   "type": "game",
+   "text_on_screen": "",
+   "transition_to_next": "none"
+  }
+ ]
+}

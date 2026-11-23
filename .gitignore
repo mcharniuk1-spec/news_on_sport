@@ -1,0 +1,11 @@
+*.mp4
+*.mov
+*.wav
+*.mp3
+*.png
+*.jpg
+node_modules/
+utube.yml
+.env*
+*.sqlite-wal
+*.sqlite-shm

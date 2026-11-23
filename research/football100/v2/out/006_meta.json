@@ -1,0 +1,97 @@
+{
+ "no": 6,
+ "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/006_fabio_cannavaro.mp4",
+ "total": 46.4,
+ "outro_start": 40.06,
+ "cover": true,
+ "seq": [
+  {
+   "id": "s01",
+   "kind": "HOOK",
+   "start": 0.1,
+   "end": 1.6,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/006/s01.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s02",
+   "kind": "NEWS",
+   "start": 4.866666666666666,
+   "end": 6.633333333333334,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/006/s02.mp4",
+   "clip_dur": 1.766,
+   "frames": 42
+  },
+  {
+   "id": "s03",
+   "kind": "STATS",
+   "start": 9.1,
+   "end": 10.6,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/006/s03.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s04",
+   "kind": "COMIC1",
+   "start": 15.066666666666666,
+   "end": 17.066666666666666,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/006/s04.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s05",
+   "kind": "COMIC2",
+   "start": 21.433333333333334,
+   "end": 23.433333333333334,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/006/s05.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s06",
+   "kind": "COMIC3",
+   "start": 29.0,
+   "end": 31.0,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/006/s06.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s07",
+   "kind": "PROVOC",
+   "start": 33.333333333333336,
+   "end": 34.833333333333336,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/006/s07.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s08",
+   "kind": "INTERVIEW",
+   "start": 37.1,
+   "end": 38.86666666666667,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/006/s08.mp4",
+   "clip_dur": 1.766,
+   "frames": 42
+  }
+ ],
+ "missing": [],
+ "dropped": [],
+ "cards": [],
+ "caption_sprites": 123,
+ "whoosh": [
+  0.0,
+  4.766666666666667,
+  9.0,
+  14.966666666666667,
+  21.333333333333332,
+  28.9,
+  33.233333333333334,
+  37.0,
+  39.96
+ ],
+ "shots": 14
+}

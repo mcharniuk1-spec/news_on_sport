@@ -1,0 +1,944 @@
+[
+ {
+  "headline": "Manchester United finally land Mauricio Pochettino after a decade of near misses",
+  "date": "2026-11-19",
+  "source_domain": "espn.com",
+  "url": "https://www.espn.com/soccer/story/_/id/50502738/manchester-united-pochettino-manager-hiring-decade",
+  "entities": [
+   "Mauricio Pochettino",
+   "Manchester United",
+   "Michael Carrick",
+   "USMNT"
+  ],
+  "facts": [
+   "Pochettino signed a two-year deal as United head coach.",
+   "United had circled him several times before: a 2016 lunch with Ferguson, the 2018 job after Mourinho, the 2021-22 search and a 2024 interview.",
+   "He replaces Michael Carrick, who got a two-year permanent deal in May and was sacked after 15 games."
+  ],
+  "background": "Pochettino was Tottenham manager when United first looked at him in 2018 and was coaching the US national team when he finally got the job.",
+  "angle": "coach",
+  "sensitive": false,
+  "footage_terms": [
+   "Pochettino Manchester United first press conference",
+   "Pochettino Tottenham best moments",
+   "Manchester United Pochettino appointed reaction"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "headline": "United CEO Berrada explains why Carrick was sacked after the Bournemouth defeat",
+  "date": "2026-11-20",
+  "source_domain": "skysports.com",
+  "url": "https://www.skysports.com/football/news/13614312/omar-berrada-interview-manchester-united-chief-executive-on-michael-carrick-mauricio-pochettino-recent-transfer-activity-and-the-club-hierarchy",
+  "entities": [
+   "Omar Berrada",
+   "Michael Carrick",
+   "Manchester United",
+   "Mauricio Pochettino"
+  ],
+  "facts": [
+   "Carrick was sacked in the November international break, after a 3-0 home loss to Bournemouth on 25 October raised pressure.",
+   "Berrada said the club wanted to judge the team until the break and called the decision very difficult.",
+   "He said United spent 163m pounds this summer, mostly on midfielders Baleba, Tielemans and Santos, and defended the lack of defensive signings."
+  ],
+  "background": "Carrick finished third last season and qualified United for the Champions League, which earned him a permanent contract.",
+  "angle": "scandal",
+  "sensitive": false,
+  "footage_terms": [
+   "Michael Carrick Manchester United sacked",
+   "Omar Berrada interview Manchester United",
+   "Manchester United Bournemouth 3-0 highlights"
+  ],
+  "confidence": "high"
+ },
+ {
+  "headline": "Drone video of Pochettino's first United training session spreads online",
+  "date": "2026-11-20",
+  "source_domain": "skysports.com",
+  "url": "https://www.skysports.com/football/news/13614271/manchester-united-drone-operator-removes-training-footage-of-mauricio-pochettinos-first-training-session-and-apologises",
+  "entities": [
+   "Mauricio Pochettino",
+   "Manchester United",
+   "Andoni Iraola",
+   "Liverpool"
+  ],
+  "facts": [
+   "A drone filmed 12 minutes of Pochettino's first Carrington session, including tactical drills, before the Liverpool game.",
+   "The operator apologised, called it a total error of judgement and took the video down, but reposts on X passed eight million views.",
+   "United have put up No Drones signs and will not sue this time; Iraola said such footage should not be legal."
+  ],
+  "background": "Liverpool last beat United at Anfield 7-0 in March 2023; Pochettino's first game in charge is there on 22 November.",
+  "angle": "viral",
+  "sensitive": false,
+  "footage_terms": [
+   "Manchester United drone training Carrington",
+   "Pochettino first training session Man United",
+   "Iraola drone training footage comments"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "headline": "Pochettino tells United players to relearn how to win as club sits 18th",
+  "date": "2026-11-19",
+  "source_domain": "espn.com",
+  "url": "https://www.espn.com/soccer/story/_/id/50529858/mauricio-pochettino-man-united-liverpool",
+  "entities": [
+   "Mauricio Pochettino",
+   "Manchester United",
+   "Coventry City",
+   "Liverpool"
+  ],
+  "facts": [
+   "United are 18th with one league win and eight league games without a win.",
+   "It is their worst start to a season in 40 years, one point behind 17th-placed Coventry.",
+   "Pochettino, 54, said belief must come back through hard work and told players to treat pressure as energy."
+  ],
+  "background": "Pochettino has been named in United talks for ten years; his previous job was national team coach of the United States.",
+  "angle": "coach",
+  "sensitive": false,
+  "footage_terms": [
+   "Pochettino Man United players must relearn winning",
+   "Manchester United relegation zone 2026",
+   "Pochettino Carrington first interview"
+  ],
+  "confidence": "high"
+ },
+ {
+  "headline": "Iraola's Liverpool: chaos, man-marking and a fixed set-piece defence",
+  "date": "2026-11-19",
+  "source_domain": "skysports.com",
+  "url": "https://www.skysports.com/football/news/13613875/andoni-iraolas-liverpool-start-assessed-creating-chaos-going-direct-and-fixing-leaky-defence",
+  "entities": [
+   "Andoni Iraola",
+   "Liverpool",
+   "Arne Slot",
+   "Virgil van Dijk",
+   "Ronald Araujo"
+  ],
+  "facts": [
+   "Liverpool are fourth after 10 league games with two defeats, but have won only once at Anfield.",
+   "Their pressing figure (PPDA) is 9.7, against 11.5 under Slot, and they average 50.8 long passes per game.",
+   "They have conceded two set-piece goals so far, after 23 under Slot last season."
+  ],
+  "background": "Iraola took over in June 2026 after three seasons at Bournemouth; Slot lost his job after Liverpool finished fifth as defending champions.",
+  "angle": "coach",
+  "sensitive": false,
+  "footage_terms": [
+   "Iraola Liverpool press conference",
+   "Liverpool Iraola tactics pressing",
+   "Van Dijk man-marking Liverpool"
+  ],
+  "confidence": "high"
+ },
+ {
+  "headline": "Thomas Frank returns at Crystal Palace and jokes about his Arsenal coffee cup",
+  "date": "2026-11-19",
+  "source_domain": "espn.com",
+  "url": "https://www.espn.com/soccer/story/_/id/50534780/thomas-frank-crystal-palace-arsenal-tottenham-coffee-cup",
+  "entities": [
+   "Thomas Frank",
+   "Crystal Palace",
+   "Tottenham",
+   "Arsenal"
+  ],
+  "facts": [
+   "Frank's first Palace game is away at Coventry; Palace are bottom, two points behind Coventry.",
+   "Palace have conceded the most goals in the league and striker Mateta is suspended.",
+   "He joked about avoiding another cup controversy and hinted there is more to tell about his Spurs spell."
+  ],
+  "background": "In January, as Tottenham manager, Frank was seen drinking from an Arsenal-logo cup before a Bournemouth match, and Spurs sacked him in February after less than eight months.",
+  "angle": "viral",
+  "sensitive": false,
+  "footage_terms": [
+   "Thomas Frank Arsenal coffee cup",
+   "Thomas Frank Crystal Palace press conference",
+   "Thomas Frank Tottenham sacked"
+  ],
+  "confidence": "high"
+ },
+ {
+  "headline": "Crystal Palace sack Pierre Sage while bottom of the Premier League",
+  "date": "2026-11-12",
+  "source_domain": "espn.com",
+  "url": "https://www.espn.com/soccer/story/_/id/50436075/pierre-sage-crystal-palace-premier-league-sacking",
+  "entities": [
+   "Pierre Sage",
+   "Crystal Palace",
+   "Oliver Glasner",
+   "Marc Guehi"
+  ],
+  "facts": [
+   "Sage won two of 10 Premier League games and Palace had conceded 24 goals, the most in the division.",
+   "He lasted about five months of a three-year deal after being hired in June 2026.",
+   "Squad cost limits forced summer sales and centre-back replacements arrived after the season began."
+  ],
+  "background": "Sage won the Coupe de France with Lens and took them to a second-place Ligue 1 finish; Glasner had left Palace after criticising the board over the Guehi sale to Manchester City.",
+  "angle": "scandal",
+  "sensitive": false,
+  "footage_terms": [
+   "Pierre Sage Crystal Palace sacked",
+   "Crystal Palace Sage press conference",
+   "Glasner Crystal Palace Guehi sale"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "headline": "Hurzeler commits to Brighton despite Manchester United rumours",
+  "date": "2026-11-20",
+  "source_domain": "espn.com",
+  "url": "https://www.espn.com/soccer/story/_/id/50540734/fabin-hurzeler-brighton-man-united-mauricio-pochettino",
+  "entities": [
+   "Fabian Hurzeler",
+   "Brighton",
+   "Tony Bloom",
+   "Manchester United"
+  ],
+  "facts": [
+   "Hurzeler said he is fully committed to Brighton and called the links rumours.",
+   "Chairman Tony Bloom said he would fight ridiculously hard to keep him.",
+   "Brighton are second in the Premier League; United had considered Hurzeler as a Carrick replacement."
+  ],
+  "background": "Hurzeler is in a strong season at Brighton and gets good reviews; United instead appointed Pochettino.",
+  "angle": "coach",
+  "sensitive": false,
+  "footage_terms": [
+   "Hurzeler Brighton press conference",
+   "Fabian Hurzeler Brighton tactics",
+   "Brighton Hurzeler Manchester United rumours"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "headline": "De Zerbi answers Tottenham fans after Mudryk's Arsenal podcast comments",
+  "date": "2026-11-20",
+  "source_domain": "espn.com",
+  "url": "https://www.espn.com/soccer/story/_/id/50541230/tottenham-roberto-de-zerbi-mykhailo-mudryk-arsenal",
+  "entities": [
+   "Roberto De Zerbi",
+   "Mykhailo Mudryk",
+   "Tottenham",
+   "Arsenal",
+   "Chelsea"
+  ],
+  "facts": [
+   "On a podcast, Chelsea loanee Mudryk said Arsenal was his dream club and that he nearly joined them in 2023.",
+   "De Zerbi said he understands fan frustration but called Mudryk a good person and player; he would not discuss ending the loan in January.",
+   "Mudryk has played 16 minutes for Spurs and has an ankle injury; De Zerbi serves a touchline ban against Ipswich."
+  ],
+  "background": "Mudryk picked Chelsea over Arsenal in the 2023 transfer window and has spoken publicly about a past drugs ban.",
+  "angle": "viral",
+  "sensitive": true,
+  "footage_terms": [
+   "De Zerbi Mudryk press conference",
+   "Mudryk Guest of Gordon podcast Arsenal",
+   "Tottenham De Zerbi touchline ban"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "headline": "Pochettino leaves USMNT after 8-0 aggregate win over Haiti; Arena says federation has no clue",
+  "date": "2026-11-18",
+  "source_domain": "espn.com",
+  "url": "https://www.espn.com/soccer/story/_/id/50525211/us-coach-arena-federation-clue-next-coach",
+  "entities": [
+   "Mauricio Pochettino",
+   "Bruce Arena",
+   "Steve Cherundolo",
+   "US Soccer"
+  ],
+  "facts": [
+   "Pochettino's last USMNT game was a 2-0 win over Haiti on 17 November, 8-0 on aggregate in the Nations League quarterfinal.",
+   "He left less than three months after signing a new US Soccer contract.",
+   "Under-23 coach Steve Cherundolo will lead a December camp and a friendly against Jamaica while the search goes on."
+  ],
+  "background": "Arena, who coached the US to a 2002 World Cup quarterfinal and missed the 2018 World Cup, had opposed hiring a foreign coach.",
+  "angle": "coach",
+  "sensitive": false,
+  "footage_terms": [
+   "Pochettino USMNT farewell Haiti",
+   "Bruce Arena US Soccer Pochettino",
+   "Cherundolo USMNT interim"
+  ],
+  "confidence": "high"
+ },
+ {
+  "headline": "Arteta says Arsenal will stop players leaking team news through Fantasy Premier League",
+  "date": "2026-11-20",
+  "source_domain": "espn.com",
+  "url": "https://www.espn.com/soccer/story/_/id/50539955/arsenal-arteta-fantasy-premier-league-injuries-team-news",
+  "entities": [
+   "Mikel Arteta",
+   "Arsenal",
+   "Christos Tzolis",
+   "Fantasy Premier League"
+  ],
+  "facts": [
+   "Arteta said confidentiality underpins trust and players will not be allowed to pick themselves.",
+   "A player picked and captained himself before the Liverpool game, then transferred himself out the next week.",
+   "Saliba is back from a back injury; Saka is out about another month with a quad problem."
+  ],
+  "background": "Chelsea had earlier warned staff about Fantasy use after people linked to the club sold Joao Pedro in October, before his thigh injury became public.",
+  "angle": "viral",
+  "sensitive": false,
+  "footage_terms": [
+   "Arteta Fantasy Premier League leaks",
+   "Arteta press conference Saliba Saka",
+   "Arsenal Fantasy Premier League team news leak"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "headline": "Guimaraes grows at Arsenal but Arteta wants more before Newcastle return",
+  "date": "2026-11-20",
+  "source_domain": "skysports.com",
+  "url": "https://www.skysports.com/football/news/13612946/bruno-guimaraes-arsenal-midfielder-is-growing-in-stature-but-mikel-arteta-still-wants-more-from-brazilian-ahead-of-newcastle-return",
+  "entities": [
+   "Bruno Guimaraes",
+   "Mikel Arteta",
+   "Arsenal",
+   "Newcastle United",
+   "Declan Rice"
+  ],
+  "facts": [
+   "Guimaraes, a 75m pound signing from Newcastle, is now first choice after a slow start and an early injury.",
+   "Arteta said he is still not there but hitting serious levels and wants more impact in the box.",
+   "Arsenal visit Newcastle on 21 November, Guimaraes's return to St James' Park."
+  ],
+  "background": "Guimaraes scored nine Premier League goals last season; Rice has said it can take a year to adapt to Arteta's demands.",
+  "angle": "transfer",
+  "sensitive": false,
+  "footage_terms": [
+   "Bruno Guimaraes Arsenal highlights",
+   "Arteta Guimaraes press conference",
+   "Newcastle vs Arsenal preview"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "headline": "Ten lessons from Xabi Alonso's first ten Premier League games at Chelsea",
+  "date": "2026-11-19",
+  "source_domain": "skysports.com",
+  "url": "https://www.skysports.com/football/news/13612519/chelsea-ten-things-weve-learnt-about-xabi-alonsos-blues-after-10-premier-league-games",
+  "entities": [
+   "Xabi Alonso",
+   "Chelsea",
+   "Joao Pedro",
+   "Cole Palmer"
+  ],
+  "facts": [
+   "Chelsea have four league defeats and are 11 points behind Arsenal, but are seen as well placed for Champions League qualification.",
+   "Alonso has used back threes and back fours and six different central midfield combinations, and sometimes played without a striker.",
+   "Chelsea have scored 19 goals from an expected 15.9; Joao Pedro has five goals in six league starts and is injured."
+  ],
+  "background": "Alonso's Chelsea have been described as consistently inconsistent, with only two back-to-back league wins in ten games.",
+  "angle": "coach",
+  "sensitive": false,
+  "footage_terms": [
+   "Xabi Alonso Chelsea press conference",
+   "Chelsea Alonso tactics false nine",
+   "Chelsea Joao Pedro goals"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "headline": "Enzo Maresca has a midfield balance problem at Manchester City",
+  "date": "2026-11-19",
+  "source_domain": "skysports.com",
+  "url": "https://www.skysports.com/football/news/13613559/man-city-vs-fulham-has-enzo-fernandez-given-enzo-maresca-a-problem-in-midfield-and-how-does-he-fix-the-imbalance",
+  "entities": [
+   "Enzo Maresca",
+   "Manchester City",
+   "Enzo Fernandez",
+   "Elliot Anderson"
+  ],
+  "facts": [
+   "City won their first seven games in all competitions, then lost their last three Premier League games.",
+   "The analysis says the team is too open and Fernandez's positioning leaves Elliot Anderson exposed in the double pivot.",
+   "City spent over 320m pounds rebuilding the midfield this summer; options discussed include Bouaddi as a screening six."
+  ],
+  "background": "Maresca's City were unbeaten in their first seven games before the three-game league slide.",
+  "angle": "coach",
+  "sensitive": false,
+  "footage_terms": [
+   "Maresca Manchester City press conference",
+   "Enzo Fernandez Manchester City struggles",
+   "Man City Fulham preview Maresca"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "headline": "Mourinho tells Vinicius to move on from his summer excuses",
+  "date": "2026-11-20",
+  "source_domain": "espn.com",
+  "url": "https://www.espn.com/soccer/story/_/id/50539637/jose-mourinho-vinicius-junior-real-madrid",
+  "entities": [
+   "Jose Mourinho",
+   "Vinicius Junior",
+   "Real Madrid",
+   "Yan Diomande",
+   "Endrick"
+  ],
+  "facts": [
+   "Vinicius said he trained less than usual after the World Cup; Mourinho said he dislikes criticising honesty but wants him to move on.",
+   "Vinicius has one goal in eight LaLiga games and lost his place to record signing Yan Diomande.",
+   "He served a four-match ban after a red card against Villarreal and signed a contract to 2032 this summer."
+  ],
+  "background": "Mourinho left Benfica after last season, where Porto won the Portuguese title, and his agent confirmed Real Madrid contact before he returned.",
+  "angle": "coach",
+  "sensitive": false,
+  "footage_terms": [
+   "Mourinho Vinicius press conference",
+   "Mourinho Real Madrid return",
+   "Real Madrid Diomande Vinicius"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "headline": "Amorim blames himself after Milan lose 2-0 at home to Ferencvaros",
+  "date": "2026-11-05",
+  "source_domain": "espn.com",
+  "url": "https://www.espn.com/soccer/story/_/id/50393432/ruben-amorim-ac-milan-ferencvaros-uefa-europa-league",
+  "entities": [
+   "Ruben Amorim",
+   "AC Milan",
+   "Ferencvaros"
+  ],
+  "facts": [
+   "Milan lost 2-0 at San Siro in the Europa League despite Ferencvaros going down to ten men on 77 minutes.",
+   "Milan have three points from four league-phase games and sit 28th.",
+   "Amorim said there were no excuses and that he may have done something wrong."
+  ],
+  "background": "Amorim is a former Manchester United manager who lost his job there in January.",
+  "angle": "coach",
+  "sensitive": false,
+  "footage_terms": [
+   "Amorim Milan Ferencvaros press conference",
+   "AC Milan Ferencvaros highlights",
+   "Ruben Amorim Milan reaction"
+  ],
+  "confidence": "high"
+ },
+ {
+  "headline": "Bournemouth beat Amorim's Milan 3-0 in their first home European game",
+  "date": "2026-10-22",
+  "source_domain": "espn.com",
+  "url": "https://www.espn.com/soccer/story/_/id/50252034/bournemouth-fairytale-condemns-ruben-amorim-another-nightmare-england-ac-milan",
+  "entities": [
+   "Marco Rose",
+   "Bournemouth",
+   "AC Milan",
+   "Ruben Amorim",
+   "Mike Maignan"
+  ],
+  "facts": [
+   "Milan keeper Maignan was sent off on 27 minutes for shoving Tyler Adams.",
+   "Kluivert and Tavernier scored penalties and Adli added a free kick.",
+   "Bournemouth had won one of their first seven league games under Rose before beating Sunderland the weekend before."
+  ],
+  "background": "Rose replaced Iraola in the summer; Bournemouth waited 127 years for European football.",
+  "angle": "win",
+  "sensitive": false,
+  "footage_terms": [
+   "Bournemouth AC Milan 3-0 highlights",
+   "Marco Rose Bournemouth press conference",
+   "Maignan red card Bournemouth"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "headline": "Allegri accepts two-match ban for insulting referee after Napoli draw with Roma",
+  "date": "2026-10-27",
+  "source_domain": "espn.com",
+  "url": "https://www.espn.com/soccer/story/_/id/50299199/napoli-coach-massimiliano-allegri-not-appeal-touchline-ban",
+  "entities": [
+   "Massimiliano Allegri",
+   "Napoli",
+   "Roma",
+   "Juventus"
+  ],
+  "facts": [
+   "Allegri, 59, got a two-match ban and a 10,000 euro fine after a red card in the 3-3 home draw with Roma.",
+   "He will miss the trip to Juventus, his former club.",
+   "Napoli have won three of eight Serie A games and are 11 points behind leaders Inter."
+  ],
+  "background": "Allegri is a former Juventus coach, and Napoli are 11 points behind leaders Inter.",
+  "angle": "scandal",
+  "sensitive": false,
+  "footage_terms": [
+   "Allegri red card Napoli Roma",
+   "Napoli Roma 3-3 highlights",
+   "Allegri Juventus return Napoli"
+  ],
+  "confidence": "high"
+ },
+ {
+  "headline": "Bayern coach Kompany out since collapsing at a training session",
+  "date": "2026-11-06",
+  "source_domain": "espn.com",
+  "url": "https://www.espn.com/soccer/story/_/id/50398505/vincent-kompany-bayern-munich-collapse-recovery-return",
+  "entities": [
+   "Vincent Kompany",
+   "Bayern Munich",
+   "Aaron Danks",
+   "Harry Kane"
+  ],
+  "facts": [
+   "Kompany collapsed at a reserve training session on 23 October and was treated for meningeal irritation.",
+   "Assistant Aaron Danks has run the team for five games and says Kompany is well on the way to full recovery.",
+   "Bayern have a policy of not involving him in football decisions while he recovers."
+  ],
+  "background": "Harry Kane reportedly became the first Bayern player in 45 years to win the Ballon d'Or and signed a new deal.",
+  "angle": "coach",
+  "sensitive": true,
+  "footage_terms": [
+   "Kompany Bayern collapse training",
+   "Bayern Munich Danks press conference",
+   "Kompany returns Bayern training"
+  ],
+  "confidence": "high"
+ },
+ {
+  "headline": "Luis Enrique becomes PSG's winningest coach with 127th win",
+  "date": "2026-10-30",
+  "source_domain": "espn.com",
+  "url": "https://www.espn.com/soccer/story/_/id/50330654/psg-achraf-hakimi-hat-trick-luis-enrique-wins-record-le-havre",
+  "entities": [
+   "Luis Enrique",
+   "PSG",
+   "Achraf Hakimi",
+   "Laurent Blanc"
+  ],
+  "facts": [
+   "PSG beat Le Havre 5-1 and Luis Enrique passed Laurent Blanc with his 127th win.",
+   "Hakimi scored his first hat-trick and added two assists.",
+   "It was PSG's ninth straight win in all competitions; Dembele and Kvaratskhelia are injured."
+  ],
+  "background": "PSG are the reigning French and European champions.",
+  "angle": "record",
+  "sensitive": false,
+  "footage_terms": [
+   "PSG Le Havre 5-1 highlights",
+   "Luis Enrique PSG record wins",
+   "Hakimi hat-trick PSG"
+  ],
+  "confidence": "high"
+ },
+ {
+  "headline": "Dirk Kuyt leaves Fenerbahce a week after beating Liverpool",
+  "date": "2026-11-11",
+  "source_domain": "espn.com",
+  "url": "https://www.espn.com/soccer/story/_/id/50452035/dirk-kuyt-fenerbahce-liverpool-champions-league",
+  "entities": [
+   "Dirk Kuyt",
+   "Fenerbahce",
+   "Emre Belozoglu",
+   "Liverpool"
+  ],
+  "facts": [
+   "Kuyt left after Fenerbahce agreed a deal with Emre Belozoglu, a former club captain.",
+   "His last game as interim coach was a 3-2 Champions League win over Liverpool in Istanbul.",
+   "Fenerbahce are sixth in the Turkish league and 19th in the Champions League table."
+  ],
+  "background": "Kuyt played for Fenerbahce from 2012 to 2015 and rejoined in July as assistant to Ismail Kartal, who resigned in October.",
+  "angle": "coach",
+  "sensitive": false,
+  "footage_terms": [
+   "Fenerbahce Liverpool 3-2 highlights",
+   "Kuyt Fenerbahce interim coach",
+   "Emre Belozoglu Fenerbahce coach"
+  ],
+  "confidence": "high"
+ },
+ {
+  "headline": "Fabregas warns Como about hype after 9-1 Champions League win over Lens",
+  "date": "2026-11-04",
+  "source_domain": "espn.com",
+  "url": "https://www.espn.com/soccer/story/_/id/50382528/fabregas-como-4th-record-setting-9-goal-night",
+  "entities": [
+   "Cesc Fabregas",
+   "Como",
+   "Lens",
+   "Nico Paz",
+   "Tasos Douvikas"
+  ],
+  "facts": [
+   "Como won 9-1, a record for goals scored away in the Champions League.",
+   "Tasos Douvikas scored a hat-trick and Nico Paz added a goal and two assists.",
+   "Fabregas said the team must not buy into its own hype; Como are fourth in Serie A."
+  ],
+  "background": "Como is a Serie A club from an Italian luxury resort town, and this is its first season in European competition; Fabregas played for Arsenal, Barcelona and Chelsea.",
+  "angle": "record",
+  "sensitive": false,
+  "footage_terms": [
+   "Como Lens 9-1 highlights",
+   "Fabregas Como press conference",
+   "Como Champions League record win"
+  ],
+  "confidence": "high"
+ },
+ {
+  "headline": "Ronaldo retires from Portugal duty after a row with coach Jorge Jesus",
+  "date": "2026-11-05",
+  "source_domain": "espn.com",
+  "url": "https://www.espn.com/soccer/story/_/id/50075485/cristiano-ronaldo-long-history-rows-portugal-manchester-united-real-madrid-juventus-coaches",
+  "entities": [
+   "Cristiano Ronaldo",
+   "Jorge Jesus",
+   "Portugal",
+   "Portuguese Football Federation"
+  ],
+  "facts": [
+   "Ronaldo, 41, announced his last game for Portugal; he holds the men's record of 146 international goals.",
+   "In September he left camp after being an unused substitute against Norway and said Jesus broke two promises.",
+   "Jesus said the coach decides and rules are the same for everyone; Portugal won their next two games without him."
+  ],
+  "background": "Ronaldo has a long record of rows with coaches, including Mourinho at Real Madrid and Rangnick at Manchester United.",
+  "angle": "scandal",
+  "sensitive": false,
+  "footage_terms": [
+   "Cristiano Ronaldo Portugal retirement",
+   "Jorge Jesus Ronaldo Portugal",
+   "Ronaldo Portugal Norway bench"
+  ],
+  "confidence": "high"
+ },
+ {
+  "headline": "Simeone backs Julian Alvarez after big misses in Atletico's loss to Barcelona",
+  "date": "2026-11-08",
+  "source_domain": "espn.com",
+  "url": "https://www.espn.com/soccer/story/_/id/50427000/diego-simeone-atletico-madrid-need-julian-alvarez-best-succeed",
+  "entities": [
+   "Diego Simeone",
+   "Julian Alvarez",
+   "Atletico Madrid",
+   "Barcelona",
+   "Hansi Flick"
+  ],
+  "facts": [
+   "Atletico lost 2-1 at home; Fermin Lopez scored both Barcelona goals.",
+   "Alvarez missed several chances, including a one-on-one with Joan Garcia.",
+   "Atletico's seven-game league winning streak ended and they sit third, five points behind Barcelona."
+  ],
+  "background": "Alvarez wanted to leave for Barcelona in June, was jeered by Atletico fans at the start of the season and has since apologised.",
+  "angle": "coach",
+  "sensitive": false,
+  "footage_terms": [
+   "Atletico Barcelona 2-1 highlights",
+   "Simeone Alvarez press conference",
+   "Julian Alvarez missed chances Atletico"
+  ],
+  "confidence": "high"
+ },
+ {
+  "headline": "West Ham sack Nuno and hire Scott Parker, who draws 3-3 at Cardiff on day one",
+  "date": "2026-11-04",
+  "source_domain": "espn.com",
+  "url": "https://www.espn.com/soccer/story/_/id/50382463/west-ham-draw-cardiff-scott-parker-first-game",
+  "entities": [
+   "Scott Parker",
+   "Nuno Espirito Santo",
+   "West Ham",
+   "Cardiff City"
+  ],
+  "facts": [
+   "Parker signed a two-and-a-half-year deal and managed Cardiff away the same day.",
+   "West Ham trailed 3-0 by the 39th minute to a Jack Moylan hat-trick and drew 3-3.",
+   "Nuno was sacked after a 3-1 loss to West Brom with West Ham eighth in the Championship."
+  ],
+  "background": "West Ham were relegated last season under Nuno; Parker played 129 games for the club, captained it and has won three promotions as a manager with Fulham, Burnley and Bournemouth.",
+  "angle": "coach",
+  "sensitive": false,
+  "footage_terms": [
+   "Cardiff West Ham 3-3 highlights",
+   "Scott Parker West Ham appointed",
+   "Nuno West Ham sacked"
+  ],
+  "confidence": "high"
+ },
+ {
+  "headline": "Tony Mowbray steps back from Blackburn job for health reasons",
+  "date": "2026-11-17",
+  "source_domain": "espn.com",
+  "url": "https://www.espn.com/soccer/story/_/id/50509681/tony-mowbray-steps-back-blackburn-job-due-health-issues",
+  "entities": [
+   "Tony Mowbray",
+   "Blackburn Rovers",
+   "Damien Johnson",
+   "Mike Dodds"
+  ],
+  "facts": [
+   "Blackburn announced on 17 November that Mowbray is stepping away.",
+   "Damien Johnson and Mike Dodds will handle first-team matters for now.",
+   "Blackburn are 13th in the Championship after a 2-1 win over West Ham."
+  ],
+  "background": "Mowbray was diagnosed with bowel cancer in 2024 and left Birmingham; after an all-clear he coached West Brom and returned to Blackburn in June for a second spell.",
+  "angle": "coach",
+  "sensitive": true,
+  "footage_terms": [
+   "Tony Mowbray Blackburn",
+   "Blackburn Rovers Mowbray statement",
+   "Tony Mowbray career"
+  ],
+  "confidence": "high"
+ },
+ {
+  "headline": "Sporting sack Rui Borges and move for Paulo Fonseca",
+  "date": "2026-11-02",
+  "source_domain": "espn.com",
+  "url": "https://www.espn.com/soccer/story/_/id/50359218/sporting-lisbon-sack-borges-ucl-match-shakhtar-donetsk",
+  "entities": [
+   "Rui Borges",
+   "Paulo Fonseca",
+   "Sporting CP",
+   "Lyon"
+  ],
+  "facts": [
+   "Sporting began talks to end Borges's contract and put Tiago Fernandes in temporary charge.",
+   "They agreed about 5 million euros in compensation with Lyon for Fonseca, 53.",
+   "Sporting are third, nine points behind Porto, and lost at home to LASK in the Champions League."
+  ],
+  "background": "Borges took over in December 2024 after Amorim left and led Sporting to a title defence; last season Sporting lost to Arsenal in the Champions League quarterfinals.",
+  "angle": "coach",
+  "sensitive": false,
+  "footage_terms": [
+   "Sporting Rui Borges sacked",
+   "Paulo Fonseca Sporting",
+   "Sporting LASK Champions League highlights"
+  ],
+  "confidence": "high"
+ },
+ {
+  "headline": "Sporting Kansas City fire Raphael Wicky after one season",
+  "date": "2026-11-09",
+  "source_domain": "espn.com",
+  "url": "https://www.espn.com/soccer/story/_/id/50435699/sporting-kc-fires-raphael-wicky",
+  "entities": [
+   "Raphael Wicky",
+   "Sporting Kansas City",
+   "Peter Vermes",
+   "Kerry Zavagnin"
+  ],
+  "facts": [
+   "Wicky was fired after a last-place finish in the West with 26 points, the second-fewest in club history.",
+   "His record was 7-23-5 across all competitions.",
+   "The club will have its fourth coach since March 2025 when the sprint season starts in February."
+  ],
+  "background": "Wicky is Swiss and previously coached Young Boys and Chicago Fire; Peter Vermes left early in 2025.",
+  "angle": "coach",
+  "sensitive": false,
+  "footage_terms": [
+   "Sporting Kansas City Wicky fired",
+   "Sporting KC Wicky press conference",
+   "Sporting Kansas City 2026 season"
+  ],
+  "confidence": "high"
+ },
+ {
+  "headline": "What if Manchester United had hired Klopp instead of Moyes?",
+  "date": "2026-11-08",
+  "source_domain": "espn.com",
+  "url": "https://www.espn.com/soccer/story/_/id/50395131/does-man-united-coach-matter-jurgen-klopp-reach-premier-league-glory-old-trafford",
+  "entities": [
+   "Jurgen Klopp",
+   "Manchester United",
+   "David Moyes",
+   "Ruben Amorim"
+  ],
+  "facts": [
+   "The ESPN analysis says even a huge Klopp effect would not have given United a title since Ferguson.",
+   "With 10 extra points a season, United would have averaged 76 instead of 66 points and 3.8 instead of 5.3 finishing place.",
+   "Whoever replaces Carrick would be the ninth coach since Ferguson."
+  ],
+  "background": "United are 14 seasons without a league title; Moyes, Van Gaal, Mourinho, Solskjaer, Ten Hag, Amorim and Carrick have followed Ferguson.",
+  "angle": "history",
+  "sensitive": false,
+  "footage_terms": [
+   "Klopp Manchester United what if",
+   "Manchester United managers since Ferguson",
+   "Klopp Liverpool best moments"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "headline": "Kovac says Dortmund must stop Kane together before Bayern clash",
+  "date": "2026-10-29",
+  "source_domain": "espn.com",
+  "url": "https://www.espn.com/soccer/story/_/id/50317977/borussia-dortmund-stop-bayern-munich-harry-kane-kovac",
+  "entities": [
+   "Niko Kovac",
+   "Borussia Dortmund",
+   "Bayern Munich",
+   "Harry Kane"
+  ],
+  "facts": [
+   "Kovac called Kane sensational and said he cannot be stopped one on one.",
+   "Dortmund and Bayern were level on points at the top of the Bundesliga.",
+   "Dortmund had not beaten Bayern in their last five meetings, and Kompany was absent after his hospital stay."
+  ],
+  "background": "Kane, the Ballon d'Or winner, was to be honoured by Bayern before the match.",
+  "angle": "coach",
+  "sensitive": false,
+  "footage_terms": [
+   "Dortmund Bayern Der Klassiker highlights",
+   "Kovac Dortmund press conference Kane",
+   "Harry Kane Ballon d'Or Bayern honour"
+  ],
+  "confidence": "high"
+ },
+ {
+  "headline": "Wrexham boss Phil Parkinson eases pressure with 4-1 win over Preston",
+  "date": "2026-10-17",
+  "source_domain": "espn.com",
+  "url": "https://www.espn.com/soccer/story/_/id/50202704/wrexham-phil-parkinson-manager-preston-north-end",
+  "entities": [
+   "Phil Parkinson",
+   "Wrexham",
+   "Preston North End",
+   "Steven Gerrard"
+  ],
+  "facts": [
+   "Wrexham beat bottom club Preston 4-1 with goals from Devine, Whiteman, Smith and Moore.",
+   "A 2-1 home loss to West Brom earlier had left them near the bottom, and Steven Gerrard had been linked with the job.",
+   "The win moved Wrexham up to 14th."
+  ],
+  "background": "Whiteman, who scored against his former club Preston, was one of four scorers.",
+  "angle": "coach",
+  "sensitive": false,
+  "footage_terms": [
+   "Wrexham Preston 4-1 highlights",
+   "Phil Parkinson Wrexham press conference",
+   "Wrexham Championship 2026"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "headline": "Celtic's Martin O'Neill loses midfielder Mika Baur to a long injury",
+  "date": "2026-11-20",
+  "source_domain": "skysports.com",
+  "url": "https://www.skysports.com/football/video/13614377/mika-baur-celtics-martin-oneill-reveals-midfielders-injury-timeline-its-a-blow-he-was-on-fire",
+  "entities": [
+   "Martin O'Neill",
+   "Celtic",
+   "Mika Baur",
+   "Kilmarnock"
+  ],
+  "facts": [
+   "O'Neill said Baur's injury is a blow because he was on fire.",
+   "Baur hurt his ankle in the win over Kilmarnock and faces a long spell out.",
+   "No return date was given."
+  ],
+  "background": "O'Neill, 74, was made permanent Celtic manager in June 2026 on a one-year deal after the club sacked Wilfried Nancy 33 days into his job, and he managed Celtic from 2000 to 2005.",
+  "angle": "coach",
+  "sensitive": false,
+  "footage_terms": [
+   "Martin O'Neill Celtic press conference",
+   "Celtic Kilmarnock highlights",
+   "Martin O'Neill Celtic return"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "headline": "Arteta faces a Saliba or Konsa selection dilemma at Arsenal",
+  "date": "2026-11-18",
+  "source_domain": "skysports.com",
+  "url": "https://www.skysports.com/football/news/13610324/william-saliba-or-ezri-konsa-mikel-arteta-has-tough-arsenal-selection-dilemma-when-french-defender-returns-to-full-fitness",
+  "entities": [
+   "Mikel Arteta",
+   "William Saliba",
+   "Ezri Konsa",
+   "Gabriel"
+  ],
+  "facts": [
+   "Konsa has played well while Saliba was injured, so Arteta must choose or play them together.",
+   "Without Saliba, Arsenal's defensive line has sat at least a metre lower.",
+   "Konsa and Gabriel have made seven last-man tackles together this season, against five by Saliba and Gabriel in all of last season."
+  ],
+  "background": "Konsa joined Arsenal from Aston Villa this summer for 55m pounds.",
+  "angle": "coach",
+  "sensitive": false,
+  "footage_terms": [
+   "Saliba Konsa Arsenal defence",
+   "Arteta press conference Saliba return",
+   "Konsa Arsenal highlights"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "headline": "Matthias Jaissle under pressure as Newcastle draw 1-1 at Fulham",
+  "date": "2026-11-07",
+  "source_domain": "espn.com",
+  "url": "https://www.espn.com/soccer/report/_/gameId/401879241",
+  "entities": [
+   "Matthias Jaissle",
+   "Newcastle United",
+   "Fulham",
+   "Alvaro Arbeloa"
+  ],
+  "facts": [
+   "Murphy put Newcastle ahead on 80 minutes and Muniz equalised for Fulham on 83.",
+   "Newcastle have 12 points from 10 games and sit 12th.",
+   "Fulham, under Alvaro Arbeloa, were the better side for much of the match."
+  ],
+  "background": "Newcastle's attack looked blunted in the draw, and a loss would have been their fifth of the season.",
+  "angle": "coach",
+  "sensitive": false,
+  "footage_terms": [
+   "Fulham Newcastle 1-1 highlights",
+   "Jaissle Newcastle press conference",
+   "Arbeloa Fulham press conference"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "headline": "Moyes keeps Everton's cup run going and backs Grealish discipline decision",
+  "date": "2026-10-29",
+  "source_domain": "espn.com",
+  "url": "https://www.espn.com/soccer/story/_/id/50323089/david-moyes-everton-carabao-cup-quarterfinals-sounds-good",
+  "entities": [
+   "David Moyes",
+   "Everton",
+   "Jack Grealish",
+   "Newcastle United"
+  ],
+  "facts": [
+   "Everton beat Newcastle 3-1 in the Carabao Cup with goals from Garner, Hackney and Barry.",
+   "Grealish missed the game over a club discipline breach and Moyes said he supports the decision.",
+   "Everton now face League Two Fleetwood in the quarterfinal; they have not won a trophy since the 1995 FA Cup."
+  ],
+  "background": "Arsenal, Chelsea, Manchester United and Aston Villa were already out of the competition.",
+  "angle": "win",
+  "sensitive": false,
+  "footage_terms": [
+   "Everton Newcastle Carabao Cup highlights",
+   "Moyes Everton press conference",
+   "Everton Fleetwood Carabao Cup"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "headline": "Hearts boss Vrancken gambles on a makeshift left-back to stop Mohamed Salah",
+  "date": "2026-10-23",
+  "source_domain": "espn.com",
+  "url": "https://www.espn.com/soccer/story/_/id/50255952/if-salah-scores-three-hearts-boss-key-conundrum",
+  "entities": [
+   "Wouter Vrancken",
+   "Hearts",
+   "Mohamed Salah",
+   "Trabzonspor"
+  ],
+  "facts": [
+   "Hearts lost 2-0 away to Trabzonspor in the Conference League; Salah scored a penalty and set up the second goal.",
+   "Vrancken used Rogers Mato at left-back to mark Salah and admitted critics would blame him if Salah scored three.",
+   "Hearts came off a 7-1 defeat at Celtic and had one point from two Conference League games."
+  ],
+  "background": "Vrancken was appointed Hearts head coach after Derek McInnes left for Rangers, and his European start included a 4-0 defeat to Graz in qualifying.",
+  "angle": "coach",
+  "sensitive": false,
+  "footage_terms": [
+   "Trabzonspor Hearts highlights",
+   "Vrancken Hearts press conference",
+   "Salah Trabzonspor penalty Hearts"
+  ],
+  "confidence": "medium"
+ }
+]

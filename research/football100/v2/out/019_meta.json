@@ -1,0 +1,103 @@
+{
+ "no": 19,
+ "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/019_ousmane_dembele.mp4",
+ "total": 43.86666666666667,
+ "outro_start": 37.64,
+ "cover": true,
+ "seq": [
+  {
+   "id": "s01",
+   "kind": "HOOK",
+   "start": 0.1,
+   "end": 1.6,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/019/s01.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s02",
+   "kind": "COMIC1",
+   "start": 3.033333333333333,
+   "end": 5.033333333333333,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/019/s02.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s03",
+   "kind": "INTERVIEW",
+   "start": 11.1,
+   "end": 12.866666666666667,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/019/s03.mp4",
+   "clip_dur": 1.767,
+   "frames": 42
+  },
+  {
+   "id": "s04",
+   "kind": "NEWS",
+   "start": 16.6,
+   "end": 18.366666666666667,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/019/s04.mp4",
+   "clip_dur": 1.767,
+   "frames": 42
+  },
+  {
+   "id": "s05",
+   "kind": "COMIC2",
+   "start": 21.933333333333334,
+   "end": 23.933333333333334,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/019/s05.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s06",
+   "kind": "COMIC3",
+   "start": 26.233333333333334,
+   "end": 28.233333333333334,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/019/s06.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s07",
+   "kind": "STATS",
+   "start": 32.333333333333336,
+   "end": 33.833333333333336,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/019/s07.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s08",
+   "kind": "PROVOC",
+   "start": 35.86666666666667,
+   "end": 37.36666666666667,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/019/s08.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  }
+ ],
+ "missing": [],
+ "dropped": [],
+ "cards": [
+  {
+   "text": "33 goals, 15 assists",
+   "a": 8.966666666666667,
+   "b": 10.933333333333334
+  }
+ ],
+ "caption_sprites": 110,
+ "whoosh": [
+  0.0,
+  2.933333333333333,
+  11.0,
+  16.5,
+  21.833333333333332,
+  26.133333333333333,
+  32.233333333333334,
+  35.766666666666666,
+  37.54
+ ],
+ "shots": 13
+}

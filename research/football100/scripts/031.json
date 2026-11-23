@@ -1,0 +1,84 @@
+{
+ "no": 31,
+ "subject": "West Ham sack Nuno after 13 months and bring back Scott Parker",
+ "title": "West Ham's quick fix",
+ "voice": "kokoro",
+ "comic": false,
+ "style": null,
+ "lines": [
+  {
+   "vo": "Thirteen months. That is how long West Ham's patience lasted.",
+   "card": "Nuno sacked",
+   "sfx": null,
+   "footage": "Nuno West Ham press conference or match clip"
+  },
+  {
+   "vo": "Scott Parker, forty-six, was confirmed the very next morning. Not a search. A reflex.",
+   "card": "Parker returns",
+   "sfx": null,
+   "footage": "Scott Parker press conference West Ham"
+  },
+  {
+   "vo": "Nuno won only twice in six. He also lost at home to Southampton and West Brom. That is a verdict.",
+   "card": "Two wins in six",
+   "sfx": null,
+   "footage": "West Ham Championship highlights November 2026"
+  },
+  {
+   "vo": "Parker's first game, at Cardiff: three-nil down by the thirty-ninth minute. Final score, three-three. A fast start, at the wrong end.",
+   "card": "3-3 at Cardiff",
+   "sfx": null,
+   "footage": "Cardiff 3-3 West Ham highlights"
+  },
+  {
+   "vo": "Parker has won promotion from this league three times: Fulham, Bournemouth and Burnley. A very specific CV for a very specific problem.",
+   "card": "Three promotions",
+   "sfx": null,
+   "footage": "Scott Parker promotion celebration"
+  },
+  {
+   "vo": "He played 129 times for West Ham before. Mark Noble will work closely with him. A reunion, with homework.",
+   "card": "Back home",
+   "sfx": null,
+   "footage": "Mark Noble West Ham interview"
+  },
+  {
+   "vo": "Want the next story before it breaks? Betting tips, news and predictions at aboutfootball dot UK.",
+   "card": "aboutfootball.UK",
+   "sfx": null,
+   "footage": "end card"
+  }
+ ],
+ "chars": 713,
+ "est_seconds": 40,
+ "footage_terms": [
+  "Scott Parker West Ham appointed head coach",
+  "Cardiff 3-3 West Ham highlights",
+  "Nuno Espirito Santo West Ham sacked",
+  "Scott Parker press conference West Ham"
+ ],
+ "inserts": [
+  {
+   "after_line": 0,
+   "story": "A cartoon chairman spins on a swivel chair beside a coach-shaped figure on a rack. Gag: he swaps the figure for an identical one and spins again. Twist: the nameplate on the desk flips to a new name in the blink of an eye.",
+   "characters": "generic cartoon chairman",
+   "seconds": 2
+  },
+  {
+   "after_line": 2,
+   "story": "A cartoon stadium clock reads 39 and the scoreboard shows 0-3. Gag: a cartoon goalkeeper empties the net of three balls with a shovel. Twist: a fourth ball pops in right after he finishes.",
+   "characters": "generic cartoon team and keeper",
+   "seconds": 2
+  }
+ ],
+ "facts_used": [
+  "West Ham dismissed Nuno on 3 November after just over 13 months; Scott Parker, 46, named on a 30-month deal (ev0018)",
+  "Parker confirmed on the morning of the 4 November game at Cardiff (ev0018)",
+  "Under Nuno West Ham won only twice in six games and lost home games to Southampton and West Brom (ev0018)",
+  "Parker's first match at Cardiff: West Ham trailed 3-0 by the 39th minute and drew 3-3 (ev0018)",
+  "Parker has won promotion from the Championship three times, with Fulham, Bournemouth and Burnley (ev0018)",
+  "Parker played 129 times for West Ham before leaving in 2011; Mark Noble will work closely with him (ev0018)"
+ ],
+ "comic_score": 6,
+ "notes": "Non-comic, no inserts. Facts unchanged. Jokes target the club's speed (sacking/appointment), the scoreline and the CV, not Nuno or Parker personally. 'Specific problem' assumes West Ham are in the Championship, as the source says. Source: news/news_dedup.json (ev0018)."
+}

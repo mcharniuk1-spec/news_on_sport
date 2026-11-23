@@ -1,0 +1,95 @@
+{
+ "no": 78,
+ "subject": "Brighton beat ten-man Brentford to climb above Man City into second",
+ "title": "Brighton climb as Brentford lose Thiago",
+ "voice": "kokoro",
+ "comic": false,
+ "style": null,
+ "lines": [
+  {
+   "vo": "Brighton are above Manchester City. Brentford helped a little.",
+   "card": "Above Man City",
+   "sfx": null,
+   "footage": "Brighton 2-0 Brentford highlights"
+  },
+  {
+   "vo": "Brighton won two-nil, and now sit second, five points behind Arsenal.",
+   "card": "Second, five behind",
+   "sfx": null,
+   "footage": "Brighton celebrate, Amex stands"
+  },
+  {
+   "vo": "Diego Gomez opened the scoring from long range in the fifteenth minute.",
+   "card": "Long-range opener",
+   "sfx": null,
+   "footage": "Diego Gomez goal Brighton Brentford"
+  },
+  {
+   "vo": "Eight minutes later, Igor Thiago was sent off after a VAR review. In eight minutes, Brentford went from one down to ten men.",
+   "card": "Down to ten",
+   "sfx": "whistle",
+   "footage": "Igor Thiago red card Brighton"
+  },
+  {
+   "vo": "Pascal Gross added a penalty before half-time. Eleven against ten, and calm as ever.",
+   "card": "Penalty before half-time",
+   "sfx": null,
+   "footage": "Pascal Gross penalty Brighton"
+  },
+  {
+   "vo": "Keith Andrews criticised the officials. It was Brentford's second league game this season to end with ten men.",
+   "card": "Andrews fumes",
+   "sfx": null,
+   "footage": "Keith Andrews post-match Brentford"
+  },
+  {
+   "vo": "Brighton climb. City slip. Brentford are still counting to eleven.",
+   "card": "Still counting to eleven",
+   "sfx": null,
+   "footage": "Brighton Brentford 2-0 highlights"
+  },
+  {
+   "vo": "Think you can call the next one? Free tips, results and predictions at aboutfootball dot UK.",
+   "card": "Free tips and predictions",
+   "sfx": null,
+   "footage": "Hurzeler press conference Brentford"
+  }
+ ],
+ "chars": 678,
+ "est_seconds": 47,
+ "footage_terms": [
+  "Brighton 2-0 Brentford Premier League highlights",
+  "Igor Thiago red card Chema",
+  "Diego Gomez goal Brighton Brentford",
+  "Brighton Brentford 2-0 highlights",
+  "Hurzeler press conference Brentford"
+ ],
+ "inserts": [
+  {
+   "after_line": 0,
+   "story": "A cartoon league table is a ladder with team figures climbing it. Gag: a small club hops up past a big club with a smile. Twist: the big club drops a rung and waves goodbye.",
+   "characters": "generic cartoon table ladder",
+   "seconds": 2
+  },
+  {
+   "after_line": 2,
+   "story": "A cartoon VAR monitor shows a replay with a red card icon. Gag: the referee runs to the monitor and checks it. Twist: the red card pops out of the screen.",
+   "characters": "generic cartoon referee and VAR monitor",
+   "seconds": 2
+  },
+  {
+   "after_line": 5,
+   "story": "A cartoon team counts its players on its fingers. Gag: it reaches ten and starts over. Twist: the eleventh player is hiding behind the ball.",
+   "characters": "generic cartoon team counting",
+   "seconds": 2
+  }
+ ],
+ "facts_used": [
+  "Brighton 2-0 Brentford: Diego Gomez long-range goal in the 15th minute, Pascal Gross penalty before half-time (news 106; skysports.com/football/brighton-vs-brentford/report/559535)",
+  "Igor Thiago sent off in the 23rd minute after a VAR review (news 106)",
+  "Brighton second, five points behind leaders Arsenal, above Manchester City (news 106)",
+  "Keith Andrews criticised the officials; Brentford's second league game this season ended with ten men (news 106)"
+ ],
+ "comic_score": 5,
+ "notes": "Punched up: 'one down to ten men in eight minutes' (23rd minus 15th), rule-of-three closer. Sources differ on the foul detail, so the script does not describe the foul. 'Calm as ever' is a light joke, not a fact. Non-comic, no inserts."
+}

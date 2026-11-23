@@ -1,0 +1,544 @@
+{
+ "no": 81,
+ "style": "FLAT-POP",
+ "prop": "trophy",
+ "cast": {
+  "cubarsi": {
+   "role": "rookie",
+   "number": "5",
+   "shirt": "#a50044",
+   "hair": "#2b2b3a"
+  },
+  "scout": {
+   "role": "staff",
+   "shirt": "#3fb8af",
+   "hair": "#6b4a2a"
+  }
+ },
+ "sequences": {
+  "s01": {
+   "type": "HOOK",
+   "q": "Can a defender win Golden Boy?",
+   "prop": "trophy",
+   "emote": "shock",
+   "board": "neon",
+   "role": "rookie"
+  },
+  "s02": {
+   "type": "COMIC",
+   "bg": "podium",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "cubarsi",
+       "x": 330,
+       "y": 1440,
+       "pose": "hold",
+       "emote": "happy",
+       "scale": 1.45,
+       "label": "Pau Cubarsí"
+      }
+     ],
+     "props": [
+      {
+       "kind": "trophy",
+       "x": 700,
+       "y": 880,
+       "scale": 2.4,
+       "face": "shock",
+       "anim": "drop"
+      },
+      {
+       "kind": "ladder",
+       "x": 890,
+       "y": 1185,
+       "scale": 2.8
+      }
+     ],
+     "fx": [
+      {
+       "kind": "sparkle",
+       "x": 700,
+       "y": 860
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.42,
+     "actors": [
+      {
+       "id": "cubarsi",
+       "x": 330,
+       "y": 1440,
+       "pose": "shock",
+       "emote": "shock",
+       "scale": 1.45
+      }
+     ],
+     "props": [
+      {
+       "kind": "trophy",
+       "x": 885,
+       "y": 770,
+       "scale": 1.5,
+       "face": "sweat",
+       "rot": 10
+      },
+      {
+       "kind": "ladder",
+       "x": 890,
+       "y": 1185,
+       "scale": 2.8
+      }
+     ],
+     "sfx": {
+      "text": "WHOOSH",
+      "x": 560,
+      "y": 520,
+      "r": 120
+     }
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.42,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "cubarsi",
+       "x": 400,
+       "y": 1440,
+       "pose": "hold",
+       "emote": "angry-cheeky",
+       "scale": 1.45
+      }
+     ],
+     "props": [
+      {
+       "kind": "trophy",
+       "x": 700,
+       "y": 1020,
+       "scale": 1.9,
+       "face": "dizzy",
+       "rot": -6
+      },
+      {
+       "kind": "ladder",
+       "x": 890,
+       "y": 1185,
+       "scale": 2.8
+      }
+     ],
+     "cam": "push"
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "cubarsi",
+       "x": 400,
+       "y": 1440,
+       "pose": "thumbsup",
+       "emote": "smug",
+       "scale": 1.45
+      }
+     ],
+     "props": [
+      {
+       "kind": "trophy",
+       "x": 535,
+       "y": 940,
+       "scale": 0.9,
+       "face": "happy",
+       "rot": -8
+      },
+      {
+       "kind": "ladder",
+       "x": 890,
+       "y": 1185,
+       "scale": 2.8
+      },
+      {
+       "kind": "shirt",
+       "x": 535,
+       "y": 965,
+       "scale": 0.36,
+       "anim": "pop"
+      }
+     ],
+     "sfx": {
+      "text": "DING",
+      "x": 700,
+      "y": 600,
+      "r": 120
+     },
+     "fx": [
+      {
+       "kind": "sparkle",
+       "x": 535,
+       "y": 900
+      }
+     ]
+    }
+   ]
+  },
+  "s03": {
+   "type": "NEWS",
+   "name": "Pau Cubarsí",
+   "fact": "he took the trophy from Désiré Doué",
+   "ticker": "Nineteen and top",
+   "icons": [
+    "cake",
+    "trophy",
+    "shirt"
+   ],
+   "role": "rookie",
+   "actor": "cubarsi"
+  },
+  "s04": {
+   "type": "COMIC",
+   "bg": "living-room",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "scout",
+       "x": 330,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "happy",
+       "scale": 1.3
+      },
+      {
+       "id": "cubarsi",
+       "x": 780,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "neutral",
+       "scale": 1.3,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "shelf",
+       "x": 540,
+       "y": 400,
+       "scale": 3.4
+      },
+      {
+       "kind": "trophy",
+       "x": 330,
+       "y": 453,
+       "scale": 0.95,
+       "anim": "drop"
+      },
+      {
+       "kind": "trophy",
+       "x": 540,
+       "y": 453,
+       "scale": 0.95,
+       "anim": "drop"
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.42,
+     "actors": [
+      {
+       "id": "scout",
+       "x": 330,
+       "y": 1440,
+       "pose": "point",
+       "emote": "happy",
+       "scale": 1.3
+      },
+      {
+       "id": "cubarsi",
+       "x": 780,
+       "y": 1440,
+       "pose": "present",
+       "emote": "happy",
+       "scale": 1.3,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "shelf",
+       "x": 540,
+       "y": 400,
+       "scale": 3.4
+      },
+      {
+       "kind": "trophy",
+       "x": 330,
+       "y": 453,
+       "scale": 0.95
+      },
+      {
+       "kind": "trophy",
+       "x": 540,
+       "y": 453,
+       "scale": 0.95
+      },
+      {
+       "kind": "trophy",
+       "x": 750,
+       "y": 453,
+       "scale": 0.95,
+       "anim": "drop"
+      },
+      {
+       "kind": "shirt",
+       "x": 330,
+       "y": 465,
+       "scale": 0.4,
+       "rot": -6,
+       "anim": "pop"
+      },
+      {
+       "kind": "shirt",
+       "x": 540,
+       "y": 465,
+       "scale": 0.4,
+       "rot": 5,
+       "anim": "pop"
+      }
+     ],
+     "cam": "push"
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.42,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "scout",
+       "x": 330,
+       "y": 1440,
+       "pose": "point",
+       "emote": "happy",
+       "scale": 1.3
+      },
+      {
+       "id": "cubarsi",
+       "x": 780,
+       "y": 1440,
+       "pose": "present",
+       "emote": "happy",
+       "scale": 1.3,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "shelf",
+       "x": 540,
+       "y": 400,
+       "scale": 3.4
+      },
+      {
+       "kind": "trophy",
+       "x": 330,
+       "y": 453,
+       "scale": 0.95
+      },
+      {
+       "kind": "trophy",
+       "x": 540,
+       "y": 453,
+       "scale": 0.95
+      },
+      {
+       "kind": "trophy",
+       "x": 750,
+       "y": 453,
+       "scale": 0.95
+      },
+      {
+       "kind": "shirt",
+       "x": 330,
+       "y": 465,
+       "scale": 0.4,
+       "rot": -6
+      },
+      {
+       "kind": "shirt",
+       "x": 540,
+       "y": 465,
+       "scale": 0.4,
+       "rot": 5
+      },
+      {
+       "kind": "shirt",
+       "x": 750,
+       "y": 465,
+       "scale": 0.4,
+       "rot": -4,
+       "anim": "pop"
+      }
+     ],
+     "sfx": {
+      "text": "POP",
+      "x": 560,
+      "y": 1000,
+      "r": 90
+     }
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "scout",
+       "x": 330,
+       "y": 1440,
+       "pose": "hold",
+       "emote": "sweat",
+       "scale": 1.3,
+       "hold": {
+        "kind": "trophy",
+        "hand": "both",
+        "scale": 0.55
+       }
+      },
+      {
+       "id": "cubarsi",
+       "x": 780,
+       "y": 1440,
+       "pose": "shrug",
+       "emote": "smug",
+       "scale": 1.3,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "shelf",
+       "x": 540,
+       "y": 400,
+       "scale": 3.4
+      },
+      {
+       "kind": "trophy",
+       "x": 330,
+       "y": 453,
+       "scale": 0.95
+      },
+      {
+       "kind": "trophy",
+       "x": 540,
+       "y": 453,
+       "scale": 0.95
+      },
+      {
+       "kind": "trophy",
+       "x": 750,
+       "y": 453,
+       "scale": 0.95
+      },
+      {
+       "kind": "shirt",
+       "x": 330,
+       "y": 465,
+       "scale": 0.4,
+       "rot": -6
+      },
+      {
+       "kind": "shirt",
+       "x": 540,
+       "y": 465,
+       "scale": 0.4,
+       "rot": 5
+      },
+      {
+       "kind": "shirt",
+       "x": 750,
+       "y": 465,
+       "scale": 0.4,
+       "rot": -4
+      }
+     ],
+     "bubble": {
+      "who": "scout",
+      "icon": "cross"
+     },
+     "sfx": {
+      "text": "CLANG",
+      "x": 560,
+      "y": 1000,
+      "r": 90
+     }
+    }
+   ]
+  },
+  "s05": {
+   "type": "PROVOC",
+   "q": "Is Barça an academy or factory?",
+   "a": "Academy",
+   "b": "Factory",
+   "split": [
+    38,
+    62
+   ],
+   "mood": "fun"
+  },
+  "s06": {
+   "type": "INTERVIEW",
+   "label": "REPORTER ASKS",
+   "bubble": "Defenders usually get a handshake",
+   "answer": {
+    "icon": "trophy",
+    "gesture": "present",
+    "emote": "smug"
+   },
+   "subject": "Pau Cubarsí",
+   "subject_cast": "cubarsi",
+   "reporter_role": "reporter"
+  },
+  "s07": {
+   "type": "STATS",
+   "items": [
+    {
+     "icon": "trophy",
+     "value": "2026",
+     "label": "Golden Boy 2026"
+    },
+    {
+     "icon": "medal",
+     "value": "1",
+     "label": "Top defender"
+    },
+    {
+     "icon": "calendar",
+     "value": "2018",
+     "label": "First since 2018"
+    }
+   ]
+  }
+ }
+}

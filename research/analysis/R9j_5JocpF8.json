@@ -1,0 +1,280 @@
+{
+ "video_id": "R9j_5JocpF8",
+ "topic": "Sky Sports Premier League studio debate: are Manchester United at their worst (league table graphic, 4-4 Aston Villa graphic, pundit talking)",
+ "hero": "Pundit in navy suit with Sky Sports lower third (Gary Neville) in Sky Sports studio",
+ "hero_role": "analyst/pundit speaking",
+ "media_type_overall": "press conference/interview clip",
+ "hook": "Sky Sports Premier League animated ident with lion logo",
+ "subtitle_style": "Sky lower-third name strap bottom-left (Gary Neville, Won 16 major trophies with Manchester United including 8 Premier League titles); Premier League table graphic",
+ "reaction_overlays": "none",
+ "transition_summary": "Slow editorial cuts: ident, league table, wide studio (4-4 final score screen), then long pundit close-ups; about 1 cut per 15 s",
+ "audio_note": "Studio discussion between pundits (title: Roy Keane and Ashley Young); transcript mentions international break and Michael Carrick's side in the bottom half",
+ "reuse_segments": [
+  {
+   "t0": 0,
+   "t1": 10,
+   "what": "Premier League table and studio graphics",
+   "origin_guess": "studio broadcast",
+   "rights_risk": "medium",
+   "how_to_reuse": "recreate graphics, reuse structure"
+  },
+  {
+   "t0": 10,
+   "t1": 60,
+   "what": "Pundit studio talk",
+   "origin_guess": "studio broadcast",
+   "rights_risk": "high",
+   "how_to_reuse": "needs licensed Sky footage; recreate with own presenter or generated imagery"
+  }
+ ],
+ "frames": [
+  {
+   "idx": 1,
+   "t": 0,
+   "desc": "Sky Sports Premier League ident with lion logo",
+   "type": "graphic_card",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 2,
+   "t": 2,
+   "desc": "Premier League table graphic, Manchester Utd highlighted in 18th place, Old Trafford behind",
+   "type": "graphic_card",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 3,
+   "t": 4,
+   "desc": "Premier League table graphic, Manchester Utd highlighted in 18th place, Old Trafford behind",
+   "type": "graphic_card",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 4,
+   "t": 6,
+   "desc": "Premier League table graphic, Manchester Utd highlighted in 18th place, Old Trafford behind",
+   "type": "graphic_card",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 5,
+   "t": 8,
+   "desc": "Premier League table graphic, Manchester Utd highlighted in 18th place, Old Trafford behind",
+   "type": "graphic_card",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 6,
+   "t": 10,
+   "desc": "Premier League table graphic, Manchester Utd highlighted in 18th place, Old Trafford behind",
+   "type": "graphic_card",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 7,
+   "t": 12,
+   "desc": "Premier League table graphic, Manchester Utd highlighted in 18th place, Old Trafford behind",
+   "type": "graphic_card",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 8,
+   "t": 14,
+   "desc": "Wide studio, Man United 4-4 Aston Villa final-score screen, presenters at desk",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 9,
+   "t": 16,
+   "desc": "Wide studio, Man United 4-4 Aston Villa final-score screen, presenters at desk",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 10,
+   "t": 18,
+   "desc": "Pundit in navy suit speaking, hands gesturing, purple studio",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 11,
+   "t": 20,
+   "desc": "Pundit in navy suit, lower third strap",
+   "type": "video",
+   "text_on_screen": "Gary Neville Sky Sports Won 16 major trophies with Manchester Utd including 8 PL titles",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 12,
+   "t": 22,
+   "desc": "Pundit in navy suit, lower third strap",
+   "type": "video",
+   "text_on_screen": "Gary Neville Sky Sports Won 16 major trophies with Manchester Utd including 8 PL titles",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 13,
+   "t": 24,
+   "desc": "Pundit close-up gesturing",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 14,
+   "t": 26,
+   "desc": "Pundit close-up gesturing",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 15,
+   "t": 28,
+   "desc": "Pundit close-up gesturing",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 16,
+   "t": 30,
+   "desc": "Wide studio with Man United v Aston Villa 4-4 screen",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 17,
+   "t": 32,
+   "desc": "Wide studio with Man United v Aston Villa 4-4 screen",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 18,
+   "t": 34,
+   "desc": "Wide studio with Man United v Aston Villa 4-4 screen",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 19,
+   "t": 36,
+   "desc": "Wide studio with Man United v Aston Villa 4-4 screen",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 20,
+   "t": 38,
+   "desc": "Wide studio with Man United v Aston Villa 4-4 screen",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 21,
+   "t": 40,
+   "desc": "Wide studio with Man United v Aston Villa 4-4 screen",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 22,
+   "t": 42,
+   "desc": "Wide studio with Man United v Aston Villa 4-4 screen",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 23,
+   "t": 44,
+   "desc": "Wide studio with Man United v Aston Villa 4-4 screen",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 24,
+   "t": 46,
+   "desc": "Wide studio with Man United v Aston Villa 4-4 screen",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 25,
+   "t": 48,
+   "desc": "Pundit talking, hand gestures, purple studio",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 26,
+   "t": 50,
+   "desc": "Pundit talking, hand gestures, purple studio",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 27,
+   "t": 52,
+   "desc": "Pundit talking, hand gestures, purple studio",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 28,
+   "t": 54,
+   "desc": "Pundit talking, hand gestures, purple studio",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 29,
+   "t": 56,
+   "desc": "Pundit talking, hand gestures, purple studio",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 30,
+   "t": 58,
+   "desc": "Pundit talking, hand gestures, purple studio",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 31,
+   "t": 60,
+   "desc": "Pundit talking, hand gestures, purple studio",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "none"
+  }
+ ]
+}

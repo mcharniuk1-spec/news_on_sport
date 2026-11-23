@@ -1,0 +1,16 @@
+{
+  "palette": [
+    "#e9c2ca",
+    "#484265",
+    "#ffe073",
+    "#8782cb",
+    "#9cd1bf"
+  ],
+  "style": "SITCOM-YELLOW",
+  "font": "Arial Bold",
+  "characters": [
+    "Kaka (Ricardo Izecson dos Santos Leite)",
+    "generic reporter"
+  ],
+  "recurring_prop": "flag"
+}

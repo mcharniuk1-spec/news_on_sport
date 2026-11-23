@@ -1,0 +1,113 @@
+{
+ "no": 30,
+ "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/030_harry_kane.mp4",
+ "total": 53.46666666666667,
+ "outro_start": 48.38,
+ "cover": true,
+ "seq": [
+  {
+   "id": "s01",
+   "kind": "HOOK",
+   "start": 0.1,
+   "end": 1.8666666666666667,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/030/s01.mp4",
+   "clip_dur": 1.767,
+   "frames": 42
+  },
+  {
+   "id": "s02",
+   "kind": "COMIC1",
+   "start": 7.733333333333333,
+   "end": 10.233333333333333,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/030/s02.mp4",
+   "clip_dur": 2.5,
+   "frames": 60
+  },
+  {
+   "id": "s03",
+   "kind": "NEWS",
+   "start": 12.333333333333334,
+   "end": 14.6,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/030/s03.mp4",
+   "clip_dur": 2.266,
+   "frames": 54
+  },
+  {
+   "id": "s04",
+   "kind": "COMIC2",
+   "start": 16.733333333333334,
+   "end": 19.0,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/030/s04.mp4",
+   "clip_dur": 2.266,
+   "frames": 54
+  },
+  {
+   "id": "s05",
+   "kind": "INTERVIEW",
+   "start": 25.1,
+   "end": 27.1,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/030/s05.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s06",
+   "kind": "COMIC3",
+   "start": 33.233333333333334,
+   "end": 35.5,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/030/s06.mp4",
+   "clip_dur": 2.267,
+   "frames": 54
+  },
+  {
+   "id": "s07",
+   "kind": "STATS",
+   "start": 41.6,
+   "end": 43.1,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/030/s07.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s08",
+   "kind": "PROVOC",
+   "start": 46.6,
+   "end": 48.1,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/030/s08.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  }
+ ],
+ "missing": [],
+ "dropped": [],
+ "cards": [
+  {
+   "text": "Still chasing a trophy",
+   "a": 3.6,
+   "b": 5.8
+  },
+  {
+   "text": "Sir Harry?",
+   "a": 27.266666666666666,
+   "b": 28.366666666666667
+  },
+  {
+   "text": "Fifth in top ten",
+   "a": 40.3,
+   "b": 41.46666666666667
+  }
+ ],
+ "caption_sprites": 149,
+ "whoosh": [
+  0.0,
+  7.633333333333334,
+  12.233333333333334,
+  16.633333333333333,
+  25.0,
+  33.13333333333333,
+  41.5,
+  46.5,
+  48.28
+ ],
+ "shots": 16
+}

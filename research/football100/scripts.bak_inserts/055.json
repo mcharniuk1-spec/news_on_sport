@@ -1,0 +1,61 @@
+{
+ "no": 55,
+ "subject": "Barcelona's Alejandro Balde: wanted by United and Liverpool, 40 million euros mentioned, Deco says no sale",
+ "title": "Balde: 40 million and a bench seat",
+ "voice": "kokoro",
+ "comic": false,
+ "style": null,
+ "lines": [
+  {
+   "vo": "Forty million euros, five substitute appearances. Barcelona still say no.",
+   "card": "40m euros, five subs",
+   "footage": "Alejandro Balde Barcelona highlights"
+  },
+  {
+   "vo": "Manchester United and Liverpool are both linked with Alejandro Balde, the Barcelona left-back. Those two agreeing is rare.",
+   "card": "United and Liverpool",
+   "footage": "Alejandro Balde speed"
+  },
+  {
+   "vo": "ESPN says a deal could be around forty million euros. Barcelona prefer a permanent sale.",
+   "card": "Permanent sale",
+   "footage": "Barcelona Flick press conference"
+  },
+  {
+   "vo": "Juventus want a loan. Deco says Barcelona will not sell unless Balde asks to leave.",
+   "card": "Deco says no",
+   "footage": "Deco Barcelona press conference"
+  },
+  {
+   "vo": "Goal counts one hundred and seventy-three appearances since 2021. He has not started any of his five this season. Best seat in the house.",
+   "card": "173 appearances",
+   "footage": "Alejandro Balde Barcelona highlights"
+  },
+  {
+   "vo": "Wanted by two Premier League giants, and still waiting for a start. Now that is a plot twist.",
+   "card": "Waiting for a start",
+   "footage": "Balde bench reaction"
+  },
+  {
+   "vo": "Keep the score sheet ready. Match news, betting tips and predictions at aboutfootball dot UK.",
+   "card": "aboutfootball.uk",
+   "footage": "football100 end card"
+  }
+ ],
+ "chars": 689,
+ "est_seconds": 38,
+ "footage_terms": [
+  "Alejandro Balde Barcelona highlights",
+  "Alejandro Balde speed",
+  "Barcelona Flick press conference"
+ ],
+ "inserts": [],
+ "facts_used": [
+  "ev0694: ESPN reports a possible exit at around 40 million euros; Barcelona prefer a permanent sale to a loan; Juventus are keen on a loan (news/news_dedup.json)",
+  "ev0694: Deco says Barcelona are not looking to sell unless the player asks to leave (news/news_dedup.json)",
+  "ev0694: all five of Balde's appearances this season were as a substitute; Goal says he has 173 appearances since 2021 (news/news_dedup.json)",
+  "ev0694 subject line: wanted by United and Liverpool (news/news_dedup.json)"
+ ],
+ "comic_score": 5,
+ "notes": "Confidence medium. The 'not started any of his five' line follows from all five appearances being as a substitute. The United and Liverpool interest is from the record's headline only, not a separate fact line. Non-comic, 0 inserts. Punch-up pass: 'best seat in the house' rests on all five appearances being from the bench. No jokes on his future wishes beyond Deco's quoted condition."
+}

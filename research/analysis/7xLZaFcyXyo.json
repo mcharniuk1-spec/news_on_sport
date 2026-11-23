@@ -1,0 +1,112 @@
+{
+ "video_id": "7xLZaFcyXyo",
+ "topic": "Football duos NOW vs THEN: modern young pairs vs iconic past pairings (unidentified; shown in Madrid, Bayern, Barcelona, City, Arsenal and Milan kits)",
+ "hero": "Pairs of players (Now: Madrid pair, Bayern pair, Barcelona pair, City pair, Arsenal pair; Then: Madrid, Barcelona, Madrid, Milan)",
+ "hero_role": "subjects of comparison",
+ "media_type_overall": "static photo(s)",
+ "hook": "Two players in white Madrid kits standing on white background with caption 'Duos Now:'",
+ "subtitle_style": "Small white 'Duos Now:' / 'Duos Then:' caption in sans-serif, centred, mid-height with dark outline",
+ "reaction_overlays": "none; dark vignette and desaturation for 'Then', light white background for 'Now'",
+ "transition_summary": "Static cutout portraits swap about every 1-2 s with crossfade (4 detected cuts in 21 s)",
+ "audio_note": "Unknown; probably voiceover or music (description about brains/duos)",
+ "reuse_segments": [
+  {
+   "t0": 0,
+   "t1": 21,
+   "what": "Duo cutout portraits",
+   "origin_guess": "official photos",
+   "rights_risk": "high",
+   "how_to_reuse": "recreate with generated/illustrated duos or licensed images"
+  }
+ ],
+ "frames": [
+  {
+   "idx": 1,
+   "t": 0,
+   "desc": "Two players in white Real Madrid kits, white background, caption",
+   "type": "static_image",
+   "text_on_screen": "Duos Now:",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 2,
+   "t": 2,
+   "desc": "Two players in red Bayern kits (#17), pose, caption",
+   "type": "static_image",
+   "text_on_screen": "Duos Now:",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 3,
+   "t": 4,
+   "desc": "Two players in blue-red Barcelona kits, blurred transition, caption",
+   "type": "static_image",
+   "text_on_screen": "Duos Now:",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 4,
+   "t": 6,
+   "desc": "Two players in teal and light-blue City kits, caption",
+   "type": "static_image",
+   "text_on_screen": "Duos Now:",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 5,
+   "t": 8,
+   "desc": "Two players in red Arsenal kits and two more cropped below, transition, caption",
+   "type": "static_image",
+   "text_on_screen": "Duos Now:",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 6,
+   "t": 10,
+   "desc": "Two players in white Madrid kits, dark vignette, caption",
+   "type": "static_image",
+   "text_on_screen": "Duos Then:",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 7,
+   "t": 12,
+   "desc": "Two players in Barcelona kits, one with finger on lips, caption",
+   "type": "static_image",
+   "text_on_screen": "Duos Then:",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 8,
+   "t": 14,
+   "desc": "Two players in Barcelona away-kit style, celebrating, caption",
+   "type": "static_image",
+   "text_on_screen": "Duos Then:",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 9,
+   "t": 16,
+   "desc": "Two players in white Real Madrid kits arms folded, caption",
+   "type": "static_image",
+   "text_on_screen": "Duos Then:",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 10,
+   "t": 18,
+   "desc": "Two players in Milan red-black and white kits, caption",
+   "type": "static_image",
+   "text_on_screen": "Duos Then:",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 11,
+   "t": 20,
+   "desc": "Same two Milan-style players fading, caption",
+   "type": "static_image",
+   "text_on_screen": "Duos Then:",
+   "transition_to_next": "none"
+  }
+ ]
+}

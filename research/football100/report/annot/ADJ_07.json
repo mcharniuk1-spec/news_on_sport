@@ -1,0 +1,12 @@
+{
+ "61": {"humour_type": "understatement", "dominant_emotion": "amusement", "cta_opener_type": "question", "hook_type_alt": "news_flash"},
+ "62": {"story_structure": "chronological_recap", "twist_position": "middle", "hook_type_alt": "none"},
+ "63": {"hook_basis": "scoreline_result", "uk_relevance": "medium"},
+ "64": {"twist_position": "middle", "cta_opener_type": "question"},
+ "65": {"twist_position": "late", "humour_type": "deadpan_stat", "risk_flags": ["single_source"]},
+ "66": {"comment_bait": "none", "cta_opener_type": "question"},
+ "67": {"hook_type_alt": "bold_claim", "risk_flags": ["betting_under18_appeal", "single_source", "unverified_claim"]},
+ "68": {"hook_basis": "contract_or_job", "story_structure": "stat_stack", "twist_position": "none", "risk_flags": ["over_length", "single_source", "unverified_claim"]},
+ "69": {"hook_basis": "viral_or_social", "topic_primary": "discipline_controversy", "story_structure": "chronological_recap", "humour_type": "understatement", "cta_opener_type": "question"},
+ "70": {"hook_type": "quote_led", "twist_position": "early", "humour_type": "sarcasm", "humour_target": "player", "hook_type_alt": "roast_jab", "risk_flags": ["betting_under18_appeal", "single_source", "unverified_claim"]}
+}

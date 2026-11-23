@@ -1,0 +1,112 @@
+{
+ "video_id": "ZrtSfbEgzJM",
+ "topic": "Meme-style comparison of football trios NOW (Barcelona, Bayern, Real Madrid, PSG, France) versus legendary acronym trios THEN (RRR, BBC, IXB, CPR, MSN)",
+ "hero": "Unidentified player trios shown as cut-out portraits (identified only by trio acronyms/club kits)",
+ "hero_role": "subjects of the NOW vs THEN comparison",
+ "media_type_overall": "static photo(s)",
+ "hook": "Barcelona trio cut-out on white background with caption 'Trios Now:' and a rhythmic beat",
+ "subtitle_style": "white bold sans-serif, black outline, centred over the chest, e.g. 'Trios Now:' / 'Trios Then:BBC' with skull emoji",
+ "reaction_overlays": "skull emoji after acronyms, fade-to-white flashes on the NOW side, dark vignette on THEN side",
+ "transition_summary": "Beat-synced hard cuts with white flash and slow zoom; about 10 cuts per 10 s in the 9 s sample",
+ "audio_note": "likely beat-driven music/audio meme",
+ "reuse_segments": [
+  {
+   "t0": 0,
+   "t1": 22,
+   "what": "Cut-out photos of club trios (Now vs Then)",
+   "origin_guess": "unknown",
+   "rights_risk": "medium",
+   "how_to_reuse": "replace with licensed photos or AI-generated lookalike illustrations"
+  }
+ ],
+ "frames": [
+  {
+   "idx": 1,
+   "t": 0,
+   "desc": "Barcelona trio in cut-out portrait pose, white background, caption Trios Now:",
+   "type": "static_image",
+   "text_on_screen": "Trios Now:",
+   "transition_to_next": "flash"
+  },
+  {
+   "idx": 2,
+   "t": 2,
+   "desc": "Bayern trio including player in red kit, white background",
+   "type": "static_image",
+   "text_on_screen": "Trios Now:",
+   "transition_to_next": "flash"
+  },
+  {
+   "idx": 3,
+   "t": 4,
+   "desc": "Real Madrid trio faded to white, nearly invisible",
+   "type": "static_image",
+   "text_on_screen": "Trios Now:",
+   "transition_to_next": "flash"
+  },
+  {
+   "idx": 4,
+   "t": 6,
+   "desc": "PSG/Barcelona trio in cut-out portrait, white background",
+   "type": "static_image",
+   "text_on_screen": "Trios Now:",
+   "transition_to_next": "flash"
+  },
+  {
+   "idx": 5,
+   "t": 8,
+   "desc": "France national team trio blue, with small Brazil trio panel below",
+   "type": "static_image",
+   "text_on_screen": "Trios Now:",
+   "transition_to_next": "flash"
+  },
+  {
+   "idx": 6,
+   "t": 10,
+   "desc": "Brazil yellow kit trio on dark vignette background",
+   "type": "static_image",
+   "text_on_screen": "Trios Then:RRR",
+   "transition_to_next": "flash"
+  },
+  {
+   "idx": 7,
+   "t": 12,
+   "desc": "Real Madrid white kit trio on dark vignette",
+   "type": "static_image",
+   "text_on_screen": "Trios Then:BBC",
+   "transition_to_next": "flash"
+  },
+  {
+   "idx": 8,
+   "t": 14,
+   "desc": "Barcelona kit trio (IXB) on dark background",
+   "type": "static_image",
+   "text_on_screen": "Trios Then:IXB",
+   "transition_to_next": "flash"
+  },
+  {
+   "idx": 9,
+   "t": 16,
+   "desc": "Real Madrid trio with goalkeeper in orange (CPR)",
+   "type": "static_image",
+   "text_on_screen": "Trios Then:CPR",
+   "transition_to_next": "flash"
+  },
+  {
+   "idx": 10,
+   "t": 18,
+   "desc": "Barcelona trio MSN on dark background",
+   "type": "static_image",
+   "text_on_screen": "Trios Then:MSN",
+   "transition_to_next": "flash"
+  },
+  {
+   "idx": 11,
+   "t": 20,
+   "desc": "Barcelona trio MSN, darkened fade-out",
+   "type": "static_image",
+   "text_on_screen": "Trios Then:MSN",
+   "transition_to_next": "none"
+  }
+ ]
+}

@@ -1,0 +1,778 @@
+{
+ "no": 70,
+ "style": "SCIFI-DEADPAN",
+ "prop": "rocket",
+ "cast": {
+  "muller": {
+   "role": "player",
+   "number": "25",
+   "shirt": "#dfe8f2",
+   "hair": "#e0c27a"
+  },
+  "sci": {
+   "role": "staff",
+   "shirt": "#f2f5f7",
+   "hair": "#2b2b3a"
+  },
+  "robot": {
+   "role": "keeper",
+   "shirt": "#9aa5b1",
+   "skin": "#b9c6d2",
+   "hair": "#6c7a89"
+  },
+  "p1": {
+   "role": "player",
+   "shirt": "#3fb8af",
+   "hair": "#2b2b3a",
+   "number": "8"
+  },
+  "p2": {
+   "role": "player",
+   "shirt": "#e8a14f",
+   "hair": "#a03a2a",
+   "number": "6"
+  }
+ },
+ "sequences": {
+  "s01": {
+   "type": "HOOK",
+   "q": "Can MLS be careless without relegation?",
+   "prop": "siren",
+   "emote": "sweat",
+   "board": "scoreboard"
+  },
+  "s02": {
+   "type": "COMIC",
+   "bg": "studio",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "sci",
+       "x": 260,
+       "y": 1440,
+       "pose": "present",
+       "emote": "smug",
+       "scale": 1.3,
+       "label": "Pressure"
+      },
+      {
+       "id": "muller",
+       "x": 800,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "neutral",
+       "scale": 1.4,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "rocket",
+       "x": 540,
+       "y": 1060,
+       "scale": 1.9,
+       "anim": "drop"
+      },
+      {
+       "kind": "bolt",
+       "x": 520,
+       "y": 480,
+       "scale": 1.5,
+       "anim": "pulse"
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.42,
+     "actors": [
+      {
+       "id": "sci",
+       "x": 260,
+       "y": 1440,
+       "pose": "present",
+       "emote": "smug",
+       "scale": 1.3
+      },
+      {
+       "id": "muller",
+       "x": 800,
+       "y": 1440,
+       "pose": "shock",
+       "emote": "shock",
+       "scale": 1.4,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "rocket",
+       "x": 880,
+       "y": 1000,
+       "scale": 1.9,
+       "layer": "back"
+      },
+      {
+       "kind": "bolt",
+       "x": 520,
+       "y": 480,
+       "scale": 1.5,
+       "anim": "pulse"
+      }
+     ],
+     "cam": "push"
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.42,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "sci",
+       "x": 260,
+       "y": 1440,
+       "pose": "think",
+       "emote": "neutral",
+       "scale": 1.3
+      },
+      {
+       "id": "muller",
+       "x": 800,
+       "y": 1440,
+       "pose": "shock",
+       "emote": "sweat",
+       "scale": 1.4,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "rocket",
+       "x": 880,
+       "y": 1000,
+       "scale": 1.9,
+       "layer": "back"
+      },
+      {
+       "kind": "cross",
+       "x": 520,
+       "y": 480,
+       "scale": 1.5,
+       "anim": "pop"
+      }
+     ],
+     "sfx": {
+      "text": "CLANG",
+      "x": 540,
+      "y": 900,
+      "r": 110
+     }
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "sci",
+       "x": 260,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "smug",
+       "scale": 1.3,
+       "hold": {
+        "kind": "notepad",
+        "hand": "R",
+        "scale": 0.7
+       }
+      },
+      {
+       "id": "muller",
+       "x": 780,
+       "y": 1440,
+       "pose": "cheer",
+       "emote": "happy",
+       "scale": 1.4,
+       "flip": true,
+       "lift": 230
+      }
+     ],
+     "props": [
+      {
+       "kind": "rocket",
+       "x": 840,
+       "y": 830,
+       "scale": 1.9,
+       "rot": 75
+      },
+      {
+       "kind": "cross",
+       "x": 520,
+       "y": 480,
+       "scale": 1.5
+      }
+     ],
+     "bubble": {
+      "who": "sci",
+      "icon": "magnifier"
+     },
+     "sfx": {
+      "text": "WHOOSH",
+      "x": 620,
+      "y": 1250,
+      "r": 110
+     }
+    }
+   ]
+  },
+  "s03": {
+   "type": "NEWS",
+   "name": "Thomas Muller",
+   "fact": "no relegation changes how players defend",
+   "ticker": "No relegation",
+   "icons": [
+    "microphone",
+    "goal",
+    "shirt"
+   ],
+   "role": "player",
+   "actor": "muller"
+  },
+  "s04": {
+   "type": "STATS",
+   "items": [
+    {
+     "icon": "flag",
+     "value": "90",
+     "suffix": "'",
+     "label": "Survive or fall"
+    },
+    {
+     "icon": "stopwatch",
+     "value": "90",
+     "suffix": "'",
+     "label": "Focus fades"
+    }
+   ]
+  },
+  "s05": {
+   "type": "COMIC",
+   "bg": "night-city",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "p1",
+       "x": 200,
+       "y": 1470,
+       "pose": "run",
+       "emote": "happy",
+       "scale": 1.25
+      },
+      {
+       "id": "p2",
+       "x": 500,
+       "y": 1470,
+       "pose": "run",
+       "emote": "smug",
+       "scale": 1.25
+      }
+     ],
+     "props": [
+      {
+       "kind": "door",
+       "x": 150,
+       "y": 820,
+       "scale": 2.4,
+       "layer": "back"
+      },
+      {
+       "kind": "tag",
+       "x": 830,
+       "y": 520,
+       "scale": 2.0,
+       "label": "Relegation",
+       "anim": "pulse"
+      },
+      {
+       "kind": "rocket",
+       "x": 540,
+       "y": 420,
+       "scale": 1.0,
+       "anim": "float"
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.42,
+     "actors": [
+      {
+       "id": "p1",
+       "x": 410,
+       "y": 1470,
+       "pose": "run",
+       "emote": "shock",
+       "scale": 1.25
+      },
+      {
+       "id": "p2",
+       "x": 740,
+       "y": 1470,
+       "pose": "run",
+       "emote": "shock",
+       "scale": 1.25
+      }
+     ],
+     "props": [
+      {
+       "kind": "door",
+       "x": 150,
+       "y": 820,
+       "scale": 2.4,
+       "layer": "back"
+      },
+      {
+       "kind": "tag",
+       "x": 830,
+       "y": 520,
+       "scale": 2.0,
+       "rot": 30,
+       "label": "Relegation"
+      },
+      {
+       "kind": "rocket",
+       "x": 540,
+       "y": 420,
+       "scale": 1.0,
+       "anim": "float"
+      }
+     ],
+     "cam": "pan"
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.42,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "p1",
+       "x": 410,
+       "y": 1470,
+       "pose": "jump",
+       "emote": "shock",
+       "scale": 1.25
+      },
+      {
+       "id": "p2",
+       "x": 740,
+       "y": 1470,
+       "pose": "jump",
+       "emote": "sweat",
+       "scale": 1.25
+      }
+     ],
+     "props": [
+      {
+       "kind": "door",
+       "x": 150,
+       "y": 820,
+       "scale": 2.4,
+       "layer": "back"
+      },
+      {
+       "kind": "cross",
+       "x": 800,
+       "y": 540,
+       "scale": 1.8,
+       "anim": "pop"
+      },
+      {
+       "kind": "rocket",
+       "x": 540,
+       "y": 420,
+       "scale": 1.0,
+       "anim": "float"
+      }
+     ],
+     "sfx": {
+      "text": "DING",
+      "x": 850,
+      "y": 390,
+      "r": 100
+     }
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "p1",
+       "x": 260,
+       "y": 1470,
+       "pose": "sit",
+       "emote": "happy",
+       "scale": 1.25
+      },
+      {
+       "id": "p2",
+       "x": 800,
+       "y": 1470,
+       "pose": "sit",
+       "emote": "happy",
+       "scale": 1.25,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "door",
+       "x": 150,
+       "y": 820,
+       "scale": 2.4,
+       "layer": "back"
+      },
+      {
+       "kind": "cross",
+       "x": 800,
+       "y": 540,
+       "scale": 1.8
+      },
+      {
+       "kind": "rocket",
+       "x": 540,
+       "y": 420,
+       "scale": 1.0
+      },
+      {
+       "kind": "pizza",
+       "x": 540,
+       "y": 1390,
+       "scale": 1.5,
+       "anim": "drop"
+      },
+      {
+       "kind": "cup",
+       "x": 640,
+       "y": 1410,
+       "scale": 0.9
+      }
+     ],
+     "fx": [
+      {
+       "kind": "confetti",
+       "x": 540,
+       "y": 800
+      }
+     ]
+    }
+   ]
+  },
+  "s06": {
+   "type": "COMIC",
+   "bg": "sky",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "muller",
+       "x": 240,
+       "y": 1300,
+       "pose": "sit",
+       "emote": "smug",
+       "scale": 1.2,
+       "hold": {
+        "kind": "mug",
+        "hand": "R",
+        "scale": 0.6
+       }
+      },
+      {
+       "id": "robot",
+       "x": 520,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "neutral",
+       "scale": 1.3
+      }
+     ],
+     "props": [
+      {
+       "kind": "goal",
+       "x": 560,
+       "y": 960,
+       "scale": 3.0,
+       "layer": "back"
+      },
+      {
+       "kind": "rocket",
+       "x": 130,
+       "y": 560,
+       "scale": 1.0,
+       "anim": "float"
+      },
+      {
+       "kind": "bolt",
+       "x": 620,
+       "y": 640,
+       "scale": 0.9,
+       "anim": "pulse"
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.42,
+     "actors": [
+      {
+       "id": "muller",
+       "x": 240,
+       "y": 1300,
+       "pose": "sit",
+       "emote": "smug",
+       "scale": 1.2,
+       "hold": {
+        "kind": "mug",
+        "hand": "R",
+        "scale": 0.6
+       }
+      },
+      {
+       "id": "robot",
+       "x": 520,
+       "y": 1440,
+       "pose": "wave",
+       "emote": "happy",
+       "scale": 1.3
+      },
+      {
+       "id": "p1",
+       "x": 900,
+       "y": 1440,
+       "pose": "run",
+       "emote": "happy",
+       "scale": 0.95,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "goal",
+       "x": 560,
+       "y": 960,
+       "scale": 3.0,
+       "layer": "back"
+      },
+      {
+       "kind": "rocket",
+       "x": 130,
+       "y": 560,
+       "scale": 1.0
+      },
+      {
+       "kind": "bolt",
+       "x": 620,
+       "y": 640,
+       "scale": 0.9,
+       "anim": "pulse"
+      },
+      {
+       "kind": "ball",
+       "x": 800,
+       "y": 1400,
+       "scale": 0.9
+      }
+     ],
+     "cam": "push"
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.42,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "muller",
+       "x": 240,
+       "y": 1300,
+       "pose": "sit",
+       "emote": "shock",
+       "scale": 1.2,
+       "hold": {
+        "kind": "mug",
+        "hand": "R",
+        "scale": 0.6
+       }
+      },
+      {
+       "id": "robot",
+       "x": 520,
+       "y": 1440,
+       "pose": "point",
+       "emote": "smug",
+       "scale": 1.3
+      },
+      {
+       "id": "p1",
+       "x": 900,
+       "y": 1440,
+       "pose": "run",
+       "emote": "happy",
+       "scale": 0.95,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "goal",
+       "x": 560,
+       "y": 960,
+       "scale": 3.0,
+       "layer": "back"
+      },
+      {
+       "kind": "rocket",
+       "x": 130,
+       "y": 560,
+       "scale": 1.0
+      },
+      {
+       "kind": "bolt",
+       "x": 620,
+       "y": 640,
+       "scale": 0.9,
+       "anim": "pulse"
+      },
+      {
+       "kind": "ball",
+       "x": 700,
+       "y": 1250,
+       "scale": 1.0,
+       "anim": "arc"
+      }
+     ]
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "muller",
+       "x": 240,
+       "y": 1300,
+       "pose": "sit",
+       "emote": "shock",
+       "scale": 1.2,
+       "hold": {
+        "kind": "mug",
+        "hand": "R",
+        "scale": 0.6
+       }
+      },
+      {
+       "id": "robot",
+       "x": 520,
+       "y": 1440,
+       "pose": "shrug",
+       "emote": "happy",
+       "scale": 1.3
+      },
+      {
+       "id": "p1",
+       "x": 900,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "shock",
+       "scale": 0.95,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "goal",
+       "x": 560,
+       "y": 960,
+       "scale": 3.0,
+       "layer": "back"
+      },
+      {
+       "kind": "rocket",
+       "x": 130,
+       "y": 560,
+       "scale": 1.0
+      },
+      {
+       "kind": "bolt",
+       "x": 620,
+       "y": 640,
+       "scale": 0.9
+      },
+      {
+       "kind": "ball",
+       "x": 750,
+       "y": 870,
+       "scale": 0.9
+      }
+     ],
+     "sfx": {
+      "text": "DING",
+      "x": 420,
+      "y": 520,
+      "r": 110
+     }
+    }
+   ]
+  },
+  "s07": {
+   "type": "PROVOC",
+   "q": "Less pressure: does focus fade?",
+   "a": "Focus fades",
+   "b": "Still sharp",
+   "split": [
+    62,
+    38
+   ],
+   "mood": "sleepy"
+  },
+  "s08": {
+   "type": "INTERVIEW",
+   "label": "REPORTER ASKS",
+   "bubble": "Praise first, then the but?",
+   "answer": {
+    "icon": "chart-down",
+    "gesture": "shrug"
+   },
+   "subject": "Thomas Muller",
+   "subject_cast": "muller"
+  }
+ }
+}

@@ -1,0 +1,136 @@
+{
+ "video_id": "5KzRZBgVIJ4",
+ "topic": "Jeremy Doku vs Ronald Araújo one-on-one battle during a Liverpool v Man City-style match, with player name tags tracking them",
+ "hero": "Jérémy Doku (tag J.DOKU) and Ronald Araújo (tag R.ARAÚJO)",
+ "hero_role": "duelling players: Doku the dribbler, Araújo the defender (title: Doku cooked Araújo)",
+ "media_type_overall": "real broadcast footage",
+ "hook": "High-angle broadcast view of a light-blue attacker running at a red-kit defender, floating tags J.DOKU and R.ARAÚJO",
+ "subtitle_style": "none; small rounded name tags (maroon R.ARAÚJO, blue J.DOKU with club badge) follow players",
+ "reaction_overlays": "tracking name tags only",
+ "transition_summary": "No detected cuts; slow continuous footage with occasional angle switches (about 4 clip changes in 28s, ~1.5 cuts/10s); no flash/zoom",
+ "audio_note": "unknown; likely trending music or crowd sound",
+ "reuse_segments": [
+  {
+   "t0": 0,
+   "t1": 28,
+   "what": "Doku v Araújo duel clips with name tags",
+   "origin_guess": "broadcast match",
+   "rights_risk": "high",
+   "how_to_reuse": "Needs licensed Premier League footage; reuse the tracking tag graphic style with licensed clips"
+  }
+ ],
+ "frames": [
+  {
+   "idx": 1,
+   "t": 0,
+   "desc": "High-angle wide: light-blue Doku dribbling, red Araújo ahead, tags",
+   "type": "video",
+   "text_on_screen": "R.ARAÚJO / J.DOKU tags",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 2,
+   "t": 2,
+   "desc": "Wide: Doku and Araújo on the halfway line, tags",
+   "type": "video",
+   "text_on_screen": "R.ARAÚJO / J.DOKU tags",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 3,
+   "t": 4,
+   "desc": "Wide: Doku and Araújo closing on each other, manager at touchline",
+   "type": "video",
+   "text_on_screen": "R.ARAÚJO / J.DOKU tags",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 4,
+   "t": 6,
+   "desc": "Wide: Doku with ball, Araújo near him, teammates behind",
+   "type": "video",
+   "text_on_screen": "R.ARAÚJO / J.DOKU tags",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 5,
+   "t": 8,
+   "desc": "Wide: Araújo sliding/contacting, Doku close",
+   "type": "video",
+   "text_on_screen": "R.ARAÚJO / J.DOKU tags",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 6,
+   "t": 10,
+   "desc": "Wide: Doku running past, tags with ad board at top",
+   "type": "video",
+   "text_on_screen": "R.ARAÚJO / J.DOKU tags",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 7,
+   "t": 12,
+   "desc": "Side view near goal: Doku approaches Araújo, goalkeeper behind, Ladbrokes boards",
+   "type": "video",
+   "text_on_screen": "R.ARAÚJO / J.DOKU tags",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 8,
+   "t": 14,
+   "desc": "Side view near goal: Doku skips by Araújo, Carlsberg boards",
+   "type": "video",
+   "text_on_screen": "R.ARAÚJO / J.DOKU tags",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 9,
+   "t": 16,
+   "desc": "Side view: Araújo on ground, Doku leading, red defender",
+   "type": "video",
+   "text_on_screen": "R.ARAÚJO / J.DOKU tags",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 10,
+   "t": 18,
+   "desc": "Side view near goal with Doku running, Araújo trailing",
+   "type": "video",
+   "text_on_screen": "R.ARAÚJO / J.DOKU tags",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 11,
+   "t": 20,
+   "desc": "Side view near goal: Doku vs red players, STRAUSS board",
+   "type": "video",
+   "text_on_screen": "R.ARAÚJO / J.DOKU tags",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 12,
+   "t": 22,
+   "desc": "Side view: Doku with ball, Araújo chasing, 'Know Your Own' board",
+   "type": "video",
+   "text_on_screen": "R.ARAÚJO / J.DOKU tags",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 13,
+   "t": 24,
+   "desc": "High-angle: Doku and Araújo tangled at AXA boards",
+   "type": "video",
+   "text_on_screen": "R.ARAÚJO / J.DOKU tags",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 14,
+   "t": 26,
+   "desc": "High-angle: Araújo chasing Doku near touchline",
+   "type": "video",
+   "text_on_screen": "R.ARAÚJO / J.DOKU tags",
+   "transition_to_next": "none"
+  }
+ ]
+}

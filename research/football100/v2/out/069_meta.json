@@ -1,0 +1,103 @@
+{
+ "no": 69,
+ "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/069_arteta_bans_arsenal_players_from_pic.mp4",
+ "total": 44.13333333333333,
+ "outro_start": 38.52,
+ "cover": true,
+ "seq": [
+  {
+   "id": "s01",
+   "kind": "HOOK",
+   "start": 0.1,
+   "end": 1.6,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/069/s01.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s02",
+   "kind": "COMIC1",
+   "start": 5.1,
+   "end": 7.1,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/069/s02.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s03",
+   "kind": "STATS",
+   "start": 12.6,
+   "end": 14.1,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/069/s03.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s04",
+   "kind": "NEWS",
+   "start": 16.366666666666667,
+   "end": 18.133333333333333,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/069/s04.mp4",
+   "clip_dur": 1.767,
+   "frames": 42
+  },
+  {
+   "id": "s05",
+   "kind": "COMIC2",
+   "start": 20.166666666666668,
+   "end": 22.166666666666668,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/069/s05.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s06",
+   "kind": "COMIC3",
+   "start": 27.233333333333334,
+   "end": 29.233333333333334,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/069/s06.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s07",
+   "kind": "PROVOC",
+   "start": 31.6,
+   "end": 33.1,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/069/s07.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s08",
+   "kind": "INTERVIEW",
+   "start": 35.333333333333336,
+   "end": 37.1,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/069/s08.mp4",
+   "clip_dur": 1.767,
+   "frames": 42
+  }
+ ],
+ "missing": [],
+ "dropped": [],
+ "cards": [
+  {
+   "text": "Chelsea too",
+   "a": 33.266666666666666,
+   "b": 34.43333333333333
+  }
+ ],
+ "caption_sprites": 120,
+ "whoosh": [
+  0.0,
+  5.0,
+  12.5,
+  16.266666666666666,
+  20.066666666666666,
+  27.133333333333333,
+  31.5,
+  35.233333333333334,
+  38.42
+ ],
+ "shots": 14
+}

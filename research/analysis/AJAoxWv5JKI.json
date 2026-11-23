@@ -1,0 +1,136 @@
+{
+ "video_id": "AJAoxWv5JKI",
+ "topic": "Short: AI-voiced football stars (Neymar, Bale, Suarez, Messi, Ronaldo) comedy; Neymar gets injured on mannequin training course",
+ "hero": "Neymar (AI-voiced character)",
+ "hero_role": "butt of the joke",
+ "media_type_overall": "AI-generated video",
+ "hook": "Neymar face (yellow headphones) in yellow jersey top half, game mannequin course on bottom half, captions \"you guys how...\"",
+ "subtitle_style": "White bold word captions with yellow highlighted word (e.g., \"even one mannequin\", \"to pay hospital\"), centered above game view at face-cam bottom edge",
+ "reaction_overlays": "Split-screen face-cam of AI character with coloured headphones, cyan SUBSCRIBE :) sticker with arrow at end, no emoji",
+ "transition_summary": "Cut every character line (~2-3 s): cuts at 4.3, 17.1, 24.2; face tile swaps rapidly with each speaker, continuous game footage below",
+ "audio_note": "AI-generated voices (disclaimer) dialogue plus game sound",
+ "reuse_segments": [
+  {
+   "t0": 0,
+   "t1": 26,
+   "what": "EA FC / PES training drill footage",
+   "origin_guess": "game",
+   "rights_risk": "medium",
+   "how_to_reuse": "own recording"
+  },
+  {
+   "t0": 0,
+   "t1": 26,
+   "what": "Character face cams (AI/photoreal)",
+   "origin_guess": "AI",
+   "rights_risk": "medium",
+   "how_to_reuse": "generate own character art, avoid real likenesses"
+  }
+ ],
+ "frames": [
+  {
+   "idx": 1,
+   "t": 0,
+   "desc": "Top: Neymar in yellow headphones and Brazil jersey; bottom: game mannequin drill with blue player",
+   "type": "ai_generated",
+   "text_on_screen": "you guys how",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 2,
+   "t": 2,
+   "desc": "Top: Bale with purple headphones on golf background; bottom: drill running",
+   "type": "ai_generated",
+   "text_on_screen": "even one mannequin",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 3,
+   "t": 4,
+   "desc": "Top: Suarez in dentist chair with headphones; bottom: player dribbles towards mannequins",
+   "type": "ai_generated",
+   "text_on_screen": "Oh, damn",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 4,
+   "t": 6,
+   "desc": "Top: Suarez, same dentist setting; bottom: player running with ball near cones",
+   "type": "ai_generated",
+   "text_on_screen": "that was fire",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 5,
+   "t": 8,
+   "desc": "Top: Neymar yellow headphones; bottom: player dribbling to mannequin",
+   "type": "ai_generated",
+   "text_on_screen": "stop the ball",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 6,
+   "t": 10,
+   "desc": "Top: Neymar; bottom: player collides with large yellow mannequin",
+   "type": "ai_generated",
+   "text_on_screen": "Quick footwork and",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 7,
+   "t": 12,
+   "desc": "Top: Messi with headphones and World Cup trophy behind; bottom: drill",
+   "type": "ai_generated",
+   "text_on_screen": "That's my boy",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 8,
+   "t": 14,
+   "desc": "Top: Messi; bottom: player near mannequin",
+   "type": "ai_generated",
+   "text_on_screen": "to pay hospital",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 9,
+   "t": 16,
+   "desc": "Top: Ronaldo in red headphones with desert background; bottom: player dribbling",
+   "type": "ai_generated",
+   "text_on_screen": "Bale",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 10,
+   "t": 18,
+   "desc": "Top: Bale with golf background; bottom: player dribbling",
+   "type": "ai_generated",
+   "text_on_screen": "do golf challenges",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 11,
+   "t": 20,
+   "desc": "Top: Messi; bottom: player running past mannequins",
+   "type": "ai_generated",
+   "text_on_screen": "Just finish it",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 12,
+   "t": 22,
+   "desc": "Top: Messi; bottom: player dribbling past mannequins",
+   "type": "ai_generated",
+   "text_on_screen": "Neymar, just",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 13,
+   "t": 24,
+   "desc": "Full-screen game: player fallen on ground in goal area, cyan sticker",
+   "type": "game",
+   "text_on_screen": "SUBSCRIBE :)",
+   "transition_to_next": "none"
+  }
+ ]
+}

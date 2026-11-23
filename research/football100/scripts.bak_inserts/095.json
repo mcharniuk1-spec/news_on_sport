@@ -1,0 +1,69 @@
+{
+ "no": 95,
+ "subject": "Bruno Guimaraes returns to St James' Park with Arsenal, who paid a reported £75m",
+ "title": "Guimaraes returns to St James' Park",
+ "voice": "EL_B",
+ "comic": false,
+ "style": null,
+ "lines": [
+  {
+   "vo": "For a reported seventy-five million pounds, Guimaraes returns to St James' Park.",
+   "card": "£75m, back home",
+   "sfx": null,
+   "footage": "Guimaraes Newcastle clips, St James' Park wide shot"
+  },
+  {
+   "vo": "Saturday, five-thirty UK time: Arsenal at Newcastle. Old club, new colours.",
+   "card": "Saturday, 5:30pm",
+   "sfx": null,
+   "footage": "stadium exterior, match-day b-roll"
+  },
+  {
+   "vo": "He scored nine league goals last season, and thirty-one in total for Newcastle.",
+   "card": "31 for Newcastle",
+   "sfx": null,
+   "footage": "Guimaraes goal montage, Newcastle kit"
+  },
+  {
+   "vo": "He started slowly at Arsenal. Now he is first choice, with goals against Sunderland and Leeds.",
+   "card": "First choice",
+   "sfx": null,
+   "footage": "Arsenal midfield match clips, goal clips vs Sunderland and vs Leeds"
+  },
+  {
+   "vo": "Arteta says he is still not there. Praise from Arteta clearly comes in instalments.",
+   "card": "Still not there",
+   "sfx": null,
+   "footage": "Arteta press conference clip"
+  },
+  {
+   "vo": "Arsenal are five points clear. Harvey Barnes says this is the match Newcastle need.",
+   "card": "Five points clear",
+   "sfx": null,
+   "footage": "league table graphic, Newcastle training b-roll"
+  },
+  {
+   "vo": "Got a view on this one? News, betting tips and predictions at aboutfootball dot UK.",
+   "card": "aboutfootball dot UK",
+   "sfx": null,
+   "footage": "end card"
+  }
+ ],
+ "chars": 577,
+ "est_seconds": 32,
+ "footage_terms": [
+  "Bruno Guimaraes Arsenal highlights",
+  "Bruno Guimaraes Newcastle best goals",
+  "Newcastle vs Arsenal preview",
+  "Guimaraes Arteta press conference"
+ ],
+ "inserts": [],
+ "facts_used": [
+  "Arsenal paid a reported 75 million pounds; he faces Newcastle on Saturday 21 November at 5:30pm UK time (news 170)",
+  "He started slowly after an early-season injury but is now a first-choice midfielder; the injury is not used in the script (news 170)",
+  "Arsenal are five points clear at the top; Harvey Barnes says the match is what Newcastle need to kick-start their season (news 170)",
+  "Scored nine Premier League goals for Newcastle last season and 31 league goals in total (news 170, background)"
+ ],
+ "comic_score": 3,
+ "notes": "Source: news 170 (Sky Sports, 2026-11-20), same article as 93 and 167. Non-comic per assign; kept factual with light deadpan only. The early-season injury is left out per the forbidden-topics rule. Price is a reported figure. Jaissle quote not used because his role is not confirmed in the data."
+}

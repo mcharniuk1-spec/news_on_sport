@@ -1,0 +1,62 @@
+{
+ "no": 51,
+ "subject": "Beckham, Rapinoe, Altidore and Ertz voted into the National Soccer Hall of Fame",
+ "title": "Beckham and Rapinoe enter the Hall",
+ "voice": "kokoro",
+ "comic": false,
+ "style": null,
+ "lines": [
+  {
+   "vo": "Who gets into the Hall of Fame first time? Megan Rapinoe.",
+   "card": "First-year inductee",
+   "footage": "Rapinoe Hall of Fame reaction clip"
+  },
+  {
+   "vo": "The National Soccer Hall of Fame just added four names. David Beckham is one of them.",
+   "card": "Four new legends",
+   "footage": "Beckham LA Galaxy best moments"
+  },
+  {
+   "vo": "Rapinoe has two Women's World Cups and the 2019 Ballon d'Or. The voters had an easy shift.",
+   "card": "Two World Cups",
+   "footage": "Rapinoe World Cup goal montage"
+  },
+  {
+   "vo": "Jozy Altidore scored forty-two goals for his country. Nobody argued with the maths. Julie Ertz joins him on the player ballot.",
+   "card": "42 international goals",
+   "footage": "Altidore Toronto MLS Cup 2017 goal"
+  },
+  {
+   "vo": "Beckham came through the veteran ballot. Six Premier League titles, and he still used the side door.",
+   "card": "Six Premier League titles",
+   "footage": "Beckham Man United Premier League celebration"
+  },
+  {
+   "vo": "Rapinoe, front door. Beckham, side door. The ceremony is on April sixteenth in Plano, Texas. Wear the good suit, Becks.",
+   "card": "Plano, Texas, 16 April",
+   "footage": "Beckham suit red carpet"
+  },
+  {
+   "vo": "Want the next story before it breaks? Betting tips, news and predictions at aboutfootball dot UK.",
+   "card": "aboutfootball.uk",
+   "footage": "football100 end card"
+  }
+ ],
+ "chars": 674,
+ "est_seconds": 37,
+ "footage_terms": [
+  "David Beckham Hall of Fame",
+  "Rapinoe Hall of Fame reaction",
+  "Beckham LA Galaxy MLS Cup",
+  "Altidore Toronto MLS Cup 2017 goal"
+ ],
+ "inserts": [],
+ "facts_used": [
+  "ev0130: Rapinoe elected on the player ballot in her first year of eligibility, with Altidore and Ertz; Beckham came through the veteran ballot (news/news_dedup.json)",
+  "ev0130: induction ceremony set for 16 April in Plano, Texas (news/news_dedup.json)",
+  "ev0130: Beckham's profile cites six Premier League titles with United and back-to-back MLS titles with the LA Galaxy (news/news_dedup.json)",
+  "ev0130: Altidore scored 42 international goals; Rapinoe won two Women's World Cups and the 2019 Ballon d'Or (news/news_dedup.json)"
+ ],
+ "comic_score": 5,
+ "notes": "fdb.py get news ev0130 fails: the news table uses integer ids and the ev#### refs are not keyed there, so facts come from news/news_dedup.json. The MLS titles are not used in the script. Becks is a nickname, tone only. Non-comic, 0 inserts. Punch-up pass: front door / side door callback, rule of three on the ballots. Jokes use only ballot types, the titles and the suit; no age or appearance gags."
+}

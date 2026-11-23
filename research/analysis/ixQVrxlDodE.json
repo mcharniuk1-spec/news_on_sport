@@ -1,0 +1,96 @@
+{
+ "video_id": "ixQVrxlDodE",
+ "topic": "Street freestyle juggling clip of a shirtless man at a sunny plaza/wall; title claims Neymar and Marcelo freestyles",
+ "hero": "Unidentified shirtless man freestyling with a ball (title credits Neymar and Marcelo)",
+ "hero_role": "performer showing skills",
+ "media_type_overall": "fan phone/stadium footage",
+ "hook": "Shirtless man in black shorts juggles ball on paved plaza, palm trees, vertical phone shot",
+ "subtitle_style": "none (small DX10HD watermark bottom-left)",
+ "reaction_overlays": "none; slight colour/blur transition at end",
+ "transition_summary": "Hard cuts between 3-4 phone takes; ~4-5 cuts per 10 s; one blurred green glitch tile",
+ "audio_note": "Unknown; likely music bed over short; description is channel promo",
+ "reuse_segments": [
+  {
+   "t0": 0,
+   "t1": 18,
+   "what": "Beach/plaza freestyle juggling phone clips",
+   "origin_guess": "fan edit",
+   "rights_risk": "medium",
+   "how_to_reuse": "clips from private social accounts; seek permission or recreate with own footage"
+  }
+ ],
+ "frames": [
+  {
+   "idx": 1,
+   "t": 0,
+   "desc": "Shirtless man juggles ball on plaza, palm trees, vertical phone",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 2,
+   "t": 2,
+   "desc": "Man juggles at knee height, steps",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 3,
+   "t": 4,
+   "desc": "Man juggles ball, passes person sitting behind",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 4,
+   "t": 6,
+   "desc": "Man walks barefoot, others at steps",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 5,
+   "t": 8,
+   "desc": "Ball high in blue sky",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 6,
+   "t": 10,
+   "desc": "Man heading/juggling ball against concrete wall at sunset",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 7,
+   "t": 12,
+   "desc": "Man standing facing wall, ball bouncing high",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 8,
+   "t": 14,
+   "desc": "Man controls ball with foot, near wall",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 9,
+   "t": 16,
+   "desc": "Blurred green-tinted motion shot with palms",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "none"
+  }
+ ]
+}

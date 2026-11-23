@@ -1,0 +1,83 @@
+{
+ "no": 20,
+ "subject": "Ousmane Dembele",
+ "title": "Dembele's Dortmund skip and the 105m fee",
+ "voice": "EL_A",
+ "comic": true,
+ "style": "simpsons",
+ "lines": [
+  {
+   "vo": "Dembele missed Dortmund training. Barcelona paid a 105 million base fee.",
+   "card": "Skipped training",
+   "sfx": null,
+   "footage": "Dembele Borussia Dortmund archive, neutral shot"
+  },
+  {
+   "vo": "He scored a World Cup hat-trick against Norway by the thirty-second minute. Early start, for once.",
+   "card": "Hat-trick by 32'",
+   "sfx": null,
+   "footage": "France Norway World Cup 2026 highlights, Dembele goals"
+  },
+  {
+   "vo": "Then came the Ballon d'Or: seventh, behind Kane, Mbappe and Yamal. Still comfortably ahead of eighth.",
+   "card": "Seventh, behind three",
+   "sfx": "small cartoon ding",
+   "footage": "Ballon d'Or 2026 ceremony, wide shot"
+  },
+  {
+   "vo": "In the Champions League final, he scored the equalising penalty against Arsenal. PSG won four-three on penalties.",
+   "card": "The equaliser",
+   "sfx": null,
+   "footage": "Champions League final 2026 highlights, PSG v Arsenal"
+  },
+  {
+   "vo": "Barcelona later sold him for 50.4 million. Great business, Barca.",
+   "card": "105m, then 50.4m",
+   "sfx": null,
+   "footage": "Barcelona and PSG transfer graphic"
+  },
+  {
+   "vo": "Think you can call the next one? Free tips, results and predictions at aboutfootball dot UK.",
+   "card": "aboutfootball dot UK",
+   "sfx": null,
+   "footage": "End card, no footage"
+  }
+ ],
+ "chars": 541,
+ "est_seconds": 30,
+ "footage_terms": [
+  "Ousmane Dembele World Cup hat-trick Norway 2026",
+  "Ousmane Dembele Champions League final 2026 penalty",
+  "Ousmane Dembele Barcelona career highlights",
+  "Ballon d'Or 2026 ceremony London Palladium"
+ ],
+ "inserts": [
+  {
+   "after_line": 1,
+   "story": "A cartoon coach reads a roll call and one chair is empty. A caricature Dembele skates in on a scooter and says, I was in the building. A cartoon scout then waves a cheque so big he needs both arms.",
+   "characters": "caricature Dembele; generic cartoon coach; generic cartoon scout; no real people",
+   "seconds": 2
+  },
+  {
+   "after_line": 2,
+   "story": "A generic cartoon treasurer wheels a sack marked 105M into a shop and leaves with a sack marked 50.4M and a smiling caricature Dembele. The shopkeeper hands over the receipt, folded very small.",
+   "characters": "caricature Dembele; generic cartoon treasurer; generic cartoon shopkeeper; no real people",
+   "seconds": 2
+  },
+  {
+   "after_line": 3,
+   "story": "A cartoon podium has a step labelled seventh. A caricature Dembele lifts a tiny seventh-place trophy as if it were solid gold, and the cartoon crowd politely joins in.",
+   "characters": "caricature Dembele; generic cartoon winner with a ribbon; generic cartoon crowd; no real people",
+   "seconds": 2
+  }
+ ],
+ "facts_used": [
+  "Dortmund 2017: sanctioned for missing training without a valid excuse; later Barcelona move (https://fr.wikipedia.org/wiki/Ousmane_Demb%C3%A9l%C3%A9)",
+  "Barcelona signing for a 105m base fee in 2017; sold to PSG in 2023 for 50.4m (https://en.wikipedia.org/wiki/Ousmane_Demb%C3%A9l%C3%A9)",
+  "World Cup 2026 hat-trick vs Norway, goals at 7', 20' and 32' (https://www.espn.com/soccer/story/_/id/49189907/ousmane-dembele-first-half-hat-trick-france)",
+  "Seventh at the 2026 Ballon d'Or, behind Kane, Mbappe and Yamal (https://en.wikipedia.org/wiki/2026_Ballon_d%27Or)",
+  "Equalising penalty in the 2026 Champions League final, 1-1 with Arsenal; PSG won 4-3 on penalties (https://en.wikipedia.org/wiki/Ousmane_Demb%C3%A9l%C3%A9)"
+ ],
+ "comic_score": 7,
+ "notes": "The Dortmund item is a training sanction, not a strike; the French page is the source for that wording. The 105m is the base fee, with reported add-ons (about 40m) left out. 'Great business, Barca' is a light roast of a transfer, not of a person. Fines, injury history, family, religion and the 2021 hotel incident are excluded. The hat-trick minutes come from ESPN. after_line counts from 1. Punch-up pass: 'early start, for once' is a light tease of the documented training sanction, not a claim about habits. 'Great business, Barca' roasts the transfer, not a person. Transfer fee remains the base fee only."
+}

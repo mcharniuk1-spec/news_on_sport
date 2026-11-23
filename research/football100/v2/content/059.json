@@ -1,0 +1,784 @@
+{
+ "no": 59,
+ "style": "RUBBER-SLAPSTICK",
+ "prop": "ball",
+ "cast": {
+  "haughey": {
+   "role": "kid",
+   "number": "19",
+   "shirt": "#d6343a",
+   "hair": "#6b4a2a"
+  },
+  "coach": {
+   "role": "coach",
+   "shirt": "#e0a030",
+   "hair": "#2b2b3a"
+  },
+  "cleaner": {
+   "role": "staff",
+   "shirt": "#3fb8af",
+   "hair": "#2b2b3a"
+  },
+  "fan": {
+   "role": "fan",
+   "shirt": "#d6343a",
+   "hair": "#a03a2a"
+  },
+  "arteta": {
+   "role": "coach",
+   "shirt": "#1b2a49",
+   "hair": "#2b2b3a"
+  },
+  "referee": {
+   "role": "referee",
+   "hair": "#6b4a2a"
+  }
+ },
+ "sequences": {
+  "s01": {
+   "type": "HOOK",
+   "q": "Premier League champions lose to League Two?",
+   "prop": "trophy",
+   "emote": "shock",
+   "board": "typed",
+   "role": "fan"
+  },
+  "s02": {
+   "type": "STATS",
+   "items": [
+    {
+     "icon": "ball",
+     "value": "1-1",
+     "label": "One-one"
+    },
+    {
+     "icon": "boot",
+     "value": "5-3",
+     "label": "Shootout 5-3"
+    },
+    {
+     "icon": "trophy",
+     "value": "2",
+     "label": "League Two"
+    }
+   ]
+  },
+  "s03": {
+   "type": "COMIC",
+   "bg": "training",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "haughey",
+       "x": 255,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "sweat",
+       "scale": 1.5,
+       "label": "Conor Haughey"
+      },
+      {
+       "id": "coach",
+       "x": 600,
+       "y": 1440,
+       "pose": "present",
+       "emote": "happy",
+       "scale": 1.25,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "goal",
+       "x": 890,
+       "y": 1000,
+       "scale": 1.6
+      },
+      {
+       "kind": "calendar",
+       "x": 650,
+       "y": 540,
+       "scale": 2.0,
+       "anim": "drop"
+      },
+      {
+       "kind": "ball",
+       "x": 330,
+       "y": 1410,
+       "scale": 0.9
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.42,
+     "actors": [
+      {
+       "id": "haughey",
+       "x": 255,
+       "y": 1440,
+       "pose": "point",
+       "emote": "smug",
+       "scale": 1.5
+      },
+      {
+       "id": "coach",
+       "x": 600,
+       "y": 1440,
+       "pose": "shock",
+       "emote": "shock",
+       "scale": 1.25,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "goal",
+       "x": 890,
+       "y": 1000,
+       "scale": 1.6
+      },
+      {
+       "kind": "paper-plane",
+       "x": 300,
+       "y": 700,
+       "scale": 1.3,
+       "flip": true,
+       "rot": 10,
+       "anim": "pop"
+      },
+      {
+       "kind": "ball",
+       "x": 330,
+       "y": 1410,
+       "scale": 0.9
+      }
+     ],
+     "cam": "push"
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.42,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "haughey",
+       "x": 255,
+       "y": 1440,
+       "pose": "point",
+       "emote": "smug",
+       "scale": 1.5
+      },
+      {
+       "id": "coach",
+       "x": 600,
+       "y": 1440,
+       "pose": "shock",
+       "emote": "shock",
+       "scale": 1.25,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "goal",
+       "x": 890,
+       "y": 1000,
+       "scale": 1.6
+      },
+      {
+       "kind": "paper-plane",
+       "x": 800,
+       "y": 900,
+       "scale": 1.2,
+       "flip": true,
+       "rot": 25
+      },
+      {
+       "kind": "ball",
+       "x": 330,
+       "y": 1410,
+       "scale": 0.9
+      }
+     ],
+     "fx": [
+      {
+       "kind": "speed",
+       "x": 540,
+       "y": 800
+      }
+     ]
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "haughey",
+       "x": 255,
+       "y": 1440,
+       "pose": "celebrate",
+       "emote": "happy",
+       "scale": 1.5
+      },
+      {
+       "id": "coach",
+       "x": 600,
+       "y": 1440,
+       "pose": "cheer",
+       "emote": "happy",
+       "scale": 1.25,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "goal",
+       "x": 890,
+       "y": 1000,
+       "scale": 1.6,
+       "anim": "wobble"
+      },
+      {
+       "kind": "paper-plane",
+       "x": 890,
+       "y": 1060,
+       "scale": 1.0,
+       "flip": true,
+       "rot": 25
+      },
+      {
+       "kind": "ball",
+       "x": 330,
+       "y": 1410,
+       "scale": 0.9
+      }
+     ],
+     "sfx": {
+      "text": "DING",
+      "x": 400,
+      "y": 520,
+      "r": 110
+     },
+     "fx": [
+      {
+       "kind": "confetti",
+       "x": 890,
+       "y": 900,
+       "size": 1.1
+      }
+     ]
+    }
+   ]
+  },
+  "s04": {
+   "type": "NEWS",
+   "name": "Conor Haughey",
+   "fact": "had never practised a penalty",
+   "ticker": "Never practised penalties",
+   "icons": [
+    "boot",
+    "cross",
+    "ball"
+   ],
+   "role": "kid",
+   "actor": "haughey",
+   "dateline": "nineteen-year-old"
+  },
+  "s05": {
+   "type": "COMIC",
+   "bg": "office",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "cleaner",
+       "x": 590,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "happy",
+       "scale": 1.3
+      }
+     ],
+     "props": [
+      {
+       "kind": "shelf",
+       "x": 290,
+       "y": 760,
+       "scale": 1.8
+      },
+      {
+       "kind": "trophy",
+       "x": 290,
+       "y": 700,
+       "scale": 1.6,
+       "face": "smug"
+      },
+      {
+       "kind": "bucket",
+       "x": 290,
+       "y": 1235,
+       "scale": 1.7,
+       "label": "Carabao Cup"
+      },
+      {
+       "kind": "ball",
+       "x": 735,
+       "y": 1430,
+       "scale": 0.8
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.42,
+     "actors": [
+      {
+       "id": "cleaner",
+       "x": 590,
+       "y": 1440,
+       "pose": "present",
+       "emote": "happy",
+       "scale": 1.3
+      }
+     ],
+     "props": [
+      {
+       "kind": "shelf",
+       "x": 290,
+       "y": 760,
+       "scale": 1.8
+      },
+      {
+       "kind": "trophy",
+       "x": 290,
+       "y": 700,
+       "scale": 1.6,
+       "face": "smug",
+       "anim": "shake"
+      },
+      {
+       "kind": "bucket",
+       "x": 290,
+       "y": 1235,
+       "scale": 1.7,
+       "label": "Carabao Cup"
+      },
+      {
+       "kind": "ball",
+       "x": 735,
+       "y": 1430,
+       "scale": 0.8
+      }
+     ],
+     "fx": [
+      {
+       "kind": "dust",
+       "x": 290,
+       "y": 700,
+       "size": 1.0
+      }
+     ],
+     "cam": "push"
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.42,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "cleaner",
+       "x": 590,
+       "y": 1440,
+       "pose": "shock",
+       "emote": "shock",
+       "scale": 1.3
+      }
+     ],
+     "props": [
+      {
+       "kind": "shelf",
+       "x": 290,
+       "y": 760,
+       "scale": 1.8
+      },
+      {
+       "kind": "trophy",
+       "x": 290,
+       "y": 1120,
+       "scale": 1.1,
+       "face": "shock"
+      },
+      {
+       "kind": "bucket",
+       "x": 290,
+       "y": 1235,
+       "scale": 1.7,
+       "label": "Carabao Cup"
+      },
+      {
+       "kind": "ball",
+       "x": 735,
+       "y": 1430,
+       "scale": 0.8
+      }
+     ],
+     "sfx": {
+      "text": "CLANG",
+      "x": 410,
+      "y": 960,
+      "r": 90
+     }
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "cleaner",
+       "x": 590,
+       "y": 1440,
+       "pose": "facepalm",
+       "emote": "sweat",
+       "scale": 1.3
+      },
+      {
+       "id": "fan",
+       "x": 860,
+       "y": 1440,
+       "pose": "hold",
+       "emote": "happy",
+       "scale": 1.2,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "shelf",
+       "x": 290,
+       "y": 760,
+       "scale": 1.8
+      },
+      {
+       "kind": "trophy",
+       "x": 860,
+       "y": 1050,
+       "scale": 1.0,
+       "face": "happy"
+      },
+      {
+       "kind": "bucket",
+       "x": 290,
+       "y": 1235,
+       "scale": 1.7,
+       "label": "Carabao Cup"
+      },
+      {
+       "kind": "scarf",
+       "x": 770,
+       "y": 1120,
+       "scale": 1.0,
+       "anim": "wobble"
+      },
+      {
+       "kind": "ball",
+       "x": 735,
+       "y": 1430,
+       "scale": 0.8
+      }
+     ],
+     "fx": [
+      {
+       "kind": "sparkle",
+       "x": 860,
+       "y": 1050
+      }
+     ]
+    }
+   ]
+  },
+  "s06": {
+   "type": "COMIC",
+   "bg": "stadium",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "arteta",
+       "x": 275,
+       "y": 1440,
+       "pose": "point",
+       "emote": "angry-cheeky",
+       "scale": 1.4,
+       "label": "Arteta"
+      },
+      {
+       "id": "referee",
+       "x": 880,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "neutral",
+       "scale": 1.25,
+       "flip": true,
+       "hold": {
+        "kind": "net",
+        "hand": "R",
+        "scale": 0.9
+       }
+      }
+     ],
+     "props": [
+      {
+       "kind": "goal",
+       "x": 850,
+       "y": 1000,
+       "scale": 1.9
+      },
+      {
+       "kind": "camera",
+       "x": 650,
+       "y": 600,
+       "scale": 1.3,
+       "face": "smug",
+       "anim": "float"
+      },
+      {
+       "kind": "ball",
+       "x": 520,
+       "y": 1405,
+       "scale": 0.9
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.42,
+     "actors": [
+      {
+       "id": "arteta",
+       "x": 275,
+       "y": 1440,
+       "pose": "point",
+       "emote": "angry-cheeky",
+       "scale": 1.4
+      },
+      {
+       "id": "referee",
+       "x": 690,
+       "y": 1440,
+       "pose": "run",
+       "emote": "angry-cheeky",
+       "scale": 1.25,
+       "flip": true,
+       "hold": {
+        "kind": "net",
+        "hand": "R",
+        "scale": 0.9
+       }
+      }
+     ],
+     "props": [
+      {
+       "kind": "goal",
+       "x": 850,
+       "y": 1000,
+       "scale": 1.9
+      },
+      {
+       "kind": "camera",
+       "x": 420,
+       "y": 520,
+       "scale": 1.3,
+       "face": "smug",
+       "anim": "float"
+      },
+      {
+       "kind": "ball",
+       "x": 520,
+       "y": 1405,
+       "scale": 0.9
+      }
+     ],
+     "cam": "pan"
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.42,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "arteta",
+       "x": 275,
+       "y": 1440,
+       "pose": "shock",
+       "emote": "shock",
+       "scale": 1.4
+      },
+      {
+       "id": "referee",
+       "x": 690,
+       "y": 1440,
+       "pose": "lean",
+       "emote": "dizzy",
+       "scale": 1.25,
+       "flip": true,
+       "hold": {
+        "kind": "net",
+        "hand": "R",
+        "scale": 0.9
+       }
+      }
+     ],
+     "props": [
+      {
+       "kind": "goal",
+       "x": 850,
+       "y": 1000,
+       "scale": 1.9
+      },
+      {
+       "kind": "camera",
+       "x": 860,
+       "y": 600,
+       "scale": 1.3,
+       "face": "smug",
+       "anim": "float"
+      },
+      {
+       "kind": "ball",
+       "x": 520,
+       "y": 1405,
+       "scale": 0.9
+      }
+     ],
+     "sfx": {
+      "text": "WHOOSH",
+      "x": 560,
+      "y": 600,
+      "r": 100
+     }
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "arteta",
+       "x": 275,
+       "y": 1440,
+       "pose": "facepalm",
+       "emote": "sweat",
+       "scale": 1.4
+      },
+      {
+       "id": "referee",
+       "x": 770,
+       "y": 1440,
+       "pose": "point",
+       "emote": "smug",
+       "scale": 1.25,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "goal",
+       "x": 850,
+       "y": 1000,
+       "scale": 1.9
+      },
+      {
+       "kind": "camera",
+       "x": 520,
+       "y": 1290,
+       "scale": 0.9,
+       "face": "smug",
+       "rot": 15
+      },
+      {
+       "kind": "ball",
+       "x": 520,
+       "y": 1405,
+       "scale": 0.9
+      },
+      {
+       "kind": "card-yellow",
+       "x": 520,
+       "y": 1160,
+       "scale": 1.1,
+       "anim": "drop",
+       "rot": -6
+      }
+     ],
+     "sfx": {
+      "text": "DING",
+      "x": 500,
+      "y": 600,
+      "r": 100
+     },
+     "fx": [
+      {
+       "kind": "sparkle",
+       "x": 520,
+       "y": 1290
+      }
+     ]
+    }
+   ]
+  },
+  "s07": {
+   "type": "PROVOC",
+   "q": "Drone over pitch: stop play?",
+   "a": "Stop play",
+   "b": "Play on",
+   "split": [
+    58,
+    42
+   ],
+   "mood": "fun"
+  },
+  "s08": {
+   "type": "INTERVIEW",
+   "label": "REPORTER ASKS",
+   "bubble": "Did the drone help at all?",
+   "answer": {
+    "icon": "thumbs-down",
+    "gesture": "facepalm",
+    "emote": "sweat"
+   },
+   "subject": "Arteta",
+   "subject_cast": "arteta"
+  }
+ }
+}

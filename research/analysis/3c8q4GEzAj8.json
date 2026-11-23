@@ -1,0 +1,184 @@
+{
+ "video_id": "3c8q4GEzAj8",
+ "topic": "Lamine Yamal and girlfriend Ines Garcia relationship highlights (fan-edit with neon captions)",
+ "hero": "Lamine Yamal and Ines Garcia",
+ "hero_role": "protagonist couple",
+ "media_type_overall": "fan phone/stadium footage",
+ "hook": "Couple cuddling on couch with caption 'YAMAL'",
+ "subtitle_style": "neon green/yellow/magenta uppercase captions with glow, centred lower third, emoji",
+ "reaction_overlays": "green circle highlights, emoji, caption pop-ups",
+ "transition_summary": "Hard cuts every ~2 s with caption changes",
+ "audio_note": "song lyrics in transcript (music)",
+ "reuse_segments": [
+  {
+   "t0": 0,
+   "t1": 41,
+   "what": "Social media and event clips of couple",
+   "origin_guess": "fan phone/stadium footage",
+   "rights_risk": "high",
+   "how_to_reuse": "needs permission; recreate with generated imagery"
+  }
+ ],
+ "frames": [
+  {
+   "idx": 1,
+   "t": 0,
+   "desc": "Yamal and girlfriend Ines Garcia on couch; neon captions 'YAMAL', 'FOREVER!', 'INES GARCIA'",
+   "type": "video",
+   "text_on_screen": "YAMAL",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 2,
+   "t": 2,
+   "desc": "Yamal and girlfriend Ines Garcia on couch; neon captions 'YAMAL', 'FOREVER!', 'INES GARCIA'",
+   "type": "video",
+   "text_on_screen": "YAMAL & GIRLFRIEND / FOREVER!",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 3,
+   "t": 4,
+   "desc": "Yamal and girlfriend Ines Garcia on couch; neon captions 'YAMAL', 'FOREVER!', 'INES GARCIA'",
+   "type": "video",
+   "text_on_screen": "INES GARCIA",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 4,
+   "t": 6,
+   "desc": "Couple stand in room dancing; 'DANCE TIME', laughing emoji",
+   "type": "video",
+   "text_on_screen": "DANCE TIME",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 5,
+   "t": 8,
+   "desc": "Couple stand in room dancing; 'DANCE TIME', laughing emoji",
+   "type": "video",
+   "text_on_screen": "DANCE TIME",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 6,
+   "t": 10,
+   "desc": "Couple stand in room dancing; 'DANCE TIME', laughing emoji",
+   "type": "video",
+   "text_on_screen": "DANCE TIME",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 7,
+   "t": 12,
+   "desc": "Couple exiting a vehicle; green circle on hand",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 8,
+   "t": 14,
+   "desc": "Ballon d'Or red carpet: Yamal rejects another woman; captions 'GIRL: LAMINE', 'I CAN'T NOW..!', 'REJECTS FOR INES'",
+   "type": "video",
+   "text_on_screen": "YAMAL / GIRL: LAMINE.",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 9,
+   "t": 16,
+   "desc": "Ballon d'Or red carpet: Yamal rejects another woman; captions 'GIRL: LAMINE', 'I CAN'T NOW..!', 'REJECTS FOR INES'",
+   "type": "video",
+   "text_on_screen": "I CAN'T NOW..!",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 10,
+   "t": 18,
+   "desc": "Ballon d'Or red carpet: Yamal rejects another woman; captions 'GIRL: LAMINE', 'I CAN'T NOW..!', 'REJECTS FOR INES'",
+   "type": "video",
+   "text_on_screen": "*REJECTS FOR INES*",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 11,
+   "t": 20,
+   "desc": "Ines receives a rose; green circle; 'GIFT FOR INES'",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 12,
+   "t": 22,
+   "desc": "Ines receives a rose; green circle; 'GIFT FOR INES'",
+   "type": "video",
+   "text_on_screen": "*GIFT FOR INES*",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 13,
+   "t": 24,
+   "desc": "Ines in audience; Yamal laughs on stage; captions 'INES', 'YAMAL LAUGHS', 'VERY FUNNY'",
+   "type": "video",
+   "text_on_screen": "INES",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 14,
+   "t": 26,
+   "desc": "Ines in audience; Yamal laughs on stage; captions 'INES', 'YAMAL LAUGHS', 'VERY FUNNY'",
+   "type": "video",
+   "text_on_screen": "*YAMAL LAUGHS*",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 15,
+   "t": 28,
+   "desc": "Ines in audience; Yamal laughs on stage; captions 'INES', 'YAMAL LAUGHS', 'VERY FUNNY'",
+   "type": "video",
+   "text_on_screen": "*VERY FUNNY*",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 16,
+   "t": 30,
+   "desc": "Couple on helicopter and sea lunch dates; captions 'YAMAL & INES ON VACATION', 'LUNCH DATE'",
+   "type": "video",
+   "text_on_screen": "YAMAL & INES ON VACATION",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 17,
+   "t": 32,
+   "desc": "Couple on helicopter and sea lunch dates; captions 'YAMAL & INES ON VACATION', 'LUNCH DATE'",
+   "type": "video",
+   "text_on_screen": "*LUNCH DATE*",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 18,
+   "t": 34,
+   "desc": "Couple on helicopter and sea lunch dates; captions 'YAMAL & INES ON VACATION', 'LUNCH DATE'",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 19,
+   "t": 36,
+   "desc": "Couple under umbrella in rain at cafe, 'TRUE GENTLEMAN'",
+   "type": "video",
+   "text_on_screen": "*TRU",
+   "transition_to_next": "none"
+  },
+  {
+   "idx": 20,
+   "t": 38,
+   "desc": "Couple under umbrella in rain at cafe, 'TRUE GENTLEMAN'",
+   "type": "video",
+   "text_on_screen": "*TRUE GENTLEMAN*",
+   "transition_to_next": "none"
+  }
+ ]
+}

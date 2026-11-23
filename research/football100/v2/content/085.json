@@ -1,0 +1,672 @@
+{
+ "no": 85,
+ "style": "FLAT-POP",
+ "prop": "bench",
+ "cast": {
+  "trent": {
+   "role": "player",
+   "number": "12",
+   "shirt": "#f4f1ea",
+   "hair": "#3a2a1e"
+  }
+ },
+ "sequences": {
+  "s01": {
+   "type": "HOOK",
+   "q": "Ballon d'Or dream or bench reality?",
+   "prop": "trophy",
+   "emote": "sad",
+   "board": "ticket",
+   "role": "player"
+  },
+  "s02": {
+   "type": "COMIC",
+   "bg": "stadium",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "trent",
+       "x": 340,
+       "y": 1440,
+       "pose": "sit",
+       "emote": "happy",
+       "scale": 1.4,
+       "label": "Trent Alexander-Arnold"
+      }
+     ],
+     "props": [
+      {
+       "kind": "bench",
+       "x": 420,
+       "y": 1340,
+       "scale": 3.2,
+       "layer": "back"
+      },
+      {
+       "kind": "balloon",
+       "x": 360,
+       "y": 640,
+       "scale": 2.4,
+       "anim": "float"
+      },
+      {
+       "kind": "ball",
+       "x": 360,
+       "y": 620,
+       "scale": 1.0,
+       "anim": "float"
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "trent",
+       "x": 340,
+       "y": 1440,
+       "pose": "sit",
+       "emote": "happy",
+       "scale": 1.4,
+       "look": "balloon"
+      }
+     ],
+     "props": [
+      {
+       "kind": "bench",
+       "x": 420,
+       "y": 1340,
+       "scale": 3.2,
+       "layer": "back"
+      },
+      {
+       "kind": "balloon",
+       "x": 690,
+       "y": 470,
+       "scale": 2.6
+      },
+      {
+       "kind": "ball",
+       "x": 690,
+       "y": 450,
+       "scale": 1.1
+      }
+     ],
+     "cam": "push"
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "trent",
+       "x": 340,
+       "y": 1440,
+       "pose": "sit",
+       "emote": "sad",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "bench",
+       "x": 420,
+       "y": 1340,
+       "scale": 3.2,
+       "layer": "back"
+      },
+      {
+       "kind": "ball",
+       "x": 640,
+       "y": 1290,
+       "scale": 1.2
+      },
+      {
+       "kind": "pen",
+       "x": 520,
+       "y": 660,
+       "scale": 2.4,
+       "rot": -20
+      }
+     ],
+     "sfx": {
+      "text": "POP",
+      "x": 840,
+      "y": 500,
+      "r": 120
+     },
+     "fx": [
+      {
+       "kind": "sparkle",
+       "x": 690,
+       "y": 480
+      }
+     ]
+    }
+   ]
+  },
+  "s03": {
+   "type": "COMIC",
+   "bg": "dressing-room",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "trent",
+       "x": 290,
+       "y": 1440,
+       "pose": "present",
+       "emote": "sad",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "bench",
+       "x": 740,
+       "y": 1310,
+       "scale": 3.4,
+       "layer": "back"
+      },
+      {
+       "kind": "tag",
+       "x": 780,
+       "y": 760,
+       "scale": 1.2,
+       "anim": "wobble",
+       "label": "Third choice"
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.42,
+     "actors": [
+      {
+       "id": "trent",
+       "x": 290,
+       "y": 1440,
+       "pose": "present",
+       "emote": "sad",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "bench",
+       "x": 740,
+       "y": 1310,
+       "scale": 3.4,
+       "layer": "back"
+      },
+      {
+       "kind": "tag",
+       "x": 780,
+       "y": 760,
+       "scale": 1.2,
+       "label": "Third choice"
+      },
+      {
+       "kind": "net",
+       "x": 740,
+       "y": 1220,
+       "scale": 3.4,
+       "layer": "front",
+       "anim": "drop"
+      },
+      {
+       "kind": "ball",
+       "x": 740,
+       "y": 960,
+       "scale": 0.85,
+       "face": "smug",
+       "anim": "bounce"
+      }
+     ],
+     "cam": "push"
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.42,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "trent",
+       "x": 290,
+       "y": 1440,
+       "pose": "point",
+       "emote": "shock",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "bench",
+       "x": 740,
+       "y": 1310,
+       "scale": 3.4,
+       "layer": "back"
+      },
+      {
+       "kind": "tag",
+       "x": 780,
+       "y": 760,
+       "scale": 1.2,
+       "label": "Third choice"
+      },
+      {
+       "kind": "net",
+       "x": 740,
+       "y": 1220,
+       "scale": 3.4,
+       "layer": "front"
+      },
+      {
+       "kind": "ball",
+       "x": 790,
+       "y": 1120,
+       "scale": 0.85,
+       "face": "smug"
+      }
+     ]
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "trent",
+       "x": 290,
+       "y": 1440,
+       "pose": "shrug",
+       "emote": "sweat",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "bench",
+       "x": 740,
+       "y": 1310,
+       "scale": 3.4,
+       "layer": "back"
+      },
+      {
+       "kind": "tag",
+       "x": 780,
+       "y": 760,
+       "scale": 1.2,
+       "label": "Third choice"
+      },
+      {
+       "kind": "net",
+       "x": 740,
+       "y": 1220,
+       "scale": 3.4,
+       "layer": "front"
+      },
+      {
+       "kind": "ball",
+       "x": 790,
+       "y": 1120,
+       "scale": 0.85,
+       "face": "sleepy"
+      }
+     ],
+     "sfx": {
+      "text": "CREAK",
+      "x": 500,
+      "y": 480,
+      "r": 120
+     }
+    }
+   ]
+  },
+  "s04": {
+   "type": "COMIC",
+   "bg": "training",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "trent",
+       "x": 270,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "sad",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "bench",
+       "x": 800,
+       "y": 1400,
+       "scale": 2.6,
+       "layer": "back"
+      },
+      {
+       "kind": "megaphone",
+       "x": 830,
+       "y": 900,
+       "scale": 2.0,
+       "flip": true,
+       "face": "neutral",
+       "anim": "wobble"
+      },
+      {
+       "kind": "scoreboard",
+       "x": 760,
+       "y": 520,
+       "scale": 1.3,
+       "text": "5",
+       "face": "neutral"
+      },
+      {
+       "kind": "ball",
+       "x": 590,
+       "y": 930,
+       "scale": 1.0
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.42,
+     "actors": [
+      {
+       "id": "trent",
+       "x": 270,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "shock",
+       "scale": 1.4,
+       "look": "ball"
+      }
+     ],
+     "props": [
+      {
+       "kind": "bench",
+       "x": 800,
+       "y": 1400,
+       "scale": 2.6,
+       "layer": "back"
+      },
+      {
+       "kind": "megaphone",
+       "x": 830,
+       "y": 900,
+       "scale": 2.0,
+       "flip": true,
+       "face": "angry-cheeky",
+       "anim": "spin"
+      },
+      {
+       "kind": "scoreboard",
+       "x": 760,
+       "y": 520,
+       "scale": 1.3,
+       "text": "18",
+       "face": "shock"
+      },
+      {
+       "kind": "ball",
+       "x": 560,
+       "y": 880,
+       "scale": 1.0
+      },
+      {
+       "kind": "ball",
+       "x": 440,
+       "y": 740,
+       "scale": 1.0
+      },
+      {
+       "kind": "ball",
+       "x": 360,
+       "y": 640,
+       "scale": 1.0
+      }
+     ],
+     "cam": "push",
+     "sfx": {
+      "text": "WHOOSH",
+      "x": 540,
+      "y": 440,
+      "r": 120
+     }
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.42,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "trent",
+       "x": 285,
+       "y": 1440,
+       "pose": "point",
+       "emote": "shock",
+       "scale": 1.4,
+       "look": "ball"
+      }
+     ],
+     "props": [
+      {
+       "kind": "bench",
+       "x": 800,
+       "y": 1400,
+       "scale": 2.6,
+       "layer": "back"
+      },
+      {
+       "kind": "megaphone",
+       "x": 830,
+       "y": 900,
+       "scale": 2.0,
+       "flip": true,
+       "face": "angry-cheeky",
+       "anim": "spin"
+      },
+      {
+       "kind": "scoreboard",
+       "x": 760,
+       "y": 520,
+       "scale": 1.3,
+       "text": "64",
+       "face": "shock"
+      },
+      {
+       "kind": "ball",
+       "x": 600,
+       "y": 1000,
+       "scale": 1.0
+      },
+      {
+       "kind": "ball",
+       "x": 470,
+       "y": 880,
+       "scale": 1.0
+      },
+      {
+       "kind": "ball",
+       "x": 420,
+       "y": 760,
+       "scale": 1.0
+      },
+      {
+       "kind": "ball",
+       "x": 330,
+       "y": 680,
+       "scale": 1.0
+      }
+     ],
+     "cam": "shake",
+     "sfx": {
+      "text": "WHOOSH",
+      "x": 560,
+      "y": 440,
+      "r": 120
+     }
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "trent",
+       "x": 270,
+       "y": 1440,
+       "pose": "bow",
+       "emote": "happy",
+       "scale": 1.4,
+       "hold": {
+        "kind": "ball",
+        "hand": "R",
+        "scale": 0.9
+       }
+      }
+     ],
+     "props": [
+      {
+       "kind": "bench",
+       "x": 800,
+       "y": 1400,
+       "scale": 2.6,
+       "layer": "back"
+      },
+      {
+       "kind": "megaphone",
+       "x": 830,
+       "y": 900,
+       "scale": 2.0,
+       "flip": true,
+       "face": "sweat"
+      },
+      {
+       "kind": "scoreboard",
+       "x": 760,
+       "y": 520,
+       "scale": 1.3,
+       "text": "64",
+       "face": "sleepy"
+      },
+      {
+       "kind": "ball",
+       "x": 560,
+       "y": 1420,
+       "scale": 1.0
+      },
+      {
+       "kind": "ball",
+       "x": 640,
+       "y": 1440,
+       "scale": 1.0
+      },
+      {
+       "kind": "ball",
+       "x": 480,
+       "y": 1440,
+       "scale": 1.0
+      }
+     ],
+     "sfx": {
+      "text": "DING",
+      "x": 330,
+      "y": 470,
+      "r": 120
+     }
+    }
+   ]
+  },
+  "s05": {
+   "type": "NEWS",
+   "name": "Trent Alexander-Arnold",
+   "fact": "eighteen of a possible fifty LaLiga games",
+   "ticker": "Eighteen of fifty",
+   "icons": [
+    "boot",
+    "clipboard",
+    "bench"
+   ],
+   "role": "player",
+   "actor": "trent"
+  },
+  "s06": {
+   "type": "PROVOC",
+   "q": "Should Trent start more games?",
+   "a": "Start him",
+   "b": "Bench stays",
+   "split": [
+    71,
+    29
+   ],
+   "mood": "cheeky"
+  },
+  "s07": {
+   "type": "INTERVIEW",
+   "label": "REPORTER ASKS",
+   "bubble": "Would you go back to Liverpool?",
+   "answer": {
+    "icon": "speech-dots",
+    "gesture": "shrug",
+    "emote": "smug"
+   },
+   "subject": "Trent Alexander-Arnold",
+   "subject_cast": "trent",
+   "reporter_role": "reporter"
+  },
+  "s08": {
+   "type": "STATS",
+   "items": [
+    {
+     "icon": "trophy",
+     "value": "1",
+     "label": "First full back"
+    },
+    {
+     "icon": "star",
+     "value": "10",
+     "label": "Bold ambition"
+    },
+    {
+     "icon": "boot",
+     "value": "5",
+     "label": "Five of sixteen"
+    }
+   ]
+  }
+ }
+}

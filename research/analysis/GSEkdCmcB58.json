@@ -1,0 +1,136 @@
+{
+ "video_id": "GSEkdCmcB58",
+ "topic": "Arda Guler highlights vs Rayo Vallecano: skills, vision, passing",
+ "hero": "Arda Guler (A.GULER tag)",
+ "hero_role": "protagonist of the highlight",
+ "media_type_overall": "real broadcast footage",
+ "hook": "Close-up of Guler celebrating",
+ "subtitle_style": "small white name tags with arrows",
+ "reaction_overlays": "red/green colour flash grades on cuts, tracking arrows",
+ "transition_summary": "Hard cuts with colour flashes every 2 s",
+ "audio_note": "music likely",
+ "reuse_segments": [
+  {
+   "t0": 0,
+   "t1": 29,
+   "what": "Match action vs Rayo",
+   "origin_guess": "broadcast match",
+   "rights_risk": "high",
+   "how_to_reuse": "needs licensed footage"
+  }
+ ],
+ "frames": [
+  {
+   "idx": 1,
+   "t": 0,
+   "desc": "Close Arda Guler in white shirt celebrates with mouth open",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 2,
+   "t": 2,
+   "desc": "Guler on ball with A.GULER label, red ad boards",
+   "type": "video",
+   "text_on_screen": "A.GULER",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 3,
+   "t": 4,
+   "desc": "Penalty-box scramble, red tint flash",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "flash"
+  },
+  {
+   "idx": 4,
+   "t": 6,
+   "desc": "Wide pitch, Guler tracking arrow",
+   "type": "video",
+   "text_on_screen": "A.GULER",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 5,
+   "t": 8,
+   "desc": "Wide pitch, Guler tracking arrow",
+   "type": "video",
+   "text_on_screen": "A.GULER",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 6,
+   "t": 10,
+   "desc": "Goal-end scene with heavy red colour flash",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "flash"
+  },
+  {
+   "idx": 7,
+   "t": 12,
+   "desc": "Wide stadium, players in box, red tint on goal moment",
+   "type": "video",
+   "text_on_screen": "A.GULER",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 8,
+   "t": 14,
+   "desc": "Wide stadium, players in box, red tint on goal moment",
+   "type": "video",
+   "text_on_screen": "A.GULER",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 9,
+   "t": 16,
+   "desc": "Referee close with green tint",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 10,
+   "t": 18,
+   "desc": "Wide goal view, ball to goal",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 11,
+   "t": 20,
+   "desc": "Wide goal view, ball to goal",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 12,
+   "t": 22,
+   "desc": "Guler strikes ball, low medium close",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 13,
+   "t": 24,
+   "desc": "Wide with K.Mbappe and A.Guler labels",
+   "type": "video",
+   "text_on_screen": "K.MBAPPE / A.GULER",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 14,
+   "t": 26,
+   "desc": "Goal view with strong green tint flash",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "none"
+  }
+ ]
+}

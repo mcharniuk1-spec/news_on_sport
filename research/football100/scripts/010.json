@@ -1,0 +1,91 @@
+{
+ "no": 10,
+ "subject": "Karim Benzema",
+ "title": "Benzema: landslide, then a kart joke",
+ "voice": "kokoro",
+ "comic": true,
+ "style": "simpsons",
+ "lines": [
+  {
+   "vo": "Benzema won the 2022 Ballon d'Or by three hundred and fifty-six points.",
+   "card": "356-point landslide",
+   "sfx": "short bass sting",
+   "footage": "Benzema 2022 Ballon d'Or ceremony"
+  },
+  {
+   "vo": "That is not a win. That is a lap of honour.",
+   "card": "A lap of honour",
+   "sfx": null,
+   "footage": "Benzema 2022 Ballon d'Or highlights"
+  },
+  {
+   "vo": "In 2024-25 he scored twenty-one league goals in twenty-eight games for Al-Ittihad. League and King's Cup double.",
+   "card": "21 goals, 28 games",
+   "sfx": "crowd cheer",
+   "footage": "Benzema Al-Ittihad league goals 2025"
+  },
+  {
+   "vo": "In 2020 he compared Olivier Giroud to karting, and himself to Formula One. Modest as ever.",
+   "card": "Kart vs Formula One",
+   "sfx": null,
+   "footage": "Benzema Instagram live clip 2020"
+  },
+  {
+   "vo": "At Al-Hilal he scored a hat-trick on debut in a six-nil win. Six months later, he was gone. Fast car, short race.",
+   "card": "Debut hat-trick",
+   "sfx": "record scratch",
+   "footage": "Al-Hilal Benzema hat-trick highlights"
+  },
+  {
+   "vo": "Now his Saudi ambassador deal pays about twenty-three million dollars a year. Play abroad and it is cancelled. Formula One, parked in a very comfy pit lane.",
+   "card": "Stuck, but paid",
+   "sfx": null,
+   "footage": "Saudi Pro League Benzema highlights"
+  },
+  {
+   "vo": "Your mates will never guess this. Match news and betting tips at aboutfootball dot UK.",
+   "card": "aboutfootball.UK",
+   "sfx": null,
+   "footage": "end card, no footage"
+  }
+ ],
+ "chars": 671,
+ "est_seconds": 37,
+ "footage_terms": [
+  "Benzema 2022 Ballon d'Or",
+  "Benzema Al-Ittihad goals",
+  "Benzema Al-Hilal hat-trick",
+  "Benzema Giroud Formula One"
+ ],
+ "inserts": [
+  {
+   "after_line": 2,
+   "story": "A cartoon race track: a caricature of Benzema in a tiny Formula One car with a big 356 on the side zooms round the bend. Gag: he is already lapping a pack of cartoon rivals from behind. Twist: the chequered flag waves, and he keeps going for a lap of honour with a golden ball in the cockpit.",
+   "characters": "caricature of Karim Benzema; generic cartoon rivals",
+   "seconds": 2
+  },
+  {
+   "after_line": 3,
+   "story": "A cartoon phone hangs on a garage wall, and a caricature of Benzema in a racing suit sits beside it under a sign reading If they call me, I come. Gag: it rings and he leaps up. Twist: it is a Dubai estate agent.",
+   "characters": "generic cartoon phone; caricature of Karim Benzema",
+   "seconds": 2
+  },
+  {
+   "after_line": 4,
+   "story": "A cartoon go-kart labelled Giroud and a Formula One car labelled Benzema line up on a grid. Gag: the F1 car puts on tiny sunglasses. Twist: the lights turn green, both drivers hold up phones to stream it, and the finish line is an Instagram live button.",
+   "characters": "generic cartoon racers; caricatures of Karim Benzema and Olivier Giroud",
+   "seconds": 2
+  }
+ ],
+ "facts_used": [
+  "Ballon d'Or 2022: 549 points, 356 ahead of Mane (193) (bo pack praise)",
+  "2024-25 Al-Ittihad: 21 league goals in 28 games, league and King's Cup double (bo pack praise)",
+  "Al-Hilal: debut hat-trick in a 6-0 win (bo pack praise)",
+  "Left Al-Hilal after six months (bo pack recent_news 2026-08-31)",
+  "Saudi promotional deal about 23m dollars a year to 2030, cancelled if he plays outside Saudi Arabia (bo pack recent_news 2026-08-30)",
+  "March 2020 Instagram live: Giroud compared to karting, himself to Formula 1 (bo pack roast_past)",
+  "Retirement from France announced 2022; told L'Equipe when they call me, I come (bo pack roast_past, per Fox News 2025-12-12)"
+ ],
+ "comic_score": 8,
+ "notes": "after_line is 1-based index into lines. Part B: different stories from part A (no Lyon, Dubai flat, Zidane squad, or Mourinho cat line). Skipped: Valbuena case and conviction, Deschamps v Riolo, Nike story, injuries, family, Vinicius league ban and any racism topic, war and Gulf politics. The 23m deal figure is a reported figure, not a fixed salary. Punch-up pass: 'lap of honour' and Formula One callbacks are gags on the 356-point margin and his own 2020 quote. No new facts."
+}

@@ -1,0 +1,280 @@
+{
+ "video_id": "W8dyWqJE94M",
+ "topic": "Neymar 2025 Santos skills and goals compilation, music-driven fast edit",
+ "hero": "Neymar (Santos no.10)",
+ "hero_role": "protagonist of highlight compilation",
+ "media_type_overall": "real broadcast footage",
+ "hook": "Neymar in cyan goalkeeper-style/away kit smiling at crowd, then fast cuts of Santos action",
+ "subtitle_style": "No subtitles; occasional lower-third name tag \"10 NEYMAR\" with Santos badge at ~6 s",
+ "reaction_overlays": "Flash-white transition, slow-mo, zoom, speed ramps, colour-graded; no emoji",
+ "transition_summary": "Very fast: dozens of cuts, cuts at 1.5-3.9 s every 0.1-0.2 s (flash/strobe intro), then cuts every 1-3 s; beat-synced with whip, flash and slow-mo",
+ "audio_note": "Likely music-only (no transcript), beat-synced edit",
+ "reuse_segments": [
+  {
+   "t0": 0,
+   "t1": 20,
+   "what": "Fast flashy intro montage of Neymar close-ups and plays",
+   "origin_guess": "broadcast match",
+   "rights_risk": "high",
+   "how_to_reuse": "needs licensed footage; or recreate with generated imagery"
+  },
+  {
+   "t0": 20,
+   "t1": 62,
+   "what": "Neymar skills/goals clips for Santos from TV and phone feeds",
+   "origin_guess": "broadcast match",
+   "rights_risk": "high",
+   "how_to_reuse": "licensed source needed; strip logos/music"
+  }
+ ],
+ "frames": [
+  {
+   "idx": 1,
+   "t": 0,
+   "desc": "Neymar in cyan kit smiling, crowd behind, medium close-up",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 2,
+   "t": 2,
+   "desc": "Referee and Santos player no.10 back, tunnel/pitch side",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 3,
+   "t": 4,
+   "desc": "Neymar close-up in black-white striped Santos kit, Cruzeiro board",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 4,
+   "t": 6,
+   "desc": "Neymar celebrating with raised arm, name tag 10 NEYMAR; dark background",
+   "type": "video",
+   "text_on_screen": "10 NEYMAR",
+   "transition_to_next": "flash"
+  },
+  {
+   "idx": 5,
+   "t": 8,
+   "desc": "Neymar celebrating with raised arm, name tag 10 NEYMAR; dark background",
+   "type": "video",
+   "text_on_screen": "10 NEYMAR",
+   "transition_to_next": "flash"
+  },
+  {
+   "idx": 6,
+   "t": 10,
+   "desc": "Player in white Santos kit celebrating, GOL board",
+   "type": "video",
+   "text_on_screen": "GOL",
+   "transition_to_next": "flash"
+  },
+  {
+   "idx": 7,
+   "t": 12,
+   "desc": "White flash/overexposed transition frame",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 8,
+   "t": 14,
+   "desc": "Neymar dribbling toward goal in cyan kit vs red-kit defenders",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 9,
+   "t": 16,
+   "desc": "Neymar dribbling toward goal in cyan kit vs red-kit defenders",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 10,
+   "t": 18,
+   "desc": "Santos action vs purple/white teams; skill dribble with Cruzeiro do Sul boards",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 11,
+   "t": 20,
+   "desc": "Santos action vs purple/white teams; skill dribble with Cruzeiro do Sul boards",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 12,
+   "t": 22,
+   "desc": "Neymar dribbles in white kit no.10/21 on pitch, stadium views, blurred",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 13,
+   "t": 24,
+   "desc": "Neymar dribbles in white kit no.10/21 on pitch, stadium views, blurred",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 14,
+   "t": 26,
+   "desc": "Neymar dribbles in white kit no.10/21 on pitch, stadium views, blurred",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 15,
+   "t": 28,
+   "desc": "Neymar dribbles in white kit no.10/21 on pitch, stadium views, blurred",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 16,
+   "t": 30,
+   "desc": "Neymar dribbles in white kit no.10/21 on pitch, stadium views, blurred",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 17,
+   "t": 32,
+   "desc": "Neymar dribbles in white kit no.10/21 on pitch, stadium views, blurred",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 18,
+   "t": 34,
+   "desc": "Neymar dribbles in white kit no.10/21 on pitch, stadium views, blurred",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 19,
+   "t": 36,
+   "desc": "Close low-angle shots of boots and legs with ball (ankles)",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 20,
+   "t": 38,
+   "desc": "Close low-angle shots of boots and legs with ball (ankles)",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 21,
+   "t": 40,
+   "desc": "Wide stadium shots of Neymar kicking free kick, Jovem/Betano boards",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 22,
+   "t": 42,
+   "desc": "Wide stadium shots of Neymar kicking free kick, Jovem/Betano boards",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 23,
+   "t": 44,
+   "desc": "Wide stadium shots of Neymar kicking free kick, Jovem/Betano boards",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 24,
+   "t": 46,
+   "desc": "Wide stadium shots of Neymar kicking free kick, Jovem/Betano boards",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 25,
+   "t": 48,
+   "desc": "Neymar and teammate no.10 celebrating/talking; close-up shirt",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 26,
+   "t": 50,
+   "desc": "Neymar and teammate no.10 celebrating/talking; close-up shirt",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 27,
+   "t": 52,
+   "desc": "Santos vs cyan/green teams, goals and keeper saves, Sicoob/Betnacional boards",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 28,
+   "t": 54,
+   "desc": "Santos vs cyan/green teams, goals and keeper saves, Sicoob/Betnacional boards",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 29,
+   "t": 56,
+   "desc": "Santos vs cyan/green teams, goals and keeper saves, Sicoob/Betnacional boards",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 30,
+   "t": 58,
+   "desc": "Santos vs cyan/green teams, goals and keeper saves, Sicoob/Betnacional boards",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 31,
+   "t": 60,
+   "desc": "Santos vs cyan/green teams, goals and keeper saves, Sicoob/Betnacional boards",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "none"
+  }
+ ]
+}

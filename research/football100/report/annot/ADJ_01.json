@@ -1,0 +1,12 @@
+{
+ "1": {"topic_primary": "pundit_prediction", "humour_target": "club", "risk_flags": ["betting_under18_appeal", "single_source"]},
+ "2": {"hook_basis": "transfer_fee_or_bid", "scope": "mixed_career", "story_structure": "chronological_recap", "risk_flags": ["over_length", "single_source", "unverified_claim"]},
+ "3": {"hook_type": "stat_shock", "hook_type_alt": "contrast_twist", "story_structure": "roast_and_praise", "twist_position": "none", "payoff_type": "callback_to_hook", "humour_type": "sarcasm", "comment_bait": "none", "risk_flags": ["betting_under18_appeal", "unverified_claim"]},
+ "4": {"uk_relevance": "medium", "twist_position": "none", "risk_flags": ["betting_under18_appeal", "negative_real_person", "unverified_claim"]},
+ "5": {"twist_position": "early", "humour_type": "callback", "risk_flags": ["over_length", "unverified_claim"]},
+ "6": {"hook_basis": "stats_oddity", "scope": "mixed_career", "subject_type": "player", "dominant_emotion": "amusement", "risk_flags": ["betting_under18_appeal"]},
+ "7": {"twist_position": "none", "humour_type": "roast", "hook_type_alt": "roast_jab", "risk_flags": ["betting_under18_appeal", "negative_real_person"]},
+ "8": {"scope": "mixed_career", "hook_type_alt": "roast_jab", "risk_flags": ["over_length", "unverified_claim"]},
+ "9": {"twist_position": "middle", "hook_type_alt": "stat_shock", "risk_flags": ["betting_under18_appeal", "negative_real_person", "unverified_claim"]},
+ "10": {"twist_position": "late", "dominant_emotion": "amusement", "risk_flags": ["betting_under18_appeal", "unverified_claim"]}
+}

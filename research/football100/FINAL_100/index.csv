@@ -1,0 +1,101 @@
+no,voice,comic,subject,title
+001,kokoro,True,Andriy Shevchenko,Shevchenko: exactly the division it deserves
+002,EL_A,False,Andriy Shevchenko,The VHS tape that bought Shevchenko
+003,kokoro,True,Cristiano Ronaldo,985 goals and still getting rested
+004,kokoro,True,Cristiano Ronaldo,Ronaldo's red card and the own goal debate
+005,EL_B,False,Fabio Cannavaro,Cannavaro's dream and the two-goal lead
+006,kokoro,True,Fabio Cannavaro,Cannavaro: the CV and the 2006 wall
+007,kokoro,True,Kaka (Ricardo Izecson dos Santos Leite),Kaka cried at his Hall of Fame night
+008,EL_C,False,Kaka (Ricardo Izecson dos Santos Leite),Kaka: Ballon d'Or, then Real Madrid
+009,kokoro,True,Karim Benzema,Benzema: six months, one Dubai flat
+010,kokoro,True,Karim Benzema,Benzema: landslide, then a kart joke
+011,EL_A,False,Lionel Messi,Messi offered an Argentina staff job
+012,kokoro,True,Lionel Messi,Messi's penalty slump and Miami's HR problem
+013,kokoro,True,Luis Figo,Figo, FIFA president? The list says no
+014,EL_B,True,Luis Figo,Figo's 2-2 Clasico prediction
+015,kokoro,True,Luka Modric,Modric, 41, still refusing to retire
+016,kokoro,True,Luka Modric,Croatia's 7-0 nightmare and Modric's suit
+017,EL_C,False,Michael Owen,Owen's Man Utd top-four prediction
+018,kokoro,True,Michael Owen,Owen's pundit tips, horses and a yard off
+019,kokoro,True,Ousmane Dembele,Dembele: from Ballon d'Or to seventh
+020,EL_A,True,Ousmane Dembele,Dembele's Dortmund skip and the 105m fee
+021,kokoro,True,Pavel Nedvěd (Pavel Nedved),Nedved's national team: zero points, full confidence
+022,kokoro,True,Pavel Nedvěd (Pavel Nedved),Ballon d'Or, a golden goal and the little bear
+023,EL_B,True,Rodri,Rodri: the hesitation that made Madrid walk away
+024,kokoro,True,Rodri,Rodri: no social media, one Ballon d'Or
+025,kokoro,True,Ronaldinho,Ronaldinho: 11 years off, 45 minutes on
+026,EL_C,False,Ronaldinho,Ronaldinho: free kicks, red cards and 2005
+027,kokoro,True,Ronaldo Nazario (R9),R9: promoted after losing, and a fake goal
+028,kokoro,True,Ronaldo Nazario (R9),R9: the haircut, the Golden Boot, the business
+029,EL_A,False,Harry Kane,Kane: a Ballon d'Or, a crossbar and a museum
+030,kokoro,True,Harry Kane,Kane: three lost finals and a knighthood
+031,kokoro,False,West Ham sack Nuno after 13 months and bring back Scott Parker,West Ham's quick fix
+032,EL_B,False,England beat Spain 3-2 in Madrid, ending Spain's 43-match run without a competitive defeat,England end Spain's 43-game run
+033,kokoro,False,Man Utd come from two goals down to beat Roma 3-2 at Old Trafford,Two down, Cunha up
+034,kokoro,False,Real Madrid expected to trigger EUR 80m clause to bring Nico Paz back from Como,Sold cheap, bought back dear
+035,EL_C,True,Drone films 12 minutes of Pochettino's first Man United training session,The drone that saw too much
+036,kokoro,False,Monza striker Gustavo Varela leads Serie A scoring and has Europe calling,Monza's man, Europe's wish list
+037,kokoro,False,Sunderland beat Chelsea 1-0 for first Premier League win since August, days after Europa League loss,Sunderland's first win since August
+038,EL_A,False,Napoli reportedly want 7 million euros for De Bruyne, PSV say no,Napoli want seven million
+039,kokoro,False,Newcastle booed at home as Everton win 1-0 and Jaissle takes the blame,No shots, lots of boos
+040,kokoro,False,Yamal and a Raphinha double sink Aston Villa 3-0 at Camp Nou,Yamal and Raphinha, Villa undone
+041,EL_B,False,Crystal Palace's Adam Wharton sent off for second yellow in 1-1 Europa League draw with Hoffenheim,Ten men, one point, one mystery
+042,kokoro,False,Tom Brady leaves Birmingham City ownership role as club tops Championship,Brady leaves, Birmingham go top
+043,kokoro,True,Raphinha is sent off late as Brazil lose 3-2 to Japan,Captain and coach see red, Brazil lose
+044,EL_C,True,Thomas Frank named Palace manager on a three-year deal, with Spurs coffee-cup saga in tow,Frank's new job, same coffee cup
+045,kokoro,False,Deco says Barcelona would welcome Liverpool paying 55 million euros for Araujo,Barca want 55m for the man they benched
+046,kokoro,True,Crystal Palace sack Pierre Sage after five months; club bottom of the Premier League,Five months, one revolving back door
+047,EL_A,False,Vinicius Junior scores a 21-minute hat-trick as Brazil beat Singapore 7-0,Three goals in 21 minutes, still not happy
+048,kokoro,False,Joey Saputo puts CF Montreal up for sale after 34 years of family ownership,Montreal for sale, no price on the tag
+049,kokoro,True,Southampton extend Tonda Eckert's contract to 2029 despite the Spygate scandal,A contract to 2029, football's pension plan
+050,EL_B,False,Bayern beat Atletico 2-0 at the Metropolitano as 18-year-old Lennart Karl breaks a record,A teenager joins Raul, Mbappe and Yamal
+051,kokoro,False,Beckham, Rapinoe, Altidore and Ertz voted into the National Soccer Hall of Fame,Beckham and Rapinoe enter the Hall
+052,kokoro,False,Klopp's Germany smash Netherlands 5-0 to top Nations League group, Wirtz scores twice,Klopp's Germany smash Netherlands
+053,EL_C,False,Nashville SC set MLS record with 77 points and win the Supporters' Shield,Nashville's record 77-point season
+054,kokoro,False,Barcelona and Real Madrid chase Brighton's Luka Vuskovic, 46 million pounds in the summer,Vuskovic: Barca and Real want him
+055,kokoro,False,Barcelona's Alejandro Balde: wanted by United and Liverpool, 40 million euros mentioned, Deco says no sale,Balde: 40 million and a bench seat
+056,EL_A,True,Napoli coach Allegri sent off in 3-3 draw with Roma and banned for two matches,Allegri's ban and the cutout ref
+057,kokoro,False,Hakimi scores first career hat trick with two assists as Luis Enrique becomes PSG's winningest coach,Hakimi's hat-trick and five contributions
+058,kokoro,False,Mbappe double beats Barcelona in El Clasico as Mourinho celebrates on his knees,Mbappe, seven offsides, one Clasico
+059,EL_B,True,Fleetwood Town knock Arsenal out of the Carabao Cup on penalties,Fleetwood's penalty shootout upset
+060,kokoro,False,Milan lose 0-2 at home to Ferencvaros; Amorim says his team was not mentally ready,Milan's two-nil night at San Siro
+061,kokoro,True,Hurzeler says he is fully committed to Brighton after Manchester United rumours,United considered him. Hurzeler is staying.
+062,EL_C,False,Vinicius admits poor preparation after the World Cup; Mourinho says he shouldn't have said it but values honesty,Vinicius blames the World Cup. Mourinho disagrees.
+063,kokoro,False,Como hit nine at Lens in a record-equalling Champions League night in their first European season,Como hit nine at Lens. Fabregas says calm down.
+064,kokoro,False,Haaland's stoppage-time VAR-awarded penalty sends Norway past Denmark into Nations League quarter-finals,Haaland's late penalty sends Norway through
+065,EL_A,False,Estevao struggles for minutes at Chelsea under Xabi Alonso,Estevao: ten league games, one start
+066,kokoro,False,Fulham 1-1 Newcastle: Murphy's 80th-minute screamer cancelled out three minutes later, pressure on Jaissle grows,Fulham 1-1 Newcastle: screamer, instant reply
+067,kokoro,True,ESPN ranks Lamine Yamal the best player in the world, Raphinha fourth, Pedri ninth,ESPN says Yamal is best. Kane is fifth.
+068,EL_B,False,Bruce Arena says US Soccer 'don't have a clue' how to replace Pochettino,Arena: US Soccer has no plan for Pochettino
+069,kokoro,True,Arteta bans Arsenal players from picking themselves in FPL after team news leaked via a squad member's team,Arteta bans self-picks in Fantasy Premier League
+070,kokoro,True,Thomas Muller says MLS has no relegation fear and plays 'careless' style,Muller says no relegation makes MLS careless
+071,EL_C,False,Juventus beat 10-man Napoli 2-0 with Alajbegovic and Boga strikes,Juventus beat ten-man Napoli 2-0
+072,kokoro,True,Billy Sharp, 40, comes out of retirement for Rushden & Diamonds in the FA Cup,Billy Sharp's three-week retirement
+073,kokoro,False,Sporting agree about 5 million euro buyout with Lyon for Paulo Fonseca after sacking Borges,Sporting's coach search, Fonseca price tag
+074,EL_A,True,West Ham storm back from 3-0 down at Cardiff in Parker's first game,Parker's first game: 3-3 at Cardiff
+075,kokoro,False,Haaland tells Man City to 'step up' even after his late winner at Leipzig,Haaland's winner, then the step-up
+076,kokoro,False,Norwich thump Bristol City 5-0 and home fans turn on Michael Skubala,Norwich five-nil at Ashton Gate
+077,EL_B,False,Wrexham owners Reynolds and Mac watch 1-1 draw with Wolves at the Racecourse,Wrexham's owners and a late equaliser
+078,kokoro,False,Brighton beat ten-man Brentford to climb above Man City into second,Brighton climb as Brentford lose Thiago
+079,kokoro,True,Seventh-tier Wimborne Town knock League Two Crawley out of the FA Cup,Seventh-tier Wimborne knock out Crawley
+080,EL_C,False,Inter beat Como 2-0 to trail Lazio by one point,Inter beat Como, Lazio one point ahead
+081,kokoro,False,Pau Cubarsí wins the 2026 Golden Boy,The defender who won the Golden Boy
+082,kokoro,False,Barcelona reportedly enquire about Bayern's Jonathan Tah to partner Cubarsí,Barça want Bayern's centre-back
+083,EL_A,False,Bayern reportedly still chasing Liverpool teen Rio Ngumoha,Bayern's seventy million miss
+084,kokoro,True,Jack Grealish dropped by Everton for a breach of discipline, then apologises on Instagram,Grealish: dropped, then sorry
+085,kokoro,False,Trent Alexander-Arnold: from Ballon d'Or ambitions to the Real Madrid bench,Trent: from Ballon d'Or to the bench
+086,EL_B,False,Real Madrid reportedly still tracking Bayern's Michael Olise,Real Madrid still tracking Olise
+087,kokoro,True,Klopp says FIFA is worse than in Blatter's day and hopes Infantino is replaced,Klopp: FIFA worse than Blatter
+088,kokoro,True,Neymar finishes 10th in a poker tournament and wins 24,000 dollars,Neymar's poker run
+089,EL_C,True,Iraola goes viral after visiting a grassroots kids' match in Maghull,Iraola's grassroots moment
+090,kokoro,True,Nigeria could miss AFCON 2027 as striker woes continue,Nigeria's striker problem
+091,kokoro,True,Brazilian winger Sergio Barboza becomes first outfield player to play in all six confederations,Six confederations, one full passport
+092,EL_A,False,Six clubs chase Feyenoord winger Anis Hadj Moussa as price passes 35 million pounds,Hadj Moussa: 35m and counting
+093,kokoro,True,Bruno Guimaraes faces his old club Newcastle as Arteta still wants more,Bruno's return, Arteta wants more
+094,kokoro,True,Liverpool have won once at Anfield in the league and failed to register a shot on target against Arsenal,Zero shots on target at Anfield
+095,EL_B,False,Bruno Guimaraes returns to St James' Park with Arsenal, who paid a reported £75m,Guimaraes returns to St James' Park
+096,kokoro,True,Adventurer Karl Bushby ends a 28-year walk from Chile in Hull wearing the club shirt,Twenty-eight years, no lifts
+097,kokoro,True,Fenerbahce come back twice to beat Liverpool 3-2 in the Champions League,Liverpool led twice, lost in Istanbul
+098,EL_C,False,Southampton's long road back from spygate: favourites for promotion after losing a playoff final place,Southampton's spygate, four points down
+099,kokoro,True,Hearts lose 1-3 at Thun, slipping towards the foot of the Conference League table,Hearts at Thun: one point in three
+100,kokoro,True,Manchester City lose three league games in a row, losing 3-1 at Nottingham Forest,Seven wins, then three defeats

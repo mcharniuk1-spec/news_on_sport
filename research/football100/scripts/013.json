@@ -1,0 +1,88 @@
+{
+ "no": 13,
+ "subject": "Luis Figo",
+ "title": "Figo, FIFA president? The list says no",
+ "voice": "kokoro",
+ "comic": true,
+ "style": "simpsons",
+ "lines": [
+  {
+   "vo": "Luis Figo, FIFA president? The list says no.",
+   "card": "Not on FIFA's list",
+   "sfx": null,
+   "footage": "FIFA logo card, then Figo interview clip (check for watermarks)"
+  },
+  {
+   "vo": "UEFA reportedly tried to recruit him against Infantino this month.",
+   "card": "UEFA's Plan C",
+   "sfx": null,
+   "footage": "Figo studio interview, neutral shot"
+  },
+  {
+   "vo": "Wenger said no. Csanyi was considered. Then Figo's name came up. That is not a plan. That is a waiting list.",
+   "card": "Wenger said no",
+   "sfx": "small cartoon ding",
+   "footage": "Arsene Wenger press clip (no comment on him)"
+  },
+  {
+   "vo": "FIFA's final list has three names: Infantino, Diallo and Tashima. Figo is not one of them.",
+   "card": "Three names, no Figo",
+   "sfx": null,
+   "footage": "FIFA presidential candidates graphic, Infantino footage"
+  },
+  {
+   "vo": "He has the CV: a 2000 Ballon d'Or and 127 caps for Portugal. Just no candidacy.",
+   "card": "The CV is fine",
+   "sfx": null,
+   "footage": "Figo Ballon d'Or 2000 acceptance, Portugal caps montage"
+  },
+  {
+   "vo": "Now he is in clothing. He calls it an industrial project, not a hobby. At least shirts need no ballot.",
+   "card": "Not a hobby",
+   "sfx": null,
+   "footage": "Clothing brand product shot if permitted, otherwise Figo studio clip"
+  },
+  {
+   "vo": "Think you can call the next one? Free tips, results and predictions at aboutfootball dot UK.",
+   "card": "aboutfootball dot UK",
+   "sfx": null,
+   "footage": "End card, no footage"
+  }
+ ],
+ "chars": 581,
+ "est_seconds": 32,
+ "footage_terms": [
+  "FIFA presidential election 2027 candidates",
+  "Luis Figo Ballon d'Or 2000 highlights",
+  "Luis Figo Portugal 2004 highlights",
+  "Luis Figo Barcelona Real Madrid 2000 transfer"
+ ],
+ "inserts": [
+  {
+   "after_line": 2,
+   "story": "A cartoon runway shows a caricature Figo unveiling a shirt that reads not a hobby. The crowd applauds, then asks, is it a campaign? He says, it is a shirt, and shows them the pocket, shaped exactly like a ballot slot and empty.",
+   "characters": "caricature Figo; generic cartoon models and crowd, no real people",
+   "seconds": 2
+  },
+  {
+   "after_line": 3,
+   "story": "A cartoon UEFA boardroom has three chairs labelled Plan A, Plan B and Plan C. Plan A and Plan B walk out. A caricature Figo sits on a wobbly folding chair marked Plan C, and it collapses. He says, I only came for the chair.",
+   "characters": "caricature Figo; generic cartoon UEFA officials with no real names; folding chair",
+   "seconds": 2
+  },
+  {
+   "after_line": 4,
+   "story": "A cartoon ballot box has three slots, each labelled with a name. A tiny caricature Figo tries to post a note into a fourth slot that is only a drawing. The box coughs the note back out, and a sign flips to, nominations closed yesterday.",
+   "characters": "caricature Figo; generic cartoon ballot box with a face",
+   "seconds": 2
+  }
+ ],
+ "facts_used": [
+  "FIFA confirmed three presidential candidates for 18 Mar 2027 on 19 Nov 2026: Infantino, Diallo, Tashima; Figo did not enter (https://ojogo.pt/internacional/artigo/figo-fica-de-fora-fifa-anuncia-os-tres-candidatos-a-presidencia/18149836)",
+  "UEFA officials reportedly wanted Figo to run; Wenger declined and Csanyi was considered (https://footballtoday.com/2026/11/16/uefa-want-luis-figo-as-fifa-president-plan-new-global-body)",
+  "Figo: clothing brand is 'an industrial project, not a hobby' (El Pais via Record) (https://www.record.pt/internacional/detalhe/se-deus-nao-agrada-a-toda-a-gente-imaginem-luis-figo-antigo-internacional-aventura-se-na-moda-sem-receios)",
+  "2000 Ballon d'Or; 127 caps for Portugal (https://en.wikipedia.org/wiki/Lu%C3%ADs_Figo)"
+ ],
+ "comic_score": 8,
+ "notes": "Only the FIFA story, the transfer and the clothing line are used. No politics and no gambling joke (Figo is a Betfair ambassador, so no gambling gags). The 'UEFA Plan C' framing is the sources' own phrasing, and no claim is made that Figo wanted to run. The brand launch year is unknown and not stated. after_line counts from 1. Punch-up pass: 'waiting list' and 'no ballot' are the only jokes about the race; they roast the process, not any named person. No gambling gag used."
+}

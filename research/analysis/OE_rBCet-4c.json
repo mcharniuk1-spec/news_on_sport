@@ -1,0 +1,96 @@
+{
+ "video_id": "OE_rBCet-4c",
+ "topic": "Phone footage of Lamine Yamal arriving with his family on the Ballon d'Or red carpet; family members labelled with arrows",
+ "hero": "Lamine Yamal (labelled) with mom, dad, grandma, mini Yamal",
+ "hero_role": "protagonist and family",
+ "media_type_overall": "fan phone/stadium footage",
+ "hook": "Red-carpet shot with label 'YAMAL' and yellow arrow, emoji row of family members at top",
+ "subtitle_style": "Small white all-caps labels (YAMAL, DAD, MOM, GRANDMA, MINI YAMAL) with yellow arrow pointers; top row of face emojis with a yellow triangle marker moving to current person",
+ "reaction_overlays": "Emoji strip at top, yellow arrow labels, FFC watermark bottom-right",
+ "transition_summary": "Continuous phone shots with brief cuts and a zoom/blur transition in the middle; no detected scene cuts",
+ "audio_note": "Original red-carpet ambience, possibly music; transcript has minimal speech",
+ "reuse_segments": [
+  {
+   "t0": 0,
+   "t1": 17,
+   "what": "Phone footage on Ballon d'Or red carpet",
+   "origin_guess": "fan phone",
+   "rights_risk": "medium",
+   "how_to_reuse": "needs rights; reuse structure with recreated visuals"
+  }
+ ],
+ "frames": [
+  {
+   "idx": 1,
+   "t": 0,
+   "desc": "Yamal in black suit beside woman in black dress, label YAMAL",
+   "type": "video",
+   "text_on_screen": "YAMAL",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 2,
+   "t": 2,
+   "desc": "Yamal and woman posing, yellow arrow on Yamal",
+   "type": "video",
+   "text_on_screen": "YAMAL",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 3,
+   "t": 4,
+   "desc": "Man in dark suit beside Yamal, label DAD",
+   "type": "video",
+   "text_on_screen": "DAD",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 4,
+   "t": 6,
+   "desc": "Woman in blue gown beside Yamal, label MOM",
+   "type": "video",
+   "text_on_screen": "MOM",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 5,
+   "t": 8,
+   "desc": "Man in black suit holding hand of woman in white abaya, label GRANDMA",
+   "type": "video",
+   "text_on_screen": "GRANDMA",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 6,
+   "t": 10,
+   "desc": "Small boy in grey suit and bow tie, label MINI YAMAL",
+   "type": "video",
+   "text_on_screen": "MINI YAMAL",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 7,
+   "t": 12,
+   "desc": "Mom, Yamal, man and small boy posing together, label MOM",
+   "type": "video",
+   "text_on_screen": "MOM",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 8,
+   "t": 14,
+   "desc": "Blurry zoom transition on red carpet",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 9,
+   "t": 16,
+   "desc": "Two men in black suits and woman in white abaya, label GRANDMA",
+   "type": "video",
+   "text_on_screen": "GRANDMA",
+   "transition_to_next": "none"
+  }
+ ]
+}

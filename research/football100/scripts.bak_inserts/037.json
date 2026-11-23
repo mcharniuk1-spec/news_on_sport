@@ -1,0 +1,70 @@
+{
+  "no": 37,
+  "subject": "Sunderland beat Chelsea 1-0 for first Premier League win since August, days after Europa League loss",
+  "title": "Sunderland's first win since August",
+  "voice": "kokoro",
+  "comic": false,
+  "style": null,
+  "lines": [
+    {
+      "vo": "Sunderland's first Premier League win since August. Against Chelsea. One-nil.",
+      "card": "1-0, since August",
+      "sfx": null,
+      "footage": "Sunderland Chelsea 1-0 highlights"
+    },
+    {
+      "vo": "Brian Brobbey was brought down. Enzo Le Fee scored the penalty in the thirty-sixth minute. Job done, doors locked.",
+      "card": "Le Fee penalty",
+      "sfx": null,
+      "footage": "Le Fee penalty Sunderland Chelsea"
+    },
+    {
+      "vo": "Sunderland came off the bottom. Chelsea fell out of the top four, with a fourth league defeat. A perfect swap.",
+      "card": "Table swap",
+      "sfx": null,
+      "footage": "Sunderland Chelsea highlights"
+    },
+    {
+      "vo": "Xabi Alonso denied Chelsea were bullied. He admitted they could have defended better. Politely put.",
+      "card": "Not bullied",
+      "sfx": null,
+      "footage": "Alonso post match Sunderland bullied"
+    },
+    {
+      "vo": "Days before, Sunderland lost two-nil at home to Dinamo Zagreb. Beaten by Zagreb, then Chelsea beaten by Sunderland. Football does not do logic.",
+      "card": "Zagreb, then Chelsea",
+      "sfx": null,
+      "footage": "Sunderland Dinamo Zagreb highlights"
+    },
+    {
+      "vo": "Regis Le Bris was under pressure, with one win from nine. Thank you, Chelsea.",
+      "card": "One from nine",
+      "sfx": null,
+      "footage": "Le Bris press conference Sunderland Chelsea"
+    },
+    {
+      "vo": "Your mates will never guess this. Match news and betting tips at aboutfootball dot UK.",
+      "card": "aboutfootball.UK",
+      "sfx": null,
+      "footage": "end card"
+    }
+  ],
+  "chars": 706,
+  "est_seconds": 39,
+  "footage_terms": [
+    "Sunderland Chelsea 1-0 highlights",
+    "Le Fee penalty Sunderland Chelsea",
+    "Le Bris press conference Sunderland Chelsea",
+    "Xabi Alonso press conference Sunderland Chelsea"
+  ],
+  "inserts": [],
+  "facts_used": [
+    "Enzo Le Fee scored from a 36th-minute penalty after Brian Brobbey was brought down following a tussle with Levi Colwill (ev0041)",
+    "First Premier League win since August; Sunderland came off the bottom; Chelsea's fourth league defeat dropped them out of the top four (ev0041)",
+    "Alonso denied Chelsea were bullied and said they could have defended better (ev0041)",
+    "Sunderland lost 0-2 at home to Dinamo Zagreb in the Europa League on 5 November (ev0041 background)",
+    "Le Bris under pressure after one win from nine league games (ev0041 background)"
+  ],
+  "comic_score": 6,
+  "notes": "Non-comic, no inserts. Facts unchanged. 'Days before' follows the subject line (Europa League loss on 5 November). The 'one win from nine' number is kept as in the source background; no new arithmetic added. Injuries (Xhaka, Joao Pedro) are not used. Source: ev0041."
+}

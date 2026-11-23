@@ -1,0 +1,690 @@
+[
+ {
+  "hook_type": "roast_jab",
+  "hook_basis": "contract_or_job",
+  "topic_primary": "manager_news",
+  "scope": "international",
+  "subject_type": "player",
+  "timeliness": "breaking_week",
+  "uk_relevance": "low",
+  "story_structure": "roast_and_praise",
+  "twist_position": "late",
+  "payoff_type": "callback_to_hook",
+  "humour_type": "understatement",
+  "humour_target": "situation",
+  "dominant_emotion": "amusement",
+  "comment_bait": "none",
+  "cta_opener_type": "question",
+  "hook_type_alt": "news_flash",
+  "hook_strength": 4.0,
+  "story_clarity": 4.0,
+  "humour_quality": 3.5,
+  "shareability": 3.0,
+  "comment_potential": 2.5,
+  "uk_fit": 2.0,
+  "novelty": 3.0,
+  "poster_title_sells_hook": 3.0,
+  "poster_joke_quality": 2.0,
+  "humour_intensity": 2.0,
+  "virality_pred": 5.0,
+  "risk_flags": [
+   "over_length",
+   "single_source"
+  ],
+  "hook_type_why": "Plain job-offer news, then the jab: \"Presumably with a clipboard.\"",
+  "hook_basis_detail": "Argentina offered Messi a staff job after Walter Samuel's exit; Scaloni says Messi already said no.",
+  "story_summary": "Argentina offer retired Messi a staff role; Scaloni says he declined; the video pivots to his back-to-back MLS Golden Boot.",
+  "poster_issue": "Bubble is a flat fact (retired in August), not a joke; the clipboard gag and Golden Boot payoff are missing.",
+  "poster_change": "Bubble: \"PRESUMABLY WITH A CLIPBOARD.\" Keep headline.",
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "shorten",
+    "action": "Cut 4+ characters: script is 603 chars against a 600 limit."
+   },
+   {
+    "priority": "P1",
+    "category": "poster_title",
+    "action": "Put the clipboard jab in the bubble; it is the best joke."
+   },
+   {
+    "priority": "P2",
+    "category": "add_comment_bait",
+    "action": "Add a line asking if Messi should take the coaching job."
+   },
+   {
+    "priority": "P3",
+    "category": "vary_cta",
+    "action": "Swap the CTA opener for one not used elsewhere."
+   },
+   {
+    "priority": "P3",
+    "category": "add_second_source",
+    "action": "Confirm Scaloni's 'already said no' with a second outlet."
+   }
+  ],
+  "no": 11,
+  "annotator_agreement": 0.86
+ },
+ {
+  "hook_type": "stat_shock",
+  "hook_basis": "stats_oddity",
+  "topic_primary": "player_form",
+  "scope": "other_leagues",
+  "subject_type": "player",
+  "timeliness": "recent_month",
+  "uk_relevance": "low",
+  "story_structure": "roast_and_praise",
+  "twist_position": "late",
+  "payoff_type": "punchline",
+  "humour_type": "callback",
+  "humour_target": "player",
+  "dominant_emotion": "amusement",
+  "comment_bait": "hot_take",
+  "cta_opener_type": "mates_social",
+  "hook_type_alt": "none",
+  "hook_strength": 3.5,
+  "story_clarity": 2.5,
+  "humour_quality": 4.0,
+  "shareability": 4.0,
+  "comment_potential": 4.0,
+  "uk_fit": 2.0,
+  "novelty": 3.5,
+  "poster_title_sells_hook": 3.5,
+  "poster_joke_quality": 2.5,
+  "humour_intensity": 2.5,
+  "virality_pred": 6.5,
+  "risk_flags": [
+   "betting_under18_appeal",
+   "off_topic_footage_risk",
+   "unverified_claim"
+  ],
+  "hook_type_why": "Opens on a count: \"missed three penalties in a row.\"",
+  "hook_basis_detail": "Three straight missed penalties (two at the World Cup, one at Nashville), the first such run since 2014.",
+  "story_summary": "Messi's penalty slump, Miami's three coaches, fifth in the Ballon d'Or and a 3-0 lead blown to 3-3, all pinned on an HR gag.",
+  "poster_issue": "Bubble repeats a stat and misses the HR-department gag that carries the video.",
+  "poster_change": "Bubble: \"HE IS THE CLUB'S HR DEPARTMENT.\" Keep headline.",
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "verify_fact",
+    "action": "Confirm the Nashville penalty miss and its footage before airing."
+   },
+   {
+    "priority": "P1",
+    "category": "footage_match",
+    "action": "Verify the Nashville penalty clip before using it as insert footage."
+   },
+   {
+    "priority": "P2",
+    "category": "merge_or_drop",
+    "action": "Trim the Ballon d'Or fifth beat; it overlaps video 19."
+   },
+   {
+    "priority": "P2",
+    "category": "vary_cta",
+    "action": "This CTA opener runs in 32 videos; replace it."
+   },
+   {
+    "priority": "P2",
+    "category": "shorten",
+    "action": "Drop the Messi Cup line; five side stories blur the penalty hook."
+   },
+   {
+    "priority": "P2",
+    "category": "poster_title",
+    "action": "Use the HR-department joke on the cover bubble."
+   }
+  ],
+  "no": 12,
+  "annotator_agreement": 0.82
+ },
+ {
+  "hook_type": "question",
+  "hook_basis": "contract_or_job",
+  "topic_primary": "legacy_retrospective",
+  "scope": "international",
+  "subject_type": "player",
+  "timeliness": "breaking_week",
+  "uk_relevance": "low",
+  "story_structure": "rumour_explainer",
+  "twist_position": "middle",
+  "payoff_type": "punchline",
+  "humour_type": "wordplay",
+  "humour_target": "situation",
+  "dominant_emotion": "curiosity",
+  "comment_bait": "none",
+  "cta_opener_type": "question",
+  "hook_type_alt": "contrast_twist",
+  "hook_strength": 3.0,
+  "story_clarity": 3.5,
+  "humour_quality": 3.0,
+  "shareability": 2.0,
+  "comment_potential": 2.0,
+  "uk_fit": 1.5,
+  "novelty": 3.5,
+  "poster_title_sells_hook": 3.0,
+  "poster_joke_quality": 2.0,
+  "humour_intensity": 2.0,
+  "virality_pred": 3.0,
+  "risk_flags": [
+   "single_source",
+   "unverified_claim"
+  ],
+  "hook_type_why": "\"Figo, FIFA president?\" answered at once by \"The list says no.\"",
+  "hook_basis_detail": "FIFA's final list of three candidates (Infantino, Diallo, Tashima) excludes Figo, despite a reported UEFA approach.",
+  "story_summary": "UEFA reportedly sought Figo against Infantino; Wenger declined; FIFA's list omits him; he is now in clothing.",
+  "poster_issue": "Bubble is a long reported fact, not a joke; the strongest line (\"a waiting list\") is not on the cover.",
+  "poster_change": "Bubble: \"THAT IS NOT A PLAN. THAT IS A WAITING LIST.\"",
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "verify_fact",
+    "action": "Confirm the UEFA approach and Wenger refusal with a second primary report."
+   },
+   {
+    "priority": "P1",
+    "category": "add_second_source",
+    "action": "UEFA recruitment claim rests on one outlet; add a second source."
+   },
+   {
+    "priority": "P2",
+    "category": "add_comment_bait",
+    "action": "Ask whether a former player should run FIFA."
+   },
+   {
+    "priority": "P2",
+    "category": "poster_title",
+    "action": "Shorten bubble to the waiting-list joke."
+   },
+   {
+    "priority": "P3",
+    "category": "vary_cta",
+    "action": "This CTA opener runs in 20 videos; rotate it."
+   }
+  ],
+  "no": 13,
+  "annotator_agreement": 0.89
+ },
+ {
+  "hook_type": "contrast_twist",
+  "hook_basis": "prediction_or_pundit",
+  "topic_primary": "pundit_prediction",
+  "scope": "la_liga",
+  "subject_type": "player",
+  "timeliness": "recent_month",
+  "uk_relevance": "medium",
+  "story_structure": "roast_and_praise",
+  "twist_position": "middle",
+  "payoff_type": "punchline",
+  "humour_type": "sarcasm",
+  "humour_target": "player",
+  "dominant_emotion": "amusement",
+  "comment_bait": "fan_rivalry",
+  "cta_opener_type": "question",
+  "hook_type_alt": "roast_jab",
+  "hook_strength": 4.0,
+  "story_clarity": 5.0,
+  "humour_quality": 3.5,
+  "shareability": 3.0,
+  "comment_potential": 4.0,
+  "uk_fit": 3.0,
+  "novelty": 3.0,
+  "poster_title_sells_hook": 3.0,
+  "poster_joke_quality": 2.5,
+  "humour_intensity": 2.0,
+  "virality_pred": 5.0,
+  "risk_flags": [
+   "betting_under18_appeal",
+   "single_source"
+  ],
+  "hook_type_why": "\"Figo called a two-two Clasico. Reality disagreed.\" Prediction against result, with a jab.",
+  "hook_basis_detail": "Figo predicted 2-2 with Raphinha, Yamal, Bellingham, Mbappe scoring; Madrid won 2-1, Mbappe twice.",
+  "story_summary": "Figo's four-scorer Clasico prediction half-failed; the video teases his forecasts, his old playing claim and his Mourinho-to-Barca remark.",
+  "poster_issue": "Bubble is a list of names, no joke; the payoff (two of four scored) is hidden.",
+  "poster_change": "Bubble: \"FOUR SCORERS NAMED. TWO SCORED.\"",
+  "changes": [
+   {
+    "priority": "P2",
+    "category": "add_comment_bait",
+    "action": "End on a question: who would you back for the next Clasico?"
+   },
+   {
+    "priority": "P2",
+    "category": "improve_humour",
+    "action": "Sharpen the Mourinho line; \"Bold, Luis\" is a weak closer."
+   },
+   {
+    "priority": "P2",
+    "category": "poster_title",
+    "action": "Put the 2-of-4 reveal in the bubble."
+   },
+   {
+    "priority": "P2",
+    "category": "vary_cta",
+    "action": "Change the CTA opener repeated in 25 videos."
+   },
+   {
+    "priority": "P3",
+    "category": "add_second_source",
+    "action": "Confirm Figo's prediction quote beyond the one Spanish outlet."
+   }
+  ],
+  "no": 14,
+  "annotator_agreement": 0.75
+ },
+ {
+  "hook_type": "news_flash",
+  "hook_basis": "record_or_milestone",
+  "topic_primary": "record_milestone",
+  "scope": "mixed_career",
+  "subject_type": "player",
+  "timeliness": "breaking_week",
+  "uk_relevance": "low",
+  "story_structure": "stat_stack",
+  "twist_position": "none",
+  "payoff_type": "punchline",
+  "humour_type": "deadpan_stat",
+  "humour_target": "player",
+  "dominant_emotion": "awe",
+  "comment_bait": "none",
+  "cta_opener_type": "mates_social",
+  "hook_type_alt": "none",
+  "hook_strength": 2.0,
+  "story_clarity": 3.5,
+  "humour_quality": 3.0,
+  "shareability": 3.0,
+  "comment_potential": 2.0,
+  "uk_fit": 1.5,
+  "novelty": 3.0,
+  "poster_title_sells_hook": 3.0,
+  "poster_joke_quality": 2.0,
+  "humour_intensity": 1.5,
+  "virality_pred": 3.5,
+  "risk_flags": [
+   "betting_under18_appeal",
+   "overlap_other_video",
+   "single_source",
+   "unverified_claim"
+  ],
+  "hook_type_why": "Flat statement: \"Modric is forty-one and has declined retirement again.\"",
+  "hook_basis_detail": "208th Croatia cap, level with Messi; only Ronaldo (234) has more; 19 of 21 games since August.",
+  "story_summary": "Modric, 41, wins a 208th cap, ends Croatia's losing run, hits 50 Milan games and heads for a 227th opponent.",
+  "poster_issue": "Bubble is a plain stat; the \"check your mirrors\" tease of Ronaldo is the better joke.",
+  "poster_change": "Bubble: \"CRISTIANO, CHECK YOUR MIRRORS.\"",
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "verify_fact",
+    "action": "Opponent count differs by outlet; keep \"says Gazzetta\" on air or drop it."
+   },
+   {
+    "priority": "P1",
+    "category": "merge_or_drop",
+    "action": "Overlaps video 16 (Croatia run, Milan 90 minutes); differentiate or merge."
+   },
+   {
+    "priority": "P2",
+    "category": "hook_rewrite",
+    "action": "Lead with 208 caps level with Messi, not a generic retirement line."
+   },
+   {
+    "priority": "P2",
+    "category": "vary_cta",
+    "action": "This CTA opener runs in 32 videos; replace it."
+   },
+   {
+    "priority": "P2",
+    "category": "add_comment_bait",
+    "action": "Ask: will Modric catch Ronaldo's 234 caps?"
+   }
+  ],
+  "no": 15,
+  "annotator_agreement": 0.82
+ },
+ {
+  "hook_type": "news_flash",
+  "hook_basis": "scoreline_result",
+  "topic_primary": "match_report",
+  "scope": "international",
+  "subject_type": "player",
+  "timeliness": "recent_month",
+  "uk_relevance": "high",
+  "story_structure": "roast_and_praise",
+  "twist_position": "none",
+  "payoff_type": "punchline",
+  "humour_type": "wordplay",
+  "humour_target": "club",
+  "dominant_emotion": "schadenfreude",
+  "comment_bait": "fan_rivalry",
+  "cta_opener_type": "question",
+  "hook_type_alt": "stat_shock",
+  "hook_strength": 4.0,
+  "story_clarity": 2.5,
+  "humour_quality": 3.0,
+  "shareability": 3.5,
+  "comment_potential": 3.5,
+  "uk_fit": 4.5,
+  "novelty": 2.5,
+  "poster_title_sells_hook": 2.5,
+  "poster_joke_quality": 2.5,
+  "humour_intensity": 2.0,
+  "virality_pred": 5.5,
+  "risk_flags": [
+   "betting_under18_appeal",
+   "overlap_other_video",
+   "unverified_claim"
+  ],
+  "hook_type_why": "\"England beat Croatia seven-nil, and Modric was the captain.\" Plain result, UK-friendly.",
+  "hook_basis_detail": "England beat Croatia 7-0 in Rijeka with Modric captaining; then Spain won 2-1 in Split.",
+  "story_summary": "Modric's Croatia lose 7-0 to England, then to Spain; he gifts Kane a replica 1880 ball, plays 90 in a Milan derby win.",
+  "poster_issue": "\"Modric's suit\" is never explained in the headline; the bubble is his quote, not a joke.",
+  "poster_change": "Headline: \"ENGLAND 7, CROATIA 0\". Bubble: \"SEVEN GOALS IS A LOT OF WAY.\"",
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "poster_title",
+    "action": "Replace the 'suit' headline with the England 7-0 result."
+   },
+   {
+    "priority": "P1",
+    "category": "merge_or_drop",
+    "action": "Overlaps video 15; keep England 7-0 here, drop shared Milan and losing-run lines."
+   },
+   {
+    "priority": "P2",
+    "category": "stronger_twist",
+    "action": "Six loose beats; end on the Suker line with a clearer punchline."
+   },
+   {
+    "priority": "P2",
+    "category": "shorten",
+    "action": "Cut Spain and Suker lines; six topics in 46 seconds blur the story."
+   },
+   {
+    "priority": "P2",
+    "category": "add_comment_bait",
+    "action": "Ask England fans: was 7-0 the best result under this manager?"
+   },
+   {
+    "priority": "P3",
+    "category": "vary_cta",
+    "action": "This CTA opener runs in 25 videos; rotate it."
+   }
+  ],
+  "no": 16,
+  "annotator_agreement": 0.75
+ },
+ {
+  "hook_type": "news_flash",
+  "hook_basis": "prediction_or_pundit",
+  "topic_primary": "pundit_prediction",
+  "scope": "premier_league",
+  "subject_type": "club_team",
+  "timeliness": "breaking_week",
+  "uk_relevance": "high",
+  "story_structure": "irony_then_vs_now",
+  "twist_position": "early",
+  "payoff_type": "punchline",
+  "humour_type": "callback",
+  "humour_target": "pundit_media",
+  "dominant_emotion": "schadenfreude",
+  "comment_bait": "hot_take",
+  "cta_opener_type": "mates_social",
+  "hook_type_alt": "none",
+  "hook_strength": 3.5,
+  "story_clarity": 5.0,
+  "humour_quality": 3.0,
+  "shareability": 4.0,
+  "comment_potential": 4.0,
+  "uk_fit": 5.0,
+  "novelty": 2.5,
+  "poster_title_sells_hook": 3.0,
+  "poster_joke_quality": 3.0,
+  "humour_intensity": 2.0,
+  "virality_pred": 6.5,
+  "risk_flags": [
+   "unverified_claim"
+  ],
+  "hook_type_why": "\"Owen tipped Man Utd for the top four. He said it in August.\" Prediction against reality.",
+  "hook_basis_detail": "Owen tipped Man Utd for top four on 28 Aug; by 9 Nov they sat in the relegation zone.",
+  "story_summary": "Owen's August top-four tip for United ends in the relegation zone, Carrick's sacking and Pochettino to 2029; Owen is still confident.",
+  "poster_issue": "Headline is flat; the August-versus-November contrast is only hinted in the bubble.",
+  "poster_change": "Headline: \"OWEN SAID TOP FOUR. UNITED ARE IN THE DROP ZONE.\" Keep bubble.",
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "verify_fact",
+    "action": "Recheck the league table and Rashford's goal count before posting."
+   },
+   {
+    "priority": "P2",
+    "category": "improve_humour",
+    "action": "Mostly plain facts; add one sharper joke before the Rashford line."
+   },
+   {
+    "priority": "P2",
+    "category": "add_comment_bait",
+    "action": "Ask fans if United can really go down."
+   },
+   {
+    "priority": "P2",
+    "category": "hook_rewrite",
+    "action": "Open with: Owen tipped United for the top four. They are in the relegation zone."
+   },
+   {
+    "priority": "P3",
+    "category": "vary_cta",
+    "action": "This CTA opener runs in 32 videos; change it."
+   }
+  ],
+  "no": 17,
+  "annotator_agreement": 0.79
+ },
+ {
+  "hook_type": "stat_shock",
+  "hook_basis": "career_irony",
+  "topic_primary": "legacy_retrospective",
+  "scope": "mixed_career",
+  "subject_type": "player",
+  "timeliness": "recent_month",
+  "uk_relevance": "high",
+  "story_structure": "roast_and_praise",
+  "twist_position": "none",
+  "payoff_type": "callback_to_hook",
+  "humour_type": "callback",
+  "humour_target": "player",
+  "dominant_emotion": "amusement",
+  "comment_bait": "hot_take",
+  "cta_opener_type": "question",
+  "hook_type_alt": "none",
+  "hook_strength": 3.0,
+  "story_clarity": 2.5,
+  "humour_quality": 3.5,
+  "shareability": 3.0,
+  "comment_potential": 3.5,
+  "uk_fit": 4.5,
+  "novelty": 4.0,
+  "poster_title_sells_hook": 2.5,
+  "poster_joke_quality": 2.5,
+  "humour_intensity": 2.5,
+  "virality_pred": 4.5,
+  "risk_flags": [
+   "unverified_claim"
+  ],
+  "hook_type_why": "Opens on numbers: \"176 votes to 140\" for the Ballon d'Or.",
+  "hook_basis_detail": "Owen's 2001 Ballon d'Or (176 votes to Raul's 140) against his punditry, Isak critique and horse-racing stable.",
+  "story_summary": "Ballon d'Or winner Owen now judges Isak's \"yard off\", runs a 140-horse stable and sees two horses finish eighth and tenth.",
+  "poster_issue": "Headline lists three topics; bubble is a setup line with no punch.",
+  "poster_change": "Bubble: \"A YARD OFF? SAYS THE HORSE TRAINER.\" Headline: \"OWEN CRITICISES ISAK'S YARD.\"",
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "poster_title",
+    "action": "Rewrite cover so a stranger understands 'yard off' and the horse angle."
+   },
+   {
+    "priority": "P2",
+    "category": "hook_rewrite",
+    "action": "Open with the Isak \"yard off\" jab for Liverpool fans, not 2001 votes."
+   },
+   {
+    "priority": "P2",
+    "category": "stronger_twist",
+    "action": "Four threads; cut Bahrain results or tie them to the yard gag."
+   },
+   {
+    "priority": "P2",
+    "category": "verify_fact",
+    "action": "Confirm Isak 125m figure is Owen's framing, then attribute on air."
+   },
+   {
+    "priority": "P2",
+    "category": "shorten",
+    "action": "Cut the Bahrain results line; the story is split across Isak, horses and Ballon d'Or."
+   },
+   {
+    "priority": "P3",
+    "category": "vary_cta",
+    "action": "This CTA opener runs in 20 videos; rotate it."
+   }
+  ],
+  "no": 18,
+  "annotator_agreement": 0.96
+ },
+ {
+  "hook_type": "contrast_twist",
+  "hook_basis": "career_irony",
+  "topic_primary": "legacy_retrospective",
+  "scope": "other_leagues",
+  "subject_type": "player",
+  "timeliness": "recent_month",
+  "uk_relevance": "medium",
+  "story_structure": "irony_then_vs_now",
+  "twist_position": "early",
+  "payoff_type": "none",
+  "humour_type": "understatement",
+  "humour_target": "player",
+  "dominant_emotion": "surprise",
+  "comment_bait": "hot_take",
+  "cta_opener_type": "question",
+  "hook_type_alt": "none",
+  "hook_strength": 4.0,
+  "story_clarity": 4.0,
+  "humour_quality": 2.0,
+  "shareability": 3.5,
+  "comment_potential": 3.5,
+  "uk_fit": 3.5,
+  "novelty": 2.0,
+  "poster_title_sells_hook": 3.5,
+  "poster_joke_quality": 2.0,
+  "humour_intensity": 1.0,
+  "virality_pred": 5.5,
+  "risk_flags": [
+   "betting_under18_appeal",
+   "overlap_other_video",
+   "unverified_claim"
+  ],
+  "hook_type_why": "\"Reigning Ballon d'Or winner just finished seventh.\" Champion against seventh.",
+  "hook_basis_detail": "Dembele won the 2025 award, then placed seventh with 418 points; Kane won with 1,055.",
+  "story_summary": "Dembele drops from Ballon d'Or winner to seventh as Kane wins; Messi is fifth and PSG lead Ligue 1.",
+  "poster_issue": "Bubble just restates the headline; Kane's win, the real UK angle, is absent.",
+  "poster_change": "Bubble: \"HARRY KANE WON IT. DEMBELE HAD 418.\"",
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "hook_rewrite",
+    "action": "Lead with Harry Kane winning the Ballon d'Or; UK appeal is buried."
+   },
+   {
+    "priority": "P1",
+    "category": "merge_or_drop",
+    "action": "Overlaps video 20 (Dembele seventh behind Kane) and 12 (Messi fifth); differentiate."
+   },
+   {
+    "priority": "P2",
+    "category": "add_comment_bait",
+    "action": "Ask whether Dembele deserved seventh."
+   },
+   {
+    "priority": "P2",
+    "category": "stronger_twist",
+    "action": "Replace the weak \"has company\" inference with a real payoff line."
+   },
+   {
+    "priority": "P3",
+    "category": "vary_cta",
+    "action": "Replace CTA opener repeated in 25 videos."
+   }
+  ],
+  "no": 19,
+  "annotator_agreement": 0.75
+ },
+ {
+  "hook_type": "contrast_twist",
+  "hook_basis": "transfer_fee_or_bid",
+  "topic_primary": "legacy_retrospective",
+  "scope": "mixed_career",
+  "subject_type": "player",
+  "timeliness": "evergreen_retro",
+  "uk_relevance": "medium",
+  "story_structure": "roast_and_praise",
+  "twist_position": "late",
+  "payoff_type": "punchline",
+  "humour_type": "sarcasm",
+  "humour_target": "club",
+  "dominant_emotion": "amusement",
+  "comment_bait": "fan_rivalry",
+  "cta_opener_type": "question",
+  "hook_type_alt": "stat_shock",
+  "hook_strength": 2.5,
+  "story_clarity": 2.0,
+  "humour_quality": 3.0,
+  "shareability": 3.0,
+  "comment_potential": 3.0,
+  "uk_fit": 2.5,
+  "novelty": 3.0,
+  "poster_title_sells_hook": 2.0,
+  "poster_joke_quality": 2.0,
+  "humour_intensity": 2.0,
+  "virality_pred": 3.5,
+  "risk_flags": [
+   "overlap_other_video",
+   "single_source"
+  ],
+  "hook_type_why": "\"Dembele missed Dortmund training. Barcelona paid a 105 million base fee.\" Sanction against fee.",
+  "hook_basis_detail": "Barcelona's 105m base fee after Dembele's Dortmund training sanction, later sold to PSG for 50.4m.",
+  "story_summary": "Career recap: Dortmund skipped training, 105m Barca fee, World Cup hat-trick, seventh in Ballon d'Or, Champions League penalty, 50.4m sale.",
+  "poster_issue": "Headline sells Dortmund and the fee; bubble jumps to the Ballon d'Or, so the cover is mismatched.",
+  "poster_change": "Bubble: \"105M IN, 50.4M OUT. GREAT BUSINESS, BARCA.\"",
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "add_second_source",
+    "action": "Dortmund training sanction rests on one French Wikipedia page; confirm elsewhere."
+   },
+   {
+    "priority": "P1",
+    "category": "merge_or_drop",
+    "action": "Overlaps video 19 (Ballon d'Or seventh); keep the fee story here only."
+   },
+   {
+    "priority": "P1",
+    "category": "hook_rewrite",
+    "action": "Lead with the 105m-to-50.4m fee loss; the 2017 training skip is stale."
+   },
+   {
+    "priority": "P2",
+    "category": "stronger_twist",
+    "action": "Timeline jumps; order events or build the story on the 105m-to-50.4m arc."
+   },
+   {
+    "priority": "P3",
+    "category": "vary_cta",
+    "action": "This CTA opener runs in 20 videos; rotate it."
+   }
+  ],
+  "no": 20,
+  "annotator_agreement": 0.93
+ }
+]

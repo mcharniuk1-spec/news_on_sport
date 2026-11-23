@@ -1,0 +1,184 @@
+{
+ "video_id": "gZhMilihWtI",
+ "topic": "Gabriel Jesus's Barcelona debut vs Valencia (La Liga 2026)",
+ "hero": "Gabriel Jesus (labelled G.JESUS)",
+ "hero_role": "protagonist of the debut clip",
+ "media_type_overall": "real broadcast footage",
+ "hook": "Close shot of a Barca substitute preparing to enter",
+ "subtitle_style": "small white name tag with arrow",
+ "reaction_overlays": "scoreboard bug top, tracking name tags",
+ "transition_summary": "Few hard cuts; long wide tracking takes, ~1 cut per 10 s",
+ "audio_note": "unknown",
+ "reuse_segments": [
+  {
+   "t0": 0,
+   "t1": 40,
+   "what": "Debut match action",
+   "origin_guess": "broadcast match",
+   "rights_risk": "high",
+   "how_to_reuse": "needs licensed footage"
+  }
+ ],
+ "frames": [
+  {
+   "idx": 1,
+   "t": 0,
+   "desc": "Barca substitute in red-blue kit ready on touchline; scoreboard top",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 2,
+   "t": 2,
+   "desc": "Close face of the Barca player in kit",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 3,
+   "t": 4,
+   "desc": "Vertical crop of wide broadcast: G.JESUS tag arrow above Barca player (dark kit), Valencia in white, Mestalla crowd",
+   "type": "video",
+   "text_on_screen": "G.JESUS",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 4,
+   "t": 6,
+   "desc": "Vertical crop of wide broadcast: G.JESUS tag arrow above Barca player (dark kit), Valencia in white, Mestalla crowd",
+   "type": "video",
+   "text_on_screen": "G.JESUS",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 5,
+   "t": 8,
+   "desc": "Vertical crop of wide broadcast: G.JESUS tag arrow above Barca player (dark kit), Valencia in white, Mestalla crowd",
+   "type": "video",
+   "text_on_screen": "G.JESUS",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 6,
+   "t": 10,
+   "desc": "Vertical crop of wide broadcast: G.JESUS tag arrow above Barca player (dark kit), Valencia in white, Mestalla crowd",
+   "type": "video",
+   "text_on_screen": "G.JESUS",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 7,
+   "t": 12,
+   "desc": "Vertical crop of wide broadcast: G.JESUS tag arrow above Barca player (dark kit), Valencia in white, Mestalla crowd",
+   "type": "video",
+   "text_on_screen": "G.JESUS",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 8,
+   "t": 14,
+   "desc": "Vertical crop of wide broadcast: G.JESUS tag arrow above Barca player (dark kit), Valencia in white, Mestalla crowd",
+   "type": "video",
+   "text_on_screen": "G.JESUS",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 9,
+   "t": 16,
+   "desc": "Vertical crop of wide broadcast: G.JESUS tag arrow above Barca player (dark kit), Valencia in white, Mestalla crowd",
+   "type": "video",
+   "text_on_screen": "G.JESUS",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 10,
+   "t": 18,
+   "desc": "Vertical crop of wide broadcast: G.JESUS tag arrow above Barca player (dark kit), Valencia in white, Mestalla crowd",
+   "type": "video",
+   "text_on_screen": "G.JESUS",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 11,
+   "t": 20,
+   "desc": "Vertical crop of wide broadcast: G.JESUS tag arrow above Barca player (dark kit), Valencia in white, Mestalla crowd",
+   "type": "video",
+   "text_on_screen": "G.JESUS",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 12,
+   "t": 22,
+   "desc": "Vertical crop of wide broadcast: G.JESUS tag arrow above Barca player (dark kit), Valencia in white, Mestalla crowd",
+   "type": "video",
+   "text_on_screen": "G.JESUS",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 13,
+   "t": 24,
+   "desc": "Vertical crop of wide broadcast: G.JESUS tag arrow above Barca player (dark kit), Valencia in white, Mestalla crowd",
+   "type": "video",
+   "text_on_screen": "G.JESUS",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 14,
+   "t": 26,
+   "desc": "Vertical crop of wide broadcast: G.JESUS tag arrow above Barca player (dark kit), Valencia in white, Mestalla crowd",
+   "type": "video",
+   "text_on_screen": "G.JESUS",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 15,
+   "t": 28,
+   "desc": "Vertical crop of wide broadcast: G.JESUS tag arrow above Barca player (dark kit), Valencia in white, Mestalla crowd",
+   "type": "video",
+   "text_on_screen": "G.JESUS",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 16,
+   "t": 30,
+   "desc": "Vertical crop of wide broadcast: G.JESUS tag arrow above Barca player (dark kit), Valencia in white, Mestalla crowd",
+   "type": "video",
+   "text_on_screen": "G.JESUS",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 17,
+   "t": 32,
+   "desc": "Vertical crop of wide broadcast: G.JESUS tag arrow above Barca player (dark kit), Valencia in white, Mestalla crowd",
+   "type": "video",
+   "text_on_screen": "G.JESUS",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 18,
+   "t": 34,
+   "desc": "Vertical crop of wide broadcast: G.JESUS tag arrow above Barca player (dark kit), Valencia in white, Mestalla crowd",
+   "type": "video",
+   "text_on_screen": "G.JESUS",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 19,
+   "t": 36,
+   "desc": "Vertical crop of wide broadcast: G.JESUS tag arrow above Barca player (dark kit), Valencia in white, Mestalla crowd",
+   "type": "video",
+   "text_on_screen": "G.JESUS",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 20,
+   "t": 38,
+   "desc": "Vertical crop of wide broadcast: G.JESUS tag arrow above Barca player (dark kit), Valencia in white, Mestalla crowd",
+   "type": "video",
+   "text_on_screen": "G.JESUS",
+   "transition_to_next": "none"
+  }
+ ]
+}

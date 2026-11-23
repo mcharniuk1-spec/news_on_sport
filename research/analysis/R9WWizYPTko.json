@@ -1,0 +1,112 @@
+{
+ "video_id": "R9WWizYPTko",
+ "topic": "Real Madrid squad 'GTA V (2013) vs GTA VI (2026)': childhood photos vs current Real Madrid pro portraits",
+ "hero": "Real Madrid squad players (unidentified individually except shirt names e.g. VALVERDE 8)",
+ "hero_role": "subjects of a before/after nostalgia grid",
+ "media_type_overall": "static photo(s)",
+ "hook": "Split tile: GTA V logo over a childhood photo on top, GTA VI logo over adult Real Madrid portrait below",
+ "subtitle_style": "none (GTA V/VI logos act as titles)",
+ "reaction_overlays": "GTA V / GTA VI logo labels, sunset gradient backdrops, glitch frame at ~8s",
+ "transition_summary": "Rapid photo swaps every ~1-2s with glitch/flash (about 9 detected cuts in 10s then slower); stacked comparison layout",
+ "audio_note": "Unknown; likely GTA VI trailer-style song",
+ "reuse_segments": [
+  {
+   "t0": 0,
+   "t1": 22,
+   "what": "Childhood photos and official Real Madrid portraits in GTA-logo layout",
+   "origin_guess": "fan edit",
+   "rights_risk": "high",
+   "how_to_reuse": "Replace with own licensed/AI-generated portraits; GTA logos are Rockstar trademarks, recreate layout with generic 'Then / Now' labels"
+  }
+ ],
+ "frames": [
+  {
+   "idx": 1,
+   "t": 0,
+   "desc": "Top: GTA V logo, child in orange shirt on pitch; bottom: GTA VI logo, adult in Real Madrid white kit hands together",
+   "type": "static_image",
+   "text_on_screen": "FIVE / VI",
+   "transition_to_next": "freeze"
+  },
+  {
+   "idx": 2,
+   "t": 2,
+   "desc": "Top: boy in red-white #10 shirt; bottom: young Real Madrid player in white kit",
+   "type": "static_image",
+   "text_on_screen": "FIVE / VI",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 3,
+   "t": 4,
+   "desc": "Top: boy holding ball in white tee; bottom: Real Madrid player arms bent",
+   "type": "static_image",
+   "text_on_screen": "FIVE / VI",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 4,
+   "t": 6,
+   "desc": "Top: two young men with #8 VALVERDE shirt; bottom: Real Madrid player with captain armband",
+   "type": "static_image",
+   "text_on_screen": "FIVE / VI VALVERDE 8",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 5,
+   "t": 8,
+   "desc": "Top: glitch blend of child photos; bottom: young player in white kit",
+   "type": "static_image",
+   "text_on_screen": "FIVE / VI",
+   "transition_to_next": "flash"
+  },
+  {
+   "idx": 6,
+   "t": 10,
+   "desc": "Top: tracksuit-clad young player gesture; bottom: smiling Real Madrid player in white",
+   "type": "static_image",
+   "text_on_screen": "FIVE / VI",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 7,
+   "t": 12,
+   "desc": "Top: boy in dark top; bottom: Real Madrid player arms crossed",
+   "type": "static_image",
+   "text_on_screen": "FIVE / VI",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 8,
+   "t": 14,
+   "desc": "Top: toddler in Real Madrid shirt; bottom: young player arms crossed in white kit",
+   "type": "static_image",
+   "text_on_screen": "FIVE / VI",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 9,
+   "t": 16,
+   "desc": "Top: smiling boy against green; bottom: player in Real Madrid kit, closer portrait",
+   "type": "static_image",
+   "text_on_screen": "FIVE / VI",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 10,
+   "t": 18,
+   "desc": "Top: teen in Spain goalkeeper-style kit; bottom: curly-haired Real Madrid player in white",
+   "type": "static_image",
+   "text_on_screen": "FIVE / VI",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 11,
+   "t": 20,
+   "desc": "Same teen photo; bottom: Real Madrid player in white",
+   "type": "static_image",
+   "text_on_screen": "FIVE / VI",
+   "transition_to_next": "none"
+  }
+ ]
+}

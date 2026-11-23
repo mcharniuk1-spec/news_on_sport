@@ -1,0 +1,639 @@
+{
+ "no": 91,
+ "style": "ACTION-ANIME",
+ "prop": "bag",
+ "cast": {
+  "barboza": {
+   "role": "striker",
+   "number": "7",
+   "shirt": "#ffd23f",
+   "hair": "#1a1a1a",
+   "skin": "#c68642"
+  },
+  "fan1": {
+   "role": "fan",
+   "shirt": "#4f8fd6",
+   "hair": "#6b4a2a"
+  },
+  "fan2": {
+   "role": "fan",
+   "shirt": "#3fb8af",
+   "hair": "#a03a2a"
+  }
+ },
+ "sequences": {
+  "s01": {
+   "type": "HOOK",
+   "q": "Six confederations: who is this winger?",
+   "prop": "globe",
+   "emote": "happy",
+   "board": "neon"
+  },
+  "s02": {
+   "type": "NEWS",
+   "name": "Sergio Barboza",
+   "fact": "His CV is a travel diary",
+   "ticker": "Travel diary CV",
+   "icons": [
+    "flag",
+    "globe",
+    "suitcase"
+   ],
+   "role": "striker"
+  },
+  "s03": {
+   "type": "COMIC",
+   "bg": "street",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "barboza",
+       "x": 300,
+       "y": 1440,
+       "pose": "present",
+       "emote": "happy",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "bag",
+       "x": 170,
+       "y": 1170,
+       "scale": 1.1,
+       "layer": "back"
+      }
+     ],
+     "fx": [
+      {
+       "kind": "speed",
+       "x": 300,
+       "y": 1000
+      },
+      {
+       "kind": "sparkle",
+       "x": 300,
+       "y": 950
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.52,
+     "actors": [
+      {
+       "id": "barboza",
+       "x": 300,
+       "y": 1440,
+       "pose": "cheer",
+       "emote": "angry-cheeky",
+       "scale": 1.4
+      },
+      {
+       "id": "fan1",
+       "x": 650,
+       "y": 1440,
+       "pose": "shock",
+       "emote": "shock",
+       "scale": 1.2,
+       "flip": true
+      },
+      {
+       "id": "fan2",
+       "x": 860,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "neutral",
+       "scale": 1.2,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "bag",
+       "x": 170,
+       "y": 1170,
+       "scale": 1.1,
+       "layer": "back"
+      },
+      {
+       "kind": "phone",
+       "x": 800,
+       "y": 640,
+       "scale": 1.6,
+       "anim": "pop",
+       "face": "neutral"
+      }
+     ],
+     "cam": "push",
+     "fx": [
+      {
+       "kind": "speed",
+       "x": 300,
+       "y": 1000
+      }
+     ],
+     "sfx": {
+      "text": "WHOOSH",
+      "x": 560,
+      "y": 470,
+      "r": 100
+     }
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.52,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "barboza",
+       "x": 300,
+       "y": 1440,
+       "pose": "cheer",
+       "emote": "smug",
+       "scale": 1.4
+      },
+      {
+       "id": "fan1",
+       "x": 650,
+       "y": 1440,
+       "pose": "cheer",
+       "emote": "happy",
+       "scale": 1.2,
+       "flip": true
+      },
+      {
+       "id": "fan2",
+       "x": 860,
+       "y": 1440,
+       "pose": "wave",
+       "emote": "happy",
+       "scale": 1.2,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "bag",
+       "x": 170,
+       "y": 1170,
+       "scale": 1.1,
+       "layer": "back"
+      },
+      {
+       "kind": "phone",
+       "x": 800,
+       "y": 640,
+       "scale": 1.6,
+       "face": "happy"
+      },
+      {
+       "kind": "heart",
+       "x": 800,
+       "y": 640,
+       "scale": 1.0
+      },
+      {
+       "kind": "thumbs-up",
+       "x": 300,
+       "y": 560,
+       "scale": 1.2,
+       "anim": "pop"
+      }
+     ],
+     "sfx": {
+      "text": "DING",
+      "x": 560,
+      "y": 430,
+      "r": 90
+     }
+    }
+   ]
+  },
+  "s04": {
+   "type": "INTERVIEW",
+   "label": "REPORTER ASKS",
+   "bubble": "Who voted on your decisions?",
+   "answer": {
+    "icon": "phone",
+    "gesture": "wave"
+   },
+   "subject": "Sergio Barboza",
+   "subject_cast": "barboza"
+  },
+  "s05": {
+   "type": "COMIC",
+   "bg": "pitch",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "barboza",
+       "x": 300,
+       "y": 1440,
+       "pose": "celebrate",
+       "emote": "happy",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "scoreboard",
+       "x": 740,
+       "y": 720,
+       "scale": 2.6,
+       "text": "5:1",
+       "face": "happy"
+      },
+      {
+       "kind": "bag",
+       "x": 110,
+       "y": 1340,
+       "scale": 1.1
+      },
+      {
+       "kind": "ball",
+       "x": 520,
+       "y": 1400,
+       "scale": 1.0
+      }
+     ],
+     "fx": [
+      {
+       "kind": "confetti",
+       "x": 400,
+       "y": 700
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.42,
+     "actors": [
+      {
+       "id": "barboza",
+       "x": 300,
+       "y": 1440,
+       "pose": "cheer",
+       "emote": "happy",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "scoreboard",
+       "x": 740,
+       "y": 720,
+       "scale": 2.6,
+       "text": "4:4",
+       "face": "happy"
+      },
+      {
+       "kind": "bag",
+       "x": 110,
+       "y": 1340,
+       "scale": 1.1
+      },
+      {
+       "kind": "ball",
+       "x": 520,
+       "y": 1400,
+       "scale": 1.0
+      }
+     ],
+     "cam": "push",
+     "sfx": {
+      "text": "DING",
+      "x": 300,
+      "y": 450,
+      "r": 90
+     }
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.42,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "barboza",
+       "x": 300,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "neutral",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "scoreboard",
+       "x": 740,
+       "y": 720,
+       "scale": 2.6,
+       "text": "4:4",
+       "face": "neutral"
+      },
+      {
+       "kind": "bag",
+       "x": 110,
+       "y": 1340,
+       "scale": 1.1
+      },
+      {
+       "kind": "ball",
+       "x": 520,
+       "y": 1400,
+       "scale": 1.0
+      },
+      {
+       "kind": "tag",
+       "x": 740,
+       "y": 1160,
+       "scale": 1.4,
+       "anim": "pop"
+      }
+     ]
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "barboza",
+       "x": 300,
+       "y": 1440,
+       "pose": "facepalm",
+       "emote": "sweat",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "scoreboard",
+       "x": 740,
+       "y": 720,
+       "scale": 2.6,
+       "text": "4:4",
+       "face": "sleepy"
+      },
+      {
+       "kind": "bag",
+       "x": 110,
+       "y": 1340,
+       "scale": 1.1
+      },
+      {
+       "kind": "ball",
+       "x": 520,
+       "y": 1400,
+       "scale": 1.0
+      },
+      {
+       "kind": "tag",
+       "x": 740,
+       "y": 1170,
+       "scale": 2.4,
+       "label": "three thousand dollars"
+      }
+     ],
+     "sfx": {
+      "text": "CLANG",
+      "x": 300,
+      "y": 450,
+      "r": 90
+     }
+    }
+   ]
+  },
+  "s06": {
+   "type": "PROVOC",
+   "q": "Five games, four goals: great start?",
+   "a": "Great start",
+   "b": "Early days",
+   "split": [
+    67,
+    33
+   ],
+   "mood": "love"
+  },
+  "s07": {
+   "type": "COMIC",
+   "bg": "sky",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "barboza",
+       "x": 280,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "neutral",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "bag",
+       "x": 160,
+       "y": 1160,
+       "scale": 1.3,
+       "layer": "back"
+      },
+      {
+       "kind": "screen",
+       "x": 840,
+       "y": 780,
+       "scale": 1.9
+      },
+      {
+       "kind": "chair",
+       "x": 800,
+       "y": 1240,
+       "scale": 2.2
+      },
+      {
+       "kind": "bolt",
+       "x": 520,
+       "y": 720,
+       "scale": 1.3,
+       "anim": "float",
+       "face": "smug"
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.52,
+     "actors": [
+      {
+       "id": "barboza",
+       "x": 280,
+       "y": 1440,
+       "pose": "shock",
+       "emote": "sweat",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "bag",
+       "x": 160,
+       "y": 1160,
+       "scale": 1.3,
+       "layer": "back"
+      },
+      {
+       "kind": "screen",
+       "x": 840,
+       "y": 780,
+       "scale": 1.9
+      },
+      {
+       "kind": "chair",
+       "x": 800,
+       "y": 1240,
+       "scale": 2.2
+      },
+      {
+       "kind": "bolt",
+       "x": 800,
+       "y": 1060,
+       "scale": 1.6,
+       "face": "smug"
+      },
+      {
+       "kind": "tag",
+       "x": 560,
+       "y": 1260,
+       "scale": 1.1,
+       "anim": "pop"
+      },
+      {
+       "kind": "phone",
+       "x": 540,
+       "y": 720,
+       "scale": 1.0
+      }
+     ],
+     "cam": "push",
+     "sfx": {
+      "text": "CLANG",
+      "x": 540,
+      "y": 430,
+      "r": 90
+     }
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.52,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "barboza",
+       "x": 280,
+       "y": 1440,
+       "pose": "facepalm",
+       "emote": "sweat",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "bag",
+       "x": 160,
+       "y": 1160,
+       "scale": 1.3,
+       "layer": "back"
+      },
+      {
+       "kind": "screen",
+       "x": 840,
+       "y": 780,
+       "scale": 1.9
+      },
+      {
+       "kind": "chair",
+       "x": 800,
+       "y": 1240,
+       "scale": 2.2
+      },
+      {
+       "kind": "bolt",
+       "x": 850,
+       "y": 780,
+       "scale": 1.7,
+       "face": "smug"
+      },
+      {
+       "kind": "tag",
+       "x": 560,
+       "y": 1250,
+       "scale": 1.6,
+       "label": "doubled his flight"
+      },
+      {
+       "kind": "phone",
+       "x": 540,
+       "y": 720,
+       "scale": 1.0
+      }
+     ],
+     "sfx": {
+      "text": "DING",
+      "x": 540,
+      "y": 430,
+      "r": 90
+     }
+    }
+   ]
+  },
+  "s08": {
+   "type": "STATS",
+   "items": [
+    {
+     "icon": "globe",
+     "value": "6",
+     "label": "Six confederations"
+    },
+    {
+     "icon": "ball",
+     "value": "4",
+     "label": "four goals"
+    },
+    {
+     "icon": "boot",
+     "value": "4",
+     "label": "four assists"
+    }
+   ]
+  }
+ }
+}

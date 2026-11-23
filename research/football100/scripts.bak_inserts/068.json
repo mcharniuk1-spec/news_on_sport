@@ -1,0 +1,61 @@
+{
+  "no": 68,
+  "subject": "Bruce Arena says US Soccer 'don't have a clue' how to replace Pochettino",
+  "title": "Arena: US Soccer has no plan for Pochettino",
+  "voice": "EL_B",
+  "comic": false,
+  "style": null,
+  "lines": [
+    {
+      "vo": "Pochettino leaves the US for Manchester United. Bruce Arena has opinions.",
+      "card": "Pochettino leaves",
+      "footage": "Pochettino USMNT press conference, then Manchester United unveiling clip"
+    },
+    {
+      "vo": "Arena says the federation is handling the search for a successor poorly.",
+      "card": "Search handled poorly",
+      "footage": "Bruce Arena interview, San Jose Earthquakes touchline"
+    },
+    {
+      "vo": "His last game was a 2-0 win over Haiti, sending the US to the Nations League finals.",
+      "card": "Haiti, 2-0",
+      "footage": "USMNT Haiti highlights, Pochettino on the touchline"
+    },
+    {
+      "vo": "He left less than three months after signing a new US Soccer contract. Some yoghurts have a longer shelf life.",
+      "card": "Three months, new deal",
+      "footage": "Pochettino signing announcement, US Soccer crest-free graphic"
+    },
+    {
+      "vo": "Steve Cherundolo will lead a December camp and a friendly against Jamaica.",
+      "card": "December camp",
+      "footage": "Cherundolo sideline shots, US training session"
+    },
+    {
+      "vo": "Eight-nil on aggregate, a new contract, gone in under three months. Quick work, Mauricio.",
+      "card": "Quick work",
+      "footage": "Pochettino celebration clip, USMNT Nations League highlights"
+    },
+    {
+      "vo": "Your mates will never guess this. Betting tips, news and predictions at aboutfootball dot UK.",
+      "card": "aboutfootball.UK",
+      "footage": "Channel end card, neutral background"
+    }
+  ],
+  "chars": 595,
+  "est_seconds": 35,
+  "footage_terms": [
+    "Bruce Arena US Soccer coach search press conference",
+    "Pochettino USMNT Haiti highlights",
+    "Cherundolo USMNT interim"
+  ],
+  "inserts": [],
+  "facts_used": [
+    "Arena said the federation is handling the search for Pochettino's successor poorly (news id 56, espn.com/soccer/story/_/id/50525211)",
+    "Pochettino left the USMNT for Manchester United after a 2-0 win over Haiti that sent the US through to the CONCACAF Nations League finals; 8-0 on aggregate (news id 56)",
+    "He left less than three months after signing a new US Soccer contract (news id 56)",
+    "U23 coach Steve Cherundolo will lead a December camp and a friendly against Jamaica (news id 56)"
+  ],
+  "comic_score": 5,
+  "notes": "Non-comic. Arena's 2025 opposition to hiring a foreign coach is deliberately left out; it is a nationality-based point. 'Don't have a clue' is paraphrased. Jokes rest on the documented short tenure after a new contract."
+}

@@ -1,0 +1,83 @@
+{
+ "no": 901,
+ "subject": "Ronaldinho comeback",
+ "title": "Ronaldinho, 46: Serie C comeback",
+ "voice": "kokoro",
+ "comic": false,
+ "style": null,
+ "lines": [
+  {
+   "vo": "A forty-six-year-old just made a Serie C comeback. Ronaldinho.",
+   "card": "Ronaldinho, 46",
+   "sfx": null,
+   "footage": "Ronaldinho Ravenna comeback clip"
+  },
+  {
+   "vo": "Yes, that one. World Cup, Champions League, Ballon d'Or. The only player ever to win all six big trophies.",
+   "card": "All six big trophies",
+   "sfx": null,
+   "footage": "Ronaldinho Barcelona best skills"
+  },
+  {
+   "vo": "So why Ravenna? Italy's third division. Their owner announced it at the World Cup.",
+   "card": "Serie C",
+   "sfx": null,
+   "footage": "Ronaldinho Ravenna announcement, Ravenna stadium"
+  },
+  {
+   "vo": "Ronaldinho is a player and a minority shareholder. Some reports said mostly marketing.",
+   "card": "Player + shareholder",
+   "sfx": null,
+   "footage": "Ravenna club presentation clip"
+  },
+  {
+   "vo": "Sunday, against Forlì: flares, smoke, white shirt. Nineteenth minute, a corner. Saved. Ravenna won two-nil.",
+   "card": "Ravenna 2-0 Forlì",
+   "sfx": null,
+   "footage": "Ronaldinho Ravenna Forli highlights"
+  },
+  {
+   "vo": "He retired on two hundred and ninety-nine career goals. He wants number three hundred. Take your time, maestro.",
+   "card": "299 goals",
+   "sfx": null,
+   "footage": "Ronaldinho 300th goal attempt"
+  },
+  {
+   "vo": "Think you can call the next one? Free tips, results and predictions at aboutfootball dot UK.",
+   "card": "aboutfootball.UK",
+   "sfx": null,
+   "footage": "end card, no footage"
+  }
+ ],
+ "chars": 646,
+ "est_seconds": 36,
+ "footage_terms": [
+  "Ronaldinho Ravenna Forli highlights",
+  "Ronaldinho comeback Serie C",
+  "Ronaldinho Barcelona best skills",
+  "Ronaldinho Ravenna debut highlights"
+ ],
+ "inserts": [
+  {
+   "after_line": 2,
+   "story": "A cartoon trophy cabinet with six shiny cups. Gag: a tiny cartoon raffle ticket sits proudly on the bottom shelf. Twist: the cabinet bows to a caricature of Ronaldinho and the ticket applauds.",
+   "characters": "caricature of Ronaldinho; generic cartoon trophy cabinet",
+   "seconds": 2
+  },
+  {
+   "after_line": 5,
+   "story": "A cartoon scoreboard with a big 299 and an empty slot marked 300. Gag: a caricature of Ronaldinho taps the slot with a flare-lit smile. Twist: the slot answers, take your time.",
+   "characters": "caricature of Ronaldinho; cartoon scoreboard",
+   "seconds": 2
+  }
+ ],
+ "facts_used": [
+  "Ronaldinho, 46, played 45 min for Serie C Ravenna v Forlì on 15 Nov, 2-0 win, no goal; retired on 299 career goals (news id 9, espn.com 2026-11-15)",
+  "Only player to win World Cup, Copa America, Confederations Cup, Champions League, Copa Libertadores, Ballon d'Or (pilot script ron2; SCRIPT_DRAFTS fact pack, Wikipedia)",
+  "Ravenna in Serie C, Italy's third tier; owner announced it at the World Cup in June; player and minority shareholder; some reports said mostly promotional (SCRIPT_DRAFTS fact pack)",
+  "Forlì match: flares, smoke, corner in 19th minute saved (pilot script ron/ron2)",
+  "Says he wants his 300th career goal (fact pack; news id 9)"
+ ],
+ "comic_score": 6,
+ "notes": "Split from pilot 1 (comeback half). 'Take your time, maestro' is a tease, not a claim. No health/family jokes. 'Mostly marketing' marked as reports."
+}

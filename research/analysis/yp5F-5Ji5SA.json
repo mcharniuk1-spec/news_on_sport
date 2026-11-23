@@ -1,0 +1,272 @@
+{
+ "video_id": "yp5F-5Ji5SA",
+ "topic": "Sky Sports News studio discussion: Premier League clubs vote to cover legal costs if Man City sponsors sue the competition's board members",
+ "hero": "Unidentified male studio guest/reporter and blonde female presenter (Sky Sports News)",
+ "hero_role": "news presenter and expert commentator",
+ "media_type_overall": "real broadcast footage",
+ "hook": "Wide shot of Sky Sports News studio, presenter introducing the story",
+ "subtitle_style": "none",
+ "reaction_overlays": "none",
+ "transition_summary": "Slow talking-head news style; hard cuts between wide and close-ups; about 1 cut per 10 s",
+ "audio_note": "Studio conversation, original sound",
+ "reuse_segments": [
+  {
+   "t0": 0,
+   "t1": 62,
+   "what": "Studio talking-head discussion on Premier League legal-costs vote",
+   "origin_guess": "broadcast match",
+   "rights_risk": "high",
+   "how_to_reuse": "Sky news content; do not reuse, recreate with own studio or text-graphic explainer"
+  }
+ ],
+ "frames": [
+  {
+   "idx": 1,
+   "t": 0,
+   "desc": "wide Sky Sports News studio, blonde female presenter at desk left, male guest right",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 2,
+   "t": 2,
+   "desc": "female presenter in dark jacket close, gesturing, speaking",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 3,
+   "t": 4,
+   "desc": "female presenter close, gesturing",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 4,
+   "t": 6,
+   "desc": "male guest (grey hair, dark blazer, open collar) talking in two-way close-up",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 5,
+   "t": 8,
+   "desc": "male guest (grey hair, dark blazer, open collar) talking in two-way close-up",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 6,
+   "t": 10,
+   "desc": "male guest (grey hair, dark blazer, open collar) talking in two-way close-up",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 7,
+   "t": 12,
+   "desc": "male guest (grey hair, dark blazer, open collar) talking in two-way close-up",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 8,
+   "t": 14,
+   "desc": "male guest (grey hair, dark blazer, open collar) talking in two-way close-up",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 9,
+   "t": 16,
+   "desc": "male guest (grey hair, dark blazer, open collar) talking in two-way close-up",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 10,
+   "t": 18,
+   "desc": "male guest (grey hair, dark blazer, open collar) talking in two-way close-up",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 11,
+   "t": 20,
+   "desc": "male guest (grey hair, dark blazer, open collar) talking in two-way close-up",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 12,
+   "t": 22,
+   "desc": "male guest (grey hair, dark blazer, open collar) talking in two-way close-up",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 13,
+   "t": 24,
+   "desc": "male guest (grey hair, dark blazer, open collar) talking in two-way close-up",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 14,
+   "t": 26,
+   "desc": "male guest (grey hair, dark blazer, open collar) talking in two-way close-up",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 15,
+   "t": 28,
+   "desc": "male guest (grey hair, dark blazer, open collar) talking in two-way close-up",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 16,
+   "t": 30,
+   "desc": "male guest (grey hair, dark blazer, open collar) talking in two-way close-up",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 17,
+   "t": 32,
+   "desc": "male guest (grey hair, dark blazer, open collar) talking in two-way close-up",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 18,
+   "t": 34,
+   "desc": "male guest (grey hair, dark blazer, open collar) talking in two-way close-up",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 19,
+   "t": 36,
+   "desc": "wide Sky Sports News studio, blonde female presenter at desk left, male guest right",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 20,
+   "t": 38,
+   "desc": "wide Sky Sports News studio, blonde female presenter at desk left, male guest right",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 21,
+   "t": 40,
+   "desc": "wide Sky Sports News studio, blonde female presenter at desk left, male guest right",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 22,
+   "t": 42,
+   "desc": "wide Sky Sports News studio, blonde female presenter at desk left, male guest right",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 23,
+   "t": 44,
+   "desc": "male guest (grey hair, dark blazer, open collar) talking in two-way close-up",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 24,
+   "t": 46,
+   "desc": "male guest (grey hair, dark blazer, open collar) talking in two-way close-up",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 25,
+   "t": 48,
+   "desc": "male guest (grey hair, dark blazer, open collar) talking in two-way close-up",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 26,
+   "t": 50,
+   "desc": "male guest (grey hair, dark blazer, open collar) talking in two-way close-up",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 27,
+   "t": 52,
+   "desc": "male guest close, leaning, talking, slightly wider",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 28,
+   "t": 54,
+   "desc": "wide Sky Sports News studio, blonde female presenter at desk left, male guest right",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 29,
+   "t": 56,
+   "desc": "wide Sky Sports News studio, blonde female presenter at desk left, male guest right",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 30,
+   "t": 58,
+   "desc": "wide Sky Sports News studio, blonde female presenter at desk left, male guest right",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 31,
+   "t": 60,
+   "desc": "wide Sky Sports News studio, blonde female presenter at desk left, male guest right",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "none"
+  }
+ ]
+}

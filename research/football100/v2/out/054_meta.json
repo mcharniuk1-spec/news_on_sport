@@ -1,0 +1,87 @@
+{
+ "no": 54,
+ "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/054_barcelona_and_real_madrid_chase_brig.mp4",
+ "total": 36.93333333333333,
+ "outro_start": 31.23,
+ "cover": true,
+ "seq": [
+  {
+   "id": "s01",
+   "kind": "HOOK",
+   "start": 0.1,
+   "end": 1.6,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/054/s01.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s02",
+   "kind": "COMIC1",
+   "start": 4.766666666666667,
+   "end": 6.766666666666667,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/054/s02.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s03",
+   "kind": "NEWS",
+   "start": 9.6,
+   "end": 11.366666666666667,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/054/s03.mp4",
+   "clip_dur": 1.767,
+   "frames": 42
+  },
+  {
+   "id": "s04",
+   "kind": "INTERVIEW",
+   "start": 13.866666666666667,
+   "end": 15.633333333333333,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/054/s04.mp4",
+   "clip_dur": 1.767,
+   "frames": 42
+  },
+  {
+   "id": "s05",
+   "kind": "PROVOC",
+   "start": 17.866666666666667,
+   "end": 19.366666666666667,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/054/s05.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s06",
+   "kind": "COMIC2",
+   "start": 21.666666666666668,
+   "end": 23.666666666666668,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/054/s06.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s07",
+   "kind": "STATS",
+   "start": 28.1,
+   "end": 29.6,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/054/s07.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  }
+ ],
+ "missing": [],
+ "dropped": [],
+ "cards": [],
+ "caption_sprites": 101,
+ "whoosh": [
+  0.0,
+  4.666666666666667,
+  9.5,
+  13.766666666666667,
+  17.766666666666666,
+  21.566666666666666,
+  28.0,
+  31.13
+ ],
+ "shots": 12
+}

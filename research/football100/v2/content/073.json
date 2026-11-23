@@ -1,0 +1,753 @@
+{
+ "no": 73,
+ "style": "FLAT-POP",
+ "prop": "sticker",
+ "cast": {
+  "fonseca": {
+   "role": "coach",
+   "shirt": "#d94f4f",
+   "hair": "#2b2b3a"
+  },
+  "clerk": {
+   "role": "staff",
+   "shirt": "#3fb8af",
+   "hair": "#a03a2a"
+  },
+  "borges": {
+   "role": "coach",
+   "shirt": "#4f8fd6",
+   "hair": "#6b4a2a"
+  },
+  "coachb": {
+   "role": "coach",
+   "shirt": "#f4a259",
+   "hair": "#d6d2c6"
+  },
+  "fernandes": {
+   "role": "coach",
+   "shirt": "#7c5cbf",
+   "hair": "#2b2b3a"
+  }
+ },
+ "sequences": {
+  "s01": {
+   "type": "HOOK",
+   "q": "Is Fonseca worth five million euros?",
+   "prop": "tag",
+   "emote": "shock",
+   "board": "ticket",
+   "role": "coach"
+  },
+  "s02": {
+   "type": "COMIC",
+   "bg": "office",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "fonseca",
+       "x": 290,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "sweat",
+       "scale": 1.4,
+       "label": "Paulo Fonseca"
+      },
+      {
+       "id": "clerk",
+       "x": 800,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "happy",
+       "scale": 1.2,
+       "flip": true,
+       "hold": {
+        "kind": "phone",
+        "hand": "R",
+        "scale": 0.6
+       }
+      }
+     ],
+     "props": [
+      {
+       "kind": "sticker",
+       "x": 290,
+       "y": 1210,
+       "scale": 1.1,
+       "text": "5",
+       "anim": "pop"
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.42,
+     "actors": [
+      {
+       "id": "fonseca",
+       "x": 290,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "sweat",
+       "scale": 1.4
+      },
+      {
+       "id": "clerk",
+       "x": 600,
+       "y": 1440,
+       "pose": "point",
+       "emote": "happy",
+       "scale": 1.2,
+       "flip": true,
+       "hold": {
+        "kind": "phone",
+        "hand": "R",
+        "scale": 0.6
+       }
+      }
+     ],
+     "props": [
+      {
+       "kind": "sticker",
+       "x": 290,
+       "y": 1210,
+       "scale": 1.1,
+       "text": "5",
+       "anim": "shake"
+      }
+     ],
+     "sfx": {
+      "text": "DING",
+      "x": 540,
+      "y": 500,
+      "r": 120
+     },
+     "cam": "push"
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.42,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "fonseca",
+       "x": 290,
+       "y": 1440,
+       "pose": "shock",
+       "emote": "shock",
+       "scale": 1.4
+      },
+      {
+       "id": "clerk",
+       "x": 600,
+       "y": 1440,
+       "pose": "point",
+       "emote": "smug",
+       "scale": 1.2,
+       "flip": true,
+       "hold": {
+        "kind": "phone",
+        "hand": "R",
+        "scale": 0.6
+       }
+      }
+     ],
+     "props": [
+      {
+       "kind": "sticker",
+       "x": 290,
+       "y": 1210,
+       "scale": 1.2,
+       "text": "5",
+       "anim": "pulse"
+      },
+      {
+       "kind": "ticket",
+       "x": 600,
+       "y": 1000,
+       "scale": 0.8,
+       "anim": "slide-r",
+       "rot": -20
+      }
+     ],
+     "fx": [
+      {
+       "kind": "sparkle",
+       "x": 470,
+       "y": 1030
+      }
+     ]
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "fonseca",
+       "x": 290,
+       "y": 1440,
+       "pose": "facepalm",
+       "emote": "sweat",
+       "scale": 1.4
+      },
+      {
+       "id": "clerk",
+       "x": 600,
+       "y": 1440,
+       "pose": "thumbsup",
+       "emote": "smug",
+       "scale": 1.2,
+       "flip": true,
+       "hold": {
+        "kind": "phone",
+        "hand": "R",
+        "scale": 0.6
+       }
+      }
+     ],
+     "props": [
+      {
+       "kind": "sticker",
+       "x": 290,
+       "y": 1210,
+       "scale": 1.1,
+       "text": "5"
+      },
+      {
+       "kind": "ticket",
+       "x": 920,
+       "y": 700,
+       "scale": 2.3,
+       "rot": 90,
+       "anim": "drop"
+      },
+      {
+       "kind": "ticket",
+       "x": 920,
+       "y": 1160,
+       "scale": 2.3,
+       "rot": 90,
+       "anim": "drop"
+      }
+     ],
+     "sfx": {
+      "text": "WHOOSH",
+      "x": 500,
+      "y": 520,
+      "r": 120
+     },
+     "fx": [
+      {
+       "kind": "sparkle",
+       "x": 920,
+       "y": 700
+      }
+     ]
+    }
+   ]
+  },
+  "s03": {
+   "type": "STATS",
+   "items": [
+    {
+     "icon": "coin",
+     "value": "5",
+     "suffix": "m",
+     "label": "Five million euros"
+    },
+    {
+     "icon": "cake",
+     "value": "53",
+     "label": "Fonseca is fifty-three"
+    },
+    {
+     "icon": "chart-down",
+     "value": "9",
+     "label": "nine points behind"
+    }
+   ]
+  },
+  "s04": {
+   "type": "COMIC",
+   "bg": "pitch",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "borges",
+       "x": 230,
+       "y": 1440,
+       "pose": "present",
+       "emote": "happy",
+       "scale": 1.15
+      },
+      {
+       "id": "coachb",
+       "x": 580,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "neutral",
+       "scale": 1.15,
+       "flip": true
+      },
+      {
+       "id": "fernandes",
+       "x": 845,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "neutral",
+       "scale": 1.15,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "pen",
+       "x": 320,
+       "y": 1140,
+       "scale": 0.9,
+       "rot": -30,
+       "anim": "drop"
+      },
+      {
+       "kind": "sticker",
+       "x": 230,
+       "y": 1170,
+       "scale": 0.9,
+       "text": "5",
+       "anim": "pop"
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.42,
+     "actors": [
+      {
+       "id": "borges",
+       "x": 300,
+       "y": 1440,
+       "pose": "run",
+       "emote": "happy",
+       "scale": 1.15
+      },
+      {
+       "id": "coachb",
+       "x": 580,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "neutral",
+       "scale": 1.15,
+       "flip": true
+      },
+      {
+       "id": "fernandes",
+       "x": 845,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "neutral",
+       "scale": 1.15,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "pen",
+       "x": 450,
+       "y": 1140,
+       "scale": 0.9,
+       "rot": -20
+      },
+      {
+       "kind": "sticker",
+       "x": 300,
+       "y": 1170,
+       "scale": 0.9,
+       "text": "5"
+      }
+     ],
+     "sfx": {
+      "text": "WHOOSH",
+      "x": 540,
+      "y": 520,
+      "r": 120
+     },
+     "cam": "pan"
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.42,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "borges",
+       "x": 300,
+       "y": 1440,
+       "pose": "present",
+       "emote": "happy",
+       "scale": 1.15
+      },
+      {
+       "id": "coachb",
+       "x": 580,
+       "y": 1440,
+       "pose": "present",
+       "emote": "smug",
+       "scale": 1.15,
+       "flip": true
+      },
+      {
+       "id": "fernandes",
+       "x": 845,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "neutral",
+       "scale": 1.15,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "pen",
+       "x": 520,
+       "y": 1150,
+       "scale": 0.9,
+       "rot": 15
+      },
+      {
+       "kind": "sticker",
+       "x": 300,
+       "y": 1170,
+       "scale": 0.9,
+       "text": "5"
+      }
+     ]
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "borges",
+       "x": 300,
+       "y": 1440,
+       "pose": "shrug",
+       "emote": "happy",
+       "scale": 1.15
+      },
+      {
+       "id": "coachb",
+       "x": 580,
+       "y": 1440,
+       "pose": "thumbsup",
+       "emote": "smug",
+       "scale": 1.15,
+       "flip": true
+      },
+      {
+       "id": "fernandes",
+       "x": 845,
+       "y": 1440,
+       "pose": "hold",
+       "emote": "shock",
+       "scale": 1.15,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "pen",
+       "x": 755,
+       "y": 1130,
+       "scale": 0.9,
+       "rot": 35
+      },
+      {
+       "kind": "sticker",
+       "x": 845,
+       "y": 1170,
+       "scale": 0.9,
+       "text": "5"
+      }
+     ],
+     "sfx": {
+      "text": "DING",
+      "x": 540,
+      "y": 520,
+      "r": 120
+     },
+     "fx": [
+      {
+       "kind": "sparkle",
+       "x": 810,
+       "y": 1100
+      }
+     ]
+    }
+   ]
+  },
+  "s05": {
+   "type": "NEWS",
+   "name": "Rui Borges",
+   "fact": "Talks to end his contract have begun",
+   "ticker": "Borges era ending",
+   "icons": [
+    "calendar",
+    "door",
+    "clipboard"
+   ],
+   "role": "coach"
+  },
+  "s06": {
+   "type": "COMIC",
+   "bg": "podium",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "fernandes",
+       "x": 384,
+       "y": 1328,
+       "pose": "idle",
+       "emote": "smug",
+       "scale": 1.15,
+       "label": "Temporary boss"
+      }
+     ],
+     "props": [
+      {
+       "kind": "podium-box",
+       "x": 250,
+       "y": 1300,
+       "scale": 2.0,
+       "layer": "back"
+      },
+      {
+       "kind": "podium-box",
+       "x": 700,
+       "y": 1300,
+       "scale": 2.0,
+       "layer": "back"
+      },
+      {
+       "kind": "sticker",
+       "x": 384,
+       "y": 1090,
+       "scale": 0.9,
+       "text": "5"
+      },
+      {
+       "kind": "ticket",
+       "x": 800,
+       "y": 480,
+       "scale": 1.0,
+       "anim": "float"
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.42,
+     "actors": [
+      {
+       "id": "fernandes",
+       "x": 640,
+       "y": 1328,
+       "pose": "jump",
+       "emote": "happy",
+       "scale": 1.15,
+       "lift": 140
+      }
+     ],
+     "props": [
+      {
+       "kind": "podium-box",
+       "x": 250,
+       "y": 1300,
+       "scale": 2.0,
+       "layer": "back"
+      },
+      {
+       "kind": "podium-box",
+       "x": 700,
+       "y": 1300,
+       "scale": 2.0,
+       "layer": "back"
+      },
+      {
+       "kind": "sticker",
+       "x": 640,
+       "y": 1090,
+       "scale": 0.9,
+       "text": "5"
+      },
+      {
+       "kind": "ticket",
+       "x": 800,
+       "y": 480,
+       "scale": 1.0,
+       "anim": "float"
+      }
+     ],
+     "sfx": {
+      "text": "WHOOSH",
+      "x": 330,
+      "y": 500,
+      "r": 100
+     },
+     "cam": "push"
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.42,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "fernandes",
+       "x": 834,
+       "y": 1328,
+       "pose": "shock",
+       "emote": "sweat",
+       "scale": 1.15,
+       "rot": -18
+      }
+     ],
+     "props": [
+      {
+       "kind": "podium-box",
+       "x": 250,
+       "y": 1300,
+       "scale": 2.0,
+       "layer": "back"
+      },
+      {
+       "kind": "podium-box",
+       "x": 700,
+       "y": 1300,
+       "scale": 2.0,
+       "layer": "back"
+      },
+      {
+       "kind": "sticker",
+       "x": 834,
+       "y": 1090,
+       "scale": 0.9,
+       "text": "5"
+      },
+      {
+       "kind": "ticket",
+       "x": 800,
+       "y": 480,
+       "scale": 1.0,
+       "anim": "float"
+      }
+     ]
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "fernandes",
+       "x": 834,
+       "y": 1328,
+       "pose": "shrug",
+       "emote": "smug",
+       "scale": 1.15
+      }
+     ],
+     "props": [
+      {
+       "kind": "podium-box",
+       "x": 250,
+       "y": 1300,
+       "scale": 2.0,
+       "layer": "back"
+      },
+      {
+       "kind": "podium-box",
+       "x": 700,
+       "y": 1300,
+       "scale": 2.0,
+       "layer": "back"
+      },
+      {
+       "kind": "sticker",
+       "x": 834,
+       "y": 1090,
+       "scale": 0.9,
+       "text": "5"
+      },
+      {
+       "kind": "ticket",
+       "x": 800,
+       "y": 480,
+       "scale": 1.0,
+       "anim": "float"
+      }
+     ],
+     "cam": "zoom-out",
+     "fx": [
+      {
+       "kind": "sparkle",
+       "x": 834,
+       "y": 1330
+      }
+     ]
+    }
+   ]
+  },
+  "s07": {
+   "type": "INTERVIEW",
+   "label": "REPORTER ASKS",
+   "bubble": "Third place in France or Portugal?",
+   "answer": {
+    "icon": "suitcase",
+    "gesture": "shrug",
+    "emote": "smug"
+   },
+   "subject": "Paulo Fonseca"
+  },
+  "s08": {
+   "type": "PROVOC",
+   "q": "Third for third: worth five million?",
+   "a": "Same view",
+   "b": "No thanks",
+   "split": [
+    58,
+    42
+   ],
+   "mood": "cheeky"
+  }
+ }
+}

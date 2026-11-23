@@ -1,0 +1,272 @@
+{
+ "video_id": "w6X9RVqalHM",
+ "topic": "Compilation of Erling Haaland's funny public moments: trolling tourists, walking Manchester streets, dressing as Joker and Santa",
+ "hero": "Erling Haaland (per title)",
+ "hero_role": "protagonist/prankster in street moments",
+ "media_type_overall": "mixed",
+ "hook": "Young fan clip with HAALAND label, then Haaland hooded in car with blurred 'Hater'",
+ "subtitle_style": "bold white all-caps captions with black outline, bottom-centre; yellow/pink highlighted key words; yellow hand-drawn arrow labels (HAALAND, Hater)",
+ "reaction_overlays": "yellow outline glow cutout, arrows, text labels, photo-in-frame inserts, blurred faces, Nost FC watermark",
+ "transition_summary": "Fast hard cuts, 40 detected cuts in 60s (about 6.5 cuts/10s), bursts of 0.2-0.5s cuts around 43-56s; clips switch between phone footage and posed shots",
+ "audio_note": "English voice-over summary ('From getting kicked out of the bar to surprising his haters outside...') plus original audio from clips",
+ "reuse_segments": [
+  {
+   "t0": 0,
+   "t1": 62,
+   "what": "Street/prank phone clips and social video",
+   "origin_guess": "fan edit",
+   "rights_risk": "high",
+   "how_to_reuse": "Third-party social clips; needs clearance or recreate staged street-prank scenes with generated/actor footage"
+  }
+ ],
+ "frames": [
+  {
+   "idx": 1,
+   "t": 0,
+   "desc": "Boy and man at night with arrow label HAALAND",
+   "type": "video",
+   "text_on_screen": "HAALAND",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 2,
+   "t": 2,
+   "desc": "Hooded man in car back seat, blurred figure labelled Hater",
+   "type": "video",
+   "text_on_screen": "Hater",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 3,
+   "t": 4,
+   "desc": "Laughing blond man with yellow glow outline cutout, shop behind",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 4,
+   "t": 6,
+   "desc": "Photo inset of two boys in front of a car park",
+   "type": "static_image",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 5,
+   "t": 8,
+   "desc": "Extreme close of hand rubbing hooded face in car",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 6,
+   "t": 10,
+   "desc": "Excited boy in yellow vest receiving gift, adults beside",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 7,
+   "t": 12,
+   "desc": "Man walking beside black car with white stripe on street",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 8,
+   "t": 14,
+   "desc": "Patio terrace with tourists, caption HAALAND TROLLS AMERICANS",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 9,
+   "t": 16,
+   "desc": "Patio terrace, tourist sitting, man approaching",
+   "type": "video",
+   "text_on_screen": "HAALAND TROLLS AMERICANS",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 10,
+   "t": 18,
+   "desc": "Patio scene, caption NO",
+   "type": "video",
+   "text_on_screen": "NO",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 11,
+   "t": 20,
+   "desc": "Man in chair leaning, caption REALLY?",
+   "type": "video",
+   "text_on_screen": "REALLY?",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 12,
+   "t": 22,
+   "desc": "Patio scene with robed man walking across",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 13,
+   "t": 24,
+   "desc": "Shopfront on Manchester street, caption HAALAND WALKS IN THE STREETS OF MANCHESTER / WRONG SIDE OF MANCHESTER!",
+   "type": "video",
+   "text_on_screen": "HAALAND WALKS IN THE STREETS OF MANCHESTER WRONG SIDE OF MANCHESTER!",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 14,
+   "t": 26,
+   "desc": "Same shopfront, caption THEY LOVE ME HERE!",
+   "type": "video",
+   "text_on_screen": "THEY LOVE ME HERE!",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 15,
+   "t": 28,
+   "desc": "Pedestrian passes brick shopfront, caption YEAH",
+   "type": "video",
+   "text_on_screen": "YEAH",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 16,
+   "t": 30,
+   "desc": "Street with pink shop sign and lone walker",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 17,
+   "t": 32,
+   "desc": "Tall man in patterned jacket on pavement, caption UNITED",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 18,
+   "t": 34,
+   "desc": "Tall man by TO LET window, caption COME ON!",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 19,
+   "t": 36,
+   "desc": "Crowd at gala event, caption SPEED MEETS HAALAND AT THE BALLON D'OR CEREMONY / NICE TO MEET YOU FINALLY",
+   "type": "video",
+   "text_on_screen": "SPEED MEETS HAALAND AT THE BALLON D'OR CEREMONY NICE TO MEET YOU FINALLY",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 20,
+   "t": 38,
+   "desc": "Gala crowd, caption WHATS WITH THE SHOES MAN!",
+   "type": "video",
+   "text_on_screen": "WHATS WITH THE SHOES MAN!",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 21,
+   "t": 40,
+   "desc": "Gala crowd, caption WHATS UP",
+   "type": "video",
+   "text_on_screen": "WHATS UP",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 22,
+   "t": 42,
+   "desc": "Man in white robe getting face makeup applied",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 23,
+   "t": 44,
+   "desc": "Close-up of face in Joker makeup in car mirror, laughing",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 24,
+   "t": 46,
+   "desc": "Man in purple Joker costume walking past shop window",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 25,
+   "t": 48,
+   "desc": "Joker-costumed man inside convenience shop",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 26,
+   "t": 50,
+   "desc": "Older man in yellow polo and grey jacket smiling in shop",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 27,
+   "t": 52,
+   "desc": "Older man smiling, caption SIMPLE AS THAT!",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 28,
+   "t": 54,
+   "desc": "Shop customers: man in dark jacket, woman at aisle",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 29,
+   "t": 56,
+   "desc": "Shop man smiling, caption MY MAN KNOWS!",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 30,
+   "t": 58,
+   "desc": "Woman in shop asking, caption IS IT HAALAND?!",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 31,
+   "t": 60,
+   "desc": "Man in Santa beard close, caption HAALAND DRESSES AS SANTA FOR CHRISTMAS",
+   "type": "video",
+   "text_on_screen": "HAALAND DRESSES AS SANTA FOR CHRISTMAS",
+   "transition_to_next": "none"
+  }
+ ]
+}

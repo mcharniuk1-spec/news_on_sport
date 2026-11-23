@@ -1,0 +1,272 @@
+{
+ "video_id": "E_4ZePcX0f8",
+ "topic": "Compilation of Neymar's 4-goal game for Brazil vs Japan (14/10/2014), broadcast footage with commentary",
+ "hero": "Neymar (Brazil #10, yellow shirt)",
+ "hero_role": "protagonist of the match",
+ "media_type_overall": "real broadcast footage",
+ "hook": "Teams and referees line up on pitch, then Neymar close-up under floodlights",
+ "subtitle_style": "none (only stadium LED ad boards: Brahma, Chiquinho Sorvetes, QBE)",
+ "reaction_overlays": "none",
+ "transition_summary": "Continuous broadcast with hard cuts between wide tactical camera and close-ups; slow rhythm, about 1 cut per 10-20 s in the sample",
+ "audio_note": "Original English match commentary (transcript mentions Neymar, 7.2 million euros)",
+ "reuse_segments": [
+  {
+   "t0": 0,
+   "t1": 60,
+   "what": "Neymar vs Japan broadcast match footage, wide and close shots",
+   "origin_guess": "broadcast match",
+   "rights_risk": "high",
+   "how_to_reuse": "needs licensed source; strip commentary and recreate with licensed or generated footage"
+  }
+ ],
+ "frames": [
+  {
+   "idx": 1,
+   "t": 0,
+   "desc": "Teams and referees lined up before kick-off, wide stadium shot",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 2,
+   "t": 2,
+   "desc": "Teams and referees lined up before kick-off, wide stadium shot",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 3,
+   "t": 4,
+   "desc": "Neymar in yellow #10 close-up, standing",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 4,
+   "t": 6,
+   "desc": "Neymar in yellow #10 close-up, standing",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 5,
+   "t": 8,
+   "desc": "Wide tactical camera, Brazil yellow vs Japan blue, midfield play",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 6,
+   "t": 10,
+   "desc": "Wide tactical camera, Brazil yellow vs Japan blue, midfield play",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 7,
+   "t": 12,
+   "desc": "Wide tactical camera, Brazil yellow vs Japan blue, midfield play",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 8,
+   "t": 14,
+   "desc": "Wide tactical camera, Brazil yellow vs Japan blue, midfield play",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 9,
+   "t": 16,
+   "desc": "Wide tactical camera, Brazil yellow vs Japan blue, midfield play",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 10,
+   "t": 18,
+   "desc": "Wide tactical camera, Brazil yellow vs Japan blue, midfield play",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 11,
+   "t": 20,
+   "desc": "Wide tactical camera, Brazil yellow vs Japan blue, midfield play",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 12,
+   "t": 22,
+   "desc": "Wide tactical camera, Brazil yellow vs Japan blue, midfield play",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 13,
+   "t": 24,
+   "desc": "Wide tactical camera, midfield circle, few players",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 14,
+   "t": 26,
+   "desc": "Close shot Neymar dribbling past blue-shirted Japan defender",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 15,
+   "t": 28,
+   "desc": "Wide tactical camera, players spread across pitch",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 16,
+   "t": 30,
+   "desc": "Wide tactical camera, players spread across pitch",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 17,
+   "t": 32,
+   "desc": "Wide tactical camera, players spread across pitch",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 18,
+   "t": 34,
+   "desc": "Wide tactical camera, players spread across pitch",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 19,
+   "t": 36,
+   "desc": "Wide tactical camera, players spread across pitch",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 20,
+   "t": 38,
+   "desc": "Wide shot with Brahma ad board, play in midfield",
+   "type": "video",
+   "text_on_screen": "BRAHMA",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 21,
+   "t": 40,
+   "desc": "Close shot Brahma board, Japan and Brazil players contest ball",
+   "type": "video",
+   "text_on_screen": "BRAHMA",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 22,
+   "t": 42,
+   "desc": "Two-shot of Neymar and Japan defender duel",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 23,
+   "t": 44,
+   "desc": "Wide camera with LED ad strip, midfield play",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 24,
+   "t": 46,
+   "desc": "Wide camera with LED ad strip, midfield play",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 25,
+   "t": 48,
+   "desc": "Wide tactical camera, midfield circle, yellow players moving",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 26,
+   "t": 50,
+   "desc": "Wide tactical camera, midfield circle, yellow players moving",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 27,
+   "t": 52,
+   "desc": "Neymar #10 medium shot standing, Japan player behind",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 28,
+   "t": 54,
+   "desc": "Wide stadium shot with QBE and yellow ad boards",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 29,
+   "t": 56,
+   "desc": "Wide stadium shot with QBE and yellow ad boards",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 30,
+   "t": 58,
+   "desc": "Wide stadium shot with QBE and yellow ad boards",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 31,
+   "t": 60,
+   "desc": "Wide shot, Chiquinho Sorvetes ad boards, Brazil attacking",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "none"
+  }
+ ]
+}

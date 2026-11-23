@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "historyId": "12fe649c-483b-4744-b279-8532e93443d0",
+  "currentRevision": "2840edeb-7969-4e72-915d-d948e95f0422",
+  "pendingChanges": false,
+  "files": {
+    "hyperframes.json": {
+      "hash": "53dbce1e19aa713cbb12ee0bc4d206143b45ab15e6ffbfcaa8f69572d4d24d50",
+      "content": "~/.cache/hyperframes/history/12fe649c-483b-4744-b279-8532e93443d0/blobs/53/53dbce1e19aa713cbb12ee0bc4d206143b45ab15e6ffbfcaa8f69572d4d24d50"
+    },
+    "index.html": {
+      "hash": "7d05f462661545328f36d2a3e434d4fa04a9c5d439b6e7a2f981b06a9f5c79c0",
+      "content": "~/.cache/hyperframes/history/12fe649c-483b-4744-b279-8532e93443d0/blobs/7d/7d05f462661545328f36d2a3e434d4fa04a9c5d439b6e7a2f981b06a9f5c79c0"
+    },
+    "meta.json": {
+      "hash": "af879523e69a7fdbb2cd8c7819e114e8ca6cb75d929f80fbef74661d93cee07d",
+      "content": "~/.cache/hyperframes/history/12fe649c-483b-4744-b279-8532e93443d0/blobs/af/af879523e69a7fdbb2cd8c7819e114e8ca6cb75d929f80fbef74661d93cee07d"
+    },
+    "package.json": {
+      "hash": "60865581083b665e633629845a76fd4ea922d1634465481c10d9f5c9af4f09c7",
+      "content": "~/.cache/hyperframes/history/12fe649c-483b-4744-b279-8532e93443d0/blobs/60/60865581083b665e633629845a76fd4ea922d1634465481c10d9f5c9af4f09c7"
+    }
+  },
+  "revisions": {
+    "0b982f38-c808-4222-9ded-d36d97d5bc9e": {
+      "actor": {
+        "kind": "outside",
+        "name": "Outside"
+      },
+      "label": "Changed outside the app",
+      "startedAt": 1795207568592,
+      "endedAt": 1795207568593,
+      "files": {
+        "index.html": {
+          "before": "~/.cache/hyperframes/history/12fe649c-483b-4744-b279-8532e93443d0/blobs/e7/e7134f05ca01ae10eda924c24c2abc357b6056aab93cbed274016d48591f9399",
+          "after": "~/.cache/hyperframes/history/12fe649c-483b-4744-b279-8532e93443d0/blobs/3b/3bb649f77b346734c865a3d1b65c476bde39bda912b52ebb94b075f2b7e926ab"
+        }
+      }
+    },
+    "2840edeb-7969-4e72-915d-d948e95f0422": {
+      "actor": {
+        "kind": "outside",
+        "name": "Outside"
+      },
+      "label": "Changed outside the app",
+      "startedAt": 1795207604814,
+      "endedAt": 1795207604815,
+      "files": {
+        "index.html": {
+          "before": "~/.cache/hyperframes/history/12fe649c-483b-4744-b279-8532e93443d0/blobs/3b/3bb649f77b346734c865a3d1b65c476bde39bda912b52ebb94b075f2b7e926ab",
+          "after": "~/.cache/hyperframes/history/12fe649c-483b-4744-b279-8532e93443d0/blobs/7d/7d05f462661545328f36d2a3e434d4fa04a9c5d439b6e7a2f981b06a9f5c79c0"
+        }
+      }
+    }
+  },
+  "checks": {
+    "latest": null,
+    "revisions": {},
+    "unversioned": []
+  },
+  "snapshots": {
+    "latest": null,
+    "revisions": {},
+    "unversioned": []
+  },
+  "renders": {
+    "latest": {
+      "id": "774015d1-d98a-4834-8db6-f5ac51992786",
+      "completedAt": 1795207610733,
+      "output": "<PROJECT_ROOT>/research/football100/clips/hf_outro.mp4",
+      "status": "completed",
+      "revision": "2840edeb-7969-4e72-915d-d948e95f0422"
+    },
+    "retainedRevisions": [
+      "2840edeb-7969-4e72-915d-d948e95f0422",
+      "0b982f38-c808-4222-9ded-d36d97d5bc9e"
+    ]
+  },
+  "pendingArtifactCleanup": []
+}

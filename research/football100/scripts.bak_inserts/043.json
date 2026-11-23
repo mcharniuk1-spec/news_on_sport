@@ -1,0 +1,107 @@
+{
+ "no": 43,
+ "subject": "Raphinha is sent off late as Brazil lose 3-2 to Japan",
+ "title": "Captain and coach see red, Brazil lose",
+ "voice": "kokoro",
+ "comic": true,
+ "style": "southpark_cutout",
+ "lines": [
+  {
+   "vo": "Brazil's captain and coach both saw red. Brazil lost anyway.",
+   "card": "Captain and coach: red",
+   "sfx": null,
+   "footage": "Brazil vs Japan 3-2 highlights, Singapore friendly"
+  },
+  {
+   "vo": "Japan won three-two in Singapore, with a ninety-first-minute winner.",
+   "card": "91st-minute winner",
+   "sfx": null,
+   "footage": "Japan late winner Brazil friendly, goal celebration"
+  },
+  {
+   "vo": "Raphinha, the captain, had just promised to give his best for Brazil.",
+   "card": "Give his best",
+   "sfx": null,
+   "footage": "Raphinha interview, Brazil national team"
+  },
+  {
+   "vo": "Then he protested the Japan goal, and got a red card. Best effort, wrong department.",
+   "card": "Wrong department",
+   "sfx": "short whistle",
+   "footage": "Raphinha protest and red card, referee shows card"
+  },
+  {
+   "vo": "Carlo Ancelotti was sent off too, for the same protest.",
+   "card": "Ancelotti also off",
+   "sfx": null,
+   "footage": "Ancelotti touchline protest, Brazil bench"
+  },
+  {
+   "vo": "Same goal, same protest, same card. Brazil do love a team effort.",
+   "card": "Team effort",
+   "sfx": null,
+   "footage": "Ancelotti and Raphinha protest, referee and fourth official"
+  },
+  {
+   "vo": "Ancelotti then served a one-match touchline ban against Singapore.",
+   "card": "One-match ban",
+   "sfx": null,
+   "footage": "Ancelotti touchline Brazil, press conference"
+  },
+  {
+   "vo": "Raphinha was suspended too, so Bruno Guimaraes took the armband. Brazil won seven-nil.",
+   "card": "Seven-nil without them",
+   "sfx": "short crowd cheer",
+   "footage": "Brazil 7-0 Singapore highlights, Vinicius goals"
+  },
+  {
+   "vo": "Lose with the captain and the coach there, win seven-nil without them. Make of that what you will.",
+   "card": "Make of that what you will",
+   "sfx": null,
+   "footage": "Brazil celebration after 7-0 win, team huddle"
+  },
+  {
+   "vo": "Think you can call the next one? Free tips, results and predictions at aboutfootball dot UK.",
+   "card": "aboutfootball.UK",
+   "sfx": null,
+   "footage": "end card"
+  }
+ ],
+ "chars": 743,
+ "est_seconds": 42,
+ "footage_terms": [
+  "Brazil vs Japan 3-2 highlights",
+  "Raphinha red card Brazil Japan",
+  "Japao 3x2 Brasil amistoso gols",
+  "Brazil 7-0 Singapore highlights"
+ ],
+ "inserts": [
+  {
+   "after_line": 3,
+   "story": "Setup: a paper cut-out Raphinha raises his right hand and solemnly swears to give his best. Gag: a cut-out referee slides a red card into his palm like a prize. Twist: he pins it on his chest like a medal, and the referee adds a gold star sticker.",
+   "characters": "Generic cut-out referee; caricature of Raphinha as captain",
+   "seconds": 3
+  },
+  {
+   "after_line": 5,
+   "story": "Setup: a cut-out Ancelotti and a cut-out Raphinha protest in perfect sync, arms flapping like one puppet. Gag: two red cards pop up at the same time and they march off down one tunnel, in step. Twist: they get stuck in the doorway together because their cardboard shoulders are too wide.",
+   "characters": "Generic cut-out referee and fourth official; caricatures of Carlo Ancelotti and Raphinha",
+   "seconds": 3
+  },
+  {
+   "after_line": 8,
+   "story": "Setup: a cardboard scoreboard flips to 7-0 and a cut-out Bruno Guimaraes lifts the armband. Gag: far up in the cut-out stands, a cut-out captain and a cut-out coach eat popcorn and clap politely. Twist: a cardboard steward quietly hangs a sign on their two seats: 'Please stay there'.",
+   "characters": "Generic cut-out steward and crowd; caricatures of Bruno Guimaraes, Raphinha and Carlo Ancelotti",
+   "seconds": 3
+  }
+ ],
+ "facts_used": [
+  "Brazil, captained by Raphinha, lost 3-2 to Japan in a friendly in Singapore; Japan had a 91st-minute winner (ev0134)",
+  "Raphinha played 71 minutes before being sent off late; sending-off came after he said he would give his best for Brazil (ev0134)",
+  "Ancelotti and Raphinha were both sent off late after protesting the Japan goal; Ancelotti has a one-match touchline ban against Singapore (ev0134)",
+  "Bruno Guimaraes took the armband; Raphinha suspended for Brazil's 7-0 win over Singapore on 17 November (ev0134)",
+  "Brazil beat Singapore 7-0 (ev0025)"
+ ],
+ "comic_score": 8,
+ "notes": "Comic, 3 inserts (zero-based after_line). Jokes rest on the sending-off, the suspension and the 7-0 result only. No health, injury or personal jokes. Insert characters are generic cut-outs and caricatures, no logos. The '71 minutes' detail from ev0134 is not used because it conflicts with a late red card. Data note: ESPN 'injury-time winner' conflicts with FC Barcelona diary's 91st-minute winner; the script uses 91st minute."
+}

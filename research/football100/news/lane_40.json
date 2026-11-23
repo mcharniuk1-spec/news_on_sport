@@ -1,0 +1,512 @@
+[
+  {
+    "headline": "Liverpool host Man United at Anfield with a shaky home record and a 2023 7-0 hangover",
+    "date": "2026-11-20",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50520411/liverpool-manchester-united-anfield-premier-league",
+    "entities": ["Liverpool", "Manchester United", "Andoni Iraola", "Mauricio Pochettino"],
+    "facts": [
+      "Liverpool host United on Sunday in the first meeting of Iraola and Pochettino; Liverpool have one win, two draws and two defeats in five league home games this season.",
+      "United are 18th and have not won in eight league games, their worst run in Premier League history.",
+      "Liverpool failed to register a shot on target against Arsenal, their first time in 442 league home matches."
+    ],
+    "background": "Liverpool beat United 7-0 at Anfield in March 2023, the biggest win in the fixture's history, but have not beaten them at Anfield since. Klopp's Liverpool once went 68 league home games unbeaten between April 2017 and January 2021.",
+    "angle": "history",
+    "sensitive": false,
+    "footage_terms": ["Liverpool Manchester United 7-0 highlights 2023", "Pochettino first press conference Manchester United", "Liverpool Anfield Man United preview"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Arsenal Women beaten 2-0 by Lyon in Champions League, adding to their worst start in years",
+    "date": "2026-11-19",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50534727/arsenal-lyonnes-champions-league-defeat",
+    "entities": ["Arsenal Women", "OL Lyonnes", "Renee Slegers", "Jule Brand", "Melchie Dumornay"],
+    "facts": [
+      "Jule Brand and Melchie Dumornay scored in a 2-0 Lyon win at Borehamwood; it was Arsenal's first Champions League loss of the season.",
+      "Arsenal are sixth in the WSL with three wins and five draws in 10 games, 12 points behind leaders Chelsea.",
+      "Lyon are unbeaten in the Champions League with five clean sheets and have qualified directly for the quarter-finals."
+    ],
+    "background": "Lyon won a record eight French league titles but have not won the league since 2022. The match report says Arsenal's run to a Champions League final against Barcelona in Lisbon now looks like a one-off.",
+    "angle": "history",
+    "sensitive": false,
+    "footage_terms": ["Arsenal Women Lyon Champions League highlights", "Renee Slegers press conference Arsenal Women", "Dumornay goal Arsenal Lyon"],
+    "confidence": "high"
+  },
+  {
+    "headline": "GTA VI finally lands, and ESPN shows how different football was when GTA V came out in 2013",
+    "date": "2026-11-19",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50530231/gta-vi-messi-ronaldo-manchester-united",
+    "entities": ["Lionel Messi", "Cristiano Ronaldo", "Manchester United", "Manchester City", "Harry Kane"],
+    "facts": [
+      "GTA V launched in September 2013 and GTA VI came out in November 2026, a 13-year wait.",
+      "In 2013 Messi had four Ballon d'Ors (now eight) and Ronaldo two (now five); Ronaldo is now near 1,000 career goals at Al Nassr.",
+      "United have had seven permanent managers since 2013, the latest being Pochettino."
+    ],
+    "background": "Sir Alex Ferguson retired in 2013 and David Moyes took over a United team that were the reigning Premier League champions. Harry Kane had only just scored his first senior goal for Tottenham.",
+    "angle": "viral",
+    "sensitive": false,
+    "footage_terms": ["Moyes Manchester United 2013 press conference", "Messi Ronaldo 2013 highlights", "GTA 6 release football fans"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Kuyt calls Fenerbahce's 3-2 win over Liverpool another miracle in Istanbul, then leaves a week later",
+    "date": "2026-11-04",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50382957/dirk-kuyt-another-miracle-istanbul-fenerbahce-liverpool",
+    "entities": ["Dirk Kuyt", "Fenerbahce", "Liverpool", "Emre Belozoglu", "Mason Greenwood"],
+    "facts": [
+      "Fenerbahce came from behind twice to beat Liverpool 3-2 in the Champions League; Greenwood, Archie Brown and Vedat Muriqi scored.",
+      "Interim coach Kuyt took over after Ismail Kartal resigned following a loss to Galatasaray, and Emre Belozoglu was named permanent manager the night before the match.",
+      "A second ESPN report says Kuyt left the club on 11 November, a week after the win; Fenerbahce are 19th in the 36-team Champions League table."
+    ],
+    "background": "Kuyt played for Fenerbahce from 2012 to 2015 and joined Liverpool a year after their 2005 Champions League final win over AC Milan in Istanbul, which he cited in his comparison.",
+    "angle": "history",
+    "sensitive": false,
+    "footage_terms": ["Fenerbahce Liverpool 3-2 highlights", "Dirk Kuyt press conference miracle in Istanbul", "Liverpool Milan 2005 final Istanbul"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Como hit nine at Lens in a record-equalling Champions League night in their first European season",
+    "date": "2026-11-04",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50382528/fabregas-como-4th-record-setting-9-goal-night",
+    "entities": ["Como", "Lens", "Cesc Fabregas", "Tasos Douvikas", "Nico Paz"],
+    "facts": [
+      "Como won 9-1 at Lens, the most goals scored away from home by any team in Champions League history; Douvikas scored a hat-trick.",
+      "The nine goals tie Bayern's record for goals in one match and the eight-goal margin ties Liverpool's 8-0 over Besiktas in 2007 and Real Madrid's 8-0 over Malmo in 2015.",
+      "Como are fourth in Serie A on 23 points and Fabregas warned against believing their own hype."
+    ],
+    "background": "This is the first season Como have ever played in any European competition. Fabregas is a former Arsenal, Barcelona and Chelsea midfielder.",
+    "angle": "record",
+    "sensitive": false,
+    "footage_terms": ["Lens Como 1-9 highlights", "Fabregas press conference Como hype", "Douvikas hat-trick Como"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Ballon d'Or winner Kane still hunting a Champions League title after losing the 2019 final",
+    "date": "2026-11-20",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50540283/harry-kane-champions-league-bayern-munich-england",
+    "entities": ["Harry Kane", "Bayern Munich", "England", "Tottenham Hotspur", "PSG"],
+    "facts": [
+      "Kane said winning the Champions League is a major goal for him and Bayern, and he also wants a trophy with England.",
+      "He won the Ballon d'Or last month and has won two straight Bundesliga titles with Bayern.",
+      "Last season he scored 61 goals for Bayern, and PSG knocked Bayern out of the Champions League."
+    ],
+    "background": "Kane lost the 2019 Champions League final 2-0 with Tottenham against Liverpool. Bayern's last Champions League win was in 2020 against PSG.",
+    "angle": "record",
+    "sensitive": false,
+    "footage_terms": ["Harry Kane Ballon d'Or interview", "Kane Bayern Champions League goals", "Tottenham Liverpool 2019 Champions League final"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Southampton's long road back from spygate: favourites for promotion after losing a playoff final place",
+    "date": "2026-11-04",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50369194/southampton-spygate-tonda-eckert-english-championship-scandal",
+    "entities": ["Southampton", "Tonda Eckert", "EFL", "Dragan Solak", "Hull City"],
+    "facts": [
+      "Southampton spied on opponents three times last season, including sending an analyst to watch Middlesbrough before the playoff semi-final.",
+      "The EFL overturned their playoff win, the appeal failed, Hull won the final, and Southampton began this season with a four-point deduction.",
+      "Manager Eckert, 33, was fined 28,000 pounds, received a suspended six-week touchline ban and kept his job; Saints beat QPR 4-1 in front of more than 30,000."
+    ],
+    "background": "Eckert had taken Southampton from 21st to fourth before the scandal broke. The club first treated the matter lightly and misled investigators.",
+    "angle": "scandal",
+    "sensitive": false,
+    "footage_terms": ["Southampton QPR 4-1 highlights", "Tonda Eckert press conference spygate", "Southampton spygate EFL playoff"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Vardy, 39, scores in a 20th straight season at Burnley, from non-league to a title winner",
+    "date": "2026-10-16",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50198285/jamie-vardy-scores-20th-consecutive-season-burnley-beaten-wolves",
+    "entities": ["Jamie Vardy", "Burnley", "Wolves", "Leicester City"],
+    "facts": [
+      "Vardy scored in the 20th minute of a 2-1 Burnley defeat by Wolves, his first Championship goal since April 2024.",
+      "It means he has scored in 20 consecutive seasons as a professional; Burnley are fourth from bottom.",
+      "He returned to English football this summer on a one-year deal after a season in Serie A."
+    ],
+    "background": "Sheffield Wednesday released Vardy at 16 and he started senior football at non-league Stocksbridge Park Steels in 2006. He scored 24 goals in Leicester's 2015-16 title season and won the Golden Boot in 2019-20.",
+    "angle": "record",
+    "sensitive": false,
+    "footage_terms": ["Vardy goal Burnley Wolves", "Jamie Vardy Leicester title 2015-16 goals", "Vardy Burnley interview"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Wrexham hold Wolves 1-1 with Reynolds and McElhenney watching, as the Hollywood club keeps pace in the Championship",
+    "date": "2026-11-07",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50408846/wrexham-ryan-reynolds-rob-mac-phil-parkinson-wolves",
+    "entities": ["Wrexham", "Wolves", "Ryan Reynolds", "Rob McElhenney", "Phil Parkinson", "Lewis O'Brien"],
+    "facts": [
+      "Adam Armstrong put Wolves ahead and Lewis O'Brien equalised with his first goal since January.",
+      "Kieffer Moore missed a late winning chance and goalkeeper Anthony Patterson made several saves.",
+      "Parkinson said visits from the owners lift players, staff and fans."
+    ],
+    "background": "Reynolds and McElhenney bought Wrexham in 2021 when the club was in the non-league National League.",
+    "angle": "history",
+    "sensitive": false,
+    "footage_terms": ["Wrexham Wolves 1-1 highlights", "Phil Parkinson press conference Wrexham", "Ryan Reynolds Rob McElhenney Wrexham match"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Tom Brady leaves Birmingham City as the club sits top of the Championship",
+    "date": "2026-11-09",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50435605/tom-brady-birmingham-city-nfl-championship",
+    "entities": ["Tom Brady", "Birmingham City", "Knighthead Capital Management", "Wayne Rooney"],
+    "facts": [
+      "Birmingham confirmed Brady's departure and thanked him for three years of unwavering support; no reason was given.",
+      "Birmingham top the Championship with 29 points from 15 matches after beating Swansea 2-1.",
+      "Brady held a 3.3 percent stake and chaired a new advisory board from August 2023."
+    ],
+    "background": "During Brady's time at the club Wayne Rooney was hired and sacked 83 days later and Birmingham were relegated to League One, before bouncing straight back.",
+    "angle": "business",
+    "sensitive": false,
+    "footage_terms": ["Tom Brady Birmingham City", "Birmingham City Swansea highlights", "Wayne Rooney Birmingham sacked"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Man United finally get Pochettino after a decade of near misses",
+    "date": "2026-11-19",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50502738/manchester-united-pochettino-manager-hiring-decade",
+    "entities": ["Mauricio Pochettino", "Manchester United", "Michael Carrick", "Erik ten Hag", "Alex Ferguson"],
+    "facts": [
+      "United appointed Pochettino on a reported two-year deal after sacking Michael Carrick, who lasted 15 games of a two-year contract signed in May.",
+      "ESPN lists near misses: a 2016 lunch with Ferguson, December 2018, November 2021, early 2022 when he was a close second to Ten Hag, and May 2024.",
+      "His USMNT contract had a release clause that he asked his representatives to flag to United."
+    ],
+    "background": "United's managers since Ferguson include Van Gaal, Mourinho, Solskjaer, Rangnick (interim), Ten Hag and now Carrick and Pochettino. Pochettino was sacked by Tottenham in November 2019, five months after the Champions League final.",
+    "angle": "coach",
+    "sensitive": false,
+    "footage_terms": ["Pochettino first press conference Manchester United", "Pochettino Tottenham Champions League final 2019", "Manchester United managers since Ferguson"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Giants who fell and climbed back: how Juventus, Rangers and Fiorentina recovered, as Man City await their verdict",
+    "date": "2026-11-18",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50512572",
+    "entities": ["Manchester City", "Juventus", "Rangers", "Fiorentina", "AC Milan", "Marseille"],
+    "facts": [
+      "City fans are awaiting the outcome of their appeal and the punishment for 114 breaches of Premier League financial rules.",
+      "Juventus were sent to Serie B and stripped of their 2005 and 2006 titles in the Calciopoli case, then won the 2012 Serie A title.",
+      "Rangers entered administration in February 2012 over a 9 million pound tax bill, restarted in the fourth tier and won the league again in 2021."
+    ],
+    "background": "Fiorentina were declared bankrupt in 2002 and restarted in Italy's fourth tier, returning to Serie A by 2004. Marseille were relegated for match-fixing after winning the 1993 European Cup.",
+    "angle": "scandal",
+    "sensitive": true,
+    "footage_terms": ["Juventus Calciopoli Serie B documentary", "Rangers administration 2012 fourth tier", "Manchester City 115 charges explained"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Ronaldinho, 46, comes out of retirement at Serie C Ravenna but lasts 45 minutes",
+    "date": "2026-11-15",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50489043",
+    "entities": ["Ronaldinho", "Ravenna", "Forli", "Giulio Donati"],
+    "facts": [
+      "Ronaldinho played 45 minutes for Serie C club Ravenna against Forli and did not score, though he showed a few flicks and a corner that nearly led to an assist.",
+      "He had retired on 299 career goals and is reportedly chasing the number 300.",
+      "His last club before this was Fluminense, in September 2015."
+    ],
+    "background": "Ronaldinho won the 2002 World Cup with Brazil, was twice FIFA World Player of the Year and played for Barcelona and AC Milan.",
+    "angle": "viral",
+    "sensitive": false,
+    "footage_terms": ["Ronaldinho Ravenna comeback highlights", "Ronaldinho Barcelona best skills", "Ronaldinho 2005 Ballon d'Or"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Barcelona will let fans leave their ashes at Camp Nou from 2027, from 490 euros",
+    "date": "2026-11-12",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50460503",
+    "entities": ["FC Barcelona", "Camp Nou", "Quique Montoya"],
+    "facts": [
+      "From 2027 fans worldwide, members or not, can have ashes placed at Camp Nou in a columbarium or under a commemorative plaque.",
+      "A columbarium niche costs from 2,490 euros for 10 years or 5,990 euros for 50 years, plus a 70 euro yearly fee; plaques cost 490 or 1,040 euros.",
+      "The 1,500 square metre area has 26,000 niches, murals of Barca history, and will be finished in mid-2028."
+    ],
+    "background": "The memorial is part of the Camp Nou rebuild, in which the club has been reworking its home stadium in phases.",
+    "angle": "business",
+    "sensitive": true,
+    "footage_terms": ["Camp Nou renovation tour", "Barcelona Camp Nou memorial ashes", "Camp Nou history documentary"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Frank jokes about the Arsenal coffee cup at Palace, and wants to avoid a repeat",
+    "date": "2026-11-19",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50534780/thomas-frank-crystal-palace-arsenal-tottenham-coffee-cup",
+    "entities": ["Thomas Frank", "Crystal Palace", "Tottenham Hotspur", "Arsenal", "Steve Parish"],
+    "facts": [
+      "In January, Frank was filmed with a cup bearing the Arsenal logo before a Spurs defeat to Bournemouth; he said he had not noticed it.",
+      "He called it a fantastic story and hinted he may tell more about his difficult Spurs spell later.",
+      "Palace lost to Spurs before the international break and Frank plans to be flexible with formations despite a 3-4-3 squad."
+    ],
+    "background": "Spurs sacked Frank in February after less than eight months in charge, and he then joined Palace.",
+    "angle": "viral",
+    "sensitive": false,
+    "footage_terms": ["Thomas Frank Arsenal coffee cup", "Thomas Frank Crystal Palace press conference", "Tottenham Bournemouth Frank coffee cup"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Milan beat Inter 3-1 in the derby, Moreira with a goal and two assists",
+    "date": "2026-10-31",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/report/_/gameId/401874795",
+    "entities": ["AC Milan", "Inter", "Christian Pulisic", "Adrien Rabiot", "Diego Moreira", "Alessandro Bastoni"],
+    "facts": [
+      "Pulisic scored around the fourth minute from a Moreira cross, Rabiot made it 2-0 from a corner, and Moreira added a free kick before the break; Bastoni scored for Inter.",
+      "Milan ended Inter's nine-match unbeaten Serie A run and extended their own unbeaten derby run to five matches.",
+      "Inter had a handball penalty claim overturned after a VAR check; Lazio led Serie A after 11 games."
+    ],
+    "background": "The two clubs share the San Siro and have agreed a naming rights deal for a planned new shared stadium.",
+    "angle": "win",
+    "sensitive": false,
+    "footage_terms": ["Milan Inter 3-1 derby highlights", "Pulisic goal Milan Inter", "Moreira free kick Milan"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Luis Enrique becomes PSG's winningest coach as Hakimi hits a hat-trick against Le Havre",
+    "date": "2026-10-30",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50330654/psg-achraf-hakimi-hat-trick-luis-enrique-wins-record-le-havre",
+    "entities": ["Luis Enrique", "PSG", "Achraf Hakimi", "Laurent Blanc", "Le Havre"],
+    "facts": [
+      "PSG came from 1-0 down to win 5-1 at Le Havre; Hakimi scored his first career hat-trick and added two assists.",
+      "Luis Enrique won his 127th game as PSG coach, passing Laurent Blanc for the most wins in the club's history.",
+      "PSG were without Dembele and Kvaratskhelia and had won nine in a row in all competitions."
+    ],
+    "background": "PSG are the reigning French and European champions under Luis Enrique. Le Havre were bottom of Ligue 1 and winless at the time.",
+    "angle": "record",
+    "sensitive": false,
+    "footage_terms": ["PSG Le Havre 5-1 highlights", "Hakimi hat-trick PSG", "Luis Enrique PSG record wins press conference"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Nations League draw repeats World Cup meetings: England face Haaland's Norway, Spain meet France",
+    "date": "2026-11-16",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50539055/england-norway-spain-france-nations-league",
+    "entities": ["England", "Norway", "Spain", "France", "Erling Haaland"],
+    "facts": [
+      "The Nations League quarter-finals are England v Norway and Spain v France, with first legs on 25-27 March and second legs on 28-30 March.",
+      "England host Norway in the second leg; the winner would face Belgium or Germany in the semi-final.",
+      "The final is on 13 June."
+    ],
+    "background": "England beat Norway 2-1 at the World Cup quarter-final stage with two goals from Jude Bellingham, and Spain and France met in the World Cup semi-final. The date is taken from Sky Sports' coverage of the same draw, which is dated 16 November.",
+    "angle": "history",
+    "sensitive": false,
+    "footage_terms": ["England Norway World Cup quarter-final highlights", "Spain France World Cup semi-final highlights", "Nations League draw England Norway reaction"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Spirit and Current meet in NWSL Championship as Rodman chases a full-circle moment",
+    "date": "2026-11-19",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50535011/spirit-rodman-nwsl-title",
+    "entities": ["Washington Spirit", "Kansas City Current", "Trinity Rodman"],
+    "facts": [
+      "The 13th NWSL Championship is at Audi Field in Washington on Saturday, the Spirit's fifth final, tying a league record.",
+      "Rodman called a win a full-circle moment after last year's contract saga; the Spirit won their only title in 2021 when she was a rookie.",
+      "The Spirit lost finals in 2024 to Orlando and 2025 to Gotham; Kansas City's only previous final was a 2022 loss to Portland."
+    ],
+    "background": "Audi Field also hosted the Current's 2022 final defeat against the Portland Thorns.",
+    "angle": "history",
+    "sensitive": false,
+    "footage_terms": ["Washington Spirit Kansas City Current NWSL final", "Trinity Rodman interview championship", "Washington Spirit 2021 NWSL champions"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Dortmund will not renew Rheinmetall arms sponsorship after fan protests",
+    "date": "2026-11-13",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50473322",
+    "entities": ["Borussia Dortmund", "Rheinmetall", "Carsten Cramer"],
+    "facts": [
+      "Dortmund will end the deal when it expires on 30 June 2027; German media reported it was worth up to 9 million euros a year.",
+      "Chairman Carsten Cramer said the club loses the income and some financial room from summer 2027.",
+      "Fans criticised the deal from the start, protested with a dummy tank and voted at the 2024 members' meeting against extending it past 2027."
+    ],
+    "background": "The sponsorship started in 2024. Rheinmetall is Germany's largest arms maker, founded in 1889.",
+    "angle": "business",
+    "sensitive": true,
+    "footage_terms": ["Dortmund Rheinmetall sponsorship fans protest", "Borussia Dortmund Cramer press conference", "Dortmund Yellow Wall tank protest"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Osimhen scores twice as Galatasaray win the Istanbul derby 2-1, then players clash after the whistle",
+    "date": "2026-10-26",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/espn/story/_/id/50295059/post-match-chaos-sours-victor-osimhen-brace-galatasaray-win-fenerbahce",
+    "entities": ["Galatasaray", "Fenerbahce", "Victor Osimhen", "Okan Buruk", "Archie Brown"],
+    "facts": [
+      "Osimhen scored in the 29th and 44th minutes at RAMS Park; Irfan Can Kahveci replied for Fenerbahce in the 62nd.",
+      "Players from both sides clashed after the final whistle, including Archie Brown and Abdulkerim Bardakci.",
+      "Osimhen now has five goals in six appearances against Fenerbahce and is unbeaten in them (four wins, two draws)."
+    ],
+    "background": "Galatasaray coach Okan Buruk called Fenerbahce the club's main rival and said they want to beat them in both the league and the Turkish Cup. The date is inferred from the match being played on a Monday, about 24 days before 20 November.",
+    "angle": "win",
+    "sensitive": false,
+    "footage_terms": ["Galatasaray Fenerbahce 2-1 highlights Osimhen", "Osimhen derby goals Istanbul", "Galatasaray Fenerbahce fight after match"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Seventh-tier Wimborne knock League Two bottom side Crawley out of the FA Cup",
+    "date": "2026-11-08",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50421536/wimbourne-town-crawley-fa-cup-non-league",
+    "entities": ["Wimborne Town", "Crawley Town", "Kevin Blackwell", "Vito Mannone"],
+    "facts": [
+      "Wimborne won 2-0 in the first round, with Yang Seung-woo scoring early and Jackson King adding a deflected second late on.",
+      "Crawley are bottom of League Two and 57 places above Wimborne in the pyramid; interim manager Kevin Blackwell made three half-time changes.",
+      "Former Arsenal keeper Vito Mannone was in goal for Crawley."
+    ],
+    "background": "Crawley also lost to non-league Boreham Wood in the same competition last season. Wimborne are Dorset part-timers who play in the Southern Premier League.",
+    "angle": "win",
+    "sensitive": false,
+    "footage_terms": ["Wimborne Town Crawley FA Cup highlights", "Wimborne Town FA Cup giant killing", "FA Cup first round shocks 2026"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Bournemouth beat Milan 3-0 after Maignan's red card, in a club's first European run 127 years in the making",
+    "date": "2026-10-22",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50252034/bournemouth-fairytale-condemns-ruben-amorim-another-nightmare-england-ac-milan",
+    "entities": ["Bournemouth", "AC Milan", "Ruben Amorim", "Mike Maignan", "Marco Rose"],
+    "facts": [
+      "Kluivert and Tavernier scored penalties and Amine Adli added a free kick after Maignan was sent off in the 27th minute for shoving Tyler Adams.",
+      "It was Amorim's first job since being sacked by Manchester United in January; Milan had been undefeated in Serie A.",
+      "ESPN's Europa League listing places this match in that competition; Bournemouth were two wins from two in Europe, under Marco Rose, who replaced Iraola."
+    ],
+    "background": "Bournemouth took 127 years to reach Europe and were in League Two as recently as 2008. In the early 1970s they adopted red-and-black stripes inspired by Milan.",
+    "angle": "history",
+    "sensitive": false,
+    "footage_terms": ["Bournemouth Milan 3-0 highlights", "Maignan red card Tyler Adams", "Amorim press conference Bournemouth Milan"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Billy Sharp, 40, comes out of retirement for Rushden & Diamonds in the FA Cup",
+    "date": "2026-11-02",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50357500/billy-sharp-40-retirement-rushden-diamonds",
+    "entities": ["Billy Sharp", "AFC Rushden & Diamonds", "Burton Albion", "Sheffield United"],
+    "facts": [
+      "About three weeks after announcing his retirement in October, Sharp signed for AFC Rushden & Diamonds to cover for suspended James Clifton.",
+      "They face Burton Albion in the FA Cup first round, their first time in that round; the article gives no result.",
+      "ESPN reports he scored 299 career goals and a hat-trick in his last game before retiring, against Peterborough."
+    ],
+    "background": "Sharp is a Sheffield United legend who also played for Scunthorpe, Doncaster, Southampton, Nottingham Forest and Leeds. AFC Rushden & Diamonds is a phoenix club formed in 2011. The date is inferred from the article's age (about 18 days before 20 November).",
+    "angle": "viral",
+    "sensitive": false,
+    "footage_terms": ["Billy Sharp Rushden & Diamonds", "Billy Sharp Sheffield United best goals", "Billy Sharp retirement hat-trick Peterborough"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Saputo puts CF Montreal up for sale after more than 30 years, with the club bottom of the East",
+    "date": "2026-11-09",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50436119",
+    "entities": ["CF Montreal", "Joey Saputo", "Marco Donadel"],
+    "facts": [
+      "Saputo said on 9 November he would begin selling the club and prefers a local buyer, though relocation is possible if none appears.",
+      "Montreal finished 2026 last in the Eastern Conference with 26 points and six wins in 34 games.",
+      "The club fired coach Marco Donadel in April, its 11th manager in 14 seasons; no sale price was given."
+    ],
+    "background": "The Saputo family founded the Montreal Impact in 1992 and the club became CF Montreal in 2012.",
+    "angle": "business",
+    "sensitive": false,
+    "footage_terms": ["Joey Saputo sale CF Montreal", "CF Montreal Impact history highlights", "Saputo press conference CF Montreal"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Beckham, Rapinoe, Altidore and Ertz voted into the National Soccer Hall of Fame",
+    "date": "2026-11-12",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50465897",
+    "entities": ["David Beckham", "Megan Rapinoe", "Jozy Altidore", "Julie Ertz", "Lothar Osiander"],
+    "facts": [
+      "Rapinoe was elected on the player ballot in her first year of eligibility, alongside Altidore and Ertz; Beckham, Tatu and Osiander came through other ballots.",
+      "The induction ceremony is set for 16 April in Plano, Texas.",
+      "Beckham's profile cites six Premier League titles with United, back-to-back MLS titles with the LA Galaxy, and the 2014 decision to buy an MLS expansion team."
+    ],
+    "background": "That expansion team, Inter Miami, joined MLS in 2020.",
+    "angle": "history",
+    "sensitive": false,
+    "footage_terms": ["David Beckham Hall of Fame", "Rapinoe Hall of Fame reaction", "Beckham LA Galaxy MLS Cup"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Bayern and Dortmund draw 2-2 in Der Klassiker as Kane hits the bar with a penalty",
+    "date": "2026-10-31",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/report/_/gameId/401884754",
+    "entities": ["Bayern Munich", "Borussia Dortmund", "Harry Kane", "Serhou Guirassy", "Fabio Silva"],
+    "facts": [
+      "Laimer and Upamecano scored for Bayern and Guirassy and Fabio Silva for Dortmund, who equalised in the 89th minute.",
+      "Kane hit the crossbar with a second-half penalty in the week he was named best player in the world.",
+      "Bayern and Dortmund were level on 21 points after nine games, Bayern ahead on goal difference."
+    ],
+    "background": "Bayern were without Olise, Saibari, Gnabry, Neuer and Diaz, and head coach Kompany missed the game with an infection.",
+    "angle": "history",
+    "sensitive": false,
+    "footage_terms": ["Bayern Dortmund 2-2 highlights", "Kane penalty miss Dortmund", "Der Klassiker 2026 Fabio Silva goal"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Nashville set an MLS record 77 points to win the Supporters' Shield",
+    "date": "2026-11-16",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50452764",
+    "entities": ["Nashville SC", "Brian Schwake", "MLS"],
+    "facts": [
+      "Nashville won the Supporters' Shield and set the MLS single-season points record with 77.",
+      "They are the top seed in the East and begin the playoffs on 22 November against Orlando or Cincinnati.",
+      "MLS Cup is scheduled for 18 December."
+    ],
+    "background": "The article does not describe the club's history; Nashville SC joined MLS as an expansion side in 2020.",
+    "angle": "record",
+    "sensitive": false,
+    "footage_terms": ["Nashville SC Supporters' Shield highlights", "Nashville SC MLS playoffs 2026", "Nashville SC record points"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "San Jose Earthquakes sold for a reported 625 million dollars enterprise value",
+    "date": "2026-11-13",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50474340",
+    "entities": ["San Jose Earthquakes", "Heath Freeman", "Alden Global Capital", "John Fisher", "Bruce Arena"],
+    "facts": [
+      "The MLS board of governors unanimously approved the transfer; Freeman is buying the team and PayPal Park from John Fisher.",
+      "The deal reflects an enterprise value of 625 million dollars, after a sales process that began in June 2025.",
+      "San Jose reached the playoffs under Bruce Arena and face Houston in round one."
+    ],
+    "background": "The Quakes moved to Houston after 2005; Fisher and Lew Wolff bought an expansion team in 2007 to replace them. The club won the 2012 Supporters' Shield but had reached the postseason only four times in the 11 seasons before this sale.",
+    "angle": "business",
+    "sensitive": false,
+    "footage_terms": ["San Jose Earthquakes sale Alden Global", "San Jose Earthquakes Houston playoffs", "Bruce Arena San Jose Earthquakes"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Celtic thrash Hearts 7-1, five months after Hearts lost the title to a last-gasp Celtic goal",
+    "date": "2026-10-18",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50210960",
+    "entities": ["Celtic", "Hearts", "Martin O'Neill", "Wouter Vrancken", "Callum Osmand", "Kieran Tierney"],
+    "facts": [
+      "Celtic won 7-1 at Parkhead with goals from Tierney, Nygren (two), Osmand (two), Duran and Baur, plus an own goal reported in the match report; Laurent Mendy scored for Hearts.",
+      "Celtic moved four points clear of Rangers, while Hearts arrived as the division's top scorers.",
+      "Hearts had 23 set-piece goals, the most in the league, and Celtic signed set-piece coach Ross Grant from Hearts' staff over the summer."
+    ],
+    "background": "It was the first meeting since Osmand's goal sealed Celtic's last-gasp title win over Hearts. Scoring details in the match report are inconsistent, so exact scorers should be rechecked.",
+    "angle": "win",
+    "sensitive": false,
+    "footage_terms": ["Celtic Hearts 7-1 highlights", "Celtic Hearts title decider Osmand goal", "Martin O'Neill press conference Celtic Hearts"],
+    "confidence": "medium"
+  }
+]

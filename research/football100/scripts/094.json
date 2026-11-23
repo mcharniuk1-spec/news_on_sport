@@ -1,0 +1,94 @@
+{
+ "no": 94,
+ "subject": "Liverpool have won once at Anfield in the league and failed to register a shot on target against Arsenal",
+ "title": "Zero shots on target at Anfield",
+ "voice": "kokoro",
+ "comic": true,
+ "style": "shonen_anime",
+ "lines": [
+  {
+   "vo": "Zero shots on target at Anfield. Against Arsenal.",
+   "card": "Zero shots on target",
+   "sfx": "record scratch",
+   "footage": "Liverpool vs Arsenal Anfield highlights, goalmouth"
+  },
+  {
+   "vo": "That had not happened in four hundred and forty-two league matches there.",
+   "card": "442 matches",
+   "sfx": null,
+   "footage": "Anfield wide shot, empty seats"
+  },
+  {
+   "vo": "Anfield, the fortress. Currently, the drawbridge is down.",
+   "card": "Drawbridge down",
+   "sfx": null,
+   "footage": "Anfield crowd, home match clips"
+  },
+  {
+   "vo": "One win from five at home. Only Crystal Palace and Nottingham Forest have fewer home points.",
+   "card": "One win in five",
+   "sfx": "crowd groan",
+   "footage": "league table graphic, home results"
+  },
+  {
+   "vo": "Away, they are the best in the division: four wins and a draw. Better guests than hosts.",
+   "card": "Best away record",
+   "sfx": null,
+   "footage": "away match goals, away fans"
+  },
+  {
+   "vo": "Now Manchester United arrive: eighteenth, and winless in eight. They have not won at Anfield since March twenty twenty-three.",
+   "card": "Winless since 2023",
+   "sfx": null,
+   "footage": "Manchester United match clips, Anfield exterior"
+  },
+  {
+   "vo": "Shaky fortress, meet shaky visitor. Can Liverpool hit the target? Any target.",
+   "card": "Hit the target?",
+   "sfx": "anime whoosh",
+   "footage": "shot on target, slow motion"
+  },
+  {
+   "vo": "Think you can call it? Betting tips, news and predictions at aboutfootball dot UK.",
+   "card": "aboutfootball dot UK",
+   "sfx": null,
+   "footage": "end card"
+  }
+ ],
+ "chars": 643,
+ "est_seconds": 36,
+ "footage_terms": [
+  "Liverpool vs Arsenal Anfield highlights",
+  "Liverpool 0-1 Arsenal highlights",
+  "Liverpool vs Manchester United preview Anfield",
+  "Liverpool Anfield struggles 2026"
+ ],
+ "inserts": [
+  {
+   "after_line": 1,
+   "story": "Setup: a shonen hero charges a glowing power-ball in the Anfield tunnel. Gag: he kicks it with a mighty shout and it floats gently into the stand. Twist: a fan catches it politely and hands it back.",
+   "characters": "Generic shonen hero, generic fan, no club logos",
+   "seconds": 2
+  },
+  {
+   "after_line": 4,
+   "story": "Setup: the hero boards an away coach with power-up music blaring. Gag: the coach glows brighter with every mile. Twist: at the Anfield gate the glow switches off, and he asks the driver to turn round.",
+   "characters": "Shonen hero caricature, generic away fans, coach prop",
+   "seconds": 2
+  },
+  {
+   "after_line": 5,
+   "story": "Setup: the hero aims at a goal with a bullseye painted on the keeper's gloves. Gag: his ball of light curves into the corner flag. Twist: the flag salutes, and the keeper applauds.",
+   "characters": "Shonen hero caricature, generic goalkeeper, flag prop",
+   "seconds": 2
+  }
+ ],
+ "facts_used": [
+  "In five home league games Liverpool have one win, two draws and two defeats; only Crystal Palace and Nottingham Forest have fewer home points (news 168, espn.com)",
+  "Against Arsenal they had no shot on target, the first such game in 442 league matches at Anfield (news 168)",
+  "Best away form in the division: four wins and a draw from five (news 168)",
+  "Man United arrive 18th and winless in eight league games; not won at Anfield since March 2023 (news 168)"
+ ],
+ "comic_score": 7,
+ "notes": "Source: news 168 (ESPN, 2026-11-20). Arsenal result is a home 1-0 loss per background; stated as in the data. No manager named: the Iraola quote is not tied to a confirmed role in the data. Jokes target team results only. Manchester United line keeps the fact that they arrive 18th, winless in eight, with no Anfield win since March 2023."
+}

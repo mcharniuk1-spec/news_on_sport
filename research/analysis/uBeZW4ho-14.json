@@ -1,0 +1,120 @@
+{
+ "video_id": "uBeZW4ho-14",
+ "topic": "Non-league goalkeeper gets abused by home fans throughout a match and has the best reaction at the end",
+ "hero": "Goalkeeper in light-blue/teal shirt (unidentified)",
+ "hero_role": "butt of the abuse / protagonist with final reaction",
+ "media_type_overall": "fan phone/stadium footage",
+ "hook": "Keeper stands in goal seen through fence; caption quote 'You fat b*stard!' in first 2 s (transcript 'YOU BASTARD. This goalkeeper had the best reaction')",
+ "subtitle_style": "white bold italic sans-serif with black outline, bottom-centre quote lines; large white minute stamp (3', 4', 25', 42', 75', 89') above quote",
+ "reaction_overlays": "quote captions with match-minute stamps, laughing emoji tag 'REACTION AT THE END', Nost FC channel style",
+ "transition_summary": "Hard cuts between minute-stamped phone clips; about 4-5 cuts per 10 s",
+ "audio_note": "original crowd chants/shouting plus commentary voice-over",
+ "reuse_segments": [
+  {
+   "t0": 0,
+   "t1": 24,
+   "what": "Fan-filmed footage behind fence of keeper abused by fans",
+   "origin_guess": "fan edit",
+   "rights_risk": "medium",
+   "how_to_reuse": "unknown filmer; recreate or license; blur fans' faces"
+  }
+ ],
+ "frames": [
+  {
+   "idx": 1,
+   "t": 0,
+   "desc": "keeper in teal shirt in goal behind fence, fans foreground; quote",
+   "type": "video",
+   "text_on_screen": "\"You fat b*stard!\"",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 2,
+   "t": 2,
+   "desc": "keeper close in goal, looking to left; label",
+   "type": "video",
+   "text_on_screen": "REACTION AT THE END",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 3,
+   "t": 4,
+   "desc": "fan's hand and face in foreground throwing gesture, pitch behind",
+   "type": "video",
+   "text_on_screen": "REACTION AT THE END",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 4,
+   "t": 6,
+   "desc": "wide pitch with keeper on edge of box, game going, minute 3'",
+   "type": "video",
+   "text_on_screen": "3' \"You fat b*stard!\"",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 5,
+   "t": 8,
+   "desc": "keeper with orange-kit and white-kit players in box, 4'",
+   "type": "video",
+   "text_on_screen": "4'",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 6,
+   "t": 10,
+   "desc": "keeper stands in goal, fence pole foreground, 25'",
+   "type": "video",
+   "text_on_screen": "25' \"W*nker!\"",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 7,
+   "t": 12,
+   "desc": "keeper in goal raising hand, fans foreground, 42'",
+   "type": "video",
+   "text_on_screen": "42' \"It's all your fault\"",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 8,
+   "t": 14,
+   "desc": "keeper standing in goal far through fence, 75'",
+   "type": "video",
+   "text_on_screen": "75' \"Let's all wave the fatty\"",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 9,
+   "t": 16,
+   "desc": "keeper at goal through fence, 75'",
+   "type": "video",
+   "text_on_screen": "75' \"Let's all wave the fatty\"",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 10,
+   "t": 18,
+   "desc": "keeper back view, in teal shirt, at 89' with cap hand to ear",
+   "type": "video",
+   "text_on_screen": "89' \"He's gonna cry in a minute\"",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 11,
+   "t": 20,
+   "desc": "keeper back view, hand at ear/face, 89'",
+   "type": "video",
+   "text_on_screen": "89' \"He's gonna cry in a minute\"",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 12,
+   "t": 22,
+   "desc": "keeper standing at goal with fans' heads in foreground",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "none"
+  }
+ ]
+}

@@ -1,0 +1,240 @@
+{
+ "video_id": "ebCt_EaTzZo",
+ "topic": "Football meme satire montage about Italy vs France match (tooth souvenir joke) built from reaction clips with word captions",
+ "hero": "Italy and France players (tooth joke), various meme figures",
+ "hero_role": "butt of the jokes; meme reaction clips",
+ "media_type_overall": "mixed",
+ "hook": "Fans crowd clip with caption 'I genuinely cannot'",
+ "subtitle_style": "white bold lowercase captions with black outline, bottom-center, 2-3 words per cut",
+ "reaction_overlays": "meme reaction clips, character cutaways",
+ "transition_summary": "Very fast hard cuts ~every 2 s with caption per clip (~5 cuts per 10 s)",
+ "audio_note": "AI/voice-over narration reading captions",
+ "reuse_segments": [
+  {
+   "t0": 0,
+   "t1": 53,
+   "what": "Third-party meme clips and character footage",
+   "origin_guess": "unknown",
+   "rights_risk": "high",
+   "how_to_reuse": "recreate with own gags or licensed clips; characters are copyrighted"
+  }
+ ],
+ "frames": [
+  {
+   "idx": 1,
+   "t": 0,
+   "desc": "Meme clip: fans crowd, people bending over; caption 'I genuinely cannot / just witnessed'",
+   "type": "video",
+   "text_on_screen": "I genuinely cannot",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 2,
+   "t": 2,
+   "desc": "Meme clip: fans crowd, people bending over; caption 'I genuinely cannot / just witnessed'",
+   "type": "video",
+   "text_on_screen": "just witnessed",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 3,
+   "t": 4,
+   "desc": "Man in white jacket holding championship belt",
+   "type": "video",
+   "text_on_screen": "game of football",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 4,
+   "t": 6,
+   "desc": "Italy player number 16 in blue running",
+   "type": "video",
+   "text_on_screen": "won these brothers",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 5,
+   "t": 8,
+   "desc": "Manager on touchline at Old Trafford; caption 'this is how / moving without Kylian'",
+   "type": "video",
+   "text_on_screen": "this is how",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 6,
+   "t": 10,
+   "desc": "Manager on touchline at Old Trafford; caption 'this is how / moving without Kylian'",
+   "type": "video",
+   "text_on_screen": "moving without Kylian",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 7,
+   "t": 12,
+   "desc": "Kitchen/office scene people reacting; caption 'Whole house mad'",
+   "type": "video",
+   "text_on_screen": "Whole house mad",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 8,
+   "t": 14,
+   "desc": "Kitchen/office scene people reacting; caption 'Whole house mad'",
+   "type": "video",
+   "text_on_screen": "Whole house mad",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 9,
+   "t": 16,
+   "desc": "Man in white shirt gesturing in studio (celebrity cutaway)",
+   "type": "video",
+   "text_on_screen": "this is actually",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 10,
+   "t": 18,
+   "desc": "Streamer in red shirt outdoors; captions 'because the last' 'lives'",
+   "type": "video",
+   "text_on_screen": "because the last",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 11,
+   "t": 20,
+   "desc": "Streamer in red shirt outdoors; captions 'because the last' 'lives'",
+   "type": "video",
+   "text_on_screen": "lives",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 12,
+   "t": 22,
+   "desc": "Rapper-like figure dancing on pink/blue set; 'these last two' 'have genuinely got'",
+   "type": "video",
+   "text_on_screen": "these last two",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 13,
+   "t": 24,
+   "desc": "Rapper-like figure dancing on pink/blue set; 'these last two' 'have genuinely got'",
+   "type": "video",
+   "text_on_screen": "have genuinely got",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 14,
+   "t": 26,
+   "desc": "Man in studio / glowing orb; 'and the funniest' 'first'",
+   "type": "video",
+   "text_on_screen": "and the funniest",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 15,
+   "t": 28,
+   "desc": "Man in studio / glowing orb; 'and the funniest' 'first'",
+   "type": "video",
+   "text_on_screen": "first",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 16,
+   "t": 30,
+   "desc": "Basketball game clip; 'were a four' 'and started playing'",
+   "type": "video",
+   "text_on_screen": "were a four",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 17,
+   "t": 32,
+   "desc": "Basketball game clip; 'were a four' 'and started playing'",
+   "type": "video",
+   "text_on_screen": "and started playing",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 18,
+   "t": 34,
+   "desc": "Villain character close with glowing eyes",
+   "type": "video",
+   "text_on_screen": "the game wasn't",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 19,
+   "t": 36,
+   "desc": "Footballer showing a missing tooth; 'also managed to'",
+   "type": "video",
+   "text_on_screen": "also managed to",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 20,
+   "t": 38,
+   "desc": "Footballer showing a missing tooth; 'also managed to'",
+   "type": "video",
+   "text_on_screen": "also managed to",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 21,
+   "t": 40,
+   "desc": "Woody (Toy Story) 3D character; 'freaking souvenir'",
+   "type": "video",
+   "text_on_screen": "freaking souvenir",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 22,
+   "t": 42,
+   "desc": "Woody (Toy Story) 3D character; 'freaking souvenir'",
+   "type": "video",
+   "text_on_screen": "freaking souvenir",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 23,
+   "t": 44,
+   "desc": "Streamer yelling arms raised",
+   "type": "video",
+   "text_on_screen": "but seriously fair",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 24,
+   "t": 46,
+   "desc": "Player running on training pitch; 'international embarrassment', 'finally remembered how'",
+   "type": "video",
+   "text_on_screen": "international embarrassment",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 25,
+   "t": 48,
+   "desc": "Player running on training pitch; 'international embarrassment', 'finally remembered how'",
+   "type": "video",
+   "text_on_screen": "finally remembered how",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 26,
+   "t": 50,
+   "desc": "Office dance with prize wheel; 'for them to', 'next week'",
+   "type": "video",
+   "text_on_screen": "for them to",
+   "transition_to_next": "none"
+  },
+  {
+   "idx": 27,
+   "t": 52,
+   "desc": "Office dance with prize wheel; 'for them to', 'next week'",
+   "type": "video",
+   "text_on_screen": "next week",
+   "transition_to_next": "none"
+  }
+ ]
+}

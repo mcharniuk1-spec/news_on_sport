@@ -1,0 +1,144 @@
+{
+ "video_id": "nl8h1aql_uU",
+ "topic": "Jobe Bellingham's heartbreaking England debut (as stated in title) with fan-phone footage and word-by-word captions",
+ "hero": "Jobe Bellingham (per title; England squad member in white/navy jacket)",
+ "hero_role": "protagonist of a short story edit",
+ "media_type_overall": "fan phone/stadium footage",
+ "hook": "Phone shot of England player warming up in grey with caption SADDEST",
+ "subtitle_style": "bold white italic caps with black outline, centred mid-frame, one word per beat; red/white 'LIKE' button sticker near end",
+ "reaction_overlays": "red LIKE button sticker bottom-centre, word-by-word captions",
+ "transition_summary": "Fast hard cuts (about 6 cuts/10s, 18 in 30s); handheld stadium phone clips",
+ "audio_note": "Likely TTS/voice-over narration with sad music; no transcript",
+ "reuse_segments": [
+  {
+   "t0": 0,
+   "t1": 30,
+   "what": "Fan phone clips at Wembley/training of England squad",
+   "origin_guess": "fan edit",
+   "rights_risk": "high",
+   "how_to_reuse": "Third-party footage; recreate with stock or AI imagery and own captions"
+  }
+ ],
+ "frames": [
+  {
+   "idx": 1,
+   "t": 0,
+   "desc": "England player in grey warm-up on pitch, red ad board, caption SADDEST",
+   "type": "video",
+   "text_on_screen": "SADDEST",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 2,
+   "t": 2,
+   "desc": "England staff in navy jacket whispering to player in white, caption BELLINGHAM",
+   "type": "video",
+   "text_on_screen": "BELLINGHAM",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 3,
+   "t": 4,
+   "desc": "England players and staff close, player in white head down, caption DESTROYED",
+   "type": "video",
+   "text_on_screen": "DESTROYED",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 4,
+   "t": 6,
+   "desc": "England staff and players near dugout, caption HEARTBREAKING",
+   "type": "video",
+   "text_on_screen": "HEARTBREAKING",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 5,
+   "t": 8,
+   "desc": "England player sitting on bench in white socks, man in jacket beside, caption WAS",
+   "type": "video",
+   "text_on_screen": "WAS",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 6,
+   "t": 10,
+   "desc": "England player in grey warming up with football on pitch, caption TIME",
+   "type": "video",
+   "text_on_screen": "TIME",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 7,
+   "t": 12,
+   "desc": "Players in grey tracksuits laughing together, caption BROTHERS",
+   "type": "video",
+   "text_on_screen": "BROTHERS",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 8,
+   "t": 14,
+   "desc": "Training: player in red #8 bib standing, other in tracksuit, caption BROTHERS",
+   "type": "video",
+   "text_on_screen": "BROTHERS",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 9,
+   "t": 16,
+   "desc": "Training tackle between players, cone on grass, caption TOGETHER",
+   "type": "video",
+   "text_on_screen": "TOGETHER",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 10,
+   "t": 18,
+   "desc": "Two England players in grey hoodies walking in tunnel, caption TOILET",
+   "type": "video",
+   "text_on_screen": "TOILET",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 11,
+   "t": 20,
+   "desc": "Stewards in yellow vests among crowd near barrier, caption THEM",
+   "type": "video",
+   "text_on_screen": "THEM",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 12,
+   "t": 22,
+   "desc": "Wide match view, red-kit opponents vs white, caption OFF",
+   "type": "video",
+   "text_on_screen": "OFF",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 13,
+   "t": 24,
+   "desc": "Goalkeeper in teal and England player falling, caption HARRY",
+   "type": "video",
+   "text_on_screen": "HARRY",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 14,
+   "t": 26,
+   "desc": "England #? player hand over mouth, staff in navy, caption JOE",
+   "type": "video",
+   "text_on_screen": "JOE",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 15,
+   "t": 28,
+   "desc": "Player in white #10 hugging staff member, LIKE button sticker, caption PLAYED",
+   "type": "video",
+   "text_on_screen": "PLAYED",
+   "transition_to_next": "none"
+  }
+ ]
+}

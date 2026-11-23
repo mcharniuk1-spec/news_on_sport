@@ -1,0 +1,103 @@
+{
+ "no": 91,
+ "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/091_brazilian_winger_sergio_barboza_beco.mp4",
+ "total": 45.333333333333336,
+ "outro_start": 39.02,
+ "cover": true,
+ "seq": [
+  {
+   "id": "s01",
+   "kind": "HOOK",
+   "start": 0.1,
+   "end": 1.6,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/091/s01.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s02",
+   "kind": "NEWS",
+   "start": 4.333333333333333,
+   "end": 6.1,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/091/s02.mp4",
+   "clip_dur": 1.767,
+   "frames": 42
+  },
+  {
+   "id": "s03",
+   "kind": "COMIC1",
+   "start": 9.0,
+   "end": 11.0,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/091/s03.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s04",
+   "kind": "INTERVIEW",
+   "start": 13.866666666666667,
+   "end": 15.633333333333333,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/091/s04.mp4",
+   "clip_dur": 1.767,
+   "frames": 42
+  },
+  {
+   "id": "s05",
+   "kind": "COMIC2",
+   "start": 20.6,
+   "end": 22.6,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/091/s05.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s06",
+   "kind": "PROVOC",
+   "start": 25.866666666666667,
+   "end": 27.366666666666667,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/091/s06.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s07",
+   "kind": "COMIC3",
+   "start": 30.666666666666668,
+   "end": 32.666666666666664,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/091/s07.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s08",
+   "kind": "STATS",
+   "start": 37.333333333333336,
+   "end": 38.833333333333336,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/091/s08.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  }
+ ],
+ "missing": [],
+ "dropped": [],
+ "cards": [
+  {
+   "text": "Next stop: Africa",
+   "a": 36.13333333333333,
+   "b": 37.2
+  }
+ ],
+ "caption_sprites": 120,
+ "whoosh": [
+  0.0,
+  4.233333333333333,
+  8.9,
+  13.766666666666667,
+  20.5,
+  25.766666666666666,
+  30.566666666666666,
+  37.233333333333334,
+  38.92
+ ],
+ "shots": 15
+}

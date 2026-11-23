@@ -1,0 +1,103 @@
+{
+ "no": 7,
+ "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/007_kaka_ricardo_izecson_dos_santos_leit.mp4",
+ "total": 46.333333333333336,
+ "outro_start": 40.8,
+ "cover": true,
+ "seq": [
+  {
+   "id": "s01",
+   "kind": "HOOK",
+   "start": 0.1,
+   "end": 1.6,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/007/s01.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s02",
+   "kind": "NEWS",
+   "start": 5.333333333333333,
+   "end": 7.1,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/007/s02.mp4",
+   "clip_dur": 1.766,
+   "frames": 42
+  },
+  {
+   "id": "s03",
+   "kind": "COMIC1",
+   "start": 10.633333333333333,
+   "end": 12.633333333333333,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/007/s03.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s04",
+   "kind": "STATS",
+   "start": 15.333333333333334,
+   "end": 16.833333333333332,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/007/s04.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s05",
+   "kind": "COMIC2",
+   "start": 19.333333333333332,
+   "end": 21.333333333333332,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/007/s05.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s06",
+   "kind": "COMIC3",
+   "start": 27.166666666666668,
+   "end": 29.166666666666668,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/007/s06.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s07",
+   "kind": "PROVOC",
+   "start": 31.6,
+   "end": 33.1,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/007/s07.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s08",
+   "kind": "INTERVIEW",
+   "start": 35.333333333333336,
+   "end": 37.1,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/007/s08.mp4",
+   "clip_dur": 1.766,
+   "frames": 42
+  }
+ ],
+ "missing": [],
+ "dropped": [],
+ "cards": [
+  {
+   "text": "Rated 124",
+   "a": 33.666666666666664,
+   "b": 35.2
+  }
+ ],
+ "caption_sprites": 129,
+ "whoosh": [
+  0.0,
+  5.233333333333333,
+  10.533333333333333,
+  15.233333333333334,
+  19.23333333333333,
+  27.066666666666666,
+  31.5,
+  35.233333333333334,
+  40.7
+ ],
+ "shots": 14
+}

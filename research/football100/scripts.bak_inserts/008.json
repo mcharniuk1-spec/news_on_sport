@@ -1,0 +1,77 @@
+{
+ "no": 8,
+ "subject": "Kaka (Ricardo Izecson dos Santos Leite)",
+ "title": "Kaka: Ballon d'Or, then Real Madrid",
+ "voice": "EL_C",
+ "comic": false,
+ "style": null,
+ "lines": [
+  {
+   "vo": "Kaka won the Ballon d'Or in 2007. Then Real Madrid happened.",
+   "card": "Ballon d'Or 2007",
+   "sfx": null,
+   "footage": "Kaka 2007 Ballon d'Or ceremony"
+  },
+  {
+   "vo": "Reportedly sixty-seven million euros, in 2009.",
+   "card": "67 million euros",
+   "sfx": null,
+   "footage": "Kaka Real Madrid unveiling 2009"
+  },
+  {
+   "vo": "Twenty-nine goals, thirty-two assists, one hundred twenty games. Roughly a million euros each.",
+   "card": "29 goals, 32 assists",
+   "sfx": null,
+   "footage": "Kaka Real Madrid goals compilation"
+  },
+  {
+   "vo": "A Spanish radio show put him in its worst-signings top five. One radio opinion.",
+   "card": "Radio top five",
+   "sfx": null,
+   "footage": "Real Madrid worst signings debate clip"
+  },
+  {
+   "vo": "Then 2013: two yellows in eighteen minutes against Osasuna. Efficient.",
+   "card": "Two yellows, 18 minutes",
+   "sfx": "referee whistle",
+   "footage": "Real Madrid Osasuna 2013 highlights"
+  },
+  {
+   "vo": "But 2007: one thousand forty-seven World Player votes. Messi, five hundred four.",
+   "card": "1,047 votes",
+   "sfx": "crowd cheer",
+   "footage": "Kaka FIFA World Player 2007 ceremony"
+  },
+  {
+   "vo": "Orlando City reportedly paid him MLS's top salary. Three seasons, no playoffs.",
+   "card": "Highest-paid, no playoffs",
+   "sfx": "sad trombone",
+   "footage": "Orlando City Kaka goals highlights"
+  },
+  {
+   "vo": "Think you can call the next one? Betting tips, news and predictions at aboutfootball dot UK.",
+   "card": "aboutfootball.UK",
+   "sfx": null,
+   "footage": "end card, no footage"
+  }
+ ],
+ "chars": 599,
+ "est_seconds": 33,
+ "footage_terms": [
+  "Kaka Ballon d'Or 2007",
+  "Kaka Real Madrid goals",
+  "Kaka Orlando City goals",
+  "Kaka 2007 Champions League goals"
+ ],
+ "inserts": [],
+ "facts_used": [
+  "Ballon d'Or 2007, 444 votes (bo pack praise)",
+  "Reported 67m euros to Real Madrid in 2009; 29 goals and 32 assists in 120 games (bo pack roast_past)",
+  "Radio Marca programme top-5 worst Real Madrid signings: radio debate, not an official ranking (bo pack roast_past, 2025-08-04)",
+  "Sent off 12 Jan 2013 vs Osasuna, two yellows in 18 minutes (bo pack roast_past)",
+  "FIFA World Player 2007: 1,047 votes vs Messi 504, Ronaldo 426 (bo pack praise)",
+  "Orlando City: reported highest-paid MLS player at signing; Orlando missed the playoffs 2015, 2016, 2017 (bo pack roast_past)"
+ ],
+ "comic_score": 5,
+ "notes": "Part B: different stories from part A. Non-comic, so no inserts. The 2010 World Cup elbow incident is skipped (conduct dispute, not needed). The 'too perfect' divorce meme is skipped (family). The 'reported' qualifier stays on the transfer fee and the MLS salary. 'Real Madrid happened' is a light joke, not a claim about his career. Punch-up pass: 'about a million euros each' is 67m divided by 61 goal contributions (reported fee; arithmetic gag). 'Reported' stays on the fee and the salary."
+}

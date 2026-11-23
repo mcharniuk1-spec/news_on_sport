@@ -1,0 +1,672 @@
+{
+ "no": 48,
+ "style": "FLAT-POP",
+ "prop": "tag",
+ "cast": {
+  "saputo": {
+   "role": "boss",
+   "shirt": "#1f4e8c",
+   "hair": "#3a3a3a"
+  },
+  "coach1": {
+   "role": "coach",
+   "shirt": "#2f9e8f",
+   "hair": "#2b2b3a"
+  },
+  "coach2": {
+   "role": "coach",
+   "shirt": "#2f9e8f",
+   "hair": "#7a5230"
+  }
+ },
+ "sequences": {
+  "s01": {
+   "type": "HOOK",
+   "q": "For sale: how much for Montreal?",
+   "prop": "tag",
+   "emote": "shock",
+   "board": "typed"
+  },
+  "s02": {
+   "type": "COMIC",
+   "bg": "stadium",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "saputo",
+       "x": 320,
+       "y": 1440,
+       "pose": "present",
+       "emote": "happy",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "flag",
+       "x": 720,
+       "y": 480,
+       "scale": 2.0,
+       "label": "Montreal for sale",
+       "anim": "drop"
+      },
+      {
+       "kind": "tag",
+       "x": 920,
+       "y": 640,
+       "scale": 1.5,
+       "rot": 10
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.42,
+     "actors": [
+      {
+       "id": "saputo",
+       "x": 320,
+       "y": 1440,
+       "pose": "headscratch",
+       "emote": "sweat",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "flag",
+       "x": 720,
+       "y": 480,
+       "scale": 2.0,
+       "label": "Montreal for sale"
+      },
+      {
+       "kind": "tag",
+       "x": 920,
+       "y": 640,
+       "scale": 1.9,
+       "rot": 10,
+       "anim": "wobble"
+      }
+     ],
+     "cam": "push"
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.42,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "saputo",
+       "x": 320,
+       "y": 1440,
+       "pose": "headscratch",
+       "emote": "sweat",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "flag",
+       "x": 720,
+       "y": 480,
+       "scale": 2.0,
+       "label": "Montreal for sale"
+      },
+      {
+       "kind": "tag",
+       "x": 920,
+       "y": 640,
+       "scale": 1.9,
+       "rot": 10,
+       "anim": "shake"
+      }
+     ],
+     "bubble": {
+      "who": "saputo",
+      "text": "?"
+     }
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "saputo",
+       "x": 320,
+       "y": 1440,
+       "pose": "shrug",
+       "emote": "smug",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "flag",
+       "x": 720,
+       "y": 480,
+       "scale": 2.0,
+       "label": "Montreal for sale"
+      },
+      {
+       "kind": "tag",
+       "x": 920,
+       "y": 640,
+       "scale": 1.9,
+       "rot": 10
+      },
+      {
+       "kind": "chair",
+       "x": 840,
+       "y": 1340,
+       "scale": 1.8,
+       "anim": "pop"
+      },
+      {
+       "kind": "question",
+       "x": 840,
+       "y": 1080,
+       "scale": 1.3,
+       "anim": "pop"
+      }
+     ],
+     "sfx": {
+      "text": "POP",
+      "x": 620,
+      "y": 380,
+      "r": 90
+     }
+    }
+   ]
+  },
+  "s03": {
+   "type": "COMIC",
+   "bg": "boardroom",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "coach1",
+       "x": 250,
+       "y": 1440,
+       "pose": "wave",
+       "emote": "happy",
+       "scale": 1.2
+      },
+      {
+       "id": "coach2",
+       "x": 820,
+       "y": 1440,
+       "pose": "shrug",
+       "emote": "neutral",
+       "scale": 1.2,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "door",
+       "x": 560,
+       "y": 1010,
+       "scale": 3.0
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.42,
+     "actors": [
+      {
+       "id": "coach1",
+       "x": 400,
+       "y": 1440,
+       "pose": "run",
+       "emote": "neutral",
+       "scale": 1.2
+      },
+      {
+       "id": "coach2",
+       "x": 720,
+       "y": 1440,
+       "pose": "run",
+       "emote": "neutral",
+       "scale": 1.2,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "door",
+       "x": 560,
+       "y": 1010,
+       "scale": 3.0,
+       "anim": "wobble"
+      }
+     ],
+     "cam": "push",
+     "fx": [
+      {
+       "kind": "speed",
+       "x": 560,
+       "y": 1000
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.42,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "coach1",
+       "x": 820,
+       "y": 1440,
+       "pose": "tired",
+       "emote": "dizzy",
+       "scale": 1.2
+      },
+      {
+       "id": "coach2",
+       "x": 280,
+       "y": 1440,
+       "pose": "tired",
+       "emote": "dizzy",
+       "scale": 1.2,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "door",
+       "x": 560,
+       "y": 1010,
+       "scale": 3.0,
+       "anim": "wobble"
+      }
+     ],
+     "sfx": {
+      "text": "WHOOSH",
+      "x": 560,
+      "y": 400,
+      "r": 100
+     }
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "coach1",
+       "x": 820,
+       "y": 1440,
+       "pose": "shrug",
+       "emote": "dizzy",
+       "scale": 1.2
+      },
+      {
+       "id": "coach2",
+       "x": 280,
+       "y": 1440,
+       "pose": "shock",
+       "emote": "dizzy",
+       "scale": 1.2,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "door",
+       "x": 560,
+       "y": 1010,
+       "scale": 3.0
+      },
+      {
+       "kind": "tag",
+       "x": 500,
+       "y": 1310,
+       "scale": 1.0,
+       "rot": -10,
+       "anim": "drop"
+      },
+      {
+       "kind": "tag",
+       "x": 580,
+       "y": 1330,
+       "scale": 1.0,
+       "rot": 12,
+       "anim": "drop"
+      },
+      {
+       "kind": "tag",
+       "x": 540,
+       "y": 1260,
+       "scale": 1.0,
+       "rot": -4,
+       "anim": "drop"
+      },
+      {
+       "kind": "tag",
+       "x": 620,
+       "y": 1270,
+       "scale": 1.0,
+       "rot": 20,
+       "anim": "drop"
+      },
+      {
+       "kind": "tag",
+       "x": 560,
+       "y": 1190,
+       "scale": 1.0,
+       "rot": 5,
+       "anim": "drop",
+       "label": "Eleventh manager"
+      }
+     ],
+     "sfx": {
+      "text": "THUD",
+      "x": 540,
+      "y": 420,
+      "r": 100
+     }
+    }
+   ]
+  },
+  "s04": {
+   "type": "NEWS",
+   "name": "CF Montreal",
+   "fact": "finished last in the East",
+   "ticker": "Six wins, 34 games",
+   "icons": [
+    "chart-down",
+    "star",
+    "ball"
+   ],
+   "role": "coach",
+   "actor": "coach1"
+  },
+  "s05": {
+   "type": "COMIC",
+   "bg": "street",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "saputo",
+       "x": 250,
+       "y": 1440,
+       "pose": "present",
+       "emote": "sweat",
+       "scale": 1.35
+      }
+     ],
+     "props": [
+      {
+       "kind": "goal",
+       "x": 700,
+       "y": 930,
+       "scale": 1.9,
+       "rot": -8,
+       "layer": "back"
+      },
+      {
+       "kind": "suitcase",
+       "x": 560,
+       "y": 1310,
+       "scale": 2.3
+      },
+      {
+       "kind": "flag",
+       "x": 700,
+       "y": 760,
+       "scale": 0.8
+      },
+      {
+       "kind": "tag",
+       "x": 680,
+       "y": 1230,
+       "scale": 0.9,
+       "rot": 15
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.42,
+     "actors": [
+      {
+       "id": "saputo",
+       "x": 430,
+       "y": 1330,
+       "pose": "sit",
+       "emote": "sweat",
+       "scale": 1.35
+      }
+     ],
+     "props": [
+      {
+       "kind": "goal",
+       "x": 700,
+       "y": 930,
+       "scale": 1.9,
+       "rot": -16,
+       "layer": "back"
+      },
+      {
+       "kind": "suitcase",
+       "x": 560,
+       "y": 1310,
+       "scale": 2.3
+      },
+      {
+       "kind": "flag",
+       "x": 700,
+       "y": 740,
+       "scale": 0.8
+      },
+      {
+       "kind": "tag",
+       "x": 680,
+       "y": 1230,
+       "scale": 0.9,
+       "rot": 15
+      }
+     ],
+     "cam": "push"
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.42,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "saputo",
+       "x": 430,
+       "y": 1330,
+       "pose": "sit",
+       "emote": "angry-cheeky",
+       "scale": 1.35
+      }
+     ],
+     "props": [
+      {
+       "kind": "goal",
+       "x": 700,
+       "y": 930,
+       "scale": 1.9,
+       "rot": -16,
+       "layer": "back"
+      },
+      {
+       "kind": "suitcase",
+       "x": 560,
+       "y": 1310,
+       "scale": 2.3
+      },
+      {
+       "kind": "flag",
+       "x": 700,
+       "y": 740,
+       "scale": 0.8
+      },
+      {
+       "kind": "tag",
+       "x": 680,
+       "y": 1230,
+       "scale": 0.9,
+       "rot": 15
+      }
+     ],
+     "sfx": {
+      "text": "CLANG",
+      "x": 880,
+      "y": 420,
+      "r": 90
+     }
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "saputo",
+       "x": 520,
+       "y": 1440,
+       "pose": "lean",
+       "emote": "shock",
+       "scale": 1.35
+      }
+     ],
+     "props": [
+      {
+       "kind": "goal",
+       "x": 820,
+       "y": 930,
+       "scale": 1.9,
+       "rot": -16,
+       "layer": "back"
+      },
+      {
+       "kind": "suitcase",
+       "x": 780,
+       "y": 1310,
+       "scale": 2.3
+      },
+      {
+       "kind": "flag",
+       "x": 820,
+       "y": 740,
+       "scale": 0.8
+      },
+      {
+       "kind": "tag",
+       "x": 900,
+       "y": 1230,
+       "scale": 0.9,
+       "rot": 15
+      },
+      {
+       "kind": "ball",
+       "x": 690,
+       "y": 1430,
+       "scale": 0.6,
+       "anim": "spin"
+      },
+      {
+       "kind": "ball",
+       "x": 870,
+       "y": 1430,
+       "scale": 0.6,
+       "anim": "spin"
+      }
+     ],
+     "fx": [
+      {
+       "kind": "speed",
+       "x": 500,
+       "y": 1150
+      }
+     ],
+     "sfx": {
+      "text": "WHOOSH",
+      "x": 300,
+      "y": 480,
+      "r": 90
+     }
+    }
+   ]
+  },
+  "s06": {
+   "type": "PROVOC",
+   "q": "Local buyer or relocation offer?",
+   "a": "Local buyer",
+   "b": "Relocation",
+   "split": [
+    68,
+    32
+   ],
+   "mood": "cheeky"
+  },
+  "s07": {
+   "type": "INTERVIEW",
+   "label": "REPORTER ASKS",
+   "bubble": "Is there a price yet?",
+   "answer": {
+    "icon": "tag",
+    "gesture": "shrug"
+   },
+   "subject": "Joey Saputo",
+   "subject_cast": "saputo"
+  },
+  "s08": {
+   "type": "STATS",
+   "items": [
+    {
+     "icon": "clipboard",
+     "value": "11",
+     "label": "eleven managers"
+    },
+    {
+     "icon": "tag",
+     "value": "1",
+     "label": "for-sale sign"
+    },
+    {
+     "icon": "calendar",
+     "value": "34",
+     "label": "years of ownership"
+    }
+   ]
+  }
+ }
+}

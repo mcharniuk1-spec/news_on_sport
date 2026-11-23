@@ -1,0 +1,87 @@
+{
+ "no": 41,
+ "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/041_crystal_palace_s_adam_wharton_sent_o.mp4",
+ "total": 45.06666666666667,
+ "outro_start": 37.52,
+ "cover": true,
+ "seq": [
+  {
+   "id": "s01",
+   "kind": "HOOK",
+   "start": 0.1,
+   "end": 1.6,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/041/s01.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s02",
+   "kind": "COMIC1",
+   "start": 3.3333333333333335,
+   "end": 5.833333333333333,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/041/s02.mp4",
+   "clip_dur": 2.5,
+   "frames": 60
+  },
+  {
+   "id": "s03",
+   "kind": "NEWS",
+   "start": 8.933333333333334,
+   "end": 10.933333333333334,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/041/s03.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s04",
+   "kind": "COMIC2",
+   "start": 15.166666666666666,
+   "end": 17.933333333333334,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/041/s04.mp4",
+   "clip_dur": 2.766,
+   "frames": 66
+  },
+  {
+   "id": "s05",
+   "kind": "STATS",
+   "start": 23.533333333333335,
+   "end": 25.033333333333335,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/041/s05.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s06",
+   "kind": "PROVOC",
+   "start": 27.266666666666666,
+   "end": 28.766666666666666,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/041/s06.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s07",
+   "kind": "INTERVIEW",
+   "start": 31.566666666666666,
+   "end": 33.333333333333336,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/041/s07.mp4",
+   "clip_dur": 1.767,
+   "frames": 42
+  }
+ ],
+ "missing": [],
+ "dropped": [],
+ "cards": [],
+ "caption_sprites": 95,
+ "whoosh": [
+  0.0,
+  3.2333333333333334,
+  8.833333333333334,
+  15.066666666666666,
+  23.433333333333334,
+  27.166666666666664,
+  31.466666666666665,
+  37.42
+ ],
+ "shots": 13
+}

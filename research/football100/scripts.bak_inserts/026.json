@@ -1,0 +1,82 @@
+{
+  "no": 26,
+  "subject": "Ronaldinho",
+  "title": "Ronaldinho: free kicks, red cards and 2005",
+  "voice": "EL_C",
+  "comic": false,
+  "style": null,
+  "lines": [
+    {
+      "vo": "A free kick over Seaman, then a red card seven minutes later.",
+      "card": "Seven minutes",
+      "sfx": null,
+      "footage": "Ronaldinho free kick England 2002 World Cup, clean broadcast feed or fan upload"
+    },
+    {
+      "vo": "A career full of plot twists.",
+      "card": "Highlight reel",
+      "sfx": null,
+      "footage": "Ronaldinho skills montage, Barcelona era, no logos"
+    },
+    {
+      "vo": "In 2002, against England, he scored a forty-yard free kick past Seaman.",
+      "card": "Forty yards, 2002",
+      "sfx": "crowd roar",
+      "footage": "2002 World Cup quarter-final, Ronaldinho free kick, slow motion"
+    },
+    {
+      "vo": "Seven minutes later he was sent off. Hero to early bath, instantly.",
+      "card": "Sent off",
+      "sfx": "referee whistle",
+      "footage": "Ronaldinho red card moment, 2002 World Cup, referee shows card"
+    },
+    {
+      "vo": "In 2005 he won the Ballon d'Or and FIFA's World Player again.",
+      "card": "Ballon d'Or 2005",
+      "sfx": null,
+      "footage": "Ronaldinho Ballon d'Or 2005 ceremony, clean award shot"
+    },
+    {
+      "vo": "At the Bernabéu he scored twice. Real Madrid fans applauded. The enemy clapped.",
+      "card": "Applause at the Bernabéu",
+      "sfx": "crowd applause",
+      "footage": "Ronaldinho Bernabéu 2005 goals, stadium applause, clean feed"
+    },
+    {
+      "vo": "Then Fluminense, 2015: nine official games, no goals, no assists.",
+      "card": "Nine games, zero goals",
+      "sfx": "record scratch",
+      "footage": "Ronaldinho Fluminense 2015 match, bench or warm-up shot"
+    },
+    {
+      "vo": "In the 2013 Copa Libertadores he made eight assists. At Fluminense, none.",
+      "card": "Eight assists, none",
+      "sfx": null,
+      "footage": "Ronaldinho Atletico Mineiro 2013 Libertadores highlights, assist or pass"
+    },
+    {
+      "vo": "Your mates will never guess this. News, betting tips and predictions at aboutfootball dot UK.",
+      "card": "aboutfootball.UK",
+      "sfx": null,
+      "footage": "Closing card with site name, no footage"
+    }
+  ],
+  "chars": 599,
+  "est_seconds": 35,
+  "footage_terms": [
+    "Ronaldinho free kick England 2002 World Cup",
+    "Ronaldinho Bernabeu 2005 goals",
+    "Ronaldinho Ballon d'Or 2005 ceremony",
+    "Ronaldinho Atletico Mineiro Libertadores 2013 highlights"
+  ],
+  "inserts": [],
+  "facts_used": [
+    "2002 World Cup quarter-final v England: 40-yard free kick past Seaman; sent off seven minutes later for a foul on Danny Mills - https://en.wikipedia.org/wiki/Ronaldinho",
+    "Ballon d'Or 2005; FIFA World Player of the Year 2004 and 2005 - https://en.wikipedia.org/wiki/Ronaldinho",
+    "19 Nov 2005 at the Bernabeu: two goals in a 3-0 win; Real Madrid fans applauded - https://en.wikipedia.org/wiki/Ronaldinho",
+    "Fluminense 2015: 80 days, nine official matches, no goals or assists - https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-italiano/ronaldinho-gaucho-volta-a-jogar-futebol-profissionalmente-apos-11-anos",
+    "2013 Copa Libertadores with Atletico Mineiro: 4 goals, 8 assists - https://en.wikipedia.org/wiki/Ronaldinho"
+  ],
+  "comic_score": 5,
+  "notes": "Non-comic, so no inserts (allowed 0-1). Fluminense line is a sporting record, not a body or personal joke. The 'party reputation' and Ancelotti fitness remarks are left out on purpose. The 2002 red card is a sporting fact (foul on Danny Mills). 'Early bath' is a joke on the red card, not a claim about the incident. Footage terms are search phrases only; watermark risk is high on broadcaster clips. The 2013 assists are now named as Atletico Mineiro, not Fluminense."
+}

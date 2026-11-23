@@ -1,0 +1,699 @@
+{
+  "name": "Ousmane Dembele",
+  "years": "Ballon d'Or: 2025",
+  "research_meta": {
+    "as_of": "2026-11-20",
+    "window_for_recent_news": "2026-08-22 to 2026-11-20 (90 days); two earlier items (12 and 16 Aug 2026) are marked as just outside the window",
+    "recent_news_count": 15,
+    "recent_news_inside_90_days": 13,
+    "method_note": "WebSearch budget was exhausted before any search ran, so no discovery search was possible. Facts come from direct page fetches: English and French Wikipedia (several 2026-27 pages, last edited up to 19 Nov 2026), plus ESPN, Al Jazeera, TheScore, UNFP and Soccerbase pages. BBC, Guardian, L'Equipe, Le Figaro, Reuters and Transfermarkt were blocked or empty in the fetch tool, so those outlets are cited only through Wikipedia references (not read directly). Most Dembele-specific match details (starts, subs, injuries, reasons for absences) could not be confirmed. Nothing was found about interviews, sponsors, business, social-media moments or contract news in the window: that is a research gap, not proof that nothing happened.",
+    "gaps": [
+      "No primary-press article read directly for Aug-Nov 2026 (blocked domains); match facts rest on Wikipedia and Soccerbase.",
+      "Reason for Dembele's absences from several PSG matches (e.g. Lille 28 Aug, Le Mans 10 Oct) is undocumented in what was read. Do not speculate on air.",
+      "Dembele's involvement in PSG v Villarreal (3 Nov), PSG v Troyes (7 Nov) and France v Italy (12 Nov) is unknown.",
+      "Direct YouTube video links could not be verified; viral_moments carry YouTube search links only.",
+      "Current look (hair/beard) not verified from recent photos.",
+      "No data after about 19 Nov 2026 (Nice away on 21 Nov has not been played)."
+    ]
+  },
+  "recent_news": [
+    {
+      "date": "2026-08-12",
+      "headline": "PSG win a second straight UEFA Super Cup 2-1 against Aston Villa; Dembele comes on at half-time and sets up Doue's winner",
+      "facts": [
+        "Match in Salzburg: Kvaratskhelia 20', Doue 61' for PSG; 17-year-old Madjo scored for Villa.",
+        "Dembele was a substitute at 46' and is credited with the pass for Doue's winning goal.",
+        "French Wikipedia counts it as his 22nd career trophy."
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/2026_UEFA_Super_Cup",
+      "source_domain": "en.wikipedia.org",
+      "tone": "praise",
+      "sensitive": false,
+      "note": "About 100 days old, just outside the 90-day window. Kept because it opens his season. Second source for the 'came on at half-time, assisted' detail: fr.wikipedia.org/wiki/Ousmane_Demb%C3%A9l%C3%A9."
+    },
+    {
+      "date": "2026-08-16",
+      "headline": "Lens beat PSG 1-0 to win the Trophee des Champions; Dembele only a 60th-minute substitute",
+      "facts": [
+        "Florian Thauvin scored on 32'; it was Lens' first Trophee des Champions.",
+        "Lens had a player sent off on 39' and still won; PSG's Nuno Mendes was sent off on 87'.",
+        "Dembele came on in the 60th minute; his contribution is not described."
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/2026_Troph%C3%A9e_des_Champions",
+      "source_domain": "en.wikipedia.org",
+      "tone": "roast",
+      "sensitive": false,
+      "note": "About 96 days old, just outside the window. Kept as context for the shaky start."
+    },
+    {
+      "date": "2026-08-31",
+      "headline": "PSG sell Barcola to Liverpool and sign Torres, Godts and Akliouche: Dembele's wing now crowded",
+      "facts": [
+        "Barcola left for Liverpool on 31 Aug; Wikipedia lists the fee as 125 million euros (fee tables disagree between pages).",
+        "Arrivals in August: Akliouche (6 Aug), Torres from Barcelona (15 Aug), Godts from Ajax (15 Aug), plus Digne (9 Aug).",
+        "Ramos went to Milan and Kolo Muani to Juventus earlier in the summer."
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Paris_Saint-Germain_FC_season",
+      "source_domain": "en.wikipedia.org",
+      "tone": "neutral",
+      "sensitive": false,
+      "note": "Fees are inconsistent between Wikipedia pages (French page warns about this). Use names and the fact of the moves, not exact fees, on air. 'Crowded wing' is an inference."
+    },
+    {
+      "date": "2026-09-04",
+      "headline": "Reigning European champions PSG start Ligue 1 with two 2-2 draws, then lose 1-2 at home to Monaco",
+      "facts": [
+        "Draws at Rennes (23 Aug) and Lille (28 Aug), both 2-2, then Monaco 2-1 at the Parc (4 Sep, Marquinhos scored).",
+        "It is PSG's only league defeat in the first ten matches.",
+        "Soccerbase lists Dembele as appearing at Rennes and Monaco but not at Lille."
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Paris_Saint-Germain_FC_season",
+      "source_domain": "en.wikipedia.org",
+      "tone": "roast",
+      "sensitive": false,
+      "note": "Why he is not listed at Lille is not documented. Do not guess."
+    },
+    {
+      "date": "2026-09-08",
+      "headline": "Dembele named among the 30 nominees for the 2026 Ballon d'Or as the holder",
+      "facts": [
+        "The 30-man list was published on 8 September 2026.",
+        "He is listed as a PSG forward alongside teammates Kvaratskhelia and Fabian Ruiz.",
+        "The 2026 award covered 3 Aug 2025 to 19 Jul 2026."
+      ],
+      "source_url": "https://fr.wikipedia.org/wiki/Ousmane_Demb%C3%A9l%C3%A9",
+      "source_domain": "fr.wikipedia.org",
+      "tone": "neutral",
+      "sensitive": false,
+      "note": "Nominee list date taken from French Wikipedia only."
+    },
+    {
+      "date": "2026-09-09",
+      "headline": "Dembele scores twice in 17 minutes as PSG hammer Slovan Bratislava 6-1 in the Champions League opener",
+      "facts": [
+        "Goals at 17' and 23'; Torres scored a hat-trick (31', 47', 57') and Fabian added a sixth.",
+        "Slovan's only goal came from Su. Camara at 59'.",
+        "It was PSG's first match in the new league phase."
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Paris_Saint-Germain_FC_season",
+      "source_domain": "en.wikipedia.org",
+      "tone": "praise",
+      "sensitive": false,
+      "note": "Second source: fr.wikipedia.org/wiki/Saison_2026-2027_du_Paris_Saint-Germain (17' and 23')."
+    },
+    {
+      "date": "2026-09-18",
+      "headline": "New France coach Zidane names Dembele for the Nations League; he starts as striker in the 1-0 win at Turkey on 25 Sep",
+      "facts": [
+        "Zinedine Zidane succeeded Didier Deschamps as France coach in 2026 and named the squad on 18 September.",
+        "Dembele started as a striker in the 1-0 opener in Turkey (25 Sep); Mbappe scored on 54'.",
+        "France went on to top the group with 13 points (4 wins, 1 draw, 1 loss) by 15 Nov."
+      ],
+      "source_url": "https://fr.wikipedia.org/wiki/Ousmane_Demb%C3%A9l%C3%A9",
+      "source_domain": "fr.wikipedia.org",
+      "tone": "neutral",
+      "sensitive": false,
+      "note": "Zidane as coach: French Wikipedia and the English Zidane/France pages agree. Scorer and group table: en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Nations_League_A."
+    },
+    {
+      "date": "2026-10-14",
+      "headline": "Dembele scores in the 15th minute as PSG win 4-2 at Manchester City",
+      "facts": [
+        "Doue opened at 13', Dembele made it 2-0 at 15', Vitinha added the third on 32'.",
+        "Haaland scored twice for City (53', 75'); Akliouche made it 4-1 at 63' (his goal came before Haaland's second, which made it 4-2)."
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Paris_Saint-Germain_FC_season",
+      "source_domain": "en.wikipedia.org",
+      "tone": "praise",
+      "sensitive": false,
+      "note": "Minutes confirmed on the English and French Wikipedia season pages (both give Akliouche 63'). Earlier draft said Akliouche 'made it 4-2' (wrong: it was 4-1) and mentioned Safonov's saves (not supported by any source read; removed). English page also lists a 90' Torres entry that looks like an artefact; ignore."
+    },
+    {
+      "date": "2026-10-17",
+      "headline": "At Strasbourg Dembele misses a penalty, then sets up the equaliser and scores the winner in a 3-1 win",
+      "facts": [
+        "Strasbourg led through Reyna (17'); Zabarnyi equalised on 77' from Dembele's pass, Dembele scored on 85', and Doue added the third at 90+3'.",
+        "French Wikipedia says he missed a penalty before the equaliser and gives him the assist for Zabarnyi's goal; it names no passer for his own goal or for Doue's goal.",
+        "Final score Strasbourg 1-3 PSG, matchday 7."
+      ],
+      "source_url": "https://fr.wikipedia.org/wiki/Saison_2026-2027_du_Paris_Saint-Germain",
+      "source_domain": "fr.wikipedia.org",
+      "tone": "roast",
+      "sensitive": false,
+      "note": "Score and goal minutes confirmed by two pages. The missed penalty and the Zabarnyi assist rest on French Wikipedia only (medium confidence). The earlier claim of a second assist (for Doue) was not supported and was removed."
+    },
+    {
+      "date": "2026-10-20",
+      "headline": "PSG beat Dembele's old club Barcelona 4-2 in the Champions League; Dembele listed as playing but does not score",
+      "facts": [
+        "Doue 38', Lucas Hernandez 72', Vitinha 81', Fabian Ruiz 86' for PSG; Espart (55') and Yamal (79') scored for Barca.",
+        "It was Barcelona's first defeat in an official competition this season (they lost a friendly to Udinese on 8 Aug; their next loss was the Clasico on 25 Oct), per the French Barcelona season page.",
+        "Torres, who scored 3 vs Slovan, is a former Barcelona player who joined PSG this summer."
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Paris_Saint-Germain_FC_season",
+      "source_domain": "en.wikipedia.org",
+      "tone": "praise",
+      "sensitive": false,
+      "note": "Dembele's presence rests on Soccerbase's match list (https://www.soccerbase.com/players/player.sd?player_id=88995&season_id=159) and the English page's squad table (3 CL apps, 3 goals). Starter/sub and minutes unknown. Do not say he played the whole game. Do not say 'first defeat of the season' without 'official'."
+    },
+    {
+      "date": "2026-10-26",
+      "headline": "Defending champion Dembele finishes 7th in the 2026 Ballon d'Or won by Harry Kane",
+      "facts": [
+        "Ceremony at the London Palladium on 26 Oct 2026; Kane 1,055 points, Mbappe 1,027, Yamal 881.",
+        "Dembele took 418 points; teammate Kvaratskhelia was 6th with 541 and Fabian Ruiz 10th.",
+        "It was the first ceremony held outside France or Switzerland."
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/2026_Ballon_d%27Or",
+      "source_domain": "en.wikipedia.org",
+      "tone": "roast",
+      "sensitive": false,
+      "note": "Placing confirmed by both English and French Wikipedia."
+    },
+    {
+      "date": "2026-10-30",
+      "headline": "PSG beat Lyon 2-0, then win 5-1 at Le Havre with a Hakimi hat-trick",
+      "facts": [
+        "PSG beat Lyon 2-0 on 26 Oct (Mayulu 72', Godts 84').",
+        "Hakimi scored a hat-trick (28', 55', 69') in the 5-1 win at Le Havre on 30 Oct.",
+        "Dembele is not mentioned in either match report that was read."
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Ligue_1",
+      "source_domain": "en.wikipedia.org",
+      "tone": "neutral",
+      "sensitive": false,
+      "note": "Use only as team context. His absence or presence is unknown. The earlier claim that PSG 'moved top of the table for the first time' after Lyon is unsupported and was removed; the only confirmed fact is that PSG were first after 10 matchdays (8 Nov)."
+    },
+    {
+      "date": "2026-11-03",
+      "headline": "PSG win 6-0 at Villarreal; four wins from four in the Champions League",
+      "facts": [
+        "Scorers: Neves 9', Doue 12', Mayulu 13', Fabian 17' and 50', Boly 78'.",
+        "PSG have 12 points, 20 goals scored and 5 conceded after four league-phase games, and are already through as a seeded team.",
+        "Dembele is not among the scorers."
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Paris_Saint-Germain_FC_season",
+      "source_domain": "en.wikipedia.org",
+      "tone": "neutral",
+      "sensitive": false,
+      "note": "Qualification as a seeded team is from the CL league-phase page (en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Champions_League_league_phase). Dembele's involvement unknown."
+    },
+    {
+      "date": "2026-11-07",
+      "headline": "PSG edge Troyes 1-0 to lead Ligue 1 with 23 points after ten games",
+      "facts": [
+        "Zabarnyi scored on 39'.",
+        "Table (8 Nov): PSG 23 points (7W 2D 1L, +12), Lille 21, Paris FC 20, Marseille 18, Lyon 17.",
+        "Next: Nice away on 21 Nov; Roma at home in the Champions League on 25 Nov; Intercontinental Cup final on 16 Dec in Qatar."
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Ligue_1",
+      "source_domain": "en.wikipedia.org",
+      "tone": "neutral",
+      "sensitive": false,
+      "note": "Standings dated 8 Nov. Dembele's involvement unknown."
+    },
+    {
+      "date": "2026-11-12",
+      "headline": "France lose 3-1 at Italy in Milan in the Nations League; Olise scores the only goal",
+      "facts": [
+        "Pio Esposito scored twice (26', 75' pen.) and Frattesi once; Olise scored for France on 10'.",
+        "Attendance 71,452 at San Siro.",
+        "France still won the group on 13 points after beating Turkey 2-1 in Bordeaux on 15 Nov."
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Nations_League_A",
+      "source_domain": "en.wikipedia.org",
+      "tone": "neutral",
+      "sensitive": false,
+      "note": "Whether Dembele was in the squad or played is not documented in what was read."
+    }
+  ],
+  "now": {
+    "as_of": "2026-11-20",
+    "club_or_role": "Paris Saint-Germain forward, shirt number 10, under Luis Enrique. Marquinhos is club captain; the English Wikipedia season page lists Hakimi, Vitinha and Dembele as the three vice-captains (French page names the captain only). With France he plays under new coach Zinedine Zidane (in post since July 2026 per English Wikipedia).",
+    "contract": "Signed 12 Aug 2023 for 50.4 million euros; contract runs to June 2028 (English Wikipedia).",
+    "season_numbers": [
+      "2026-27 club stats as of about 20 Oct 2026 (English Wikipedia squad table; Soccerbase gives the same 4 goals): 10 appearances, 4 goals (Ligue 1: 3 starts + 2 sub apps, 1 goal; Champions League: 3 apps, 3 goals; Super Cup and Trophee des Champions: one sub app each, 0 goals). Not updated for matches after about 20 Oct.",
+      "PSG: first in Ligue 1 after 10 matchdays with 23 points (7W 2D 1L, 22 scored, 10 conceded); 4 wins from 4 in the Champions League with 12 points.",
+      "Next games: Nice away 21 Nov, Lorient home 28 Nov, Roma home 25 Nov in the Champions League, Intercontinental Cup final 16 Dec in Qatar.",
+      "France: won Nations League Group A1 with 13 points; finished fourth at the 2026 World Cup."
+    ],
+    "what_people_say": [
+      "He finished 7th in the 2026 Ballon d'Or (418 points), behind teammate Kvaratskhelia (6th), Mbappe (2nd) and winner Harry Kane.",
+      "Last season he was Ligue 1 Player of the Year for the second straight year, with 10 goals and 6 assists in 9 league starts (960 minutes), per TheScore.",
+      "Mbappe has said Dembele is liked in every dressing room he has been in (French Wikipedia)."
+    ],
+    "gaps": "No verified information about his form beyond 20 Oct (goal count may have changed), the reasons for several absences, or any contract, business or media news."
+  },
+  "quick_context": [
+    "Dembele came through Rennes, Borussia Dortmund and Barcelona (three La Liga titles) before joining PSG on 12 Aug 2023 for 50.4 million euros.",
+    "In 2024-25 he scored 33 goals with 15 assists in 49 games, PSG beat Inter 5-0 in the Champions League final, and he won the Ballon d'Or on 22 Sep 2025.",
+    "In 2025-26 he was Ligue 1 Player of the Year again and scored the equalising penalty in the 30 May 2026 Champions League final, which PSG won 4-3 on penalties against Arsenal."
+  ],
+  "roast_past": [
+    {
+      "angle": "Dortmund 2017: sanctioned for missing training without a valid excuse, then moved to Barcelona for 105 million euros plus reported add-ons of about 40 million.",
+      "joke_seed": "Skipped training, got a 105 million raise. Attendance records are overrated.",
+      "source_url": "https://fr.wikipedia.org/wiki/Ousmane_Demb%C3%A9l%C3%A9",
+      "note": "Dortmund sanction: French Wikipedia (Aug 2017). Fee: English Wikipedia. French page calls it a missed session, not a strike. Do not call it a strike."
+    },
+    {
+      "angle": "Barcelona: listed as one of the club's most-fined players for disciplinary issues (credited to settling down after becoming a father).",
+      "joke_seed": "At Barca he paid more in fines than some players earned in bonuses. At PSG he pays in trophies.",
+      "source_url": "https://en.wikipedia.org/wiki/Ousmane_Demb%C3%A9l%C3%A9",
+      "note": "Fines: English Wikipedia. The earlier 'lifestyle habits criticism' attributed to French Wikipedia was not found and was removed. Keep it to fines."
+    },
+    {
+      "angle": "Price tag: 105 million euros for Barcelona in 2017, then sold to PSG for 50.4 million in 2023 after 185 games and 40 goals.",
+      "joke_seed": "About 2.6 million euros of the base fee per Barcelona goal, then the price was cut in half and the goals kept coming.",
+      "source_url": "https://en.wikipedia.org/wiki/Ousmane_Demb%C3%A9l%C3%A9",
+      "note": "105 / 40 = 2.6 is our own arithmetic on the base fee only. Do not quote it as a record."
+    },
+    {
+      "angle": "Rennes coaches worked to cut his individualism and excessive dribbling.",
+      "joke_seed": "Rennes spent years teaching him to pass. He still tries to dribble past the pass.",
+      "source_url": "https://fr.wikipedia.org/wiki/Ousmane_Demb%C3%A9l%C3%A9",
+      "note": "French Wikipedia. Gentle tease only."
+    },
+    {
+      "angle": "A 2016 post-match interview about which foot he prefers drew attention online; he later said he shoots with the right and dribbles with the left.",
+      "joke_seed": "Asked which foot is his best, he answered like a man who owns both of them.",
+      "source_url": "https://fr.wikipedia.org/wiki/Ousmane_Demb%C3%A9l%C3%A9",
+      "note": "Exact quote not verified; do not put words in his mouth."
+    },
+    {
+      "angle": "He took the number 10 shirt at PSG after Neymar left in 2023.",
+      "joke_seed": "Inherited Neymar's number, and then actually won the Ballon d'Or in it.",
+      "source_url": "https://en.wikipedia.org/wiki/Ousmane_Demb%C3%A9l%C3%A9",
+      "note": "Number 10 and the 2023 handover: English Wikipedia. Keep the joke on trophies, not on Neymar."
+    },
+    {
+      "angle": "Sent off for dissent in October 2019 while at Barcelona.",
+      "joke_seed": "He has been told off by referees in at least two languages.",
+      "source_url": "https://en.wikipedia.org/wiki/Ousmane_Demb%C3%A9l%C3%A9",
+      "note": "Single-source, minor. Optional. The joke about languages is a stretch and can be cut."
+    }
+  ],
+  "roast_now": [
+    {
+      "angle": "Defending Ballon d'Or winner finished 7th in 2026 with 418 points, behind teammate Kvaratskhelia (6th) and below Kane, Mbappe, Yamal, Rodri and Messi.",
+      "joke_seed": "From the golden ball to seventh place in 13 months. Even Messi at Inter Miami beat him.",
+      "source_url": "https://en.wikipedia.org/wiki/2026_Ballon_d%27Or",
+      "note": "Ranking: confirmed on two pages. Messi's 5th place is on the same list. Tone: friendly; he still scored 10 league goals in a part-time season."
+    },
+    {
+      "angle": "Missed a penalty at Strasbourg on 17 Oct, then set up the equaliser and scored the winner.",
+      "joke_seed": "Missed the penalty, then set up one and scored one. Maybe the penalty was a warm-up.",
+      "source_url": "https://fr.wikipedia.org/wiki/Saison_2026-2027_du_Paris_Saint-Germain",
+      "note": "Missed penalty and the assist: single source (French Wikipedia). Confirm with a match report before airing. He scored the equalising penalty in the 2026 CL final, so avoid implying he cannot take penalties."
+    },
+    {
+      "angle": "Came on after 60 minutes of the Trophee des Champions against ten-man Lens, and PSG still lost 1-0.",
+      "joke_seed": "Lens played most of the game with ten men and still got their first trophy. Thanks for the gift, Paris.",
+      "source_url": "https://en.wikipedia.org/wiki/2026_Troph%C3%A9e_des_Champions",
+      "note": "Lens red card on 39' (before the end of the first half), Lens won 1-0. Dembele's own contribution unknown. Tease the team, not him alone."
+    },
+    {
+      "angle": "PSG spent big on wingers and forwards (Torres, Godts, Akliouche) while selling Barcola.",
+      "joke_seed": "Club bought three attackers in August. The Ballon d'Or holder now has colleagues to share the wing with.",
+      "source_url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Paris_Saint-Germain_FC_season",
+      "note": "Interpretation. Never link to his injuries or minutes. He is a regular scorer in the Champions League (3 goals in 3 games)."
+    },
+    {
+      "angle": "France conceded six goals against England in the third-place match and finished fourth at the World Cup, even though he scored.",
+      "joke_seed": "He came off the bench, scored, and France still lost 6-4. At least he did his half of the job.",
+      "source_url": "https://fr.wikipedia.org/wiki/Ousmane_Demb%C3%A9l%C3%A9",
+      "note": "France lost 4-6 to England in the third-place match; he came on in the second half and scored France's fourth goal (French Wikipedia; English Wikipedia confirms he scored). Reuters headline confirms 6-4 (not read). The earlier note 'after trailing 4-0' was unsupported and was removed."
+    },
+    {
+      "angle": "Won Ligue 1 Player of the Year with only 9 league starts and 960 minutes.",
+      "joke_seed": "Player of the Year on a part-time contract. Efficient. Maybe the other guys should try working less.",
+      "source_url": "https://www.thescore.com/fra_fed/news/3539245",
+      "note": "CAUTION: the article ties the low minutes to injuries. Use only as praise or 'efficiency' with no reference to why. Treated as sensitive-adjacent."
+    },
+    {
+      "angle": "Reigning European champions started Ligue 1 with two draws and a home loss to Monaco.",
+      "joke_seed": "Champions of Europe opened the league season with a draw, another draw and a home loss. The trophy cabinet needed a month to warm up.",
+      "source_url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Paris_Saint-Germain_FC_season",
+      "note": "Do not claim a league position for the first month. The only certain fact is the results. PSG are first now."
+    }
+  ],
+  "praise": [
+    {
+      "angle": "Hat-trick in 25 minutes at the World Cup: goals on 7', 20' and 32' against Norway on 26 June 2026; first first-half hat-trick at a World Cup since Oleg Salenko in 1994; third Frenchman with a World Cup hat-trick after Just Fontaine and Mbappe.",
+      "number": "3 goals, 7th/20th/32nd minute",
+      "source_url": "https://www.espn.com/soccer/story/_/id/49189907/ousmane-dembele-first-half-hat-trick-france",
+      "second_source_url": "https://www.aljazeera.com/sports/2026/6/26/dembele-scores-hat-trick-as-france-beat-norway-4-1-at-world-cup-2026"
+    },
+    {
+      "angle": "Scored the equalising penalty in the Champions League final on 30 May 2026 (1-1 with Arsenal, PSG won 4-3 on penalties).",
+      "number": "1-1 after extra time; 4-3 on penalties",
+      "source_url": "https://en.wikipedia.org/wiki/Ousmane_Demb%C3%A9l%C3%A9"
+    },
+    {
+      "angle": "2024-25 Ballon d'Or season: 33 goals and 15 assists in 49 games, two assists in the 5-0 Champions League final against Inter.",
+      "number": "33 goals, 15 assists, 49 games",
+      "source_url": "https://en.wikipedia.org/wiki/Ousmane_Demb%C3%A9l%C3%A9"
+    },
+    {
+      "angle": "Ligue 1 Player of the Year twice in a row (fifth player ever to do so) and winner of the UNFP Just Fontaine Trophy for best goal on 11 May 2026.",
+      "number": "2 awards on one night; back-to-back player award",
+      "source_url": "https://www.unfp.org/2026/05/dembele-voit-double-au-coeur-dun-palmares-bigarre/",
+      "second_source_url": "https://www.thescore.com/fra_fed/news/3539245"
+    },
+    {
+      "angle": "Slovan Bratislava brace (17', 23') and Manchester City goal (15'): three goals in his first three 2026-27 Champions League games.",
+      "number": "3 goals in 3 CL appearances",
+      "source_url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Paris_Saint-Germain_FC_season"
+    },
+    {
+      "angle": "Strasbourg on 17 Oct: an assist for the 77' equaliser and the 85' winner in a 3-1 win.",
+      "number": "1 goal + 1 assist, 77' to 85'",
+      "source_url": "https://fr.wikipedia.org/wiki/Saison_2026-2027_du_Paris_Saint-Germain",
+      "note": "Single source for the assist (French Wikipedia, medium confidence). Earlier text said two assists; the Doue assist is unsupported."
+    }
+  ],
+  "no_joke_topics": [
+    "Injuries and health, including every past hamstring, thigh and calf injury (hamstring tear Feb 2020, tendon rupture and surgery at Euro 2020 in June 2021, hamstring and calf issues in 2025) and any current absence. The reason for his missing matches in Aug-Oct 2026 is unknown, so do not speculate.",
+    "His low minutes or number of league starts in 2025-26 as a joke about fitness. Only as a neutral or praise 'efficiency' fact.",
+    "Family: his wife and daughter (married 2021, daughter born Sept 2022 per English Wikipedia).",
+    "Religion: he is Muslim and observes Ramadan.",
+    "The July 2021 hotel video with racist remarks about Japanese technicians: do not joke, do not reference.",
+    "Deschamps missing a France match to attend his mother's funeral (June 2026), and the death of Brest coach Eric Roy (June 2026): family and death.",
+    "Doping, legal issues, war: nothing found, but do not introduce them."
+  ],
+  "viral_moments": [
+    {
+      "title": "Rennes 2016: post-match interview about his preferred foot",
+      "why_provocative": "Went viral online in 2016 and still gets replayed; fits a joke about being two-footed and about his easy-going image.",
+      "youtube_link": "https://www.youtube.com/results?search_query=Dembele+interview+which+foot+Rennes+2016",
+      "link_status": "YouTube search link only; direct video not verified",
+      "timestamp": "unknown",
+      "source_url": "https://fr.wikipedia.org/wiki/Ousmane_Demb%C3%A9l%C3%A9",
+      "note": "Existence of the interview: French Wikipedia. Exact wording not verified."
+    },
+    {
+      "title": "World Cup 2026: post-match remarks after the Norway hat-trick (26 June 2026)",
+      "why_provocative": "ESPN reports him saying he preferred his performances against Iraq and Senegal because he was more influential; a modest line that works as a 'humble star' contrast.",
+      "youtube_link": "https://www.youtube.com/results?search_query=Dembele+hat-trick+Norway+France+interview+World+Cup+2026",
+      "link_status": "YouTube search link only; direct video not verified",
+      "timestamp": "unknown",
+      "source_url": "https://www.espn.com/soccer/story/_/id/49189907/ousmane-dembele-first-half-hat-trick-france",
+      "note": "Remark confirmed on ESPN (quote: he preferred his performances against Iraq and Senegal, 'much more influential'). Al Jazeera quotes him as saying France want to win every match."
+    },
+    {
+      "title": "Ballon d'Or 2025 acceptance speech, 22 September 2025, Paris",
+      "why_provocative": "Clip of the win itself (22 Sep 2025, Theatre du Chatelet, ahead of Yamal and Vitinha); good for the 'then vs now' roast after finishing 7th in 2026.",
+      "youtube_link": "https://www.youtube.com/results?search_query=Dembele+Ballon+d%27Or+2025+speech",
+      "link_status": "YouTube search link only; direct video not verified",
+      "timestamp": "unknown",
+      "source_url": "https://fr.wikipedia.org/wiki/Ousmane_Demb%C3%A9l%C3%A9",
+      "note": "Ceremony date, venue and top three confirmed on en.wikipedia.org/wiki/2025_Ballon_d%27Or. Speech content (thanking Rennes, teammates) is NOT verified; do not quote it."
+    },
+    {
+      "title": "UNFP trophies, 11 May 2026: 'all individual trophies are thanks to this team'",
+      "why_provocative": "Team-first line from the second-time Ligue 1 Player of the Year, good for a praise beat.",
+      "youtube_link": "https://www.youtube.com/results?search_query=Dembele+UNFP+2026+meilleur+joueur+Ligue+1+discours",
+      "link_status": "YouTube search link only; direct video not verified",
+      "timestamp": "unknown",
+      "source_url": "https://www.thescore.com/fra_fed/news/3539245"
+    }
+  ],
+  "footage_terms": [
+    {
+      "phrase": "Dembele hat-trick France Norway World Cup 2026 full highlights",
+      "watermark_risk": "high",
+      "note": "FIFA and broadcaster clips often carry broadcaster logos; fan uploads may carry burned-in subtitles."
+    },
+    {
+      "phrase": "Manchester City 2-4 PSG Dembele goal Champions League October 2026",
+      "watermark_risk": "high",
+      "note": "Broadcaster-owned; many re-uploads with mirrored frames and captions."
+    },
+    {
+      "phrase": "PSG Strasbourg 3-1 Dembele goal assist highlights",
+      "watermark_risk": "medium",
+      "note": "Ligue 1 official channels use a small corner logo; fan channels often add subtitles."
+    },
+    {
+      "phrase": "PSG Slovan Bratislava 6-1 highlights Dembele brace",
+      "watermark_risk": "medium",
+      "note": "Check for UEFA or broadcaster bugs."
+    },
+    {
+      "phrase": "Dembele penalty Arsenal Champions League final 2026 equaliser",
+      "watermark_risk": "high",
+      "note": "UEFA and broadcaster content, usually heavy branding."
+    },
+    {
+      "phrase": "Dembele Ballon d'Or 2025 ceremony speech",
+      "watermark_risk": "medium",
+      "note": "Official Ballon d'Or and L'Equipe clips carry logos; fan uploads add subtitles."
+    },
+    {
+      "phrase": "Dembele dribbling skills 2026 compilation no commentary",
+      "watermark_risk": "high",
+      "note": "Compilations usually have music, text overlays and watermarks."
+    },
+    {
+      "phrase": "Luis Enrique press conference Dembele PSG",
+      "watermark_risk": "low",
+      "note": "Club press-conference streams usually clean; check for burned-in subtitles."
+    },
+    {
+      "phrase": "Dembele training PSG 2026 Campus",
+      "watermark_risk": "low",
+      "note": "Club-owned training clips; usually only the club logo."
+    }
+  ],
+  "flipbook_ideas": [
+    "Ballon d'Or trophy sliding down a podium of steps as a small caricature Dembele holds on; the step it stops on is numbered 7. (2026 Ballon d'Or, 7th place.)",
+    "Stopwatch hat-trick: caricature kicks three balls into a net at 7, 20 and 32 on a clock face, then waves goodbye and walks off the pitch. (Norway hat-trick; he was subbed at 65'.)",
+    "Penalty ball flies off to the moon and returns as a gift-wrapped pass dropped into a teammate's boot. (Strasbourg, 17 Oct.)",
+    "Two-footed gag: a sign 'Which foot?' points to both boots at once and a tiny caricature shrugs. (2016 foot interview, current two-footed style.)",
+    "Wing-crowding cartoon: a bus labelled 'PSG wings' fills with newly signed forwards while Dembele waves from the roof with the trophy. (August signings; keep health and minutes out of it.)"
+  ],
+  "image_reference_notes": {
+    "verification_status": "Not verified from recent photos in this run. A reference-photo check is needed before generating caricatures.",
+    "signature_look": "Short dark hair and a trimmed beard are the long-standing look in most press photos; both feet and either flank are his playing style (English Wikipedia). Treat the beard length as 'recent photo check needed'.",
+    "current_look": "Unknown for Nov 2026. Do not specify beard shape, hair colour or hair pattern until a current photo is checked.",
+    "kit_colours": "PSG home: dark navy with red and white trim, shirt number 10. France: blue; shirt number at the 2026 World Cup NOT verified (earlier draft said 7; no source read confirms it).",
+    "expressions": "Not verified. Safe options: friendly grin, relaxed shrug, tongue-in-cheek concentration. Avoid any angry expression.",
+    "signature_pose": "Cutting inside from the right wing and shooting with either foot is the documented style (English and French Wikipedia). No documented celebration pose was found; do not invent one."
+  },
+  "claims": [
+    {
+      "claim": "Dembele joined PSG on 12 Aug 2023 for 50.4 million euros on a contract running to June 2028 and wears number 10.",
+      "source_url": "https://en.wikipedia.org/wiki/Ousmane_Demb%C3%A9l%C3%A9",
+      "confidence": "medium"
+    },
+    {
+      "claim": "2024-25: 33 goals and 15 assists in 49 appearances; PSG won the 2025 Champions League final 5-0 against Inter on 31 May 2025.",
+      "source_url": "https://en.wikipedia.org/wiki/Ousmane_Demb%C3%A9l%C3%A9",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He won the Ballon d'Or on 22 September 2025 ahead of Yamal and Vitinha.",
+      "source_url": "https://fr.wikipedia.org/wiki/Ousmane_Demb%C3%A9l%C3%A9",
+      "confidence": "high"
+    },
+    {
+      "claim": "Ligue 1 Player of the Year 2025-26 announced 11 May 2026, the fifth player to win it in consecutive years; 10 goals and 6 assists in 9 league starts (960 minutes).",
+      "source_url": "https://www.thescore.com/fra_fed/news/3539245",
+      "confidence": "high"
+    },
+    {
+      "claim": "He won the UNFP best-player trophy and the Just Fontaine best-goal trophy on 11 May 2026.",
+      "source_url": "https://www.unfp.org/2026/05/dembele-voit-double-au-coeur-dun-palmares-bigarre/",
+      "confidence": "high"
+    },
+    {
+      "claim": "He scored the equalising penalty in the 30 May 2026 Champions League final (1-1 with Arsenal, PSG won 4-3 on penalties).",
+      "source_url": "https://en.wikipedia.org/wiki/Ousmane_Demb%C3%A9l%C3%A9",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He scored 8 goals in 13 Champions League appearances in 2025-26.",
+      "source_url": "https://en.wikipedia.org/wiki/Ousmane_Demb%C3%A9l%C3%A9",
+      "confidence": "medium"
+    },
+    {
+      "claim": "World Cup 26 June 2026: first-half hat-trick (7', 20', 32') in France 4-1 Norway; first first-half World Cup hat-trick since Salenko in 1994.",
+      "source_url": "https://www.espn.com/soccer/story/_/id/49189907/ousmane-dembele-first-half-hat-trick-france",
+      "confidence": "high"
+    },
+    {
+      "claim": "He became the third Frenchman with a World Cup hat-trick after Just Fontaine and Mbappe; Al Jazeera confirms the minutes and the 4-1 score.",
+      "source_url": "https://www.aljazeera.com/sports/2026/6/26/dembele-scores-hat-trick-as-france-beat-norway-4-1-at-world-cup-2026",
+      "confidence": "high"
+    },
+    {
+      "claim": "France finished fourth at the 2026 World Cup after losing 2-0 to Spain in the semi-final (14 July) and 6-4 to England in the third-place match (18 July); Dembele came on and scored France's fourth goal against England.",
+      "source_url": "https://fr.wikipedia.org/wiki/Ousmane_Demb%C3%A9l%C3%A9",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He scored six goals at the 2026 World Cup (Iraq 1, Norway 3, Morocco 1, England 1).",
+      "source_url": "https://en.wikipedia.org/wiki/Ousmane_Demb%C3%A9l%C3%A9",
+      "confidence": "medium",
+      "note": "English Wikipedia says the Morocco goal took him to five in the tournament and lists his 2026 national-team total as six; Al Jazeera had him on four after Norway. Consistent. Still avoid 'Golden Boot' talk: Mbappe won it with 10."
+    },
+    {
+      "claim": "UEFA Super Cup 12 Aug 2026 in Salzburg: PSG 2-1 Aston Villa; Dembele came on at 46' and assisted Doue's winner.",
+      "source_url": "https://en.wikipedia.org/wiki/2026_UEFA_Super_Cup",
+      "confidence": "high"
+    },
+    {
+      "claim": "Trophee des Champions 16 Aug 2026: Lens 1-0 PSG (Thauvin 32'); Dembele came on at 60'; Lens had a player sent off at 39'.",
+      "source_url": "https://en.wikipedia.org/wiki/2026_Troph%C3%A9e_des_Champions",
+      "confidence": "medium"
+    },
+    {
+      "claim": "PSG drew 2-2 at Rennes (23 Aug) and Lille (28 Aug) and lost 1-2 to Monaco (4 Sep) in their first three Ligue 1 games.",
+      "source_url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Paris_Saint-Germain_FC_season",
+      "confidence": "high"
+    },
+    {
+      "claim": "Barcola left PSG for Liverpool on 31 Aug 2026; Torres (from Barcelona), Godts, Akliouche and Digne joined in August.",
+      "source_url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Paris_Saint-Germain_FC_season",
+      "confidence": "high"
+    },
+    {
+      "claim": "Barcola's reported fee was 125 million euros and Torres' 48.5 million euros.",
+      "source_url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Paris_Saint-Germain_FC_season",
+      "confidence": "low",
+      "note": "French Wikipedia warns that fees differ between prose and tables."
+    },
+    {
+      "claim": "Dembele was among the 30 nominees for the 2026 Ballon d'Or announced on 8 Sep 2026.",
+      "source_url": "https://fr.wikipedia.org/wiki/Ousmane_Demb%C3%A9l%C3%A9",
+      "confidence": "medium"
+    },
+    {
+      "claim": "9 Sep 2026: PSG 6-1 Slovan Bratislava with Dembele scoring at 17' and 23'.",
+      "source_url": "https://fr.wikipedia.org/wiki/Saison_2026-2027_du_Paris_Saint-Germain",
+      "confidence": "high"
+    },
+    {
+      "claim": "Zidane named Dembele on 18 Sep 2026 for the Nations League; he started as a striker in Turkey 0-1 France on 25 Sep (Mbappe 54').",
+      "source_url": "https://fr.wikipedia.org/wiki/Ousmane_Demb%C3%A9l%C3%A9",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Zinedine Zidane became France head coach in July 2026 after Deschamps (who said he would leave after the World Cup).",
+      "source_url": "https://en.wikipedia.org/wiki/Zinedine_Zidane",
+      "confidence": "high"
+    },
+    {
+      "claim": "14 Oct 2026: Manchester City 2-4 PSG; Doue 13', Dembele 15', Vitinha 32', Akliouche 63'; Haaland scored twice for City (53', 75').",
+      "source_url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Paris_Saint-Germain_FC_season",
+      "confidence": "high"
+    },
+    {
+      "claim": "17 Oct 2026: Strasbourg 1-3 PSG; Zabarnyi 77', Dembele 85', Doue 90+3'.",
+      "source_url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Paris_Saint-Germain_FC_season",
+      "confidence": "high"
+    },
+    {
+      "claim": "At Strasbourg Dembele missed a penalty and assisted Zabarnyi's 77' equaliser (no assist is credited to him for Doue's late goal).",
+      "source_url": "https://fr.wikipedia.org/wiki/Saison_2026-2027_du_Paris_Saint-Germain",
+      "confidence": "low",
+      "note": "Single source (French Wikipedia). Earlier version also claimed an assist for Doue; unsupported."
+    },
+    {
+      "claim": "20 Oct 2026: PSG 4-2 Barcelona (Doue, Hernandez, Vitinha, Fabian); Barcelona's first defeat in an official competition this season; Dembele listed as an appearance with no goal.",
+      "source_url": "https://www.soccerbase.com/players/player.sd?player_id=88995&season_id=159",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Ballon d'Or 2026, 26 Oct at the London Palladium: Kane 1,055, Mbappe 1,027, Yamal 881, Rodri 726, Messi 612, Kvaratskhelia 541, Dembele 418 (7th).",
+      "source_url": "https://en.wikipedia.org/wiki/2026_Ballon_d%27Or",
+      "confidence": "high"
+    },
+    {
+      "claim": "Hakimi scored a hat-trick in PSG's 5-1 win at Le Havre on 30 Oct 2026.",
+      "source_url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Ligue_1",
+      "confidence": "medium"
+    },
+    {
+      "claim": "PSG won 6-0 at Villarreal on 3 Nov 2026 and have 12 points from 4 Champions League games.",
+      "source_url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Paris_Saint-Germain_FC_season",
+      "confidence": "high"
+    },
+    {
+      "claim": "PSG led Ligue 1 on 23 points after 10 matchdays (7W 2D 1L) following a 1-0 home win over Troyes on 7 Nov 2026.",
+      "source_url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Ligue_1",
+      "confidence": "high"
+    },
+    {
+      "claim": "Italy beat France 3-1 in Milan on 12 Nov 2026 (Olise scored); France then beat Turkey 2-1 on 15 Nov and won Group A1 with 13 points.",
+      "source_url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Nations_League_A",
+      "confidence": "high"
+    },
+    {
+      "claim": "His 2026-27 totals as of about 20 Oct: 10 club appearances and 4 goals (Ligue 1 5 apps 1 goal; Champions League 3 apps 3 goals).",
+      "source_url": "https://en.wikipedia.org/wiki/Ousmane_Demb%C3%A9l%C3%A9",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Marquinhos is PSG captain; Dembele is one of three vice-captains (with Hakimi and Vitinha).",
+      "source_url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Paris_Saint-Germain_FC_season",
+      "confidence": "medium",
+      "note": "English Wikipedia season page lists Hakimi, Vitinha and Dembele as vice-captains; the French page lists only the captain."
+    },
+    {
+      "claim": "PSG's next fixtures: Nice away 21 Nov, Roma home in the Champions League 25 Nov, Lorient home 28 Nov, Intercontinental Cup final 16 Dec in Al Rayyan, Qatar.",
+      "source_url": "https://fr.wikipedia.org/wiki/Saison_2026-2027_du_Paris_Saint-Germain",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Dortmund sanctioned him in August 2017 for missing training without a valid excuse; Barcelona agreed a deal worth 105 million euros plus reported 40 million in add-ons.",
+      "source_url": "https://fr.wikipedia.org/wiki/Ousmane_Demb%C3%A9l%C3%A9",
+      "confidence": "medium"
+    },
+    {
+      "claim": "At Barcelona (2017-23) he made 185 appearances and scored 40 goals, won three La Liga titles, and was one of the club's most-fined players.",
+      "source_url": "https://en.wikipedia.org/wiki/Ousmane_Demb%C3%A9l%C3%A9",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Rennes coaches worked to reduce his individualism and excessive dribbling; a 2016 interview about his preferred foot drew attention online.",
+      "source_url": "https://fr.wikipedia.org/wiki/Ousmane_Demb%C3%A9l%C3%A9",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He was sent off for dissent in October 2019.",
+      "source_url": "https://en.wikipedia.org/wiki/Ousmane_Demb%C3%A9l%C3%A9",
+      "confidence": "low",
+      "note": "Single, undated detail in the article."
+    },
+    {
+      "claim": "Mbappe said Dembele is liked in every dressing room he has been in.",
+      "source_url": "https://fr.wikipedia.org/wiki/Ousmane_Demb%C3%A9l%C3%A9",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Deschamps missed France v Norway to attend his mother's funeral; Brest coach Eric Roy died in June 2026.",
+      "source_url": "https://www.aljazeera.com/sports/2026/6/26/dembele-scores-hat-trick-as-france-beat-norway-4-1-at-world-cup-2026",
+      "confidence": "medium",
+      "note": "Roy: en.wikipedia.org/wiki/2026%E2%80%9327_Ligue_1. Both listed only as no-joke context."
+    },
+    {
+      "claim": "Dembele is Muslim, married in 2021 and has a daughter born September 2022; a July 2021 video showed racist remarks about Japanese technicians.",
+      "source_url": "https://en.wikipedia.org/wiki/Ousmane_Demb%C3%A9l%C3%A9",
+      "confidence": "high",
+      "note": "Listed only in no_joke_topics. English Wikipedia: Japanese technicians in his hotel room, footage circulated July 2021; Moroccan wedding in 2021; daughter born September 2022."
+    },
+    {
+      "claim": "His current look (hair, beard) and signature pose.",
+      "source_url": "https://en.wikipedia.org/wiki/Ousmane_Demb%C3%A9l%C3%A9",
+      "confidence": "low",
+      "note": "Not verified from photos; style-of-play description only."
+    }
+  ],
+  "verification": {
+    "checked": 67,
+    "corrected": 21,
+    "removed": 4,
+    "notes": "Verified on 2026-11-20 by fetching en/fr Wikipedia (Dembele, PSG 2026-27 season, Ligue 1, CL league phase, Nations League A, Ballon d'Or 2025 and 2026, UEFA Super Cup, Trophee des Champions, Barcelona 2026-27, World Cup, France, Zidane, Madjo), ESPN, Al Jazeera, theScore, UNFP and Soccerbase. WebSearch was unavailable (budget used up), so no independent discovery search and no non-Wikipedia source for most 2026-27 match facts. CONFIRMED: current club PSG, number 10, contract to June 2028, 12 Aug 2023 / 50.4m; Ballon d'Or 2026 table (Kane 1055, Mbappe 1027, Yamal 881, Rodri 726, Messi 612, Kvaratskhelia 541, Dembele 418, 7th); Ballon d'Or 2025 (22 Sep, Yamal 2nd, Vitinha 3rd); CL final 30 May 2026 1-1, 4-3 pens, his penalty; Super Cup, Trophee, Ligue 1 and CL scores and scorers; Ligue 1 table after 10 matchdays; Nations League results and table; World Cup hat-trick 7'/20'/32', 4-1 Norway, France fourth (lost 0-2 to Spain in SF, 4-6 to England); UNFP 11 May 2026; 2024-25 numbers; Barcelona 185 apps/40 goals/3 titles. CORRECTED: Strasbourg assists (only one, for Zabarnyi, French Wikipedia only), Akliouche goal at City made it 4-1 not 4-2, Barcelona loss was first OFFICIAL defeat (friendly loss to Udinese 8 Aug), vice-captain (one of three per English page), Zidane in post since July 2026, Oct 30 headline (no source that PSG 'moved top' after Lyon), Nov 7 next-fixtures list, several joke seeds and viral-moment texts, shirt number 7 at the World Cup (unverified; flagged), Ballon d'Or 2025 speech details (Rennes/teammates, unverified). REMOVED: Safonov key saves; 'moved top for the first time'; 'trailing 4-0' before Dembele's goal vs England; 'lifestyle criticism' at Barcelona. STILL UNVERIFIED: Dembele's involvement from 3 Nov, 12 Nov and 15 Nov matches; reasons for absences at Lille (28 Aug) and Le Mans (10 Oct); current look; direct YouTube links; 2026-27 stats after about 20 Oct; fee figures (Torres 48.5m is 'citation needed'). Soccerbase shows him in all four October Nations League squads (25 Sep, 28 Sep, 2 Oct, 5 Oct) and playing at Rennes, Monaco, Brest, Marseille and Strasbourg in Ligue 1."
+  }
+}

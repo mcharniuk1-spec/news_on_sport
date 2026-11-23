@@ -1,0 +1,86 @@
+{
+ "no": 99,
+ "subject": "Hearts lose 1-3 at Thun, slipping towards the foot of the Conference League table",
+ "title": "Hearts at Thun: one point in three",
+ "voice": "kokoro",
+ "comic": true,
+ "style": "ligne_claire",
+ "lines": [
+  {
+   "vo": "One point from three games. Then Hearts went to Switzerland.",
+   "card": "One point, three games",
+   "sfx": "record scratch",
+   "footage": "Thun vs Hearts highlights, Stockhorn Arena wide shot"
+  },
+  {
+   "vo": "Thun won three-one at the Stockhorn Arena. Hearts left with one goal and homework.",
+   "card": "Thun 3-1 Hearts",
+   "sfx": "crowd roar",
+   "footage": "goal clips from the match, scoreboard"
+  },
+  {
+   "vo": "They started the night thirty-second out of thirty-six. That is not a typo.",
+   "card": "Thirty-second of 36",
+   "sfx": null,
+   "footage": "league table graphic, 36-team table"
+  },
+  {
+   "vo": "Before that: seven-one at Celtic Park. Two-nil at Trabzonspor. Three-one at Thun. Quite the tour.",
+   "card": "Quite the tour",
+   "sfx": null,
+   "footage": "Celtic Park exterior, Trabzonspor match b-roll, away fans"
+  },
+  {
+   "vo": "Hearts did get one back late on. Credit for effort.",
+   "card": "One back, late",
+   "sfx": "anime whoosh",
+   "footage": "late goal clip, table graphic"
+  },
+  {
+   "vo": "One point from four games now. The foot of the table is getting closer.",
+   "card": "One from four",
+   "sfx": null,
+   "footage": "league table graphic, empty seats"
+  },
+  {
+   "vo": "Fancy calling the next result? News, betting tips and predictions at aboutfootball dot UK.",
+   "card": "aboutfootball dot UK",
+   "sfx": null,
+   "footage": "end card"
+  }
+ ],
+ "chars": 526,
+ "est_seconds": 29,
+ "footage_terms": [
+  "Thun Hearts 3-1 highlights",
+  "Hearts Conference League Thun",
+  "Vrancken press conference Hearts Thun"
+ ],
+ "inserts": [
+  {
+   "after_line": 2,
+   "story": "Setup: a clean-line fan studies a thirty-six-line table with a magnifying glass. Gag: he starts at the top, gives up, and reads from the bottom. Twist: he finds his team, and the glass fogs up.",
+   "characters": "Generic fan caricature, table prop",
+   "seconds": 3
+  },
+  {
+   "after_line": 3,
+   "story": "Setup: a clean-line bus driver checks a map marked Celtic Park, Trabzonspor, Thun. Gag: at each stop the passengers get quieter. Twist: at the last stop, the bus sighs louder than the fans.",
+   "characters": "Generic bus driver caricature, bus prop",
+   "seconds": 3
+  },
+  {
+   "after_line": 4,
+   "story": "Setup: a caricature goalkeeper fishes a ball out of the net, three times. Gag: he finds one in the other net and holds it like a trophy. Twist: the full-time whistle blows and he puts it back, politely.",
+   "characters": "Generic goalkeeper caricature, ball prop",
+   "seconds": 3
+  }
+ ],
+ "facts_used": [
+  "Thun won 3-1 at the Stockhorn Arena; only the 3-1 score is firm, the scorers differ between the match header and the shot map (news 431, espn.com)",
+  "Hearts had 1 point from three games before the match and sat 32nd in the 36-team table (news 431)",
+  "Hearts arrived after a 7-1 league defeat at Celtic Park on 18 October and a 2-0 loss at Trabzonspor (news 431, background)"
+ ],
+ "comic_score": 7,
+ "notes": "Source: news 431 (ESPN, 2026-11-05). No player names used: scorers conflict between sources, and the own goal is not named. Only the 3-1 score is firm. 'Late on' rests on the 82nd-minute entry in the header, which the shot map may not confirm; check before publishing. 'Homework' and 'quite the tour' are gags on results only. Hearts are described as closer to the foot of the table, not as bottom. Inserts are generic caricatures. after_line is the 0-based index into lines[]."
+}

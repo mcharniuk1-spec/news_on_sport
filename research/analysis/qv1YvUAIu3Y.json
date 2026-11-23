@@ -1,0 +1,280 @@
+{
+ "video_id": "qv1YvUAIu3Y",
+ "topic": "Nostalgic documentary-style story of how Cristiano Ronaldo went from the most hated player to Ballon d'Or winner (2003-2008), using archive press and match clips",
+ "hero": "Cristiano Ronaldo (young, Man Utd #7/#28 Sporting)",
+ "hero_role": "protagonist of the documentary narrative; Sir Alex Ferguson as the key interviewee",
+ "media_type_overall": "real broadcast footage",
+ "hook": "Chapter title '2003-04 / 6 GOALS / BALLON D'OR: 12th' over Sporting-era Ronaldo clip",
+ "subtitle_style": "Chapter card: large white bold italic year with smaller 'GOALS/BALLON DOR' lines; lower-centre white sans captions (burned-in transcript of interview) with small 'Nost FC' watermark",
+ "reaction_overlays": "none",
+ "transition_summary": "Hard cuts between archival interview talking heads and match clips; ~2-3 cuts per 10 s; chapter title cards",
+ "audio_note": "Archive Ferguson press-conference audio and period commentary (transcript: 'Proclaimed by Sir Alex Ferguson as one of the most exciting young players...') probably with narration/music",
+ "reuse_segments": [
+  {
+   "t0": 0,
+   "t1": 14,
+   "what": "Chapter card plus young Ronaldo with fans and Ferguson signing presser",
+   "origin_guess": "interview",
+   "rights_risk": "high",
+   "how_to_reuse": "press footage under licence; recreate chapter card with own graphics"
+  },
+  {
+   "t0": 14,
+   "t1": 62,
+   "what": "Ferguson/Keane interview clips cut with early Ronaldo dribbles vs Bolton",
+   "origin_guess": "broadcast match",
+   "rights_risk": "high",
+   "how_to_reuse": "archive broadcaster rights (Sky, MUTV); needs licensing"
+  }
+ ],
+ "frames": [
+  {
+   "idx": 1,
+   "t": 0,
+   "desc": "Chapter card '2003-04 6 GOALS BALLON DOR: 12th' over Sporting match",
+   "type": "graphic_card",
+   "text_on_screen": "2003-04 6 GOALS BALLON DOR : 12th",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 2,
+   "t": 2,
+   "desc": "Same chapter card, footage continues",
+   "type": "graphic_card",
+   "text_on_screen": "2003-04 6 GOALS BALLON DOR : 12th",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 3,
+   "t": 4,
+   "desc": "Young Ronaldo meeting fans at gates of Old Trafford",
+   "type": "video",
+   "text_on_screen": "Proclaimed by Sir Alex Ferguson",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 4,
+   "t": 6,
+   "desc": "Young Ronaldo signing for fans, kid in cap",
+   "type": "video",
+   "text_on_screen": "young players he's ever seen",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 5,
+   "t": 8,
+   "desc": "Ferguson, Ronaldo and teammate presenting Man Utd shirts",
+   "type": "video",
+   "text_on_screen": "the Manchester United boss urged",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 6,
+   "t": 10,
+   "desc": "Same group at presser",
+   "type": "video",
+   "text_on_screen": "on by his players has moved quickly",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 7,
+   "t": 12,
+   "desc": "Back of Ronaldo #7 shirt in stadium",
+   "type": "video",
+   "text_on_screen": "to capture the signature of Portuguese",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 8,
+   "t": 14,
+   "desc": "Ronaldo #7 shirt back with Ferguson near",
+   "type": "video",
+   "text_on_screen": "teenage sensation Cristiano Ronaldo",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 9,
+   "t": 16,
+   "desc": "Ronaldo and Ferguson at Vodafone backdrop",
+   "type": "video",
+   "text_on_screen": "in a 12 and a quarter million pound deal",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 10,
+   "t": 18,
+   "desc": "Ronaldo in Sporting kit with opponents on pitch",
+   "type": "video",
+   "text_on_screen": "We had a tough night against him",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 11,
+   "t": 20,
+   "desc": "Sporting #28 vs Man Utd Euro 2004 board",
+   "type": "video",
+   "text_on_screen": "but he's two-footed",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 12,
+   "t": 22,
+   "desc": "Ferguson at presser, Vodafone backdrop",
+   "type": "video",
+   "text_on_screen": "he's quick",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 13,
+   "t": 24,
+   "desc": "Young Ronaldo at presser, white shirt",
+   "type": "video",
+   "text_on_screen": "he can play either side",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 14,
+   "t": 26,
+   "desc": "Sporting vs Man Utd match close",
+   "type": "video",
+   "text_on_screen": "wide right or wide left",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 15,
+   "t": 28,
+   "desc": "Sporting vs Man Utd, Ronaldo dribbles past",
+   "type": "video",
+   "text_on_screen": "There's enormous talent there",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 16,
+   "t": 30,
+   "desc": "Ferguson at presser",
+   "type": "video",
+   "text_on_screen": "and he wants to play",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 17,
+   "t": 32,
+   "desc": "Match: Ronaldo vs defender, boards",
+   "type": "video",
+   "text_on_screen": "You saw last Wednesday against us",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 18,
+   "t": 34,
+   "desc": "Ferguson presser",
+   "type": "video",
+   "text_on_screen": "he wanted to bowl all the time",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 19,
+   "t": 36,
+   "desc": "Ferguson presser, mic cluster",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 20,
+   "t": 38,
+   "desc": "Ferguson presser",
+   "type": "video",
+   "text_on_screen": "so he's not fazed by anything",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 21,
+   "t": 40,
+   "desc": "Ferguson presser",
+   "type": "video",
+   "text_on_screen": "temperament excellent",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 22,
+   "t": 42,
+   "desc": "Wide Premier League match, Ronaldo run",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 23,
+   "t": 44,
+   "desc": "Wide match, Man Utd on attack",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 24,
+   "t": 46,
+   "desc": "Close Ronaldo in red vs #11 white defender",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 25,
+   "t": 48,
+   "desc": "Wide Man Utd v Bolton, goal area",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 26,
+   "t": 50,
+   "desc": "Wide Man Utd v Bolton, midfield",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 27,
+   "t": 52,
+   "desc": "Wide Man Utd v Bolton, Ronaldo carry",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 28,
+   "t": 54,
+   "desc": "Wide Man Utd v Bolton, halfway",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 29,
+   "t": 56,
+   "desc": "Wide Man Utd v Bolton, attack",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 30,
+   "t": 58,
+   "desc": "Ronaldo skips past fallen defender, close",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 31,
+   "t": 60,
+   "desc": "Ferguson MUTV interview, subtitle",
+   "type": "video",
+   "text_on_screen": "It's a long time probably since",
+   "transition_to_next": "none"
+  }
+ ]
+}

@@ -1,0 +1,103 @@
+{
+ "no": 12,
+ "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/012_lionel_messi.mp4",
+ "total": 45.266666666666666,
+ "outro_start": 39.74,
+ "cover": true,
+ "seq": [
+  {
+   "id": "s01",
+   "kind": "HOOK",
+   "start": 0.1,
+   "end": 1.6,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/012/s01.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s02",
+   "kind": "STATS",
+   "start": 4.333333333333333,
+   "end": 5.833333333333333,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/012/s02.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s03",
+   "kind": "COMIC1",
+   "start": 8.7,
+   "end": 10.7,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/012/s03.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s04",
+   "kind": "NEWS",
+   "start": 13.866666666666667,
+   "end": 15.633333333333333,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/012/s04.mp4",
+   "clip_dur": 1.766,
+   "frames": 42
+  },
+  {
+   "id": "s05",
+   "kind": "COMIC2",
+   "start": 18.933333333333334,
+   "end": 20.933333333333334,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/012/s05.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s06",
+   "kind": "PROVOC",
+   "start": 24.333333333333332,
+   "end": 25.833333333333332,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/012/s06.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s07",
+   "kind": "COMIC3",
+   "start": 29.366666666666667,
+   "end": 31.366666666666667,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/012/s07.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s08",
+   "kind": "INTERVIEW",
+   "start": 37.6,
+   "end": 39.36666666666667,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/012/s08.mp4",
+   "clip_dur": 1.766,
+   "frames": 42
+  }
+ ],
+ "missing": [],
+ "dropped": [],
+ "cards": [
+  {
+   "text": "3-0 up, 3-3 final",
+   "a": 34.2,
+   "b": 36.4
+  }
+ ],
+ "caption_sprites": 128,
+ "whoosh": [
+  0.0,
+  4.233333333333333,
+  8.6,
+  13.766666666666667,
+  18.833333333333332,
+  24.23333333333333,
+  29.266666666666666,
+  37.5,
+  39.64
+ ],
+ "shots": 16
+}

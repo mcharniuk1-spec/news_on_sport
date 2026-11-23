@@ -1,0 +1,94 @@
+{
+ "no": 6,
+ "subject": "Fabio Cannavaro",
+ "title": "Cannavaro: the CV and the 2006 wall",
+ "voice": "kokoro",
+ "comic": true,
+ "style": "simpsons",
+ "lines": [
+  {
+   "vo": "Six hundred and ninety World Cup minutes. Not one card. Fabio Cannavaro.",
+   "card": "690 minutes, no cards",
+   "sfx": "whistle",
+   "footage": "Cannavaro 2006 World Cup defence highlights"
+  },
+  {
+   "vo": "Five clean sheets. Two goals conceded. Then came the coaching CV.",
+   "card": "Coaching road trip",
+   "sfx": null,
+   "footage": "Cannavaro manager press conference clips"
+  },
+  {
+   "vo": "Benevento: seventeen games, three wins, seven draws, seven defeats. Very balanced. Then the sack.",
+   "card": "Benevento: 17 games",
+   "sfx": null,
+   "footage": "Benevento Cannavaro match highlights"
+  },
+  {
+   "vo": "Dinamo Zagreb: fourteen games. Udinese: six, not kept. Seventeen, fourteen, six. A countdown.",
+   "card": "Seventeen, fourteen, six",
+   "sfx": null,
+   "footage": "Udinese match highlights, coaching era"
+  },
+  {
+   "vo": "He once told Ronaldo to keep playing a few more years. Right after Ronaldo scored twice against him. Fair enough, he had the evidence.",
+   "card": "Keep playing, Cristiano",
+   "sfx": "crowd groan",
+   "footage": "Cristiano Ronaldo scores twice highlights"
+  },
+  {
+   "vo": "Only the third defender to win the Ballon d'Or, after Beckenbauer and Sammer.",
+   "card": "Third defender ever",
+   "sfx": "crowd cheer",
+   "footage": "Cannavaro 2006 Ballon d'Or speech clip"
+  },
+  {
+   "vo": "Seventeen games at Benevento. Six hundred and ninety minutes without a card. Both are true. Only one is on the wall.",
+   "card": "Both can be true",
+   "sfx": null,
+   "footage": "Cannavaro 2006 World Cup lifts the trophy"
+  },
+  {
+   "vo": "Your mates will never guess this. Betting tips, match news and predictions at aboutfootball dot UK.",
+   "card": "aboutfootball.UK",
+   "sfx": null,
+   "footage": "end card, no footage"
+  }
+ ],
+ "chars": 753,
+ "est_seconds": 42,
+ "footage_terms": [
+  "Cannavaro 2006 World Cup defence",
+  "Cannavaro Ballon d'Or 2006",
+  "Cannavaro Benevento highlights",
+  "Cristiano Ronaldo scores twice 2026"
+ ],
+ "inserts": [
+  {
+   "after_line": 3,
+   "story": "A cartoon vending machine labelled Defender Ballon d'Or has only three golden balls inside. A caricature of Cannavaro presses the button and one drops. Twist: he presses the Coaching button and it drops a small pink slip reading Thanks for playing.",
+   "characters": "generic cartoon vending machine; caricature of Fabio Cannavaro",
+   "seconds": 2
+  },
+  {
+   "after_line": 4,
+   "story": "A cartoon CV scroll rolls down a staircase, each step shorter than the last, and a caricature of Cannavaro hops down it. Gag: the last step is a tiny stub. Twist: a golden staircase marked 2006 lowers from the ceiling, he climbs it, and the whole scroll rewinds.",
+   "characters": "generic cartoon scroll; caricature of Fabio Cannavaro",
+   "seconds": 2
+  },
+  {
+   "after_line": 5,
+   "story": "A caricature of Cannavaro on the touchline holds a clipboard that reads Please keep playing. A caricature of Ronaldo scores twice past a cartoon keeper and does not even look. Twist: Ronaldo turns, reads the clipboard, and holds a hand to his ear.",
+   "characters": "caricature of Fabio Cannavaro; caricature of Cristiano Ronaldo; generic cartoon keeper",
+   "seconds": 2
+  }
+ ],
+ "facts_used": [
+  "2006 World Cup: all 690 minutes, no cards, 5 clean sheets, 2 goals conceded (bo pack praise)",
+  "Benevento 17 games (3W 7D 7L), sacked; Dinamo Zagreb 14 games, sacked; Udinese 6 games, not kept (bo pack roast_past)",
+  "Told Ronaldo to keep playing a few more years, right after Ronaldo scored twice against him (bo pack roast_past)",
+  "Only the third defender to win the Ballon d'Or, after Beckenbauer and Sammer (bo pack praise)"
+ ],
+ "comic_score": 8,
+ "notes": "after_line is 1-based index into lines. Part B: different stories from part A (no Uzbekistan results). Skipped: 2009 doping test, health detail (he called himself foolish coach, not used), Calciopoli trophy stripping (legal), Masharipov injury, war and Asian Cup postponement. The Gattuso hair-gel jibe is left out to keep the joke clean. Punch-up pass: countdown 17, 14, 6 is the real game counts in order; 'very balanced' is about 7 draws and 7 defeats. No new facts."
+}

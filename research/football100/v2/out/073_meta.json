@@ -1,0 +1,103 @@
+{
+ "no": 73,
+ "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/073_sporting_agree_about_5_million_euro.mp4",
+ "total": 43.833333333333336,
+ "outro_start": 37.27,
+ "cover": true,
+ "seq": [
+  {
+   "id": "s01",
+   "kind": "HOOK",
+   "start": 0.1,
+   "end": 1.6,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/073/s01.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s02",
+   "kind": "COMIC1",
+   "start": 3.9,
+   "end": 5.9,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/073/s02.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s03",
+   "kind": "STATS",
+   "start": 10.6,
+   "end": 12.1,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/073/s03.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s04",
+   "kind": "COMIC2",
+   "start": 16.133333333333333,
+   "end": 18.133333333333333,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/073/s04.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s05",
+   "kind": "NEWS",
+   "start": 19.866666666666667,
+   "end": 21.633333333333333,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/073/s05.mp4",
+   "clip_dur": 1.766,
+   "frames": 42
+  },
+  {
+   "id": "s06",
+   "kind": "COMIC3",
+   "start": 23.2,
+   "end": 25.2,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/073/s06.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s07",
+   "kind": "INTERVIEW",
+   "start": 31.333333333333332,
+   "end": 33.1,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/073/s07.mp4",
+   "clip_dur": 1.767,
+   "frames": 42
+  },
+  {
+   "id": "s08",
+   "kind": "PROVOC",
+   "start": 35.6,
+   "end": 37.1,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/073/s08.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  }
+ ],
+ "missing": [],
+ "dropped": [],
+ "cards": [
+  {
+   "text": "Third place twice",
+   "a": 28.966666666666665,
+   "b": 31.166666666666668
+  }
+ ],
+ "caption_sprites": 115,
+ "whoosh": [
+  0.0,
+  3.8,
+  10.5,
+  16.03333333333333,
+  19.766666666666666,
+  23.099999999999998,
+  31.23333333333333,
+  35.5,
+  37.17
+ ],
+ "shots": 13
+}

@@ -1,0 +1,272 @@
+{
+ "video_id": "wwExgH_5Lu8",
+ "topic": "Gaming/reaction skit: stars (Messi, Ronaldo, Neymar, Mbappe per title) judge parody EA FC 27 cover designs while a free-kick is taken in a football game",
+ "hero": "Free-kick taker in blue-red kit and reactor face-cams (title names Messi, Ronaldo, Neymar, Mbappe)",
+ "hero_role": "reactors/judges of fake game covers",
+ "media_type_overall": "game footage (e.g. GTA/FIFA)",
+ "hook": "Fake PS5 'FC27' cover with youngster in yellow jersey on left, free-kick on pitch, reactor face-cam top-right",
+ "subtitle_style": "none; small distance label '21 Yds'/'22 Yds' top-centre from game HUD",
+ "reaction_overlays": "Left-side fake PS5 EA FC27 game case changes per round (princess-dress couple, striped-shirt trio, man in white coat); rotating face-cams with headphones top-right",
+ "transition_summary": "Fixed layout; cover image and face-cam swap every few seconds as the free-kick repeats (1 detected scene cut)",
+ "audio_note": "Reaction voices in face-cams, likely synthetic; transcript: 'Can the goat create better FC 27 covers than the rigor? Let's find out'",
+ "reuse_segments": [
+  {
+   "t0": 0,
+   "t1": 60,
+   "what": "Game free-kick footage with fake covers and face-cam overlays",
+   "origin_guess": "game",
+   "rights_risk": "medium",
+   "how_to_reuse": "recreate with own game capture and generated/licensed face-cam; avoid real likenesses"
+  }
+ ],
+ "frames": [
+  {
+   "idx": 1,
+   "t": 0,
+   "desc": "Fake FC27 cover with youngster in yellow shirt, free-kick on pitch, face-cam top-right",
+   "type": "game",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 2,
+   "t": 2,
+   "desc": "Fake FC27 cover with youngster in yellow shirt, free-kick on pitch, face-cam top-right",
+   "type": "game",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 3,
+   "t": 4,
+   "desc": "Fake FC27 'FIFA'S PRINCESS EDITION' cover, man in suit beside person in pink dress; free-kick scene, face-cams swap (headphones reactors)",
+   "type": "game",
+   "text_on_screen": "FIFA'S PRINCESS EDITION",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 4,
+   "t": 6,
+   "desc": "Fake FC27 'FIFA'S PRINCESS EDITION' cover, man in suit beside person in pink dress; free-kick scene, face-cams swap (headphones reactors)",
+   "type": "game",
+   "text_on_screen": "FIFA'S PRINCESS EDITION",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 5,
+   "t": 8,
+   "desc": "Fake FC27 'FIFA'S PRINCESS EDITION' cover, man in suit beside person in pink dress; free-kick scene, face-cams swap (headphones reactors)",
+   "type": "game",
+   "text_on_screen": "FIFA'S PRINCESS EDITION",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 6,
+   "t": 10,
+   "desc": "Fake FC27 'FIFA'S PRINCESS EDITION' cover, man in suit beside person in pink dress; free-kick scene, face-cams swap (headphones reactors)",
+   "type": "game",
+   "text_on_screen": "FIFA'S PRINCESS EDITION",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 7,
+   "t": 12,
+   "desc": "Fake FC27 'FIFA'S PRINCESS EDITION' cover, man in suit beside person in pink dress; free-kick scene, face-cams swap (headphones reactors)",
+   "type": "game",
+   "text_on_screen": "FIFA'S PRINCESS EDITION",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 8,
+   "t": 14,
+   "desc": "Fake FC27 'FIFA'S PRINCESS EDITION' cover, man in suit beside person in pink dress; free-kick scene, face-cams swap (headphones reactors)",
+   "type": "game",
+   "text_on_screen": "FIFA'S PRINCESS EDITION",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 9,
+   "t": 16,
+   "desc": "Fake FC27 'FIFA'S PRINCESS EDITION' cover, man in suit beside person in pink dress; free-kick scene, face-cams swap (headphones reactors)",
+   "type": "game",
+   "text_on_screen": "FIFA'S PRINCESS EDITION",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 10,
+   "t": 18,
+   "desc": "Fake FC27 'FIFA'S PRINCESS EDITION' cover, man in suit beside person in pink dress; free-kick scene, face-cams swap (headphones reactors)",
+   "type": "game",
+   "text_on_screen": "FIFA'S PRINCESS EDITION",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 11,
+   "t": 20,
+   "desc": "Fake FC27 'FIFA'S PRINCESS EDITION' cover, man in suit beside person in pink dress; free-kick scene, face-cams swap (headphones reactors)",
+   "type": "game",
+   "text_on_screen": "FIFA'S PRINCESS EDITION",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 12,
+   "t": 22,
+   "desc": "Fake FC27 'FIFA'S PRINCESS EDITION' cover, man in suit beside person in pink dress; free-kick scene, face-cams swap (headphones reactors)",
+   "type": "game",
+   "text_on_screen": "FIFA'S PRINCESS EDITION",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 13,
+   "t": 24,
+   "desc": "Fake FC27 'FIFA'S PRINCESS EDITION' cover, man in suit beside person in pink dress; free-kick scene, face-cams swap (headphones reactors)",
+   "type": "game",
+   "text_on_screen": "FIFA'S PRINCESS EDITION",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 14,
+   "t": 26,
+   "desc": "Fake FC27 'FIFA'S PRINCESS EDITION' cover, man in suit beside person in pink dress; free-kick scene, face-cams swap (headphones reactors)",
+   "type": "game",
+   "text_on_screen": "FIFA'S PRINCESS EDITION",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 15,
+   "t": 28,
+   "desc": "Fake FC27 'FIFA'S PRINCESS EDITION' cover, man in suit beside person in pink dress; free-kick scene, face-cams swap (headphones reactors)",
+   "type": "game",
+   "text_on_screen": "FIFA'S PRINCESS EDITION",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 16,
+   "t": 30,
+   "desc": "Fake FC27 'FIFA'S PRINCESS EDITION' cover, man in suit beside person in pink dress; free-kick scene, face-cams swap (headphones reactors)",
+   "type": "game",
+   "text_on_screen": "FIFA'S PRINCESS EDITION",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 17,
+   "t": 32,
+   "desc": "Fake FC27 'FIFA'S PRINCESS EDITION' cover, man in suit beside person in pink dress; free-kick scene, face-cams swap (headphones reactors)",
+   "type": "game",
+   "text_on_screen": "FIFA'S PRINCESS EDITION",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 18,
+   "t": 34,
+   "desc": "Fake FC27 cover with striped-shirt trio; free-kick scene, face-cams swap",
+   "type": "game",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 19,
+   "t": 36,
+   "desc": "Fake FC27 cover with striped-shirt trio; free-kick scene, face-cams swap",
+   "type": "game",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 20,
+   "t": 38,
+   "desc": "Fake FC27 cover with striped-shirt trio; free-kick scene, face-cams swap",
+   "type": "game",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 21,
+   "t": 40,
+   "desc": "Fake FC27 cover with striped-shirt trio; free-kick scene, face-cams swap",
+   "type": "game",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 22,
+   "t": 42,
+   "desc": "Fake FC27 cover with striped-shirt trio; free-kick scene, face-cams swap",
+   "type": "game",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 23,
+   "t": 44,
+   "desc": "Fake FC27 cover with striped-shirt trio; free-kick scene, face-cams swap",
+   "type": "game",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 24,
+   "t": 46,
+   "desc": "Fake FC27 cover with striped-shirt trio; free-kick scene, face-cams swap",
+   "type": "game",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 25,
+   "t": 48,
+   "desc": "Fake FC27 cover with striped-shirt trio; free-kick scene, face-cams swap",
+   "type": "game",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 26,
+   "t": 50,
+   "desc": "Fake FC27 cover with striped-shirt trio; free-kick scene, face-cams swap",
+   "type": "game",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 27,
+   "t": 52,
+   "desc": "Fake FC27 cover with striped-shirt trio; free-kick scene, face-cams swap",
+   "type": "game",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 28,
+   "t": 54,
+   "desc": "Fake FC27 cover with striped-shirt trio; free-kick scene, face-cams swap",
+   "type": "game",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 29,
+   "t": 56,
+   "desc": "Fake FC27 cover with striped-shirt trio; free-kick scene, face-cams swap",
+   "type": "game",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 30,
+   "t": 58,
+   "desc": "Fake FC27 cover with striped-shirt trio; free-kick scene, face-cams swap",
+   "type": "game",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 31,
+   "t": 60,
+   "desc": "Fake FC27 cover with striped-shirt trio; free-kick scene, face-cams swap",
+   "type": "game",
+   "text_on_screen": "",
+   "transition_to_next": "none"
+  }
+ ]
+}

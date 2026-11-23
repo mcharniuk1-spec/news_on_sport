@@ -1,0 +1,97 @@
+{
+ "no": 84,
+ "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/084_jack_grealish_dropped_by_everton_for.mp4",
+ "total": 41.9,
+ "outro_start": 35.72,
+ "cover": true,
+ "seq": [
+  {
+   "id": "s01",
+   "kind": "HOOK",
+   "start": 0.1,
+   "end": 1.6,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/084/s01.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s02",
+   "kind": "COMIC1",
+   "start": 4.5,
+   "end": 6.5,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/084/s02.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s03",
+   "kind": "COMIC2",
+   "start": 10.8,
+   "end": 12.8,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/084/s03.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s04",
+   "kind": "NEWS",
+   "start": 14.866666666666667,
+   "end": 16.633333333333333,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/084/s04.mp4",
+   "clip_dur": 1.767,
+   "frames": 42
+  },
+  {
+   "id": "s05",
+   "kind": "COMIC3",
+   "start": 18.766666666666666,
+   "end": 20.766666666666666,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/084/s05.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s06",
+   "kind": "PROVOC",
+   "start": 22.866666666666667,
+   "end": 24.366666666666667,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/084/s06.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s07",
+   "kind": "INTERVIEW",
+   "start": 26.6,
+   "end": 28.366666666666667,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/084/s07.mp4",
+   "clip_dur": 1.766,
+   "frames": 42
+  },
+  {
+   "id": "s08",
+   "kind": "STATS",
+   "start": 34.1,
+   "end": 35.6,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/084/s08.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  }
+ ],
+ "missing": [],
+ "dropped": [],
+ "cards": [],
+ "caption_sprites": 124,
+ "whoosh": [
+  0.0,
+  4.4,
+  10.700000000000001,
+  14.766666666666667,
+  18.666666666666664,
+  22.766666666666666,
+  26.5,
+  34.0,
+  35.62
+ ],
+ "shots": 14
+}

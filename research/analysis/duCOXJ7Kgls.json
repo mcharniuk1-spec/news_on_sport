@@ -1,0 +1,144 @@
+{
+ "video_id": "duCOXJ7Kgls",
+ "topic": "Crazy football ball control: clips of players juggling, flicking and controlling the ball",
+ "hero": "Various unidentified players (white Corinthians-style shirt, red Ajax-style kit)",
+ "hero_role": "clips of skillful players",
+ "media_type_overall": "real broadcast footage",
+ "hook": "Wide pitch broadcast shot with yellow players and a lone white-red player, TEOCRI watermark",
+ "subtitle_style": "none; TEOCRI watermark bottom-centre (yellow-green italic)",
+ "reaction_overlays": "none",
+ "transition_summary": "Hard cuts every ~2-3s (8 detected cuts in 30s, about 3 cuts/10s)",
+ "audio_note": "Music and original sound ('Hey.' transcript snippets)",
+ "reuse_segments": [
+  {
+   "t0": 0,
+   "t1": 30,
+   "what": "Broadcast ball-control clips (juggling, flicks)",
+   "origin_guess": "broadcast match",
+   "rights_risk": "high",
+   "how_to_reuse": "Needs licensed footage; recreate with own freestyler footage"
+  }
+ ],
+ "frames": [
+  {
+   "idx": 1,
+   "t": 0,
+   "desc": "Wide pitch, few players at distance, yellow kits and white-red player",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 2,
+   "t": 2,
+   "desc": "Player in red-white shirt and red boots mid-stride, close",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 3,
+   "t": 4,
+   "desc": "Wide pitch, packed stand behind, green players",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 4,
+   "t": 6,
+   "desc": "Wide pitch with crowd and ads, green and blue players",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 5,
+   "t": 8,
+   "desc": "Crowd and blue-kit player diving at boards",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 6,
+   "t": 10,
+   "desc": "Wide pitch near centre circle, tiny players",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 7,
+   "t": 12,
+   "desc": "Red-white kit player on pitch, stands and subs bench behind",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 8,
+   "t": 14,
+   "desc": "Wide pitch, green kit players, Cartão ad board",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 9,
+   "t": 16,
+   "desc": "White shirt player balancing ball on head, ad board behind",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 10,
+   "t": 18,
+   "desc": "Same player balancing ball on head, hand raised",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 11,
+   "t": 20,
+   "desc": "Red-kit player controlling ball with foot, stands behind",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 12,
+   "t": 22,
+   "desc": "Red-kit player flicking ball up, green pitch",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 13,
+   "t": 24,
+   "desc": "Wide pitch with Nike ad board, red and white players",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 14,
+   "t": 26,
+   "desc": "Close: red Roma #8 and white #17 players running",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 15,
+   "t": 28,
+   "desc": "White player kicking ball past red #18 player, empty stands behind",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "none"
+  }
+ ]
+}

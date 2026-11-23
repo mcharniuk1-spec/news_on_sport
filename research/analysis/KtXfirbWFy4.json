@@ -1,0 +1,272 @@
+{
+ "video_id": "KtXfirbWFy4",
+ "topic": "Sky Sports News report on leaked drone footage of Pochettino's first Manchester United training session",
+ "hero": "Mauricio Pochettino (subject by title; not shown)",
+ "hero_role": "subject of the news item; reporter Rob Dorsett narrates",
+ "media_type_overall": "mixed",
+ "hook": "Yellow Sky wipe revealing a No Drones sign",
+ "subtitle_style": "broadcast lower-third white on blue",
+ "reaction_overlays": "Sky Sports graphics, video wall",
+ "transition_summary": "Slow: one cut per ~20 s with long still hold on sign",
+ "audio_note": "reporter voice-over / studio talk",
+ "reuse_segments": [
+  {
+   "t0": 0,
+   "t1": 60,
+   "what": "Sky studio and sign shots",
+   "origin_guess": "broadcast news",
+   "rights_risk": "high",
+   "how_to_reuse": "needs Sky license; recreate with own sign photo and VO"
+  }
+ ],
+ "frames": [
+  {
+   "idx": 1,
+   "t": 0,
+   "desc": "Yellow wipe transition revealing a No Drones sign",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 2,
+   "t": 2,
+   "desc": "Still shot of No Drones sign on pole against sky",
+   "type": "static_image",
+   "text_on_screen": "NO DRONES",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 3,
+   "t": 4,
+   "desc": "Still shot of No Drones sign on pole against sky",
+   "type": "static_image",
+   "text_on_screen": "NO DRONES",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 4,
+   "t": 6,
+   "desc": "Still shot of No Drones sign on pole against sky",
+   "type": "static_image",
+   "text_on_screen": "NO DRONES",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 5,
+   "t": 8,
+   "desc": "Still shot of No Drones sign on pole against sky",
+   "type": "static_image",
+   "text_on_screen": "NO DRONES",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 6,
+   "t": 10,
+   "desc": "Still shot of No Drones sign on pole against sky",
+   "type": "static_image",
+   "text_on_screen": "NO DRONES",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 7,
+   "t": 12,
+   "desc": "Still shot of No Drones sign on pole against sky",
+   "type": "static_image",
+   "text_on_screen": "NO DRONES",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 8,
+   "t": 14,
+   "desc": "Studio: Sky Sports presenter beside video wall showing No Drones sign and Manchester United",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 9,
+   "t": 16,
+   "desc": "Studio: Sky Sports presenter beside video wall showing No Drones sign and Manchester United",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 10,
+   "t": 18,
+   "desc": "Studio: Sky Sports presenter beside video wall showing No Drones sign and Manchester United",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 11,
+   "t": 20,
+   "desc": "Studio: Sky Sports presenter beside video wall showing No Drones sign and Manchester United",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 12,
+   "t": 22,
+   "desc": "Studio: Sky Sports presenter beside video wall showing No Drones sign and Manchester United",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 13,
+   "t": 24,
+   "desc": "Studio: Sky Sports presenter beside video wall showing No Drones sign and Manchester United",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 14,
+   "t": 26,
+   "desc": "Studio: Sky Sports presenter beside video wall showing No Drones sign and Manchester United",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 15,
+   "t": 28,
+   "desc": "Studio: Sky Sports presenter beside video wall showing No Drones sign and Manchester United",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 16,
+   "t": 30,
+   "desc": "Studio: Sky Sports presenter beside video wall showing No Drones sign and Manchester United",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 17,
+   "t": 32,
+   "desc": "Studio: Sky Sports presenter beside video wall showing No Drones sign and Manchester United",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 18,
+   "t": 34,
+   "desc": "Studio: Sky Sports presenter beside video wall showing No Drones sign and Manchester United",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 19,
+   "t": 36,
+   "desc": "Graphic 'Manchester Utd training leaked' with United crest, reporter Rob Dorsett in window",
+   "type": "graphic_card",
+   "text_on_screen": "Manchester Utd training leaked; Rob Dorsett Football Correspondent",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 20,
+   "t": 38,
+   "desc": "Graphic 'Manchester Utd training leaked' with United crest, reporter Rob Dorsett in window",
+   "type": "graphic_card",
+   "text_on_screen": "Manchester Utd training leaked; Rob Dorsett Football Correspondent",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 21,
+   "t": 40,
+   "desc": "Graphic 'Manchester Utd training leaked' with United crest, reporter Rob Dorsett in window",
+   "type": "graphic_card",
+   "text_on_screen": "Manchester Utd training leaked; Rob Dorsett Football Correspondent",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 22,
+   "t": 42,
+   "desc": "Graphic 'Manchester Utd training leaked' with United crest, reporter Rob Dorsett in window",
+   "type": "graphic_card",
+   "text_on_screen": "Manchester Utd training leaked; Rob Dorsett Football Correspondent",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 23,
+   "t": 44,
+   "desc": "Graphic 'Manchester Utd training leaked' with United crest, reporter Rob Dorsett in window",
+   "type": "graphic_card",
+   "text_on_screen": "Manchester Utd training leaked; Rob Dorsett Football Correspondent",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 24,
+   "t": 46,
+   "desc": "Graphic 'Manchester Utd training leaked' with United crest, reporter Rob Dorsett in window",
+   "type": "graphic_card",
+   "text_on_screen": "Manchester Utd training leaked; Rob Dorsett Football Correspondent",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 25,
+   "t": 48,
+   "desc": "Still No Drones sign on pole, held through voice-over",
+   "type": "static_image",
+   "text_on_screen": "NO DRONES",
+   "transition_to_next": "none"
+  },
+  {
+   "idx": 26,
+   "t": 50,
+   "desc": "Still No Drones sign on pole, held through voice-over",
+   "type": "static_image",
+   "text_on_screen": "NO DRONES",
+   "transition_to_next": "none"
+  },
+  {
+   "idx": 27,
+   "t": 52,
+   "desc": "Still No Drones sign on pole, held through voice-over",
+   "type": "static_image",
+   "text_on_screen": "NO DRONES",
+   "transition_to_next": "none"
+  },
+  {
+   "idx": 28,
+   "t": 54,
+   "desc": "Still No Drones sign on pole, held through voice-over",
+   "type": "static_image",
+   "text_on_screen": "NO DRONES",
+   "transition_to_next": "none"
+  },
+  {
+   "idx": 29,
+   "t": 56,
+   "desc": "Still No Drones sign on pole, held through voice-over",
+   "type": "static_image",
+   "text_on_screen": "NO DRONES",
+   "transition_to_next": "none"
+  },
+  {
+   "idx": 30,
+   "t": 58,
+   "desc": "Still No Drones sign on pole, held through voice-over",
+   "type": "static_image",
+   "text_on_screen": "NO DRONES",
+   "transition_to_next": "none"
+  },
+  {
+   "idx": 31,
+   "t": 60,
+   "desc": "Still No Drones sign on pole, held through voice-over",
+   "type": "static_image",
+   "text_on_screen": "NO DRONES",
+   "transition_to_next": "none"
+  }
+ ]
+}

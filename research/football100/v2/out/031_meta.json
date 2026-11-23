@@ -1,0 +1,87 @@
+{
+ "no": 31,
+ "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/031_west_ham_sack_nuno_after_13_months_a.mp4",
+ "total": 44.333333333333336,
+ "outro_start": 38.08,
+ "cover": true,
+ "seq": [
+  {
+   "id": "s01",
+   "kind": "HOOK",
+   "start": 0.1,
+   "end": 1.6,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/031/s01.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s02",
+   "kind": "COMIC1",
+   "start": 3.8333333333333335,
+   "end": 6.333333333333333,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/031/s02.mp4",
+   "clip_dur": 2.5,
+   "frames": 60
+  },
+  {
+   "id": "s03",
+   "kind": "COMIC2",
+   "start": 9.166666666666666,
+   "end": 11.933333333333334,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/031/s03.mp4",
+   "clip_dur": 2.767,
+   "frames": 66
+  },
+  {
+   "id": "s04",
+   "kind": "STATS",
+   "start": 16.6,
+   "end": 18.1,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/031/s04.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s05",
+   "kind": "INTERVIEW",
+   "start": 22.866666666666667,
+   "end": 24.633333333333333,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/031/s05.mp4",
+   "clip_dur": 1.767,
+   "frames": 42
+  },
+  {
+   "id": "s06",
+   "kind": "PROVOC",
+   "start": 30.866666666666667,
+   "end": 32.36666666666667,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/031/s06.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s07",
+   "kind": "NEWS",
+   "start": 36.1,
+   "end": 37.86666666666667,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/031/s07.mp4",
+   "clip_dur": 1.767,
+   "frames": 42
+  }
+ ],
+ "missing": [],
+ "dropped": [],
+ "cards": [],
+ "caption_sprites": 120,
+ "whoosh": [
+  0.0,
+  3.7333333333333334,
+  9.066666666666666,
+  16.5,
+  22.766666666666666,
+  30.766666666666666,
+  36.0,
+  37.98
+ ],
+ "shots": 14
+}

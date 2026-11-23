@@ -1,0 +1,4 @@
+file '<PROJECT_ROOT>/research/video_build/music/m_ron_0.wav'
+file '<PROJECT_ROOT>/research/video_build/music/m_ron_1.wav'
+file '<PROJECT_ROOT>/research/video_build/music/m_ron_2.wav'
+file '<PROJECT_ROOT>/research/video_build/music/m_ron_3.wav'

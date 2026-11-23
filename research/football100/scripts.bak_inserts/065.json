@@ -1,0 +1,61 @@
+{
+  "no": 65,
+  "subject": "Estevao struggles for minutes at Chelsea under Xabi Alonso",
+  "title": "Estevao: ten league games, one start",
+  "voice": "EL_A",
+  "comic": false,
+  "style": null,
+  "lines": [
+    {
+      "vo": "Ten Premier League games, one start. Estevao is still waiting.",
+      "card": "Ten games, one start",
+      "footage": "Estevao dribbling clip, Chelsea home match"
+    },
+    {
+      "vo": "He is struggling for minutes under Xabi Alonso at Chelsea. His one start was a 2-0 win over Manchester United. A perfect record.",
+      "card": "Minutes problem",
+      "footage": "Chelsea bench shots, Xabi Alonso on the touchline"
+    },
+    {
+      "vo": "Alonso likes a three-four-three. ESPN says it is a poor fit for him.",
+      "card": "Wrong system",
+      "footage": "Tactical graphic, three at the back, then Estevao on the wing"
+    },
+    {
+      "vo": "Cole Palmer and Morgan Rogers occupy the spots he likes.",
+      "card": "Palmer and Rogers",
+      "footage": "Cole Palmer goal clip, Morgan Rogers highlights"
+    },
+    {
+      "vo": "Ancelotti has started him in four of Brazil's five games since the World Cup. Chelsea, one from ten.",
+      "card": "Ancelotti trusts him",
+      "footage": "Brazil match clip, Estevao running with the ball"
+    },
+    {
+      "vo": "Alonso says there are no plans to move him on. Now he needs the minutes.",
+      "card": "No plans to sell",
+      "footage": "Alonso press conference clip, Chelsea training ground"
+    },
+    {
+      "vo": "Your mates will never guess this. Match news and betting tips at aboutfootball dot UK.",
+      "card": "aboutfootball.UK",
+      "footage": "Channel end card, neutral background"
+    }
+  ],
+  "chars": 572,
+  "est_seconds": 34,
+  "footage_terms": [
+    "Estevao Chelsea highlights",
+    "Xabi Alonso Chelsea press conference Estevao",
+    "Estevao Brazil goal friendly"
+  ],
+  "inserts": [],
+  "facts_used": [
+    "ESPN says Estevao has played in ten Premier League games this season with one start, the 2-0 home win over Man Utd (news id 31, espn.com/soccer/story/_/id/50523536)",
+    "Alonso's preferred 3-4-3 is described as a poor fit for him; Cole Palmer and Morgan Rogers occupy his favoured attacking spots (news id 31)",
+    "Ancelotti has started him in four of five post-World Cup games for Brazil; he has five international goals (news id 31)",
+    "Alonso has said there are no plans to move him on (news id 31)"
+  ],
+  "comic_score": 5,
+  "notes": "Non-comic. The source mentions a serious hamstring injury in the background field; it is deliberately left out as injury material. 'One from ten' means one start in ten Premier League games. 6-3 Carabao Cup win and half-time substitution are not used."
+}

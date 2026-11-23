@@ -1,0 +1,581 @@
+{
+ "no": 78,
+ "style": "FLAT-POP",
+ "prop": "scoreboard",
+ "cast": {
+  "gomez": {
+   "role": "player",
+   "shirt": "#2f6fc0",
+   "hair": "#2b2b3a",
+   "number": "11"
+  },
+  "city": {
+   "role": "player",
+   "shirt": "#7fc8f0",
+   "hair": "#c98a4a",
+   "number": "9"
+  },
+  "ref": {
+   "role": "referee"
+  },
+  "thiago": {
+   "role": "striker",
+   "shirt": "#d94f4f",
+   "hair": "#2b2b3a",
+   "number": "9"
+  },
+  "andrews": {
+   "role": "coach",
+   "hair": "#7a5a3a",
+   "shirt": "#1f2f5f"
+  },
+  "mate": {
+   "role": "rookie",
+   "shirt": "#d94f4f",
+   "hair": "#a03a2a"
+  },
+  "kid": {
+   "role": "kid",
+   "shirt": "#f4a259"
+  }
+ },
+ "sequences": {
+  "s01": {
+   "type": "HOOK",
+   "q": "Who just climbed above Manchester City?",
+   "prop": "chart-up",
+   "emote": "shock",
+   "board": "scoreboard"
+  },
+  "s02": {
+   "type": "COMIC",
+   "bg": "studio",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "city",
+       "x": 260,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "smug",
+       "scale": 1.4
+      },
+      {
+       "id": "gomez",
+       "x": 810,
+       "y": 1440,
+       "pose": "crouch",
+       "emote": "neutral",
+       "scale": 1.3,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "ladder",
+       "x": 540,
+       "y": 900,
+       "scale": 3.0
+      },
+      {
+       "kind": "scoreboard",
+       "x": 760,
+       "y": 350,
+       "scale": 1.3,
+       "text": "2",
+       "face": "happy"
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.52,
+     "actors": [
+      {
+       "id": "city",
+       "x": 260,
+       "y": 1440,
+       "pose": "shock",
+       "emote": "sweat",
+       "scale": 1.4
+      },
+      {
+       "id": "gomez",
+       "x": 560,
+       "y": 1440,
+       "pose": "jump",
+       "emote": "happy",
+       "scale": 1.3,
+       "lift": 230
+      }
+     ],
+     "props": [
+      {
+       "kind": "ladder",
+       "x": 540,
+       "y": 900,
+       "scale": 3.0
+      },
+      {
+       "kind": "scoreboard",
+       "x": 760,
+       "y": 350,
+       "scale": 1.3,
+       "text": "2",
+       "face": "happy"
+      }
+     ],
+     "sfx": {
+      "text": "WHOOSH",
+      "x": 830,
+      "y": 800,
+      "r": 100
+     },
+     "cam": "push"
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.52,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "city",
+       "x": 230,
+       "y": 1440,
+       "pose": "wave",
+       "emote": "sad",
+       "scale": 1.3
+      },
+      {
+       "id": "gomez",
+       "x": 700,
+       "y": 1440,
+       "pose": "cheer",
+       "emote": "happy",
+       "scale": 1.3,
+       "lift": 170
+      }
+     ],
+     "props": [
+      {
+       "kind": "ladder",
+       "x": 540,
+       "y": 900,
+       "scale": 3.0
+      },
+      {
+       "kind": "scoreboard",
+       "x": 760,
+       "y": 350,
+       "scale": 1.3,
+       "text": "2",
+       "face": "happy"
+      },
+      {
+       "kind": "tag",
+       "label": "Above Man City",
+       "x": 260,
+       "y": 430,
+       "scale": 1.1
+      }
+     ],
+     "fx": [
+      {
+       "kind": "sparkle",
+       "x": 700,
+       "y": 900
+      }
+     ]
+    }
+   ]
+  },
+  "s03": {
+   "type": "COMIC",
+   "bg": "tunnel",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "ref",
+       "x": 620,
+       "y": 1440,
+       "pose": "point",
+       "emote": "neutral",
+       "scale": 1.35
+      },
+      {
+       "id": "thiago",
+       "x": 860,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "sweat",
+       "scale": 1.3,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "screen",
+       "x": 300,
+       "y": 820,
+       "scale": 2.8,
+       "face": "neutral"
+      },
+      {
+       "kind": "card-red",
+       "x": 300,
+       "y": 820,
+       "scale": 1.1
+      },
+      {
+       "kind": "scoreboard",
+       "x": 760,
+       "y": 450,
+       "scale": 1.3,
+       "text": "1",
+       "face": "sad"
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.52,
+     "actors": [
+      {
+       "id": "ref",
+       "x": 620,
+       "y": 1440,
+       "pose": "think",
+       "emote": "shock",
+       "scale": 1.35
+      },
+      {
+       "id": "thiago",
+       "x": 860,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "sweat",
+       "scale": 1.3,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "screen",
+       "x": 300,
+       "y": 820,
+       "scale": 2.8,
+       "face": "neutral"
+      },
+      {
+       "kind": "card-red",
+       "x": 300,
+       "y": 820,
+       "scale": 1.1
+      },
+      {
+       "kind": "scoreboard",
+       "x": 760,
+       "y": 450,
+       "scale": 1.3,
+       "text": "1",
+       "face": "sad"
+      }
+     ],
+     "cam": "push"
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.52,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "ref",
+       "x": 480,
+       "y": 1440,
+       "pose": "present",
+       "emote": "shock",
+       "scale": 1.35
+      },
+      {
+       "id": "thiago",
+       "x": 810,
+       "y": 1440,
+       "pose": "shock",
+       "emote": "sad",
+       "scale": 1.3,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "screen",
+       "x": 300,
+       "y": 820,
+       "scale": 2.8,
+       "face": "shock"
+      },
+      {
+       "kind": "card-red",
+       "x": 450,
+       "y": 470,
+       "scale": 2.2,
+       "anim": "pop"
+      },
+      {
+       "kind": "scoreboard",
+       "x": 760,
+       "y": 450,
+       "scale": 1.3,
+       "text": "1",
+       "face": "sad"
+      }
+     ],
+     "sfx": {
+      "text": "POP",
+      "x": 760,
+      "y": 640,
+      "r": 110
+     }
+    }
+   ]
+  },
+  "s04": {
+   "type": "NEWS",
+   "name": "Diego Gomez",
+   "fact": "Scoring from long range",
+   "ticker": "Long-range opener",
+   "icons": [
+    "ball",
+    "boot",
+    "stopwatch"
+   ],
+   "role": "player",
+   "actor": "gomez"
+  },
+  "s05": {
+   "type": "INTERVIEW",
+   "label": "REPORTER ASKS",
+   "bubble": "Sent off after a VAR review?",
+   "answer": {
+    "icon": "card-red",
+    "gesture": "facepalm",
+    "emote": "sad"
+   },
+   "subject": "Keith Andrews",
+   "subject_cast": "andrews"
+  },
+  "s06": {
+   "type": "PROVOC",
+   "q": "Half-time penalty: game over?",
+   "a": "Game over",
+   "b": "Still alive",
+   "split": [
+    61,
+    39
+   ],
+   "mood": "smug"
+  },
+  "s07": {
+   "type": "COMIC",
+   "bg": "training",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "andrews",
+       "x": 250,
+       "y": 1440,
+       "pose": "headscratch",
+       "emote": "sweat",
+       "scale": 1.4
+      },
+      {
+       "id": "mate",
+       "x": 500,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "neutral",
+       "scale": 1.3
+      }
+     ],
+     "props": [
+      {
+       "kind": "ladder",
+       "x": 860,
+       "y": 900,
+       "scale": 2.6
+      },
+      {
+       "kind": "ball",
+       "x": 760,
+       "y": 1360,
+       "scale": 2.4
+      },
+      {
+       "kind": "scoreboard",
+       "x": 540,
+       "y": 460,
+       "scale": 1.6,
+       "text": "10",
+       "face": "sleepy"
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.52,
+     "actors": [
+      {
+       "id": "andrews",
+       "x": 250,
+       "y": 1440,
+       "pose": "point",
+       "emote": "shock",
+       "scale": 1.4
+      },
+      {
+       "id": "mate",
+       "x": 500,
+       "y": 1440,
+       "pose": "shrug",
+       "emote": "sweat",
+       "scale": 1.3
+      }
+     ],
+     "props": [
+      {
+       "kind": "ladder",
+       "x": 860,
+       "y": 900,
+       "scale": 2.6
+      },
+      {
+       "kind": "ball",
+       "x": 760,
+       "y": 1360,
+       "scale": 2.4
+      },
+      {
+       "kind": "scoreboard",
+       "x": 540,
+       "y": 460,
+       "scale": 1.6,
+       "text": "1",
+       "face": "shock"
+      }
+     ],
+     "sfx": {
+      "text": "DING",
+      "x": 300,
+      "y": 420,
+      "r": 100
+     }
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.52,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "andrews",
+       "x": 250,
+       "y": 1440,
+       "pose": "facepalm",
+       "emote": "sweat",
+       "scale": 1.4
+      },
+      {
+       "id": "mate",
+       "x": 500,
+       "y": 1440,
+       "pose": "point",
+       "emote": "happy",
+       "scale": 1.3,
+       "flip": true
+      },
+      {
+       "id": "kid",
+       "x": 900,
+       "y": 1440,
+       "pose": "wave",
+       "emote": "sweat",
+       "scale": 1.25,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "ladder",
+       "x": 860,
+       "y": 900,
+       "scale": 2.6
+      },
+      {
+       "kind": "ball",
+       "x": 760,
+       "y": 1360,
+       "scale": 2.4
+      },
+      {
+       "kind": "scoreboard",
+       "x": 540,
+       "y": 460,
+       "scale": 1.6,
+       "text": "11",
+       "face": "happy"
+      }
+     ]
+    }
+   ]
+  },
+  "s08": {
+   "type": "STATS",
+   "items": [
+    {
+     "icon": "ball",
+     "value": "2-0",
+     "label": "Brighton won"
+    },
+    {
+     "icon": "chart-up",
+     "value": "5",
+     "label": "five points behind"
+    },
+    {
+     "icon": "whistle",
+     "value": "11",
+     "label": "counting to eleven"
+    }
+   ]
+  }
+ }
+}

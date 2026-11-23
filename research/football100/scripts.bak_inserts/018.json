@@ -1,0 +1,96 @@
+{
+  "no": 18,
+  "subject": "Michael Owen",
+  "title": "Owen's pundit tips, horses and a yard off",
+  "voice": "kokoro",
+  "comic": true,
+  "style": "simpsons",
+  "lines": [
+    {
+      "vo": "Michael Owen beat Raul to the Ballon d'Or, 176 votes to 140.",
+      "card": "176 to 140",
+      "sfx": null,
+      "footage": "Owen Ballon d'Or 2001 archive, Liverpool"
+    },
+    {
+      "vo": "That was 2001, at twenty-two. Now he tells everyone else what they are doing wrong.",
+      "card": "Telling everyone",
+      "sfx": null,
+      "footage": "Owen punditry studio, neutral shot"
+    },
+    {
+      "vo": "Owen says Isak is running out of excuses, a yard off the pace. Liverpool need a return on about 125 million pounds. Expensive yard.",
+      "card": "A yard off",
+      "sfx": "small cartoon boing",
+      "footage": "Isak Liverpool match action, neutral"
+    },
+    {
+      "vo": "Owen runs Manor House Stables, with about 140 horses in training. Finally, a team that cannot answer back.",
+      "card": "140 horses",
+      "sfx": null,
+      "footage": "Racing yard, horses in training, neutral shot"
+    },
+    {
+      "vo": "Two of his Bahrain runners finished eighth and tenth of thirteen. Trainer Hugo Palmer says they will go again. A yard off, perhaps.",
+      "card": "Eighth and tenth",
+      "sfx": null,
+      "footage": "Bahrain International Trophy race highlights"
+    },
+    {
+      "vo": "Owen says he will never play football again. Now he sells the dream of racing, one horse at a time.",
+      "card": "Selling the dream",
+      "sfx": null,
+      "footage": "Racing finish line, neutral crowd"
+    },
+    {
+      "vo": "Yet he says his Ballon d'Or means more now. The stable has no golden ball yet.",
+      "card": "More now",
+      "sfx": null,
+      "footage": "Owen Liverpool archive, slow push-in"
+    },
+    {
+      "vo": "Think you can call the next one? Free tips, results and predictions at aboutfootball dot UK.",
+      "card": "aboutfootball dot UK",
+      "sfx": null,
+      "footage": "End card, no footage"
+    }
+  ],
+  "chars": 780,
+  "est_seconds": 43,
+  "footage_terms": [
+    "Michael Owen 2001 Ballon d'Or Liverpool highlights",
+    "Michael Owen Liverpool 2001 FA Cup final goals",
+    "Owen Isak Liverpool 2026 punditry",
+    "Bahrain International Trophy 2026 highlights"
+  ],
+  "inserts": [
+    {
+      "after_line": 1,
+      "story": "A cartoon awards stage has a golden ball. A caricature Owen in a striker's kit hands it to a tiny cartoon rival wearing a sash reading 140, who drops it. The ball bounces straight back into Owen's arms.",
+      "characters": "caricature Owen in a striker's kit; generic cartoon rival with a sash; no real people",
+      "seconds": 3
+    },
+    {
+      "after_line": 3,
+      "story": "A cartoon striker misses a sitter. A caricature Owen in a studio chair holds up a sign reading a yard off. The striker pulls out a tape measure and finds Owen's chair is exactly one yard off the pitch.",
+      "characters": "caricature Owen; generic cartoon striker; no real people",
+      "seconds": 3
+    },
+    {
+      "after_line": 5,
+      "story": "A cartoon racecourse has a horse trotting in eighth, wearing a tiny cap. A caricature Owen whispers advice to it. The horse tips its cap and says it was a yard off the pace, and is also available for punditry.",
+      "characters": "caricature Owen; generic cartoon horse with a cap; no real people",
+      "seconds": 3
+    }
+  ],
+  "facts_used": [
+    "Owen won the 2001 Ballon d'Or at 22 with 176 votes; Raul 140 (https://www.fourfourtwo.com/person/player/the-forgotten-ballon-dor-how-michael-owen-won-the-prestigious-award-25-years-ago)",
+    "Owen said Isak is running out of excuses, 'a yard off', and Liverpool need a return on about 125m pounds (https://www.football365.com/news/alexander-isak-warned-running-out-liverpool-excuses-michael-owen)",
+    "Owen said Kerkez looks 'nervous and lost in the red shirt' (https://www.teamtalk.com/liverpool/michael-owen-milos-kerkez-liverpool-verdict)",
+    "Manor House Stables, about 140 horses in training, trainer Hugo Palmer; Owen says he will never play football again and is selling the dream of racing (https://www.thenationalnews.com/sport/2026/11/13/michael-owen-on-his-love-for-racing-growing-a-successful-stable-and-targeting-glory-in-bahrain/)",
+    "Seagull's Eleven and Glacius finished eighth and tenth of 13; trainer said they will go again (https://www.thenationalnews.com/sport/2026/11/14/royal-champion-lives-up-to-name-as-he-powers-to-bahrain-international-trophy-win/)",
+    "Owen says the Ballon d'Or means more now than when he was playing (https://www.fourfourtwo.com/person/player/the-forgotten-ballon-dor-how-michael-owen-won-the-prestigious-award-25-years-ago)"
+  ],
+  "comic_score": 7,
+  "notes": "Sensitive rule: no jokes about his children, the Meet the Owens show, health, injury or head knocks. The racing jokes stay on the horses and the stable. The 'never play football again' line is Owen's own statement. The National's 'at only 21' is not used (FourFourTwo gives the 2001 date). The Ballon d'Or line is Owen's own words. after_line counts from 1. Punch-up pass: 'yard off' runs as a callback in lines 3 and 6 and in two inserts. 'Per 125 million pounds' is Owen's own framing of what Liverpool need back, not a fee claim. No jokes on children, the Meet the Owens show, health, injury or head knocks."
+}

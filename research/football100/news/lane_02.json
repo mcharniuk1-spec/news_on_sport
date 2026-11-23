@@ -1,0 +1,664 @@
+[
+  {
+    "headline": "Man Utd sack Carrick during the break and hand Pochettino a 2.5-year deal for an Anfield debut",
+    "date": "2026-11-17",
+    "source_domain": "skysports.com",
+    "url": "https://www.skysports.com/football/news/13614312/omar-berrada-interview-manchester-united-chief-executive-on-michael-carrick-mauricio-pochettino-recent-transfer-activity-and-the-club-hierarchy",
+    "entities": ["Manchester United", "Mauricio Pochettino", "Michael Carrick", "Omar Berrada"],
+    "facts": [
+      "United waited for the November international break after the 3-0 home loss to Bournemouth on 25 October before sacking Michael Carrick and appointing Mauricio Pochettino.",
+      "Pochettino's first match is away at Liverpool on Sunday 22 November, with United 18th in the Premier League table.",
+      "ESPN reports the deal runs about two and a half years, to 2029; the exact appointment date is not stated in the sources, so 17 Nov is approximate."
+    ],
+    "background": "Carrick took United to third place and Champions League qualification last season, per CEO Omar Berrada; Pochettino previously managed Tottenham from 2014 and was sacked there in November 2019.",
+    "angle": "coach",
+    "sensitive": false,
+    "footage_terms": ["Pochettino first press conference Manchester United", "Pochettino Manchester United unveiled", "Carrick Manchester United press conference", "Pochettino Carrington first day"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Man Utd 4-4 Aston Villa: twice two goals down, equaliser in the 97th minute",
+    "date": "2026-11-08",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50421297/man-united-aston-villa-premier-league",
+    "entities": ["Manchester United", "Aston Villa", "Michael Carrick", "Unai Emery", "Patrick Dorgu", "Bruno Fernandes"],
+    "facts": [
+      "Villa led 2-0 inside four minutes through Alysson and Nicolas Jackson, a club-record concession of two goals in 3 minutes 42 seconds for United.",
+      "United came back twice: Bruno Fernandes scored a penalty, Zirkzee pulled one back in stoppage time, and substitute Patrick Dorgu equalised in the 97th minute from a Fernandes corner.",
+      "Fans called on the Glazers and Sir Jim Ratcliffe to sell, and United stayed 18th, winless in eight league games. Emery stormed off after the equaliser and sarcastically asked a reporter if there would be 'more questions'."
+    ],
+    "background": "Emery's Villa were sixth in the Champions League table before this match; United's Carrick was sacked about a week later.",
+    "angle": "viral",
+    "sensitive": false,
+    "footage_terms": ["Manchester United 4-4 Aston Villa highlights", "Dorgu equaliser Aston Villa Old Trafford", "Emery post match interview Manchester United draw", "Man Utd Villa 4-4 fans protest Glazers"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Drone operator films Pochettino's first Man Utd training session, posts 12 minutes online",
+    "date": "2026-11-19",
+    "source_domain": "skysports.com",
+    "url": "https://www.skysports.com/football/news/13614271/manchester-united-drone-operator-removes-training-footage-of-mauricio-pochettinos-first-training-session-and-apologises",
+    "entities": ["Manchester United", "Mauricio Pochettino", "Liverpool", "Andoni Iraola"],
+    "facts": [
+      "A roughly 12-minute drone video of Pochettino's first Carrington training session was posted on YouTube by an operator who runs the CC Overview channel.",
+      "The operator has since removed it and apologised, calling it a serious error of judgment and saying the flight was legal but filming was unethical.",
+      "Sky reports United will not take legal action this time but could if it happens again; Liverpool boss Iraola said the footage should not be legal."
+    ],
+    "background": "United meet Liverpool at Anfield on Sunday 22 November, which is Pochettino's first match in charge.",
+    "angle": "viral",
+    "sensitive": false,
+    "footage_terms": ["Manchester United drone training Pochettino", "Carrington training ground Pochettino", "Iraola drone footage Manchester United", "Pochettino first training Manchester United"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Berrada: Fernandes has turned down two contract offers, Pochettino says he stays captain",
+    "date": "2026-11-20",
+    "source_domain": "skysports.com",
+    "url": "https://www.skysports.com/football/news/13614312/omar-berrada-interview-manchester-united-chief-executive-on-michael-carrick-mauricio-pochettino-recent-transfer-activity-and-the-club-hierarchy",
+    "entities": ["Bruno Fernandes", "Manchester United", "Omar Berrada", "Mauricio Pochettino"],
+    "facts": [
+      "Sky Sports News reported that Bruno Fernandes has rejected two contract offers and his deal expires at the end of this season; Berrada said talks continue privately.",
+      "Pochettino said Fernandes is the captain and a very important player, and deferred questions on a new contract.",
+      "ESPN notes United hold an option for a one-year extension to 2028, and that Fernandes had criticised Carrick's tactics in Carrick's final weeks."
+    ],
+    "background": "Fernandes is 32, has been United's captain and top performer, and was ranked No. 1 in Sky Sports' Premier League top 25 in March before sliding to 11th.",
+    "angle": "business",
+    "sensitive": false,
+    "footage_terms": ["Bruno Fernandes contract Manchester United", "Bruno Fernandes captain Pochettino", "Bruno Fernandes goals Manchester United 2026", "Bruno Fernandes penalty Roma"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Bruno Fernandes falls from No. 1 to 11th in Sky Sports' Premier League top 25",
+    "date": "2026-11-17",
+    "source_domain": "skysports.com",
+    "url": "https://www.skysports.com/football/news/13613154/bruno-fernandes-tumbles-as-new-no-1-is-crowned-sky-sports-ranks-the-premier-leagues-top-25-players-right-now",
+    "entities": ["Bruno Fernandes", "Erling Haaland", "Manchester United", "Sky Sports"],
+    "facts": [
+      "Erling Haaland is now No. 1 in the Sky Sports ranking, up from fourth in March.",
+      "Fernandes was No. 1 in March and has dropped 10 places to 11th; he is the only United player in the top 25.",
+      "No player from Tottenham, Newcastle or Aston Villa appears in the top 25."
+    ],
+    "background": "Fernandes is United's captain and the club's best player but his contract runs out at the end of the season.",
+    "angle": "viral",
+    "sensitive": false,
+    "footage_terms": ["Bruno Fernandes best Premier League player", "Haaland Premier League best player 2026", "Premier League top 25 players ranking", "Bruno Fernandes assists compilation"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Berrada admits third coach in under three seasons, 18th place 'unacceptable', £163m spent in summer",
+    "date": "2026-11-20",
+    "source_domain": "skysports.com",
+    "url": "https://www.skysports.com/football/news/13614312/omar-berrada-interview-manchester-united-chief-executive-on-michael-carrick-mauricio-pochettino-recent-transfer-activity-and-the-club-hierarchy",
+    "entities": ["Omar Berrada", "Manchester United", "Glazer family", "Jim Ratcliffe", "Carlos Baleba", "Youri Tielemans", "Andrey Santos"],
+    "facts": [
+      "Berrada said three permanent managers in less than three seasons (ten Hag, Amorim, Carrick) shows instability, and the third straight season with a mid-season coach change.",
+      "United spent £163m this summer, mainly on midfielders Baleba, Tielemans and Santos; Berrada said a left-back like Newcastle's Lewis Hall was considered but not chased at inflated prices.",
+      "He said the Glazer and INEOS co-ownership is working well, and that he had no involvement in Manchester City's alleged wrongdoing from his time there."
+    ],
+    "background": "Berrada was chief operating officer at Manchester City from 2016 and worked at City Football Group until 2024 before joining United.",
+    "angle": "business",
+    "sensitive": false,
+    "footage_terms": ["Omar Berrada interview Manchester United", "Manchester United Glazers fans protest", "Ratcliffe Manchester United ownership", "Manchester United summer transfers 2026"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Pochettino squad audit: Rashford on £325k a week, Mount with four full league games since 2023",
+    "date": "2026-11-20",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50519892/manchester-united-pochettino-fernandes-rashford-transfers",
+    "entities": ["Marcus Rashford", "Mason Mount", "Matthijs de Ligt", "Luke Shaw", "Manchester United", "Mark Ogden"],
+    "facts": [
+      "ESPN's Mark Ogden puts Fernandes and Rashford (29, highest earner at £325,000 a week) in the 'go' column; United failed to move Rashford in the last two summers after loans to Aston Villa and Barcelona.",
+      "Mount is on contract until 2028 and has completed four 90-minute Premier League games since 2023 with 71 games missed to injury; De Ligt has 343 days out injured since his €45m signing in 2024.",
+      "Sesko (€85m) is described as unlikely to recoup his fee; Shaw and Martinez are both out of contract soon."
+    ],
+    "background": "Pochettino inherited a squad built by six previous managers, going back to Louis van Gaal's signing of Luke Shaw in 2014.",
+    "angle": "business",
+    "sensitive": true,
+    "footage_terms": ["Marcus Rashford Barcelona loan", "Mason Mount Manchester United injury", "De Ligt Manchester United", "Rashford Aston Villa loan highlights"],
+    "confidence": "high"
+  },
+  {
+    "headline": "JJ Gabriel, 16, leaving Man Utd amid Real Madrid interest, club annoyed at how he announced it",
+    "date": "2026-11-20",
+    "source_domain": "skysports.com",
+    "url": "https://www.skysports.com/football/news/13614312/omar-berrada-interview-manchester-united-chief-executive-on-michael-carrick-mauricio-pochettino-recent-transfer-activity-and-the-club-hierarchy",
+    "entities": ["JJ Gabriel", "Manchester United", "Real Madrid", "Omar Berrada"],
+    "facts": [
+      "Berrada said the 16-year-old JJ Gabriel is leaving United amid interest from Real Madrid.",
+      "He said the club was unhappy that the player announced his departure without informing United first."
+    ],
+    "background": "United have a history of losing top academy teenagers to bigger clubs, and Berrada is the CEO trying to stabilise recruitment.",
+    "angle": "transfer",
+    "sensitive": true,
+    "footage_terms": ["JJ Gabriel Manchester United youth", "Manchester United academy Real Madrid", "Manchester United U18 highlights", "Real Madrid youth signing teenager"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Bournemouth win 3-0 at Old Trafford, United's eighth league game without a win",
+    "date": "2026-10-25",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/match/_/gameId/401879252/afc-bournemouth-manchester-united",
+    "entities": ["Manchester United", "AFC Bournemouth", "Michael Carrick", "Rayan", "Evanilson", "Marcus Tavernier"],
+    "facts": [
+      "Bournemouth scored through Rayan (38'), Marcus Tavernier (43') and Evanilson (71') at Old Trafford.",
+      "The result dropped United to 16th and extended the winless run to eight league games.",
+      "The match report calls United lifeless; pressure on Michael Carrick grew sharply afterwards."
+    ],
+    "background": "Carrick, appointed to replace Ruben Amorim, had taken United to third place the season before.",
+    "angle": "scandal",
+    "sensitive": false,
+    "footage_terms": ["Manchester United 0-3 Bournemouth highlights", "Man Utd Bournemouth Evanilson goal", "Carrick post match Bournemouth", "Old Trafford fans boo Bournemouth"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Chelsea 2-0 Man Utd: Lisandro Martinez sent off, nine league and cup games without a win",
+    "date": "2026-10-31",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/match/_/gameId/401879248/manchester-united-chelsea",
+    "entities": ["Manchester United", "Chelsea", "Lisandro Martinez", "Morgan Rogers", "Cole Palmer"],
+    "facts": [
+      "Morgan Rogers scored in the 50th minute and Cole Palmer converted a penalty in the 64th at Stamford Bridge.",
+      "Lisandro Martinez was sent off for a second yellow, the booking coming for conceding the penalty.",
+      "United's winless run reached nine matches and Carrick's job was reported to be under pressure."
+    ],
+    "background": "Martinez is in the final year of his United contract, with a 12-month option, according to Sky Sports.",
+    "angle": "scandal",
+    "sensitive": false,
+    "footage_terms": ["Chelsea 2-0 Manchester United highlights", "Lisandro Martinez red card Chelsea", "Cole Palmer penalty Manchester United", "Morgan Rogers goal Chelsea"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "United come from 2-0 down to beat Roma 3-2: Cunha scores twice and is sent off",
+    "date": "2026-11-03",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/match/_/gameId/401915308/as-roma-manchester-united",
+    "entities": ["Manchester United", "AS Roma", "Matheus Cunha", "Bruno Fernandes"],
+    "facts": [
+      "Roma led 2-0 by the 18th minute through Soule and a Malen penalty.",
+      "Bruno Fernandes scored a penalty on the retake after the first was saved, then Matheus Cunha scored in the 83rd and 86th minutes.",
+      "Cunha was sent off for a second yellow in stoppage time; the win ended a nine-match winless run for United."
+    ],
+    "background": "Cunha joined United in 2025 for £62.5m and has 14 goals since arriving, per ESPN's squad audit.",
+    "angle": "win",
+    "sensitive": false,
+    "footage_terms": ["Manchester United 3-2 Roma highlights", "Cunha two goals Roma Champions League", "Fernandes retaken penalty Roma", "Cunha red card Old Trafford"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Spurs and United draw 1-1: Bentancur red-carded for headbutting Luke Shaw, Solanke equalises in added time",
+    "date": "2026-10-10",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/match/_/gameId/401878773/tottenham-hotspur-manchester-united",
+    "entities": ["Tottenham Hotspur", "Manchester United", "Rodrigo Bentancur", "Luke Shaw", "Dominic Solanke", "Bryan Mbeumo"],
+    "facts": [
+      "Bryan Mbeumo put United ahead in the 73rd minute; Dominic Solanke headed an equaliser at 90+2.",
+      "Rodrigo Bentancur was sent off about 12 minutes after coming on for headbutting Luke Shaw.",
+      "It was Tottenham's first point of the season from a draw and left United with 6 points. The page's shot map conflicts on scorers, so details are from the scoreboard and commentary."
+    ],
+    "background": "Spurs beat United in the 2025 Europa League final.",
+    "angle": "scandal",
+    "sensitive": false,
+    "footage_terms": ["Bentancur red card Luke Shaw headbutt", "Manchester United 1-1 Tottenham highlights", "Solanke header Manchester United", "Mbeumo goal Tottenham Old Trafford"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Osimhen reportedly on Man Utd's radar for January under Pochettino, but no release clause",
+    "date": "2026-11-20",
+    "source_domain": "goal.com",
+    "url": "https://www.goal.com/en/news/the-magic-solution-osimhen-ready-to-lead-pochettino-s-revolution-at-manchester-united/blt09de49c5e000e16e",
+    "entities": ["Victor Osimhen", "Manchester United", "Galatasaray", "Mauricio Pochettino"],
+    "facts": [
+      "Goal, citing The Sun and Turkish sources, says United are interested again and Osimhen would accept wages close to his current deal.",
+      "Osimhen is 27 and under contract at Galatasaray until June 2029 with no release clause; Turkish sources value him at £80m to £100m.",
+      "Sesko and Zirkzee have scored four goals combined this season. Neither club has confirmed talks."
+    ],
+    "background": "Osimhen scored 37 goals in his first season after joining Galatasaray permanently and 22 the following season.",
+    "angle": "transfer",
+    "sensitive": false,
+    "footage_terms": ["Victor Osimhen Galatasaray goals", "Osimhen Manchester United transfer", "Osimhen best goals 2026", "Osimhen Galatasaray highlights"],
+    "confidence": "low"
+  },
+  {
+    "headline": "Hurzeler says he is staying at Brighton after Man Utd rumours; Tony Bloom vows to keep him",
+    "date": "2026-11-20",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50540734/fabin-hurzeler-brighton-man-united-mauricio-pochettino",
+    "entities": ["Fabian Hurzeler", "Brighton", "Manchester United", "Tony Bloom"],
+    "facts": [
+      "Reports said United had considered Hurzeler as a replacement for the sacked Michael Carrick before appointing Pochettino.",
+      "Hurzeler called the links just rumours and said he is fully committed to Brighton.",
+      "Brighton are second in the Premier League and Tony Bloom said he would fight hard to keep him."
+    ],
+    "background": "Brighton are second in the table while United sit 18th.",
+    "angle": "coach",
+    "sensitive": false,
+    "footage_terms": ["Hurzeler Brighton press conference", "Brighton second Premier League", "Hurzeler Manchester United link", "Tony Bloom Brighton"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Mudryk's viral podcast: Arsenal was the club he wanted, now on loan at Spurs",
+    "date": "2026-11-20",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50541230/tottenham-roberto-de-zerbi-mykhailo-mudryk-arsenal",
+    "entities": ["Mykhailo Mudryk", "Roberto De Zerbi", "Tottenham Hotspur", "Arsenal", "Chelsea"],
+    "facts": [
+      "On the Guest of Gordon podcast, Mudryk said Arsenal were the club he wanted to play for in 2023 and a move to the Emirates was his dream.",
+      "Mudryk is on loan at Spurs from Chelsea, has played only 16 minutes since arriving on deadline day and has been out with an ankle injury since September.",
+      "De Zerbi said he understands fan frustration, defended Mudryk, sidestepped a question about cancelling the loan, and said the winger is two to three weeks from training."
+    ],
+    "background": "Mudryk, 25, moved to Chelsea in 2023 after being close to joining Arsenal, and has served a drugs ban.",
+    "angle": "viral",
+    "sensitive": true,
+    "footage_terms": ["Mudryk Tottenham De Zerbi press conference", "Mudryk Arsenal podcast Guest of Gordon", "Mudryk Chelsea highlights", "De Zerbi Tottenham press conference"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Thomas Frank unveiled at Crystal Palace, jokes about the Arsenal coffee cup that haunted his Spurs spell",
+    "date": "2026-11-20",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50534780/thomas-frank-crystal-palace-arsenal-tottenham-coffee-cup",
+    "entities": ["Thomas Frank", "Crystal Palace", "Tottenham Hotspur", "Arsenal"],
+    "facts": [
+      "Frank, 53, took over bottom-of-the-table Crystal Palace on a contract to June 2029, with a first game away at Coventry.",
+      "In January, as Spurs manager, he was photographed with an Arsenal-branded cup before a loss to Bournemouth; he now says he hopes not to be pictured with another rival's cup.",
+      "He was sacked by Spurs in February after just under eight months and hinted there is more to tell about that spell one day."
+    ],
+    "background": "Frank had stabilised Brentford in the Premier League and was nominated for Manager of the Year there before moving to Spurs.",
+    "angle": "coach",
+    "sensitive": false,
+    "footage_terms": ["Thomas Frank Crystal Palace press conference", "Thomas Frank Arsenal cup Tottenham", "Frank sacked Tottenham", "Crystal Palace new manager Frank"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Spurs beat Chelsea 2-0 at Stamford Bridge, first win there since 2018, Palmer sent off",
+    "date": "2026-10-24",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/match/_/gameId/401878767/tottenham-hotspur-chelsea",
+    "entities": ["Tottenham Hotspur", "Chelsea", "Mathys Tel", "Cole Palmer", "Mike Penders"],
+    "facts": [
+      "Chelsea keeper Mike Penders punched a corner into his own net in the 77th minute and Mathys Tel added a solo goal in the 87th.",
+      "Cole Palmer was sent off for a second yellow card.",
+      "It was Tottenham's first win at Stamford Bridge since April 2018 and Chelsea's first home league defeat under Xabi Alonso, per the commentary."
+    ],
+    "background": "Spurs had been bottom of the table before their first league win on 19 October.",
+    "angle": "win",
+    "sensitive": false,
+    "footage_terms": ["Chelsea 0-2 Tottenham highlights", "Mathys Tel goal Chelsea", "Penders own goal Tottenham", "Cole Palmer red card Tottenham"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Spurs finally win a league game: 3-1 over Coventry lifts them off the bottom",
+    "date": "2026-10-19",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/match/_/gameId/401879257/coventry-city-tottenham-hotspur",
+    "entities": ["Tottenham Hotspur", "Coventry City", "James Maddison", "Omar Marmoush", "Ben Davies"],
+    "facts": [
+      "James Maddison, Omar Marmoush and Ben Davies (90+6') scored for Spurs; Jack Rudoni replied for Coventry.",
+      "It was Tottenham's first Premier League win of the season and moved them off the bottom of the table.",
+      "Spurs had 65% possession and five shots on target to Coventry's one."
+    ],
+    "background": "De Zerbi arrived at Spurs after the club had faced relegation last season, and Spurs spent over £330m this summer, per Sky Sports.",
+    "angle": "win",
+    "sensitive": false,
+    "footage_terms": ["Tottenham 3-1 Coventry highlights", "Maddison goal Coventry Tottenham", "Marmoush goal Tottenham", "De Zerbi first win Tottenham"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Spurs beat Palace 2-0 as Mateta is sent off; third straight league win, first in about 20 months",
+    "date": "2026-10-31",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/match/_/gameId/401878761/crystal-palace-tottenham-hotspur",
+    "entities": ["Tottenham Hotspur", "Crystal Palace", "Archie Gray", "Jean-Philippe Mateta", "Micky van de Ven"],
+    "facts": [
+      "Archie Gray headed in a corner in the 25th minute and Jan Paul van Hecke added a second in the 73rd.",
+      "Mateta was sent off for a late lunge on Micky van de Ven after VAR upgraded a yellow card.",
+      "Spurs had 34 shots to Palace's 2 and moved up to eighth place."
+    ],
+    "background": "Palace sit in the relegation zone and have now turned to Thomas Frank, who was sacked by Spurs in February.",
+    "angle": "win",
+    "sensitive": false,
+    "footage_terms": ["Tottenham 2-0 Crystal Palace highlights", "Mateta red card Van de Ven", "Archie Gray header Palace", "Van Hecke goal Tottenham"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Leeds 1-0 Spurs: Okafor's late goal ends Leeds' five-game winless run",
+    "date": "2026-11-07",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/match/_/gameId/401878758/tottenham-hotspur-leeds-united",
+    "entities": ["Tottenham Hotspur", "Leeds United", "Noah Okafor"],
+    "facts": [
+      "Substitute Noah Okafor scored in the 79th minute at Elland Road.",
+      "Spurs had about 61% possession but lower expected goals (roughly 0.7 against about 2.0 for Leeds).",
+      "It was only the second Leeds win in 14 Premier League meetings between the clubs."
+    ],
+    "background": "Spurs host Ipswich on 21 November and sit 11th on 12 points.",
+    "angle": "scandal",
+    "sensitive": false,
+    "footage_terms": ["Leeds 1-0 Tottenham highlights", "Okafor goal Leeds Tottenham", "De Zerbi post match Leeds", "Tottenham Elland Road"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Xavi Simons ahead of schedule in ACL recovery, eyeing a return around the end of January",
+    "date": "2026-11-10",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50442502/xavi-simons-tottenham-injury-recovery",
+    "entities": ["Xavi Simons", "Tottenham Hotspur"],
+    "facts": [
+      "Simons tore his anterior cruciate ligament on 25 April in Tottenham's 1-0 win at Wolves, which ruled him out of the last four league games and the World Cup.",
+      "He expects to start phase three of rehab later in November, which would bring him back into team training.",
+      "A competitive return around the nine-month mark, near the end of January, is possible."
+    ],
+    "background": "Spurs are 11th and have scored fewer goals than all but two Premier League sides after 10 matches, per Sky Sports.",
+    "angle": "transfer",
+    "sensitive": true,
+    "footage_terms": ["Xavi Simons Tottenham highlights", "Xavi Simons injury Wolves", "Xavi Simons goals Tottenham", "Xavi Simons rehab"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Spurs spent over £330m in the summer, still score less than almost everyone; Richarlison has not played since August",
+    "date": "2026-11-17",
+    "source_domain": "skysports.com",
+    "url": "https://www.skysports.com/transfer/news/13613290/transfer-news-your-premier-league-clubs-unfinished-business-ahead-of-january-window",
+    "entities": ["Tottenham Hotspur", "Richarlison", "Eli Junior Kroupi", "Everton"],
+    "facts": [
+      "Sky says Spurs spent over £330m this summer yet only two Premier League sides scored fewer goals after 10 matches.",
+      "Richarlison rejected a move to Everton at the end of the summer window, has not played for the first team since August and is out of contract in the summer; Spurs want to find him a new club.",
+      "Eli Junior Kroupi was a summer target; Bournemouth would want a huge fee to sell in January."
+    ],
+    "background": "Spurs won the Europa League in 2025, beating Manchester United in the final.",
+    "angle": "business",
+    "sensitive": false,
+    "footage_terms": ["Richarlison Tottenham highlights", "Tottenham transfer January 2026 targets", "Kroupi Bournemouth goals", "Tottenham summer signings 2026"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Harry Kane wins the Ballon d'Or at 33, one of the oldest first-time winners",
+    "date": "2026-11-11",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50442704/harry-kane-ballon-dor-england-tottenham-hotspur-bayern-munich",
+    "entities": ["Harry Kane", "Bayern Munich", "Tottenham Hotspur", "England"],
+    "facts": [
+      "Kane won his first men's Ballon d'Or at the London Palladium; ESPN's 11 Nov piece describes it as part of a fortnight of milestones, so the ceremony was roughly two weeks earlier.",
+      "He is the fourth-oldest first-time winner, at 33, and has 156 goals in 161 games for Bayern since a €120m move in August 2023.",
+      "He has 91 England goals and is closing on Peter Shilton's record of 125 caps."
+    ],
+    "background": "Kane scored 280 goals in 435 games across 19 years at Tottenham but never broke Clive Allen's single-season club record of 49 goals.",
+    "angle": "record",
+    "sensitive": false,
+    "footage_terms": ["Harry Kane Ballon d'Or 2026 ceremony", "Harry Kane Ballon d'Or speech", "Harry Kane Tottenham best goals", "Harry Kane Bayern highlights"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Fulham 1-1 Newcastle: Murphy's 80th-minute screamer cancelled out three minutes later, pressure on Jaissle grows",
+    "date": "2026-11-07",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/report/_/gameId/401879241",
+    "entities": ["Newcastle United", "Fulham", "Matthias Jaissle", "Jacob Murphy", "Rodrigo Muniz"],
+    "facts": [
+      "Jacob Murphy scored from long range in the 80th minute and Rodrigo Muniz equalised for Fulham in the 83rd.",
+      "A stoppage-time save from Lukas Hornicek prevented a fifth Newcastle league defeat of the season.",
+      "After 10 games Newcastle are 12th with 12 points; Jaissle's side had been six points clear of Fulham in early October."
+    ],
+    "background": "Jaissle previously managed Al Ahli, where he coached Ivan Toney, per Sky Sports.",
+    "angle": "coach",
+    "sensitive": false,
+    "footage_terms": ["Fulham 1-1 Newcastle highlights", "Jacob Murphy goal Fulham", "Jaissle press conference Newcastle", "Muniz equaliser Newcastle"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Everton knock Newcastle out of the Carabao Cup 3-1, then win again in the league four days later",
+    "date": "2026-10-29",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50319617/everton-newcastle-live-carabao-cup-latest-updates-commentary-score-result",
+    "entities": ["Newcastle United", "Everton", "Matthias Jaissle", "David Moyes", "Thierno Barry"],
+    "facts": [
+      "Everton won 3-1 in the Carabao Cup fourth round with goals from James Garner, Hayden Hackney and Thierno Barry, and face Fleetwood in the quarter-final.",
+      "The tie came after Newcastle had lost to Coventry and Aston Villa in the league, putting Jaissle under pressure.",
+      "Everton also beat Newcastle 1-0 in the league four days later with a Barry goal at St James' Park."
+    ],
+    "background": "Everton have not won a trophy since the 1995 FA Cup.",
+    "angle": "scandal",
+    "sensitive": false,
+    "footage_terms": ["Everton 3-1 Newcastle Carabao Cup highlights", "Thierno Barry goal Newcastle", "Newcastle Everton St James Park 1-0", "Moyes Everton Carabao Cup quarter final"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Newcastle full-back Dedic stopped by police with a bow and arrows near a Newcastle reservoir",
+    "date": "2026-11-04",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50399217/newcastle-amar-dedic-prompts-police-action-bow-arrow-sighting",
+    "entities": ["Amar Dedic", "Newcastle United", "Northumbria Police"],
+    "facts": [
+      "A member of the public reported two men carrying a bow and arrows on a track by a reservoir near Harlow Hill, and several police units attended.",
+      "Dedic and a friend were stopped in a vehicle; police found they posed no danger, understood the bow to be for recreational use, seized it and said inquiries are ongoing.",
+      "The article is dated 6 Nov and refers to the incident on Wednesday, so 4 Nov is inferred; no Newcastle statement is quoted."
+    ],
+    "background": "Dedic, 24, is a Bosnia and Herzegovina international who joined from Benfica in the summer for a reported £29.5m.",
+    "angle": "viral",
+    "sensitive": true,
+    "footage_terms": ["Amar Dedic Newcastle highlights", "Dedic Bosnia international", "Dedic Benfica goals", "Newcastle United Dedic debut"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Gordon grades his Barcelona start 7.5 out of 10, says he wants to be 'more selfish'",
+    "date": "2026-11-06",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50377434/anthony-gordon-barcelona-england-premier-league-respect",
+    "entities": ["Anthony Gordon", "Barcelona", "Newcastle United", "Hansi Flick", "Thomas Tuchel"],
+    "facts": [
+      "Gordon left Newcastle for Barcelona this summer for an initial €70m and rates his start 7.5 out of 10, with three goals and four assists.",
+      "He went six games without a goal before scoring against Getafe, Galatasaray and Alaves.",
+      "England coach Tuchel said Gordon has reached another level; Gordon scored in England's World Cup semi-final loss to Argentina."
+    ],
+    "background": "At Newcastle Gordon scored 16 times last season including 10 in the Champions League, after going from 25 January to 2 December 2025 without a league goal or assist.",
+    "angle": "transfer",
+    "sensitive": false,
+    "footage_terms": ["Anthony Gordon Barcelona goals", "Anthony Gordon Galatasaray goal", "Anthony Gordon England Tuchel", "Gordon Barcelona Flick"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Bruno Guimaraes returns to St James' Park with Arsenal, who paid a reported £75m",
+    "date": "2026-11-20",
+    "source_domain": "skysports.com",
+    "url": "https://www.skysports.com/football/news/13612946/bruno-guimaraes-arsenal-midfielder-is-growing-in-stature-but-mikel-arteta-still-wants-more-from-brazilian-ahead-of-newcastle-return",
+    "entities": ["Bruno Guimaraes", "Arsenal", "Newcastle United", "Mikel Arteta", "Matthias Jaissle"],
+    "facts": [
+      "Arsenal signed Guimaraes for a reported £75m; he started slowly after an early-season injury but is now a first-choice midfielder.",
+      "Arteta said he is playing at a high level but wants more impact and more close-range goals, closer to Declan Rice's standard.",
+      "He faces Newcastle at St James' Park on Saturday 21 November (5:30pm); Arsenal are five points clear at the top, and Jaissle says his return will not be a distraction."
+    ],
+    "background": "Guimaraes scored nine Premier League goals for Newcastle last season and 31 league goals in total for the club.",
+    "angle": "transfer",
+    "sensitive": false,
+    "footage_terms": ["Bruno Guimaraes Arsenal highlights", "Bruno Guimaraes Newcastle best goals", "Newcastle vs Arsenal preview", "Guimaraes Arteta press conference"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Dan Burn called into England squad as Guehi withdraws injured",
+    "date": "2026-11-09",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/story/_/id/50431707/dan-burn-marc-guehi-england-squad",
+    "entities": ["Dan Burn", "Marc Guehi", "England", "Thomas Tuchel", "Newcastle United"],
+    "facts": [
+      "Marc Guehi withdrew from Tuchel's squad after being substituted at half-time in Manchester City's loss to Nottingham Forest, ending a run of 15 straight England appearances.",
+      "Newcastle's Dan Burn replaced him for Nations League games against Croatia at Wembley and Spain.",
+      "Burn has 11 caps and last featured at the summer World Cup as a late substitute in the win over Mexico."
+    ],
+    "background": "Guehi's withdrawal came after Manchester City lost to Nottingham Forest; England then played world champions Spain on Sunday 15 November.",
+    "angle": "history",
+    "sensitive": true,
+    "footage_terms": ["Dan Burn England call up", "Dan Burn England Mexico World Cup", "Dan Burn Newcastle highlights", "England Croatia Nations League Burn"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Newcastle's Lewis Hall completes five more first-half dribbles than Yamal in England's 3-2 win in Spain",
+    "date": "2026-11-18",
+    "source_domain": "skysports.com",
+    "url": "https://www.skysports.com/football/news/13549994/lewis-hall-is-englands-best-left-back-because-the-newcastle-player-started-out-as-a-midfielder-in-chelseas-youth-teams",
+    "entities": ["Lewis Hall", "Newcastle United", "England", "Lamine Yamal", "Thomas Tuchel"],
+    "facts": [
+      "In the first half of England's 3-2 win over Spain in Madrid, Hall completed five dribbles, five more than Lamine Yamal.",
+      "Tuchel left him out of the summer World Cup squad, and England went with arguably only one specialist left-back.",
+      "Hall is 22, started as a midfielder in Chelsea's youth teams, and Berrada said United considered him but would not pay inflated prices."
+    ],
+    "background": "Hall played well in Newcastle's home Champions League tie against Barcelona but was in the side that conceded seven in the away leg.",
+    "angle": "viral",
+    "sensitive": false,
+    "footage_terms": ["Lewis Hall England Spain highlights", "Lewis Hall dribbles Yamal", "Spain 2-3 England highlights", "Lewis Hall Newcastle best moments"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Coventry hammer Newcastle 4-1, their first home Premier League win in 25 years",
+    "date": "2026-10-12",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/match/_/gameId/401879267/newcastle-united-coventry-city",
+    "entities": ["Newcastle United", "Coventry City", "Jack Rudoni", "Sven Botman"],
+    "facts": [
+      "Coventry scored through Rudoni (6' penalty), Cherif (48'), Simms (81') and Mfuni (86'); Sven Botman got Newcastle's goal in the 70th minute.",
+      "It was Coventry's first home Premier League victory in 25 years.",
+      "Newcastle had 67% possession and higher expected goals (1.84 to 1.43) but wasted chances."
+    ],
+    "background": "Newcastle were 11th after the defeat, having started the season by drawing 2-2 with Bournemouth.",
+    "angle": "scandal",
+    "sensitive": false,
+    "footage_terms": ["Coventry 4-1 Newcastle highlights", "Coventry City first home win Premier League", "Ellis Simms goal Newcastle", "Rudoni penalty Coventry Newcastle"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Jaissle wants a No. 9 and a No. 10 in January but cash is tight; Toney is admired",
+    "date": "2026-11-17",
+    "source_domain": "skysports.com",
+    "url": "https://www.skysports.com/transfer/news/13613290/transfer-news-your-premier-league-clubs-unfinished-business-ahead-of-january-window",
+    "entities": ["Matthias Jaissle", "Newcastle United", "Ivan Toney", "Joe Willock", "Yoane Wissa"],
+    "facts": [
+      "Sky reports Newcastle lack an out-and-out No. 10, with Willock and Wissa both used there without being natural in the role.",
+      "Signing a nine and a ten looks unlikely unless Newcastle sell players; Jaissle also wants more experience after several senior players left in the summer.",
+      "Jaissle admires Ivan Toney, whom he managed at Al Ahli, but a move is seen as unlikely to fit the club's strategy of buying young."
+    ],
+    "background": "Newcastle have won only one of their five home Premier League games this season.",
+    "angle": "transfer",
+    "sensitive": false,
+    "footage_terms": ["Ivan Toney Al Ahli goals", "Newcastle transfer January 2026", "Jaissle Newcastle press conference", "Joe Willock Newcastle highlights"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Aston Villa beat Man City 2-1 at Villa Park: Jackson brace, Donnarumma blunder",
+    "date": "2026-10-24",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/match/_/gameId/401879256/manchester-city-aston-villa",
+    "entities": ["Aston Villa", "Manchester City", "Nicolas Jackson", "Erling Haaland", "Gianluigi Donnarumma"],
+    "facts": [
+      "Nicolas Jackson scored in the 6th and 60th minutes, with Erling Haaland equalising in the 52nd.",
+      "Commentary singled out an error by City goalkeeper Gianluigi Donnarumma on Jackson's second goal.",
+      "Villa have now beaten City at Villa Park four seasons in a row and moved into the top six, despite City having 63% possession and higher expected goals."
+    ],
+    "background": "Per the match page, it was Villa's fifth win over City in seven league meetings.",
+    "angle": "win",
+    "sensitive": false,
+    "footage_terms": ["Aston Villa 2-1 Manchester City highlights", "Nicolas Jackson goal Villa City", "Donnarumma error Villa", "Emery Villa Man City press conference"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Villa win 1-0 at Newcastle through Manzambi; Emery picks up his 100th Premier League win",
+    "date": "2026-10-17",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/match/_/gameId/401879258/aston-villa-newcastle-united",
+    "entities": ["Aston Villa", "Newcastle United", "Johan Manzambi", "Unai Emery", "Zion Suzuki"],
+    "facts": [
+      "Johan Manzambi headed the only goal in the 36th minute at St James' Park.",
+      "Villa won consecutive league matches at St James' Park for the first time since 1957-58.",
+      "It was Unai Emery's 100th Premier League win as a manager; goalkeeper Zion Suzuki made key saves, including one late on."
+    ],
+    "background": "Villa and Newcastle both finished the match on 8 points.",
+    "angle": "record",
+    "sensitive": false,
+    "footage_terms": ["Newcastle 0-1 Aston Villa highlights", "Manzambi header Newcastle Villa", "Emery 100th Premier League win", "Suzuki save Newcastle"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Barcelona beat Villa 3-0 at Camp Nou, ending Villa's perfect Champions League start",
+    "date": "2026-11-03",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/match/_/gameId/401915387/aston-villa-barcelona",
+    "entities": ["Aston Villa", "Barcelona", "Lamine Yamal", "Raphinha"],
+    "facts": [
+      "Lamine Yamal scored in the 7th minute and Raphinha added two more (52', 64') at Spotify Camp Nou.",
+      "Villa's perfect Champions League record ended; both teams have 9 points after four games.",
+      "Yamal became the competition's top teenage scorer, ahead of Kylian Mbappe, and Raphinha has 19 goals in 13 games this season."
+    ],
+    "background": "Villa went into the match unbeaten in the Champions League league phase, level on 9 points with Barcelona after four games.",
+    "angle": "record",
+    "sensitive": false,
+    "footage_terms": ["Barcelona 3-0 Aston Villa highlights", "Yamal goal Aston Villa", "Raphinha brace Villa Camp Nou", "Emery Barcelona press conference"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Bournemouth knock Villa out of the Carabao Cup with a 3-0 win",
+    "date": "2026-10-28",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/match/_/gameId/401921840/aston-villa-afc-bournemouth",
+    "entities": ["Aston Villa", "AFC Bournemouth", "Marco Bizot", "Amine Adli"],
+    "facts": [
+      "Amine Adli (7'), Lewis Cook (51') and Alvaro Rodriguez (69') scored at the Vitality Stadium in the fourth round.",
+      "Villa goalkeeper Marco Bizot made seven saves on target.",
+      "The page's shot map conflicts with the scorer list, so scorers and minutes should be rechecked against a match report."
+    ],
+    "background": "Villa went out of the competition at the fourth-round stage, days before drawing 1-1 with Fulham in the league.",
+    "angle": "scandal",
+    "sensitive": false,
+    "footage_terms": ["Bournemouth 3-0 Aston Villa Carabao Cup highlights", "Amine Adli goal Villa", "Bizot saves Bournemouth", "Lewis Cook goal Villa"],
+    "confidence": "low"
+  },
+  {
+    "headline": "Villa keeper Suzuki fumbles a corner into his own net as Fulham draw 1-1",
+    "date": "2026-10-31",
+    "source_domain": "espn.com",
+    "url": "https://www.espn.com/soccer/match/_/gameId/401879250/fulham-aston-villa",
+    "entities": ["Aston Villa", "Fulham", "Zion Suzuki", "John McGinn", "Nicolas Jackson"],
+    "facts": [
+      "Nicolas Jackson scored in the 39th minute; Zion Suzuki then tried to parry an Alex Iwobi corner and the ball crossed the line in the 64th minute.",
+      "John McGinn hit the crossbar with a first-half penalty.",
+      "Fulham had higher expected goals (2.21 to 1.71) and Villa stayed ninth."
+    ],
+    "background": "Sky's Ref Watch later asked whether Lammens fouled Suzuki before United's late equaliser at Old Trafford on 8 November.",
+    "angle": "viral",
+    "sensitive": false,
+    "footage_terms": ["Aston Villa 1-1 Fulham highlights", "Suzuki own goal Fulham", "McGinn penalty miss Fulham", "Iwobi corner Villa"],
+    "confidence": "medium"
+  },
+  {
+    "headline": "Onana signs a new Villa contract while recovering from a cruciate injury suffered at the World Cup",
+    "date": "2026-11-18",
+    "source_domain": "avfc.co.uk",
+    "url": "https://www.avfc.co.uk/news/2026/november/18/interviews-its-been-amazing-so-far-amadou-onana/",
+    "entities": ["Amadou Onana", "Aston Villa", "Unai Emery", "Belgium"],
+    "facts": [
+      "Onana, 25, signed a new Villa contract while still recovering from a cruciate ligament injury that ended his World Cup with Belgium early.",
+      "He said the early rehab was hard, especially mentally, and that the club renewing his deal during recovery meant a lot.",
+      "Emery's preview says Onana is returning from injury and Villa are also offering extensions to Lindelof, Maatsen and George Hemmings."
+    ],
+    "background": "Onana joined Villa from Everton in summer 2024 and credited Emery with the club's recent European success, including a Europa League title.",
+    "angle": "business",
+    "sensitive": true,
+    "footage_terms": ["Amadou Onana Aston Villa highlights", "Onana new contract Villa", "Onana Belgium World Cup injury", "Emery Onana press conference"],
+    "confidence": "high"
+  },
+  {
+    "headline": "Sky: Villa's biggest unfinished business is a new contract for Unai Emery",
+    "date": "2026-11-17",
+    "source_domain": "skysports.com",
+    "url": "https://www.skysports.com/transfer/news/13613290/transfer-news-your-premier-league-clubs-unfinished-business-ahead-of-january-window",
+    "entities": ["Unai Emery", "Aston Villa"],
+    "facts": [
+      "Sky calls Villa's summer window a success, with high-profile departures replaced and a younger squad with all positions filled.",
+      "It says the main unfinished business is a new contract for Emery, which it rates above any signing.",
+      "ESPN's projection puts Villa 10th with 13 points but 13th at the end of the season because their underlying expected-goals numbers look weak."
+    ],
+    "background": "Emery has won the Europa League with Villa and reached his 100th Premier League win as a manager on 17 October.",
+    "angle": "coach",
+    "sensitive": false,
+    "footage_terms": ["Unai Emery Aston Villa press conference", "Unai Emery Europa League Villa", "Emery best moments Villa", "Aston Villa Emery contract"],
+    "confidence": "medium"
+  }
+]

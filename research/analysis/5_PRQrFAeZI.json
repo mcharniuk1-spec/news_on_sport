@@ -1,0 +1,168 @@
+{
+ "video_id": "5_PRQrFAeZI",
+ "topic": "Short Hakimi vs Cancelo duel clips from a PSG match, tactical-cam view with player name tags",
+ "hero": "Achraf Hakimi (PSG #2, blue-red) and Joao Cancelo (orange kit) per on-screen tags",
+ "hero_role": "the two rival fullbacks in the duel",
+ "media_type_overall": "real broadcast footage",
+ "hook": "Wide tactical cam of players with floating name tags A.HAKIMI and J.CANCELO",
+ "subtitle_style": "Small floating name-tag labels 'A.HAKIMI' (blue) and 'J.CANCELO' (red) above players; no captions",
+ "reaction_overlays": "floating arrow name tags tracking players, slight zoom on close-ups",
+ "transition_summary": "Alternating wide tactical cam with tagged players and close/dribble shots; 3 detected cuts in 36 s but clips switch about every 2-4 s",
+ "audio_note": "Unknown; likely trending track, no commentary in transcript",
+ "reuse_segments": [
+  {
+   "t0": 0,
+   "t1": 36,
+   "what": "Hakimi v Cancelo duel in Champions League match, tactical and close cam",
+   "origin_guess": "broadcast match",
+   "rights_risk": "high",
+   "how_to_reuse": "needs licensed UCL rights; recreate with generated tactical animations"
+  }
+ ],
+ "frames": [
+  {
+   "idx": 1,
+   "t": 0,
+   "desc": "Wide pitch with orange and blue players, tags A.HAKIMI and J.CANCELO",
+   "type": "video",
+   "text_on_screen": "A.HAKIMI J.CANCELO",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 2,
+   "t": 2,
+   "desc": "Wide pitch, centre line, tags A.HAKIMI",
+   "type": "video",
+   "text_on_screen": "A.HAKIMI",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 3,
+   "t": 4,
+   "desc": "Hakimi in PSG shirt close, Champions League board behind, orange player on ground",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 4,
+   "t": 6,
+   "desc": "Wide pitch, tags A.HAKIMI J.CANCELO",
+   "type": "video",
+   "text_on_screen": "A.HAKIMI J.CANCELO",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 5,
+   "t": 8,
+   "desc": "Wide pitch with tags A.HAKIMI J.CANCELO close together",
+   "type": "video",
+   "text_on_screen": "A.HAKIMI J.CANCELO",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 6,
+   "t": 10,
+   "desc": "Close shot, orange-shirted player #2 and PSG player with ball",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 7,
+   "t": 12,
+   "desc": "Wide pitch with goal and keeper, J.CANCELO tag",
+   "type": "video",
+   "text_on_screen": "J.CANCELO",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 8,
+   "t": 14,
+   "desc": "Wide pitch, tags A.HAKIMI J.CANCELO",
+   "type": "video",
+   "text_on_screen": "A.HAKIMI J.CANCELO",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 9,
+   "t": 16,
+   "desc": "Cancelo #2 in orange kit dribbling close",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 10,
+   "t": 18,
+   "desc": "Wide pitch, tag J.CANCELO",
+   "type": "video",
+   "text_on_screen": "J.CANCELO",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 11,
+   "t": 20,
+   "desc": "Wide pitch, orange and blue players, no tags",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 12,
+   "t": 22,
+   "desc": "Wide pitch with tags A.HAKIMI J.CANCELO",
+   "type": "video",
+   "text_on_screen": "A.HAKIMI J.CANCELO",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 13,
+   "t": 24,
+   "desc": "Wide pitch with Heineken boards, tags",
+   "type": "video",
+   "text_on_screen": "A.HAKIMI J.CANCELO",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 14,
+   "t": 26,
+   "desc": "Wide pitch near goal, tags",
+   "type": "video",
+   "text_on_screen": "A.HAKIMI J.CANCELO",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 15,
+   "t": 28,
+   "desc": "Hakimi captain close, blue-red kit, ball at feet",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 16,
+   "t": 30,
+   "desc": "Hakimi running with ball, close, captain armband",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 17,
+   "t": 32,
+   "desc": "Wide pitch, PSG attacking, blue players, J.CANCELO tag",
+   "type": "video",
+   "text_on_screen": "J.CANCELO",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 18,
+   "t": 34,
+   "desc": "Wide pitch with PS5 ads, tag J.CANCELO",
+   "type": "video",
+   "text_on_screen": "J.CANCELO",
+   "transition_to_next": "none"
+  }
+ ]
+}

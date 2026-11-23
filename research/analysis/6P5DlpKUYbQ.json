@@ -1,0 +1,144 @@
+{
+ "video_id": "6P5DlpKUYbQ",
+ "topic": "Short: Acrobatic ball control compilation (bicycle kicks, high volleys)",
+ "hero": "Various players (unidentified)",
+ "hero_role": "subjects of acrobatic highlights",
+ "media_type_overall": "real broadcast footage",
+ "hook": "Wide shot of match with TEOCRI watermark, player juggling then high-kick",
+ "subtitle_style": "none; channel watermark TEOCRI bottom-centre in yellow-green",
+ "reaction_overlays": "TEOCRI watermark only; no reaction overlays",
+ "transition_summary": "Hard cuts every ~2-5 s (cuts at 7.1, 10.3, 12.6, 14.9, 24.2), about 3 per 10 s; mostly wide to close pairs",
+ "audio_note": "Music only (transcript shows [music])",
+ "reuse_segments": [
+  {
+   "t0": 0,
+   "t1": 30,
+   "what": "Acrobatic control and bicycle-kick clips from several matches",
+   "origin_guess": "broadcast match",
+   "rights_risk": "high",
+   "how_to_reuse": "licensed footage required or recreate with game/generated visuals"
+  }
+ ],
+ "frames": [
+  {
+   "idx": 1,
+   "t": 0,
+   "desc": "Wide pitch shot with Heineken board, player in white",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 2,
+   "t": 2,
+   "desc": "Player in white shirt juggling/controlling ball with heel, tight shot",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 3,
+   "t": 4,
+   "desc": "Wide stadium shot with UBS banner and players spread out",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 4,
+   "t": 6,
+   "desc": "Wide pitch view of football match in stadium",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 5,
+   "t": 8,
+   "desc": "Player in blue no.11 performing high flying kick over red-kit opponent",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 6,
+   "t": 10,
+   "desc": "Wide pitch view with blue and red players",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 7,
+   "t": 12,
+   "desc": "Player in AC Milan red-black kit high kick in front of stand with Napoli board",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 8,
+   "t": 14,
+   "desc": "Wide pitch view in Spanish stadium with orange and white players",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 9,
+   "t": 16,
+   "desc": "Wide pitch view in Spanish stadium with orange and white players",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 10,
+   "t": 18,
+   "desc": "Long-haired player in Spain red kit doing bicycle kick, referee behind",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 11,
+   "t": 20,
+   "desc": "Wide pitch view with white and maroon teams",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 12,
+   "t": 22,
+   "desc": "Player no.18 in dark kit executing bicycle kick in stadium, Juventus stand",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 13,
+   "t": 24,
+   "desc": "Wide pitch views of red vs white teams in stadium",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 14,
+   "t": 26,
+   "desc": "Wide pitch views of red vs white teams in stadium",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 15,
+   "t": 28,
+   "desc": "Red-kit player volleying ball in air near touchline",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "none"
+  }
+ ]
+}

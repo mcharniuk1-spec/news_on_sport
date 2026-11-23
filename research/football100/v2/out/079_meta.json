@@ -1,0 +1,108 @@
+{
+ "no": 79,
+ "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/079_seventh_tier_wimborne_town_knock_lea.mp4",
+ "total": 42.4,
+ "outro_start": 35.81,
+ "cover": true,
+ "seq": [
+  {
+   "id": "s01",
+   "kind": "HOOK",
+   "start": 0.1,
+   "end": 1.6,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/079/s01.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s02",
+   "kind": "INTERVIEW",
+   "start": 7.1,
+   "end": 8.866666666666667,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/079/s02.mp4",
+   "clip_dur": 1.766,
+   "frames": 42
+  },
+  {
+   "id": "s03",
+   "kind": "COMIC1",
+   "start": 14.166666666666666,
+   "end": 16.166666666666668,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/079/s03.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s04",
+   "kind": "NEWS",
+   "start": 18.333333333333332,
+   "end": 20.1,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/079/s04.mp4",
+   "clip_dur": 1.767,
+   "frames": 42
+  },
+  {
+   "id": "s05",
+   "kind": "COMIC2",
+   "start": 22.433333333333334,
+   "end": 24.433333333333334,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/079/s05.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s06",
+   "kind": "COMIC3",
+   "start": 28.1,
+   "end": 30.1,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/079/s06.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s07",
+   "kind": "PROVOC",
+   "start": 31.333333333333332,
+   "end": 32.833333333333336,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/079/s07.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s08",
+   "kind": "STATS",
+   "start": 34.1,
+   "end": 35.6,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/079/s08.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  }
+ ],
+ "missing": [],
+ "dropped": [],
+ "cards": [
+  {
+   "text": "Fifty-seven places",
+   "a": 3.6666666666666665,
+   "b": 5.866666666666666
+  },
+  {
+   "text": "Goal after nine minutes",
+   "a": 9.466666666666667,
+   "b": 11.666666666666666
+  }
+ ],
+ "caption_sprites": 119,
+ "whoosh": [
+  0.0,
+  7.0,
+  14.066666666666666,
+  18.23333333333333,
+  22.333333333333332,
+  28.0,
+  31.23333333333333,
+  34.0,
+  35.71
+ ],
+ "shots": 13
+}

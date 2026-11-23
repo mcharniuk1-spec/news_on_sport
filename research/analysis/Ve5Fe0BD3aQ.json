@@ -1,0 +1,56 @@
+{
+ "video_id": "Ve5Fe0BD3aQ",
+ "topic": "Short: Football meme, Yamal grew his beard; AI-voiced joke",
+ "hero": "Lamine Yamal",
+ "hero_role": "butt of the joke",
+ "media_type_overall": "mixed",
+ "hook": "Close-up of Yamal in orange Barca away kit, hand on cheek, caption Yamal actually let his beard grow out",
+ "subtitle_style": "White small sentence caption at lower left with emoji, no outline",
+ "reaction_overlays": "Emoji at end of caption; kitchen clip in letterboxed frame",
+ "transition_summary": "Few cuts: one cut at 1.9 s, then static cut; about 3 cuts in 7 s",
+ "audio_note": "Voice-over joke (transcript: I mean, it is okay, bro...), likely meme audio",
+ "reuse_segments": [
+  {
+   "t0": 0,
+   "t1": 2,
+   "what": "Yamal close-up in orange kit",
+   "origin_guess": "broadcast match/interview",
+   "rights_risk": "high",
+   "how_to_reuse": "replace with licensed or generated image"
+  },
+  {
+   "t0": 2,
+   "t1": 6,
+   "what": "Kitchen clip with person cooking",
+   "origin_guess": "unknown",
+   "rights_risk": "medium",
+   "how_to_reuse": "unknown rights; recreate"
+  }
+ ],
+ "frames": [
+  {
+   "idx": 1,
+   "t": 0,
+   "desc": "Close-up of Yamal in orange Barca away kit, hand on face, subtitle",
+   "type": "video",
+   "text_on_screen": "Yamal actually let his beard grow out",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 2,
+   "t": 2,
+   "desc": "Letterboxed kitchen counter clip with person cooking and bottle",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 3,
+   "t": 4,
+   "desc": "Close-up of bearded man similar to Yamal with face mark, orange kit",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "none"
+  }
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "video_id": "8bUkjN18EOQ",
+ "topic": "Meme short: 'debate is over' - Ronaldo and Messi FC rating cards compared (Ronaldo 84 ST vs Messi 89 CAM)",
+ "hero": "Cristiano Ronaldo (card) and Lionel Messi (card), per card names",
+ "hero_role": "subjects of the comparison",
+ "media_type_overall": "mixed",
+ "hook": "Black frame with small Ronaldo broadcast clip left and text 'debate is over' with emoji",
+ "subtitle_style": "Small white text 'debate is over' with rose and crying emoji, top of each panel",
+ "reaction_overlays": "Emoji (wilted rose, crying face), FC card side-by-side, green highlight borders",
+ "transition_summary": "3 detected cuts in 7 s: a clip pop-in then two static card reveals; very fast, about 4 cuts per 7 s",
+ "audio_note": "Unknown; likely meme/sad trending sound",
+ "reuse_segments": [
+  {
+   "t0": 0,
+   "t1": 7,
+   "what": "Ronaldo clip and FC cards",
+   "origin_guess": "broadcast / game graphic",
+   "rights_risk": "medium",
+   "how_to_reuse": "recreate with own card graphics"
+  }
+ ],
+ "frames": [
+  {
+   "idx": 1,
+   "t": 0,
+   "desc": "Small Ronaldo-in-red-Portugal-#7 broadcast clip at left, text 'debate is over' on black",
+   "type": "video",
+   "text_on_screen": "debate is over",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 2,
+   "t": 2,
+   "desc": "Gold FC card Ronaldo 84 ST with stats, green border, text",
+   "type": "graphic_card",
+   "text_on_screen": "debate is over Cristiano Ronaldo 84 ST",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 3,
+   "t": 4,
+   "desc": "Gold FC card Messi 89 CAM with stats, green border, text",
+   "type": "graphic_card",
+   "text_on_screen": "debate is over Messi 89 CAM",
+   "transition_to_next": "none"
+  }
+ ]
+}

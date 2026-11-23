@@ -1,0 +1,915 @@
+{
+ "no": 27,
+ "style": "INK-COMIC",
+ "prop": "ball",
+ "cast": {
+  "r9": {
+   "role": "player",
+   "number": "9",
+   "shirt": "#2e9e5b",
+   "hair": "#2b2b3a"
+  },
+  "robot": {
+   "role": "mascot",
+   "shirt": "#9aa4b2"
+  },
+  "def1": {
+   "role": "striker",
+   "shirt": "#3f6fb5",
+   "number": "4"
+  },
+  "def2": {
+   "role": "striker",
+   "shirt": "#d94f4f",
+   "number": "5",
+   "hair": "#a03a2a"
+  }
+ },
+ "sequences": {
+  "s01": {
+   "type": "HOOK",
+   "q": "Lost 2-0, yet promoted: how?",
+   "prop": "scoreboard",
+   "prop_text": "0:2",
+   "emote": "shock",
+   "board": "typed"
+  },
+  "s02": {
+   "type": "NEWS",
+   "name": "Ronaldo Nazario (R9)",
+   "fact": "An investor in Inter de Limeira",
+   "ticker": "Investor in Limeira",
+   "icons": [
+    "scoreboard",
+    "chart-up",
+    "flag"
+   ],
+   "role": "player",
+   "actor": "r9"
+  },
+  "s03": {
+   "type": "COMIC",
+   "bg": "stadium",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "r9",
+       "x": 760,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "happy",
+       "scale": 1.4,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "scoreboard",
+       "x": 320,
+       "y": 640,
+       "scale": 2.2,
+       "text": "0:2",
+       "face": "sad"
+      },
+      {
+       "kind": "flag",
+       "x": 770,
+       "y": 470,
+       "scale": 1.5,
+       "label": "Serie B",
+       "anim": "grow"
+      },
+      {
+       "kind": "ball",
+       "x": 560,
+       "y": 1405,
+       "scale": 1.1
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.42,
+     "actors": [
+      {
+       "id": "r9",
+       "x": 760,
+       "y": 1440,
+       "pose": "hold",
+       "emote": "sweat",
+       "scale": 1.4,
+       "flip": true,
+       "hold": {
+        "kind": "phone",
+        "hand": "both",
+        "scale": 0.9
+       }
+      }
+     ],
+     "props": [
+      {
+       "kind": "scoreboard",
+       "x": 320,
+       "y": 640,
+       "scale": 2.2,
+       "text": "0:2",
+       "face": "sad"
+      },
+      {
+       "kind": "flag",
+       "x": 770,
+       "y": 470,
+       "scale": 1.5,
+       "label": "Serie B"
+      },
+      {
+       "kind": "ball",
+       "x": 560,
+       "y": 1405,
+       "scale": 1.1
+      }
+     ],
+     "cam": "push"
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.42,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "r9",
+       "x": 760,
+       "y": 1440,
+       "pose": "shrug",
+       "emote": "sweat",
+       "scale": 1.4,
+       "flip": true,
+       "hold": {
+        "kind": "phone",
+        "hand": "both",
+        "scale": 0.9
+       }
+      }
+     ],
+     "props": [
+      {
+       "kind": "scoreboard",
+       "x": 320,
+       "y": 640,
+       "scale": 2.2,
+       "text": "0:2",
+       "face": "sad"
+      },
+      {
+       "kind": "flag",
+       "x": 770,
+       "y": 470,
+       "scale": 1.5,
+       "label": "Serie B"
+      },
+      {
+       "kind": "ball",
+       "x": 560,
+       "y": 1405,
+       "scale": 1.1
+      }
+     ]
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "r9",
+       "x": 760,
+       "y": 1440,
+       "pose": "cheer",
+       "emote": "smug",
+       "scale": 1.4,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "scoreboard",
+       "x": 320,
+       "y": 640,
+       "scale": 2.2,
+       "text": "0:2",
+       "face": "happy",
+       "label": "Promoted"
+      },
+      {
+       "kind": "flag",
+       "x": 770,
+       "y": 470,
+       "scale": 1.5,
+       "label": "Serie B"
+      },
+      {
+       "kind": "ball",
+       "x": 560,
+       "y": 1405,
+       "scale": 1.1
+      }
+     ],
+     "sfx": {
+      "text": "DING",
+      "x": 250,
+      "y": 1110,
+      "r": 100
+     },
+     "fx": [
+      {
+       "kind": "confetti",
+       "x": 540,
+       "y": 600
+      }
+     ]
+    }
+   ]
+  },
+  "s04": {
+   "type": "COMIC",
+   "bg": "living-room",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "robot",
+       "x": 180,
+       "y": 1440,
+       "pose": "run",
+       "emote": "smug",
+       "scale": 1.2
+      },
+      {
+       "id": "def1",
+       "x": 500,
+       "y": 1300,
+       "pose": "crouch",
+       "emote": "neutral",
+       "scale": 1.0,
+       "flip": true
+      },
+      {
+       "id": "def2",
+       "x": 660,
+       "y": 1300,
+       "pose": "crouch",
+       "emote": "neutral",
+       "scale": 1.0,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "screen",
+       "x": 540,
+       "y": 640,
+       "scale": 3.0,
+       "face": "wink"
+      },
+      {
+       "kind": "heart",
+       "x": 200,
+       "y": 400,
+       "scale": 0.9,
+       "anim": "orbit"
+      },
+      {
+       "kind": "heart",
+       "x": 960,
+       "y": 370,
+       "scale": 0.9,
+       "anim": "orbit"
+      },
+      {
+       "kind": "heart",
+       "x": 160,
+       "y": 610,
+       "scale": 0.8,
+       "anim": "float"
+      },
+      {
+       "kind": "ball",
+       "x": 400,
+       "y": 1410,
+       "scale": 1.0
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.4,
+     "actors": [
+      {
+       "id": "robot",
+       "x": 820,
+       "y": 1440,
+       "pose": "run",
+       "emote": "smug",
+       "scale": 1.2
+      },
+      {
+       "id": "def1",
+       "x": 500,
+       "y": 1300,
+       "pose": "shock",
+       "emote": "shock",
+       "scale": 1.0,
+       "flip": true
+      },
+      {
+       "id": "def2",
+       "x": 660,
+       "y": 1300,
+       "pose": "shock",
+       "emote": "shock",
+       "scale": 1.0,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "screen",
+       "x": 540,
+       "y": 640,
+       "scale": 3.0,
+       "face": "wink"
+      },
+      {
+       "kind": "heart",
+       "x": 200,
+       "y": 400,
+       "scale": 0.9,
+       "anim": "orbit"
+      },
+      {
+       "kind": "heart",
+       "x": 960,
+       "y": 370,
+       "scale": 0.9,
+       "anim": "orbit"
+      },
+      {
+       "kind": "heart",
+       "x": 160,
+       "y": 610,
+       "scale": 0.8,
+       "anim": "float"
+      },
+      {
+       "kind": "ball",
+       "x": 960,
+       "y": 1410,
+       "scale": 1.0
+      }
+     ],
+     "cam": "pan",
+     "sfx": {
+      "text": "WHOOSH",
+      "x": 330,
+      "y": 1010,
+      "r": 100
+     }
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.4,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "r9",
+       "x": 290,
+       "y": 1440,
+       "pose": "present",
+       "emote": "smug",
+       "scale": 1.4,
+       "hold": {
+        "kind": "sticker",
+        "hand": "R",
+        "scale": 0.8
+       }
+      },
+      {
+       "id": "robot",
+       "x": 820,
+       "y": 1440,
+       "pose": "shock",
+       "emote": "shock",
+       "scale": 1.2
+      },
+      {
+       "id": "def1",
+       "x": 500,
+       "y": 1300,
+       "pose": "shock",
+       "emote": "shock",
+       "scale": 1.0,
+       "flip": true
+      },
+      {
+       "id": "def2",
+       "x": 660,
+       "y": 1300,
+       "pose": "shock",
+       "emote": "shock",
+       "scale": 1.0,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "screen",
+       "x": 540,
+       "y": 640,
+       "scale": 3.0,
+       "face": "wink"
+      },
+      {
+       "kind": "heart",
+       "x": 200,
+       "y": 400,
+       "scale": 0.9,
+       "anim": "orbit"
+      },
+      {
+       "kind": "heart",
+       "x": 960,
+       "y": 370,
+       "scale": 0.9,
+       "anim": "orbit"
+      },
+      {
+       "kind": "heart",
+       "x": 160,
+       "y": 610,
+       "scale": 0.8,
+       "anim": "float"
+      },
+      {
+       "kind": "ball",
+       "x": 960,
+       "y": 1410,
+       "scale": 1.0
+      }
+     ],
+     "bubble": {
+      "who": "r9",
+      "text": "Fake wonder goal"
+     }
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "r9",
+       "x": 290,
+       "y": 1440,
+       "pose": "facepalm",
+       "emote": "sweat",
+       "scale": 1.4
+      },
+      {
+       "id": "robot",
+       "x": 820,
+       "y": 1440,
+       "pose": "thumbsup",
+       "emote": "wink",
+       "scale": 1.2
+      },
+      {
+       "id": "def1",
+       "x": 500,
+       "y": 1300,
+       "pose": "idle",
+       "emote": "sweat",
+       "scale": 1.0,
+       "flip": true
+      },
+      {
+       "id": "def2",
+       "x": 660,
+       "y": 1300,
+       "pose": "idle",
+       "emote": "sweat",
+       "scale": 1.0,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "screen",
+       "x": 540,
+       "y": 640,
+       "scale": 3.0,
+       "face": "wink"
+      },
+      {
+       "kind": "heart",
+       "x": 200,
+       "y": 400,
+       "scale": 0.9,
+       "anim": "orbit"
+      },
+      {
+       "kind": "heart",
+       "x": 960,
+       "y": 370,
+       "scale": 0.9,
+       "anim": "orbit"
+      },
+      {
+       "kind": "heart",
+       "x": 160,
+       "y": 610,
+       "scale": 0.8,
+       "anim": "float"
+      },
+      {
+       "kind": "ball",
+       "x": 960,
+       "y": 1410,
+       "scale": 1.0
+      }
+     ],
+     "bubble": {
+      "who": "robot",
+      "icon": "thumbs-up"
+     }
+    }
+   ]
+  },
+  "s05": {
+   "type": "COMIC",
+   "bg": "sky",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "r9",
+       "x": 215,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "happy",
+       "scale": 1.4
+      },
+      {
+       "id": "robot",
+       "x": 860,
+       "y": 1440,
+       "pose": "present",
+       "emote": "neutral",
+       "scale": 1.1,
+       "flip": true,
+       "hold": {
+        "kind": "cup",
+        "hand": "L",
+        "scale": 0.6
+       }
+      }
+     ],
+     "props": [
+      {
+       "kind": "bench",
+       "x": 300,
+       "y": 1390,
+       "scale": 2.0,
+       "layer": "back"
+      },
+      {
+       "kind": "umbrella",
+       "x": 790,
+       "y": 620,
+       "scale": 2.6,
+       "layer": "back"
+      },
+      {
+       "kind": "flag",
+       "x": 560,
+       "y": 1340,
+       "scale": 0.8
+      },
+      {
+       "kind": "ball",
+       "x": 330,
+       "y": 1330,
+       "scale": 0.5,
+       "anim": "arc"
+      },
+      {
+       "kind": "ball",
+       "x": 420,
+       "y": 1290,
+       "scale": 0.5,
+       "anim": "arc"
+      },
+      {
+       "kind": "ball",
+       "x": 510,
+       "y": 1330,
+       "scale": 0.5,
+       "anim": "arc"
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.42,
+     "actors": [
+      {
+       "id": "r9",
+       "x": 215,
+       "y": 1440,
+       "pose": "lean",
+       "emote": "wink",
+       "scale": 1.4
+      },
+      {
+       "id": "robot",
+       "x": 860,
+       "y": 1440,
+       "pose": "present",
+       "emote": "neutral",
+       "scale": 1.1,
+       "flip": true,
+       "hold": {
+        "kind": "cup",
+        "hand": "L",
+        "scale": 0.6
+       }
+      }
+     ],
+     "props": [
+      {
+       "kind": "bench",
+       "x": 300,
+       "y": 1390,
+       "scale": 2.0,
+       "layer": "back"
+      },
+      {
+       "kind": "umbrella",
+       "x": 790,
+       "y": 620,
+       "scale": 2.6,
+       "layer": "back"
+      },
+      {
+       "kind": "flag",
+       "x": 560,
+       "y": 1340,
+       "scale": 0.8
+      },
+      {
+       "kind": "ball",
+       "x": 380,
+       "y": 1240,
+       "scale": 0.8
+      },
+      {
+       "kind": "ball",
+       "x": 460,
+       "y": 1140,
+       "scale": 0.8
+      },
+      {
+       "kind": "ball",
+       "x": 540,
+       "y": 1050,
+       "scale": 0.8
+      }
+     ],
+     "cam": "push"
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.42,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "r9",
+       "x": 215,
+       "y": 1440,
+       "pose": "shock",
+       "emote": "shock",
+       "scale": 1.4
+      },
+      {
+       "id": "robot",
+       "x": 860,
+       "y": 1440,
+       "pose": "shock",
+       "emote": "shock",
+       "scale": 1.1,
+       "flip": true,
+       "hold": {
+        "kind": "cup",
+        "hand": "L",
+        "scale": 0.6
+       }
+      }
+     ],
+     "props": [
+      {
+       "kind": "bench",
+       "x": 300,
+       "y": 1390,
+       "scale": 2.0,
+       "layer": "back"
+      },
+      {
+       "kind": "umbrella",
+       "x": 790,
+       "y": 620,
+       "scale": 2.6,
+       "layer": "back"
+      },
+      {
+       "kind": "flag",
+       "x": 560,
+       "y": 1340,
+       "scale": 0.8
+      },
+      {
+       "kind": "ball",
+       "x": 380,
+       "y": 1240,
+       "scale": 0.8
+      },
+      {
+       "kind": "ball",
+       "x": 460,
+       "y": 1140,
+       "scale": 0.8
+      },
+      {
+       "kind": "ball",
+       "x": 540,
+       "y": 1050,
+       "scale": 0.8
+      }
+     ],
+     "sfx": {
+      "text": "WHOOSH",
+      "x": 560,
+      "y": 760,
+      "r": 100
+     }
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "r9",
+       "x": 215,
+       "y": 1440,
+       "pose": "shrug",
+       "emote": "sweat",
+       "scale": 1.4
+      },
+      {
+       "id": "robot",
+       "x": 860,
+       "y": 1440,
+       "pose": "present",
+       "emote": "smug",
+       "scale": 1.1,
+       "flip": true,
+       "hold": {
+        "kind": "cup",
+        "hand": "L",
+        "scale": 0.6
+       }
+      }
+     ],
+     "props": [
+      {
+       "kind": "bench",
+       "x": 300,
+       "y": 1390,
+       "scale": 2.0,
+       "layer": "back"
+      },
+      {
+       "kind": "umbrella",
+       "x": 790,
+       "y": 620,
+       "scale": 2.6,
+       "layer": "back"
+      },
+      {
+       "kind": "flag",
+       "x": 560,
+       "y": 1340,
+       "scale": 0.8
+      },
+      {
+       "kind": "ball",
+       "x": 380,
+       "y": 1240,
+       "scale": 0.8
+      },
+      {
+       "kind": "ball",
+       "x": 460,
+       "y": 1140,
+       "scale": 0.8
+      },
+      {
+       "kind": "ball",
+       "x": 540,
+       "y": 1050,
+       "scale": 0.8
+      },
+      {
+       "kind": "tag",
+       "x": 760,
+       "y": 1250,
+       "scale": 1.1,
+       "label": "1.15 million",
+       "anim": "drop"
+      }
+     ]
+    }
+   ]
+  },
+  "s06": {
+   "type": "PROVOC",
+   "q": "Tennis membership: worth 1.15 million?",
+   "a": "Worth it",
+   "b": "Too steep",
+   "split": [
+    27,
+    73
+   ],
+   "mood": "cheeky"
+  },
+  "s07": {
+   "type": "INTERVIEW",
+   "label": "REPORTER ASKS",
+   "bubble": "Tennis game with Ronaldo: any tackling?",
+   "answer": {
+    "icon": "card-yellow",
+    "gesture": "headscratch",
+    "emote": "smug"
+   },
+   "subject": "Ronaldo Nazario (R9)",
+   "subject_cast": "r9"
+  },
+  "s08": {
+   "type": "STATS",
+   "items": [
+    {
+     "icon": "tag",
+     "value": "1",
+     "label": "Sold Cruzeiro"
+    },
+    {
+     "icon": "tag",
+     "value": "1",
+     "label": "Sold Valladolid"
+    },
+    {
+     "icon": "coin",
+     "value": "1",
+     "label": "Invested"
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,113 @@
+{
+ "no": 76,
+ "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/076_norwich_thump_bristol_city_5_0_and_h.mp4",
+ "total": 44.733333333333334,
+ "outro_start": 38.14,
+ "cover": true,
+ "seq": [
+  {
+   "id": "s01",
+   "kind": "HOOK",
+   "start": 0.1,
+   "end": 1.6,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/076/s01.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s02",
+   "kind": "COMIC1",
+   "start": 4.166666666666667,
+   "end": 6.166666666666667,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/076/s02.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s03",
+   "kind": "COMIC2",
+   "start": 8.8,
+   "end": 10.8,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/076/s03.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s04",
+   "kind": "NEWS",
+   "start": 12.866666666666667,
+   "end": 14.633333333333333,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/076/s04.mp4",
+   "clip_dur": 1.767,
+   "frames": 42
+  },
+  {
+   "id": "s05",
+   "kind": "COMIC3",
+   "start": 16.8,
+   "end": 18.8,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/076/s05.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s06",
+   "kind": "INTERVIEW",
+   "start": 24.866666666666667,
+   "end": 26.633333333333333,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/076/s06.mp4",
+   "clip_dur": 1.767,
+   "frames": 42
+  },
+  {
+   "id": "s07",
+   "kind": "PROVOC",
+   "start": 28.866666666666667,
+   "end": 30.366666666666667,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/076/s07.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s08",
+   "kind": "STATS",
+   "start": 32.6,
+   "end": 34.1,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/076/s08.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  }
+ ],
+ "missing": [],
+ "dropped": [],
+ "cards": [
+  {
+   "text": "Skubala apologises",
+   "a": 22.066666666666666,
+   "b": 24.266666666666666
+  },
+  {
+   "text": "Fifth home defeat",
+   "a": 26.933333333333334,
+   "b": 28.733333333333334
+  },
+  {
+   "text": "Nine goals, two away wins",
+   "a": 30.533333333333335,
+   "b": 32.46666666666667
+  }
+ ],
+ "caption_sprites": 116,
+ "whoosh": [
+  0.0,
+  4.066666666666667,
+  8.700000000000001,
+  12.766666666666667,
+  16.7,
+  24.766666666666666,
+  28.766666666666666,
+  32.5,
+  38.04
+ ],
+ "shots": 15
+}

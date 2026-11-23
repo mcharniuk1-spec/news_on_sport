@@ -1,0 +1,16 @@
+{
+  "palette": [
+    "#b4d7da",
+    "#354564",
+    "#f3c35f",
+    "#ec846f",
+    "#92c5a6"
+  ],
+  "style": "SITCOM-YELLOW",
+  "font": "Arial Bold",
+  "characters": [
+    "Fabio Cannavaro",
+    "generic reporter"
+  ],
+  "recurring_prop": "vending"
+}

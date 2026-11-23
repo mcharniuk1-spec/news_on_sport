@@ -1,0 +1,97 @@
+{
+ "no": 99,
+ "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/099_hearts_lose_1_3_at_thun_slipping_tow.mp4",
+ "total": 31.533333333333335,
+ "outro_start": 25.36,
+ "cover": true,
+ "seq": [
+  {
+   "id": "s01",
+   "kind": "HOOK",
+   "start": 0.1,
+   "end": 1.6,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/099/s01.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s02",
+   "kind": "STATS",
+   "start": 4.1,
+   "end": 5.6,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/099/s02.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s03",
+   "kind": "COMIC1",
+   "start": 8.133333333333333,
+   "end": 10.133333333333333,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/099/s03.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s04",
+   "kind": "COMIC2",
+   "start": 12.566666666666666,
+   "end": 14.566666666666666,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/099/s04.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s05",
+   "kind": "PROVOC",
+   "start": 15.6,
+   "end": 17.1,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/099/s05.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s06",
+   "kind": "COMIC3",
+   "start": 18.3,
+   "end": 20.3,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/099/s06.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s07",
+   "kind": "NEWS",
+   "start": 20.866666666666667,
+   "end": 22.633333333333333,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/099/s07.mp4",
+   "clip_dur": 1.766,
+   "frames": 42
+  },
+  {
+   "id": "s08",
+   "kind": "INTERVIEW",
+   "start": 23.333333333333332,
+   "end": 25.1,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/099/s08.mp4",
+   "clip_dur": 1.767,
+   "frames": 42
+  }
+ ],
+ "missing": [],
+ "dropped": [],
+ "cards": [],
+ "caption_sprites": 89,
+ "whoosh": [
+  0.0,
+  3.9999999999999996,
+  8.033333333333333,
+  12.466666666666667,
+  15.5,
+  18.2,
+  20.766666666666666,
+  23.23333333333333,
+  25.26
+ ],
+ "shots": 9
+}

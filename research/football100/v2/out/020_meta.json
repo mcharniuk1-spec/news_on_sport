@@ -1,0 +1,97 @@
+{
+ "no": 20,
+ "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/020_ousmane_dembele.mp4",
+ "total": 36.6,
+ "outro_start": 30.76,
+ "cover": true,
+ "seq": [
+  {
+   "id": "s01",
+   "kind": "HOOK",
+   "start": 0.1,
+   "end": 1.6,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/020/s01.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s02",
+   "kind": "COMIC1",
+   "start": 5.033333333333333,
+   "end": 7.033333333333333,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/020/s02.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s03",
+   "kind": "STATS",
+   "start": 8.466666666666667,
+   "end": 9.966666666666667,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/020/s03.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s04",
+   "kind": "COMIC2",
+   "start": 10.566666666666666,
+   "end": 12.566666666666666,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/020/s04.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s05",
+   "kind": "NEWS",
+   "start": 14.033333333333333,
+   "end": 15.8,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/020/s05.mp4",
+   "clip_dur": 1.767,
+   "frames": 42
+  },
+  {
+   "id": "s06",
+   "kind": "COMIC3",
+   "start": 17.2,
+   "end": 19.2,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/020/s06.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s07",
+   "kind": "PROVOC",
+   "start": 21.666666666666668,
+   "end": 23.166666666666668,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/020/s07.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s08",
+   "kind": "INTERVIEW",
+   "start": 24.333333333333332,
+   "end": 26.1,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/020/s08.mp4",
+   "clip_dur": 1.766,
+   "frames": 42
+  }
+ ],
+ "missing": [],
+ "dropped": [],
+ "cards": [],
+ "caption_sprites": 84,
+ "whoosh": [
+  0.0,
+  4.933333333333334,
+  8.366666666666667,
+  10.466666666666667,
+  13.933333333333334,
+  17.099999999999998,
+  21.566666666666666,
+  24.23333333333333,
+  30.66
+ ],
+ "shots": 11
+}

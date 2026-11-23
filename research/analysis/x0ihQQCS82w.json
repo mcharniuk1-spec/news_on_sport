@@ -1,0 +1,272 @@
+{
+ "video_id": "x0ihQQCS82w",
+ "topic": "Street giveaway: YouTuber/producer hands out all his Beats headphones to strangers at night, promise made if France won the World Cup (per transcript)",
+ "hero": "Young man in pink Adidas jacket and plaid scarf with blue crossbody bag (creator DaHood per description)",
+ "hero_role": "protagonist giving gifts to strangers",
+ "media_type_overall": "mixed",
+ "hook": "Man in pink jacket in a car back seat opens a white Beats box, quick cut to approaching stranger at car window at night",
+ "subtitle_style": "none (Spanish speech only)",
+ "reaction_overlays": "Instagram story screenshot overlay inset left at ~20s; no stickers",
+ "transition_summary": "Cinematic handheld, quick hard cuts and some whip pans; ~3.5 cuts/10s (21 cuts in 70s); warm night grading",
+ "audio_note": "Spanish dialogue/voice-over ('Guys, new YouTube video. Like I said, if we won the World Cup I'd give away... 100 Beats giveaway') plus ambient street sound and music",
+ "reuse_segments": [
+  {
+   "t0": 0,
+   "t1": 62,
+   "what": "Own-shot street giveaway scenes with Beats boxes",
+   "origin_guess": "unknown",
+   "rights_risk": "low",
+   "how_to_reuse": "Own production; recreate with own actors and generic headphone boxes (avoid Beats branding) in same handheld night style"
+  }
+ ],
+ "frames": [
+  {
+   "idx": 1,
+   "t": 0,
+   "desc": "Man in pink Adidas jacket in car back seat holding white box, side view",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 2,
+   "t": 2,
+   "desc": "View from inside car through window: stranger in dark top outside at night, creator's hand at window",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 3,
+   "t": 4,
+   "desc": "Man in pink jacket inside car, hand extended to window; stranger outside",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 4,
+   "t": 6,
+   "desc": "Man in pink jacket by door intercom, holding two Beats headphone boxes, lit lobby",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 5,
+   "t": 8,
+   "desc": "Same man with boxes, smiling to camera, hallway lights",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 6,
+   "t": 10,
+   "desc": "Same man by doorway, hand reaching to the keypad",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 7,
+   "t": 12,
+   "desc": "Close: man holds two Beats boxes toward camera",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 8,
+   "t": 14,
+   "desc": "Man standing in corridor, one hand on bag, entrance behind",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 9,
+   "t": 16,
+   "desc": "Man in pink looking at camera, plant at left",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 10,
+   "t": 18,
+   "desc": "Man loading car trunk full of white boxes, blue car",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 11,
+   "t": 20,
+   "desc": "Rear window view of car interior, boxes visible, man blurred outside",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 12,
+   "t": 22,
+   "desc": "Man in back seat opening a white box",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 13,
+   "t": 24,
+   "desc": "Man in back seat looking down, hand holding box",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 14,
+   "t": 26,
+   "desc": "Man in back seat opening a box, scarf and pink jacket",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 15,
+   "t": 28,
+   "desc": "Man raising a Beats case in back seat",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 16,
+   "t": 30,
+   "desc": "Dark VW car with LED front light bar driving on night street",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 17,
+   "t": 32,
+   "desc": "VW with light bar turning on street, stranger visible",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 18,
+   "t": 34,
+   "desc": "Close pink jacket back in dark car seat",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 19,
+   "t": 36,
+   "desc": "Two men in puffer jackets near car at night, one handing a box",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 20,
+   "t": 38,
+   "desc": "Man in grey puffer and another near rear of blue car with boxes",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 21,
+   "t": 40,
+   "desc": "Man in pink leaning on wall, Instagram story screenshot inset at left",
+   "type": "video",
+   "text_on_screen": "Instagram story overlay",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 22,
+   "t": 42,
+   "desc": "Same shot, man in pink looking right, story inset",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 23,
+   "t": 44,
+   "desc": "Man in pink with crossbody bag and stranger holding phone at wall",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 24,
+   "t": 46,
+   "desc": "Man in pink and stranger leaning against wall, side view",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 25,
+   "t": 48,
+   "desc": "Man in black puffer with box walking under arcade at night",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 26,
+   "t": 50,
+   "desc": "Man in black puffer holding box, arcade pillar",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 27,
+   "t": 52,
+   "desc": "Blurred pedestrian walking past glass shopfront",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 28,
+   "t": 54,
+   "desc": "Man in black puffer looking up, arcade ceiling lights",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 29,
+   "t": 56,
+   "desc": "Same man looking up, speaking",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 30,
+   "t": 58,
+   "desc": "Man in grey puffer back to camera at shop window",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 31,
+   "t": 60,
+   "desc": "Group of men chatting at lit glass shopfront at night",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "none"
+  }
+ ]
+}

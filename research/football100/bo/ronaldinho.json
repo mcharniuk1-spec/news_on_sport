@@ -1,0 +1,745 @@
+{
+  "name": "Ronaldinho",
+  "years": "Ballon d'Or 2005; last pro match 2015; retired 2018; Ravenna comeback 2026",
+  "research_date": "2026-11-20",
+  "recent_news": [
+    {
+      "date": "2026-11-19",
+      "headline": "Ronaldinho named Hotcoin brand ambassador in Brazil",
+      "facts": [
+        "Hotcoin is a crypto and multi-asset trading platform founded in 2017 with 8.1M+ users claimed in its own press release.",
+        "Campaign tagline: 'Play Your Way. Make It Magic.' Brand initiatives, user experiences and events promised 'in the coming months'.",
+        "Sponsored press release (GlobeNewswire), not independent reporting; carries a not-investment-advice disclaimer."
+      ],
+      "source_url": "https://manilatimes.net/2026/11/19/tmt-newswire/globenewswire/ronaldinho-joins-hotcoin-as-official-brand-ambassador-in-brazil/2473919",
+      "source_domain": "manilatimes.net",
+      "tone": "neutral",
+      "sensitive": false,
+      "note": "Sponsored content. Do not endorse or joke about crypto products; treat as a neutral 'new job' beat only."
+    },
+    {
+      "date": "2026-11-19",
+      "headline": "Ravenna coach Mandorlini: door 'wide open' for Ronaldinho to play again",
+      "facts": [
+        "Coach Andrea Mandorlini said Ronaldinho told him he would like to return and enjoyed time with the squad.",
+        "He praised Ronaldinho's influence and said he played a key role in the derby win.",
+        "Ravenna are second in Serie C; Ronaldinho signed in June and holds a stake in the club."
+      ],
+      "source_url": "https://www.espn.com/soccer/story/_/id/50530520/ravenna-coach-door-open-ronaldinho-play-again",
+      "source_domain": "espn.com",
+      "tone": "praise",
+      "sensitive": false
+    },
+    {
+      "date": "2026-11-18",
+      "headline": "Antonio Cassano calls Ronaldinho's comeback a 'pagliacciata'",
+      "facts": [
+        "Cassano said Ronaldinho is one of the five greatest players ever but called the return an ugly spectacle.",
+        "He asked what Ronaldinho was doing on the pitch at 46 'in those conditions' and guessed friendship with Cipriani or a big fee.",
+        "A CNN Brasil headline on 16 Nov says he caused 'discomfort' in Serie C, according to a journalist."
+      ],
+      "source_url": "https://www.tuttomercatoweb.com/serie-a/cassano-ronaldinho-il-ritorno-campo-pagliacciata-condizioni-2294886",
+      "source_domain": "tuttomercatoweb.com",
+      "tone": "roast",
+      "sensitive": true,
+      "note": "Cassano's 'conditions' comment touches on physical fitness; attribute the quote, never add body jokes."
+    },
+    {
+      "date": "2026-11-16",
+      "headline": "Ronaldinho's comeback-match shirt goes to auction on MatchWornShirt",
+      "facts": [
+        "The signed shirt worn in the Forli match was opened for auction on 15 Nov, jointly with Ravenna.",
+        "Bidding was just above R$17,000 with 42 bidders at the time of reporting; auction runs to the 25th.",
+        "A signed mini-ball is part of the lot."
+      ],
+      "source_url": "https://www.jornaldocomercio.com/esportes/2026/11/1270733-camisa-usada-por-ronaldinho-gaucho-em-retorno-aos-gramados-na-italia-vai-a-leilao.html",
+      "source_domain": "jornaldocomercio.com",
+      "tone": "neutral",
+      "sensitive": false
+    },
+    {
+      "date": "2026-11-16",
+      "headline": "Ronaldinho after Ravenna debut: 'if the president calls me, I'll come back'",
+      "facts": [
+        "He said the game 'went by too quickly' and the dressing room and fun on the pitch were the best part.",
+        "President Ignazio Cipriani said Ronaldinho did not want to leave the pitch; asked about a return: 'We'll see how things go'.",
+        "Vice-president Ariedo Braida hopes to see him at the club again; nothing confirmed."
+      ],
+      "source_url": "https://www.espn.com/soccer/story/_/id/50501062/ronaldinho-comeback-ravenna-italy-serie-c",
+      "source_domain": "espn.com",
+      "tone": "praise",
+      "sensitive": false
+    },
+    {
+      "date": "2026-11-16",
+      "headline": "Business report: Ronaldinho Day numbers and the criticism",
+      "facts": [
+        "About 7,000 in a stadium expanded for the day; tickets sold out within minutes, partial ticket revenue near EUR 200,000; hospitality seats EUR 150.",
+        "Italian press (Messaggero, Corriere dello Sport) reportedly put his fixed fee near EUR 500,000, tied to appearance and promo work; Ravenna Instagram gained 200,000+ followers and passed 340,000.",
+        "Sportitalia director Michele Criscitiello called it damaging to the league's image; season-ticket holders had to buy a separate ticket; NSS says Ronaldinho left the stadium at half-time and played almost entirely from a standing position (LiveScore says he left during the second half)."
+      ],
+      "source_url": "https://www.nss-sports.com/en/news/47707/ronaldinho-day-ravenna-serie-c-report-marketing-numbers",
+      "source_domain": "nss-sports.com",
+      "tone": "neutral",
+      "sensitive": false,
+      "note": "Fee figure is press-reported, not confirmed by club. Roast material: standing play, early exit, ticket pricing."
+    },
+    {
+      "date": "2026-11-15",
+      "headline": "Ronaldinho, 46, makes Ravenna debut: 2-0 win over Forli, 45 minutes, no goal",
+      "facts": [
+        "First competitive match in 11 years (last: Fluminense, Sept 2015); started at No. 10 in Serie C Group B, matchday 14.",
+        "28 touches, one key pass, two right-sided corners; involved in the build-up to Giulio Donati's opening goal (35th/36th minute per sources).",
+        "He stayed on 299 career goals and missed his target of a 300th; he was replaced at the break."
+      ],
+      "source_url": "https://www.livescore.com/en/news/football/more/ronaldinhos-return-best-moments-and-key-stats-from-the-brazilian-legends-game-in-ravenna-football-italia/",
+      "source_domain": "livescore.com",
+      "tone": "neutral",
+      "sensitive": false,
+      "note": "Sources differ on minute of the goal (35' vs 36') and on touches (about 20 vs 28)."
+    },
+    {
+      "date": "2026-11-15",
+      "headline": "Debut atmosphere: R10 Stand, Times Square, Sky Italia and a triple bow",
+      "facts": [
+        "A temporary 1,800-seat 'R10' stand was added (Korea Times/AFP).",
+        "Match shown live on Sky Italia (Flashscore) and on Times Square screens (Il Resto del Carlino); Dida and Serginho stayed on the pitch with him at half-time (LiveScore).",
+        "He received applause at half-time and bowed three times to the home end."
+      ],
+      "source_url": "https://www.ilrestodelcarlino.it/emilia-romagna/gioca-ispira-un-gol-e-88694854",
+      "source_domain": "ilrestodelcarlino.it",
+      "tone": "praise",
+      "sensitive": false,
+      "note": "Attendance conflicts: about 7,000 (NSS, Carlino) vs 12,000-seat stadium sold out (LiveScore) vs 5,000 + 1,800 temporary (AFP). Bocelli and flares could not be verified and were removed."
+    },
+    {
+      "date": "2026-11-14",
+      "headline": "Mandorlini: Ronaldinho starts in a 4-3-3; viral 'glue on the boot or AI?' training clip",
+      "facts": [
+        "Coach: 'We'll play a 4-3-3, and Ronaldinho will start. Working with him is fantastic.' He also said the squad had not trained much with him.",
+        "A final-training ball-control clip went viral, with headlines asking whether it was glue on the boot or AI; the article neither confirms nor debunks.",
+        "Ronaldinho cited friendship with president Cipriani and 'a unique, special moment' as reasons for the comeback (separate Yahoo article); Ravenna sat second with 29 points from 13 matches, Forli 14th with 15."
+      ],
+      "source_url": "https://sports.yahoo.com/articles/glue-boot-ai-r10s-ravenna-141700656.html",
+      "source_domain": "sports.yahoo.com",
+      "tone": "roast",
+      "sensitive": false,
+      "note": "Use the 'AI' angle only as a joke about the clip going viral; no claim that it is fake."
+    },
+    {
+      "date": "2026-11-02",
+      "headline": "CNN Brasil: mystery around Ronaldinho's training and physical preparation",
+      "facts": [
+        "No details had been released about his training routine, his arrival date in Italy or how long he would train with teammates.",
+        "Il Resto del Carlino questioned his preparation and the time available to integrate him.",
+        "Ravenna were second in Group B with 26 points after 12 rounds, behind Spezia."
+      ],
+      "source_url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/ronaldinho-gaucho-volta-aos-gramados-sob-misterio-sobre-preparacao-fisica/",
+      "source_domain": "cnnbrasil.com.br",
+      "tone": "neutral",
+      "sensitive": true,
+      "note": "About fitness and preparation. Use only as news, never as a body joke."
+    },
+    {
+      "date": "2026-10-23",
+      "headline": "Ravenna announce the date: Ronaldinho returns on 15 November vs Forli",
+      "facts": [
+        "Club post (translated): 'The magic never left. Now it is time to take it back to the pitch.'",
+        "Owner Ignazio Cipriani said the aim was to bring the whole city closer to the team.",
+        "Ravenna were second in Group B with 20 points from 10 matches, eight behind leaders Spezia."
+      ],
+      "source_url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-10/ronaldinho-gaucho-anuncia-volta-aos-gramados-pelo-italiano-ravenna",
+      "source_domain": "agenciabrasil.ebc.com.br",
+      "tone": "praise",
+      "sensitive": false
+    },
+    {
+      "date": "2026-09-03",
+      "headline": "R10 kit sells 2,000 in 48 hours; he was not on the bench for Ravenna's league opener",
+      "facts": [
+        "Presented in Ravenna on 20 August with 3,000+ present; shirts cost EUR 129; about 2,000 sold online in the first 48 hours (Carlino reported this on 1 Aug).",
+        "He was not even on the bench for the league opener vs Reggiana on 24 August.",
+        "He was registered on the squad list; owner Cipriani, 38, said the signing was central to the project, not just marketing."
+      ],
+      "source_url": "https://www.correiodamanha.com.br/esporte/esportes/2026/09/amp/316729-ronaldinho-gaucho-embala-o-grande-sonho-do-ravenna-de-finalmente-chegar-a-primeira-divisao-do-campeonato-italiano.html",
+      "source_domain": "correiodamanha.com.br",
+      "tone": "neutral",
+      "sensitive": false
+    },
+    {
+      "date": "2026-08-20",
+      "headline": "Ronaldinho lands at Forli airport; beachside presentation (just outside the 90-day window, explains the current story)",
+      "facts": [
+        "Landed by private jet and signed balls for airport staff; thousands attended a beachside ceremony in rain.",
+        "Said 'I'm here to help' and 'it depends on the president and coach' when asked about playing.",
+        "At the signing he posed with the new shirt draped over his 2005 Ballon d'Or trophy (Flashscore); he missed the league opener at Reggio Emilia."
+      ],
+      "source_url": "https://www.thescore.com/news/3582923",
+      "source_domain": "thescore.com",
+      "tone": "neutral",
+      "sensitive": false,
+      "note": "Dated about 92 days before 2026-11-20; kept because it explains the November comeback.",
+      "also_sources": [
+        "https://www.flashscore.com/news/soccer-serie-c2-c-extremely-happy-ronaldinho-comes-out-of-retirement-for-italy-s-third-tier/hWWdlM5S/"
+      ]
+    }
+  ],
+  "now": {
+    "as_of": "2026-11-20",
+    "headline": "Back from retirement at 46 as a registered player, minority shareholder and ambassador of Serie C club Ravenna FC by Cipriani.",
+    "club_or_role": "Ravenna FC (Italy, Serie C Group B, third tier): registered player (shirt No. 10), shareholder, club ambassador and strategic partner; his R10 brand is linked to the club's kit (Flashscore and Goal call R10 the official technical sponsor/shirt supplier; the club's own June post mentions a four-year Nike technical partnership from the 2024 takeover, so the current kit-supplier set-up is unclear).",
+    "signed": "Announced 23 June 2026 at Cipriani Miami (official club post, which says he signs as a registered player); Goal and Football Italia describe the agreement as struck in August; arrived in Italy around 20 August 2026 (thescore: Thursday; Flashscore says 21 Aug; Sporza says Wednesday); first league squad listing for the 24 August opener at Reggio Emilia but not on the bench.",
+    "contract": "Terms not published. Press (Messaggero, Corriere dello Sport via NSS Sports) reported a fixed component near EUR 500,000 tied to appearance and promo work, plus image rights and merchandise. Treat as reported, not confirmed.",
+    "this_season_numbers": "1 competitive appearance (15 Nov, 2-0 vs Forli): started, about 45 minutes, 0 goals, involved in the build-up to the opening goal, 28 touches, 1 key pass, 2 corners (LiveScore). Career tally stays at 299 goals (266 club + 33 Brazil senior), one short of the 300 he wants.",
+    "team_situation": "Ravenna were second in Serie C Group B, 29 points from 13 matches before the derby (Yahoo); leaders Spezia (Korea Times/AFP after the derby: six points behind). Owner Ignazio Cipriani (took over 2024 with investor Black Duck) wants Serie A; best Serie B finish was 8th in 1996-97. Next fixture: Livorno v Ravenna, 22 Nov 2026, 15:30 (Goal).",
+    "what_people_say": [
+      "Coach Mandorlini: door 'wide open' for him to play again; he praised his influence and said he played a key role in the derby win.",
+      "Ronaldinho: 'if the president calls me, I'll come back'; football 'went too fast'.",
+      "Antonio Cassano: 'a pagliacciata' (a clown show). Sportitalia's Michele Criscitiello: damaging to the league's image.",
+      "Ravenna owner Ignazio Cipriani, quoted by Correio da Manha on 3 Sept (before the debut), insisted the signing is not a simple front or marketing move. After the derby he said Ronaldinho did not want to come off (ESPN)."
+    ],
+    "side_projects": [
+      "Hotcoin brand ambassador in Brazil (announced 19 Nov, sponsored release).",
+      "Signed match shirt up for auction on MatchWornShirt (bids above R$17,000).",
+      "Flashscore interview reports an Amazon Prime docu-series 'Vida de Campeones' and the 'Wine of the Champions' winery project in Puglia (interview undated, June/Aug 2026)."
+    ],
+    "next_known_events": [
+      "22 Nov 2026: Livorno v Ravenna; no confirmation he will play."
+    ],
+    "sources": [
+      "https://www.espn.com/soccer/story/_/id/50530520/ravenna-coach-door-open-ronaldinho-play-again",
+      "https://www.espn.com/soccer/story/_/id/50501062/ronaldinho-comeback-ravenna-italy-serie-c",
+      "https://www.livescore.com/en/news/football/more/ronaldinhos-return-best-moments-and-key-stats-from-the-brazilian-legends-game-in-ravenna-football-italia/",
+      "https://www.nss-sports.com/en/news/47707/ronaldinho-day-ravenna-serie-c-report-marketing-numbers",
+      "https://sports.yahoo.com/articles/glue-boot-ai-r10s-ravenna-141700656.html",
+      "https://www.goal.com/en/news/ronaldinho-announces-his-return-to-the-pitch-an-eagerly-awaited-appearance-in-an-italian-derby/bltafe676ae126f7f71",
+      "https://www.flashscore.com/news/soccer-serie-c-group-b-exclusive-ronaldinho-on-joining-ravenna-his-comeback-and-what-comes-next/Y7ThBSwQ/",
+      "https://www.ravennafc.it/en/wp-json/wp/v2/posts/56520",
+      "https://www.correiodamanha.com.br/esporte/esportes/2026/09/amp/316729-ronaldinho-gaucho-embala-o-grande-sonho-do-ravenna-de-finalmente-chegar-a-primeira-divisao-do-campeonato-italiano.html",
+      "https://www.koreatimes.co.kr/sports/20261116/icon-ronaldinho-makes-winning-return-to-pro-football-in-italys-third-division"
+    ]
+  },
+  "quick_context": [
+    "Ronaldinho won the 2005 Ballon d'Or and was FIFA World Player of the Year in 2004 and 2005, the third player to win that award more than once.",
+    "At Barcelona he won La Liga in 2004-05 and 2005-06 and the 2005-06 Champions League; in 2005-06 he scored 26 goals (17 in La Liga, 7 in the Champions League).",
+    "He won the 2002 World Cup with Brazil, finished with 33 goals in 97 caps for Brazil, and his retirement was confirmed in January 2018."
+  ],
+  "roast_past": [
+    {
+      "angle": "Fluminense 2015: 80 days, 9 official games, zero goals, zero assists, contract ended by mutual consent. The last time he played, it lasted less than a school term.",
+      "source_url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-italiano/ronaldinho-gaucho-volta-a-jogar-futebol-profissionalmente-apos-11-anos",
+      "safe": true,
+      "note": "80 days, 9 official matches, no goals/assists: CNN Brasil. Contract terminated by mutual agreement on 28 Sept 2015: Wikipedia."
+    },
+    {
+      "angle": "The 2002 World Cup England match: scores a 40-yard free kick over Seaman, and seven minutes later he is sent off. Brilliant and gone in under ten minutes.",
+      "source_url": "https://en.wikipedia.org/wiki/Ronaldinho",
+      "safe": true
+    },
+    {
+      "angle": "2007-08: Barcelona sold him after a season without major trophies, with reports of partying and poor training; Ancelotti publicly questioned his physical condition at Milan. Keep it to 'party reputation', no health angle.",
+      "source_url": "https://en.wikipedia.org/wiki/Ronaldinho",
+      "safe": true
+    },
+    {
+      "angle": "His retirement in 2018 was announced by his brother and agent, not by a farewell match. Eight years later he announced the comeback himself.",
+      "source_url": "https://en.wikipedia.org/wiki/Ronaldinho",
+      "safe": true
+    },
+    {
+      "angle": "Milan paid EUR 22.05 million for him in 2008 (after he turned down a GBP 25.5 million City offer), and he later moved on to Flamengo, Atletico Mineiro, Queretaro and Fluminense: a world tour of ex-giants.",
+      "source_url": "https://en.wikipedia.org/wiki/Ronaldinho",
+      "safe": true
+    },
+    {
+      "angle": "Trophy drought at the top: after 2005-06 he never won the Champions League again; his last big club prize was the 2013 Copa Libertadores (4 goals, 8 assists).",
+      "source_url": "https://en.wikipedia.org/wiki/Ronaldinho",
+      "safe": true
+    },
+    {
+      "angle": "He stopped playing on 299 goals, one short of 300, and the 300th became the stated reason for this comeback (ESPN: he chose Ravenna to chase the 'magic number').",
+      "source_url": "https://www.flashscore.com/news/soccer-serie-c2-c-ronaldinho-returns-to-football-after-eleven-years-to-give-ravenna-a-global-audience/AqH4ymN7/",
+      "safe": true
+    }
+  ],
+  "roast_now": [
+    {
+      "angle": "11 years without an official match, then 45 minutes in Serie C: first touch after about 7 min 35 sec, roughly 20 to 28 touches in total.",
+      "source_url": "https://www.ilrestodelcarlino.it/emilia-romagna/gioca-ispira-un-gol-e-88694854",
+      "safe": true
+    },
+    {
+      "angle": "He played the first half and left the stadium early (NSS: at half-time rather than staying with the team; LiveScore: during the second half; sources differ). NSS wrote he played almost entirely from a standing position, calling for the ball at his feet (use as 'conserved energy', attribute to NSS, no body jokes).",
+      "source_url": "https://www.nss-sports.com/en/news/47707/ronaldinho-day-ravenna-serie-c-report-marketing-numbers",
+      "safe": true
+    },
+    {
+      "angle": "Preparation: Coach Mandorlini on 14 Nov: 'We haven't trained him much, but the important thing is that he's here with us.' Coach also said he would start in a 4-3-3.",
+      "source_url": "https://football-italia.net/ravenna-coach-mandorlini-having-ronaldinho/",
+      "safe": true
+    },
+    {
+      "angle": "The marketing machine: billboards in Milan (about 300 km away) on 31 July, shirts at EUR 129 with about 2,000 sold in 48 hours, a temporary 1,800-seat 'R10 Stand', hospitality tickets at EUR 150, and season tickets not valid for the match.",
+      "source_url": "https://www.nss-sports.com/en/news/47707/ronaldinho-day-ravenna-serie-c-report-marketing-numbers",
+      "safe": true,
+      "also_sources": [
+        "https://www.ilrestodelcarlino.it/ravenna/cronaca/e-ronaldinhomania-8b22682a",
+        "https://www.correiodamanha.com.br/esporte/esportes/2026/09/amp/316729-ronaldinho-gaucho-embala-o-grande-sonho-do-ravenna-de-finalmente-chegar-a-primeira-divisao-do-campeonato-italiano.html"
+      ]
+    },
+    {
+      "angle": "Critics in full voice: Cassano calls it a 'pagliacciata' (clown show); Sportitalia's Criscitiello says it damages the league. Ronaldinho answers with the same smile.",
+      "source_url": "https://www.tuttomercatoweb.com/serie-a/cassano-ronaldinho-il-ritorno-campo-pagliacciata-condizioni-2294886",
+      "safe": true
+    },
+    {
+      "angle": "The shirt he wore for 45 minutes is already on auction, signed, with 42 bidders above R$17,000. The most efficient 45 minutes of his career.",
+      "source_url": "https://www.jornaldocomercio.com/esportes/2026/11/1270733-camisa-usada-por-ronaldinho-gaucho-em-retorno-aos-gramados-na-italia-vai-a-leilao.html",
+      "safe": true
+    },
+    {
+      "angle": "Not on the bench for the season opener on 24 August, then a hero's welcome on 15 November: a rare case of a player whose benching was a marketing plan.",
+      "source_url": "https://www.correiodamanha.com.br/esporte/esportes/2026/09/amp/316729-ronaldinho-gaucho-embala-o-grande-sonho-do-ravenna-de-finalmente-chegar-a-primeira-divisao-do-campeonato-italiano.html",
+      "safe": true
+    },
+    {
+      "angle": "After showing a first-touch control in training he joked that people would say it was AI (Sporza). Viral clip headlines asked if it was glue or AI. Use as a self-aware gag, not as a claim of fakery.",
+      "source_url": "https://sports.yahoo.com/articles/glue-boot-ai-r10s-ravenna-141700656.html",
+      "safe": false,
+      "note": "Sporza quote (page date inconsistent: URL 2026/08/20, byline 15 Nov) and Yahoo headline only; the 'at the airport' framing was wrong."
+    }
+  ],
+  "praise": [
+    {
+      "angle": "2005 Ballon d'Or plus back-to-back FIFA World Player of the Year (2004, 2005); only the third player to win that award more than once.",
+      "number": "2 FIFA World Player awards, 1 Ballon d'Or",
+      "source_url": "https://en.wikipedia.org/wiki/Ronaldinho"
+    },
+    {
+      "angle": "19 Nov 2005 at the Bernabeu: 2 goals in a 3-0 win, and Real Madrid fans applauded him, an ovation Wikipedia says only Maradona had previously received there as a Barcelona player.",
+      "number": "2 goals, 3-0",
+      "source_url": "https://en.wikipedia.org/wiki/Ronaldinho"
+    },
+    {
+      "angle": "2005-06: 26 goals (17 La Liga, 7 Champions League) and a La Liga plus Champions League double.",
+      "number": "26 goals",
+      "source_url": "https://en.wikipedia.org/wiki/Ronaldinho"
+    },
+    {
+      "angle": "2002 World Cup winner; the 40-yard free kick over Seaman against England.",
+      "number": "about 40 yards, 2002",
+      "source_url": "https://en.wikipedia.org/wiki/Ronaldinho"
+    },
+    {
+      "angle": "2013 Copa Libertadores with Atletico Mineiro: 4 goals and 8 assists, plus South American Footballer of the Year.",
+      "number": "4 goals, 8 assists",
+      "source_url": "https://en.wikipedia.org/wiki/Ronaldinho"
+    },
+    {
+      "angle": "46 and still sells out: about 2,000 shirts in 48 hours (Carlino, Correio da Manha), 3,000+ at his August presentation, 200,000+ new Ravenna Instagram followers around the derby (NSS), and Times Square screens.",
+      "number": "2,000 shirts in 48 h",
+      "source_url": "https://www.correiodamanha.com.br/esporte/esportes/2026/09/amp/316729-ronaldinho-gaucho-embala-o-grande-sonho-do-ravenna-de-finalmente-chegar-a-primeira-divisao-do-campeonato-italiano.html",
+      "also_sources": [
+        "https://www.nss-sports.com/en/news/47707/ronaldinho-day-ravenna-serie-c-report-marketing-numbers"
+      ]
+    }
+  ],
+  "no_joke_topics": [
+    "Doping (none reported; do not imply)",
+    "Health, injuries, weight and physical-condition speculation (CNN Brasil's 'fitness mystery' and Cassano's 'in those conditions' are quotes to attribute, not jokes)",
+    "Family, including his brother and agent Roberto and any bereavements",
+    "Legal troubles: the 2020 Paraguay fake-passport case (Wikipedia: held in custody, released 24 Aug 2020 on a plea deal with fines) and any fraud or pyramid-scheme complaints (an earlier note about a 21/10/2026 Futebol Justica ruling could not be verified and was dropped)",
+    "War and politics",
+    "Crypto or investment products (Hotcoin): neutral mention only; no endorsement, no scam jokes",
+    "Anyone's age beyond neutral facts about the 11-year gap (do not mock appearance)"
+  ],
+  "viral_moments": [
+    {
+      "moment": "Ravenna debut vs Forli (15 Nov 2026): the corner that forced a diving save, the build-up to Donati's goal, the half-time triple bow and applause.",
+      "why_provocative": "Biggest talking point of the month: 11 years out, 45 minutes, a 'marketing stunt' row, and Cassano's 'clown show' verdict.",
+      "youtube_link": "https://www.youtube.com/results?search_query=Ronaldinho+Ravenna+Forli+highlights+15+November+2026",
+      "link_type": "YouTube search URL (direct video URL not verified)",
+      "timestamp": "unknown"
+    },
+    {
+      "moment": "Post-match interview: 'if the president calls me, I'll come back'; football 'went too fast'.",
+      "why_provocative": "Teases a second appearance and a 300th goal, while critics call the whole project a stunt.",
+      "youtube_link": "https://www.youtube.com/results?search_query=Ronaldinho+Ravenna+intervista+dopo+partita+se+il+presidente+mi+chiama",
+      "link_type": "YouTube search URL (direct video URL not verified)",
+      "timestamp": "unknown"
+    },
+    {
+      "moment": "Final-training ball-control clip that went viral ('glue on the boot or AI?').",
+      "why_provocative": "Fans argued whether it was real; Ronaldinho joked people would say it was AI.",
+      "youtube_link": "https://www.youtube.com/results?search_query=Ronaldinho+Ravenna+training+ball+control+viral",
+      "link_type": "YouTube search URL (direct video URL not verified)",
+      "timestamp": "unknown"
+    },
+    {
+      "moment": "Classic: 19 Nov 2005 at the Bernabeu, two goals and a standing ovation from Real Madrid fans.",
+      "why_provocative": "Rare ovation for an opponent; the peak of the Ballon d'Or year.",
+      "youtube_link": "https://www.youtube.com/results?search_query=Ronaldinho+Bernabeu+2005+two+goals+ovation",
+      "link_type": "YouTube search URL (direct video URL not verified)",
+      "timestamp": "unknown"
+    },
+    {
+      "moment": "Classic: 2002 World Cup quarter-final free kick over David Seaman, then the red card seven minutes later.",
+      "why_provocative": "Genius and chaos in seven minutes; gives a past-roast hook.",
+      "youtube_link": "https://www.youtube.com/results?search_query=Ronaldinho+free+kick+Seaman+2002+World+Cup+England+Brazil",
+      "link_type": "YouTube search URL (direct video URL not verified)",
+      "timestamp": "about 50' to 57' of the match (from Wikipedia)"
+    }
+  ],
+  "footage_terms": [
+    {
+      "term": "Ronaldinho Ravenna Forli highlights",
+      "watermark_risk": "high: Italian TV/Sky and sports channels often burn in logos and score bugs",
+      "use": "debut action"
+    },
+    {
+      "term": "Ronaldinho Ravenna debut 4K",
+      "watermark_risk": "medium: fan uploads, often with channel watermarks",
+      "use": "pitch-side shots"
+    },
+    {
+      "term": "Ronaldinho Ravenna presentation Marina di Ravenna beach ceremony",
+      "watermark_risk": "medium: local TV logos",
+      "use": "August presentation"
+    },
+    {
+      "term": "Ronaldinho Ravenna training skills",
+      "watermark_risk": "medium: social-media reposts with captions",
+      "use": "ball control"
+    },
+    {
+      "term": "Ronaldinho arrives Forli airport",
+      "watermark_risk": "medium",
+      "use": "arrival with Cipriani"
+    },
+    {
+      "term": "Ronaldinho press conference Ravenna",
+      "watermark_risk": "low to medium: often burned-in Italian subtitles",
+      "use": "interview soundbites"
+    },
+    {
+      "term": "Ronaldinho goal Barcelona 2005 Bernabeu",
+      "watermark_risk": "high: broadcast logos and rights-claimed uploads",
+      "use": "praise archive"
+    },
+    {
+      "term": "Ronaldinho free kick England 2002",
+      "watermark_risk": "high: FIFA/broadcaster marks",
+      "use": "praise archive"
+    },
+    {
+      "term": "Ronaldinho Hotcoin campaign video",
+      "watermark_risk": "medium: brand logo and CTA graphics",
+      "use": "current job gag (neutral only)"
+    }
+  ],
+  "flipbook_ideas": [
+    "Ronaldinho in a Ravenna No. 10 shirt does a rainbow flick over a tiny cartoon calendar showing '11 YEARS', then looks at his watch at 45 minutes.",
+    "A 'half-time bow' gag: he bows three times to the stands, then the scoreboard shows 299 and a '300?' sign falls off.",
+    "Billboard gag: a giant cartoon Ronaldinho on a Milan billboard waves at a tiny Ravenna stadium 300 km away.",
+    "The signed-shirt auction: a paddle-raising crowd, the shirt on a pedestal, price tag climbing past R$17,000 while Ronaldinho does the shaka.",
+    "Footvolley training montage: a cartoon Ronaldinho on a beach net, a coach holding a clipboard marked 'tactics: also footvolley'.",
+    "Critics gag: a cartoon clown nose floats toward him; he catches it with a flick and uses it as a ball."
+  ],
+  "image_reference_notes": {
+    "signature_look": "Warm, wide, toothy smile (Reuters called him 'toothy-grinned', Richard Williams 'cartoonish smile', both in Wikipedia); playful, relaxed body language. Hair and headband details are not documented in the sources read: GAP, check recent photos.",
+    "current_look": "GAP: hair and beard in 2026 not described in the sources read. Check Ravenna's official posts and Instagram before drawing.",
+    "kit_colours": "Ravenna: white home shirt with R10 branding, number 10, club name 'Ravenna FC by Cipriani' (Il Resto del Carlino, CNN Brasil; main shirt sponsor not verified). Earlier eras: Barcelona blue and garnet, Milan red and black, Brazil yellow and green.",
+    "expressions": "Big grin, wave to the crowd, mild protest smile toward the referee (Il Resto del Carlino), triple bow to the home end.",
+    "signature_pose": "The shaka (surf-style hand sign): Ravenna fans showed white boxing-glove designs tied to his shaka (Il Resto del Carlino); the AFP report did not mention it, so confirm with footage."
+  },
+  "claims": [
+    {
+      "claim": "Ronaldinho made his Ravenna debut on 15 Nov 2026 in a 2-0 Serie C win over Forli, playing the first half.",
+      "source_url": "https://www.livescore.com/en/news/football/more/ronaldinhos-return-best-moments-and-key-stats-from-the-brazilian-legends-game-in-ravenna-football-italia/",
+      "confidence": "high"
+    },
+    {
+      "claim": "The debut was his first competitive match since Fluminense in 2015.",
+      "source_url": "https://www.dailysabah.com/sports/football/ronaldinho-to-end-11-year-playing-hiatus-with-ravenna-comeback/amp",
+      "confidence": "high"
+    },
+    {
+      "claim": "He did not score and remained on 299 career goals; he wanted a 300th.",
+      "source_url": "https://www.espn.com/soccer/story/_/id/50489043/ronaldinho-ravenna-brazil-barcelona-serie-c",
+      "confidence": "high"
+    },
+    {
+      "claim": "Giulio Donati scored the opener after a move Ronaldinho started (35th minute per LiveScore and Flashscore, 36th per Korea Times/AFP).",
+      "source_url": "https://www.koreatimes.co.kr/sports/20261116/icon-ronaldinho-makes-winning-return-to-pro-football-in-italys-third-division",
+      "confidence": "high"
+    },
+    {
+      "claim": "Ronaldinho had 28 touches, one key pass and took two corners.",
+      "source_url": "https://www.livescore.com/en/news/football/more/ronaldinhos-return-best-moments-and-key-stats-from-the-brazilian-legends-game-in-ravenna-football-italia/",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Il Resto del Carlino counts about 20 touches, with a first touch after 7 min 35 sec.",
+      "source_url": "https://www.ilrestodelcarlino.it/emilia-romagna/gioca-ispira-un-gol-e-88694854",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Ronaldinho said 'if the president calls me, I'll come back' and that the game went too quickly.",
+      "source_url": "https://www.espn.com/soccer/story/_/id/50501062/ronaldinho-comeback-ravenna-italy-serie-c",
+      "confidence": "high"
+    },
+    {
+      "claim": "Mandorlini said the door is 'wide open' for Ronaldinho to play again (19 Nov 2026).",
+      "source_url": "https://www.espn.com/soccer/story/_/id/50530520/ravenna-coach-door-open-ronaldinho-play-again",
+      "confidence": "high"
+    },
+    {
+      "claim": "Ravenna are second in Serie C and Ronaldinho signed in June and holds a stake in the club.",
+      "source_url": "https://www.espn.com/soccer/story/_/id/50530520/ravenna-coach-door-open-ronaldinho-play-again",
+      "confidence": "high"
+    },
+    {
+      "claim": "Ronaldinho was announced by Ravenna on 23 June 2026 at Cipriani Miami as a registered player; Ravenna has a four-year Nike technical partnership.",
+      "source_url": "https://www.ravennafc.it/en/wp-json/wp/v2/posts/56520",
+      "confidence": "high"
+    },
+    {
+      "claim": "Ronaldinho is a shareholder in Ravenna (ESPN) and his R10 brand is tied to the shirts (Flashscore, Goal); coach is Andrea Mandorlini and owner is Ignazio Cipriani (Football Italia, Ravenna club post).",
+      "source_url": "https://www.espn.com/soccer/story/_/id/50501062/ronaldinho-comeback-ravenna-italy-serie-c",
+      "confidence": "high"
+    },
+    {
+      "claim": "Ravenna announced on 23 Oct 2026 that the debut would be 15 Nov (Sunday 17:30 CET, per Goal); next match Livorno v Ravenna on 22 Nov at 15:30.",
+      "source_url": "https://www.goal.com/en/news/ronaldinho-announces-his-return-to-the-pitch-an-eagerly-awaited-appearance-in-an-italian-derby/bltafe676ae126f7f71",
+      "confidence": "high"
+    },
+    {
+      "claim": "As of 24 Oct, Ravenna were second in Group B with 20 points from 10 matches, eight behind Spezia.",
+      "source_url": "https://www.dailysabah.com/sports/football/ronaldinho-to-end-11-year-playing-hiatus-with-ravenna-comeback/amp",
+      "confidence": "high"
+    },
+    {
+      "claim": "Before the derby Ravenna had 29 points from 13 matches, Forli 15 points (14th place).",
+      "source_url": "https://sports.yahoo.com/articles/glue-boot-ai-r10s-ravenna-141700656.html",
+      "confidence": "medium"
+    },
+    {
+      "claim": "CNN Brasil reported on 2 Nov that no details of his training routine were public and Ravenna had 26 points after 12 rounds.",
+      "source_url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/ronaldinho-gaucho-volta-aos-gramados-sob-misterio-sobre-preparacao-fisica/",
+      "confidence": "high"
+    },
+    {
+      "claim": "Ravenna kit price is EUR 129; about 2,000 shirts sold in 48 hours; 3,000+ attended the 20 Aug presentation; he was not on the bench on 24 Aug vs Reggiana.",
+      "source_url": "https://www.correiodamanha.com.br/esporte/esportes/2026/09/amp/316729-ronaldinho-gaucho-embala-o-grande-sonho-do-ravenna-de-finalmente-chegar-a-primeira-divisao-do-campeonato-italiano.html",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Billboards of Ronaldinho in the R10 Ravenna shirt appeared in Milan on 31 July with a QR link to the online store.",
+      "source_url": "https://www.ilrestodelcarlino.it/ravenna/cronaca/e-ronaldinhomania-8b22682a",
+      "confidence": "high"
+    },
+    {
+      "claim": "He landed at Forli airport on a private jet and said 'I'm here to help' and 'it depends on the president and coach'.",
+      "source_url": "https://www.thescore.com/news/3582923",
+      "confidence": "high"
+    },
+    {
+      "claim": "The match shirt is on auction at MatchWornShirt, bids just above R$17,000 from 42 bidders as of 16 Nov; auction runs to the 25th.",
+      "source_url": "https://www.jornaldocomercio.com/esportes/2026/11/1270733-camisa-usada-por-ronaldinho-gaucho-em-retorno-aos-gramados-na-italia-vai-a-leilao.html",
+      "confidence": "high"
+    },
+    {
+      "claim": "Reported fixed fee near EUR 500,000 (Messaggero and Corriere dello Sport via NSS).",
+      "source_url": "https://www.nss-sports.com/en/news/47707/ronaldinho-day-ravenna-serie-c-report-marketing-numbers",
+      "confidence": "medium"
+    },
+    {
+      "claim": "About 7,000 attended; ticket revenue near EUR 200,000 (partial); Ravenna Instagram gained 200,000+ followers.",
+      "source_url": "https://www.nss-sports.com/en/news/47707/ronaldinho-day-ravenna-serie-c-report-marketing-numbers",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Attendance is reported inconsistently: 12,000 seats sold out (LiveScore) vs a 5,000-capacity ground with a 1,800-seat temporary stand (AFP).",
+      "source_url": "https://www.koreatimes.co.kr/sports/20261116/icon-ronaldinho-makes-winning-return-to-pro-football-in-italys-third-division",
+      "confidence": "low"
+    },
+    {
+      "claim": "Criscitiello of Sportitalia called the event damaging to the league's image; NSS says Ronaldinho left the stadium at half-time (LiveScore says during the second half).",
+      "source_url": "https://www.nss-sports.com/en/news/47707/ronaldinho-day-ravenna-serie-c-report-marketing-numbers",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Cassano called the comeback 'una pagliacciata' on 18 Nov 2026 and asked what he was doing there at 46 'in those conditions'.",
+      "source_url": "https://www.tuttomercatoweb.com/serie-a/cassano-ronaldinho-il-ritorno-campo-pagliacciata-condizioni-2294886",
+      "confidence": "high"
+    },
+    {
+      "claim": "Hotcoin named Ronaldinho brand ambassador in Brazil on 19 Nov 2026 (sponsored release).",
+      "source_url": "https://manilatimes.net/2026/11/19/tmt-newswire/globenewswire/ronaldinho-joins-hotcoin-as-official-brand-ambassador-in-brazil/2473919",
+      "confidence": "high"
+    },
+    {
+      "claim": "Mandorlini said on 14 Nov: 'We haven't trained him much, but the important thing is that he's here with us' (Football Italia, which says only that Ronaldinho was 'expected to feature'); the 'will start' quote is from Yahoo.",
+      "source_url": "https://football-italia.net/ravenna-coach-mandorlini-having-ronaldinho/",
+      "confidence": "high"
+    },
+    {
+      "claim": "Mandorlini announced a 4-3-3 with Ronaldinho starting; a final-training clip went viral; Ravenna had 29 points from 13 matches.",
+      "source_url": "https://sports.yahoo.com/articles/glue-boot-ai-r10s-ravenna-141700656.html",
+      "confidence": "high"
+    },
+    {
+      "claim": "Ronaldinho cited friendship with Cipriani and a 'unique, special moment' as reasons for the comeback.",
+      "source_url": "https://sports.yahoo.com/articles/ronaldinho-start-ravenna-brazil-legend-122800306.html",
+      "confidence": "high"
+    },
+    {
+      "claim": "Ronaldinho is a shareholder of the club; Ravenna president Cipriani said Ronaldinho did not want to come off (ESPN; 'told Sky Italia' not found).",
+      "source_url": "https://www.espn.com/soccer/story/_/id/50501062/ronaldinho-comeback-ravenna-italy-serie-c",
+      "confidence": "high"
+    },
+    {
+      "claim": "Flashscore interview: he said he would play a few minutes in an official match and then assess; docu-series 'Vida de Campeones' and winery project mentioned (undated interview).",
+      "source_url": "https://www.flashscore.com/news/soccer-serie-c-group-b-exclusive-ronaldinho-on-joining-ravenna-his-comeback-and-what-comes-next/Y7ThBSwQ/",
+      "confidence": "medium"
+    },
+    {
+      "claim": "A temporary 1,800-seat 'R10 Stand' was added to a 5,000-capacity ground (Korea Times/AFP); the match was shown on Times Square screens (Il Resto del Carlino, NSS) and live on Sky Italia (Flashscore). Bocelli and flares could not be verified.",
+      "source_url": "https://www.koreatimes.co.kr/sports/20261116/icon-ronaldinho-makes-winning-return-to-pro-football-in-italys-third-division",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Dida and Serginho were present at the match.",
+      "source_url": "https://www.ilrestodelcarlino.it/emilia-romagna/gioca-ispira-un-gol-e-88694854",
+      "confidence": "high"
+    },
+    {
+      "claim": "Ronaldinho won the 2005 Ballon d'Or and the 2005 FIFA World Player of the Year; he was the third player to win the FIFA award more than once.",
+      "source_url": "https://en.wikipedia.org/wiki/Ronaldinho",
+      "confidence": "high"
+    },
+    {
+      "claim": "19 Nov 2005 at the Bernabeu: two goals in a 3-0 win; Real Madrid fans applauded him.",
+      "source_url": "https://en.wikipedia.org/wiki/Ronaldinho",
+      "confidence": "high"
+    },
+    {
+      "claim": "2005-06: 26 goals (17 La Liga, 7 Champions League) and a La Liga/Champions League double.",
+      "source_url": "https://en.wikipedia.org/wiki/Ronaldinho",
+      "confidence": "high"
+    },
+    {
+      "claim": "2002 World Cup quarter-final: 40-yard free kick past Seaman; sent off seven minutes later for a foul on Danny Mills.",
+      "source_url": "https://en.wikipedia.org/wiki/Ronaldinho",
+      "confidence": "high"
+    },
+    {
+      "claim": "2013 Copa Libertadores: 4 goals and 8 assists; South American Footballer of the Year 2013.",
+      "source_url": "https://en.wikipedia.org/wiki/Ronaldinho",
+      "confidence": "high"
+    },
+    {
+      "claim": "Barcelona sold him to Milan in 2008 after a 2007-08 season with no major trophies and reports of partying and poor training; fee EUR 22.05 million.",
+      "source_url": "https://en.wikipedia.org/wiki/Ronaldinho",
+      "confidence": "high"
+    },
+    {
+      "claim": "He retired officially in January 2018, announced by his brother and agent.",
+      "source_url": "https://en.wikipedia.org/wiki/Ronaldinho",
+      "confidence": "high"
+    },
+    {
+      "claim": "Brazil record: 33 goals in 97 appearances (senior).",
+      "source_url": "https://en.wikipedia.org/wiki/Ronaldinho",
+      "confidence": "high"
+    },
+    {
+      "claim": "Fluminense 2015: 80 days, nine official matches, no goals or assists (CNN Brasil); contract terminated by mutual agreement 28 Sept 2015 (Wikipedia).",
+      "source_url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-italiano/ronaldinho-gaucho-volta-a-jogar-futebol-profissionalmente-apos-11-anos",
+      "confidence": "high"
+    },
+    {
+      "claim": "Career goal totals: Wikipedia gives 266 club goals and 328 total with all national-team levels; 299 in press = 266 club + 33 Brazil senior (ESPN: retired on 299).",
+      "source_url": "https://en.wikipedia.org/wiki/Ronaldinho",
+      "confidence": "high"
+    },
+    {
+      "claim": "Ronaldinho posed with the new shirt draped over his 2005 Ballon d'Or trophy at signing.",
+      "source_url": "https://www.flashscore.com/news/soccer-serie-c2-c-extremely-happy-ronaldinho-comes-out-of-retirement-for-italy-s-third-tier/hWWdlM5S/",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Flashscore says Ravenna's highest point was eighth place in Serie B in 1996-97; Cipriani wants Serie A (CNN Brasil: first time in the club's history).",
+      "source_url": "https://www.flashscore.com/news/soccer-serie-c2-c-ronaldinho-returns-to-football-after-eleven-years-to-give-ravenna-a-global-audience/AqH4ymN7/",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Ronaldinho's final-training clip: headlines asked whether it was glue on his boot or AI; the article does not say either way.",
+      "source_url": "https://sports.yahoo.com/articles/glue-boot-ai-r10s-ravenna-141700656.html",
+      "confidence": "low"
+    },
+    {
+      "claim": "After showing a first-touch control in training he said 'They'll say it's AI' (Sporza; page date inconsistent, URL 2026/08/20 vs byline 15 Nov).",
+      "source_url": "https://sporza.be/nl/2026/08/20/-ze-zullen-zeggen-dat-het-ai-is-ronaldinho-toont-meteen-zijn-klasse-bij-opmerkelijke-comeback~1787254223528/",
+      "confidence": "low"
+    }
+  ],
+  "research_notes": [
+    "WebSearch budget ran out mid-research; direct YouTube video URLs could not be retrieved, so viral_moments hold YouTube search URLs flagged as such.",
+    "Several news sources returned 403 or 404 (Washington Times, Il Foglio, Times Brasil, BNews, Ahram); their facts are not used, except where another page confirms them.",
+    "Source conflicts kept visible: goal minute 35 vs 36, touches 20 vs 28, attendance 7,000 vs 12,000 vs 6,800, signing date June (official) vs August (Goal). Official club post is used for June.",
+    "Only the first 120,000 characters of 265,000 of Wikipedia were read; Hall-of-Fame and hair/style facts were not found."
+  ],
+  "verification": {
+    "checked": 78,
+    "corrected": 38,
+    "removed": 6,
+    "notes": "Adversarial check on 2026-11-20 against the cited pages (fetched directly). Confirmed: debut 15 Nov vs Forli 2-0, 45 minutes, no goal, 299 goals, Donati goal after a Ronaldinho move, 28 touches/1 key pass/2 corners (LiveScore) vs about 20 touches (Carlino), Mandorlini 'door wide open' (ESPN 19 Nov), Cassano 'pagliacciata' (18 Nov), Hotcoin release (19 Nov, sponsored), MatchWornShirt auction (R$17,000+, 42 bidders), Livorno v Ravenna 22 Nov 15:30, Ravenna 2nd with 29 pts after 13 matches, Wikipedia career facts (2005 Ballon d'Or, 2005-06 26 goals, 2013 Libertadores 4+8, Milan fee EUR 22.05m, 328 total goals). Corrected or removed: see 'corrections' list. Not verifiable: CBS Sports page returned 406 (footvolley quote dropped); WebSearch budget was exhausted so no independent searches were possible, only direct fetches of the cited URLs; Il Resto del Carlino 'mild protest smile' and Reuters/Williams smile quotes in image notes were not rechecked; viral_moments YouTube links are search URLs, not verified videos. Remaining conflicts kept visible: signing June (club post) vs August (Goal, Football Italia), exit time (half-time vs second half), attendance, touches. 'checked' counts every claim, news item, quick_context line and 13 statements in 'now'.",
+    "corrections": [
+      "now.club_or_role: Nike vs R10 kit-supplier conflict flagged",
+      "now.signed: June vs August and arrival-date conflicts noted",
+      "now.team_situation: post-derby gap to Spezia added",
+      "now.what_people_say[0]: 'attitude with teammates and families' not supported by ESPN text, reworded",
+      "now.what_people_say[3]: quote re-attributed to Correio da Manha (was unverified search snippet attributed to NSS; NSS has no such quote)",
+      "roast_past[0]: mutual-consent detail sourced to Wikipedia (CNN does not state it)",
+      "roast_past[2]: removed Allegri nightlife criticism (Wikipedia attributes only an Ancelotti fitness comment; no Allegri partying quote)",
+      "roast_past[6]: 'chased a 300th for 11 years' was not supported, reworded",
+      "roast_now[1]: exit timing conflict between NSS and LiveScore noted",
+      "roast_now[2]: footvolley quote could not be verified (CBS page returned 406) and was dropped; Mandorlini quote kept with Football Italia source",
+      "roast_now[3]: removed unverified 'EUR 20' ticket floor; Milan billboards and shirt numbers re-sourced",
+      "roast_now[7]: AI joke was after a training touch, not at the airport",
+      "praise[1]: 'as a Barcelona player' qualifier added",
+      "praise[5]: shirt numbers re-sourced (NSS gives no shirt count)",
+      "no_joke_topics[2]: brother named Roberto per Wikipedia, not 'Assis'",
+      "no_joke_topics[3]: unverified Futebol Justica detail dropped; Paraguay case facts verified",
+      "viral_moments[0]: 'standing ovation' not supported by Carlino/LiveScore, now 'applause'",
+      "image_reference_notes.kit_colours: unverified 'Cipriani as main shirt sponsor' removed",
+      "claims: first-competitive-since-2015 re-sourced (ESPN 50489043 does not say it explicitly)",
+      "claims: Donati goal minute sources reconciled",
+      "claims: Forli kickoff time added",
+      "claims: 'dual player-investor' (CBS, unreachable) replaced with verified wording and sources",
+      "claims: half-time exit wording corrected",
+      "claims: Bocelli/flares unverifiable, removed; Times Square/Sky re-sourced",
+      "claims: Football Italia does not say 'will start'; split from Yahoo quote",
+      "claims: motive quote re-sourced to correct Yahoo article",
+      "claims: 'told Sky Italia' not supported, removed",
+      "claims: 'never gone beyond second division' not in Flashscore text, reworded",
+      "claims: Sporza context was a training touch, not an airport remark",
+      "claims: career totals confirmed, wording tightened",
+      "claims: Fluminense mutual termination added from Wikipedia",
+      "recent_news 11-15 atmosphere: 'standing ovation' -> applause; sources attributed",
+      "recent_news 11-14: motive quote belongs to a different Yahoo article",
+      "recent_news 11-18: replaced with verified CNN Brasil headline",
+      "recent_news 11-16 NSS: exit wording corrected",
+      "recent_news 11-19 ESPN: 'accessibility to youth players and families' not in text, reworded",
+      "recent_news 08-20: Ballon d'Or pose re-sourced to Flashscore",
+      "recent_news 09-03: 48-hour shirt figure dated to 1 Aug Carlino report",
+      "REMOVED: claims: footvolley quote (CBS 406, no independent source)",
+      "REMOVED: claims: CNN topic page pyramid scheme/album (not on page)",
+      "REMOVED: claims: 2026 World Cup final appearance (ambiguous, unverified)",
+      "REMOVED: recent_news 11-15: Bocelli/flares facts",
+      "REMOVED: recent_news 11-18: 'Italian press describes the comeback as dividing opinion' (not in cited page)",
+      "REMOVED: recent_news 08-20: 'I feel fine' quote (not found)"
+    ]
+  }
+}

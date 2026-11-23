@@ -1,0 +1,101 @@
+{
+ "no": 42,
+ "subject": "Tom Brady leaves Birmingham City ownership role as club tops Championship",
+ "title": "Brady leaves, Birmingham go top",
+ "voice": "kokoro",
+ "comic": false,
+ "style": null,
+ "lines": [
+  {
+   "vo": "Tom Brady leaves Birmingham, and Birmingham go top. Coincidence?",
+   "card": "Brady exits, Brum top",
+   "sfx": null,
+   "footage": "Tom Brady Birmingham City St Andrew's, stadium exterior"
+  },
+  {
+   "vo": "Birmingham beat Swansea two-one, and lead the Championship with twenty-nine points from fifteen games.",
+   "card": "29 points, 15 games",
+   "sfx": null,
+   "footage": "Birmingham City Swansea highlights, two-one win"
+  },
+  {
+   "vo": "Seven wins from nine. Some managers would frame that.",
+   "card": "Seven from nine",
+   "sfx": null,
+   "footage": "Birmingham players celebrating, St Andrew's"
+  },
+  {
+   "vo": "Brady held three point three percent of the club. The most famous three point three percent in English football.",
+   "card": "3.3 percent stake",
+   "sfx": null,
+   "footage": "Brady on the touchline or in the stands, Birmingham"
+  },
+  {
+   "vo": "He chaired a new advisory board from August twenty twenty-three. Three years of very important meetings.",
+   "card": "Advisory board chair",
+   "sfx": null,
+   "footage": "Tom Brady Birmingham City minority owner clip"
+  },
+  {
+   "vo": "During that time, Wayne Rooney was hired and sacked eighty-three days later. Shorter than most box sets.",
+   "card": "Rooney: 83 days",
+   "sfx": "short whistle",
+   "footage": "Wayne Rooney Birmingham press conference"
+  },
+  {
+   "vo": "Last summer they also paid a record fifteen million pounds for Jay Stansfield.",
+   "card": "Record fifteen million",
+   "sfx": null,
+   "footage": "Jay Stansfield Birmingham goals and signing clip"
+  },
+  {
+   "vo": "Now Brady leaves, the club gives no reason, and the table still says first. Football's timing is wicked.",
+   "card": "Funny timing",
+   "sfx": "short crowd cheer",
+   "footage": "Birmingham fans celebrating at St Andrew's"
+  },
+  {
+   "vo": "Your mates will never guess this. Match news and betting tips at aboutfootball dot UK.",
+   "card": "aboutfootball.UK",
+   "sfx": null,
+   "footage": "end card"
+  }
+ ],
+ "chars": 807,
+ "est_seconds": 46,
+ "footage_terms": [
+  "Tom Brady Birmingham City St Andrew's",
+  "Birmingham City Swansea highlights",
+  "Tom Brady Birmingham City minority owner",
+  "Wayne Rooney Birmingham sacked"
+ ],
+ "inserts": [
+  {
+   "after_line": 0,
+   "story": "A cartoon investor in a sports jacket walks out through a stadium door carrying a tiny slice of pie. Gag: behind him a league table board flips and the home team slides up to the top. Twist: he looks back, puzzled, and the pie slice is wearing sunglasses.",
+   "characters": "generic cartoon investor in a sports jacket",
+   "seconds": 2
+  },
+  {
+   "after_line": 3,
+   "story": "A giant pie chart sits on a boardroom table with a tiny sliver of 3.3 percent. Gag: the sliver stands up, puts on a tiny hat and bows. Twist: the rest of the chart applauds with little hands.",
+   "characters": "generic cartoon pie chart",
+   "seconds": 2
+  },
+  {
+   "after_line": 5,
+   "story": "A cartoon chairman pushes a wheelbarrow of coins toward a young striker with a record-breaking price tag. Gag: the coins pile higher than the chairman. Twist: the striker waves and the pile of coins turns into a tower of golden balls.",
+   "characters": "generic cartoon chairman and young striker",
+   "seconds": 2
+  }
+ ],
+ "facts_used": [
+  "Brady left Birmingham minority ownership role after three years; club gave no reason (ev0111)",
+  "Birmingham top the Championship with 29 points from 15 matches after a 2-1 win over Swansea; seven wins from nine (ev0111)",
+  "Club spent heavily last summer, including a record 15 million pound deal for Jay Stansfield (ev0111)",
+  "Brady held a 3.3 percent stake and chaired a new advisory board from August 2023 (ev0111)",
+  "Wayne Rooney hired and sacked 83 days later during Brady's time (ev0111 background)"
+ ],
+ "comic_score": 5,
+ "notes": "Non-comic, 0 inserts, kokoro. Brady's exit reason is not in the data, so the script says none was given. Ownership context kept neutral; no claim that his exit caused the results. Jokes: 3.3 percent stake, Rooney's 83 days (club facts), timing. No Super Bowl or other facts outside the data. after_line convention: zero-based index into lines."
+}

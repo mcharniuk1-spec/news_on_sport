@@ -1,0 +1,144 @@
+{
+ "video_id": "HNouWRnRcVE",
+ "topic": "Arteta's red card for Everton against Arsenal (2007) after a clash with Fabregas, with managers' reactions",
+ "hero": "Mikel Arteta (per title; Everton shirt in blue) and Cesc Fabregas (yellow label)",
+ "hero_role": "protagonist of the red card incident; Fabregas the victim",
+ "media_type_overall": "real broadcast footage",
+ "hook": "Close-up of blue-kit player over Arsenal player with white caps 'A RED CARD' (RED in red)",
+ "subtitle_style": "bold white caps with black outline, key word 'RED' in red; yellow label FABREGAS; centred lower third",
+ "reaction_overlays": "yellow name label FABREGAS, red-highlighted captions, Nost FC watermark",
+ "transition_summary": "Hard cuts with 2-3 s clips and zoom-ins on faces (about 4 cuts/10s, 13 in 31s); replay-style repeated tackle",
+ "audio_note": "English commentary ('This could be a red card for Arteta... has he stuck his elbow in there into Fabregas?') plus manager interview",
+ "reuse_segments": [
+  {
+   "t0": 0,
+   "t1": 31,
+   "what": "Premier League 2007 broadcast clips of red card incident",
+   "origin_guess": "broadcast match",
+   "rights_risk": "high",
+   "how_to_reuse": "Needs licensed footage; reuse the highlight-word caption style (red-keyword)"
+  }
+ ],
+ "frames": [
+  {
+   "idx": 1,
+   "t": 0,
+   "desc": "Close: blue Everton player in front of Arsenal red shirt, caption A RED CARD",
+   "type": "video",
+   "text_on_screen": "A RED CARD",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 2,
+   "t": 2,
+   "desc": "Wide: players near centre, yellow label FABREGAS",
+   "type": "video",
+   "text_on_screen": "FABREGAS",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 3,
+   "t": 4,
+   "desc": "Wide: one red-kit player lying on pitch, Everton player at left",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 4,
+   "t": 6,
+   "desc": "Extreme close: player lying on grass, blue boot in foreground",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 5,
+   "t": 8,
+   "desc": "Melee: Arsenal red players #5 and #22 pushing with Everton blue players",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 6,
+   "t": 10,
+   "desc": "Arsenal #4 and Everton #6 running, one pointing",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 7,
+   "t": 12,
+   "desc": "Everton player tackling/arms out against Arsenal player",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 8,
+   "t": 14,
+   "desc": "Extreme close of two faces, caption RED CARD",
+   "type": "video",
+   "text_on_screen": "RED CARD",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 9,
+   "t": 16,
+   "desc": "Wide: players on ground at centre circle",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 10,
+   "t": 18,
+   "desc": "Medium: Everton blue #? lunging at Arsenal #? kicking",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 11,
+   "t": 20,
+   "desc": "Medium: Arsenal #26 and Everton player tackle",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 12,
+   "t": 22,
+   "desc": "Referee in black showing card to camera, caption RED CARD",
+   "type": "video",
+   "text_on_screen": "RED CARD",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 13,
+   "t": 24,
+   "desc": "Manager in Arsenal club jacket in dugout",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 14,
+   "t": 26,
+   "desc": "Manager interview with Barclays boards, caption WHAT WAS WORSE",
+   "type": "video",
+   "text_on_screen": "WHAT WAS WORSE",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 15,
+   "t": 28,
+   "desc": "Manager close in interview, caption FABREGAS",
+   "type": "video",
+   "text_on_screen": "FABREGAS",
+   "transition_to_next": "none"
+  }
+ ]
+}

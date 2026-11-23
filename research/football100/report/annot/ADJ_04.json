@@ -1,0 +1,12 @@
+{
+  "31": {"subject_type": "manager", "story_structure": "stat_stack", "comment_bait": "hot_take"},
+  "32": {"topic_primary": "match_report", "humour_type": "understatement", "humour_target": "situation"},
+  "33": {"humour_type": "roast"},
+  "34": {"twist_position": "middle", "payoff_type": "open_question", "humour_target": "situation", "comment_bait": "hot_take"},
+  "35": {"twist_position": "middle", "dominant_emotion": "amusement", "risk_flags": ["betting_under18_appeal", "off_topic_footage_risk"]},
+  "36": {"hook_type": "stat_shock", "twist_position": "late", "humour_target": "club", "hook_type_alt": "contrast_twist", "risk_flags": ["single_source", "unverified_claim"]},
+  "37": {"humour_type": "understatement", "hook_type_alt": "stat_shock"},
+  "38": {"comment_bait": "hot_take", "hook_type_alt": "none"},
+  "39": {"hook_type": "stat_shock", "story_structure": "chronological_recap", "twist_position": "none", "comment_bait": "hot_take", "hook_type_alt": "roast_jab"},
+  "40": {"subject_type": "player", "humour_type": "roast", "comment_bait": "none", "hook_type_alt": "none", "virality_pred": 5}
+}

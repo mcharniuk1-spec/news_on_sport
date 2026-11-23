@@ -1,0 +1,93 @@
+{
+ "no": 100,
+ "subject": "Manchester City lose three league games in a row, losing 3-1 at Nottingham Forest",
+ "title": "Seven wins, then three defeats",
+ "voice": "kokoro",
+ "comic": true,
+ "style": "ligne_claire",
+ "lines": [
+  {
+   "vo": "Seven wins in a row. Then three straight league defeats.",
+   "card": "Seven, then three",
+   "sfx": "record scratch",
+   "footage": "Manchester City highlights, city wide shot"
+  },
+  {
+   "vo": "Manchester City lost three-one at Nottingham Forest. It was Forest's first home win of the season.",
+   "card": "Forest 3-1 City",
+   "sfx": "crowd roar",
+   "footage": "City Ground match clips, scoreboard"
+  },
+  {
+   "vo": "City were the guest of honour. Liam Delap scored twice, and Jair Cunha got the other.",
+   "card": "Delap twice",
+   "sfx": null,
+   "footage": "Delap goal clips, Forest highlights"
+  },
+  {
+   "vo": "Rayan Cherki scored for City. One goal is not a comeback.",
+   "card": "Cherki replies",
+   "sfx": null,
+   "footage": "Cherki goal clip"
+  },
+  {
+   "vo": "ESPN says a mistake at the back led to the first goal. Defending was clearly optional.",
+   "card": "Mistake at the back",
+   "sfx": "anime whoosh",
+   "footage": "first Forest goal, replay"
+  },
+  {
+   "vo": "City are six points behind Arsenal. Maresca's first season just got interesting.",
+   "card": "Six behind Arsenal",
+   "sfx": null,
+   "footage": "league table graphic, Maresca touchline"
+  },
+  {
+   "vo": "Three league defeats in a row. At City, that is basically a national emergency.",
+   "card": "National emergency",
+   "sfx": null,
+   "footage": "City training b-roll"
+  },
+  {
+   "vo": "Who wins the next one? News, betting tips and predictions at aboutfootball dot UK.",
+   "card": "aboutfootball dot UK",
+   "sfx": null,
+   "footage": "end card"
+  }
+ ],
+ "chars": 623,
+ "est_seconds": 35,
+ "footage_terms": [
+  "Nottingham Forest 3-1 Manchester City highlights",
+  "Liam Delap goals Forest City",
+  "Maresca press conference Forest defeat"
+ ],
+ "inserts": [
+  {
+   "after_line": 1,
+   "story": "Setup: a clean-line fan checks a scoreboard that reads three-one. Gag: he turns it round, hoping. Twist: a Forest fan politely turns it back.",
+   "characters": "Generic City fan caricature, generic Forest fan caricature, scoreboard prop",
+   "seconds": 3
+  },
+  {
+   "after_line": 4,
+   "story": "Setup: a clean-line defender watches a ball roll slowly towards his own goal. Gag: he tips his hat to it like an old friend. Twist: the ball waves back.",
+   "characters": "Generic defender caricature, ball prop",
+   "seconds": 3
+  },
+  {
+   "after_line": 5,
+   "story": "Setup: a clean-line Maresca crosses three days off a calendar in red. Gag: the page also says First season in tiny print. Twist: he fetches a magnifying glass, and the print says Bumpy road ahead.",
+   "characters": "Maresca caricature, calendar and magnifying glass props",
+   "seconds": 3
+  }
+ ],
+ "facts_used": [
+  "Forest won 3-1 at the City Ground, with Jair Cunha and two goals from Liam Delap; Cherki scored for City (news 457, espn.com)",
+  "ESPN commentary says a Gvardiol error led to the first goal; the script says only a mistake at the back (news 457)",
+  "It was City's third straight league loss, six points behind Arsenal; first Forest home win of the season (news 457)",
+  "City had won seven straight in all competitions before the slide; Maresca is in his first season in charge (news 457, background)"
+ ],
+ "comic_score": 7,
+ "notes": "Source: news 457 (ESPN, 2026-11-07). The 7-0-3 record in the fact list is ambiguous, so the hook uses the background wording (seven straight wins in all competitions) and says 'seven wins in a row'. The defender is not named in the spoken lines (ESPN names a Gvardiol error; the script says only a mistake at the back). Jokes target the match and the table only. Inserts are caricatures of the coach and generic fans. after_line is the 0-based index into lines[]."
+}

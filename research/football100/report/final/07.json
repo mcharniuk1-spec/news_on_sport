@@ -1,0 +1,663 @@
+[
+ {
+  "hook_type": "contrast_twist",
+  "hook_basis": "contract_or_job",
+  "topic_primary": "manager_news",
+  "scope": "premier_league",
+  "subject_type": "manager",
+  "timeliness": "breaking_week",
+  "uk_relevance": "high",
+  "story_structure": "roast_and_praise",
+  "twist_position": "early",
+  "payoff_type": "punchline",
+  "humour_type": "understatement",
+  "humour_target": "club",
+  "dominant_emotion": "amusement",
+  "comment_bait": "fan_rivalry",
+  "cta_opener_type": "question",
+  "hook_type_alt": "news_flash",
+  "hook_strength": 3.0,
+  "story_clarity": 4.0,
+  "humour_quality": 3.0,
+  "shareability": 3.0,
+  "comment_potential": 3.0,
+  "uk_fit": 5.0,
+  "novelty": 2.0,
+  "poster_title_sells_hook": 3.5,
+  "poster_joke_quality": 2.0,
+  "humour_intensity": 2.0,
+  "virality_pred": 5.0,
+  "risk_flags": [
+   "single_source",
+   "unverified_claim"
+  ],
+  "hook_type_why": "\"considered Fabian Hurzeler. Then they hired Pochettino instead\" - X then Y",
+  "hook_basis_detail": "United considered Hurzeler, then appointed Pochettino; Hurzeler says he is fully committed to Brighton.",
+  "story_summary": "Hurzeler rejects United talk and stays at Brighton, second in the league; United's shortlist gets teased.",
+  "poster_issue": "Speech bubble just repeats line 2 as plain news; no joke. Headline and bubble say the same thing.",
+  "poster_change": "Bubble: 'Polite for no thanks.' or 'Somebody in Manchester needs a longer shortlist.'",
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "hook_rewrite",
+    "action": "Open on the joke, not the spoiler: 'United wanted Hurzeler. Hurzeler wants a quiet life in Brighton.'"
+   },
+   {
+    "priority": "P2",
+    "category": "vary_cta",
+    "action": "Replace 'Want the next story before it breaks?' (used in 25 videos) with a story-specific CTA."
+   },
+   {
+    "priority": "P2",
+    "category": "add_comment_bait",
+    "action": "Add a question: should Brighton fear United coming back for Hurzeler?"
+   },
+   {
+    "priority": "P2",
+    "category": "verify_fact",
+    "action": "Chairman quote is paraphrased; check Bloom's wording and the second-place table before publishing."
+   }
+  ],
+  "no": 61,
+  "annotator_agreement": 0.86
+ },
+ {
+  "hook_type": "contrast_twist",
+  "hook_basis": "quote_or_interview",
+  "topic_primary": "player_form",
+  "scope": "la_liga",
+  "subject_type": "player",
+  "timeliness": "breaking_week",
+  "uk_relevance": "medium",
+  "story_structure": "chronological_recap",
+  "twist_position": "middle",
+  "payoff_type": "callback_to_hook",
+  "humour_type": "understatement",
+  "humour_target": "player",
+  "dominant_emotion": "schadenfreude",
+  "comment_bait": "hot_take",
+  "cta_opener_type": "mates_social",
+  "hook_type_alt": "none",
+  "hook_strength": 3.0,
+  "story_clarity": 4.0,
+  "humour_quality": 2.0,
+  "shareability": 3.0,
+  "comment_potential": 4.0,
+  "uk_fit": 3.0,
+  "novelty": 3.0,
+  "poster_title_sells_hook": 3.0,
+  "poster_joke_quality": 2.0,
+  "humour_intensity": 1.0,
+  "virality_pred": 5.0,
+  "risk_flags": [
+   "single_source",
+   "unverified_claim"
+  ],
+  "hook_type_why": "\"Vinicius blames his slow start on the World Cup. Mourinho disagrees.\" - claim then pushback",
+  "hook_basis_detail": "Vinicius said he trained less after the World Cup; Mourinho said he should not have said it.",
+  "story_summary": "Vinicius admits poor preparation, one goal in eight; Mourinho respects honesty but wants him to win his place back.",
+  "poster_issue": "Bubble is a stat, not a joke. Burst 'HOW?!' means nothing here and is reused on other covers.",
+  "poster_change": "Bubble: 'Honest, at least.' Burst: 'EXCUSES!'",
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "add_comment_bait",
+    "action": "Add a direct question: is Vinicius brave or making excuses? Fans will pick a side."
+   },
+   {
+    "priority": "P1",
+    "category": "hook_rewrite",
+    "action": "Lead with the confession: 'Vinicius admits he trained less after the World Cup. Mourinho heard.'"
+   },
+   {
+    "priority": "P2",
+    "category": "vary_cta",
+    "action": "'Your mates will never guess this' (32 videos) does not fit a known story; use a story-linked CTA."
+   },
+   {
+    "priority": "P2",
+    "category": "verify_fact",
+    "action": "Check the paraphrased Vinicius and Mourinho quotes and the one-goal-in-eight count."
+   },
+   {
+    "priority": "P2",
+    "category": "improve_humour",
+    "action": "Sharpen 'Honest, at least': one clear joke on one goal in eight games."
+   }
+  ],
+  "no": 62,
+  "annotator_agreement": 0.89
+ },
+ {
+  "hook_type": "stat_shock",
+  "hook_basis": "scoreline_result",
+  "topic_primary": "record_milestone",
+  "scope": "europe_club",
+  "subject_type": "club_team",
+  "timeliness": "recent_month",
+  "uk_relevance": "medium",
+  "story_structure": "stat_stack",
+  "twist_position": "late",
+  "payoff_type": "punchline",
+  "humour_type": "deadpan_stat",
+  "humour_target": "club",
+  "dominant_emotion": "awe",
+  "comment_bait": "none",
+  "cta_opener_type": "question",
+  "hook_type_alt": "none",
+  "hook_strength": 4.0,
+  "story_clarity": 4.5,
+  "humour_quality": 3.0,
+  "shareability": 4.0,
+  "comment_potential": 2.0,
+  "uk_fit": 2.5,
+  "novelty": 3.5,
+  "poster_title_sells_hook": 3.0,
+  "poster_joke_quality": 2.0,
+  "humour_intensity": 2.0,
+  "virality_pred": 6.0,
+  "risk_flags": [
+   "single_source"
+  ],
+  "hook_type_why": "\"they scored nine away from home. Nine.\" - number repeated as the shock",
+  "hook_basis_detail": "Como won 9-1 at Lens, the most away goals by one team in Champions League history.",
+  "story_summary": "Como beat Lens 9-1, equalling two Champions League records; Fabregas warns players off the hype.",
+  "poster_issue": "Bubble '9-1 at Lens' repeats the headline; the better gag (Lens did get one) is unused.",
+  "poster_change": "Bubble: 'Lens did get one. Credit where due.'",
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "add_comment_bait",
+    "action": "Add a hot take: is Como the best newcomer in Europe? Fans have a view."
+   },
+   {
+    "priority": "P2",
+    "category": "improve_humour",
+    "action": "Fourth-in-Serie-A hype line is muddled; replace with a clear Fabregas or Lens joke."
+   },
+   {
+    "priority": "P2",
+    "category": "verify_fact",
+    "action": "Confirm the Bayern tie and Liverpool 8-0 margin; match was 4 Nov, so check the story is not stale."
+   },
+   {
+    "priority": "P2",
+    "category": "stronger_twist",
+    "action": "Make the Fabregas 'don't believe the hype' line the twist and close on it."
+   },
+   {
+    "priority": "P3",
+    "category": "vary_cta",
+    "action": "'Think you can call the next one?' appears in 20 videos; tie it to Como's next fixture."
+   }
+  ],
+  "no": 63,
+  "annotator_agreement": 0.93
+ },
+ {
+  "hook_type": "curiosity_gap",
+  "hook_basis": "comeback_collapse",
+  "topic_primary": "comeback",
+  "scope": "international",
+  "subject_type": "player",
+  "timeliness": "breaking_week",
+  "uk_relevance": "medium",
+  "story_structure": "chronological_recap",
+  "twist_position": "middle",
+  "payoff_type": "punchline",
+  "humour_type": "understatement",
+  "humour_target": "player",
+  "dominant_emotion": "surprise",
+  "comment_bait": "none",
+  "cta_opener_type": "question",
+  "hook_type_alt": "none",
+  "hook_strength": 3.5,
+  "story_clarity": 4.0,
+  "humour_quality": 3.0,
+  "shareability": 3.0,
+  "comment_potential": 2.5,
+  "uk_fit": 3.5,
+  "novelty": 2.5,
+  "poster_title_sells_hook": 3.0,
+  "poster_joke_quality": 2.0,
+  "humour_intensity": 2.0,
+  "virality_pred": 5.5,
+  "risk_flags": [
+   "single_source"
+  ],
+  "hook_type_why": "\"Two down, and then VAR met Erling Haaland.\" - payoff withheld",
+  "hook_basis_detail": "Norway came back from 0-2 to beat Denmark 3-2 on a stoppage-time VAR penalty.",
+  "story_summary": "Norway recover from 2-0 down; Haaland scores a VAR penalty, is booked for his shirt, and reaches 68 goals.",
+  "poster_issue": "Bubble repeats the scoreline as plain news; the shirt booking, the funniest beat, is missing.",
+  "poster_change": "Bubble: 'Booked for taking his shirt off. Worth it.'",
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "hook_rewrite",
+    "action": "Name the stakes: 'Denmark led 2-0. Haaland needed ninety-five minutes and one VAR check.'"
+   },
+   {
+    "priority": "P2",
+    "category": "add_comment_bait",
+    "action": "Ask whether the late handball penalty was fair; invites VAR arguments."
+   },
+   {
+    "priority": "P2",
+    "category": "vary_cta",
+    "action": "Replace repeated 'Want the next story before it breaks?' (25 videos)."
+   },
+   {
+    "priority": "P2",
+    "category": "verify_fact",
+    "action": "Check the 68 goals in 61 games and the 25 Nations League goals record against a primary source."
+   },
+   {
+    "priority": "P3",
+    "category": "poster_title",
+    "action": "Make cover headline about the shirt booking or the 2-0 collapse, not the result."
+   }
+  ],
+  "no": 64,
+  "annotator_agreement": 0.93
+ },
+ {
+  "hook_type": "stat_shock",
+  "hook_basis": "stats_oddity",
+  "topic_primary": "player_form",
+  "scope": "premier_league",
+  "subject_type": "player",
+  "timeliness": "breaking_week",
+  "uk_relevance": "high",
+  "story_structure": "stat_stack",
+  "twist_position": "late",
+  "payoff_type": "none",
+  "humour_type": "deadpan_stat",
+  "humour_target": "situation",
+  "dominant_emotion": "sympathy",
+  "comment_bait": "none",
+  "cta_opener_type": "mates_social",
+  "hook_type_alt": "none",
+  "hook_strength": 3.0,
+  "story_clarity": 4.0,
+  "humour_quality": 2.0,
+  "shareability": 2.5,
+  "comment_potential": 3.0,
+  "uk_fit": 5.0,
+  "novelty": 2.0,
+  "poster_title_sells_hook": 2.5,
+  "poster_joke_quality": 1.0,
+  "humour_intensity": 1.0,
+  "virality_pred": 4.0,
+  "risk_flags": [
+   "single_source"
+  ],
+  "hook_type_why": "\"Ten Premier League games, one start.\" - minutes count as the hook",
+  "hook_basis_detail": "Estevao has one start in ten Premier League games under Alonso, against four of five for Brazil.",
+  "story_summary": "Estevao barely plays at Chelsea under Alonso's 3-4-3 while Ancelotti starts him for Brazil.",
+  "poster_issue": "Bubble is a plain sentence, no joke. Burst 'NO WAY!' does not match a minutes story.",
+  "poster_change": "Bubble: 'One start. A perfect record.'",
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "add_comment_bait",
+    "action": "Add a question: should Alonso start Estevao over Palmer or Rogers?"
+   },
+   {
+    "priority": "P1",
+    "category": "stronger_twist",
+    "action": "Move the Ancelotti 'four of five starts for Brazil' contrast up to line 2 as the twist."
+   },
+   {
+    "priority": "P2",
+    "category": "improve_humour",
+    "action": "Only one gag ('A perfect record'); add a sharper joke on 3-4-3."
+   },
+   {
+    "priority": "P2",
+    "category": "vary_cta",
+    "action": "'Your mates will never guess this' (32 videos) does not fit a known minutes story."
+   },
+   {
+    "priority": "P2",
+    "category": "verify_fact",
+    "action": "Source mentions an injury background; confirm start count and that the injury is not implied by the framing."
+   }
+  ],
+  "no": 65,
+  "annotator_agreement": 0.89
+ },
+ {
+  "hook_type": "contrast_twist",
+  "hook_basis": "scoreline_result",
+  "topic_primary": "match_report",
+  "scope": "premier_league",
+  "subject_type": "club_team",
+  "timeliness": "recent_month",
+  "uk_relevance": "high",
+  "story_structure": "chronological_recap",
+  "twist_position": "late",
+  "payoff_type": "punchline",
+  "humour_type": "deadpan_stat",
+  "humour_target": "club",
+  "dominant_emotion": "schadenfreude",
+  "comment_bait": "none",
+  "cta_opener_type": "question",
+  "hook_type_alt": "stat_shock",
+  "hook_strength": 3.0,
+  "story_clarity": 3.5,
+  "humour_quality": 2.5,
+  "shareability": 3.0,
+  "comment_potential": 3.0,
+  "uk_fit": 5.0,
+  "novelty": 2.0,
+  "poster_title_sells_hook": 2.5,
+  "poster_joke_quality": 1.0,
+  "humour_intensity": 1.0,
+  "virality_pred": 4.0,
+  "risk_flags": [
+   "single_source",
+   "unverified_claim"
+  ],
+  "hook_type_why": "\"A screamer, a three-minute reply, and Newcastle still in twelfth place.\"",
+  "hook_basis_detail": "Newcastle drew 1-1 at Fulham: Murphy scored in the 80th minute, Muniz equalised in the 83rd.",
+  "story_summary": "Newcastle draw 1-1 at Fulham after an 80th-minute screamer; twelfth, pressure on Jaissle grows.",
+  "poster_issue": "Bubble 'Newcastle drew 1-1 at Fulham' is a plain result; headline already says it. Burst 'SERIOUSLY?!' is vague.",
+  "poster_change": "Bubble: 'Six points clear in October. Twelfth now. At least it is tidy.'",
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "verify_fact",
+    "action": "Recheck 'still twelfth' against current table; match was two weeks ago."
+   },
+   {
+    "priority": "P1",
+    "category": "hook_rewrite",
+    "action": "Lead with the collapse: 'Six points clear in October. Twelfth now. Newcastle at Fulham.'"
+   },
+   {
+    "priority": "P2",
+    "category": "add_comment_bait",
+    "action": "Ask: should Newcastle sack Jaissle?"
+   },
+   {
+    "priority": "P2",
+    "category": "vary_cta",
+    "action": "Replace repeated 'Want the next story before it breaks?' (25 videos)."
+   },
+   {
+    "priority": "P2",
+    "category": "improve_humour",
+    "action": "'At least it is tidy' is weak; use a sharper punchline on twelve points."
+   }
+  ],
+  "no": 66,
+  "annotator_agreement": 0.93
+ },
+ {
+  "hook_type": "news_flash",
+  "hook_basis": "prediction_or_pundit",
+  "topic_primary": "pundit_prediction",
+  "scope": "mixed_career",
+  "subject_type": "player",
+  "timeliness": "breaking_week",
+  "uk_relevance": "medium",
+  "story_structure": "stat_stack",
+  "twist_position": "middle",
+  "payoff_type": "punchline",
+  "humour_type": "roast",
+  "humour_target": "player",
+  "dominant_emotion": "amusement",
+  "comment_bait": "hot_take",
+  "cta_opener_type": "question",
+  "hook_type_alt": "bold_claim",
+  "hook_strength": 2.5,
+  "story_clarity": 3.5,
+  "humour_quality": 3.0,
+  "shareability": 4.0,
+  "comment_potential": 4.5,
+  "uk_fit": 3.5,
+  "novelty": 2.0,
+  "poster_title_sells_hook": 4.0,
+  "poster_joke_quality": 2.0,
+  "humour_intensity": 2.0,
+  "virality_pred": 6.0,
+  "risk_flags": [
+   "betting_under18_appeal",
+   "single_source",
+   "unverified_claim"
+  ],
+  "hook_type_why": "\"ESPN names the best player in the world: Lamine Yamal.\" - plain announcement",
+  "hook_basis_detail": "ESPN November top-10: Yamal first, Bellingham second, Olise third, Raphinha fourth, Kane fifth.",
+  "story_summary": "ESPN ranks Yamal best; Kane, reigning Ballon d'Or winner, drops to fifth amid a finishing slump; Barcelona have three.",
+  "poster_issue": "Bubble repeats ranks 2 and 3 as plain list; the Kane notebook joke is not on the cover.",
+  "poster_change": "Bubble: 'Kane could borrow his notebook.' Keep the headline.",
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "footage_match",
+    "action": "On-screen cards run one line behind the voice (Olise card on the Kane line); realign."
+   },
+   {
+    "priority": "P1",
+    "category": "hook_rewrite",
+    "action": "Lead with Kane: 'ESPN says Kane, reigning Ballon d'Or winner, is only fifth best.'"
+   },
+   {
+    "priority": "P1",
+    "category": "add_comment_bait",
+    "action": "Ask viewers to name their number one; ranking arguments drive comments."
+   },
+   {
+    "priority": "P2",
+    "category": "verify_fact",
+    "action": "Check Barcelona three-in-top-ten and Kane 'reigning winner' against the ESPN list."
+   },
+   {
+    "priority": "P3",
+    "category": "vary_cta",
+    "action": "Keep this unique 'Want to call the next one?' opener; it is the least repeated."
+   }
+  ],
+  "no": 67,
+  "annotator_agreement": 0.93
+ },
+ {
+  "hook_type": "news_flash",
+  "hook_basis": "contract_or_job",
+  "topic_primary": "manager_news",
+  "scope": "international",
+  "subject_type": "manager",
+  "timeliness": "breaking_week",
+  "uk_relevance": "medium",
+  "story_structure": "stat_stack",
+  "twist_position": "none",
+  "payoff_type": "punchline",
+  "humour_type": "absurd_comparison",
+  "humour_target": "manager",
+  "dominant_emotion": "amusement",
+  "comment_bait": "hot_take",
+  "cta_opener_type": "mates_social",
+  "hook_type_alt": "curiosity_gap",
+  "hook_strength": 2.5,
+  "story_clarity": 3.0,
+  "humour_quality": 4.0,
+  "shareability": 3.0,
+  "comment_potential": 3.0,
+  "uk_fit": 3.0,
+  "novelty": 3.0,
+  "poster_title_sells_hook": 3.0,
+  "poster_joke_quality": 4.0,
+  "humour_intensity": 2.5,
+  "virality_pred": 5.0,
+  "risk_flags": [
+   "over_length",
+   "single_source",
+   "unverified_claim"
+  ],
+  "hook_type_why": "\"Pochettino leaves the US for Manchester United. Bruce Arena has opinions.\"",
+  "hook_basis_detail": "Arena says US Soccer handles the search for Pochettino's successor poorly; Pochettino left under three months after a new contract.",
+  "story_summary": "Pochettino leaves the USMNT for United; Arena slams the succession plan; Cherundolo takes the December camp.",
+  "poster_issue": "Headline is about Arena's view, but the strongest joke (the bubble) is about Pochettino; message is split.",
+  "poster_change": "keep",
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "shorten",
+    "action": "601 characters against a 600 limit; cut one line, for example the Cherundolo line."
+   },
+   {
+    "priority": "P1",
+    "category": "hook_rewrite",
+    "action": "Open on Arena's quote 'don't have a clue' instead of 'has opinions'."
+   },
+   {
+    "priority": "P2",
+    "category": "improve_humour",
+    "action": "Three-months joke appears twice (lines 4 and 6); keep the yoghurt line, rewrite the ending."
+   },
+   {
+    "priority": "P2",
+    "category": "verify_fact",
+    "action": "'Don't have a clue' is paraphrased; check Arena's exact words."
+   },
+   {
+    "priority": "P2",
+    "category": "vary_cta",
+    "action": "'Your mates will never guess this' (32 videos); use a CTA tied to United."
+   },
+   {
+    "priority": "P2",
+    "category": "add_comment_bait",
+    "action": "Ask UK fans: is Pochettino at United a good hire or a short-term gamble?"
+   }
+  ],
+  "no": 68,
+  "annotator_agreement": 0.86
+ },
+ {
+  "hook_type": "curiosity_gap",
+  "hook_basis": "viral_or_social",
+  "topic_primary": "discipline_controversy",
+  "scope": "premier_league",
+  "subject_type": "player",
+  "timeliness": "breaking_week",
+  "uk_relevance": "high",
+  "story_structure": "chronological_recap",
+  "twist_position": "middle",
+  "payoff_type": "none",
+  "humour_type": "understatement",
+  "humour_target": "player",
+  "dominant_emotion": "amusement",
+  "comment_bait": "none",
+  "cta_opener_type": "question",
+  "hook_type_alt": "none",
+  "hook_strength": 4.0,
+  "story_clarity": 4.0,
+  "humour_quality": 3.0,
+  "shareability": 4.0,
+  "comment_potential": 3.0,
+  "uk_fit": 5.0,
+  "novelty": 5.0,
+  "poster_title_sells_hook": 3.5,
+  "poster_joke_quality": 3.0,
+  "humour_intensity": 2.0,
+  "virality_pred": 7.0,
+  "risk_flags": [
+   "betting_under18_appeal",
+   "off_topic_footage_risk",
+   "single_source"
+  ],
+  "hook_type_why": "\"picked himself in fantasy football. Then he made himself captain.\" - odd act, reason withheld",
+  "hook_basis_detail": "Tzolis picked and captained himself in FPL before the Liverpool game; Arteta then banned self-picks.",
+  "story_summary": "Arsenal's Tzolis captained himself in FPL, leaking likely team news; Arteta bans self-picks and Chelsea warns staff too.",
+  "poster_issue": "Bubble is a factual line; the best joke, 'Fantasy football just became team news', is not on the cover.",
+  "poster_change": "Bubble: 'Fantasy football just became team news.'",
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "add_comment_bait",
+    "action": "Add a question: would you pick yourself in FPL? FPL players love this debate."
+   },
+   {
+    "priority": "P1",
+    "category": "stronger_twist",
+    "action": "End on the self-transfer-out beat or the Chelsea warning with a punchline, not a flat fact."
+   },
+   {
+    "priority": "P2",
+    "category": "footage_match",
+    "action": "Stamford Bridge footage is only an idea; use verified Arsenal or FPL footage."
+   },
+   {
+    "priority": "P2",
+    "category": "vary_cta",
+    "action": "Replace repeated 'Want the next story before it breaks?' (25 videos)."
+   }
+  ],
+  "no": 69,
+  "annotator_agreement": 0.82
+ },
+ {
+  "hook_type": "quote_led",
+  "hook_basis": "quote_or_interview",
+  "topic_primary": "pundit_prediction",
+  "scope": "other_leagues",
+  "subject_type": "player",
+  "timeliness": "breaking_week",
+  "uk_relevance": "low",
+  "story_structure": "roast_and_praise",
+  "twist_position": "early",
+  "payoff_type": "punchline",
+  "humour_type": "sarcasm",
+  "humour_target": "player",
+  "dominant_emotion": "amusement",
+  "comment_bait": "hot_take",
+  "cta_opener_type": "mates_social",
+  "hook_type_alt": "roast_jab",
+  "hook_strength": 4.0,
+  "story_clarity": 4.0,
+  "humour_quality": 3.0,
+  "shareability": 3.0,
+  "comment_potential": 4.0,
+  "uk_fit": 2.0,
+  "novelty": 3.0,
+  "poster_title_sells_hook": 3.5,
+  "poster_joke_quality": 2.0,
+  "humour_intensity": 2.0,
+  "virality_pred": 5.0,
+  "risk_flags": [
+   "betting_under18_appeal",
+   "single_source",
+   "unverified_claim"
+  ],
+  "hook_type_why": "\"Thomas Muller just called MLS careless. He plays there. Brave.\"",
+  "hook_basis_detail": "Muller told Global News that no relegation makes MLS defending less focused; he plays for the Whitecaps.",
+  "story_summary": "Muller says MLS lacks relegation pressure and consistency, praises attack; he joined Vancouver in August and renewed.",
+  "poster_issue": "Bubble is explanation, not a joke; burst 'HOW?!' is meaningless and reused on other covers.",
+  "poster_change": "Bubble: 'He plays there. Brave.' Burst: 'AWKWARD!'",
+  "changes": [
+   {
+    "priority": "P1",
+    "category": "add_comment_bait",
+    "action": "Ask UK viewers: would relegation fear help or hurt the Premier League? Gives a UK angle."
+   },
+   {
+    "priority": "P2",
+    "category": "vary_cta",
+    "action": "'Your mates will never guess this' (32 videos); use a story-linked CTA."
+   },
+   {
+    "priority": "P2",
+    "category": "verify_fact",
+    "action": "Quote is paraphrased; check Muller's exact Global News wording and the contract renewal."
+   },
+   {
+    "priority": "P2",
+    "category": "improve_humour",
+    "action": "'Long meeting' joke is relatable; add one sharper jab at MLS fans or table-checking."
+   }
+  ],
+  "no": 70,
+  "annotator_agreement": 0.79
+ }
+]

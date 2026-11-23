@@ -1,0 +1,89 @@
+{
+ "no": 88,
+ "subject": "Neymar finishes 10th in a poker tournament and wins 24,000 dollars",
+ "title": "Neymar's poker run",
+ "voice": "kokoro",
+ "comic": true,
+ "style": "southpark_cutout",
+ "lines": [
+  {
+   "vo": "Neymar paid fifteen thousand dollars and left with twenty-four thousand.",
+   "card": "Richer on the felt",
+   "sfx": null,
+   "footage": "Neymar poker BSOP Millions"
+  },
+  {
+   "vo": "He finished tenth in an invitation-only Super High Roller event at BSOP Millions. Even his hobbies have a guest list.",
+   "card": "Tenth, invitation only",
+   "sfx": null,
+   "footage": "Neymar poker mesa final"
+  },
+  {
+   "vo": "One hundred and fifty-two entries and a one point two million dollar prize pool. Tenth is about the top seven percent. Not bad for a man who changes his hair more often than his strategy.",
+   "card": "152 entries",
+   "sfx": null,
+   "footage": "Neymar joga poker torneio"
+  },
+  {
+   "vo": "He played for more than eight hours. That is four football matches without a single sprint. Then Pedro Neves, the twenty twenty-four world champion, knocked him out.",
+   "card": "Eight hours, one knockout",
+   "sfx": "short shuffle sound",
+   "footage": "Neymar poker tournament Brazil"
+  },
+  {
+   "vo": "Two nights earlier he was twelfth in a four thousand dollar buy-in event.",
+   "card": "Twelfth, four grand",
+   "sfx": null,
+   "footage": "Neymar Santos highlights 2026"
+  },
+  {
+   "vo": "Last year he was twenty-ninth in the Brazilian Series of Poker. Twenty-ninth, twelfth, tenth. Progress, Neymar.",
+   "card": "Twenty-ninth to tenth",
+   "sfx": null,
+   "footage": "Neymar poker BSOP"
+  },
+  {
+   "vo": "Want more Neymar stories? Free tips, results and predictions at aboutfootball dot UK.",
+   "card": "aboutfootball.UK",
+   "sfx": null,
+   "footage": "end card"
+  }
+ ],
+ "chars": 810,
+ "est_seconds": 45,
+ "footage_terms": [
+  "Neymar poker BSOP Millions",
+  "Neymar poker mesa final",
+  "Neymar joga poker torneio",
+  "Neymar poker tournament Brazil"
+ ],
+ "inserts": [
+  {
+   "after_line": 2,
+   "story": "Setup: a cutout Neymar walks up to a velvet-rope poker table. Gag: a cutout bouncer checks a guest list with one line on it: NEYMAR. Twist: the bouncer asks for ID and Neymar holds up a football.",
+   "characters": "South Park style cutout Neymar; cutout bouncer with clipboard",
+   "seconds": 2
+  },
+  {
+   "after_line": 3,
+   "story": "Setup: cutout Neymar holds up last year's leaderboard showing 29TH. Gag: he rubs the number out with one finger and writes 12TH, then 10TH. Twist: he claps once, very quietly, and the board politely claps back.",
+   "characters": "cutout Neymar; cutout leaderboard",
+   "seconds": 2
+  },
+  {
+   "after_line": 4,
+   "story": "Setup: a generic cutout champion in a shiny suit slides a giant playing-card trophy onto the table. Gag: the trophy is too big and pushes every chip off the felt. Twist: the chips land in tiny cutout Neymar's lap and he calmly says REMATCH.",
+   "characters": "generic cutout champion (not a real likeness); cutout Neymar",
+   "seconds": 2
+  }
+ ],
+ "facts_used": [
+  "Neymar finished 10th in an invitation-only 50K Super High Roller event; 152 entries; about 1.2 million dollar prize pool (ev0137)",
+  "Paid a 15,000 dollar buy-in, played more than eight hours, knocked out by 2024 world poker champion Pedro Neves (ev0137)",
+  "Two nights earlier finished 12th in a 4,000 dollar buy-in event (ev0137)",
+  "Won 24,000 dollars from a 15,000 entry (ev0137)",
+  "Finished 29th in the Brazilian Series of Poker last year (ev0137 background)"
+ ],
+ "comic_score": 6,
+ "notes": "Comic, 3 inserts (after_line counts from 1). Poker content only, no gambling advice, no claim about winning. CTA says tips/news/predictions with no promise of results. 'Top seven percent' is 10 of 152 = 6.6%, rounded and labelled 'about'. 'Four football matches' is 8 hours at roughly two hours per match, a joke comparison. Hair joke is the only roast and is allowed (hair). Source: ESPN."
+}

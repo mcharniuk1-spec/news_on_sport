@@ -1,0 +1,136 @@
+{
+ "video_id": "ZENFT5KkWjc",
+ "topic": "Short: Diego Costa scuffle with Arsenal players (Gabriel, Coquelin) at Chelsea v Arsenal, shown as GTA mission passed meme (Nost FC)",
+ "hero": "Diego Costa (Chelsea)",
+ "hero_role": "protagonist of the controversy",
+ "media_type_overall": "real broadcast footage",
+ "hook": "Costa and Arsenal player grappling in crowd, zoomed vertical crop with blurred copy bars",
+ "subtitle_style": "Yellow-orange GTA-style italic caption \"mission passed!\" at end (bottom-left); no other subs; Nost FC watermark",
+ "reaction_overlays": "Spotlight circle on incident in wide shot, blurred zoomed duplicate background bars, GTA mission passed sticker, no emoji",
+ "transition_summary": "Hard cuts every ~2-3 s (cuts at 2.8, 7.6, 10.5, 12.5, 15.1, 20.5), about 4 per 10 s, punch-in crops",
+ "audio_note": "Commentary (transcript: little grab and a swing... Costa goes) plus GTA mission-passed sound at end (inferred)",
+ "reuse_segments": [
+  {
+   "t0": 0,
+   "t1": 28,
+   "what": "Chelsea v Arsenal 2015 incident",
+   "origin_guess": "broadcast match",
+   "rights_risk": "high",
+   "how_to_reuse": "licensed footage required; or recreate with illustration/animation"
+  }
+ ],
+ "frames": [
+  {
+   "idx": 1,
+   "t": 0,
+   "desc": "Chelsea no.19 Costa grabbing Arsenal player face in crowd, blur bars top/bottom",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 2,
+   "t": 2,
+   "desc": "Wide stadium pitch with players, blurred bars",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 3,
+   "t": 4,
+   "desc": "Wide view with spotlight circle on player on ground and another kicking out",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 4,
+   "t": 6,
+   "desc": "Wide view with spotlight circle on player on ground and another kicking out",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 5,
+   "t": 8,
+   "desc": "Arsenal Gabriel no.5 back with Costa behind, close",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 6,
+   "t": 10,
+   "desc": "Costa and Arsenal player no.5 arguing, referee in background",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 7,
+   "t": 12,
+   "desc": "Costa in blue shirt facing Arsenal no.5 Gabriel, tense",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 8,
+   "t": 14,
+   "desc": "Costa in blue shirt facing Arsenal no.5 Gabriel, tense",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 9,
+   "t": 16,
+   "desc": "Scrum of Chelsea and Arsenal players pushing",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 10,
+   "t": 18,
+   "desc": "Arsenal midfielder no.16 with arms down and yellow-kit referee pointing",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 11,
+   "t": 20,
+   "desc": "Arsene Wenger in blue shirt and red tie gesturing on touchline",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 12,
+   "t": 22,
+   "desc": "Arsenal player pushing/arm outstretched in scuffle",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 13,
+   "t": 24,
+   "desc": "Close scuffle Chelsea players and Arsenal Gabriel, Coquelin",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 14,
+   "t": 26,
+   "desc": "Costa in Chelsea kit looking up with Yokohama sponsor, GTA text",
+   "type": "video",
+   "text_on_screen": "mission passed!",
+   "transition_to_next": "none"
+  }
+ ]
+}

@@ -1,0 +1,87 @@
+{
+ "no": 82,
+ "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/082_barcelona_reportedly_enquire_about_b.mp4",
+ "total": 39.36666666666667,
+ "outro_start": 33.28,
+ "cover": true,
+ "seq": [
+  {
+   "id": "s01",
+   "kind": "HOOK",
+   "start": 0.1,
+   "end": 1.6,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/082/s01.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s02",
+   "kind": "COMIC1",
+   "start": 3.7333333333333334,
+   "end": 5.733333333333333,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/082/s02.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s03",
+   "kind": "COMIC2",
+   "start": 10.533333333333333,
+   "end": 12.533333333333333,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/082/s03.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s04",
+   "kind": "NEWS",
+   "start": 14.6,
+   "end": 16.366666666666667,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/082/s04.mp4",
+   "clip_dur": 1.767,
+   "frames": 42
+  },
+  {
+   "id": "s05",
+   "kind": "INTERVIEW",
+   "start": 18.6,
+   "end": 20.366666666666667,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/082/s05.mp4",
+   "clip_dur": 1.767,
+   "frames": 42
+  },
+  {
+   "id": "s06",
+   "kind": "STATS",
+   "start": 25.333333333333332,
+   "end": 26.833333333333332,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/082/s06.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s07",
+   "kind": "PROVOC",
+   "start": 31.6,
+   "end": 33.1,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/082/s07.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  }
+ ],
+ "missing": [],
+ "dropped": [],
+ "cards": [],
+ "caption_sprites": 113,
+ "whoosh": [
+  0.0,
+  3.6333333333333333,
+  10.433333333333334,
+  14.5,
+  18.5,
+  25.23333333333333,
+  31.5,
+  33.18
+ ],
+ "shots": 12
+}

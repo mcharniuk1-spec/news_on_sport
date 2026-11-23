@@ -1,0 +1,81 @@
+{
+ "no": 903,
+ "subject": "Mudryk dump truck",
+ "title": "Mudryk: what 100 million euros feels like",
+ "voice": "kokoro",
+ "comic": false,
+ "style": null,
+ "lines": [
+  {
+   "vo": "What does a hundred-million-euro transfer feel like? A dump truck.",
+   "card": "A dump truck",
+   "sfx": null,
+   "footage": "Mudryk Chelsea interview clip"
+  },
+  {
+   "vo": "That is Mykhailo Mudryk's answer. Shakhtar to Chelsea, January twenty twenty-three.",
+   "card": "Shakhtar to Chelsea",
+   "sfx": null,
+   "footage": "Mudryk Chelsea unveiling"
+  },
+  {
+   "vo": "Seventy million euros up front. Up to a hundred with add-ons. The most expensive Ukrainian footballer ever.",
+   "card": "EUR 70m up front",
+   "sfx": null,
+   "footage": "Mudryk Chelsea transfer highlights"
+  },
+  {
+   "vo": "The salary? Reports said four hundred thousand pounds a month.",
+   "card": "GBP 400k a month",
+   "sfx": null,
+   "footage": "Mudryk Chelsea highlights"
+  },
+  {
+   "vo": "Gross. As in, before tax. So how big is the tax? Forty-five percent.",
+   "card": "Before tax: 45%",
+   "sfx": null,
+   "footage": "Mudryk Chelsea goals"
+  },
+  {
+   "vo": "A hundred-million price tag. Forty-five percent tax. At thirty-seven point four kilometres an hour, he can outrun everything except the taxman.",
+   "card": "Outruns all but tax",
+   "sfx": null,
+   "footage": "Mudryk speed sprint clip"
+  },
+  {
+   "vo": "Think you can call the next one? Free tips, results and predictions at aboutfootball dot UK.",
+   "card": "aboutfootball.UK",
+   "sfx": null,
+   "footage": "end card, no footage"
+  }
+ ],
+ "chars": 621,
+ "est_seconds": 34,
+ "footage_terms": [
+  "Mudryk Chelsea highlights",
+  "Mudryk Chelsea transfer unveiling",
+  "Mudryk speed sprint Chelsea",
+  "Mudryk Shakhtar goals"
+ ],
+ "inserts": [
+  {
+   "after_line": 1,
+   "story": "A cartoon dump truck rolls onto a pitch, stacked with giant euro coins. Gag: a caricature of Mudryk salutes from the cab. Twist: the truck beeps, reversing.",
+   "characters": "caricature of Mudryk; generic cartoon dump truck",
+   "seconds": 2
+  },
+  {
+   "after_line": 5,
+   "story": "A cartoon taxman in a bowler hat chases a caricature of Mudryk down a track. Gag: the taxman runs out of puff in seconds. Twist: he waves a tiny cheque from the bench.",
+   "characters": "generic cartoon taxman; caricature of Mudryk",
+   "seconds": 2
+  }
+ ],
+ "facts_used": [
+  "Mudryk Shakhtar to Chelsea 15 Jan 2023, EUR 70m initial up to EUR 100m, most expensive Ukrainian (fact pack, SCRIPT_DRAFTS)",
+  "Dump truck answer, reported GBP 400k a month, gross, 45% tax, 37.4 km/h: from pilot script mud2 / Gordon interview (V3_NOTES); NOT in knowledge DB",
+  "DB news id 5 confirms Guest of Gordon podcast and Chelsea-Tottenham loan"
+ ],
+ "comic_score": 7,
+ "notes": "Split from pilot 2 (money half). The 45% tax and the 37.4 km/h figures come only from the pilot script and the Gordon interview, not the DB: re-check before publishing. Doping and injury skipped."
+}

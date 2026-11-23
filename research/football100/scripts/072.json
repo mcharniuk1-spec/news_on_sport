@@ -1,0 +1,95 @@
+{
+ "no": 72,
+ "subject": "Billy Sharp, 40, comes out of retirement for Rushden & Diamonds in the FA Cup",
+ "title": "Billy Sharp's three-week retirement",
+ "voice": "kokoro",
+ "comic": true,
+ "style": "rickmorty_like",
+ "lines": [
+  {
+   "vo": "Billy Sharp retired in October. He was back by November.",
+   "card": "Back in November",
+   "sfx": null,
+   "footage": "Billy Sharp comeback FA Cup"
+  },
+  {
+   "vo": "He is forty, and he has signed for AFC Rushden and Diamonds. Yes, really.",
+   "card": "Signed at forty",
+   "sfx": null,
+   "footage": "Rushden and Diamonds club crest, Sharp archive"
+  },
+  {
+   "vo": "James Clifton is suspended, so Sharp covers, against Burton Albion in the FA Cup.",
+   "card": "Cover for Clifton",
+   "sfx": "whoosh",
+   "footage": "Rushden Diamonds Burton Albion FA Cup"
+  },
+  {
+   "vo": "His last game before retiring? A hat-trick against Peterborough. Hat-trick, goodbye, comeback.",
+   "card": "Hat-trick, goodbye",
+   "sfx": null,
+   "footage": "Billy Sharp retirement hat-trick Peterborough"
+  },
+  {
+   "vo": "Even boy bands wait longer than three weeks.",
+   "card": "Three weeks",
+   "sfx": "rimshot",
+   "footage": "Billy Sharp best goals Sheffield United"
+  },
+  {
+   "vo": "He has two hundred and ninety-nine career goals. One more is a nice round number. Just saying.",
+   "card": "299 career goals",
+   "sfx": null,
+   "footage": "Billy Sharp best goals Sheffield United"
+  },
+  {
+   "vo": "Chris Wilder says he still keeps himself very fit. Retirement was clearly just a rest day.",
+   "card": "Rest day",
+   "sfx": null,
+   "footage": "Chris Wilder press clip, Sharp training"
+  },
+  {
+   "vo": "Think you can call the next one? Free tips, results and predictions at aboutfootball dot UK.",
+   "card": "Free tips and predictions",
+   "sfx": null,
+   "footage": "Billy Sharp comeback FA Cup"
+  }
+ ],
+ "chars": 624,
+ "est_seconds": 43,
+ "footage_terms": [
+  "Billy Sharp Rushden & Diamonds",
+  "Billy Sharp retirement hat-trick Peterborough",
+  "Billy Sharp best goals Sheffield United",
+  "Rushden Diamonds Burton Albion FA Cup",
+  "Billy Sharp comeback FA Cup"
+ ],
+ "inserts": [
+  {
+   "after_line": 3,
+   "story": "Setup: a grumpy cartoon scientist hangs a 'Retired' sign on his lab door and pours one tiny coffee. Gag: the sign has not dried when a phone rings with a cover request. Twist: he answers mid-sip, already wearing boots under his lab coat.",
+   "characters": "grumpy lab-coat scientist caricature of Billy Sharp; teenage sidekick with a clipboard",
+   "seconds": 2
+  },
+  {
+   "after_line": 4,
+   "story": "Setup: a retirement party is still running, balloons sagging, banner reading 'Retired'. Gag: the scientist does push-ups on the buffet table. Twist: the sidekick quietly flips the banner to 'Back in a minute'.",
+   "characters": "scientist caricature; cartoon party guests in paper hats",
+   "seconds": 2
+  },
+  {
+   "after_line": 5,
+   "story": "Setup: the sidekick reads out the goal tally from a clipboard. Gag: the paper runs out at two hundred and ninety-nine. Twist: the scientist hands over one sticky note that says 'Room for one more.'",
+   "characters": "same scientist caricature; cartoon lab assistant",
+   "seconds": 2
+  }
+ ],
+ "facts_used": [
+  "Retired October; signed for AFC Rushden & Diamonds about three weeks later to cover suspended James Clifton (news 91; espn.com/soccer/story/_/id/50357500)",
+  "First-ever FA Cup first round, vs Burton Albion; article gives no result (news 91)",
+  "299 career goals; hat-trick in last game before retiring vs Peterborough (news 91)",
+  "Chris Wilder: he still keeps himself very fit (news 91)"
+ ],
+ "comic_score": 8,
+ "notes": "Punched up: 'even boy bands wait longer', 299 round-number tease (no motive claimed), Wilder 'rest day' twist. No age, health or injury jokes beyond the stated age fact. Result of the Burton tie not in source, so not stated. Inserts use generic cartoon characters and caricatures only; gags are not facts. after_line counts from 1."
+}

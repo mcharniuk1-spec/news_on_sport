@@ -1,0 +1,96 @@
+{
+ "video_id": "F_wbz5m4xH4",
+ "topic": "English vs Swedish fans chanting insults in the street; English chant answered by wild Swedish reply (Euro 2012 era footage)",
+ "hero": "Anonymous England and Sweden fans",
+ "hero_role": "participants in banter (comedic contrast)",
+ "media_type_overall": "fan phone/stadium footage",
+ "hook": "England fans on balcony with flags, caption \"You're sh*t!\" with angry emoji",
+ "subtitle_style": "White bold sans caption with black outline lower-centre; small purple italic caption 'wait for Sweden's reply'; chant lines in word chunks",
+ "reaction_overlays": "Angry emoji; small meme picture-in-picture bottom-centre at 16 s",
+ "transition_summary": "Hard cuts, ~5 per 10 s; vertical phone clips",
+ "audio_note": "Original crowd chants; transcript: 'English banza, but the Swedes reply is wild'",
+ "reuse_segments": [
+  {
+   "t0": 0,
+   "t1": 17,
+   "what": "Street fans chant exchange",
+   "origin_guess": "fan edit",
+   "rights_risk": "medium",
+   "how_to_reuse": "user-generated footage; need permission or recreate with actors/AI"
+  }
+ ],
+ "frames": [
+  {
+   "idx": 1,
+   "t": 0,
+   "desc": "England fans on balcony with Carlisle United and BCFC banners, caption",
+   "type": "video",
+   "text_on_screen": "You're sh*t! 😡",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 2,
+   "t": 2,
+   "desc": "Swedish fans in yellow on a street, building behind, caption",
+   "type": "video",
+   "text_on_screen": "wait for Sweden's reply",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 3,
+   "t": 4,
+   "desc": "Same shot, Swedish fans, flag, caption",
+   "type": "video",
+   "text_on_screen": "wait for Sweden's reply",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 4,
+   "t": 6,
+   "desc": "England fans with St George flags and Cote BCFC banner",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 5,
+   "t": 8,
+   "desc": "Street scene: Swedish fans and spectator in cap",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 6,
+   "t": 10,
+   "desc": "Swedish fans in yellow marching down street",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 7,
+   "t": 12,
+   "desc": "Swedes singing close, caption",
+   "type": "video",
+   "text_on_screen": "to your",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 8,
+   "t": 14,
+   "desc": "Swedish fans shouting, white shirt man, caption",
+   "type": "video",
+   "text_on_screen": "Go home",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 9,
+   "t": 16,
+   "desc": "Swedish fans close, small meme picture inset, caption",
+   "type": "video",
+   "text_on_screen": "ugly wives!",
+   "transition_to_next": "none"
+  }
+ ]
+}

@@ -1,0 +1,103 @@
+{
+ "no": 70,
+ "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/070_thomas_muller_says_mls_has_no_relega.mp4",
+ "total": 42.0,
+ "outro_start": 35.81,
+ "cover": true,
+ "seq": [
+  {
+   "id": "s01",
+   "kind": "HOOK",
+   "start": 0.1,
+   "end": 1.6,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/070/s01.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s02",
+   "kind": "COMIC1",
+   "start": 4.033333333333333,
+   "end": 6.033333333333333,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/070/s02.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s03",
+   "kind": "NEWS",
+   "start": 7.6,
+   "end": 9.366666666666667,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/070/s03.mp4",
+   "clip_dur": 1.767,
+   "frames": 42
+  },
+  {
+   "id": "s04",
+   "kind": "STATS",
+   "start": 10.866666666666667,
+   "end": 12.366666666666667,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/070/s04.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s05",
+   "kind": "COMIC2",
+   "start": 17.266666666666666,
+   "end": 19.266666666666666,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/070/s05.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s06",
+   "kind": "COMIC3",
+   "start": 23.933333333333334,
+   "end": 25.933333333333334,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/070/s06.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s07",
+   "kind": "PROVOC",
+   "start": 27.6,
+   "end": 29.1,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/070/s07.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s08",
+   "kind": "INTERVIEW",
+   "start": 30.866666666666667,
+   "end": 32.63333333333333,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/070/s08.mp4",
+   "clip_dur": 1.767,
+   "frames": 42
+  }
+ ],
+ "missing": [],
+ "dropped": [],
+ "cards": [
+  {
+   "text": "Survive or fall",
+   "a": 9.566666666666666,
+   "b": 10.733333333333333
+  }
+ ],
+ "caption_sprites": 114,
+ "whoosh": [
+  0.0,
+  3.933333333333333,
+  7.5,
+  10.766666666666667,
+  17.166666666666664,
+  23.833333333333332,
+  27.5,
+  30.766666666666666,
+  35.71
+ ],
+ "shots": 13
+}

@@ -1,0 +1,71 @@
+{
+  "no": 36,
+  "subject": "Monza striker Gustavo Varela leads Serie A scoring and has Europe calling",
+  "title": "Monza's man, Europe's wish list",
+  "voice": "kokoro",
+  "comic": false,
+  "style": null,
+  "lines": [
+    {
+      "vo": "Two and a half million, reportedly. Now he tops Serie A.",
+      "card": "2.5m, reportedly",
+      "sfx": null,
+      "footage": "Gustavo Varela Monza goals"
+    },
+    {
+      "vo": "Gustavo Varela is twenty-one and tops the scoring chart. Monza are still in the relegation zone. Somebody tell the other ten.",
+      "card": "Top scorer, bottom zone",
+      "sfx": null,
+      "footage": "Varela Monza Serie A highlights"
+    },
+    {
+      "vo": "Nine league goals, eleven in all competitions, with a Coppa Italia brace. Eleven goals in eleven games. Easy maths.",
+      "card": "11 in 11",
+      "sfx": null,
+      "footage": "Monza Avellino Coppa Italia Varela brace"
+    },
+    {
+      "vo": "His first senior Portugal call-up came this November. Funny how scoring every game gets you noticed.",
+      "card": "Portugal call-up",
+      "sfx": null,
+      "footage": "Varela Portugal call-up"
+    },
+    {
+      "vo": "Tottenham have made an enquiry. Liverpool are watching every week. Juventus and Napoli want a January deal.",
+      "card": "Spurs, Reds, Juve",
+      "sfx": null,
+      "footage": "Gustavo Varela Serie A highlights"
+    },
+    {
+      "vo": "Goal says Monza want thirty-five million euros. That is fourteen times what they reportedly paid Benfica. No bank offers that rate.",
+      "card": "35m asking price",
+      "sfx": null,
+      "footage": "Varela Monza goals highlights"
+    },
+    {
+      "vo": "Spotted it first? Match news, betting tips and predictions at aboutfootball dot UK.",
+      "card": "aboutfootball.UK",
+      "sfx": null,
+      "footage": "end card"
+    }
+  ],
+  "chars": 717,
+  "est_seconds": 40,
+  "footage_terms": [
+    "Gustavo Varela Monza goals",
+    "Gustavo Varela Serie A highlights",
+    "Gustavo Varela Portugal call-up",
+    "Varela Serie A top scorer"
+  ],
+  "inserts": [],
+  "facts_used": [
+    "Varela leads Serie A with 9 league goals and 11 in all competitions; Monza in the relegation zone (ev0029)",
+    "Brace in the Coppa Italia; 11 goals in 11 games (ev0029)",
+    "First senior Portugal call-up in November 2026 (ev0029)",
+    "Tottenham have made an enquiry; Liverpool watching weekly; Juventus and Napoli want a January deal (ev0029)",
+    "Goal reports a 35 million euro asking price (Goal figure, not confirmed by Football Italia); Goal says Monza signed him from Benfica for about EUR 2.5m (ev0029)",
+    "Varela is 21 (ev0029 background)"
+  ],
+  "comic_score": 6,
+  "notes": "Non-comic, no inserts. Facts unchanged. 'Fourteen times' = 35 / 2.5 (arithmetic). Both fees come from Goal (35m ask not confirmed by Football Italia; 2.5m Benfica fee reported). 'Somebody tell the other ten' is a light tease of the team, not a named player. Source: ev0029."
+}

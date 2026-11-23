@@ -1,0 +1,104 @@
+{
+ "video_id": "KmxekLxeJg8",
+ "topic": "Neymar-style freestyle juggling against a wall on a sunny court, filmed in a single take (title credits Neymar; face not identifiable)",
+ "hero": "Shirtless man in black shorts (title says Neymar; unidentified from frames)",
+ "hero_role": "performer doing freestyle tricks",
+ "media_type_overall": "fan phone/stadium footage",
+ "hook": "Man juggles ball on head in corner of two white walls, static tripod, blue sky",
+ "subtitle_style": "none",
+ "reaction_overlays": "none; small watermark at bottom-left",
+ "transition_summary": "Single static take with two cuts (at 10 s and 16 s); no transitions",
+ "audio_note": "unknown; probably music or ambient",
+ "reuse_segments": [
+  {
+   "t0": 0,
+   "t1": 20,
+   "what": "Single-take freestyle against wall",
+   "origin_guess": "fan edit",
+   "rights_risk": "medium",
+   "how_to_reuse": "social video; recreate with own performer or licensed clip"
+  }
+ ],
+ "frames": [
+  {
+   "idx": 1,
+   "t": 0,
+   "desc": "man balances ball on head, shirtless, black shorts, wall corner",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "none"
+  },
+  {
+   "idx": 2,
+   "t": 2,
+   "desc": "man stands, ball on ground off frame",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "none"
+  },
+  {
+   "idx": 3,
+   "t": 4,
+   "desc": "man juggles with ball at chest height, left",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "none"
+  },
+  {
+   "idx": 4,
+   "t": 6,
+   "desc": "man raises knee, ball above, bouncing off wall",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "none"
+  },
+  {
+   "idx": 5,
+   "t": 8,
+   "desc": "man leans back flipping ball over head, trick pose",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "none"
+  },
+  {
+   "idx": 6,
+   "t": 10,
+   "desc": "man on one leg with ball at shoulder, wide",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 7,
+   "t": 12,
+   "desc": "man juggles looking at ball over wall, ball high",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "none"
+  },
+  {
+   "idx": 8,
+   "t": 14,
+   "desc": "man catches ball on thigh, wall trick",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "cut"
+  },
+  {
+   "idx": 9,
+   "t": 16,
+   "desc": "man stands centre, second camera angle after cut, ball at foot",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "none"
+  },
+  {
+   "idx": 10,
+   "t": 18,
+   "desc": "man kicks ball at foot, third angle, trunk ball at ground",
+   "type": "video",
+   "text_on_screen": "",
+   "transition_to_next": "none"
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+  "901": {
+    "hook_type": "news_flash",
+    "topic_primary": "player_form",
+    "uk_relevance": "low",
+    "dominant_emotion": "amusement",
+    "comment_bait": "none",
+    "hook_type_alt": "curiosity_gap",
+    "risk_flags": ["overlap_other_video", "single_source", "unverified_claim"]
+  },
+  "902": {
+    "twist_position": "late",
+    "payoff_type": "praise_line",
+    "comment_bait": "fan_rivalry",
+    "hook_type_alt": "curiosity_gap",
+    "risk_flags": ["off_topic_footage_risk", "overlap_other_video", "single_source", "unverified_claim"]
+  },
+  "903": {
+    "hook_basis": "transfer_fee_or_bid",
+    "humour_target": "situation",
+    "comment_bait": "none",
+    "poster_title_sells_hook": 3,
+    "risk_flags": ["overlap_other_video", "single_source", "unverified_claim"]
+  },
+  "904": {
+    "dominant_emotion": "surprise",
+    "comment_bait": "fan_rivalry"
+  }
+}

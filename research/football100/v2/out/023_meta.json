@@ -1,0 +1,103 @@
+{
+ "no": 23,
+ "file": "<PROJECT_ROOT>/research/football100/FINAL_100_v2/videos/023_rodri.mp4",
+ "total": 53.36666666666667,
+ "outro_start": 46.7,
+ "cover": true,
+ "seq": [
+  {
+   "id": "s01",
+   "kind": "HOOK",
+   "start": 0.1,
+   "end": 1.8666666666666667,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/023/s01.mp4",
+   "clip_dur": 1.767,
+   "frames": 42
+  },
+  {
+   "id": "s02",
+   "kind": "NEWS",
+   "start": 5.1,
+   "end": 7.366666666666666,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/023/s02.mp4",
+   "clip_dur": 2.267,
+   "frames": 54
+  },
+  {
+   "id": "s03",
+   "kind": "COMIC1",
+   "start": 10.866666666666667,
+   "end": 13.366666666666667,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/023/s03.mp4",
+   "clip_dur": 2.5,
+   "frames": 60
+  },
+  {
+   "id": "s04",
+   "kind": "INTERVIEW",
+   "start": 18.5,
+   "end": 20.5,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/023/s04.mp4",
+   "clip_dur": 2.0,
+   "frames": 48
+  },
+  {
+   "id": "s05",
+   "kind": "COMIC2",
+   "start": 24.433333333333334,
+   "end": 26.7,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/023/s05.mp4",
+   "clip_dur": 2.267,
+   "frames": 54
+  },
+  {
+   "id": "s06",
+   "kind": "COMIC3",
+   "start": 31.266666666666666,
+   "end": 33.53333333333333,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/023/s06.mp4",
+   "clip_dur": 2.267,
+   "frames": 54
+  },
+  {
+   "id": "s07",
+   "kind": "STATS",
+   "start": 39.9,
+   "end": 41.4,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/023/s07.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  },
+  {
+   "id": "s08",
+   "kind": "PROVOC",
+   "start": 43.9,
+   "end": 45.4,
+   "clip": "<PROJECT_ROOT>/research/football100/v2/seq/023/s08.mp4",
+   "clip_dur": 1.5,
+   "frames": 36
+  }
+ ],
+ "missing": [],
+ "dropped": [],
+ "cards": [
+  {
+   "text": "Not in top ten",
+   "a": 37.93333333333333,
+   "b": 39.733333333333334
+  }
+ ],
+ "caption_sprites": 99,
+ "whoosh": [
+  0.0,
+  5.0,
+  10.766666666666667,
+  18.4,
+  24.333333333333332,
+  31.166666666666664,
+  39.8,
+  43.8,
+  46.6
+ ],
+ "shots": 17
+}

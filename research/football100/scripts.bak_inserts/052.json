@@ -1,0 +1,67 @@
+{
+ "no": 52,
+ "subject": "Klopp's Germany smash Netherlands 5-0 to top Nations League group, Wirtz scores twice",
+ "title": "Klopp's Germany smash Netherlands",
+ "voice": "kokoro",
+ "comic": false,
+ "style": null,
+ "lines": [
+  {
+   "vo": "Germany needed to beat the Netherlands by five goals. So they did.",
+   "card": "Germany 5-0 Netherlands",
+   "footage": "Germany Netherlands 5-0 highlights"
+  },
+  {
+   "vo": "Five-nil in Berlin. Germany top their Nations League group. The Dutch can count Germany's goals on one hand. Just.",
+   "card": "Group A2 winners",
+   "footage": "Germany Netherlands highlights full time"
+  },
+  {
+   "vo": "Florian Wirtz scored twice. A long-range strike in the sixtieth minute, then a volley in the seventy-first.",
+   "card": "Wirtz scores twice",
+   "footage": "Wirtz goal Germany Netherlands"
+  },
+  {
+   "vo": "Germany scored three goals in eleven minutes. The Dutch defence must have gone for coffee.",
+   "card": "Three in eleven minutes",
+   "footage": "Germany goals montage Berlin"
+  },
+  {
+   "vo": "Nagelsmann was dismissed after a World Cup exit to Paraguay. Jurgen Klopp took over in August.",
+   "card": "Klopp takes over",
+   "footage": "Klopp Germany press conference"
+  },
+  {
+   "vo": "Klopp says this result will quiet the doubters for three or four months. Honest man. He even gave them a date.",
+   "card": "Three or four months",
+   "footage": "Klopp Germany reaction"
+  },
+  {
+   "vo": "It was also Germany's last game in an Adidas kit. Five-nil is a proper send-off.",
+   "card": "Last Adidas game",
+   "footage": "Germany Berlin kit close-up"
+  },
+  {
+   "vo": "Your mates will never guess this. Match news and betting tips at aboutfootball dot UK.",
+   "card": "aboutfootball.uk",
+   "footage": "football100 end card"
+  }
+ ],
+ "chars": 747,
+ "est_seconds": 42,
+ "footage_terms": [
+  "Germany Netherlands 5-0 highlights",
+  "Wirtz goal Germany Netherlands",
+  "Klopp Germany press conference",
+  "Klopp Germany Netherlands reaction"
+ ],
+ "inserts": [],
+ "facts_used": [
+  "ev0136: Germany won 5-0, took Nations League Group A2 and a top seed for the quarter-finals (news/news_dedup.json)",
+  "ev0136: Wirtz scored twice (60', 71'); Germany needed a win by at least five goals and scored three in an 11-minute spell (news/news_dedup.json)",
+  "ev0136: Klopp said the result would quiet doubters for three or four months; he took over in August after Nagelsmann was dismissed following a Round of 32 exit to Paraguay (news/news_dedup.json)",
+  "ev0136: last match in an Adidas kit before the switch to Nike; Germany are paired with Belgium in the quarter-finals (news/news_dedup.json)"
+ ],
+ "comic_score": 5,
+ "notes": "Score and goal minutes from the record. The 'Berlin' venue and Paraguay exit come from the record's background and facts. Wirtz's second goal is a volley, the first a long-range strike, per the record. Non-comic, 0 inserts. Punch-up pass: five-goal callback (hook, one hand, send-off). Card 'Klopp's first national job' changed to 'Klopp takes over' because 'first' is not in the record. Nagelsmann is only mentioned as a fact, not joked about. Belgium quarter-final pairing dropped for length (still in facts_used)."
+}

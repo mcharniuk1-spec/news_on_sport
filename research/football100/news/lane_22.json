@@ -1,0 +1,760 @@
+[
+ {
+  "headline": "Chelsea fined 150,000 pounds by FA over crowd misconduct in FA Cup tie with Charlton",
+  "date": "2026-11-20",
+  "source_domain": "thefa.com",
+  "url": "http://www.thefa.com/news/2026/nov/20/chelsea-fc-update-201126",
+  "entities": [
+   "Chelsea",
+   "Charlton Athletic",
+   "The FA"
+  ],
+  "facts": [
+   "The FA said Chelsea were charged over supporters' conduct referring to religion or belief around the 56th minute of an FA Cup tie against Charlton Athletic.",
+   "Chelsea admitted the charge; an independent Regulatory Commission imposed a 150,000 pound fine, an action plan and a warning on future conduct.",
+   "Chelsea appealed, but an independent Appeal Board dismissed the appeal, so the original orders stand."
+  ],
+  "background": "Chelsea are coached by Xabi Alonso this season, and the case concerns supporter behaviour at an FA Cup tie against Charlton Athletic.",
+  "angle": "scandal",
+  "sensitive": true,
+  "footage_terms": [
+   "Chelsea Charlton FA Cup highlights",
+   "Xabi Alonso press conference Chelsea",
+   "Stamford Bridge atmosphere"
+  ],
+  "confidence": "high"
+ },
+ {
+  "headline": "Ecuadorian player banned eight years for hitting assistant referee with a stone",
+  "date": "2026-11-20",
+  "source_domain": "espn.com",
+  "url": "https://www.espn.com/soccer/story/_/id/50539565/jhon-michel-perlaza-stone-referee-eight-year-ban",
+  "entities": [
+   "Jhon Michel Perlaza",
+   "Club Ciudad de Yantzaza",
+   "Club Rio Aguarico",
+   "Ecuadorian Football Federation"
+  ],
+  "facts": [
+   "Perlaza, a 30-year-old midfielder, threw a stone from the bench area in the 96th minute on 17 October 2026 and hit the assistant referee in the face; the match was halted.",
+   "The official suffered a fractured cheekbone that needed surgery and was incapacitated for 60 days.",
+   "The federation's disciplinary commission banned Perlaza from all football activity for eight years, to 19 October 2034, and will ask FIFA to extend the ban worldwide.",
+   "The club was fined USD 2,000, must repay the referee's medical costs of USD 4,369.73 and must play three home games at a neutral venue; the club says he is no longer a member."
+  ],
+  "background": "The case comes from Ecuador's third tier, where Yantzaza and Rio Aguarico played the match.",
+  "angle": "scandal",
+  "sensitive": true,
+  "footage_terms": [
+   "referee attacked stone football Ecuador",
+   "football violence against referees",
+   "Ecuador third division match"
+  ],
+  "confidence": "high"
+ },
+ {
+  "headline": "Inquest into death of Sheffield United Women midfielder Maddy Cusack resumes in December",
+  "date": "2026-11-20",
+  "source_domain": "skysports.com",
+  "url": "https://www.skysports.com/football/news/13614340/maddy-cusack-inquest-into-death-of-sheffield-united-women-midfielder-to-resume-in-december",
+  "entities": [
+   "Maddy Cusack",
+   "Sheffield United Women",
+   "Jonathan Morgan"
+  ],
+  "facts": [
+   "The coroner's inquest into the death of 27-year-old Maddy Cusack is due to resume on 7 December for a five-day hearing in Derby, with 11 witnesses expected.",
+   "Her family made a written complaint to the club about her treatment under coach Jonathan Morgan; Morgan denies some of the claims.",
+   "The inquest was adjourned in July so the club could supply more evidence, including digital records and an audit of health records; an earlier start was postponed because of disclosure delays."
+  ],
+  "background": "Cusack was found unresponsive at her home in Derbyshire on 20 September 2023 while a Sheffield United Women player.",
+  "angle": "scandal",
+  "sensitive": true,
+  "footage_terms": [
+   "Sheffield United Women highlights",
+   "Maddy Cusack tribute",
+   "women's football welfare"
+  ],
+  "confidence": "high"
+ },
+ {
+  "headline": "Southampton extend coach Tonda Eckert to 2029 despite Spygate fallout",
+  "date": "2026-11-20",
+  "source_domain": "skysports.com",
+  "url": "https://www.skysports.com/football/news/13614334/southampton-boss-tonda-eckert-given-contract-extension-despite-spygate-controversy",
+  "entities": [
+   "Southampton",
+   "Tonda Eckert",
+   "Middlesbrough",
+   "EFL",
+   "The FA",
+   "Dragan Solak"
+  ],
+  "facts": [
+   "Southampton were thrown out of the 2026 Championship play-off final after admitting that a staff member spied on Middlesbrough's training; they were also docked four points this season.",
+   "The FA charged Eckert in July with three breaches of misconduct Rule E3.1; on 25 September he got a suspended six-week ban to the end of 2027/28, plus a fine.",
+   "On 20 November 2026 Eckert signed a new contract to 2029; owner Dragan Solak had backed him throughout.",
+   "Middlesbrough lost the play-off final 1-0 to Hull City on 23 May."
+  ],
+  "background": "Eckert took full responsibility for the spying in June and said he had received police protection after threats.",
+  "angle": "scandal",
+  "sensitive": false,
+  "footage_terms": [
+   "Southampton Spygate Middlesbrough",
+   "Tonda Eckert press conference",
+   "Southampton Championship highlights"
+  ],
+  "confidence": "high"
+ },
+ {
+  "headline": "Oviedo fan gets suspended prison term for racist abuse of Kylian Mbappe",
+  "date": "2026-11-17",
+  "source_domain": "espn.com",
+  "url": "https://www.espn.com/soccer/story/_/id/50509888/kylian-mbappe-racist-abuse-oviedo-fan-real-madrid",
+  "entities": [
+   "Kylian Mbappe",
+   "Real Madrid",
+   "Real Oviedo"
+  ],
+  "facts": [
+   "A Spanish court gave an Oviedo fan an 11-month prison term for a hate crime, suspended on condition he stays out of stadiums hosting official competitions for two years.",
+   "The fan also received a financial fine; the amount was not given.",
+   "The abuse happened on 24 August 2025, when Real Madrid won 3-0 at Oviedo and Mbappe scored twice."
+  ],
+  "background": "Mbappe joined Real Madrid from PSG in 2024, plays under Jose Mourinho this season and was a 2026 Ballon d'Or finalist, according to Sky Sports.",
+  "angle": "scandal",
+  "sensitive": true,
+  "footage_terms": [
+   "Mbappe Real Oviedo goals",
+   "Mbappe Real Madrid highlights",
+   "Real Madrid statement racism"
+  ],
+  "confidence": "high"
+ },
+ {
+  "headline": "Allegri banned two matches for abusing officials, then drops Napoli appeal",
+  "date": "2026-10-27",
+  "source_domain": "espn.com",
+  "url": "https://www.espn.com/soccer/story/_/id/50299199/napoli-coach-massimiliano-allegri-not-appeal-touchline-ban",
+  "entities": [
+   "Massimiliano Allegri",
+   "Napoli",
+   "Roma",
+   "Lega Serie A"
+  ],
+  "facts": [
+   "Allegri was sent off after Napoli's 3-3 home draw with Roma, when he thought the late equaliser should have been disallowed.",
+   "He received a two-match touchline ban and a 10,000 euro fine, missing the games at Monza and Juventus.",
+   "Napoli first said they would appeal, but Allegri decided against it to focus on turning around a struggling league campaign.",
+   "He denied saying anything to the fourth official."
+  ],
+  "background": "Allegri won multiple Serie A titles with Juventus and is known for touchline clashes with officials.",
+  "angle": "coach",
+  "sensitive": false,
+  "footage_terms": [
+   "Allegri red card Napoli Roma",
+   "Allegri press conference Napoli",
+   "Napoli Roma 3-3 highlights"
+  ],
+  "confidence": "high"
+ },
+ {
+  "headline": "UEFA fines England and hands suspended away-ticket ban over fans' chants in Madrid",
+  "date": "2026-11-19",
+  "source_domain": "skysports.com",
+  "url": "https://www.skysports.com/football/news/13614117/england-handed-suspended-away-ticket-ban-and-fine-by-uefa-for-fans-racist-and-or-discriminatory-behaviour-in-spain",
+  "entities": [
+   "England",
+   "The FA",
+   "UEFA",
+   "Spain"
+  ],
+  "facts": [
+   "UEFA fined the FA 12,600 pounds and gave a one-match away ticket ban, suspended for a two-year probation, for 'racist and/or discriminatory behaviour'.",
+   "The cases came from England's 3-2 Nations League win over Spain in Madrid on 15 November.",
+   "Sky Sports News understands the punishment followed anti-Catholic and anti-Irish chanting; the FA said it will work with police to identify those responsible."
+  ],
+  "background": "It was England's first visit to Madrid since 2004, when racist abuse was aimed at England's Black players, and Thomas Tuchel was angry that anti-racism protocol questions overshadowed the build-up.",
+  "angle": "scandal",
+  "sensitive": true,
+  "footage_terms": [
+   "Spain England Nations League highlights",
+   "Tuchel press conference England Spain",
+   "England fans Madrid"
+  ],
+  "confidence": "high"
+ },
+ {
+  "headline": "Premier League clubs vote 18-2 to cover legal costs of board members in Man City fallout",
+  "date": "2026-11-19",
+  "source_domain": "skysports.com",
+  "url": "https://www.skysports.com/football/news/13614031/premier-league-clubs-vote-to-cover-legal-costs-if-man-city-sponsors-sue-competitions-board-members",
+  "entities": [
+   "Premier League",
+   "Manchester City",
+   "Etihad Airways",
+   "Etisalat",
+   "Nottingham Forest",
+   "Richard Masters",
+   "Alison Brittain"
+  ],
+  "facts": [
+   "On 19 November clubs voted 18-2 to indemnify five board members, including chair Alison Brittain and chief executive Richard Masters, if sued personally over possible defamation claims.",
+   "Manchester City and Nottingham Forest voted against; Forest said its vote was procedural and not support for City.",
+   "The vote follows the commission's September findings against City; Etihad is seeking legal advice and Etisalat called the findings false and defamatory.",
+   "City are appealing, saying the commission's opinion has material errors of law, principle and fact."
+  ],
+  "background": "City were charged in February 2023 over more than 100 alleged breaches of Premier League financial rules, and the original hearing ran from September to December 2024.",
+  "angle": "business",
+  "sensitive": false,
+  "footage_terms": [
+   "Manchester City 115 charges explained",
+   "Premier League chief executive Richard Masters",
+   "Etihad Stadium Manchester City"
+  ],
+  "confidence": "high"
+ },
+ {
+  "headline": "Man City found guilty of breaking more than 100 Premier League financial rules",
+  "date": "2026-09-30",
+  "source_domain": "skysports.com",
+  "url": "https://www.skysports.com/football/news/13290810/man-city-charges-verdict-club-found-guilty-of-all-charges-related-to-serious-breaches-of-premier-league-financial-rules",
+  "entities": [
+   "Manchester City",
+   "Premier League",
+   "Abu Dhabi United Group",
+   "Ferran Soriano",
+   "Richard Masters"
+  ],
+  "facts": [
+   "An independent commission found City used sham sponsorship contracts between 2009/10 and 2017/18 to inflate revenue by 830 million pounds.",
+   "It also found misleading accounts, breaches of Premier League and UEFA spending limits, and a failure to cooperate; three of four cooperation-related charges were upheld and one was not proven.",
+   "No sanction has been set yet; a further hearing will decide it, with points deductions, fines, transfer bans or expulsion all possible.",
+   "City lodged an appeal on 1 October; the rules point to a decision around Christmas or January, and the club says it is innocent."
+  ],
+  "background": "The period covered by the case is 2009/10 to 2017/18, and City were first charged in February 2023.",
+  "angle": "scandal",
+  "sensitive": false,
+  "footage_terms": [
+   "Manchester City verdict Premier League reaction",
+   "Ferran Soriano Manchester City",
+   "Manchester City title celebrations"
+  ],
+  "confidence": "high"
+ },
+ {
+  "headline": "Liverpool fan cleared after Antoine Semenyo withdraws support for racial-abuse prosecution",
+  "date": "2026-11-20",
+  "source_domain": "skysports.com",
+  "url": "https://www.skysports.com/football/news/13614319/antoine-semenyo-manchester-city-forward-withdraws-support-for-prosecution-of-liverpool-fan-in-racial-abuse-case",
+  "entities": [
+   "Antoine Semenyo",
+   "Manchester City",
+   "Liverpool",
+   "Bournemouth"
+  ],
+  "facts": [
+   "A Liverpool fan was charged with racially aggravated behaviour over alleged abuse of Semenyo at Anfield on 15 August 2025, when Semenyo played for Bournemouth.",
+   "Semenyo was due to give evidence at Liverpool Magistrates' Court on 20 November 2026 but the prosecution said he was no longer supportive of proceedings.",
+   "The prosecution offered no evidence and the judge recorded a not-guilty verdict.",
+   "The trial had been adjourned in October when the defendant was taken to hospital after a seizure."
+  ],
+  "background": "Semenyo left Bournemouth for Manchester City in January 2026.",
+  "angle": "scandal",
+  "sensitive": true,
+  "footage_terms": [
+   "Semenyo Manchester City goals",
+   "Liverpool Bournemouth Anfield Semenyo",
+   "Semenyo interview"
+  ],
+  "confidence": "high"
+ },
+ {
+  "headline": "Infantino apologises to FIFA Council over abandoned World Cup stake sale",
+  "date": "2026-10-15",
+  "source_domain": "skysports.com",
+  "url": "https://www.skysports.com/football/news/13569748/gianni-infantino-fifa-president-apologises-for-world-cup-sell-off-plan-but-fa-and-other-european-leaders-still-want-him-to-resign",
+  "entities": [
+   "Gianni Infantino",
+   "FIFA",
+   "UEFA",
+   "The FA",
+   "Debbie Hewitt",
+   "Donald Trump"
+  ],
+  "facts": [
+   "At a three-hour Council meeting in Zurich on 15 October, Infantino apologised for not telling the Council sooner about a plan to sell a 20 percent stake in future FIFA tournaments to private investors.",
+   "The plan was dropped after strong opposition; the FA and UEFA still want him to resign, and UEFA wants all documents on the plan.",
+   "A FIFA Peace Prize given to Donald Trump in December 2025 is under review, with a decision due at the December 2026 Council meeting.",
+   "Infantino is seeking a fourth term at the March 2027 election in Morocco."
+  ],
+  "background": "Infantino has led FIFA since 2016, and the Peace Prize to Trump has so far been its only award.",
+  "angle": "business",
+  "sensitive": false,
+  "footage_terms": [
+   "Infantino FIFA Council Zurich",
+   "Infantino Trump FIFA Peace Prize",
+   "FIFA World Cup sell-off plan"
+  ],
+  "confidence": "high"
+ },
+ {
+  "headline": "Balogun's World Cup ban suspended after Trump call; FIFA to review disciplinary process",
+  "date": "2026-10-15",
+  "source_domain": "skysports.com",
+  "url": "https://www.skysports.com/football/news/13599400/gianni-infantino-the-key-questions-facing-fifa-president-at-crunch-council-meeting",
+  "entities": [
+   "Folarin Balogun",
+   "Donald Trump",
+   "Gianni Infantino",
+   "FIFA",
+   "USA"
+  ],
+  "facts": [
+   "The one-match ban on USA striker Folarin Balogun was suspended during the World Cup, after a call from Donald Trump to Infantino, according to Sky's report of the Council background.",
+   "Balogun played for the USA against Belgium while suspended; Sky raises questions about whether Trump or Infantino pressured the disciplinary committee.",
+   "FIFA's Legal Committee will review disciplinary procedures, with findings due at the December 2026 Council meeting.",
+   "The FA wrote to Infantino on 17 September about the World Cup sell-off plan and the Balogun controversy."
+  ],
+  "background": "Balogun is a USA international whose move from Monaco to Everton collapsed on deadline day in September 2026.",
+  "angle": "scandal",
+  "sensitive": false,
+  "footage_terms": [
+   "Balogun USA Belgium World Cup",
+   "Balogun red card World Cup",
+   "Infantino Trump Balogun"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "headline": "New York judge denies FIFA subsidiaries' bid to block UEFA evidence request over World Cup investor plan",
+  "date": "2026-11-12",
+  "source_domain": "espn.com",
+  "url": "https://www.espn.com/soccer/story/_/id/50463328/fifa-uefa-case-disclosure-new-york-court-thrive-jp-morgan",
+  "entities": [
+   "UEFA",
+   "FIFA",
+   "Thrive",
+   "JP Morgan",
+   "Gianni Infantino",
+   "Joshua Kushner"
+  ],
+  "facts": [
+   "Judge Jeannette Vargas in the Southern District of New York denied motions by FIFA (Americas) Inc. and FWC2026 US, Inc. to intervene against UEFA's evidence request.",
+   "UEFA wants evidence about the FIFA Forward Enterprise plan from targets including Thrive, the investment firm of Joshua Kushner, and JP Morgan; no documents have yet been ordered.",
+   "UEFA filed in August as part of a wider effort to remove Infantino, including a possible criminal complaint in Switzerland.",
+   "ESPN reported on 19 November that UEFA also wrote to FIFA demanding documents about Infantino's role in the scheme."
+  ],
+  "background": "The plan aimed to raise about 20 billion dollars by selling stakes in future World Cups and was dropped after a global backlash.",
+  "angle": "business",
+  "sensitive": true,
+  "footage_terms": [
+   "UEFA FIFA court New York Infantino",
+   "Ceferin Infantino conflict",
+   "FIFA Forward Enterprise explained"
+  ],
+  "confidence": "high"
+ },
+ {
+  "headline": "FIFA chief legal and compliance officer Emilio Garcia Silvero steps down amid Infantino turmoil",
+  "date": "2026-11-06",
+  "source_domain": "espn.com",
+  "url": "https://www.espn.com/soccer/story/_/id/50399850/fifa-chief-legal-compliance-officer-steps-down",
+  "entities": [
+   "Emilio Garcia Silvero",
+   "FIFA",
+   "Kevin Lamour",
+   "Arsene Wenger",
+   "Gianni Infantino"
+  ],
+  "facts": [
+   "FIFA confirmed on 6 November that Garcia Silvero is leaving for a new professional chapter in Madrid after eight years in the role.",
+   "COO Kevin Lamour left in August and said the plan to sell a stake in World Cup commercial rights had 'deceived' FIFA's administration.",
+   "Arsene Wenger is reportedly not expected to renew his contract as chief of global football development.",
+   "Jan Kleiner will temporarily oversee the legal and compliance departments."
+  ],
+  "background": "Garcia Silvero worked with Infantino at UEFA and followed him to FIFA, and also sits on the management board of the Court of Arbitration for Sport.",
+  "angle": "business",
+  "sensitive": false,
+  "footage_terms": [
+   "FIFA executives resign Infantino",
+   "Infantino FIFA Congress",
+   "Arsene Wenger FIFA"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "headline": "Drone films 12 minutes of Pochettino's first Man United training session",
+  "date": "2026-11-19",
+  "source_domain": "skysports.com",
+  "url": "https://www.skysports.com/football/news/13614271/manchester-united-drone-operator-removes-training-footage-of-mauricio-pochettinos-first-training-session-and-apologises",
+  "entities": [
+   "Manchester United",
+   "Mauricio Pochettino",
+   "Liverpool",
+   "Andoni Iraola"
+  ],
+  "facts": [
+   "A drone operator filmed about 12 minutes of tactical drills at Carrington on 19 November, and reposts on X were viewed more than eight million times.",
+   "The operator apologised and removed the video, saying the flight was legal but filming the session was unethical.",
+   "United do not plan legal action now, as media were authorised to attend, but may act if it happens again; Goal says the club believes several laws were broken.",
+   "Liverpool coach Iraola said such filming should not be legal; the session came before United's trip to Anfield on 22 November."
+  ],
+  "background": "Pochettino is in his first week as United head coach, and United have won one game in 11.",
+  "angle": "viral",
+  "sensitive": false,
+  "footage_terms": [
+   "Pochettino Manchester United first training",
+   "Manchester United Carrington training",
+   "Liverpool Manchester United preview Anfield"
+  ],
+  "confidence": "high"
+ },
+ {
+  "headline": "Mudryk's podcast comments about his doping ban and Arsenal irritate Spurs fans",
+  "date": "2026-11-20",
+  "source_domain": "espn.com",
+  "url": "https://www.espn.com/soccer/story/_/id/50541230/tottenham-roberto-de-zerbi-mykhailo-mudryk-arsenal",
+  "entities": [
+   "Mykhailo Mudryk",
+   "Roberto De Zerbi",
+   "Tottenham",
+   "Arsenal",
+   "Chelsea"
+  ],
+  "facts": [
+   "On the Guest of Gordon podcast Mudryk discussed his drugs ban and how close he came to joining Arsenal in 2023, calling it his dream club.",
+   "Spurs fans were irked and Spurs were reportedly unaware of the appearance; De Zerbi defended him as a good person and player.",
+   "De Zerbi would not say whether the loan could be cancelled in January.",
+   "Mudryk is on loan from Chelsea, has played 16 minutes and is out with an ankle injury."
+  ],
+  "background": "Mudryk moved to Chelsea in 2023 in the same window in which Arsenal were interested, according to ESPN.",
+  "angle": "viral",
+  "sensitive": true,
+  "footage_terms": [
+   "Mudryk Tottenham interview",
+   "De Zerbi press conference Mudryk",
+   "Mudryk Chelsea highlights"
+  ],
+  "confidence": "high"
+ },
+ {
+  "headline": "Wrexham fined 75,000 pounds by EFL for fielding two unregistered players",
+  "date": "2026-10-28",
+  "source_domain": "espn.com",
+  "url": "https://www.espn.com/soccer/story/_/id/50311416/wrexham-fine-ineligible-players-english-league-championship",
+  "entities": [
+   "Wrexham",
+   "EFL",
+   "Issa Kabore",
+   "Callum O'Hare"
+  ],
+  "facts": [
+   "The EFL fined Wrexham 75,000 pounds, of which 25,000 is suspended, for selecting two ineligible players this season.",
+   "Issa Kabore played in the 2-1 home loss to Birmingham on 28 August without his registration documents properly submitted.",
+   "Callum O'Hare was in the matchday squad as an unused substitute against Millwall on 2 September, but was not registered in time.",
+   "Wrexham reached an agreed decision with the EFL and said it is taking steps to prevent a repeat."
+  ],
+  "background": "Wrexham are co-owned by Ryan Reynolds and Rob McElhenney and are playing in the Championship.",
+  "angle": "business",
+  "sensitive": false,
+  "footage_terms": [
+   "Wrexham Birmingham highlights",
+   "Wrexham Reynolds McElhenney",
+   "Wrexham Championship Parkinson"
+  ],
+  "confidence": "high"
+ },
+ {
+  "headline": "Neymar gets two-match ban for covering his mouth while confronting opponent",
+  "date": "2026-10-28",
+  "source_domain": "espn.com",
+  "url": "https://www.espn.com/soccer/story/_/id/50309333/neymar-suspension-red-card-cover-mouth-santos-bahia",
+  "entities": [
+   "Neymar",
+   "Santos",
+   "Bahia",
+   "Vinicius Junior"
+  ],
+  "facts": [
+   "Brazil's sports tribunal gave Neymar a two-match ban for covering his mouth with his hand while arguing with Bahia's Rodrigo Nestor, plus a third match for yellow cards.",
+   "The tribunal said he broke a protocol named after Vinicius Junior; Santos won the match 1-0.",
+   "Neymar and Santos can appeal the mouth-covering suspension."
+  ],
+  "background": "The protocol was created after racism cases involving Vinicius Junior; Neymar returned to Santos in 2025.",
+  "angle": "scandal",
+  "sensitive": false,
+  "footage_terms": [
+   "Neymar red card Santos Bahia",
+   "Neymar Santos highlights",
+   "Neymar reaction red card covering mouth"
+  ],
+  "confidence": "high"
+ },
+ {
+  "headline": "Brazil court bans Internacional defender until injured Cruzeiro forward Gabriel Pec returns",
+  "date": "2026-07-28",
+  "source_domain": "espn.com",
+  "url": "https://www.espn.com/soccer/story/_/id/49476453/victor-gabriel-suspended-gabriel-pec-broken-leg-brazil",
+  "entities": [
+   "Victor Gabriel",
+   "Gabriel Pec",
+   "Internacional",
+   "Cruzeiro",
+   "Superior Court of Sports Justice"
+  ],
+  "facts": [
+   "On 28 July 2026 Brazil's Superior Court of Sports Justice suspended Victor Gabriel until Pec is back in training, capped at 180 days.",
+   "His tackle on 22 July fractured Pec's left tibia, and he was charged with violent play under Article 254.",
+   "The ruling was split: one judge wanted a standard six-match ban, but three others backed the longer penalty.",
+   "Gabriel said he did not mean to injure Pec and apologised; the decision can be appealed."
+  ],
+  "background": "Pec had just joined Cruzeiro from LA Galaxy in a club-record deal of at least 12 million dollars.",
+  "angle": "scandal",
+  "sensitive": true,
+  "footage_terms": [
+   "Gabriel Pec injury Cruzeiro Internacional",
+   "Gabriel Pec Cruzeiro highlights",
+   "Brazilian league violent tackle ban"
+  ],
+  "confidence": "high"
+ },
+ {
+  "headline": "Ex-San Diego FC striker Cedric Bakambu sues over alleged family-status housing discrimination",
+  "date": "2026-11-10",
+  "source_domain": "espn.com",
+  "url": "https://www.espn.com/soccer/story/_/id/50432573/ex-san-diego-cedric-bakambu-files-fair-housing-lawsuit",
+  "entities": [
+   "Cedric Bakambu",
+   "San Diego FC",
+   "Compass",
+   "JW Wealth"
+  ],
+  "facts": [
+   "Bakambu and his wife filed a federal lawsuit in the Southern District of California against property owners, Compass and two agents; MLS and San Diego FC are not named.",
+   "They allege discrimination because they have children, in a dispute about a pool barrier on a 17,500 dollars a month rental and a later Rancho Santa Fe offer.",
+   "Compass did not respond to ESPN; a Compass managing director allegedly said another applicant met requirements.",
+   "On 6 November Bakambu said on Instagram that he would no longer play for San Diego."
+  ],
+  "background": "Bakambu is a former Villarreal and Marseille striker who joined San Diego FC in the MLS.",
+  "angle": "scandal",
+  "sensitive": true,
+  "footage_terms": [
+   "Bakambu San Diego FC goals",
+   "Bakambu interview",
+   "San Diego FC MLS highlights"
+  ],
+  "confidence": "high"
+ },
+ {
+  "headline": "Turkey arrests head of referee committee and deputy in refereeing probe",
+  "date": "2026-09-29",
+  "source_domain": "espn.com",
+  "url": "https://www.espn.com/soccer/story/_/id/50059418/turkish-authorities-arrest-head-refereeing-body-amid-investigation",
+  "entities": [
+   "Turkish Football Federation",
+   "Akin Gurlek"
+  ],
+  "facts": [
+   "On 29 September 2026 Turkish authorities arrested the head of football refereeing, his deputy and five others, after morning raids.",
+   "Justice Minister Akin Gurlek announced it; the probe covers alleged irregularities in ranking, assigning and scoring referees.",
+   "No formal charges were described."
+  ],
+  "background": "Last year the Turkish federation suspended 149 referees and assistants over a betting scandal, and in July 17 club officials were detained in a betting and match-fixing probe.",
+  "angle": "scandal",
+  "sensitive": true,
+  "footage_terms": [
+   "Turkish referees betting scandal",
+   "Super Lig refereeing controversy",
+   "Galatasaray Fenerbahce referee"
+  ],
+  "confidence": "high"
+ },
+ {
+  "headline": "Haaland says Porto player grabbed his backside in ill-tempered Champions League clash",
+  "date": "2026-09-09",
+  "source_domain": "espn.com",
+  "url": "https://www.espn.com/soccer/story/_/id/49880158/manchester-city-erling-haaland-champions-league-porto-bottom-pablo-rosario",
+  "entities": [
+   "Erling Haaland",
+   "Pablo Rosario",
+   "Porto",
+   "Manchester City",
+   "Marc Guehi",
+   "Francesco Farioli"
+  ],
+  "facts": [
+   "Haaland scored both goals in City's 2-0 win at Porto on 8 September and says Rosario grabbed his backside in stoppage time; Haaland was booked after a scuffle.",
+   "Porto complained that Marc Guehi should have been sent off for arm-to-head contact on Gabri Veiga, and players clashed in the tunnel at half-time.",
+   "UEFA had announced no action; it will wait for referee and delegate reports before deciding."
+  ],
+  "background": "Haaland joined City in 2022; he now plays under Enzo Maresca.",
+  "angle": "viral",
+  "sensitive": false,
+  "footage_terms": [
+   "Porto Manchester City Haaland highlights",
+   "Haaland Rosario Porto",
+   "Porto Manchester City tunnel clash"
+  ],
+  "confidence": "high"
+ },
+ {
+  "headline": "Galatasaray and Fenerbahce players clash after Istanbul derby; coach promises punishment",
+  "date": "2026-10-27",
+  "source_domain": "espn.com",
+  "url": "https://www.espn.com/espn/story/_/id/50295059/post-match-chaos-sours-victor-osimhen-brace-galatasaray-win-fenerbahce",
+  "entities": [
+   "Galatasaray",
+   "Fenerbahce",
+   "Victor Osimhen",
+   "Okan Buruk",
+   "Archie Brown",
+   "Abdulkerim Bardakci"
+  ],
+  "facts": [
+   "Galatasaray beat Fenerbahce 2-1 on 26 October at RAMS Park, with Osimhen scoring twice.",
+   "Players from both sides clashed on the pitch right after the final whistle; Archie Brown and Abdulkerim Bardakci were named.",
+   "Galatasaray coach Okan Buruk said penalties would follow, but no sanctions were reported."
+  ],
+  "background": "Osimhen now has five goals in six appearances against Fenerbahce, with no defeats.",
+  "angle": "scandal",
+  "sensitive": false,
+  "footage_terms": [
+   "Galatasaray Fenerbahce derby brawl",
+   "Osimhen Galatasaray Fenerbahce goals",
+   "Istanbul derby highlights"
+  ],
+  "confidence": "high"
+ },
+ {
+  "headline": "Dani Alves ordered to pay Pumas 2.25 million dollars after Swiss court upholds CAS ruling",
+  "date": "2026-08-31",
+  "source_domain": "espn.com",
+  "url": "https://www.espn.com/soccer/story/_/id/49781333/dani-alves-pay-pumas-225m-cas-ruling-upheld",
+  "entities": [
+   "Dani Alves",
+   "Pumas UNAM",
+   "Court of Arbitration for Sport",
+   "Swiss Federal Court"
+  ],
+  "facts": [
+   "The Swiss Federal Court confirmed on 11 June a CAS ruling that Alves must pay Pumas 2.25 million dollars, plus legal and procedural costs.",
+   "Pumas ended his contract in January 2023 after his arrest in Barcelona on a sexual abuse accusation.",
+   "A Spanish court overturned his sexual assault conviction in March 2025 after 14 months in jail.",
+   "CAS overturned FIFA's Football Tribunal in September 2025, which had ruled against Pumas."
+  ],
+  "background": "Alves is 43 and became co-owner of Portuguese third-tier club Sporting Clube de Sao Joao de Ver earlier in 2026.",
+  "angle": "business",
+  "sensitive": true,
+  "footage_terms": [
+   "Dani Alves Pumas",
+   "Dani Alves career highlights",
+   "Dani Alves Barcelona"
+  ],
+  "confidence": "high"
+ },
+ {
+  "headline": "Ronaldo retires from Portugal duty after row with coach Jorge Jesus",
+  "date": "2026-11-05",
+  "source_domain": "espn.com",
+  "url": "https://www.espn.com/soccer/story/_/id/50075485/cristiano-ronaldo-long-history-rows-portugal-manchester-united-real-madrid-juventus-coaches",
+  "entities": [
+   "Cristiano Ronaldo",
+   "Jorge Jesus",
+   "Portugal",
+   "Portuguese Football Federation"
+  ],
+  "facts": [
+   "Ronaldo, 41, announced on 5 November that he has ended his international career, with record totals of 146 goals and 243 caps.",
+   "He walked out of camp in late September after being an unused substitute in a 2-1 win over Norway on 27 September.",
+   "He said Jesus broke two promises; Jesus said the same rules apply to everyone and later admitted he mishandled the situation.",
+   "Ronaldo apologised to teammates and said the federation should decide any consequences; Portugal won their next two games without him."
+  ],
+  "background": "Ronaldo's career has featured repeated rows with coaches at Manchester United, Real Madrid and Juventus.",
+  "angle": "scandal",
+  "sensitive": false,
+  "footage_terms": [
+   "Ronaldo Portugal retirement announcement",
+   "Ronaldo Jorge Jesus row",
+   "Ronaldo Portugal goals 146"
+  ],
+  "confidence": "high"
+ },
+ {
+  "headline": "Maignan sent off at Bournemouth, then suffers racist abuse online; Milan condemn it",
+  "date": "2026-10-23",
+  "source_domain": "espn.com",
+  "url": "https://www.espn.com/soccer/story/_/id/50259678/ac-milan-mike-maignan-red-card-racist-abuse-bournemouth",
+  "entities": [
+   "Mike Maignan",
+   "AC Milan",
+   "Bournemouth",
+   "Tyler Adams"
+  ],
+  "facts": [
+   "Maignan was sent off in the 27th minute on 22 October for pushing Tyler Adams after putting gloves in his face; Bournemouth scored the penalty and won 3-0.",
+   "Milan called the online abuse that followed 'serious and unacceptable racist abuse' and backed Maignan.",
+   "The article mentions no investigation or UEFA action."
+  ],
+  "background": "Maignan has spoken before about racist abuse, including walking off at Udinese in January 2024.",
+  "angle": "scandal",
+  "sensitive": true,
+  "footage_terms": [
+   "Maignan red card Bournemouth Milan",
+   "Bournemouth Milan Europa League highlights",
+   "Maignan Milan statement racism"
+  ],
+  "confidence": "high"
+ },
+ {
+  "headline": "Fenerbahce's Guendouzi banned two Champions League games after Lyon brawl",
+  "date": "2026-09-05",
+  "source_domain": "espn.com",
+  "url": "https://www.espn.com/soccer/story/_/id/49835255/fenerbahce-matteo-guendouzi-two-champions-league-games-banned-lyon-clashes",
+  "entities": [
+   "Matteo Guendouzi",
+   "Fenerbahce",
+   "Lyon",
+   "Mason Greenwood",
+   "UEFA"
+  ],
+  "facts": [
+   "UEFA banned Guendouzi for two Champions League games, including away at Aston Villa on 14 October, and fined him 50,000 euros.",
+   "The case came from the 26 August playoff at Lyon, where he made obscene gestures at Lyon fans and shouted pro-Marseille chants, sparking a mass brawl.",
+   "Lyon goalkeeper coach Antonio Ferreira got a three-game Europa League ban for kicking at Guendouzi; Mason Greenwood got a one-game ban deferred for a year, plus a fine."
+  ],
+  "background": "Guendouzi is a former Marseille player, which is why the chants angered Lyon fans.",
+  "angle": "scandal",
+  "sensitive": false,
+  "footage_terms": [
+   "Lyon Fenerbahce brawl Guendouzi",
+   "Guendouzi Marseille chants Lyon",
+   "Lyon Fenerbahce Champions League playoff highlights"
+  ],
+  "confidence": "high"
+ },
+ {
+  "headline": "Kyle Walker says he will not remove Man City tattoos, including '4 in a row'",
+  "date": "2026-10-22",
+  "source_domain": "espn.com",
+  "url": "https://www.espn.com/soccer/story/_/id/50246236/kyle-walker-man-city-guilty-charges-premier-league-breaches-verdict",
+  "entities": [
+   "Kyle Walker",
+   "Manchester City",
+   "Burnley"
+  ],
+  "facts": [
+   "Walker posted that he has never had any intention of removing his City tattoos, which include '4 in a row' for City's titles from 2020-21 to 2023-24.",
+   "On talkSPORT he said he would probably have to remove them if City lost their titles, then said his post was meant to correct misleading headlines.",
+   "The talk follows the commission verdict against City, which is under appeal."
+  ],
+  "background": "Walker won 15 major trophies, including six Premier League titles, at City between 2017 and 2025 and now plays for Burnley in the Championship.",
+  "angle": "viral",
+  "sensitive": false,
+  "footage_terms": [
+   "Kyle Walker Manchester City tattoo",
+   "Kyle Walker Burnley",
+   "Walker talkSPORT City charges"
+  ],
+  "confidence": "high"
+ }
+]

@@ -1,0 +1,779 @@
+{
+ "no": 24,
+ "style": "INK-COMIC",
+ "prop": "trophy",
+ "cast": {
+  "rodri": {
+   "role": "player",
+   "hair": "#2b2b3a",
+   "shirt": "#6cb4e4",
+   "number": "16"
+  },
+  "inspector": {
+   "role": "staff",
+   "shirt": "#5b6b8a"
+  },
+  "analyst": {
+   "role": "pundit",
+   "shirt": "#c9433b"
+  }
+ },
+ "sequences": {
+  "s01": {
+   "type": "HOOK",
+   "q": "A Ballon d'Or winner with zero accounts?",
+   "prop": "phone",
+   "emote": "shock",
+   "board": "ticket"
+  },
+  "s02": {
+   "type": "COMIC",
+   "bg": "street",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "rodri",
+       "x": 280,
+       "y": 1440,
+       "pose": "present",
+       "emote": "neutral",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "phone",
+       "x": 700,
+       "y": 780,
+       "scale": 2.6,
+       "face": "sleepy"
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.42,
+     "actors": [
+      {
+       "id": "rodri",
+       "x": 280,
+       "y": 1440,
+       "pose": "shrug",
+       "emote": "smug",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "phone",
+       "x": 380,
+       "y": 1130,
+       "scale": 0.8
+      }
+     ],
+     "cam": "push"
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.42,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "rodri",
+       "x": 280,
+       "y": 1440,
+       "pose": "shock",
+       "emote": "shock",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "phone",
+       "x": 600,
+       "y": 900,
+       "scale": 0.8,
+       "rot": 20
+      },
+      {
+       "kind": "paper-plane",
+       "x": 700,
+       "y": 800,
+       "scale": 1.6,
+       "face": "smug",
+       "anim": "slide-r"
+      }
+     ],
+     "sfx": {
+      "text": "WHOOSH",
+      "x": 780,
+      "y": 560,
+      "r": 110
+     },
+     "fx": [
+      {
+       "kind": "speed",
+       "x": 640,
+       "y": 850
+      }
+     ]
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "rodri",
+       "x": 280,
+       "y": 1440,
+       "pose": "shrug",
+       "emote": "wink",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "phone",
+       "x": 820,
+       "y": 1010,
+       "scale": 1.2
+      },
+      {
+       "kind": "paper-plane",
+       "x": 800,
+       "y": 760,
+       "scale": 1.7,
+       "face": "happy"
+      },
+      {
+       "kind": "trophy",
+       "x": 560,
+       "y": 800,
+       "scale": 1.1,
+       "anim": "drop"
+      },
+      {
+       "kind": "thumbs-up",
+       "x": 560,
+       "y": 1130,
+       "scale": 1.0
+      },
+      {
+       "kind": "sticker",
+       "x": 640,
+       "y": 1190,
+       "scale": 0.6,
+       "text": "0"
+      }
+     ],
+     "sfx": {
+      "text": "DING",
+      "x": 280,
+      "y": 520,
+      "r": 100
+     }
+    }
+   ]
+  },
+  "s03": {
+   "type": "INTERVIEW",
+   "label": "REPORTER ASKS",
+   "bubble": "Park or social media?",
+   "answer": {
+    "icon": "plant",
+    "gesture": "thumbsup",
+    "emote": "happy"
+   },
+   "subject": "Rodri",
+   "subject_cast": "rodri"
+  },
+  "s04": {
+   "type": "NEWS",
+   "name": "Rodri",
+   "fact": "he picked the park and his village",
+   "ticker": "The park first",
+   "icons": [
+    "plant",
+    "phone",
+    "cross"
+   ],
+   "role": "player",
+   "actor": "rodri"
+  },
+  "s05": {
+   "type": "COMIC",
+   "bg": "plain-colour",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "rodri",
+       "x": 270,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "neutral",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "door",
+       "x": 560,
+       "y": 950,
+       "scale": 2.2,
+       "layer": "back"
+      },
+      {
+       "kind": "clock",
+       "x": 560,
+       "y": 540,
+       "scale": 0.9,
+       "layer": "back"
+      },
+      {
+       "kind": "bench",
+       "x": 560,
+       "y": 1370,
+       "scale": 1.7,
+       "layer": "back"
+      },
+      {
+       "kind": "bench",
+       "x": 960,
+       "y": 1370,
+       "scale": 1.5,
+       "layer": "back"
+      },
+      {
+       "kind": "shelf",
+       "x": 230,
+       "y": 450,
+       "scale": 2.2,
+       "layer": "back"
+      },
+      {
+       "kind": "ladder",
+       "x": 230,
+       "y": 482,
+       "scale": 1.1,
+       "rot": 90,
+       "label": "His bike"
+      },
+      {
+       "kind": "trophy",
+       "x": 560,
+       "y": 860,
+       "scale": 0.6
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.42,
+     "actors": [
+      {
+       "id": "rodri",
+       "x": 270,
+       "y": 1440,
+       "pose": "present",
+       "emote": "happy",
+       "scale": 1.4
+      }
+     ],
+     "props": [
+      {
+       "kind": "door",
+       "x": 560,
+       "y": 950,
+       "scale": 2.2,
+       "layer": "back"
+      },
+      {
+       "kind": "clock",
+       "x": 560,
+       "y": 540,
+       "scale": 0.9,
+       "layer": "back"
+      },
+      {
+       "kind": "bench",
+       "x": 560,
+       "y": 1370,
+       "scale": 1.7,
+       "layer": "back"
+      },
+      {
+       "kind": "bench",
+       "x": 960,
+       "y": 1370,
+       "scale": 1.5,
+       "layer": "back"
+      },
+      {
+       "kind": "shelf",
+       "x": 230,
+       "y": 450,
+       "scale": 2.2,
+       "layer": "back"
+      },
+      {
+       "kind": "ladder",
+       "x": 230,
+       "y": 482,
+       "scale": 1.1,
+       "rot": 90,
+       "label": "His bike"
+      },
+      {
+       "kind": "trophy",
+       "x": 560,
+       "y": 1190,
+       "scale": 1.0
+      }
+     ],
+     "cam": "push"
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.42,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "rodri",
+       "x": 270,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "smug",
+       "scale": 1.4
+      },
+      {
+       "id": "inspector",
+       "x": 840,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "neutral",
+       "scale": 1.2,
+       "flip": true
+      }
+     ],
+     "props": [
+      {
+       "kind": "door",
+       "x": 560,
+       "y": 950,
+       "scale": 2.2,
+       "layer": "back"
+      },
+      {
+       "kind": "clock",
+       "x": 560,
+       "y": 540,
+       "scale": 0.9,
+       "layer": "back"
+      },
+      {
+       "kind": "bench",
+       "x": 560,
+       "y": 1370,
+       "scale": 1.7,
+       "layer": "back"
+      },
+      {
+       "kind": "bench",
+       "x": 960,
+       "y": 1370,
+       "scale": 1.5,
+       "layer": "back"
+      },
+      {
+       "kind": "shelf",
+       "x": 230,
+       "y": 450,
+       "scale": 2.2,
+       "layer": "back"
+      },
+      {
+       "kind": "ladder",
+       "x": 230,
+       "y": 482,
+       "scale": 1.1,
+       "rot": 90,
+       "label": "His bike"
+      },
+      {
+       "kind": "trophy",
+       "x": 560,
+       "y": 1190,
+       "scale": 1.0
+      }
+     ],
+     "sfx": {
+      "text": "CLANG",
+      "x": 600,
+      "y": 700,
+      "r": 110
+     }
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "rodri",
+       "x": 270,
+       "y": 1440,
+       "pose": "shrug",
+       "emote": "sweat",
+       "scale": 1.4
+      },
+      {
+       "id": "inspector",
+       "x": 840,
+       "y": 1440,
+       "pose": "point",
+       "emote": "angry-cheeky",
+       "scale": 1.2,
+       "flip": true,
+       "hold": {
+        "kind": "ticket",
+        "hand": "R",
+        "scale": 0.7
+       }
+      }
+     ],
+     "props": [
+      {
+       "kind": "door",
+       "x": 560,
+       "y": 950,
+       "scale": 2.2,
+       "layer": "back"
+      },
+      {
+       "kind": "clock",
+       "x": 560,
+       "y": 540,
+       "scale": 0.9,
+       "layer": "back"
+      },
+      {
+       "kind": "bench",
+       "x": 560,
+       "y": 1370,
+       "scale": 1.7,
+       "layer": "back"
+      },
+      {
+       "kind": "bench",
+       "x": 960,
+       "y": 1370,
+       "scale": 1.5,
+       "layer": "back"
+      },
+      {
+       "kind": "shelf",
+       "x": 230,
+       "y": 450,
+       "scale": 2.2,
+       "layer": "back"
+      },
+      {
+       "kind": "ladder",
+       "x": 230,
+       "y": 482,
+       "scale": 1.1,
+       "rot": 90,
+       "label": "His bike"
+      },
+      {
+       "kind": "trophy",
+       "x": 560,
+       "y": 1190,
+       "scale": 1.0
+      }
+     ],
+     "bubble": {
+      "who": "inspector",
+      "icon": "question"
+     }
+    }
+   ]
+  },
+  "s06": {
+   "type": "COMIC",
+   "bg": "stadium",
+   "beats": [
+    {
+     "phase": "SETUP",
+     "t0": 0,
+     "t1": 0.26,
+     "actors": [
+      {
+       "id": "rodri",
+       "x": 160,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "neutral",
+       "scale": 1.35
+      },
+      {
+       "id": "analyst",
+       "x": 920,
+       "y": 1440,
+       "pose": "present",
+       "emote": "happy",
+       "scale": 1.2,
+       "flip": true,
+       "hold": {
+        "kind": "clipboard",
+        "hand": "both",
+        "scale": 0.8
+       }
+      }
+     ],
+     "props": [
+      {
+       "kind": "ball",
+       "x": 390,
+       "y": 1170,
+       "scale": 3.2,
+       "layer": "back"
+      },
+      {
+       "kind": "trophy",
+       "x": 330,
+       "y": 800,
+       "scale": 1.0
+      },
+      {
+       "kind": "sticker",
+       "x": 240,
+       "y": 520,
+       "scale": 1.3,
+       "text": "96"
+      }
+     ]
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.26,
+     "t1": 0.42,
+     "actors": [
+      {
+       "id": "rodri",
+       "x": 390,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "neutral",
+       "scale": 1.35
+      },
+      {
+       "id": "analyst",
+       "x": 920,
+       "y": 1440,
+       "pose": "present",
+       "emote": "happy",
+       "scale": 1.2,
+       "flip": true,
+       "hold": {
+        "kind": "clipboard",
+        "hand": "both",
+        "scale": 0.8
+       }
+      }
+     ],
+     "props": [
+      {
+       "kind": "ball",
+       "x": 390,
+       "y": 1170,
+       "scale": 3.2,
+       "layer": "back"
+      },
+      {
+       "kind": "trophy",
+       "x": 330,
+       "y": 800,
+       "scale": 1.0
+      },
+      {
+       "kind": "sticker",
+       "x": 240,
+       "y": 520,
+       "scale": 1.3,
+       "text": "96"
+      }
+     ],
+     "cam": "pan"
+    },
+    {
+     "phase": "GAG",
+     "t0": 0.42,
+     "t1": 0.54,
+     "actors": [
+      {
+       "id": "rodri",
+       "x": 620,
+       "y": 1440,
+       "pose": "idle",
+       "emote": "smug",
+       "scale": 1.35,
+       "flip": true
+      },
+      {
+       "id": "analyst",
+       "x": 920,
+       "y": 1440,
+       "pose": "present",
+       "emote": "happy",
+       "scale": 1.2,
+       "flip": true,
+       "hold": {
+        "kind": "clipboard",
+        "hand": "both",
+        "scale": 0.8
+       }
+      }
+     ],
+     "props": [
+      {
+       "kind": "ball",
+       "x": 390,
+       "y": 1170,
+       "scale": 3.2,
+       "layer": "back"
+      },
+      {
+       "kind": "trophy",
+       "x": 330,
+       "y": 800,
+       "scale": 1.0
+      },
+      {
+       "kind": "sticker",
+       "x": 240,
+       "y": 520,
+       "scale": 1.3,
+       "text": "96"
+      }
+     ]
+    },
+    {
+     "phase": "BEAT",
+     "t0": 0.54,
+     "t1": 0.64
+    },
+    {
+     "phase": "TWIST",
+     "t0": 0.64,
+     "t1": 1.0,
+     "actors": [
+      {
+       "id": "rodri",
+       "x": 620,
+       "y": 1440,
+       "pose": "shrug",
+       "emote": "smug",
+       "scale": 1.35,
+       "flip": true
+      },
+      {
+       "id": "analyst",
+       "x": 920,
+       "y": 1440,
+       "pose": "facepalm",
+       "emote": "sweat",
+       "scale": 1.2,
+       "flip": true,
+       "hold": {
+        "kind": "clipboard",
+        "hand": "both",
+        "scale": 0.8
+       }
+      }
+     ],
+     "props": [
+      {
+       "kind": "ball",
+       "x": 390,
+       "y": 1170,
+       "scale": 3.2,
+       "layer": "back"
+      },
+      {
+       "kind": "trophy",
+       "x": 330,
+       "y": 800,
+       "scale": 1.0
+      },
+      {
+       "kind": "sticker",
+       "x": 240,
+       "y": 520,
+       "scale": 1.3,
+       "text": "0"
+      }
+     ],
+     "sfx": {
+      "text": "DING",
+      "x": 660,
+      "y": 520,
+      "r": 100
+     }
+    }
+   ]
+  },
+  "s07": {
+   "type": "STATS",
+   "items": [
+    {
+     "icon": "ball",
+     "value": "0",
+     "label": "zero goals"
+    },
+    {
+     "icon": "boot",
+     "value": "0",
+     "label": "zero assists"
+    },
+    {
+     "icon": "chart-up",
+     "value": "96",
+     "label": "kilometres"
+    }
+   ]
+  },
+  "s08": {
+   "type": "PROVOC",
+   "q": "Golden Ball for zero goals?",
+   "a": "Deserved",
+   "b": "Bonkers",
+   "split": [
+    61,
+    39
+   ],
+   "mood": "shock"
+  }
+ }
+}
